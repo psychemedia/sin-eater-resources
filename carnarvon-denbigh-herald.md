@@ -6,8 +6,8 @@
 https://newspapers.library.wales/view/3600951/3600955/42/
 Carnarvon and Denbigh Herald and North and South Wales Independent
 29th January 1892 p4
-
-In February there will be a joint meeting of the Cymmrodor- ion and Folk Lore Societies, at which Mr E. Sidney Hartland, formerly of Swansea, author of The Science of Folk Tales," will read a paper on The Sin-Eater."
+THE CYMMRODORION SESSION
+... In February there will be a joint meeting of the Cymmrodorion and Folk Lore Societies, at which Mr E. Sidney Hartland, formerly of Swansea, author of "The Science of Folk Tales," will read a paper on "The Sin-Eater." ...
 
 
 ---

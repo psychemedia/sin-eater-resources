@@ -128,6 +128,8 @@ Rev H. Elwyn Thomas
 Chapter XXVII
 
 
+?? includes image
+
 Three significant and outstanding facts came into light as the result of the search which tended to destroy all hope in the breasts of some of the searchers, facts which made it extremely difficult even for Hywel himself to go on asserting that he felt quite certain that Nell was still alive, whatever had happened to her. The first of these was the fa.ct that Master Francis Lloyd had never been seen at Maesy- felin after the morning he had been visited there by the Old Vicar and Mistress Owen. The second that there was a deep wound on the left side of Samuel Pritchard's head when his body was found in the Towy, show- ing—indeed, proving—that violent hands had robbed him of his l'iff- The third, and, by far, the most disturbing of the three, was the verified fact that Shon Jones bad been released from Northampton Gaol through the powerful influence of his father. Every clue furnished by these facts had been followed by Hywel and his friends to the utmost of their abilities, but still there was no trace of the missing girl. Francis Lloyd was found to be in London attending assidu- ously to his Parliamentary duties and hardly ever leaving his town house. The mystery of Samuel Pritchard's death seemed to deepen the more it was looked into. But the greatest mystery of all was that connected with Shon Jones. Hywel went straight, upon reoeiving the news of his release, to Ystrad Ffin. There he learnt from his father, who showed him the utmost kindness and sympathy and acted throughout like a born gentleman, notwith- standing the wild escapades of his younger days, that his youngest son had completely lost his reason while in gaol, owing, so the physician asserted, to the dog-bites he suffered from when he entered. As he would be a harmless witling for the rest of bis life, the authorities gave him bis freedom, "whioh," he added with a sigh, "he has enjoyed by roaming about the country, a perfect ghost of his former self, living the life of a nomad, and performing the horrible functions of a Sin-eater, in which some Papist fools have encouraged him." 
 
 ...
@@ -142,11 +144,11 @@ https://newspapers.library.wales/view/3379772/3379777/127/
 Weekly Mail
 11th September 1909 p5
 
-
 THe Forerunner 
 Rev H. Elwyn Thomas
 Chapter XXVIII
 
+??includes image
 
 "They obeyed the Church, and only the Church, and they argued that, as a faithful son of the Church, its appointed Sin-Eater in the district, had practically sacrificed his earthy happiness to his zeal to win a convert, and had brought her to the Priory without using any force- in fact, without even touching her person- she was there for aye, and they had no power to restore her to the world even if they wished.
 

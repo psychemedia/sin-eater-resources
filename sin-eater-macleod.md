@@ -1,11 +1,5 @@
 
-https://newspapers.library.wales/view/3098997/3099002/29/
-Merthyr Times and Dowlais Times and Aberdare Echo
-7th November 1895 p5
-
-Miss Fiona Macleod's new book, The Sin-eater, published this week, doubtless contains curious and interesting facts about this practice in the Celtic portions of northern Scotland. At any rate, her former books, "The Mountain Lovers and Pharais," deal with cognate subjects, and throw much valuable light on the daily life, character- istics, and superstitions of our kinsmen, the Gaels of the Scotch Highlands.
-
-
+---
 
 https://archive.org/details/sineaterothertal00sharuoft
 
