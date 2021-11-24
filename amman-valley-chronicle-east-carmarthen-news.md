@@ -6,7 +6,7 @@ https://newspapers.library.wales/view/4012820/4012821/1/sin%20eater
 The Amman Valley Chronicle and East Carmarthen News
 23rd July 1914 p1
 
-Sin- Eating" in the Amman Valley.
+"Sin-Eating" in the Amman Valley.
 
 DOES ANYONE KNOW OF IT?
 

@@ -626,3 +626,18 @@ end  to  it  in  the  Pembrokeshire  village  where  he  had
 formerly  been. 
 July  27,  1893.  Gertrude  Hope. 
 
+
+---
+https://archive.org/details/sim_folklore_1958-06_69_2/page/114/mode/2up?q=%22sin-eating%22
+Folklore  1958-06: Vol 69 Iss 2
+
+Publication date 1958-06
+p155
+
+The practice of Sin-Eating, was, apparently, common in the Fens until the last decade or two of the last century. An old lady who died in 1906 has recorded how, as a young schoolmistress in Little Ouse, she learned how the sin-eater, who, incidentally, was shunned by all the villagers, qualified for the profession. She took a large dose of poppy tea to render her unconscious. Neighbours sent for the minister who, on seeing her, said it seemed she would not recover. He read the prayers for the dying and gave her absolution. Soon after his departure the woman sat up and gradually recovered. She was then assured by her friends that as she was now free from her own sins by virtue of the absolution, she was now free to take on those of others.
+
+The sin-eater, after eating the half-round of bread and the little pile of salt placed on the shrouds of the dead, would receive as payment thirty pennies, which had been dipped in whitewash to make them resemble silver.
+
+
+p115
+

@@ -24,4 +24,3 @@ of Tanjore died in 1801, some of his bones and the bones of the two wives, who w
 
 ---
 
-

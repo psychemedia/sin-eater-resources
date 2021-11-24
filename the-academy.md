@@ -1,7 +1,7 @@
 
+https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+
 The Academy  1876-02-05: Vol 9 Iss 196
 
-https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+
 
 Publication date 1876-02-05
 
@@ -551,7 +551,7 @@ The Academy  1895-11-09: Vol 48 Iss 1227
 
 Publication date 1895-11-09
 
-pp??
+pp387-8
 
 
 
@@ -921,7 +921,7 @@ E. SmpnEyY HarrTLanp,
 https://archive.org/details/sim_academy-and-literature_1895-11-16_48_1228/page/412/mode/2up?q=sin
 The Academy  1895-11-16: Vol 48 Iss 1228
 November 1895
-pp??
+pp413-4
 
 
 THE SIN-EATER IN WALES. 
@@ -1164,14 +1164,14 @@ to reserve for next week.
 
 E. StpngEY HARTLAND. 
 
-
+---
 
 https://archive.org/details/sim_academy-and-literature_1895-11-23_48_1229/mode/2up?q=sin+eater
 
 The Academy  1895-11-23: Vol 48 Iss 1229
 Publication date 1895-11-23
 
-
+p435
 
 CORRESPONDENCE. 
 
@@ -1448,3 +1448,1714 @@ THE ACADEMY.
 
 
 [Nov. 23, 1895.—No. 1229, 
+
+---
+https://archive.org/details/sim_academy-and-literature_1896-01-11_49_1236/page/36/mode/2up?q=%22sin-eating%22
+
+The Academy  1896-01-11: Vol 49 Iss 1236
+
+Publication date 1896-01-11
+
+
+
+
+THE SIN-EATER IN WALES. 
+Highgarth, Gloucester : Jan. 6, 1896. 
+
+I will not venture to emulate Mr. Owen by 
+asserting that ie has committed blunders; but 
+T would point out: (1) That I read no paper 
+before the British Association—as my letter 
+in the ACADEMY of November 9 shows, I simply 
+spoke in the course of a discussion on canni- 
+balism ; (2) that I have not attempted to prove 
+that the custom of Sin-eating is Celtic, but 
+that there was a custom of the kind in Wales; 
+and(3)that I have not attempted to prove, either 
+in what I said at the British Association or in 
+my letters to the Times and the ACADEMY, 
+that the Welsh funeral custom of the Diodles 
+“isa mutilated survival of a cannibalistic savage 
+rite formerly practised by the Celts, the central 
+feature of which was eating the corpse.” My 
+paper in Folklore, published more than three 
+and a half years ago, indeed gave an outline 
+of an argument to this effect, which I have 
+since much amplified and strengthened in the 
+book referred to in the last of my three previous 
+letters to the AcADEMY. My letters to the 
+Times and the ACADEMY were merely directed 
+to answering the arguments of Mr. N. W. 
+Thomas and Canon Silvan Evans, to the effect 
+that Sin-eating had never been practised in 
+Wales; and I submit that Mr. Owen has not 
+seriously attempted to controvert my position. 
+
+
+
+
+
+° There is a life of the well-known Quaker, 
+John Burneyeat, in the Dictionary of National 
+Biography, vii., p. 420 sq., where it is stated that in 
+1683 **the Irish authorities became troubled by 
+the rapid increase of Quakerism, - and 
+Burneyeat, who was the most active disseminator 
+of the creed, was arrested at a meeting and sent to 
+prison, though no formal charge seems to have 
+been brought against him. After two months he 
+Was unconditionally released by order of the Earl 
+of Arran.” Lord Arran, too, was an old friend of 
+Penn (Dixon, p. 69). 
+
+
+I have forgotten what I admitted in a private 
+letter to Mr. Owen three months ago; but the 
+context of his letter in the ACADEMY of Decem- 
+ber 7 appears to show that it had reference to 
+the absence of the word “ Sin-eater” in Welsh. 
+Now, as this was one of the very arguments of 
+Canon Silvan Evans which I was endeavouring 
+
+
+¢ | to meet, it is manifest that I did not commit 
+
+
+the blunder Mr. Owen alleges of withholding 
+that ery “ 
+
+He is to be congratulated on his capacity for 
+talking round a subject. I shall 0 fiiew 
+him in his interesting but discursive remarks, 
+but shall content myself with observations on 
+one or two points. He complains that I have 
+absolutely ignored Christian rites. Quite so ; 
+I was not dealing with the origin, but merely 
+with the fact. When, however, he has 
+mastered in its fuller shape my argument, 
+as to the origin and meaning of the ceremony 
+of Sin-eating, and is prepared to produce in 
+detail the evidence that the Welsh and other 
+customs are part of any Christian ritual, I shall 
+be happy to discuss the question with him at 
+the proper time and place. Meanwhile, I should 
+like to draw his attention to the fact that the 
+customs described by Robert Jones, by Aubrey, 
+and by Pennant, are not apparently connected 
+with any ecclesiastical ritual or Christian 
+doctrine. It is true that they are described 
+in Welsh books written under the influence of 
+the Methodist Revival as relics of Popery. But 
+Robert Jones and his compeers were not 
+scientific students of custom. They simply 
+lumped together as Popish all old customs 
+which they thought to savour of heathenism. 
+Is Mr. Owen a belated follower of that school 
+of thought? It may be conceded that some of 
+the customs described in the Drych and else- 
+where were relics of Roman Catholicism. Such 
+is the practice mentioned by Robert Jones, 
+which Mr. Owen censures me for omitting: 
+namely, that of going to the grave on the first 
+Sunday after the funeral, and saying the 
+Paternoster. The reason why I broke off my 
+quotation from the Drych was that the subject 
+of the Diodles ended where I ended the quota- 
+tion; and if Mr. Owen will look at the book 
+again he will see that the custom of saying the 
+Paternoster, which he quotes, was practised on 
+a different day (the Sunday after the funeral), 
+at a different place (the grave), and, in short, 
+has nothing to do with the Diod/es. So much 
+for his charge of shearing off the ritual words. 
+
+The condition of Cwmamman, described in 
+Mr. Owen’s second letter, is just the condition 
+in which I should expect to find such an insti- 
+tution as Sin-eating. I need not pursue his 
+surmises as to how Mr. Moggridge obtained 
+his information, nor any of his other contro- 
+versial conjectures. I can tranquilly wait 
+until he has something better to offer. The 
+same remark applies to his various ebulli- 
+tions of argumentative astonishment. His one 
+point of any importance is that Aubrey’s 
+friend, Ray, the naturalist, told him, in a letter 
+which Mr. Owen quotes, that he was ‘‘a little 
+too inclinable to credit strange relations.” I 
+am not aware whether we have Aubrey’s letter 
+to which this is a reply. From the con- 
+text, however, we may gather that Ray was 
+reproving Aubrey for attaching: credit, not to 
+reports of strange customs, but to prodigies 
+of a different kind. Anybody who reads 
+Aubrey’s Jiscellanies will see that the author 
+was (like most of the men of his day) 
+credulous of prodigies, apparitions, and por- 
+tents; and it is to such as these that Ray, who 
+was a student of nature, referred. But I have 
+yet to learn that that is any reason for dis- 
+crediting Aubrey when he relates things of a 
+totally different character, wherein the miracu- 
+lous is no element. In connexion with this, I 
+am glad to find that Mr. Owen agrees with me 
+in thinking that Aubrey actually witnessed the 
+
+
+
+ceremony at Beaumaris; so that there, at all 
+events, his credulity is beside the question. 
+
+Before I close, it is right that I should say, 
+with regard to the funeral at Market Drayton 
+(or, rather, at Wollerton, near that town), that, 
+by the kindness of Miss Hope, I have been in 
+communication with her informant, who was 
+present on the occasion, and with the minister. 
+There has been some misapprehension about 
+the incident, and it now seems certain that the 
+wine and biscuits were not handed across 
+the coffin, but only given to the bearers and 
+others in the presence of the coffin; and that 
+this is the custom in that part of Shropshire. 
+The minister’s words also would appear only to 
+have had reference to the general custom of 
+eating and drinking at funerals. But even if 
+the Market Drayton incident and the observa- 
+tion of the minister be erased entirely, the 
+evidence is still abundant for the existence of 
+the practice of Sin-eating and kindred obser- 
+vances in Wales and the Marches during the 
+last two hundred and fifty years. 
+
+E, SIDNEY HARTLAND. 
+
+---
+https://archive.org/details/sim_academy-and-literature_1896-01-04_49_1235/page/14/mode/2up?q=%22sin-eating%22
+The Academy  1896-01-04: Vol 49 Iss 1235
+
+Publication date 1896-01-04
+p14-15
+
+
+
+
+
+
+
+THE SIN-EATER IN WALES. 
+
+
+Il. 
+London : Dec. 18, 1895. 
+Nothing has struck me so much in Mr. Hart- 
+land’s treatment of this question as his absolute 
+ignoring of Christian rites. He quotes an 
+account of a funeral custom in Eastern Europe, 
+but he appears to have no notion that every part 
+of the ceremony described can be accounted for 
+by the practice of the Orthodox Church. An 
+account is given of another burial custom in 
+Bavaria, but there are no traces of an inquiry 
+into the history of Catholic rites in that part 
+of the world. Like Wamba’s pax vobiscum, 
+“Celtic” blood is the key to it all. It is the 
+same in England. Is there a peculiar funeral 
+custom in Derbyshire? Oh, “the population is 
+probably still to a great extent of Celtic 
+ancestry.” When we come to Herefordshire and 
+Shropshire, why, we are there right in the Welsh 
+March, which must be saturated with Celticism. 
+I need not point out that the Early England 
+of that border was, like the rest of England, a 
+pagan country, from which the native Christian 
+population had been scattered in flight to the 
+hills beyond Severn and Wye. Ecclesiastical 
+authorities, both Roman and Anglican, freely 
+acknowledged that heathen customs have always 
+been admitted, within certain limits, into the 
+Christian Church. But so far as I can make 
+out, Mr. Hartland has not set himself the task 
+of tracing the Christian doctrines of atonement, 
+transubstantiation, purgatory, and so on, back 
+to savage origins. It is not the elements of 
+heathenism in Christianity, but the survivals 
+of heathen beliefs and rites in Christian lands 
+outside the church, that he has been looking 
+for. Now the Welsh border is, I admit, a very 
+promising field for such an investigation. Just 
+at that point the “wedge of heathendom,” as 
+Green calls it, which had been thrust into the 
+heart of Western Christianity, and had divided 
+it into two unequal parts, was not converted 
+quite so easily as it was further east. Even 
+after the conversion of the pagan English, the 
+innate conservatism of the race would of itself, 
+without other evidence, lead one to expect that 
+many heathen customs would long hold their 
+own in England, in spite of bell, book, and 
+candle. But there is no need to depend on 
+« priori reasoning. Direct evidence exists in 
+abundance. In the volume of Anecdotes and 
+Traditions edited for the Camden Society by 
+W. J. Thoms there are numerous extracts 
+from Aubrey’s Lemaines, including the well- 
+known ballad formerly used at Yorkshire 
+funerals. 
+On the stanza 
+“From Brig of Dread that thou mayest pass 
+Na brader than a thread, 
+Every night and awle, 
+To Purgatory fire thou com’st at last, 
+And Christ receive thy sawle—”’ 
+Thoms hasa very interesting note, and a reference 
+to Grimm’s Deutsche Mythologie, xxi. In fact, he 
+was content to look, in the first place, to Teutonic 
+sources for the ancestry of English beliefs and 
+customs, That was, of course, long before the 
+promulgation of Matthew Arnold’s somewhat 
+extravagant theory of the Celtic spirit in English 
+literature. After the spirit, we naturally come 
+to the body; and now we find that at every 
+funeral ceremony, from the Black Sea to the 
+Black Mountain of Wales, 
+** The trail of the Celt is over them all,” 
+
+
+But further, there is the unimpeachable 
+evidence of the laws and canons of the Anglo- 
+Saxon Church. From the days of Wihired of 
+Kent to those of the Norman Conquest we find, 
+for example, references to “diviners and sooth- 
+sayers,” “otlering to devils,” “ lyblac®,” “ lustra- 
+tions of pagan rites, worshipping idols or heathen 
+
+
+* Lyb-maleficium, la e-donum. 
+
+
+gods, the sun, the moon, the fire,* rivers, 
+fountains, the elder tree,” “the practice of 
+witchcraft,” and “ exorcism.” 
+
+I do not think that Mr. Hartland can find 
+evidence of Welsh heathenism, to anything like 
+the same extent, in the pre-Norman annals of 
+the British Church. 
+
+The Church has always found it a hard task 
+to keep “the most diligent bishop in all 
+England,” as Latimer calls a certain personage, 
+from sowing tares ameng Christian wheat. On 
+this point I beg leave to extract the tenth 
+article of Archbishop Stratford’s Constitutions 
+(A.D. 1343). I take it as translated in Johnson 
+of Cranbrook’s Collections : 
+
+
+“A probable good often becomes an experienced 
+evil, and then an alteration is allowable. It isa 
+devout custom of the faithful to observe night- 
+watches in behalf of the dead before their burial, 
+and to do it sometimes in private houses, to the 
+intent that the faithful there meeting together and 
+watching might devoutly intercede for them with 
+God; but by the arts of Satan this wholesome 
+practice of the ancients is turned into buffoonry and 
+filthy revels; prayers are neglected, and these 
+watchings are become rendez-vous for adulteries, 
+fornications, thefts, and other misdoings; as a 
+remedy for so rife a disease, we ordain that when 
+ecclesiastical men have performed the memories 
+(exsequiae) of the dead, none for the futura be 
+admitted to the accustomed night-watches at private 
+houses, where dead corpses often remain till their 
+burial, the relations and such as say psalters for the 
+dead only excepted, under pain of the greater ex- 
+communication. . . .” 
+
+
+Of the eleven “ comprovincial bishops” present 
+
+at the publication of this Constitution in St. 
+Paul’s, only one was from Wales — namely, 
+David, Bishop of Bangor. “There is super- 
+stition,” says Bacon, “in avoiding superstition, 
+when men thinke to doe best, if they goe furthest 
+from the superstition formerly received.” Our 
+own Reformation affords some notable examples 
+of this. 
+“ Tn the time of popery,’’ saya Latimer (JV orks, i. 547, 
+Parker Society), ‘‘ before the Gospel came amongst 
+us, we went to burials with weeping and wailivg as 
+though there were no God: but since the Gospel 
+came unto us, I have heard say that in some places 
+they go with the corses grinning and flearing, as 
+though they went to a bear-baiting, which thing no 
+doubt is nought.”’ 
+
+
+From Mr. Edward Peacock’s notes to his 
+edition of John Myre’s /nstructions to the Clergy 
+(E.E.T.S.) | take the following : 
+
+
+“‘Chrismatories and fonts were ordered to be kept 
+securely locked, for fear that weak or evil-disposed 
+persons should steal the holy oils or consecrated 
+wafer for magical purposes.” “It was customary 
+in early times for the receivers to carry home the 
+panis benedictus, It was said that in the fifteenth 
+century some people used to employ it as a charm, 
+and on that account carry it about their persons.” 
+‘The holy bread, the holy loaf, or eudogia, was 
+ordinary leavened bread cut into small pieces, 
+blessed, and given to the people after mass was 
+over.” 
+
+That copious man, Bishop Bale, in his mage 
+of the Two Churches, gives an interesting list of 
+the material adjuncts of worship to which super- 
+stition clung. I[ have only room here to refer to 
+the “ pardon-masers or drinking-dishes.” These 
+are, no doubt, of the same origin as the “ grace- 
+cups” of Oxford colleges, and the “loving cup” 
+of Guildhall banquets. “These mazers are 
+shallow bowls of wood,” says Dr. Rock {Church 
+of our Fathers, ii, 340, 341), 
+
+“ light, thin, and mostly quite black, which sets off 
+the rim and mounting of silver, oftentimes gilt, 
+extremely well. . . . Of the several mazer- 
+bowls still in existence, though only a few are 
+indulgenced, all show in the inscription running 
+round the edge a something that speaks of religion. 
+
+
+* Of. what Mr. Elton (Origins of English History) 
+
+
+says of the ceremony of passing the “ funeral-ale ” 
+cup through the fire. 
+
+
+In the vestry of York Cathedral there is a fine one 
+unto which Archbishop Scrope and another bishop 
+had each granted an indulgence of xl. days.’’ 
+
+In that most Protestant of all Welsh counties, 
+Cardiganshire, about five miles from Aberyst- 
+with, there is the seat of an ancient Welsh 
+family, the Powells of Nanteos. Nanteos is 
+famous through the county for its “healing 
+cup.” In JVales for November his Honor 
+Judge David Lewis has an interesting paper on 
+this cup. From a couple of cuts illustrating the 
+article, it is evident that the Nanteos healing 
+cup is an old maser-bowl. Unfortunately its 
+former history is not given; and I know not 
+whether the superstition attaching to it is a 
+real survival of Roman Catholic times, or a 
+mere modern revival. The vessel may have been 
+secured by some careful picker-up of such “ toys ” 
+from the wreckage of the neighbouring abbey of 
+Strata Florida. However that may be, within 
+an easy walk of Nanteos is the Mecca of Welsh 
+Methodism, Llangeitho. For the last hundred 
+years or so, at scores of chapels in that part of 
+Cardiganshire, the bread and wine of Holy 
+Communion have been handed round from one 
+seated partaker to another, with an absence of 
+superstitious formalism that woul have satisfied 
+Zwingli himself. And yet all the time this 
+time-worn and mutilated old maser-bowl of 
+Nanteos, which has never, of course, been used in 
+the service of the Mass, but which has possibly 
+been “indulgenced” in olden days, is regarded 
+by the ultra-Protestants of Cardiganshire with 
+superstitious reverence, and as still possessed of 
+healing virtues. From some curious memoranda 
+drawn up by an old butler of Nanteos, and 
+quoted by Judge Lewis, I select one (out of 
+about twenty-five, ranging in date from 1857 to 
+1889) : 
+
+
+“ November 24th, 1887. The Nanteos healing cup 
+was lent on the above date to Charles Eiwards for 
+the use of his daughter, Mary Edwards. One pound 
+left. Returned 13th December, 1887. A wonderful 
+eure.” The italics are not mine. 
+
+Mr. Elton, in his Origins of English History, is 
+mistaken when he says that Wirt Sikes had 
+given a full description of the ceremonies con- 
+nected with the notorious cursing-well of St. 
+Elian, near Denbigh. Wirt Sikes says nothing 
+of the cup. 
+
+In Goleuad Cymru for May, 1819 (i., pp. 110 
+
+et seq.), there is a very full account of the trial of 
+one of the “cunning men” (dynion hyspys) who 
+exploited that well. Part of the sworn evidence 
+is as follows : 
+“Then he [i.e., John Edwards, the cunning man] 
+emptied the well with a small wooden cup. When 
+doing so, he prayed to the Father, the Son, and the 
+Holy Ghost. Then the well filled again. He then 
+filled the cup with water, and asked me to drink 
+some of it, and to throw the rest over my head. 
+He said I must do that three times, and so I did.”’ 
+
+
+It isa well-known North Walian institution 
+to sing improvised verses to the accompaniment 
+of the harp. This is called “ Pennillion sing- 
+ing.” Hundreds of these rhymes, many of them 
+bearing the marks of considerable age, have been 
+preserved by tradition. A prize was offered at 
+the Denbigh Eisteddfod (1828) for the best 
+collection of pennillion. Absalom Roberts won 
+the prize. e subsequently published a small 
+volume of poems (Llanrwst, 1832), in which will 
+be found a further collection of some two 
+hundred stanzas. At the end of the little book 
+the author says that he had gathered 
+
+
+“From place to place, at various times, 
+More than a thousand ancient rhymes.” 
+
+
+The following are the only verses pertinent to 
+this discussion : 
+* On Shrove-Tide eve a wife I married, 
+Brief was the time with her I tarried, 
+Ash- Wednesday morn across the bed 
+I found her lying stiff and dead ; 
+
+
+or 
+. 
+
+
+b one 
+shop 
+
+
+ties, 
+ryst- 
+‘elsh 
+Ss ig 
+ling 
+onor 
+r On 
+the 
+ling 
+’ its 
+not 
+5 a 
+r a 
+een 
+ys ” 
+rT of 
+hin 
+Ish 
+red 
+
+of 
+oly 
+ne 
+
+
+ied 
+
+
+his 
+
+
+in 
+ly 
+el 
+ith 
+of 
+da 
+od 
+
+
+to 
+
+
+
+
+
+15 
+
+
+
+
+
+
+
+
+
+
+
+Then I offered ’neath her head 
+
+A piece of cheese, a loaf of bread, 
+And of ale a mighty bowl— 
+May that rest upon her soul!” 
+
+Offrymais is the Welsh word for “offered” in 
+the fifth line. The English and the Welsh are, of 
+course, of the same Latin —. Unlike the 
+English word, however, the Welsh one is con- 
+fined strictly to the religious meaning. Cognates 
+are : offeren (the service of the Mass), and offeiriad 
+(priest), the commonest term for “clergyman” 
+in Welsh, but never applied to Dissenting 
+ministers. 
+
+Handing the dole to the poor bedesman across 
+
+the corpse may perhaps have no meaning beyond 
+that of mere convenience. More probably, how- 
+ever, a deeper meaning was read into the action. 
+Making the sign of the cross lingered on in 
+North Wales till, certainly, the time of John 
+Aubrey. Thus Richard Davies, the Welsh 
+Quaker, says in his autobiography : 
+“ About this time [1658] I went to visit some young 
+men ... two or three of them were convinced 
+... When we came tothe number of four... 
+we determined to meet upon a hill in a common as 
+near as we could, for the convenience of each other. 
+‘ There we met in silence, to the wonder of the 
+country. We were not free to go into any 
+neighbour's enclosures, for they were so blind, dark, 
+and ignorant that they looked upon us as witches, 
+and would go away from us, some crossing them- 
+selves with their hands about their foreheads and 
+faces,” 
+
+It is only within the last hundred years or so 
+that, broadly speaking, there has been any 
+demand for non-devotional Welsh literature, for 
+it is only within that period that Welshmen 
+who could not read English have been able to 
+read at all. It is rather difficult, therefore, to 
+find any eighteenth century Welsh accounts of 
+Welsh customs. Even during the first half of 
+this century, such reading was looked upon by 
+rigid Methodists as profane, and on the same 
+level as whistling on Sundays or singing maswedd 
+(a term applied to all non-spiritual songs, such 
+as the “Men of Harlech” and “Dafydd y 
+Garreg Wen.”) And so, almost down to our 
+own day, vernacular accounts of native customs 
+are not common, and when met with they 
+generally turn out to be simply translations 
+from English. The only Welsh account, for 
+instance, of Welsh funerals which Mr. Hartland 
+did not find in my letter to Prof. Rhys—I 
+mean his extract from Cymru Fu—has_ been 
+translated from the Rev. John Evans’s Tour in 
+North Wales (1804). 
+
+I have picked out the following questions 
+from Goleuad Cymru for June, 1819, and May, 
+1821. The answers are mainly ‘“ Scripture 
+proofs,” and therefore of no folk-lore interest. 
+
+
+‘‘ What is the meaning of putting lighted candles 
+in brass candlesticks on the coffin ?” 
+
+“Why do people lean on the coffin to pray?” 
+
+“Ts that a sign of an old custom of praying for 
+the dead?” ‘The second Sunday after a burial the 
+relations of the deceased keep a ‘memorial knell’ 
+—e, coffa) that Sunday, and feast throughout the 
+
+a , 
+
+
+“Ts it an unseemly and sinful thing for people to 
+drink ale and smoke tobacco at funerals; and 
+whence has that custom sprung? ” 
+
+Mr. Hartland, strangely enough, left off his 
+quotation from Robert Jones, of Rhoslan, at the 
+very point where the “ritual words” come in. 
+The original proceeds as follows :— 
+
+“The whole family on the first Sunday after the 
+burial used to go on their knees on the grave, each 
+saying bis Paternoster (ei Bader). And they would 
+never mention any deceased member or relative of 
+the family without saying most devoutly ‘ Heaven 
+be his portion * (Nefoedd iddo !).” 
+
+And thus we see that the “ritual words” of 
+these “ sin-eating” customs can be “ shorn off” 
+as ruthlessly by cur folk-lorist as by old Father 
+Time himself. 
+
+
+I should like to quote the Rev. W. Bingley’s 
+
+two accounts of the North Wales custom in 
+question—the traditional one as supplied to him 
+most probably by his friend, the Rev. Peter 
+Williams, Vicar of Llanberis; and the actual 
+one as observed and most graphically described 
+by himself. I dare not, however, lay such a 
+burden on the Editor’s patience, but must content 
+myself, on my way to Aubrey, with the follow- 
+ing : 
+‘¢ When we came to the church we found the place 
+nearly full of people waiting our arrival. The 
+service was read in Welsh in a most impressive 
+manner, and the coffin was let down into the grave 
+by four of the female mourners. A more solemn 
+office I had never witnessed, and the circumstance 
+of the body being committed to the bosom of the 
+eatth by the hands of relatives or friends was 
+altugether new tome. A few rushes were strewed 
+upon the coflin, and I shall never forget the stifled 
+shriek that was uttered when, in Welsh, the solemn 
+words, ‘We commit her body to the ground,’ &c., 
+were read. . + The ceremony being over, the 
+grave was filled up, and planted with slips of box 
+and some other evergreens. The offerings in the 
+church amounted to near two pounds, of which 
+more than thirty shillings were in silver.” 
+
+
+Mr. Hartland has not pointed out in plain 
+terms, as I submit he ought to have done, that 
+only on a single occasion did Aubrey witness 
+personally the funeral ceremonies he describes. 
+That was at Beaumaris, in North Wales. On 
+that occasion the ceremony reminded Aubrey, 
+not of his “ own invention” the Sin-eater, but of 
+church funeral offertories or “ mortuaries.” This 
+custom of mortuaries, once universal in the 
+Church, was kept up in many parts of North 
+Wales until almost the other day. Indeed, no 
+small ‘portion of the North Walian clergy’s 
+income used to be derived from that source. But 
+that the custom was a thoroughly English one 
+can be proved at once from the name—* Soul- 
+scot,” which it bore in the Anglo-Saxon Church. 
+The proper place for its payment, according to 
+the hes of that Church, was “at the open 
+grave.” 
+
+“ Simple astonishment ” will best describe my 
+feelings when the custom in North Wales is 
+described as that of “Sin-eating, shorn of the 
+ritual words,” and when that custom is asserted 
+to have “certainly existed uncurtailed in the 
+seventeenth century at Llangors.” Surely Mr. 
+Hartland does not translate Aubrey’s ipso facto 
+by “in so many words”? Ithink I am entitled 
+to assume that he has placed before us all the 
+particulars in his possession relative to the 
+“ uncurtailed” custom and its “ritual” words. 
+Has he, perchance, perused the will of the woman 
+of Dynder, according to the direction of which, 
+“ nolens volens the parson of the parish,” her rela- 
+tions had the ceremony in question “ punctually 
+performed”? Uncorroborated and unconfirmed, 
+the vague and ambiguous testimony of Aubrey is 
+absolutely worthless. I can find no such term 
+as “Sin-eater” in Sir George Cornewall Lewis’s 
+list of Herefordshire words. As Mr. Hartland 
+apparently quotes straight from Mr. Britten’s 
+edition of the Remaines, it is no large assumption 
+to suppose that he has read that volume with 
+some care. What are we to say, then, of the 
+candour of his touching expression of confidence 
+in the credibility of John Aubrey, when the 
+following extract of a letter from Ray, the 
+naturalist, to Aubrey himself is to be found in 
+the editor’s preface to that very volume? 
+
+‘“‘T think (if you can give me leave to be free with 
+you) that you are a little too inclinable to credit 
+strange relations. I have found men that are not 
+skilful in the history of nature very credulous and 
+apt to impose upon themselves and others, and 
+therefore dare not give a firm assent to anything 
+they report upon their own authority, but am ever 
+suspicious that they may either be deceived them- 
+selves, or delight to teratalogize (pardon the word), 
+- and to make a show of knowing strange things.” 
+
+
+
+Such is the character of our sole authority for 
+“ Sin-eating,” so called. It is drawn not behind 
+Aubrey’s back by a carping Anthony Wood, 
+but to his own face by a friendly hand. 
+: J. P. OWEN, 
+
+
+
+
+---
+https://archive.org/details/sim_academy-and-literature_1896-01-25_49_1238/page/72/mode/2up?q=%22sin-eating%22
+The Academy  1896-01-25: Vol 49 Iss 1238
+
+Publication date 1896-01-25
+p78-9
+
+THE SIN-EATER IN WALES. 
+Highbgarth, Gloucester: Jan. 18, 1896. 
+
+One difficulty in arguing with Mr. J. P. 
+Owen arises from the fact that he declines to 
+stick to the > at issue: nay, after being 
+expressly told, he still seems to be unaware 
+what the point is. Let me tell him once more. 
+The question is, whether sin-eating was in effect 
+a Welsh funeral practice. I have shown that 
+the evidence does not rest only on Aubrey’s 
+authority, but that customs apparently identical 
+are described by other writers in English and 
+Welsh. And I repeat that Mr. Owen has not 
+seriously attempted to controvert my position. 
+Instead, he wanders away to wedding customs, 
+to the Brig o’ Dread, to St. Elian’s Well, to 
+pennillion-singing, and to fifty other irrelevant 
+matters. He is so full of throwing ‘‘a few 
+sidelights”” that he forgets to focus them on 
+the object, and leaves us to grope our way as 
+best we can to his meaning. And then he 
+
+
+
+
+
+takes credit that he has “not thrust his own 
+
+
+a 
+
+
+
+
+
+a=) 
+
+
+RePR ers 
+
+
+
+
+
+
+
+
+Jan. 25, 1896.—No. 1238. } 
+
+
+
+
+
+THE ACADEMY. 
+
+
+79 
+
+
+> a 
+
+
+
+
+
+
+
+
+
+
+
+prejudices and prepossessions into this con- 
+tro’ ” 
+
+
+versy. 
+What he appears to mean is that the practices 
+(which he admits took place) were “‘ relics of 
+P ”*—. in other words, that they were 
+Christian, and not heathen practices. What 
+then? Does he attempt to distinguish them 
+from the practice, with which we set out, de- 
+scribed by Aubrey? Not at all. He contents 
+himself with surmises as to how Mr. Moggridge 
+came by his information, complaints that I 
+have ignored Christian rites, and “simple 
+astonishment””—poor fellow !—at finding the 
+custom in North Wales ‘‘ described as that of 
+sin-eating shorn of the ritual words.”” When I 
+to recall him to the question, he gives a 
+long and interesting quotation from ‘‘ The 
+State, Civil and Ecclesiastical, of the County of 
+Lancaster, about the year 1590,” and says: “‘ It 
+
+
+would be insulting the intelligence and abusing | 8¢q 
+
+
+the + my of the readers of the ACADEMY to 
+lay before them any more evidence of that 
+kind.” I agree all the more heartily because 
+he gives us no hint how the evidence applies to 
+Wales. 
+
+In answer to Mr. Owen’s complaint that I 
+had broken off a quotation from Robert Jones 
+at a certain point, I adduced in my last letter 
+reasons to show that the subject of the Diodles 
+ended where I ended my quotation. All he 
+replies is: ‘‘Dogmatism as to the Diodles 
+having nothing to do with the clul coffa is 
+
+y premature.” Surely it is—but then 
+neither Robert Jones nor I had referred to the 
+clul coffa, or memorial knell, which is dragged in 
+by Mr. Owen himself from the Golewad Cymru, 
+for what purpose he has yet to show. 
+
+Mr. Owen accuses me of omitting a portion 
+of M. Jorevin’s account of a funeral at Shrews- 
+bury. I quoted all that was given by Brand 
+and Ellis; for, unfortunately, I had no more 
+access to the original than Mr. Owen himself. 
+But what difference to the argument the rest of 
+the sentence, as he now gives it, would make, 
+he carefully avoids informing us. He seems to 
+think the blessed word “ portentous”’ settles 
+everything—as well it may where “ simple 
+astonishment” is reckoned a valid argument. 
+
+Lastly, in wandering round the subject, he 
+comes upon my reference to Strabo, and 
+complains that in The Legend of Perseus I have 
+misinterpreted the geographer’s expressions. 
+This is an excellent sample of Mr. Owen’s “‘ red 
+herring” style of controversy. It may be a 
+very heinous crime to misinterpret Strabo, and 
+I may or may not have been guilty of it. I 
+could easily defend myself if it were necessary 
+to do so here. But my reference to Strabo in 
+the columns of the ACADEMY was a purely 
+incidental one; and I am not going to gratify 
+my friend by running away from the historical 
+question of of sin-eating, and 
+— identical therewith, in Wales and the 
+
+es to a discussion of cannibalism at large, 
+or even of Irish cannibalism. To discuss these 
+subjects with such a disputant as Mr. Owen 
+would be very entertaining; but it would 
+occupy the rest of my natural life. 
+E. SmpNEY HARTLAND. 
+
+
+---
+
+https://archive.org/details/sim_academy-and-literature_1896-02-29_49_1243/page/178/mode/2up?q=%22sin-eating%22
+
+The Academy  1896-02-29: Vol 49 Iss 1243
+
+Publication date 1896-02-29
+p178-9
+
+
+
+
+THE SIN-EATER IN WALES. 
+New College, Eastbourne: Feb. 22, 1896. 
+Now that Mr. Owen has retired from the 
+field to all appearance, you will perhaps allow 
+me, as the person who was directly challenged 
+by Mr. Hartland, and the initiator of the 
+whole discussion, to say a word or two on the 
+
+
+question. 
+The main purpose of my letter in the Times 
+was to throw doubt on the Llandebie story, 
+
+
+and my doubts rest on a point that has not yet 
+been mentioned in the AcapEmy. In the 
+evidence quoted by Canon Silvan Evans in the 
+
+
+@tgrmso cd oh 
+
+
+
+
+
+SRRSSE SRE esa ses eC erRePseoer zero @®mstdaco 
+
+
+be oh) 
+
+
+
+
+
+oo mS ® 
+
+
+28 
+ry 
+it 
+() 
+
+
+
+
+
+
+
+
+
+
+
+179 
+
+
+
+
+
+Frs. 29, 1896, —No. 1243, | 
+
+
+ACADEMY in 1878, the schoolmaster of Llan- 
+debie stated that cakes were not given at 
+Llandebie. If this is so, it seems to me im- 
+possible to suppose that the Sin-eater existed 
+there at the close of the first half of the 
+century, if Mr. Hartland is correct in regarding 
+this dole as a survival and degenerate form of 
+Sin-eating. We cannot suppose that the cen- 
+tral rite was in full tide if those portions of the 
+ritual which survive longest in other parts had 
+entirely disappeared. 
+
+My second point is, that if Mr. Hartland is 
+correct in identifying all these funeral customs 
+with tribal feasts, he cannot adduce them all as 
+proofs of the existence of the Sin-eater, unless 
+he is prepared to argue that in Wales and the 
+Borders the whole of the tribal ceremonial was 
+swallowed up in the Sin-eating. Unless the 
+custom of tribal feasts underwent a uniform 
+evolution, we should find by the side of any 
+single descendant of it in folk-custom various 
+analogous customs bearing a resemblance more 
+or less close; but these analogous customs 
+capnot be brought forward as a proof of the 
+existence of their co-descendants. We are not 
+entitled to conclude the general practice of 
+Sin-eating from an analogical argument, 
+backed by a few isolated instances on the 
+authority of a —_ writer, who wrote forty 
+years after the single case which he mentions 
+within the Welsh borders. I say a single 
+writer advisedly, for I cannot regard Mr. 
+Moggridge as an authority: he gives us no 
+hint of his source: we have no certainty that 
+he derived his account at first hand or even at 
+second. Iam not enamoured of the anonymous 
+ne per correspondent as a collector of 
+folk-lore; but he is better off than Mr. 
+Moggridge’s informant, for, if he cannot be 
+identified, he is at least not liable to have his 
+words distorted by transmission and final 
+publication at third, fourth, or fifth hand. 
+Even if we had no denials such as those given 
+by intelligent and competent persons like Mr. 
+Rowlands in 1871, the Llandebie story would 
+rest on an uncertain foundation. In the face 
+of these denials, it seems impossible to give 
+credence to it. 
+
+I call attention to the fact that in 1878, 
+though the Sin-eater was said to have existed 
+thirty years previously, no one was produced 
+who had ever seen him, nor even one who had 
+seen a person who had seen him. Thirty years 
+is not so long in a rural district that old customs 
+are forgotten. If the Sin-eater had really 
+existed there in 1850, it would have been 
+possible to find an eye-witness. But no eye- 
+witness was forthcoming. 
+
+N. W. Tuomas, 
+
+
+
+
+
+---
+
+https://archive.org/details/sim_academy-and-literature_1896-03-07_49_1244/page/200/mode/2up?q=%22sin-eating%22
+
+The Academy  1896-03-07: Vol 49 Iss 1244
+
+Publication date 1896-03-07
+p200-201
+
+
+THE SIN-EATER IN WALES. 
+Highgarth, Gloucester: March 2, 1896
+
+It seems generally that the ey near 
+Llandebie referred to by Mr. Moggridge as 
+the scene of the custom of Sin-eating was 
+Cwmamman. [If this be so, the evidence of the 
+schoolmaster of Lilandebie ( name John 
+Rowlands) is of little weight. @ parish is a 
+one. The village, containing the 
+church and the national schoof, is at one end, 
+the district bordering on Cwmamman at the 
+other. Fifty, or even thirty, years ago the 
+upper part of the parish (towards Cwmamman) 
+was almost a terra incognita to the vicar and 
+the schoolmaster. At least, it was beyond 
+their influence; and ag id it is so still. [ 
+am informed by Mr. J. P. Owen that 
+both the vicar of Lilandebie and _ the 
+schoolmaster mentioned by Canon Silvan 
+Evans were known to him; that they were 
+both strangers to the parish, and that neither 
+of them stayed long enough to identify him- 
+self withit. Cwmamman is in the heart of a 
+romantic country. Around it are spots 
+renowned for the hunting of Twrch Trwyth by 
+King Arthur. Across the mountains, only a 
+few miles away, is the famous Van Pool, the 
+dwelling-place of the mysterious lady from 
+whom the physicians of Myddvai traced their 
+descent, and the scene down to a few years 
+ago of an annual summer pilgrimage when the 
+lady herself was ex to appear. The 
+ey was at one time sparsely inhabited. It 
+has been described as ‘‘ lawless’; it was, doubt- 
+less, the very home of superstition. But during 
+the last fifty years a revolution has taken place, 
+Large industries have sprung up, and a con- 
+siderable population of a much more civilised 
+character been attracted to the place. This 
+revolution was in progress in the sixties; it 
+was completed before Canon Evans’s inquiries 
+were set on foot. When we add to all this the 
+fact, to which I have already drawn attention 
+(AcapEMY, November 16, 1895), that those in- 
+quiries were not made for more than a quarter 
+of a century after the alleged event, it is hard 
+to see what importance can be attached to the 
+schoolmaster’s assertions. He may have been 
+‘* an intelligent,” but he was nota ‘‘ competent 
+m” to give satisfactory evidence ; and it 
+- yet to be proved that his evidence, such as 
+it was, related to a larger area than the village 
+of Llandebie and its immediate surroundings— 
+which do not come into the story at all. This 
+is my reply to Mr. Thomas’s first point. 
+His second point rests, I think, on a mis- 
+apprehension. I have never identified “all 
+these funeral customs with tribal feasts.” 
+What I have contended is, that Sin-eating is 1 
+relic of a specific feast of the kin, immediately 
+following a death, at which feast the body of 
+the d was eaten. It is therefore 
+unnecessary ‘‘ to argue that in Wales and the 
+borders the whole of the tribal ceremonial was 
+swallowed up in the Sin-eating.” No doubt 
+there were many tribal feasts of various kinds. 
+I do not trace Sin-eating back to them all, nor 
+indeed to any tribal feasts. A tribe is a local 
+organisation. The tribe may have included 
+many clans or kindreds ; and, on the other hand, 
+many clans may have stretched far beyond the 
+bounds of the local tribe. It seems to have 
+been the kindred who were entitled and expected 
+to take part in the feast in question. I cannot 
+adequately discuss the matter here, and must 
+be pardoned for referring once more to the 
+chapter on Faneral Rites in the Legend of 
+Perseus (vol. ii.) where I have treated the subject 
+in connexion with parallel practices in different 
+parts of the world. 
+With Mr. Moggridge’s sources and oppor- 
+tunities of information I have already dealt 
+(AcaDEMY, November 16). I believe his state- 
+ment. But, even if we leave him out of account, 
+
+
+
+
+siderable difficulty about the stages from Agra 
+
+
+WILLIAM CROOKE. 
+
+
+there is enough in Pennant, Robert Jones of 
+
+
+
+Marcu 7, 1896.—No. 1244.] 
+
+
+THE ACADEMY. 
+
+
+201 
+
+
+
+_——— 
+
+Rhoslan, and the Bishop of St. Asaph’s MS. 
+to corroborate Aubrey, who besides gives 
+evidence of having curefully inquired into the 
+matter. 
+
+Mr. Thomas’s last paragraph would be more 
+difficult to meet if it could be shown that 
+Canon Silvan Evans’s challenge was brought 
+under the notice of Mr. Moggridge, or anyone 
+else who was interested in the matter and in a 
+position to investigate. But Mr. Moggridge 
+was then an old man; he had left Wales. 
+Canon Evans’s contention was probably 
+popular among Welshmen—at least, they were 
+spathetic—and nobody seems to have been 
+concerned to take up the challenge. It is a 
+pity it was so; but this I think we must con- 
+clude was the reason why in 1878 (or was it not 
+1875?) ‘no one was produced who had ever 
+seen” a Sin-eater. 
+
+
+E. StpnNEyY HARTLAND. 
+
+
+
+---
+
+https://archive.org/details/sim_academy-and-literature_1896-03-14_49_1245/page/222/mode/2up?q=%22sin-eating%22
+
+The Academy  1896-03-14: Vol 49 Iss 1245
+
+Publication date 1896-03-14
+
+p72-3
+
+The Sin-Eater, and Other Tales. By Fiona 
+Macleod. (Edinburgh: Patrick Geddes 
+& Colleagues. ) 
+
+
+Miss Mactxop is the first writer who has 
+tried natively to interpret the Gael, not of 
+the Scottish Highlands, but of the Islands, 
+to Southern readers ; and for sheer origin- 
+ality, other qualities apart, her tales in this 
+volume are as remarkable, perhaps, as 
+anything we have had of the kind since Mr. 
+Kipling appeared. They are so original : 
+in fact, they treat of so strange a subject- 
+matter and in so strange a way, that the 
+unregenerate Saxon may find them at first 
+a little difficult. On a further acquaintance, 
+he will find that their local colour, their 
+idiom, their whole method, combine to pro- 
+duce an effect which may be unaccustomed, 
+but is therefore the more irresistible. 
+
+‘‘ Why,” asks Miss Macleod in her dedica- 
+tory epistle to Mr. George Meredith—‘‘ why 
+do I write these things? It is because I wish 
+to say to you, and to all who may read this 
+book, that in what I have said lies the secret 
+of the Gael. The beauty of the world, the 
+pathos of life, the gloom, the spiritual 
+glamour: it is out of these, the heritance of 
+the Gael, that I have wrought these tales.” 
+This clearly commits the writer to the 
+romantic method that we find preserved in 
+all these tales, though they have here and 
+there a touch of that realism which romance 
+has never been entirely without — Celtic 
+romance especially. 
+
+The first of them, “The Sin-Eater,” is a 
+capital example in its romantic kind. You 
+feel, in reading it, that the tale-writer has 
+not gone to her subject-matter as a purely 
+disinterested agent. On the contrary, she 
+brings her passionate predilections ; instead 
+of being disinterested, she is perfervidly 
+interested ; she goes prepared to find the 
+things that count, Celtically speaking, and 
+she finds them—the gloom, the spiritual 
+glamour, and the rest. To-morrow, some 
+New Realist will go over the same ground, 
+and bring back his very different report of 
+things as they really are, and tell us what 
+queer kind of porridge he saw the Achannas 
+
+
+
+
+
+= NN Pe aU rect De 
+
+
+Vere} & 
+
+
+'=- ae Vw er Se 
+
+
+Jan. 25, 1896.—No. 1238.} 
+
+
+THE ACADEMY. 
+
+
+73 
+
+
+
+
+
+
+
+
+eat. But Miss Macleod, being to the 
+manner born, writes from the inside, and 
+not from the outside; is affected through 
+her imagination, and not through her nerves; 
+and is sometimes so carried away by her 
+subject that she forgets how suburban the 
+modern reader is apt to be, and how he 
+likes his sea-lions ~~ and labelled, and his 
+peat-smoke described in terms of Fleet-street. 
+
+Not only does she forget this: she de- 
+liberately does all she can to increase the 
+sea terror, the wildness, and the Gaelic 
+savour of her tales. ‘The Sin-Eater” 
+begins with the wet wind and the sea mist 
+of the western isles; and ends with the wild 
+cry of the man Neil Ross, as he goes down 
+in the “‘ Black Eddy” that rushes between 
+Skerry-Mohr and Skerry-Beag—“ An eirig 
+m’ anama!” (‘In ransom for my soul! ”’) 
+All through it one hears the sea-noises and 
+feels the sea-wind, and the Sin-eater is 
+treated in bold accord with such elemental 
+circumstance. Half man, half myth, he is 
+the scapegoat of the sea. He bears the 
+sins of others, but with no scapegoat’s 
+innocence: therein lies the motive which 
+is treated in this tale with so much force. 
+At last he makes his sea-exit on a spar that 
+is like the cross; nay, in the words of 
+Aulay Macneill, who tells his end, ‘ It was 
+the cross he was on. I saw that thing with 
+the fear upon me. Ah, poor drifting wreck 
+that he was. Judas on the Cross: it was his 
+eric.” 
+
+Still more strange, and from an English 
+point of view more simply and artistically 
+constructed and written, is “ The Dan-nan- 
+Ron ”’—perhaps the finest thing in the book. 
+
+‘** You know what is said in the isles about 
+
+. about this or that man, who is under 
+gheasav. —who is spell-bound,...and... 
+about the seals and... ?’ says Marcus Achanna 
+to Anne, the heroine of this strange tale. 
+
+‘** They say that seals,’ he repeated slowly ; 
+‘they say that seals are men under magic 
+spells,’ ”’ 
+
+Here we have suggested a fine dramatic 
+motive at the threshold of an old Gaelic 
+folk-tale; and Miss Macleod uses. her 
+opportunity with singular control of the 
+magic machinery of an uncanny subject. 
+The figure of Gloom Achanna, who plays 
+the tune of the Dan-nan-Ron on his feadan 
+(an oaten-pipe or flute), is one not easily 
+forgotten. He lives with unreal reality in 
+one’s mind; his wild tunes hold one’s ear, 
+though they are described with character- 
+istic Celtic exaggeration by indirection, by 
+colour instead of music, as ¢.9. : 
+
+** Again Gloom took up the feadan, and sent a 
+few cold white notes floating through the hot 
+room, breaking suddenly into the wild, fan- 
+tastic opening air of the Dan-nan-Ron.” 
+
+A few pages further, and we come upon 
+Manus’s song, which, with the description 
+that follows, may be given as an instance of 
+Miss Macleod’s writing of both verse and 
+prose : 
+
+“The tide was dark an’ heavy with the burden 
+that it bore, 
+
+I nae it talkin’, whisperin’, upon the weedy 
+
+shore : 
+
+Each wave that stirred the seaweed was like a 
+
+closing door, 
+
+’Tis closing doors they hear at last who hear no 
+
+
+more, no more, 
+My grief, 
+No more! 
+* * * 
+
+
+
+
+
+‘The white sea-waves were wan and grey, its 
+
+ashy lips before, 
+
+The yeast within its ravening mouth was red 
+with streamy gore— 
+
+O red seaweed, O red sea-waves, O hollow, 
+baffled roar, 
+
+Since one thou hast, O dark dim sea, why 
+callest thou for more, 
+
+My grief, 
+
+
+For more ? 
+
+«In the quiet moonlight the chant, with its 
+long, slow cadences, sung as no other man in 
+the Isles could sing it, sounded sweet and 
+remote beyond words to tell. The glittering 
+shine was upon the water of the haven, and 
+moved in waving lines of fire along the stone 
+ledges. Sometimes a fish rose, and split a 
+ripple of pale gold; or a sea-nettle swam to 
+the surface, and turned its blue or greenish 
+globe of living jelly to the moon dazzle.” 
+
+
+There is some excess of mere colour, it maY 
+be thought, in all this; but that, too, is 
+very Celtic. And so throughout these tales ; 
+the manner of their telling, their idiom, 
+their very mannerisms, only tend to increase 
+their total effect. To quote again from 
+their teller's singular opening epistle from 
+Iona, addressed to him whom she calls 
+‘‘Prince of Celtdom’”: they have been 
+written ‘‘as by one who repeats with curious 
+insistence a haunting, familiar, yet ever 
+wild and remote air, whose obscure mean- 
+ings he would fain reiterate, interpret.” 
+It is only by insisting, as she does, with 
+some romantic excess, on the vivid traits 
+and idioms of the remote Gaelic folk 
+she describes, that she brings home to 
+us their speech, sentiment, and spirit of 
+life, as the true interpreter may. She ex- 
+pressly disavows the documentary method 
+at the start; she is subjective and inter- 
+pretative to a degree ; she is often so much 
+moved by her own subject matter, that 
+Heine’s famous confession of overmuch 
+sentiment in his Buch le Grand is apt to 
+recur as one reads. Her tales, then, are 
+not documentary ; they reveal their writer’s 
+individuality, quite as much as the idiosyn- 
+crasy of the island Gael. But, just for 
+this very reason, they provide as original an 
+entertainment as we are likely to find in 
+this lingering century, and they suggest a 
+new romance as among the potential things 
+in the century to come. 
+Ernest Ruys. 
+
+
+---
+
+
+https://archive.org/details/sim_academy-and-literature_1896-03-14_49_1245/page/222/mode/2up?q=%22sin-eating%22
+
+The Academy  1896-03-14: Vol 49 Iss 1245
+
+Publication date 1896-03-14
+p222-3
+
+
+
+THE SIN-EATER IN WALES. 
+New College, Hastbourne: March 7, 1896, 
+
+With regard to my first point, as Mr. Hart- 
+land questions the competence of the school- 
+master, Rowlands, to give satisfactory 
+evidence, it will be convenient if I state what 
+I believe to be the facts with regard to his 
+position. I am obliged, unfortunately, to 
+speak from memory, so I trust Mr. Hartland 
+will be merciful if he finds me tripping. Mr. 
+Rowlands’s own statements are: (1) that he 
+became schoolmaster at Llandebie in 1852, the 
+year of the Ludlow meeting—if, as I suppose, 
+he was schoolmaster there when Canon Evans 
+wrote, Mr. Owen’s recollection seems to be at 
+fault ; (2) that he was in the habit of attending 
+funerals; (3) that he collected for Sir Thomas 
+Phillipps the traditions and customs of the 
+
+
+district. He has also, I believe, published a 
+pamphlet on some Welsh archaeological 
+uestion. He was therefore, before Canon 
+
+
+vans applied to him, taking an interest in 
+matters of this sort. Of course, if he had no 
+acquaintance with a larger area than the 
+immediate surroundings of Llandebie, his 
+evidence is only valuable for that area ; but Mr. 
+Hartland (AcapEMy, November 9) stated that 
+the ritual was in use ‘‘at Llandebie.” I admit 
+that if Mr. Hartland’s assumption as to the 
+extent of Mr. Rowlands’s knowledge be correct, 
+the value I attach to his evidence is un- 
+warranted ; but Mr. Hartland must also admit 
+that it is his change of ground which renders it 
+so. If, however, he was employed by Sir 
+Thomas Phillipps for the purpose stated, I 
+infer that his knowledge extended to more 
+than the immediate surroundings of Llandebie. 
+
+
+
+
+
+
+
+
+Turs 
+
+
+
+
+
+
+
+
+Marcu 14, 1896.—No. 1245.] 
+
+
+
+
+
+THE ACADEMY. 
+
+
+223 
+
+
+
+
+
+
+
+
+I offer apologies for not having stated my 
+second point more clearly. It is this. Mr. 
+Hartland regards Sin-eating as a survival of a 
+specific feast of the kin ; he as survivals 
+of Sin-eating customs of eating and drinking at 
+funerals where we find no Sin-eater and no 
+— virtue attributed to the dole. I suggest 
+that these customs are allied to Sin-eating in 
+virtue of a common descent from the feast of 
+the kindred, not by direct descent from Sin- 
+eating itself. I suppose that the feast of the 
+kindred is now represented by various practices— 
+A, B, C. Evidence shows that these were 
+occasionally associated with or replaced by D. 
+No amount of evidence that A, B, and C were, 
+or are, generally practised will lead to the 
+conclusion that D was prevalent in the area in 
+question. I contend that we find certain 
+customs involving the giving of food at 
+funerals. There is evidence that these customs 
+sometimes took the form of Sin-eating, 
+but we cannot infer the existence of 
+Sin-eating wherever we find these offertories at 
+funerals. And be it noted in this connexion 
+that Aubrey himself does not connect the 
+offertories with the Sin-eater. 
+
+As to the third point, I do not agree with 
+Mr, Hartland that no one was concerned to 
+take up the challenge. The ACADEMY con- 
+troversy arose out of an article in Blackwood. 
+The writer (Prebendary Davies of Hereford, 
+according to a good authority) professed to be 
+well acquainted with Wales, and having taken 
+up the challenge, was certainly interested in 
+the matter, and, I think, in a position to 
+investigate, N. W. THomas, 
+
+
+
+---
+
+https://archive.org/details/sim_academy-and-literature_1896-03-21_49_1246/page/240/mode/2up?q=%22sin-eating%22
+The Academy  1896-03-21: Vol 49 Iss 1246
+
+Publication date 1896-03-21
+p241-242
+
+
+
+
+THE SIN-EATER IN WALES. 
+Highgarth, Gloucester: March 14, 1896. 
+
+I must plead guilty to having given Mr. 
+Thomas some reason for charging me with 
+changing my ground. Mr. Moggridge, it 
+seems, did not specify the exact place where the 
+custom of Sin-eating had been performed within 
+recent years. He described it as a mountain 
+valley near Llandebie. Writing without having 
+the Archaeologia Cumbrensis before me, but only 
+notes of its contents, I referred to the scene 
+in general terms as ‘‘ at Llandebie.” Nor have 
+I there the letter containing Mr. Rowlands’s 
+statements. But, assuming Mr. Thomas’s 
+account of them to be correct, I see nothing in 
+them to alter my opinion. It was, atall events, 
+some years after the event signalised by Mr. 
+Moggridge that Mr. Rowlands came to the 
+village of Lilandebie; and, granting that 
+Cwmamman was where the custom was alleged 
+to have been practised, it appears to me that 
+Mr. Rowland’s denials so many years later 
+cannot outweigh Mr. Moggridge’s affirmation. 
+However, I am unable to carry the evidence 
+further, and there for the present it must 
+rest. 
+
+If I nowunderstand Mr. Thomas’s second point 
+—that the customs of North Wales described 
+by Pennant, Robert Jones, and Aubrey himself 
+were not survivals of Sin-eating, but merely 
+independent survivals of the same feast, of 
+which the custom of Sin-eating was also a 
+survival—he admits that the custom of Sin- 
+eating was practised somewhere, It is, of 
+
+
+
+
+
+242 
+
+
+THE ACADEMY. 
+
+
+[Mancm 21, 1896.—No. 1246, 
+
+
+
+
+
+course, extremely difficult, if not impossible, to 
+say with certainty whether these North Welsh 
+customs were lineally descended from that of 
+Sin-eating, or were only variant or related 
+forms of it, indeperdently derived from a 
+common original. In my view the whole 
+evidence presented in this correspondence—not 
+forgetting the Lancashire custom of ‘ The 
+ded manse dowle or Banquet of Charitie,” 
+brought to light by Mr. Owen—points to a 
+widespread, and probably Celtic, custom of 
+Sin-eating, gradually disappearing with the 
+growth of civilisation, and surviving here and 
+there in more or less complete forms, which 
+were naturally not all precisely alike. The 
+difference between us is, after all, no very 
+great one, and the scientific inferences as to the 
+meaning of the customs remain undisturbed. 
+
+Whoever the writer of the article in Blackwood’s 
+may have been, what evidence is there that 
+Canon Silvan Evans’s letters in the ACADEMY 
+were brought to his knowledge? In any case, 
+the article was most likely nothing more than 
+a pot-boiler, in which, having served its office, 
+the author had no further concern. The 
+manners and customs of the tribe of magazine 
+article-writers are wel) known. Mr. Owen 
+gave an amusing and instructive example in 
+his letter which appeared in the ACADEMY of 
+December 21. Everybody who has made it his 
+business to inquire seriously into any subject 
+could easily add others quite as amusing and 
+almost as instructive. 
+
+Here, so far as I am concerned, I must bring 
+the correspondence to a close. The subject, 
+I think, has been pretty well threshed out. 
+In thanking the Editor of the AcapDEMy for 
+allowing the statements of fact and exchange 
+of opinions in his columns, I may venture to 
+express the hope that, if his correspon- 
+dents have not succeeded in converting one 
+another, they have at least provided some 
+material not without value for the solution of 
+the questions involved. 
+
+E. SmpnEY HARTLAND. 
+
+---
+
