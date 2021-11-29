@@ -1,5 +1,9 @@
 https://archive.org/details/sim_archaeologia-cambrensis_1852-10_3_12/page/332/mode/2up
 
+Archaeologia Cambrensis  1852-10: Vol 3 Iss 12
+
+Publication date 1852-10
+
 p330
 
 

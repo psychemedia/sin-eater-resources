@@ -46,11 +46,20 @@ FUNERAL SERMONS.—Speaking of the frequency of these formerly, and their presen
 
 
 
-Perhaps also appears as:
+Also appears as:
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18221102/016/0003
 Published: Saturday 02 November 1822
 Newspaper: Morning Herald (London)
 
 ---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18360623/052/0008
+
+English Chronicle and Whitehall Evening Post - Thursday 23 June 1836
+
+THE MOUNTAIN DECAMERON, by J. DOWNES.
+
+—These three volumes, which have recently made their appearance under a name, consecrated by the Patriarch of all novelists, are dedicated to the illustration of the manners, customs, traditions, and superstitions of the true children of St. David in the Principality, and seem to have originated from an impression on the part of Mr. Downes, that his fellow-countrymen of Cymri blood, owe some debt to the land of Llewellen, for not having followed, ere now,the example set by the romance writers of Scotland and Ireland. Mr. Downes has accordingly with diffidence, but zealousy withal, and not feebly, taken up his staff to tread in the footsteps Of Scott and Galt, of Miss Edgeworth and Banim. The subject of his tales, he takes from humble life in Wales, and in his narratives he displays a strong taste for the mystic and awful, a delicate sense of the workings of the human affections, and, in addition, a graphic power of description. His style is sometimes obscure and inelegant, but in general its character is simplicity, with a touch of originality. If it were for no other reason than the latter, his fictions may be read with interest. He has interspersed occasional pieces of poetry through his volumes, some of which are in no common-place vein. He has also indulged in certain colloquial papers, the dramatis persona of which are Welsh Parsons and Brothers of the Angle, and in which he treats about every thing in the world et cetera. We should, however, recommend Mr. Downes not to introduce politics into such publications, especially where his information is not more accurate than to lead him to take "the Agitator" for "a private Roman Catholic Attorney from Ireland."
+
 

@@ -1,6 +1,74 @@
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360604/021/0003
+
+Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette
+
+Saturday 04 June 1836
+
+Breconshire
+
+The forthcoming work, called "The Mountain Decameron, is licely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well)—thc Panty Gwaye (the Hollow of Woe)—the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blook of Man). What terrible mysteries do these more than half unveil, and by a single name!
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360611/025/0003
+
+"Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette "
+
+Saturday 11 June 1836
+
+Breconshire
+
+ROMANTIC LEGENDS OF WALES.-
+
+A new Romance, under the title of "The Mountain Decameron", from the pen of a most original and powerful writer, has just appeared. It is remarkable, that whilst England and Scotland have found such numerous, and, in several instances, such able and delightful delineators, Wales, which has remained, more than any other portion of the Empire in its ancient state, and which abounds with so many interesting legends and traditions congenial with its picturesque and magnificent scenery rendering it the very home of romance, should hitherto have remained without illustration from the pen of the novelist. At length, however, a master of fiction has arisen, who is likely to turn to account the rich materials existing in Cambria, and to render her mountains, her lakes, her valleys, and the strongly contrasted character of her inhabitants, as well known and admired as those of Scotland, when displayed by the genius of Scott and Burns.
+
+
+
+---
+
+britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/024/0003
+
+Saturday 18 June 1836
+
+Breconshire
+THE MOUNTAIN DECAMERON—
+
+The romance thus announced will assuredly win for its author a distinguished name among English writers of fiction. The daring nature of his conceptions, and the fearless power with which he animates them, cannot fail to produce a deep impression His scene, too, Wales, is, most strange to say, nearly unbroken ground in English literature. Yet who, alive to taste or feeling, can look without intense excitement on its lone cataracts, its cloud-capt rocks, its vestiges of departed greatness, its mighty wrecks of castles breasting stormy seas, its abbeys crumbling in olive-coloured glooms, and its wild and stirring legends?
+
+---
+
+britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/039/0004
+
+Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette - Saturday 18 June 1836
+
+LITERAR Y NOTICES.
+
+"THE MOUNTAIN DECAMERON."
+
+These volumes contain much that is clever and original. They profess to embody in a series of Tales the poppular habits, customs, superstitions, and modes of thinking of the Welsh.  We have no t;me for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.
+
+The author laments in a note, and with some shew of justice, the indifference of the Welsh Gentry to their National Literature.
+
+"With a thousand apologies to the *higher orders* of Welsh, it must be owned that this can the modern gentleman of Wales. The ruins that peep on his path, the dark hints of past tragic events, that, even in the common names of places, his familiar haunts, in the business of hunting and shooting, "implore the passing tribute of it in vain! The lightest, most tasteful antiquarianism, is heavy and vapid midst the excitement of the chase, or other excitements more fatal to health."
+
+"There is in fact, and literally, *no Reading Public in Wales*, but the better educated part of the more secluded Welsh peasantry. The gentry of Wales dispute this, but they had better *disprove it*. Let them do so by attaching *some* importance to so invaluable a resource, one so innocent, so exalting so vital to good morals as *reading*. Vermin hunting might still be the *grand* resource.
+
+"Facts are stubborn things. *Seventeen* Welsh periodicals circulate *well* among the *humbler* classes! *One*, conducted with ability—and with great sacrifice by the spirited patrons of it, to the honour of their country- *one*, acknowledged as worthy of support, by high critical authorities not Welsh— has at last *ceased to circulate for want of that support from the gentry*. Other orders, *seventeen* —the gentry *not one: verbum sat*."
+
+[...EXCERPT...]
+
+A few of the remaining superstitions of the Welsh are thus described:–
+
+"The superstitions of Wales," the Doctor remarked, "form no part of the popular *poetry* of our age; yet there exist many grandly imaginative. How few know any thing about our Cum Annwn,that is'Dogs of the Sky', but which their office, as assigned, would warrant its to call the *Bloodhounds of Souls!* by earthly analogy. Sudden fires trail along the heavens at the moment of a dying person's body and soul taking leave, and that light is no other than that fire which each of that terrible pack always has following after like a chain; and sounds like the yellings of an earthly hunt, may be heard in the dumbness of midnight, and which hunting is no less than the chase of the parting soul by these fiends of the sky, as it flies towards Heaven's gate before them, the flight tor nothing less than *eternal* life or death! What superstition affecting mortal life and its brevity, and its briefer pains, can compare in terror, in wildness, or sublimity with this? with these howlings and huntings for immortal souls, these wildfires trailed by demon bloodhounds, across all the deep-blue *Chase* of the midnight heavens, and the issue of the dread hunting never revealed to the mourner, upgazing from the gate of the house of mourning ? The light borne in the hand of a spirit, moving the way a corpse shall soon be borne, and called the *Canwyll Corph* —Corpse Candle — is better known and a solemn fancy is that!
+
+"More terrible and forcible in mournful conception is the strange being that crosses the twilight path of the Welsh mountaineer, and which warns him by its mere presence, of a death in his house near at hand. The Cyoeuraeth is the like- ness of a woman, frightfully cadaverous of visage, bringing all the festering horror of a three weeks' burial in its grim yet not utterly disfeatured loathsomeness, abroad into the world of life, divilulging the foulest secrets of the grave! This *form* stands direct in some lonesome path of the startled person, tossing her long grisly arms in the air and wringing her earthy lengths of wasted hand, and— shaking down her already worm-beset hair over her eye-holes, and their sunken dead-light fixed upon his, steady as the basilisk's on its prey, but gloomy— sets up such a cry of wild weeping, and utters two words only, so terrible i their power, that theyfor the moment arrest the moving blood in the veins of the hearer— the Welsh words signifying 'Oh, my wife!' or 'Oh, my husband! according to the sex of the shortlived object of its fatal forewarning."
+
+
+
+*Annwn*— The *bottomless abyss*; *Hell*, in the ancient scuse, as the "bourn" of all spitis.
+
+---
+
 
 
 https://newspapers.library.wales/view/3631955/3631958/33/sin%20eater
