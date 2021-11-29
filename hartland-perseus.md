@@ -5,6 +5,8 @@ https://archive.org/details/cu31924027041502/page/n303/mode/2up
 The legend of Perseus: a study of tradition in story custom and belief:
 by Hartland, Edwin Sidney, 1848-1927
 
+1894
+
 p287-298 (vol II)
 
 (In pages prior, discusses cannibalism)

@@ -1,7 +1,9 @@
 
-Folklore
+
 
 https://archive.org/details/folklore03folkuoft/page/n3/mode/2up?q=hartland
+
+Folklore
 
 p. 145-157
 
@@ -573,9 +575,224 @@ meaning  of  the  parent  type.
 
 E.  Sidney  Hartland. 
 
---
+---
+
+https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments
+
+Folklore Vol III 1892
+p546-9
 
 
+MR.    HARTLAND'S   "SIN-EATER",   AND    PRIMI-TIVE  SACRAMENTS.
+
+To    the   Editor   of  FOLK-LORE. 
+
+Sir, — Will  you  allow  me  to  ask  Mr.  Hartland  how  the 
+very  interesting  funeral  rites  which  we  owe  to  his  paper  on 
+
+
+Co7n'espondeiice.  547 
+
+the  "  Sin-Eater",  in  the  current  journal,  can  be  considered 
+as  the  outcome  of  one  belief,  in  various  stages  ? 
+
+I  gather  that  he  would  treat  as  acts  expressing  a  common 
+idea  the  "sin-eating"  of  old  English  custom,  where  the 
+whole  gist  of  the  usage,  as  celebrated  by  the  "  folk",  lies  in 
+the  cathartic  significance,  and  where  the  celebrant  has  no 
+kinship  with  the  deceased  ;  the  Bavarian  usage,  where  the 
+ritual  cake  is  eaten  by  the  kindred,  that  they  may  there- 
+with receive  the  "  virtues  and  advantages"  of  the  dead 
+kinsman,  on  or  beside  whose  body  the  cake  has  lain  ;  the 
+Scotch  watchers'  rite  of  placing  their  hands  in  the  empty 
+dishes  and  afterzvaj-ds  eating ;  and  the  breaking  and  eat- 
+ing over  the  grave  of  the  Turkish  cakes. 
+
+The  customs  of  which  these  seem  to  be  typical  examples 
+are  classed  together  as  expressions  of  one  belief;  and  this 
+belief  is  explained  as  the  survival  of  a  primitive  cannibal- 
+ism induced  by  the  widely-spread  primitive  idea  that,  by 
+eating  the  flesh,  the  qualities  of  the  man  or  creature  may 
+be  received.  How  does  Mr.  Hartland  prove  that  all  the 
+instances  he  gives,  where  the  reception  of  the  qualities  of 
+the  dead  is  in  no  way  mentioned,  can  be  treated  as  resting 
+on  this  special  cause  ;  and  not  on  that  universal  article  of 
+primitive  creeds — perhaps  one  of  the  most  necessary  and 
+sacred  of  all  faiths  to  the  savage  mind — the  renewal  of  the 
+tribal  kinship  by  the  tribal  sacrament  of  commensal  eat- 
+ing? Most  of  Mr.  Hartland's  instances  seem  to  point  to 
+this  as  their  cause,  and  to  be  examples  of  the  universal 
+custom  of  offering  food  to  the  disembodied  tribesman,  and 
+of  preserving  the  tie  between  the  dead  and  living  by 
+eating  together  in  the  sacrament  of  the  common  meal. 
+
+I  do  not  like  to  trespass  on  your  space  by  giving  the 
+full  evidence  which  would,  I  think,  justify  me  in  venturing 
+to  differ  from  Mr.  Hartland.  But  the  importance  of  any 
+point  touching  on  primitive  sacraments,  and  of  the  kind  of 
+intercourse  which  the  undeveloped  reason  conceives  to  be 
+possible  between  tribal  spirits  ("  ghosts  of  worship"  often) 
+and  tribesmen  still  in  the  flesh,  will,  I  think,  excuse  my 
+
+
+54^  Correspondence. 
+
+troubling  you  with  these  brief  references,  not  as  accumula- 
+tive evidence,  but  as  examples. 
+
+Bishop  Callaway  (pp.  141-44)  gives  ample  evidence,  from 
+direct  native  sources,  of  the  desire  of  tribesmen  to  "  recall" 
+— renew  the  bond  of  intercourse  with — the  soul  of  the  dead 
+tribesman.^  Dr.  Tylor,  Primitive  Culture,  ii,  p.  16,  refers  to 
+a  commensal  meal  between  the  spirits  and  the  tribe  in 
+yearly  ritual  ;  and  on  p.  40  seq.  he  gives  Mexican,  Hindoo, 
+Chinese,  and  Slavonic  examples.^  Dr.  Codrington  deals 
+with  the  question  of  the  "  common  participation"  in  the 
+death-meal  (p.  272)  ;  the  eating  of  the  meal  by  the  grave 
+{ibid.)  ;  and  he  quotes  one  case  (p.  281)  where  the  rite  of 
+placing  the  common  food  upon  the  body  is  transferred  to 
+that  of  placing  the  kinsman  himself  thereon.  Could  the 
+kin-bond  be  expressed  with  more  physical  and  primitive 
+directness  ?^ 
+
+I  think  it  is  worth  noting  that  in  Dr.  Codrington's 
+account  of  the  details  of  Melanesian  beliefs  and  practices 
+concerning  the  body  and  soul  after  death,  there  is  only 
+one  mention  of  the  cannibalistic  usages  Mr.  Hartland 
+quotes  (except  an  incidental  reference  on  p.  28.4) ;  and 
+that  in  this  one  case  the  rite  is  performed  by  women,  who 
+would  scarcely  be  selected  (unless  with  a  view  to  their  de- 
+scendants) as  recipients  by  this  means  of  the  dead  tribes- 
+man's good  qualities.  No  mention  of  such  design  is  here 
+made,  and  the  act  in  this  case  looks  like  a  form  of  the  primi- 
+tive taboo,  which  forbids  any  holy  thing  (such,  e.g.,  as  the 
+tribesman's  blood)  to  fall  to  the  ground. 
+
+The  commensal  meal,  shared  between  the  spirit  of  the 
+dead  kinsman  and  the  survivors,  seems  clearly  betrayed  in 
+the  elapse  of  an  hour  in  the  Dyak  rite  quoted  by  Mr. 
+Hartland.  The  Amazulu  may  again  serve  as  an  example 
+of  the  primitive  form  of  sacrifice,  which,  according  to  ex- 
+press native  statement,  consists  in  leaving  the  offering  for 
+
+^  Callaway,  A/nazultt,  pp.  141-44. 
+
+^  Prindtive  Culture,  vol.  ii,  pp.  36-40  seq. 
+
+2  Dr.  Codrington,  Melanesians,  pp.  272,  281,  283-85,  etc. 
+
+
+Corresp07tdence.  549 
+
+an  interval,  during  wJdcJi  the  deity  receives  the  invisible, 
+and  after  whicJi  the  worshippers  eat  the  visible,  portion.^ 
+(Cf.  the  ghostly  meal,  "tamani",  leaving  the  visible  food 
+intact  upon  the  grave,  in  Melanesia,  Dr.  Codrington,  op.  cit., 
+p.  283.) 
+
+Whether  the  cathartic  rite  of  "  Sin  Eating"  has  any  es- 
+sential connection  with  this  tribal  sacrament  would  seem  to 
+be  a  most  interesting  point,  and  would  perhaps  touch  the 
+question  of  the  ethical  element  in  savage  religion  ;  but  all 
+that  I  would  ask  here  is  whether  Mr.  Hartland  is  justified 
+in  treating  all  the  customs  and  rites  he  collects,  as  es- 
+sentially related,  and  therefore  as  evidence  for  a  common 
+cause  ;  and  whether  the  cause  of  some  of  these  rites  is  not 
+a  far  deeper  and  more  significant  one,  than  the  idea  which 
+he  suggests  ? 
+
+Ritual  celebrated  among  many  peoples,  by  the  kinsmen, 
+at  the  death  of  a  member  of  the  kin,  in  survival  or  in  situ, 
+such  as  Mr.  Hartland  quotes,  seems  to  me  to  demand  a 
+cause  lying  nearer  to  the  principles  of  primitive  tribal  life, 
+and  to  the  primitive  religious  need  of  the  individual  tribes- 
+man, than  a  device  occasionally  resorted  to  for  increasing 
+physical  or  mental  acquirements.  Moreover,  is  the  usage 
+restricted  to  the  cases  of  powerful  or  respected  members  of 
+the  kindred?  Since  Mr.  Hartland  finds  in  this  usage  the 
+origin  of  practices  which  are  identical  in  every  detail  with 
+the  sacramental  meals  participated  in  by  the  spirits  of 
+dead  kinsmen  and  their  surviving  kindred,  these  his 
+argument  must  also  claim  to  have  explained.  What 
+would  Professor  Robertson  Smith  say  to  this  theory  of  the 
+origin  of  the  primitive  sacramental  meal? 
+
+If  the  cases  quoted  by  Mr.  Hartland  of  the  consumption 
+
+of  the  body  of  the  kinsman  are  essentially  related  to  the 
+
+rites  he  seeks  to  explain,  is  it  not  only  as  the  accidental 
+
+condition  which  the  universal  ritual  of  the  primitive  tribal 
+
+sacrament  sometimes  assumes? 
+
+aXA,'  aiTLa  [xev  ra  Toiaura  KoXelv  Xiav  aroTroV. 
+
+^  Callaway,  op.  at.,  p.  ii. 
+
+G.  M.  GODDEN. 
+
+
+---
+
+https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
+
+Folklore vol 4 , 1893, p. ??
+
+CORRESPONDENCE. 
+
+
+MR.    HARTLAND'S    "SIN-EATER",    AND 
+PRIMITIVE    SACRAMENTS. 
+
+To  the  Editor  of  Folk- LORE. 
+
+Sir, — Miss  Godden's  wide  reading  and  rapid  induction 
+have  anticipated  a  conclusion  which,  when  I  wrote  the 
+paper  on  "  The  Sin-Eater",  had  definitely  formed  itself  in 
+my  mind,  but  which  I  did  not  feel  justified  in  enunciating 
+for  want  of  evidence.  The  evidence,  however,  is  accumu- 
+lating, and  I  hope  to  deal  with  it  ere  long.  Meantime,  it 
+Miss  Godden  would  be  good  enough  to  direct  my  attention 
+to  any  facts  of  special  interest  in  this  connection  she  would 
+be  conferring  a  favour  upon  me. 
+
+E.  Sidney  Hartland. 
+
+
+---
+
+https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
+
+
+Folklore vol 4 , 1893, p. ??
+
+An  Evening  Meeting  was  held  at  22,  Albemarle  Street,  on  Wed- 
+nesday, December  21st,  1892  ;  the  President  (Mr.  G.  L.  Gomme)  in 
+the  chair. 
+
+The  Minutes  of  the  last  meeting  were  read  and  confirmed. 
+
+The  following  new  members  were  elected  :  Mrs.  Fuller  Maitland 
+and  Mr.  Egerton  Beck. 
+
+Mrs.  Gomme  exhibited  some  rubbings  of  games  cut  on  stones  found 
+at  Norwich  Castle,  and  exhibited  at  the  rooms  of  the  Society  of 
+Antiquaries  :  (i)  A  Spiral  Game  (not  at  present  known  to  survive  in 
+any  modern  form),  consisting  of  a  long  line  with  a  hole  in  the  centre, 
+and  a  series  of  smaller  holes  at  equal  distances  along  the  line.  (2)  A 
+roughly-drawn  "  3-squares",  one  inside  the  other.  (3)  The  Fox  and 
+Geese  game. 
+
+A  printed  version  of  the  Mummers'  Play,  sent  by  Mr.  W.  H.  Patter- 
+son of  Garranard,  Strandtown,  Belfast,  was  also  e.xhibited. 
+
+The  Secretary  read  a  short  paper  by  Mrs.  Murray  Aynsley  on 
+"  The  Sin  Eater",  and  a  discussion  followed,  in  which  the  Rev.  C. 
+Swynnerton  and  Mr.  E.  S.  Hartland  took  part
+
+---
 
 
 https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
