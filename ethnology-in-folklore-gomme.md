@@ -6,7 +6,8 @@ https://archive.org/details/ethnologyinfolkl00gommiala/page/116/mode/2up?q=sin+e
 Ethnology in folklore
 by Gomme, George Laurence, 1853-1916
 
-Publication date 1892
+1892
+p?
 
 Another group of such practices surviving in folklore represents by symbolisation a still further step in the genealogy. A note by Bishop White Kennet speaks of a ' custom which lately obtained at Amersden in the county of Oxford, where at the burial of every corps one cake and one flaggon of ale just after the interment 
 were brought to the minister in the church porch.' 2 

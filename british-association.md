@@ -27,9 +27,11 @@ https://www.nature.com/articles/052370a0
 
 Nature
 
-Published: 15 August 1895
+15 August 1895
 The Ipswich Meeting of the British Association
 Nature volume 52, pages370–371 (1895)Cite this article
+
+p?
 
 75 Accesses
 
@@ -49,13 +51,12 @@ Issue Date
 
 https://www.nature.com/articles/052415d0
 
-Published: 29 August 1895
+29 August 1895
 The Ipswich Meeting of the British Association
 Nature volume 52, pages415–417 (1895)Cite this article
+p?
 
-91 Accesses
 
-Metricsdetails
 
 Abstract
 IN our last article we gave a general outline of the local arrangements for the Meeting. The programme, as a whole, is now fairly complete. A slight alteration has been made with reference to the soirées; the first will be given by the Ipswich Scientific Society and the Suffolk Institute of Archæology jointly, and the second by the Mayor of Ipswich (Mr. J. H. Bartlet,). The fitting up of the Section Rooms is proceeding rapidly, and arrangements are being made for the darkening of those in which a lantern will be used. In the case of Sections A and B, which meet in the same building, only the room allotted to Section B will be fitted up with dark blinds and a lantern screen, and the Sections will be asked to exchange rooms on days when papers requiring lantern illustration are read in Section A. The same arrangement will be made as to Sections D and K, which meet in the two rooms at the Masonic Hall. For the President's address in these Sections, the Lyceum Theatre, which is a short distance off, will be placed at the disposal of the Sectional Committees, as the Masonic Hall rooms may be hardly large enough to contain all those who would probably wish to be present on these particular occasions. For a similar reason, Section G, which meets in the Co-operative Hall, will be asked to allow the President's addresses in Sections A and B to be delivered there. A spacious room adjoining the main street, and within two minutes' walk of the reception room, will be set apart for a ladies club-room.

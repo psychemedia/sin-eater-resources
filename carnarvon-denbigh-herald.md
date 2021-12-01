@@ -5,7 +5,8 @@
 
 https://newspapers.library.wales/view/3600951/3600955/42/
 Carnarvon and Denbigh Herald and North and South Wales Independent
-29th January 1892 p4
+29th January 1892
+p4
 THE CYMMRODORION SESSION
 ... In February there will be a joint meeting of the Cymmrodorion and Folk Lore Societies, at which Mr E. Sidney Hartland, formerly of Swansea, author of "The Science of Folk Tales," will read a paper on "The Sin-Eater." ...
 
@@ -15,7 +16,8 @@ THE CYMMRODORION SESSION
 
 https://newspapers.library.wales/view/3602607/3602612/37/
 Carnarvon and Denbigh Herald and North and South Wales Independent
-27th September 1895 p5
+27th September 1895
+p5
 
 Mr Elton B. Ede writes to the "Times" from Edenhurst, Heene, Worthing: — "Though the sin-eater in Wales may not have existed, the mention of him recalls an old practice — viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. The Communion table stood in the aisle, and the farmers were in the habit of putting their hats upon it, and when the sermon began they lit their pipes and smoked, but without any idea of irreverence."
 
@@ -25,7 +27,8 @@ Mr Elton B. Ede writes to the "Times" from Edenhurst, Heene, Worthing: — "Thou
 
 https://newspapers.library.wales/view/3602634/3602641/100/sin%20eater
 Carnarvon and Denbigh Herald and North and South Wales Independent
-1st November 1895 p7
+1st November 1895
+p7
 
 "THE SIN-EATER IN WALES."
 

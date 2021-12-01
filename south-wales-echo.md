@@ -4,7 +4,8 @@
 https://newspapers.library.wales/view/4602627/4602631/98/
 
 South Wales Echo
-29th October 1895 p4
+29th October 1895
+p4
 
 Welsh Gossip
 

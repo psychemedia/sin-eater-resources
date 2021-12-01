@@ -3,7 +3,9 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002076/19340911/095/0004
 
-Shields Daily News - Tuesday 11 September 1934
+Shields Daily News
+Tuesday 11 September 1934
+p?
 
 THE WENDY HUT
 LONG AGO STORIES

@@ -4,8 +4,9 @@
 https://archive.org/details/sim_town-journal_1932-09-24_39_2021/page/20/mode/2up?q=%22sin-eating%22
 Pathfinder  1932-09-24: Vol 39 Iss 2021
 
-Publication date 1932-09-24
+1932-09-24
 
+p?
 
 A DIET OF SINS 
 

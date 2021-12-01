@@ -8,7 +8,9 @@ by Leland, John, 1506?-1552; Hearne, Thomas, 1678-1735, ed; Pre-1801 Imprint Col
 
 2nd edition
 
-Publication date 1774
+1774
+
+p??
 
 Preface
 

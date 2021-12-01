@@ -4,6 +4,7 @@ https://archive.org/details/remainesgentili01aubrgoog/page/n40/mode/2up
 John Aubrey, ‘Remaines of Gentilisme’
 1881
 
+p?
 
 1686-7
 
@@ -52,7 +53,8 @@ It seems a remainder of this custom which lately obtained at Amersden, in the co
 ---
 
 
-Sinne-'eaters. [See pp. 18, 22.] p35-6
+Sinne-'eaters. [See pp. 18, 22.]
+p35-6
 
 In the County of Hereford was an old Custome at ftmeralls to hire/have
 poor people, who were to take upon them all the sinnes of the party deceased. One of them I remember lived in a cottage on Rosse-high way. (He was a long, leane, ugly, lamentable poor raskal.) The manner was that when the Corps was brought out of the house and layd on the Biere ; a Loafe of bread was brought 

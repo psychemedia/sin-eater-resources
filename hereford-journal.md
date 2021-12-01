@@ -6,6 +6,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18490711/025/0004
 
 Hereford Journal
 Wednesday 11 July 1849
+p?
 
 INDECOROUS CUSTOMS.
 
@@ -13,7 +14,7 @@ The irreverent practice properly condemned in the following extract from Southey
 
 "In the cathedral of York an indecent custom, not yet abolished in some other cathedrals, prevailed of walking and talking loudly in the nave during prayers, so that the congregation were often interrupted in their devotions. Dr. Lake, however, was a resolute disciplinarian, and resolved to break so indecent and profane usage; but the mob were so mnch exasperated by the attempt that, after breaking open the south door of the cathedral, they assaulted the residentiary his own house, and having stripped it of part of the tiles, would probably have murdered him had he not been seasonably rescued by Captain Honeywood, the deputy-governor of the castle."— Whittaker's *Loidis and Elmete*, p. 37.
 
-To turn from Hereford Cathedral to the villages of the county, we heartily wish the practice of eating and drinking at funerals, described in the annexed extract, were abolished. The English loudly and justly condemn the frantic *wakes* of the Irish ; but is their own custom of eating dainty luncheons accompanied with Maderia and *liquers* to be commended? Lord Byron's satire is painfully true :
+To turn from Hereford Cathedral to the villages of the county, we heartily wish the practice of eating and drinking at funerals, described in the annexed extract, were abolished. The English loudly and justly condemn the frantic *wakes* of the Irish ; but is their own custom of eating dainty luncheons accompanied with Maderia and *liquers* to be commended? Lord Byron's satire is painfully true:
 
 "There's deal of fun 
 In mourning-coaches when the funeral's done."
@@ -28,8 +29,9 @@ To the practice last mentioned of giving to the poor at funerals, we have no obj
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002
 
-Hereford Journal - Wednesday 01 September 1852
-
+Hereford Journal
+Wednesday 01 September 1852
+p?
 
 ... THE CAMBRIAN ARCHAEOLOGICAL ASSOCIATION AT LUDLOW. The sixth annual meeting- of this valuable and useful Society commenced Ludlow on Monday, and the sitting-s, excursions, &c. were continued throughout the week, and closed on Saturday.
 
@@ -40,15 +42,19 @@ The Cambrian Archaeological Association
 
 ... 
 
-FRIDAY. This morning party was formed to visit Leominster to inspect the Church, where Mr. Freeman explained the various parts which he had alluded to in his lecture the previous evening. After Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch. Evening Meeting.—T. O. Morgan, Esq., of Aberystwith, read paper upon " The Parish of Carno, Montgomeryshire," which was followed by some remarks by the Rev. Basil Jones; after which W. Moggridge, Esq. delivered a very interesting discourse upon a custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in an old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this—when a party died, a person known by the name of "the sin-eater" was called in, who placed upon the corpse platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of a Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared. Thomas Allen, Esq. stated that there still existed custom in Wales of placing candle in salt, and burning it in the chamber of a deceased person, and made some very interesting remarks upon it, as connected with the custom of the sin-eater.
+FRIDAY. This morning party was formed to visit Leominster to inspect the Church, where Mr. Freeman explained the various parts which he had alluded to in his lecture the previous evening. After Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch.
+
+Evening Meeting.— 
+T. O. Morgan, Esq., of Aberystwith, read paper upon "The Parish of Carno, Montgomeryshire," which was followed by some remarks by the Rev. Basil Jones; after which W. Moggridge, Esq. delivered a very interesting discourse upon a custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in an old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this— when a party died, a person known by the name of "the sin-eater" was called in, who placed upon the corpse platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of a Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared. Thomas Allen, Esq. stated that there still existed custom in Wales of placing candle in salt, and burning it in the chamber of a deceased person, and made some very interesting remarks upon it, as connected with the custom of the sin-eater.
 
 
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007
 
-Hereford Times - Saturday 04 September 1852
-
+Hereford Times
+Saturday 04 September 1852
+p?
 
 CAMBRIAN ARCHÆOLOGICAL ASSOCIATION. MEETING AT LUDLOW. 
 
@@ -82,7 +88,9 @@ Mr. Wynne said believed it was used in Merionethshire to prevent decomposition o
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18621220/001/0002
 
-Hereford Journal - Saturday 20 December 1862
+Hereford Journal
+Saturday 20 December 1862
+p?
 
 Miscellaneous Gleanings. 
 

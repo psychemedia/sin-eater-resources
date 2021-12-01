@@ -3,7 +3,8 @@ https://archive.org/details/britishgoblinswe00sikerich/page/n8/mode/2up?q=sin
 British goblins : Welsh folk-lore, fairy mythology, legends and traditions
 by Sikes, Wirt, 1836-1883
 
-Publication date 1880
+1880
+p?
 
 CHAPTER VII. 
 

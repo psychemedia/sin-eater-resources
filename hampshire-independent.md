@@ -5,7 +5,9 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18380217/002/0001
 
-Hampshire Independent - Saturday 17 February 1838
+Hampshire Independent
+Saturday 17 February 1838
+p?
 
 FRAMPTON'S PILL OF HEALTH FOR BOTH SEXES.—
 

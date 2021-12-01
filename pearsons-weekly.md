@@ -5,7 +5,9 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002163/18950727/039/0007
 
-Pearson's Weekly - Saturday 27 July 1895
+Pearson's Weekly
+Saturday 27 July 1895
+p?
 
 THE SIN EATER.
 

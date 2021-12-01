@@ -1,7 +1,9 @@
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000288/18491130/024/0002
 
-North & South Shields Gazette and Northumberland and Durham Advertiser - Friday 30 November 1849
+North & South Shields Gazette and Northumberland and Durham Advertiser
+Friday 30 November 1849
+p?
 
 Anecdotes of death. 
 

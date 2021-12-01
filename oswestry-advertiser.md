@@ -4,7 +4,9 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001972/18920629/079/0003
 
-Oswestry Advertiser - Wednesday 29 June 1892
+Oswestry Advertiser
+Wednesday 29 June 1892
+p?
 
 ...
 

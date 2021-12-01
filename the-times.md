@@ -5,15 +5,18 @@ https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&result
 (Event to take place in Ipswich..)
 
 THE BRITISH ASSOCIATION.-The programme of
-Date: Wednesday, Sept. 4, 1895
+Wednesday, Sept. 4, 1895
 Publication: The Times (London, England)
 Issue: 34673
-
-THe programme of proceedings in section H [Anthropology] is a pretty full one...
+p?
+The programme of proceedings in section H [Anthropology] is a pretty full one...
 
 On Monday there will be papers on Cannibalism by Captain Hinde
 
------
+---
+The Times (London, England)
+Sept. 11, 1895
+p?
 
 THE BRITISH ASSOCIATION.,IPSWICH, Sept. 11. (Wednesday)
 The annual meeting of the British Association was opened to-day under circumstances which augur favourably for a week of useful activity, sustained by sufficient, but not overwhelming, numbers. Up to this evening nearly 1,200 tickets had been issued. The weather is cooler than it was three days ago and is broken by sharp showers, too short to cause much inconvenience.
@@ -23,12 +26,12 @@ The annual meeting of the British Association was opened to-day under circumstan
 
 ---
 
-
+The Times (London, England)
 The British Association.
-Date: Monday, Sept. 16, 1895
-Publication: The Times (London, England)
-Issue: 34683
+Monday, Sept. 16, 1895
 
+Issue: 34683
+p?
 THE BRITISH ASSOCIATION, Ipswich, Sept 15th
 
 The engineers dealt with a short and varied programme. The Anthropologists had their meeting-place crowded during a discussion on cannibalism, in which there was apparently an under-current of feeling not quite in accord with popular sentiment.
@@ -58,8 +61,10 @@ CAPTAIN HINDE regretted that it should have been inferred from his paper that he
 ---
 ---
 
-The Times Wednesday 18 Sept., 1895,
- Mr. N. W. Thomas, of Oswestry
+The Times Wednesday 
+8 Sept., 1895,
+p?
+Mr. N. W. Thomas, of Oswestry
 
 THE SIN EATER IN WALES.
 TO THE EDITOR OF THE TIMES.
@@ -86,7 +91,9 @@ N. W. THOMAS.,Oswestry.
 SANDOWN PIER,ISLB OF WIGHT.-The Attorney General and bliss Webster yesterday performed the ceremony of opening the pier and pier navilion in Sandown Bay. The pier has been lengthened  by 545ft., with a pier-head 107ft. by 93ft., and a pavilion has been built capable of accommodating 400 people, at a total cost of abouit £12,809. 'the pier and pavilion were il1uminated in the evening
 
 ---
-The Times, Friday,  Sept. 20, 1895
+The Times
+Friday,  Sept. 20, 1895
+p?
 
 SMOKING IN CHURCH.
 
@@ -94,11 +101,14 @@ Mr. Elton B. Ede writes to us from Edenhurst, Heene, Worthing :-" Though the sin
 
 ---
 
+The Times (London, England)
+Tuesday,  Sept. 24, 1895
+
+Issue: 34690
+p?
+
 The Sin-Eater.
 Author: E. SIDNEY HARTLAND
-Date: Tuesday,  Sept. 24, 1895
-Publication: The Times (London, England)
-Issue: 34690
 
 THE SIN-EATER,TO THE EDITOR OF THE TIMES.
 
@@ -111,12 +121,14 @@ E. SIDNEY HARTLAND.,
 Highgarth, Gloucester, Sept. 20.
 
 ----
+The Times (London, England)
+Tuesday,  Sept. 24, 1895
 
 To The Editor Of The Times
 Author: Z.
-Date: Tuesday,  Sept. 24, 1895
-Publication: The Times (London, England)
+
 Issue: 34690
+p?
 
 TO THE EDITOR OF THE TIMES.
 
@@ -131,13 +143,12 @@ What follows is an aecount in quotation marks of "what is believed to be the las
 Z.
 
 ----
-
+The Times (London, England)
+Monday,  Oct. 14, 1895
 The Sin-Eater In Wales.
 Author: E. SIDNEY HARTLAND.
-Date: Monday,  Oct. 14, 1895
-Publication: The Times (London, England)
 Issue: 34707
-
+p?
 
 
 THE SIN EATER IN WALES. TO THE; EDITOR OF THE TIMES.
@@ -168,21 +179,25 @@ I have written without reference to the account in The Mountain Decameron mentiu
  I am. &c..,R. SIDNEY HARTLAND.,Highgarth, Gloucester.
 
 ---
+The Times (London, England)
 
-THE SIN-EATER IN WALES.-Writing under
-Date: Friday,  Oct. 18, 1895
-Publication: The Times (London, England)
+Friday,  Oct. 18, 1895
 Issue: 34711
+p?
+THE SIN-EATER IN WALES.-Writing under
 
 TiH SIN-EATER IN WALES_ Writing under date October 15 from Haverfordwest with reference to the letter on this subject by Mr. E. Sidney Hartland which appeared in The Times on Monday last, and in the last paragraph of which the writer suggested that the authoritis for the statements in certain contributions on this subject which had recently appeared in the Western Mail had not been given, Mr. Frederick J. Warren (Gwynfardd Dyfed) says that in the contribution to the Western Mail of September 18 last he quoted portions of certain works not therein named. On September 25 a letter appeared in the same Paper from Mr. Hartland asking him if he would furaish all the necessary particulars of the authorities cited. On the 8th of the present month he supplied this information through the same medium, and, as it would seem that Mr. Hartland did not see this second contribution containiug the authentications asked for, he now gives them as follows :-"1 Wanderings and Excursions in South Wales : With the Scenery of the River Wye," by Thomas Roscoe, Esq., published in 1854 by Mr. Henry G. Bohn, York--street, Covent-. garden ; also " Cymru Fu-Notes and Queries relating to the Past History of Wales and the Bor-der Counties ,publishd in 1888 by Messrs Daniel Owen and Co. (Limited), of St. Mary-street, Cardiff. In the notes in "Cymru Fu", the writers on this subject in turn draw their information from Paxton Hood's Christmas Evans" and from "Blackwood" November. 1875).
 
 ---
 
-The Sin-Eater In Wales.
-Author: N. W. THOMAS.
-Date: Monday,  Oct. 28, 1895
-Publication: The Times (London, England)
+The Times (London, England)
+
+Monday,  Oct. 28, 1895
+
+Author: N. W. THOMAS. 
 Issue: 34719
+p?
+The Sin-Eater In Wales.
 
 THE SIN-EATER IN WALES.,TO THE EDITOR OF TUE TIMES.,Sir,-Mr. Hartland's letter raises several very interesting points which would require to be discussed at some length. I must, however, confine myself to the question mainly raised by my first letter-the evidence for the recent existence of the sin-eater.
 

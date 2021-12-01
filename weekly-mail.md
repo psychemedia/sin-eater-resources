@@ -5,7 +5,8 @@
 
 https://newspapers.library.wales/view/3372638/3372642/77/
 Weekly Mail
-5th May 1883 p4
+5th May 1883
+p4
 THE RED DRAGON [1] In fulfilment of the promise we gave last week to notice at greater length the contents of the number of the National Magazine of Wales, ...
 
 The Sin Eater is a capital little paper by Mr. Askew Roberts, Oswestry, in which the personage in question, much though he has been exercising the minds of English writers, is shown after all to be a myth.
@@ -17,7 +18,8 @@ The Sin Eater is a capital little paper by Mr. Askew Roberts, Oswestry, in which
 
 https://newspapers.library.wales/view/3372701/3372704/73/
 Weekly Mail
-23rd June 1883 p3
+23rd June 1883
+p3
 
 WELSH MORALITY
 
@@ -61,7 +63,8 @@ This letter was not a whit too scathing in view of the aggravated character of t
 
 https://newspapers.library.wales/view/3370454/3370462/60/
 Weekly Mail
-21st September 1895 p8
+21st September 1895
+p8
 
 The Week
 
@@ -72,7 +75,8 @@ The interesting discussion which followed Captain Hinde's paper on cannibalism b
 
 https://newspapers.library.wales/view/3375655/3375661/85/
 Weekly Mail
-16th August 1902 p6
+16th August 1902
+p6
 
 Notes
 
@@ -91,7 +95,7 @@ In Chambers's "Pocket Miscellany" (v., 1852) there is an interesting paper on "L
 https://newspapers.library.wales/view/3370518/3370529/207/sin%20eater
 Weekly Mail
 19th October 1895
-
+p??
 THE SIN-EATER IN WALES.
 
 Å column of the Times" of Monday was occupied with a letter from Mr. E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent, Mr. N. W. Thomas, who denied the existence of the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years ago and of the Rev. T. Eynon Davies in the "Christian World of February, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
@@ -105,7 +109,9 @@ THE SIN-EATER IN WALES.
 
 https://newspapers.library.wales/view/3379551/3379556/113/
 Weekly Mail
-15th May 1909 p5 advert
+15th May 1909
+p5
+advert
 
 THe Forerunner
 STRIKING NEW SERIAL — BY THE — Rev. H. ELWYN THOMAS (Awarded First Prize at National Eisteddfod). i Story of Life in Wales 200 Years ago. > ,> r v "*t*>' ? v v" W lIL ♦ ST A S m. > i J „ ill/ v ;-™ V" ,x *•• ~Wm< %<■ v ■* t /K\> <■ i 'Mtfl 'i f W^ffgmgi«ga6ae^^ias&.» -< «*- The Story tells + How the Foundations of Noncon- formity were laid. Of the Heroes in the Early Pioneers of Dissent. Of Puritanism's attack on Welsh Social Life. How Cock-fighting and Bull-bait- I ing were driven out of the Land. Of the Murder of Vicar Prichard's Son, Samuel. Of the Gipsy Camp of Cilrychen Castle. Of the Reappearance of Owen Lawgoch. How Owen Lawgoch dispersed a Carmarthenshire Mob. Of the Kidnapping of John IPenry^s Grand-daughter. How Twm Shon Catty's Son be- came a Maniac. Of the last Sin Eater in Wales. Of Vicar Prichard's terrible Curse. Of Vicar Prichard's terrible Curse. ♦ Leading Actors in a National Drama. "THE FORERUNNER" HAS BEEN SECURED FOR THE "WEEKLY MAILII AND WILL BEGIN PUBLICATION ON SATURDAY, MAY 22ND WfNEXT WEEK)"WI
@@ -122,7 +128,8 @@ Publication date 1896
 
 https://newspapers.library.wales/view/3379759/3379764/121/
 Weekly Mail
-4th September 1909 p5
+4th September 1909
+p5
 The Forerunner 
 Rev H. Elwyn Thomas
 Chapter XXVII
@@ -142,7 +149,8 @@ Suddenly the speakers eye caught sight of a strange figure approaching the.con- 
 
 https://newspapers.library.wales/view/3379772/3379777/127/
 Weekly Mail
-11th September 1909 p5
+11th September 1909
+p5
 
 THe Forerunner 
 Rev H. Elwyn Thomas
@@ -156,7 +164,8 @@ Chapter XXVIII
 Later:
 https://newspapers.library.wales/view/3379772/3379777/125/
 Weekly Mail
-11th September 1909 p5
+11th September 1909
+p5
 Of course, my head was not always right until the dog's bite, and the prison doctor and the priest put it. But it is right now: I am atoning for ail my sins and my father's sins and my grandfather's sins as a Sin-Eater. The people are beginning to know me, and they send for lie, though they are terribly afraid of me. I sit at a little stool by their doors, when they bring out their dead, and all eyes are on me, and everyone holds his breath in terror when I take the bread off the breast of the corpse and eat it and drink the beer in the bowl they place on the bier by its side, and their hairs stand on end when I take the groat from the dead one's nearest relative, and say, with my face close to that of the corpse: 'I take thy sins upon my own soul; let thine rest at ease for ever, and let mine suffer its penalty.' And when the gipsy Princess dies, and when you, beautiful Nell, die, I shall take all your sins, and neither of your spirits will have to walk-"
 
 "Oh, Shon," she cried out, "you frighten me terribly! I do not understand you. Did you say that you came to take me home?" 

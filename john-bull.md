@@ -3,6 +3,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001945/18360612/016/0006
 John Bull
 
 Sunday 12 June 1836
+p?
 
 LITERATURE.
 

@@ -738,7 +738,8 @@ G.  M.  GODDEN.
 
 https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
 
-Folklore vol 4 , 1893, p. ??
+Folklore vol 4 , 1893,
+p. ??
 
 CORRESPONDENCE. 
 
@@ -766,7 +767,8 @@ E.  Sidney  Hartland.
 https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
 
 
-Folklore vol 4 , 1893, p. ??
+Folklore vol 4 , 1893
+p. ??
 
 An  Evening  Meeting  was  held  at  22,  Albemarle  Street,  on  Wed- 
 nesday, December  21st,  1892  ;  the  President  (Mr.  G.  L.  Gomme)  in 
@@ -797,7 +799,8 @@ Swynnerton  and  Mr.  E.  S.  Hartland  took  part
 
 https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
 
-Folklore vol 4 , 1893, p. 392-3
+Folklore vol 4 , 1893,
+p. 392-3
 
 
 "THE    SIN-EATER." 

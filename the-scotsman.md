@@ -1,6 +1,10 @@
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18320218/015/0001
 
-The Scotsman - Saturday 18 February 1832
+The Scotsman
+Saturday 18 February 1832
+p?
 
 MR _HONE'S _YEAR BOOK COMPLETE.
 
@@ -21,3 +25,5 @@ By W. Hone
 N.B. Persons wishing for Odd Numbers to complete the YEAR BOOK will make immediate applicationto R. GRIFFIN & CO., as some of the numbers are getting scarece.
 
 64, Hutcheson Street, Feb. 11, 1832
+
+---

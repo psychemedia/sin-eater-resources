@@ -5,7 +5,8 @@
 https://newspapers.library.wales/view/3422645/3422650/74/
 
 The Cardiff Times
-16th May 1885 p5
+16th May 1885
+p5
 Questions
 AN EXTRAORDINARY WELSH SUPERSTI- TION.—In a late issue of the Newcastle Weekly Chronicle (which paper, by the way devotes an entire pnge to Notes and Queries) I red an account of a. superstition, which, it was alleged, used to be prevalent in parts of Wales; that is, that after a death occurred in a house, a pro- fessional, known as the sin-eater," for a certain fee, agreed to take off all the deceased person's sins, by placing on }¡iscorpse ,a loaf of bread which h3 (the sin-eater) afterwards devoured the finale being that the operator was humed from the house by the bereaved family, after the manner of the scapegoat of the Bible. I have since seen an article in which the alleged Welsh custom of sin- eatiug is discredited, and it is therein stated that no instance of the kind has ever been verified. Some of the many thousands of your readers who belong to the principality may be able to give some clue to the origin of the myth or, if not a myth, soma cases in which the custom was prac- thad..T., Stroud, Gloucester.
 
@@ -13,7 +14,8 @@ AN EXTRAORDINARY WELSH SUPERSTI- TION.—In a late issue of the Newcastle Weekly
 
 https://newspapers.library.wales/view/3422672/3422677/86/
 The Cardiff Times
-6th June 1885 p5
+6th June 1885
+p5
 
 Local Notes and Queries
 
@@ -24,7 +26,8 @@ AN EXTRAORDINARY WELSH SUPRESTITION.' —For a good account of Welsh superstitio
 
 https://newspapers.library.wales/view/3422735/3422740/122/
 The Cardiff Times
- 25th July 1885 p5
+ 25th July 1885
+ p5
 
 ANSWERS.
  —AN EXTRAORDINARY WELSH SUPERSTITION. —The great majority of your readers will have read the account of the scapegoat" ceremony recorel in the Sacred Volume. Some, too, will remember a striking parallel custom (or, to put it more correctly, a parallel cltstom with a disparity) observed by the North American Indiana. From goat to dog, and from dog to man, are remarkable bounds; but here is an account of a human "scapegoat" fiom a trustworthy authority :—"In a certain county in Wales, some years ago when a person died, his friends sent for the sin-eater' of the district, who, for half-a-crowu, toot upon himself the sins of the deceased, by the simple pro- cess of eatintr them. A loaf of bread was pro- vided, which tho sin-eater' first placed upon the dead man's chest, then muttered some incanta- tions over it, finally eating it. By this he was believed to have taken from the deceased the heavy weight of his sins, appropriating them to himself, for which act of kindness he was regarded by everybody as an outcast. After the ceremony was finished, and he had received his pay, the 'sin-devourer' vanished in double-Quick time, it being the usual custom for the bereaved friends to belabour him with sticks." ffl., Newport, Monmouthshire.
@@ -34,7 +37,8 @@ ANSWERS.
 
 https://newspapers.library.wales/view/3429440/3429444/77/
 The Cardiff Times
-11th June 1892 p4
+11th June 1892
+p4
 
 WELSH ECHOES FROM LONDON
 
@@ -48,7 +52,7 @@ Welsh Folk-Lore. The current number of Folk-Lore opens with the paper on The Sin
 https://newspapers.library.wales/view/3431033/3431034/10/
 The Cardiff Times
 2nd November 1895
-
+p?
 WELSH GLEANINGS. 
 
 Mr N. W. Thomas, New College, Eastbourne, writes to the Timet pointing out that no Welsh writer has ever mentioned the sin-eater, and no Welsh word for the name is known. That no one has ever been produced who saw a sin-eater or heard of him in the localities where he was said to have lived.
@@ -59,7 +63,8 @@ Mr N. W. Thomas, New College, Eastbourne, writes to the Timet pointing out that 
 
 https://newspapers.library.wales/view/3421130/3421141/270/
 The Cardiff Times
-2nd August 1902 p11
+2nd August 1902
+p11
 Old English Customs.
 
 ...

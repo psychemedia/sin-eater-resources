@@ -6,7 +6,8 @@ https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t6640976f&view=1up&seq=16
 
 The golden bough :
 a study in comparative religion /
-by J. G. Frazer. 1890 p154-7
+by J. G. Frazer. 1890
+p154-7
 
 
 The old Welsh custom known as " sin-eating " is another example of the supposed transference of evil from one person to another. According to Aubrey, "In the County of Hereford was an old Custome at funeralls to hire poor people, who were to take upon them all the sinnes of the party deceased. One of them, I remember, lived in a cottage on Rosse-high way (he was a long, leane, ugly, lamentable poor raskal). The manner was that when the Corps was brought out of the house and layd on the Biere ; a Loafe of bread was brought out, and delivered to the Sinne-eater over the corps, as also a Mazar-bowle of maple (Gossips bowle) full of beer, which he was to drinke up, and sixpence in money, in consideration whereof he took upon him (ipso facto) all the Sinnes of the Defunct, and freed him (or her) from walking after they were dead. ... I believe this custom was heretofore used over all 

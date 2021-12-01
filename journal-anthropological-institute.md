@@ -3,7 +3,10 @@
 
 https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin
 
-The Journal of the Anthropological Institute of Great Britain and Ireland  February 9, 1875-January 25, 1876: Vol 5 p423
+The Journal of the Anthropological Institute of Great Britain and Ireland 
+February 9, 1875-January 25, 1876
+Vol 5
+p423
 
 Publication date February 9, 1875-January 25, 1876
 

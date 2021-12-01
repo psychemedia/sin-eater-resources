@@ -4,7 +4,9 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004
 
-Hereford Times - Saturday 05 May 1838
+Hereford Times
+Saturday 05 May 1838
+p?
 
 VARIETIES.
 
@@ -21,7 +23,9 @@ A strange popish custom prevailed in Monmouthshire and other western counties ti
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007
 
-Hereford Times - Saturday 04 September 1852
+Hereford Times
+Saturday 04 September 1852
+p?
 
 CAMBRIAN ARCHAEOLOGICAL ASSOCIATION. MEETING AT LUDLOW.
 
@@ -29,7 +33,7 @@ CAMBRIAN ARCHÆOLOGICAL ASSOCIATION. MEETING AT LUDLOW.
 
 THE SIN-EATER. 
 
-M. MOGGRiDGE Esq., made some remarks upon a singular custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in old work, being prevalent the neighbourhood of Ross, Herefordshire. The custom was this—when party died, a person known by the name of "the sin-eater was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread,and doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.
+M. MOGGRiDGE Esq., made some remarks upon a singular custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in old work, being prevalent the neighbourhood of Ross, Herefordshire. The custom was this—when party died, a person known by the name of "the sin-eater was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.
 
 Mr. Allen remarked that there still existed a custom in Wales of placing a candle salt, and burning it in the chamber of deceased person. Was this in any way connected with the custom just described was the popular notion that the candle stuck in the salt would scare away the evil spirit, awl it was usual for the friends of the deceased to watch the corpse for a certain period.
 

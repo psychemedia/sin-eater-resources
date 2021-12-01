@@ -5,3 +5,20 @@ and in referencing Aubrey WK -> White Kennett (1660-1728), Bishop of Peterboroug
 
 E.M. Leather, The Folk-Lore of Herefordshire Collected from Oral and Printed Sources (1912)
 
+
+---
+
+
+---
+
+?? Pennant Tours of Wales?
+
+
+
+
+Not mentioning sin-eater - general resource:
+
+
+https://archive.org/details/b24886026/page/n11/mode/2up?q=sin
+
+https://archive.org/details/brandspopularan00brangoog

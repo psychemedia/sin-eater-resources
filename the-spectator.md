@@ -3,7 +3,7 @@
 
 http://archive.spectator.co.uk/article/20th-may-1905/22/hearts-of-wales-by-allen-raine-hutchinson-and-co-6
 Spectator 20 MAY 1905
-, Page 22
+p22
 
 Hearts of Wales. By Allen Raine.
 

@@ -4,8 +4,10 @@
 
 https://archive.org/details/notesqueriesmedi03note/page/24/mode/2up?q=mazer+wood
 
+Notes and Queries
 No. 74
-March 29, 1851, p239
+March 29, 1851
+p239
 MAZER WOOD : GUTTA PERCHA. 
 
 In the Musaeum Trade.icantimium, or a Collectian 
@@ -91,7 +93,10 @@ peculiar signification. W. Pinkerton.
 ---
 
 https://archive.org/details/notesqueriesmedi03note/page/24/mode/2up?q=mazer+wood
-No.76 April 12, 1851
+
+Notes and Queries
+No.76
+April 12, 1851
 p 288
 
 
@@ -143,7 +148,8 @@ p. 488., edit. 1848.]
 
 ---
 https://archive.org/details/notesqueriesmedi03note/page/24/mode/2up?q=mazer+wood
-No.84 June 7, 1851
+No.84
+June 7, 1851
 p 466 
 
 Mazer Wood (Vol. iii., pp. 2.39. 288 ). — 
@@ -172,7 +178,9 @@ be derived from it. S. S. S.
 
 https://archive.org/details/sim_notes-and-queries_1851-09-20_4_99/page/210/mode/2up?q=%22sin-eating%22
 
-Notes and Queries  1851-09-20: Vol 4 Iss 99
+Notes and Queries
+1851-09-20
+Vol 4 Iss 99
 
 Publication date 1851-09-20
 p211
@@ -223,7 +231,9 @@ Gentleman's Magazine, vol, xcii. pt. i. p. 222. ]
 
 ---
 
-Notes and Queries  1852-12-04: Vol 6 Iss 162
+Notes and Queries
+1852-12-04
+Vol 6 Iss 162
 
 Publication date 1852-12-04
 
@@ -293,7 +303,7 @@ serifice seems to be implied by the proceeding
 ” referred to by your correspondent. 
 e? ALEXANDER LEEPER. 
 all Dublin. 
----
+
 
 ---
 
@@ -302,7 +312,9 @@ all Dublin.
 
 Notes and queries
 
-Notes and Queries  1895-11-09: Vol 8 Iss 202
+Notes and Queries
+1895-11-09
+Vol 8 Iss 202
 
 p366
 
@@ -337,7 +349,9 @@ E. Leaton-Bienxtnsorr.
 
 --
 
-Notes and Queries  1896-02-08: Vol 9 Iss 215
+Notes and Queries
+1896-02-08
+Vol 9 Iss 215
 
 p109-111 Feb 8, 1896
 
@@ -684,9 +698,12 @@ where references to other works are also given ?
 Everard Home CoLemay. 
 
 71, Brecknock Road. 
+
 ---
 
- Notes and Queries  1896-02-29: Vol 9 Iss 218
+Notes and Queries
+1896-02-29
+Vol 9 Iss 218
 
 Feb 29, 1896
 p169-170

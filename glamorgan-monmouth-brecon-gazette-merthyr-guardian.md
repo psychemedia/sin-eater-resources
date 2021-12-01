@@ -5,16 +5,21 @@ Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette
 
 Saturday 04 June 1836
 
+p??
+
 Breconshire
 
 The forthcoming work, called "The Mountain Decameron, is licely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well)—thc Panty Gwaye (the Hollow of Woe)—the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blook of Man). What terrible mysteries do these more than half unveil, and by a single name!
 
 ---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360611/025/0003
 
 "Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette "
 
 Saturday 11 June 1836
+
+p??
 
 Breconshire
 
@@ -26,9 +31,11 @@ A new Romance, under the title of "The Mountain Decameron", from the pen of a mo
 
 ---
 
-britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/024/0003
+https://britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/024/0003
 
 Saturday 18 June 1836
+
+p??
 
 Breconshire
 THE MOUNTAIN DECAMERON—
@@ -41,7 +48,9 @@ britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/039/0004
 
 Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette - Saturday 18 June 1836
 
-LITERAR Y NOTICES.
+p??
+
+LITERARY NOTICES.
 
 "THE MOUNTAIN DECAMERON."
 
@@ -76,7 +85,7 @@ https://newspapers.library.wales/view/3631955/3631958/33/sin%20eater
 The Glamorgan Monmouth and Brecon Gazette and Merthyr Guardian
 
 1st October 1836 p3
-
+p??
 
 THE LAST "SIN-EATER" OF WALES. A SKETCH. (From Mr Downes' Mountain-Decameron.)
 
@@ -103,7 +112,8 @@ The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck, and nails 
 
 https://newspapers.library.wales/view/3090385/3090388/36/
 The Cardiff and Merthyr Guardian Glamorgan Monmouth and Brecon Gazette
-30th October 1852 p3
+30th October 1852
+p3
 
 SIN-EATER.—Can any of your readers explain the origin of "the sin-eater," and give instances of th.t horrible practice still subsisting in parts of England and Wales, as I am assured it does? It consists in the supposed transfer of the sins of a person recently dead to a man of reprobate character, who eats a piece of bread laid on the chest of the corpse, whereby he is believed to have relieved the dead man from the responsibility of his sins, aud to have it on himself; he crowu for his services, and is driven or pursued fioui the house with execration. This practice was the subject of an interesting paper by Mr. Moggridge of Swansea at the last annual meeting of the Cambrian Arthai do.r'.cal Association; but its origin was not satisfactorily traced. The scapegoat, and the sacrifice of criminals in the arena at Athens, &c., have been SUG^eateil. —JULINGBK. C. SYMONS. jihe custom is generally supposed to have been taken from the scapegoat in Leviticus xvi. 21 •> bee a curious passage from Lansdown MSS. concerning a sin-eater who lived in a collage on the Ross high way in Herefordshire, quoted in B.*i,s Antiquities, vol. iu, p. •447, edit. HPJ] -Not,, and Que,™.
 

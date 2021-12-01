@@ -1,7 +1,8 @@
 
 https://newspapers.library.wales/view/3855306/3855311/41/
 Wrexham Guardian
-27th December 1879 p5
+27th December 1879
+p5
 
 Literary
 

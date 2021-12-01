@@ -5,8 +5,9 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18360521/018/0004
 
-Morning Post - Saturday 21 May 1836
-
+Morning Post
+Saturday 21 May 1836
+p?
 A writer new to the world of literature, but possessed of a faculty of great power and entire originality, is on the point of producing a work of fiction, called "The Mountain Decameron." The editor of the first critical journal in this kingdom has pronounced the author to he a man of "rare genius." In selecting North Wales as the scene of his romance the writer has opened a field hitherto strangely neglected, but one which abounds in the grandest elements of fiction, whether as regards its magnificent landscapes, its striking customs, its traditionary lore, or the strongly marked character of its inhabitants.
 
 
@@ -14,7 +15,9 @@ A writer new to the world of literature, but possessed of a faculty of great pow
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18360620/040/0007
 
-Morning Post - Monday 20 June 1836
+Morning Post
+Monday 20 June 1836
+p?
 
 The Mountain Decameron, a Romance of North Wales.— 
 

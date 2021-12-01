@@ -6,7 +6,7 @@ https://archive.org/details/sim_academy-and-literature_1875-11-06_8_182/page/478
 
 The Academy  1875-11-06: Vol 8 Iss 182
 
-Publication date 1875-11-06
+1875-11-06
 
 p478
 
@@ -19,7 +19,8 @@ https://archive.org/details/sim_academy-and-literature_1875-11-13_8_183/page/504
 
 The Academy  1875-11-13: Vol 8 Iss 183
 
-Publication date 1875-11-13
+1875-11-13
+p?
 
 Correspondence
 
@@ -90,8 +91,14 @@ D. SILVAN EVANS.
 
 [See also: https://archive.org/stream/sim_academy-and-literature_1876-02-26_9_199/sim_academy-and-literature_1876-02-26_9_199_djvu.txt 
 
+---
+
 https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/198/mode/2up?q=sin+eater
-The Academy  1876-02-26: Vol 9 Iss 199
+The Academy
+1876-02-26
+ Vol 9 Iss 199
+
+p?
 
 The Sin- 
 Eater, by the Rev. D. Silvan Evans and E. R. 
@@ -396,9 +403,10 @@ knowledge. E. R. Morris.
 
 
 https://archive.org/details/sim_academy-and-literature_1895-11-09_48_1227/page/386/mode/2up?q=sin
-The Academy  1895-11-09: Vol 48 Iss 1227
+The Academy
+1895-11-09: Vol 48 Iss 1227
 
-Publication date 1895-11-09
+1895-11-09
 
 pp387-8
 
@@ -532,24 +540,8 @@ at Dynder, volexs nolens the Parson of y* Parish,
 
 
 
-__ ee ee 
-
-
-
-
 
 [Nov. 9, 1895.—No. 1227, 
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1303,9 +1295,9 @@ https://archive.org/details/sim_academy-and-literature_1896-01-11_49_1236/page/3
 
 The Academy  1896-01-11: Vol 49 Iss 1236
 
-Publication date 1896-01-11
+1896-01-11
 
-
+p?
 
 
 THE SIN-EATER IN WALES. 
@@ -1483,7 +1475,7 @@ E, SIDNEY HARTLAND.
 https://archive.org/details/sim_academy-and-literature_1896-01-04_49_1235/page/14/mode/2up?q=%22sin-eating%22
 The Academy  1896-01-04: Vol 49 Iss 1235
 
-Publication date 1896-01-04
+1896-01-04
 p14-15
 
 
@@ -2060,7 +2052,7 @@ but to his own face by a friendly hand.
 https://archive.org/details/sim_academy-and-literature_1896-01-25_49_1238/page/72/mode/2up?q=%22sin-eating%22
 The Academy  1896-01-25: Vol 49 Iss 1238
 
-Publication date 1896-01-25
+1896-01-25
 p78-9
 
 THE SIN-EATER IN WALES. 
@@ -2224,7 +2216,7 @@ https://archive.org/details/sim_academy-and-literature_1896-02-29_49_1243/page/1
 
 The Academy  1896-02-29: Vol 49 Iss 1243
 
-Publication date 1896-02-29
+1896-02-29
 p178-9
 
 
@@ -2511,7 +2503,7 @@ https://archive.org/details/sim_academy-and-literature_1896-03-14_49_1245/page/2
 
 The Academy  1896-03-14: Vol 49 Iss 1245
 
-Publication date 1896-03-14
+1896-03-14
 
 p72-3
 
@@ -2771,7 +2763,7 @@ https://archive.org/details/sim_academy-and-literature_1896-03-14_49_1245/page/2
 
 The Academy  1896-03-14: Vol 49 Iss 1245
 
-Publication date 1896-03-14
+1896-03-14
 p222-3
 
 
@@ -2898,7 +2890,7 @@ investigate, N. W. THomas,
 https://archive.org/details/sim_academy-and-literature_1896-03-21_49_1246/page/240/mode/2up?q=%22sin-eating%22
 The Academy  1896-03-21: Vol 49 Iss 1246
 
-Publication date 1896-03-21
+1896-03-21
 p241-242
 
 

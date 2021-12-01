@@ -1,7 +1,9 @@
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18320606/002/0001
 
-Inverness Courier - Wednesday 06 June 1832
+Inverness Courier
+Wednesday 06 June 1832
+p?
 
 HONE’S NEW WORK.
 
@@ -31,7 +33,9 @@ THE YEAR BOOK._"This is another delightful compilation by the ingenious Mr Hone,
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18380228/034/0003
 
-Inverness Courier - Wednesday 28 February 1838
+Inverness Courier
+Wednesday 28 February 1838
+p?
 
 A LADY TOURIST — ANECDOTES
 

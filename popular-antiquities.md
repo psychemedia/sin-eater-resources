@@ -1,10 +1,17 @@
+
+
+---
+
 https://archive.org/details/in.ernet.dli.2015.38718/page/n255/mode/2up?q=sin
 
 
 Observation On The Popular Antiquities Vol-2, 1854
 by Brand John
 
-Publication date 1854
+Lots or earlier versions? eg referenced in North & South Shields Gazette and Northumberland and Durham Advertiser
+Friday 30 November 1849
+
+1854
 p246-8
 
 
@@ -105,4 +112,182 @@ Amersden, in the county of Oxford, where, at the burial of
 every corpse, one cake and one flagon of ale, just after the 
 interment, were brought to the minister in the church -porch.” 
 
+
+---
+
+https://archive.org/details/brandspopularan00brangoog/page/n202/mode/2up?q=sin 
+
+Brand's Popular Antiquities of Great Britain: Faiths and Folklore; a Dictionary of National ...
+by John Brand
+
+Publication date 1905
+
+p185
+
+dole. — The giving of a dole, and the 
+inviting of the poor on this occasion, are 
+synonynious terms. There are some strong 
+figurative expressions on this subject in 
+St. Ambrose's Funeral Oration ou Satyrus, 
+cited by Durandus. Speaking of those 
+who mourned on the occasion, he says: — 
+"The poor also shed their tears; precious 
+and fruitful tears, that washed away the 
+sins of the deceased. They let fall Hoods 
+of redeeming tears." Krom such passages 
+as the above in the first Christian writers, 
+literally understood, the Romanists may 
+have derived their superstitious doctrine 
+of praying for the dead. " Preterea con- 
+Tocabantur et invitabantur necdum Sacer- 
+dotes et Religiosi, sed et egeni pauperes." 
+Durandus. Had Pope an eye to this in 
+ordering by will poor men to support his 
+
+fiallp Doles were used at funerals, as we 
+earn from St, Chrvsostom, to procure rest 
+to the soul of the deceased, that he might 
+find his judge propitious. Homilia in 
+Matthei cap. i). 
+
+In"Dives and Pauper," H93, we read: 
+" Dives. What seyst thou of them that 
+wole no solemnyte have in their buryinge, 
+but be putt in erthe anon, and that that 
+shukle be spent aboute the buriyng they 
+bj-dde that it shukle be yoven to the pore 
+folke blynde and lame.'' — I'auper. Comonly 
+in such pri\e buriyuges bene ful smalfe 
+doles and lytel nimes yoven, and in solemne 
+buriynges been grete doles and moche 
+almesse yoven, for moche pore people come 
+thanne to seke almesse. But whanne it 
+is done prively, fewe wytte therof, and 
+fewe come to axe almesse 1 for they wote 
+oat whanne ne where, ne whom they shulde 
+axe it. And therefore I leve sikerly that 
+summe fals executoures that wolde kepe 
+all to themself biganne firste this errour 
+and this fovle, that wolden make themself 
+richo with ded mennys gojjes, and nat dele 
+to the pore after dedes wylle, as nowe all 
+false executoures use bv custome," By 
+the will of William de M^ontacute, Earl of 
+Salisbury (1397), he directs " that twenty- 
+five shillings should be daily distributed 
+among three hundred poor people from the 
+time of his death to the arrival of his body 
+at the Conventual Church of Bustle- 
+ham [Bustlcton] in which it was to 
+be deposited." Warner's Hampshire, 
+11, 73. Strutt tells ua that Sir 
+Robert Knolles, in the eighth year of 
+Henry IV. died at his Manor in Norfolk, 
+and his dead body was brought in a litter 
+to London with great pump, and much 
+
+
+
+torch-light, and it was buried in the Wliite 
+Friars Church, " where was done for him a 
+solemn obsequie, with a great feaste and 
+lyberal dole to the poore." This custom, 
+says Strutt, of giving a funeral feast to the 
+chief mourners, was universally practised 
+all over the kingdom, as well as giving 
+alms to the poor, in proportion to the 
+quality and finances of the deceased. 
+Manners and Customs, ii., 109. Nichols, 
+speaking of Stathorn in Framland Hun- 
+dred, says : "In 1790, there were 432 in- 
+habitants ; the number taken by the last 
+person who carried about bread, which 
+was given for dote at a, funeral; a custom 
+formerly common throughout this part 
+of England, though now fallen much 
+into disuse. The practice was some- 
+times to bequeath it by will ; but, 
+wiiether so specified or not, the cere- 
+mony was seldom omitted. On such 
+occasions a small loaf was sent to 
+every person, without anv distinction of 
+age or circumstances, and, not to receive 
+it was a mark of particular disrespect." 
+Leicestershire J vol. ii., part i., p. 3o7. Ly- 
+sons's Env., lii., 341. Pennant says; — 
+" Offerings at funerals are kept up here 
+(Whiteford), and I believe, in all the 
+Welsh Churches." Hist, of Whiteford, p. 
+99. The same writer observes : " In North 
+Wales, pence and half-pence (in lieu of 
+little rolls of bread) which were hereto- 
+fore, and by some still are, given on these- 
+occasions, are now distributed to the poor, 
+who flock in great numbers to the house of 
+the dead before the corpse is brought out. 
+When the corpse is brought out of the 
+house, layd upon the bier and covered, be- 
+fore it be taken up, the next of kin to the 
+dctceased, widow, mother, daughter, or 
+cousin (never done by a man), gives over 
+the corps to one of the poorest neighbours 
+three 2d. or four 3d. whit« loaves of bread, 
+or a cheese with a piece of money stuck in 
+it, and then a new wooden cup of drink, 
+wliich some will require the poor person 
+who receives it immediately to drink a 
+little of. When this is done, the minister, 
+if present, says the Lord's Prayer, and 
+then they set forward for church. Th» 
+things mentioned above as given to a poor 
+body, are brought upon a large dish, over 
+the corpse, and the poor body returns 
+thanks for them, and blesses God for the 
+happiness of his friend and neighbour de- 
+ceased." Compare Sin-Eater and Ditch- 
+field, chap. 18. In the 18th century, it ap- 
+pears that at Glasgow large donations at 
+funerals were made to the poor, "which 
+are never less than £5, and never exceeded 
+ten guineas, in which case the bells of th» 
+city are tolled." Stat. Ace. of Scotland, 
+V. 523. It was formerly customary for » 
+sum of money to be given to certain rer- 
+sons or institutions, with whom or which 
+the deceased had been connected. This 
+
+
+
+i86 
+
+
+
+NATIONAL FAITHS 
+
+
+
+usage is illustrated by a. document inserted 
+among the " Kgertoii Papers," being tlie 
+meuionitida relating to tlio will of one of 
+the Rokeby family, who died in ICiOO. 
+Among the items are gifts of sums of 
+money to the principals of Liucoln's Inn, 
+Furnival's Jim, and I'liavis' Jnii, for drink 
+to be supplied to the members of tlioKo 
+societies in honour of the occasion. This 
+custom of funeral libations is still not un- 
+common in the country. By his will made 
+in lt)3'J, Francis Pyuner, of Bury St. Ed- 
+munds, directed that out of certain rents 
+and revenues accruing from his propertv, 
+from and after the Michaelmas following 
+his decease, forty poor parishioners of St. 
+Mary's, Bury, should, on coming to the 
+church, be entitled to a twopenny wheaten 
+loaf on the Inst Friday in every moutji 
+throughout the year, for ever. See a curi- 
+-ous account of doles in Ducarel's Tour 
+through Normandy. 
+
+---
 

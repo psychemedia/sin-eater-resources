@@ -3,7 +3,7 @@ Blackwoods Magazine, v118 Nov 1895 p590-607
 
 https://babel.hathitrust.org/cgi/pt?id=chi.55222270&view=1up&seq=602&skin=2021&q1=north%20wales
 
-esp.  p 605-6
+p 605-6
 
 We have heard it asserted that
 the premonitory token of a death, known as

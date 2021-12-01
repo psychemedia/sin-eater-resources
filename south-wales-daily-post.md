@@ -4,7 +4,8 @@
 
 https://newspapers.library.wales/view/3353669/3353673/66/
 The South Wales Daily Post
-16th September 1895 p4 
+16th September 1895
+p4 
 CURIOUS WELSH CUSTOM. TRACES OF CANNIBALISM IN WALES. "SIN-EATING" IN THE NEIGHBOUR- HOOD OF SWANSEA. In the course of the discussion raised by I the reading of Captain S. L. Hinde's paper on cannibalism at the Anthropological Sec- tion of the British Association at Ipswich on Saturday, an interest iiigfejtuK) connected with old Welsh social life was referred to by Mr. E. S. Hartland, of Gloucester. He said that there were traces of the olid custom oiea-ting the dead to be found, not merely in Europe, but in our own country. In Upper Bavaria, when a dead man was laid out, the first thing was to bake a corpse-cake of ordinary flour. The cake was put on the breast of the dead "to rise." It was after- wards eaten by the nearest relatives. In the Balkan Peninsula an image of tne dead was carried1 in the procession, and was eaten at the tomb, the relatives praying "God rest him In our own country there were traces of these customs. In Wales there wa £ within the recollection of men still living, the "sin-eater. John Aubrey, who livod. at the time of Charles IT., and was a cele- brated antiquary, witnessed this ceremony at Ross, in the county of Hereford. Aubrey described the man, who was a paid "sin- eater," as "a long, lean, lamentably poor rascal." It was the practice for a relative, usually a woman, to put on the breast of the dead a. quantity of bread, cheese, and beer. The "sin-eater" was expected to con- sume these things, and then to pronounce the everlasting rest of the departed. It was believed that in doing this he absolutely ate and appropriated to himself the sins of the deceased. The "sin-eater' was given six- pence for his trouble, and took care to get ou-t of people s sight as soon as he oould. This practice was said to have existed in the neighbourhood of Swansea as recently as 1851, but the "sin-eater's" price had then risen to half-a-crown. Probably the greater part of the humsn race had passed through this phase of eanniballism. and it was, perhaps, a necessary phase of the evolution of human civilisation.
 
 
@@ -12,7 +13,8 @@ CURIOUS WELSH CUSTOM. TRACES OF CANNIBALISM IN WALES. "SIN-EATING" IN THE NEIGHB
 
 https://newspapers.library.wales/view/3354769/3354771/8/
 The South Wales Daily Post
-2nd June 1896 p2
+2nd June 1896
+p2
 
 *Start to see use of "sin eater* as a metaphor. (Other examples exist but I didn't keep track of them.. bah...)
 
