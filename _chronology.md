@@ -22,7 +22,6 @@ Saturday 04 June 1836, Saturday 04 June 1836,"Cardiff and Merthyr Guardian, Glam
 
 Saturday 04 June 1836,Saturday 04 June 1836,Morning Herald (London), Mountain Decameron Publication notice,
 
-
 Saturday 11 June 1836,Saturday 11 June 1836,"Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette ",
 
 Sunday 12 June 1836,Sunday 12 June 1836,John Bull,Literature-Decameron,
