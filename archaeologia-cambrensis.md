@@ -6,7 +6,6 @@ Publication date 1852-10
 
 p330
 
-
 Mr. Moggridge then proceeded to. make some observations on the 
 custom of * sin-eater and said,—The custom of employing the 
 sin-eater probably obtained in ancient times throughout a - 
