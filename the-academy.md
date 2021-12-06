@@ -45,7 +45,9 @@ p125-6
 
 Correspondence The Sin-Eater, by Prof. D. Silvan Evans
 
-THE SIN-EATER. Aberystwyth : Jan. 29, 1876.
+THE SIN-EATER.
+
+Aberystwyth : Jan. 29, 1876.
 
 At the risk of exposing my “ignorance” still further, and thereby causing additional surprise to the writer of the paper on the “Legends and Folklore of North Wales” in *Blackwood’s Magazine*, I venture to reiterate my doubts as to the existence of the sin-eater in any part of Wales. Like every other country, the Principality had, and still has, her superstitions, but that of the sin-eater does not appear to be among them. Since the appearance of my former letter in the ACADEMY (November 13), I have made all the enquiries I could into the subject, with the view of ascertaining whether such a personage has, or ever had, “a local habitation and a name” among us. I have spoken to many and corresponded with several persons who are known to have paid attention to the customs and traditions of the country; and the sum of their communications is, without any exception, that the superstition of the sin-eater was as novel to them as it was to me.
 
@@ -77,6 +79,35 @@ In conclusion I would remark that if the custom under notice ever existed in Wal
 D. SILVAN EVANS.
 
 [See also: https://archive.org/stream/sim_academy-and-literature_1876-02-26_9_199/sim_academy-and-literature_1876-02-26_9_199_djvu.txt 
+
+---
+
+https://archive.org/details/sim_academy-and-literature_1876-02-12_9_197/page/146/mode/2up?q=silvan
+
+The Academy  1876-02-12: Vol 9 Iss 197
+
+
+1876-02-12
+
+p147
+
+THE "SIN-EATER" IN WALES.
+February 8, 1876.
+
+I crave Mr. Silvan Evans's pardon for the hasty assumption that the editor of an Archaeological journal would possess or have access to 
+a complete set of the past volumes, in which case he need not have denied in his first letter to the ACADEMY having ever heard of the Sin-eater in Wales, seeing that he now admits that if "he ever read Mr. Mogeridge’s revelations at Ludlow, they had been effaced from his memory" when he first wrote. To me he does not seem even now to have fully refreshed his memory; as after quoting a portion of Mr. Moggridge’s remarks at the Ludlow meeting in 1862, and calling Mr. Moggridge as a witness, at this distance of time, that "he does not remember anything that gives a date," he takes me to task *for making "five years!" out of that statement, and by that process bringing the custom down to* 1847. Had Mr. Evans turned over a leaf and read the last words of Mr. Moggridge on the occasion referred to, he would have found that they were to the effect that "he believed people were thoroughly ashamed of the practice: one case, he was informed, *occurred four or five years ago; but he believed it was extinct now.*" Perhaps, had I not wished to be succinct, I should have given Mr. Moggridge’s own words for the mountain valley in which, when he brought forward the subject in 1852, the practice was said to have existed till recently. But "at or near Llandebie" is a wide statement, and though the present vicar and the quondam schoolmaster may never have heard of the " Sin-eater," I am still disposed to believe that there must have been some foundation for Mr. Moggridge’s statement. Only last night, in the Introduction to Murray’s *Handbook to South Wales*, 1870 (the editor of which I am unacquainted with, although I have an impression that he was a medical man of eminence, connected with Monmouthshire Iron Works), I came upon this paragraph in p. xxvii: “The superstition of the sin-eater is said to have lingered until very recently in the secluded valley of Cwm-Amman in Caermarthenshire.” I refer to the Ordnance Maps, and find Cwm-Amman to lie not far distant from Llandebie, on the Garnant branch of the Swansea Valley Railway. Lady Verney, in the current number of the *Contemporary*, refers to the same superstition, and if the whole story does really trace back to Aubrey, it is at least singular that there should lie in wait for such enquirers as that pleasant antiquary, and his later fellow craftsman, Mr. Moggridge, deliberate fiction-mongers to practise on their credulity and to spread abroad a lie which Welshmen feel it a point of national honour to repudiate. I scruple to take up your space, or I might show that such a superstition is not widely removed from others which, in many nations, have simulated the vicarious sin-bearing of the Levitical scape-goat. Grotius on 1 Cor. iv. 13 traces one such in Caesar’s account of the Gauls, B. ix, 6. That is coming near to the Welsh, though doubtless it would be treason to say that they are either ignorant or superstitious. Mr. Silvan Evans's parting shot at the
+discoverers "who are ignorant of the language of the natives, and but slightly acquainted with the country," shall not draw me from my incognito, or I might show him that by parentage, ancestry, property, and interests, I am connected with two counties of South Wales, and that I have travelled frequently over most of the Principality, although I have failed to acquire its language.
+
+THe WRITER OF AN ARTICLE IN THE NOVEMBER NUMBER OF "BLACKWOOD'S MAGAZINE," 1875, "ON THE LEGENDS AND FOLK-LORE OF WALES."
+
+P.S.—It occurs to me to add that the much-abused Aubrey was great-grandson to the owner of property in Brecknockshire and Glamorganshire; and that the “plate and salt,” which have no connection with “ sin-eating,” are not confined to Roman Catholics.
+
+Also p144
+
+In the Contemporary Review  ...  
+Lady VERNEY, in an interesting paper in the same periodical on Welsh Legends and Welsh Poetry, repeats the disputed statement as to the 
+functions of the Sin-eater, and supplies some instances of witchcraft with a rationalistic explanation.
+
 ---
 
 https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/198/mode/2up?q=sin+eater
@@ -84,61 +115,79 @@ The Academy
 1876-02-26
 Vol 9 Iss 199
 
-p?
+p197-8
 
-The Sin- Eater, by the Rev. D. Silvan Evans and E. R. Morris . ° ° ° ° ° . 197-8
-THE ‘“ SIN-EATER.” Llanymawddwy : Feb. 12, 1876.
+The Sin-Eater, by the Rev. D. Silvan Evans and E. R. Morris .
 
-The question between the writer in Blackwood and myself is a simple one, and I regret to find that in his letter in the Academy of to-day he mixes up with it a good deal of irrelevant matter, leaving the point at issue just where it was. He stated in his article that the custom of the Sin- Eater prevails in North and South Wales at the present day; when I challenged that statement and asked for proof, we were told that by the present day he means some thirty years ago; and when pressed for the locality he goes under the aegis of Mr. Moggridge to Llandebie “ in the hill- country of Carmarthenshire.” When persons appeul to certain tribunals, they should not com- plain if they are sent to appear before the tribunals of their choice. Llandebie was named, and Llandebie was accepted: enquiries were made on the spot by competent persons; and those who will take the trouble to read my last letter will see with what success, The Sin-Eater is as little known there as probably he is in Nova Zembla. Now the writer shifts his ground and moves, under the enlightening guidance of Murray's Handbook for Travellers in South Wales, to Cwm Amman, about seven miles from Llandebie. The compiler of that volume, whether ever “connected with Monmouthshire Iron Works” or not, states nothing about the Sin-Eater from personal knowledge, or from the personal knowledge of any in- formants, but quotes almost the identical words of Mr. Moggridge at Ludlow, with a slight variation as to the locality. Lady Verney, in the February number of the Contemporary Review, simply relates the same story over again, without any corroboration of her own. A false story does not become truth by repetition, and these repetitions add nothing to our knowledge, and therefore it is simply waste of s to retail them.
+THE "SIN-EATER."
+Llanymawddwy : Feb. 12, 1876.
 
-The writer sd. that I did not turn over a certain leaf in the Archaeologia Cambrensis, where he intimates that Mr. Moggridge told the archaeo- logists at Ludlow that the practice of sin-eating was carried on at Liandebie wnttl within five years of that time (1852). The leaf had been turned over and read before 1 wrote my last Iptter; I turn it over again, and on it read the last utter- ances of Mr. Moggridge as follows :— 
-“Mr. Moggridge said—Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. Hoe thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of Sin-Eater and.the plate and the salt. Start- ing from the Carmarthenshire valley, he found the most horrible portion of the custom dropped; and the rest still retained; and us he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high cha- racter, said that the custom had existed both in Here- fordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw & man whom he described as the Sin-Eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thorough] ashamed of the practice; one case, he was infienel, occurred four or five years ago, but he believed it was extinct now.” 
-These are Mr. Moggridge’s last words at Lud- low, and I fail to find a syllable in them referring to Llandebie; and if he refers to any place, it must be, as I understand him, to some part of Herefordshire, with which the writer appears to be more acquainted than I can pretend to be, and to which, as I have already distinctly stated, my remarks do not apply. Mr. Maagige, and ap- parently the writer of the article, assume all along that the plate and salt are necessarily remnants of the alleged sin-eating practice ; and finding these articles employed in certain cases, they take it for granted that the “ more odious part of the custom has been removed,” which amounts to begging the whole question. Mr. Moggridge candidly admits that he never witnessed the “horrid cus- tom” at Llandebie or elsewhere, but informs: us that it “was said to have prevailed: ” he does not mention his authorities, nor does he so much as hint what means his informants had of knowing the truth or untruth of the story. I can assure Mr. Moggridge that I mean no dis- respect to him when I say that both the vicar and the schoolmaster have enjoyed more favourable opportunities than he is likely to have had of ascer- taining the facts of the case, on account of their connexion with the locality and their knowledge of the vernacular. I value Mr. Moggridge’s opinions as opinions; but we are now in quest of facts; and opinions, from whatever source they may emanate, must not be mistaken for them. The question at issue lies within the domain of fact, and, therefore, capable of proof if the charge has any foundation on a more solid substance than “ imagination all compact.” 
-It is very kind, but slightly superfluous, on the part of the writer to “refresh” my memory re- specting “ the vicarious sin-bearing of the Levitical scapegoat.” It is useless to argue about what may, could, or should have occurred, when we are concerned only with what has actually taken 
-lace. It is needless to expatiate on the possi- fility of a custom, when its existence is denied. The writer might have spared his sneering remark about: the “treason ” of calling Welshmen “ igno- rant” and “superstitious.” The qualities. denoted by these elegant stock-epithets, unfortunately, are not confined to the Principality of Wales; and one at least of these benighted barbarians holds that it is treason against truth to make charges 
+The question between the writer in Blackwood and myself is a simple one, and I regret to find that in his letter in the Academy of to-day he mixes up with it a good deal of irrelevant matter, leaving the point at issue just where it was. He stated in his article that the custom of the Sin-Eater prevails in North and South Wales at the present day; when I challenged that statement and asked for proof, we were told that by the present day he means some thirty years ago; and when pressed for the locality he goes under the aegis of Mr. Moggridge to Llandebi "in the hill-country of Carmarthenshire." When persons appeul to certain tribunals, they should not complain if they are sent to appear before the tribunals of their choice. Llandebie was named, and Llandebie was accepted: enquiries were made on the spot by competent persons; and those who will take the trouble to read my last letter will see with what success, The Sin-Eater is as little known there as probably he is in Nova Zembla. Now the writer shifts his ground and moves, under the enlightening guidance of Murray's *Handbook for Travellers in South Wales*, to Cwm Amman, about seven miles from Llandebie. The compiler of that volume, whether ever “connected with Monmouthshire Iron Works” or not, states nothing about the Sin-Eater from personal knowledge, or from the personal knowledge of any informants, but quotes almost the identical words of Mr. Moggridge at Ludlow, with a slight variation as to the locality. Lady Verney, in the February number of the Contemporary Review, simply relates the same story over again, without any corroboration of her own. A false story does not become truth by repetition, and these repetitions add nothing to our knowledge, and therefore it is simply waste of space to retail them.
 
+The writer complains that I did not turn over a certain leaf in the *Archaeologia Cambrensis*, where he intimates that Mr. Moggridge told the archaeologists at Ludlow that the practice of sin-eating was carried on *at Llandebie until within five years of that time* (1852). The leaf had been turned over and read before I wrote my last letter; I turn it over again, and on it read the last utterances of Mr. Moggridge as follows :—
 
+“Mr. Moggridge said— Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. He thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of Sin-Eater and the plate and the salt. Starting from the Carmarthenshire valley, he found the most horrible portion of the custom dropped; and the rest still retained; and us he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high character, said that the custom had existed both in Herefordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw a man whom he described as the Sin-Eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thorough] ashamed of the practice; one case, he was infienel, occurred four or five years ago, but he believed it was extinct now.”
 
+These are Mr. Moggridge’s last words at Ludlow, and I fail to find a syllable in them referring to Llandebie; and if he refers to any place, it must be, as I understand him, to some part of  Herefordshire, with which the writer appears to be more acquainted than I can pretend to be, and to which, as I have already distinctly stated, my remarks do not apply. Mr. Moggridge, and apparently the writer of the article, assume all along that the plate and salt are necessarily remnants of the alleged sin-eating practice ; and finding these articles employed in certain cases, they take it for granted that the "more odious part of the custom has been removed," which amounts to begging the whole question. Mr. Moggridge candidly admits that he never witnessed the “horrid custom” at Llandebie or elsewhere, but informs us that it “was said to have prevailed:” he does not mention his authorities, nor does he so much as hint what means his informants had of knowing the truth or untruth of the story. I can assure Mr. Moggridge that I mean no disrespect to him when I say that both the vicar and the schoolmaster have enjoyed more favourable opportunities than he is likely to have had of ascertaining the facts of the case, on account of their connexion with the locality and their knowledge of the vernacular. I value Mr. Moggridge’s opinions as opinions; but we are now in quest of facts; and opinions, from whatever source they may emanate, must not be mistaken for them. The question at issue lies within the domain of fact, and, therefore, capable of proof if the charge has any foundation on a more solid substance than "imagination all compact."
 
+It is very kind, but slightly superfluous, on the part of the writer to “refresh” my memory respecting “the vicarious sin-bearing of the Levitical scapegoat.” It is useless to argue about what may, could, or should have occurred, when we are concerned only with what has actually taken place. It is needless to expatiate on the possibility of a custom, when its existence is denied. The writer might have spared his sneering remark about: the "treason" of calling Welshmen "ignorant" and "superstitious." The qualities denoted by these elegant stock-epithets, unfortunately, are not confined to the Principality of Wales; and one at least of these benighted barbarians holds that it is treason against truth to make charges that cannot be substantiated against any nation, however "ignorant" or "superstitious" that nation may be. The writer seems to assume that it is “a point of national honour,” rather than any higher motive, that induces Welshmen to repudiate groundless imputations. When “ national honour” and truth go together, “ national honour” is not to be contemned.
 
+The writer appears to feel rather uneasy on ac- count of his incognito. He need not. It is perfectly immaterial whether he retains or doffs it; but it shall not shield him from the  consequences of making statements of questionable authenticity. He vouchsafes to inform us that he is, "by parentage, ancestry, property, and interests, connected with two counties of South Wales"; but he does not tell us that his ‘ancestors ever furnished him with any information concerning the Sin-Eater, or that in his frequent visits to our benighted country he ever encountered that dread functionary. Such being the case, I confess to being a little hazy as to the relevance of long pedigrees and broad acres in two or more counties, fine things as they are, to the subject we are now dis- cussing. More to the point is the admission that, notwithstanding his frequent travels "over most of the Principality" he has "failed to acquire its language," that language being the very key to its customs, legends, and folk-lore. His travels, therefore, must resemble those of a blind man in quest of the beautiful.
 
+If the writer proves, as he states in *Blackwood*, that the superstition of the Sin-Eater is "still surviving in North and South Wales," I shall at once confess my error, and the "national honour" shall take its chance; but if he fails to do this, he ought, in justice to the country of his "ancestry," to retract the groundless charge. He it is that has brought the accusation against it, and on him lies the burden of proof.
 
-198 
+D. Silvan Evans.
 
-THE ACADEMY. 
+Homestay, Newtown, Montgomeryshire : February 12, 1876.
 
-(Fun. 26, 1876. 
+Roscoe, in his *Wanderings and Excursions in South Wales*, quoting the author of the *Mountain Decameron*, locates "what is believed to have been the last Sin-Eater of Wales" differently from any mentioned in the Academy. I subjoin his remarks.
 
+“A gentleman who lived a little before the time of this dark superstition becoming obsolete (the earlier part of the last century) gives us this brief account of what is believed to have been the last 'Sin-Eater of Wales.'
 
+"'I got lost,' says he, 'near nightfall, after being landed by the ferry-boat from the Aber of Dovey on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was cautioned to ride far’ round this pitchy bog, for no horse ever ventured among the peat pits, the whole being a quaking morass. In truth, its look was enough, under a black evening, to keep me off, even without peril of being swallowed, man and horse.
 
+"'At last, thanks to my stars, the good hard rock of a rough road rung to my horse’s hoof, and I saw a cottage taper, as ghastly as the Canwyll Corph, at a distance.
 
+"'The house was on a high point and turn of road, overlooking all those many acres of hollow ground.
 
+"'Just as I came up, hoping lodging, I heard sounds of wailing within, and soon, a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay a corpse of a man, with a plate of salt holding a bit of bread placed on its breast. The woman was shouting to the Sin-Eater to come and do his office— that is, to eat the bread, lay his hand on the dead breast, place the dead man’s on his own, after making a sign of the cross, and then praying for a transfer of all pains or penances from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and ever.'
 
+"This is the traveller's account of this incident. He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing-point. After waiting long, he caught a far-out shout in reply to the woman's long unanswered, till she kindled, on the high road’s point, the straw of her husband’s late bed—the usual signal of a death in the house.
 
-that cannot. be substantiated against any nation, however “ ignorant” or “ superstitious ” that na- tion may be. The writer seems to assume that it is “a point of national honour,” rather than any higher motive, that induces Welshmen to repudiate groundless imputations. When “ national honour” and truth go together, “ national honour” is not to be contemned. 
-The writer appears to feel rather uneasy on ac- count of his incognito. He need not. It is per- fectly immaterial whether he retains or doffs it ; but it shall not shield him from the consequences of making statements of questionable authenticity. He vouchsafes to inform us that he is, “ by parent- age, ancestry, property, and interests, connected with two counties of South Wales”; but he does not tell us that his ‘ancestors ever furnished him with any information concerning the Sin-Eater, or that in his frequent visits to our benighted country he ever encountered that dread func- tionary. Such being the case, I confess to being a little hazy as to the relevance of long pedigrees and broad acres in two or more counties, fine things as they are, to the subject we are now dis- cussing. More to the point is the admission that, notwithstanding his frequent travels “ over most of the Principality,” he has “ failed to acquire its language,” that language being the very key to its customs, legends, and folk-lore. His travels, therefore, must resemble those of a blind man in quest of the beautiful. 
-If the writer proves, as he states in Blackwood, that the superstition of the Sin-Eater is “ still surviving in North and South Wales,” I shall at once confess my error, and the “ national honour” shall take its chance ; but if he fails to do this, he ought, in justice to the country of his “ ancestry,” to retract the groundless charge. He it is that has brought the accusation against it, and on him lies the burden of proof. 
-D. Smvan Evans. 
+"The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck and nails of such, between sea-marsh and that dim bog, where few could approach by day, none dare by night, whether for the footing, or the great fear, or at least awe, which all felt of that recluse."
 
-Homestay, Newtown, Montgomeryshire : February 12, 1876. 
-Roscoe, in his Wanderings and Excursions in South Wales, quoting the author of the Mountain Decameron, locates “ what is believed to have been the last Sin-Eater of Wales ” differently from any mentioned in the Acadeemy. I subjoin his remarks. 
-“A gentleman who lived a little before the time of this dark superstition becoming obsolete (the earlier part of the last century) gives us this brief account of what is believed to have been the last ‘ Sin-Eater of Wales.’ 
-“*T got lost,’ says he, ‘near nightfall, after being landed by the ferry-boat from the Aber of Dovey on the Cardiganshire side of that estuary. A black tur- bary of great extent divided me from the road. I was cautioned to ride far’ round this pitchy bog, for no horse ever ventured among the peat pits, the whole being a quaking morass. In truth, its look was enough, under a black evening, to keep me off, even without peril of being swallowed, man and horse. 
-“** At last, thanks to my stars, the good hard rock of a rough road rung to my horse’s hoof, and I saw a cottage taper, as ghastly as the Canwyll Corph, at a distance. 
-“*The house was on a high point and turn of road, overlooking all those many acres of hollow ground. 
-“* Just asI came up, hoping lodging, I heard sounds of wailing within, and soon, a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay @ corpse of a man, with a plate of salt holding a bit of bread placed on its breast. The woman was shouting to the Sin-Eater to come and do his office— that is, to eat the bread, lay his hand on the dead breast, place the dead man’s on his own, after making a sign of the cross, and then praying for a transfer of all pains or penances from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and ever.’ 
-“This is the traveller's account of this incident. He had the curiosity to wait, and saw at last the 
+Persons acquainted with the district readily recognise the locality from the above description, others may do so when I state that the Cambrian Railway, between Machynlleth and Aberystwith, traverses the "black turbary of great extent," and the high road from Aberdovey passes close by one of the railway stations on this line, called "Ynyslas." The custom of placing a late of salt on the breast of a dead person is, I imagine, not obsolete in this county yet; at any rate instances have occurred within my own knowledge.
 
+E. R. Morris.
 
+---
 
+https://archive.org/details/sim_academy-and-literature_1876-03-04_9_200/page/220/mode/2up?q=sin
 
-motion of what seemed a foggy meteor moving toward their standing-point. After waiting long, he caught a far-out shout in reply to the woman’s long unanswered, till she kindled, on the high road’s point, the straw of her husband’s late bed—the usual signal of a death in the house. 
-“The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck and nails of such, between sea- marsh and that dim bog, where few could approach by day, none dare by night, whether for the footing, or the great fear, or at least awe, which all felt of that recluse.” 
+The Academy  1876-03-04: Vol 9 Iss 200
 
-Persons acquainted with the district readily recognise the Tocality from the above description, others may do so when I state that the Cam- brian Railway, between Machynlleth and Aber- ystwith, traverses the “black turbary of great extent,” and the high road from Aberdovey passes close by one of the railway stations on this line, called “ Ynyslas.” The custom of placing a late of salt on the breast of a dead person is, I imagine, not obsolete in this county yet; at any rate instances have occurred within my own knowledge. E. R. Morris. 
- ]
+1876-03-04
 
---
+p221
+
+THE SIN-EATER.
+Croeswylan, Oswestry: Feb. 28, 1876.
+
+My friend Mr. Morris, your latest contributor to the "Sin-Eater" correspondence, quotes the Mountain Decameron sketch of what is "believed to be the last sin-eater in Wales." I presume Mr. Morris quotes at second-hand, or he would have seen that he has only unearthed old Aubrey's "long, leane, ugly, lamentable poor raskal." for, in the passage immediately before Roscoe’s quotation, the author says :— 
+
+“Mr. Fosbroke, in an account of the town of Ross, quotes a letter, I forget by whom (but I have an idea by Mr. Kyrle, the 'Man of Ross'), which describes a 'Sin-Eater,' who 'lived by Ross highway, and is described as a 'gaunt, ghastly, lean, miserable, poor raskal.'"
+
+If your readers will refer to Mr. Fitzgerald's letter on November 20, 1875, they will see that the "poor raskals" are identical; and Mr. Downes, the author of the Mountain Decameron (who dates his book "Builth, Breconshire, April, 1836 "), does not profess to do more than pen a fancy sketch on Aubrey’s text, laying his scene in Cardiganshire.
+
+I fear Mr. Silvan Evans is as far off as ever from catching the real Simon Pure !
+
+Askew Roberts.
+
+[Simon Pure - Merriam Webster http://dictionary.sensagent.com/simon%20pure/en-en/ - Simon-pure , a. Genuine; true; real; authentic; -- a term alluding to the comedy character Simon Pure, who is impersonated by another and is obliged to prove himself to be the “real Simon Pure.”
+
+See also: https://en.wikipedia.org/wiki/A_Bold_Stroke_for_a_Wife#Simon_Pure ]
+
+---
 
 
 https://archive.org/details/sim_academy-and-literature_1895-11-09_48_1227/page/386/mode/2up?q=sin
@@ -754,7 +803,7 @@ THE ACADEMY.
 
 
 I offer apologies for not having stated my second point more clearly. It is this. Mr. Hartland regards Sin-eating as a survival of a specific feast of the kin ; he as survivals of Sin-eating customs of eating and drinking at funerals where we find no Sin-eater and no — virtue attributed to the dole. I suggest that these customs are allied to Sin-eating in virtue of a common descent from the feast of the kindred, not by direct descent from Sin- eating itself. I suppose that the feast of the kindred is now represented by various practices— A, B, C. Evidence shows that these were occasionally associated with or replaced by D. No amount of evidence that A, B, and C were, or are, generally practised will lead to the conclusion that D was prevalent in the area in question. I contend that we find certain customs involving the giving of food at funerals. There is evidence that these customs sometimes took the form of Sin-eating, but we cannot infer the existence of Sin-eating wherever we find these offertories at funerals. And be it noted in this connexion that Aubrey himself does not connect the offertories with the Sin-eater. 
-As to the third point, I do not agree with Mr, Hartland that no one was concerned to take up the challenge. The ACADEMY con- troversy arose out of an article in Blackwood. The writer (Prebendary Davies of Hereford, according to a good authority) professed to be well acquainted with Wales, and having taken up the challenge, was certainly interested in the matter, and, I think, in a position to investigate, N. W. THomas, 
+As to the third point, I do not agree with Mr, Hartland that no one was concerned to take up the challenge. The ACADEMY controversy arose out of an article in Blackwood. The writer (Prebendary Davies of Hereford, according to a good authority) professed to be well acquainted with Wales, and having taken up the challenge, was certainly interested in the matter, and, I think, in a position to investigate, N. W. THomas, 
 
 
 ---
