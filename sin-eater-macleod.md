@@ -1,11 +1,12 @@
 
 ---
 
-https://archive.org/details/sineaterothertal00sharuoft
+https://archive.org/details/sineaterothertal00sharuoft/page/n5/mode/2up?q=The+%22Sin-Eater%22+macleod+1896
 
 The sin-eater, and other tales by Fiona Macleod
 by Sharp, William, 1855-1905
-Publication date 1895
+
+1895
 
 p17-67
 
