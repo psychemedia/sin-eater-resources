@@ -59,7 +59,6 @@ Mr. SCOTT ELLIOTT gave details of the habits of the human "leopard" cannibals of
 CAPTAIN HINDE regretted that it should have been inferred from his paper that he had any intention of attacking missionaries; such was not the case in the least.
 
 ---
----
 
 The Times Wednesday 
 8 Sept., 1895,
@@ -91,6 +90,7 @@ N. W. THOMAS.,Oswestry.
 SANDOWN PIER,ISLB OF WIGHT.-The Attorney General and bliss Webster yesterday performed the ceremony of opening the pier and pier navilion in Sandown Bay. The pier has been lengthened  by 545ft., with a pier-head 107ft. by 93ft., and a pavilion has been built capable of accommodating 400 people, at a total cost of abouit £12,809. 'the pier and pavilion were il1uminated in the evening
 
 ---
+
 The Times
 Friday,  Sept. 20, 1895
 p?
@@ -120,7 +120,7 @@ Unfortunately, I have no access here to the old numbers of the Academy Will Mr. 
 E. SIDNEY HARTLAND.,
 Highgarth, Gloucester, Sept. 20.
 
-----
+---
 
 The Times (London, England)
 Tuesday,  Sept. 24, 1895
@@ -180,9 +180,10 @@ I have written without reference to the account in The Mountain Decameron mentiu
  I am. &c..,R. SIDNEY HARTLAND.,Highgarth, Gloucester.
 
 ---
+
 The Times (London, England)
 
-Friday,  Oct. 18, 1895
+Friday, Oct. 18, 1895
 Issue: 34711
 p?
 THE SIN-EATER IN WALES.-Writing under
