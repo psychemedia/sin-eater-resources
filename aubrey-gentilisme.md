@@ -16,6 +16,22 @@ Publication date 1881
 Printed from Lansdowne manuscript 231 in the British Museum.
 
 
+---
+
+piv-v
+
+
+Preface
+
+The RemaineSj while containing much of value, are not of equal merit throughout. Aubrey had the faculty of collection rather than that of selection, and he was clearly inclined to be credulous, and thought to be so by some of his most noteworthy contemporaries. The great naturalist John Ray, for example, expresses himself plainly on this head in a letter printed by Aubrey in the Natural JSistory and Antiquities of Surrey (v. 410). He says : —
+" I think (if you can give me leave to be free with you) that you are a little too inclinable to credit strange relations. I have found men that are not skilful in the history of nature very credulous, and apt to impose upon themselves and others, and therefore dare not give a firm assent to anything they report upon their own authority, but are ever suspicious that they may either be deceived themselves, or delight to teratologize (pardon the word), and to make show of knowing strange things.'-
+In the same work, however (iv. 407, Appendix), Aubrey gives the following justification of his con- duct : —
+'' It may seem nauseous to some that I have raked up so many old western proverbs, which I confess I disdain not to quote. Pliny himself being not afraid to call them oracles, lib. 18, cap. 4: ^Ac primum omnium oraculis majore ex parte agemus, quae non in alio vitae genere plura certiorave sunt.' For pro- verbs are drawn from the experience and observation of many ages, and are the ancient natural philosophy
+of the vulgar, preserved in old English and Norse rhymes handed down to us, and which I set as instantiae crucis, for our curious modem philosophers to examine, and give 810X19 to their 'OXt?."
+At the present day, whatever we may think of Aubrey's credulity, all folk-lorists are glad that he did not " disdain to quote " the proverbs, sayings, and traditions of the people.
+
+James Britten
+Isleworth, February 1881
 
 ---
 
