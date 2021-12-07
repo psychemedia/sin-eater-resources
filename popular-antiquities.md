@@ -113,6 +113,9 @@ every corpse, one cake and one flagon of ale, just after the
 interment, were brought to the minister in the church -porch.” 
 
 
+[Also referenced as Brand and Ellis’s *Observations on Popular Antiquities* (ed. 1813, vol. ii., p. 155)  in The Academy
+1895-11-09: Vol 48 Iss 1227, pp387-8, CORRESPONDENCE. THE SIN-EATER IN WALES, E. Sidney Hartland]
+
 ---
 
 https://archive.org/details/brandspopularan00brangoog/page/n202/mode/2up?q=sin 
