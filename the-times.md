@@ -121,6 +121,7 @@ E. SIDNEY HARTLAND.,
 Highgarth, Gloucester, Sept. 20.
 
 ----
+
 The Times (London, England)
 Tuesday,  Sept. 24, 1895
 
