@@ -4,7 +4,17 @@ Date,Published,Publication,Title,Author
 
 1804,1804,North Wales, Manners and Customs of the Welsh, Bingley
 
+1810,1810,?Tours in Wales,,Pennant
+
+1813,1813,Popular Antiquities,,
+
+1818,1818,Parochial Antiquities,,
+
+1821,1821, Archaeological Sketches of Ross,,
+
 Saturday 02 November 1822, Saturday 02 November 1822,English Chronicle and Whitehall Evening Post,Customs at Deaths - Aubrey,
+
+1822,1822,Gentleman's Magazine,,
 
 1832, 1832, The year book of daily recreation and information,Sin Eaters.,William Hone
 
