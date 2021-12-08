@@ -4,9 +4,10 @@
 
 
 https://archive.org/details/sim_gentlemans-magazine_1822-03_92/page/222/mode/2up
+
 The Gentleman's Magazine  1822-03: Vol 92
 
-Publication date 1822-03
+1822-03
 p222
 
 The following are matters which the author ascribes 
