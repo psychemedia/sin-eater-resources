@@ -6,19 +6,19 @@ John Aubrey, ‘Remaines of Gentilisme’
 
 p?
 
-1686-7
+??1686-7
 
 Remaines of Gentilisme and Judaisme
 by Aubrey, John, 1626-1697; Britten, James, 1846-1924, ed
 
-Publication date 1881
+1881
 
 Printed from Lansdowne manuscript 231 in the British Museum.
 
 
----
-
 piv-v
+
+[??first edition of the Miscellanies ("collected by J. Aubrey, Esq.; London, printed for Edward Castle, next Scotland Yard Gate, by Whitehall, 1696 " but no mention in there? https://archive.org/details/miscellanies00aubr/page/n2/mode/2up )]
 
 
 Preface
