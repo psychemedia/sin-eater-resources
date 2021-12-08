@@ -32,7 +32,7 @@ Also as:
 
 https://newspapers.library.wales/view/3256559/3256562/52/sin%20eater
 Evening Express 
-15th October 1895 (First edition)
+15th October 1895
 p3
 
 THE SIN-EATER IN WALES., ] A column ot the" Times oi Monday was' occupied with a letter from Mr. E. Sidney Hartland. Highgarth. Gloucester, on the subject of The Sin-eater in vVales." The letter is written in answer to another correspondent, Mr. N. W. Thomas, who denied the existence ff the sin-fsater in Wales, basing his denial on the statements of Canon Silran Eva.ns in the Academy twenty years ago and of the Rev. T. Eynon Davies in the "Christian World" of February, 1882 Mr. Hartland claims that neither of these denials can outweigh the posi- tive statements he cites in the earlier portion ef his letter.

@@ -14,9 +14,12 @@ BURIAL CUSTOMS IN WALES. I TO THE EDITOR. I SIB,—Is there among the numerous i
 
 
 ---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000104/18830504/028/0004
 
-Western Mail - Friday 04 May 1883
+Western Mail
+
+Friday 04 May 1883
 
 p?
 
@@ -63,7 +66,8 @@ Mr. Hood, with the usual lightness of a professional bookmaker, appears to have 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000104/18840619/006/0002
 
-Western Mail - Thursday 19 June 1884
+Western Mail
+Thursday 19 June 1884
 p?
 
 

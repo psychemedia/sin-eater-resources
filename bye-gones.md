@@ -1,13 +1,18 @@
 
+
+
+---
+
 https://archive.org/details/byegonesrelating1882unse/page/18/mode/2up?q=sin
 
 Bye-gones, relating to Wales and the border counties.
 
-February 1882
+1882
 
 THE SHROPSHIRE ARCHAEOLOGICAL AND NATURAL HISTORY SOCIETY.
 (From the Oswestry Advertizer , Feb. 15, 1882.)
 
+p?
 
 Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
 

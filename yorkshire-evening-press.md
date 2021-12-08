@@ -5,7 +5,9 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000632/18950917/060/0002
 
-Yorkshire Evening Press - Tuesday 17 September 1895
+Yorkshire Evening Press
+
+Tuesday 17 September 1895
 
 p2
 

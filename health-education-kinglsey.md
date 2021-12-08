@@ -5,7 +5,7 @@ https://archive.org/details/in.ernet.dli.2015.41374/page/n241/mode/2up?q=orphic
 Health And Education
 by Kingsley, Charles
 
-Publication date 1887
+1887
 
 p233-4
 

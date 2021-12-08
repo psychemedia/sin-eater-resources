@@ -15,7 +15,7 @@ The forthcoming work, called "The Mountain Decameron, is licely to enrol its wri
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360611/025/0003
 
-"Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette "
+Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette
 
 Saturday 11 June 1836
 
@@ -46,7 +46,9 @@ The romance thus announced will assuredly win for its author a distinguished nam
 
 britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/039/0004
 
-Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette - Saturday 18 June 1836
+Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette 
+
+Saturday 18 June 1836
 
 p??
 
@@ -84,8 +86,9 @@ https://newspapers.library.wales/view/3631955/3631958/33/sin%20eater
 
 The Glamorgan Monmouth and Brecon Gazette and Merthyr Guardian
 
-1st October 1836 p3
-p??
+1st October 1836
+
+p3
 
 THE LAST "SIN-EATER" OF WALES. A SKETCH. (From Mr Downes' Mountain-Decameron.)
 

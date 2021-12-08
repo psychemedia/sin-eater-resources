@@ -92,7 +92,7 @@ p2
 THE "SIN-EATER" IN WALES.
 
 The Rev. Professor Silvan Evaus, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alle-eo functions of the imaginary "Sin-Eater":—
- 
+
 THE "SIN-EATER."
 Llanymawddwy, Feb. 12, 1876.
 

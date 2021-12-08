@@ -6,7 +6,7 @@ https://archive.org/details/in.ernet.dli.2015.264304/page/n55/mode/2up?q=%22sin-
 The Scapegoat Part Vi
 by James George Frazer
 
-Publication date 1913
+1913
 
 p43-6
 

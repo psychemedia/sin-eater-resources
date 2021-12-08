@@ -182,7 +182,7 @@ Notes and Queries
 1851-09-20
 Vol 4 Iss 99
 
-Publication date 1851-09-20
+1851-09-20
 p211
 
 
@@ -346,6 +346,27 @@ his being found dead in the sacristy after having
 drunk his cup of chocolate. 
 
 E. Leaton-Bienxtnsorr. 
+
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up
+
+Notes and Queries  1878-01-19: Vol 9 Iss 212
+
+1878-01-19
+5th S. IX p48
+
+p48
+
+
+Bread and Salt.
+
+Some years since I call for the first time upon Canon Percy, of Carlisle, at his residence there. When refreshment had been offered and declined, he said, "You must have some bread and salt,” with some remarks to imply that it was the way to establish a friendship. These were then brought in and eaten, without anything to lead one to suppose that this was an unusual custom at the house. Was this a practic peculiar to himself or to his family? or is such custom prevalent in the North, or in any other part of England? I have not met with it else-where.
+
+Ed. Marshall, F.S.A
+
+[Make up aa story; secretly a sin eater?!]
 
 ---
 

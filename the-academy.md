@@ -80,6 +80,9 @@ D. SILVAN EVANS.
 
 [See also: https://archive.org/stream/sim_academy-and-literature_1876-02-26_9_199/sim_academy-and-literature_1876-02-26_9_199_djvu.txt ---
 
+
+---
+
 https://archive.org/details/sim_academy-and-literature_1876-02-12_9_197/page/146/mode/2up?q=silvan
 
 The Academy  1876-02-12: Vol 9 Iss 197
@@ -239,7 +242,8 @@ E. SIDNEY HARTLAND
 
 https://archive.org/details/sim_academy-and-literature_1895-11-16_48_1228/page/412/mode/2up?q=sin
 The Academy  1895-11-16: Vol 48 Iss 1228
-November 1895
+1895-11-16
+
 pp413-4
 
 
@@ -280,7 +284,7 @@ E. SIDNEY HARTLAND.
 https://archive.org/details/sim_academy-and-literature_1895-11-23_48_1229/mode/2up?q=sin+eater
 
 The Academy  1895-11-23: Vol 48 Iss 1229
-Publication date 1895-11-23
+1895-11-23
 
 p435
 
@@ -651,7 +655,7 @@ https://archive.org/details/sim_academy-and-literature_1896-03-07_49_1244/page/2
 
 The Academy  1896-03-07: Vol 49 Iss 1244
 
-Publication date 1896-03-07
+1896-03-07
 p200-201
 
 
@@ -675,7 +679,7 @@ https://archive.org/details/sim_academy-and-literature_1896-01-25_49_1238/page/7
 
 The Academy  1896-01-25: Vol 49 Iss 1238
 
-Publication date 1896-01-25
+1896-01-25
 
 p72-3
 

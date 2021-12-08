@@ -4,7 +4,8 @@
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002935/18990318/075/0009
 
-Toronto Saturday Night - Saturday 18 March 1899
+Toronto Saturday Night
+Saturday 18 March 1899
 
 p9
 

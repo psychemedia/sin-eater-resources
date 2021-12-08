@@ -6,6 +6,7 @@ by Kennett, White, 1660-1728; Bandinel, Bulkeley, 1781-1861; Delafield, Thomas
 
 1818
 
+p?
 
 (Footnote)
 

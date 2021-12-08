@@ -35,7 +35,10 @@ Isleworth, February 1881
 
 ---
 
+1881
+
 p19
+
 
 Sinne Eaters [p. 33]
 
@@ -68,6 +71,7 @@ It seems a remainder of this custom which lately obtained at Amersden, in the co
 
 ---
 
+1881
 
 Sinne-'eaters. [See pp. 18, 22.]
 p35-6

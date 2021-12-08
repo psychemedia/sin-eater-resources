@@ -1,7 +1,9 @@
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18221102/018/0003
 
-English Chronicle and Whitehall Evening Post - Saturday 02 November 1822
+English Chronicle and Whitehall Evening Post
+
+Saturday 02 November 1822
 p?
 
 CUSTOMS AT DEATHS. The "Vulgar Errors" of Browne, with the. interesting notes and additions of Mr. Ellis, recently published, furnish us with a curious detail of the various customs formerly observed at deaths, and several of which are yet retained in different parts of England. The article, as given in the work, is prolix, and contains some extraneous matter, which we think might have been omitted with advantage. In the following extracts we have selected only the parts most entertaining: they are ranged under several heads, as— "The Passing- Bell," "Watching The Dead," "Setting Salt or Candles on the Body," "The carrying of Torches and Lights," "Funeral Sermons," &c.

@@ -41,6 +41,10 @@ https://archive.org/details/mountaindecamero03down/page/232/mode/2up?q=sin+eater
 The Mountain Decameron
 by Downes, Joseph
 1836 Volume III
+
+
+Publication date 1836
+
 p 232-6
 
 But a yet further introduction is needful, (ere entering on their story,) touching a curious superstitious practice not very long obsolete in Wales.

@@ -4,6 +4,7 @@
 https://archive.org/details/folklore03folkuoft/page/n3/mode/2up?q=hartland
 
 Folklore
+1892
 
 p. 145-157
 
@@ -579,7 +580,8 @@ E.  Sidney  Hartland.
 
 https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments
 
-Folklore Vol III 1892
+Folklore Vol III 
+1892
 p546-9
 
 
@@ -738,7 +740,8 @@ G.  M.  GODDEN.
 
 https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
 
-Folklore vol 4 , 1893,
+Folklore vol 4 , 
+1893,
 p. ??
 
 CORRESPONDENCE. 
@@ -767,7 +770,8 @@ E.  Sidney  Hartland.
 https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
 
 
-Folklore vol 4 , 1893
+Folklore vol 4 , 
+1893
 p. ??
 
 An  Evening  Meeting  was  held  at  22,  Albemarle  Street,  on  Wed- 
@@ -799,7 +803,8 @@ Swynnerton  and  Mr.  E.  S.  Hartland  took  part
 
 https://archive.org/details/folklore04folkuoft/page/n3/mode/2up
 
-Folklore vol 4 , 1893,
+Folklore vol 4 , 
+1893,
 p. 392-3
 
 

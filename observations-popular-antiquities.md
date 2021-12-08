@@ -1,7 +1,7 @@
 
 https://archive.org/details/observationsonp00bourgoog/page/n242/mode/2up 
 
-??origi 1777? 
+1777
 
 ?? date  of the original work by Henry Bourne is 1725?
 
