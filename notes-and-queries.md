@@ -347,7 +347,38 @@ drunk his cup of chocolate.
 
 E. Leaton-Bienxtnsorr. 
 
---
+---
+
+https://archive.org/details/sim_notes-and-queries_1882-09-30_6_144/page/272/mode/2up
+
+Notes and Queries  1882-09-30: Vol 6 Iss 144
+
+1882-09-30
+
+p273
+
+Otp Yorxsuire Customs (6" §. vi. 146). — The practice of placing a plate of salt on the breast of a corpse is a general one among the labouring classes of Dudley and that district, though there it is done not with the object indicated by Mr. Cuapman, but with the idea that it acts as a disinfectant and purifies the apartment. B. R
+
+
+---
+
+
+https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin
+
+Notes and Queries  1883-01-13: Vol 7 Iss 159
+
+?6th S. VII Jan. 13
+1883-01-13
+
+p25
+
+Wetsn Fork-tore: tHe Six-Eater.—The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
+“The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caer- marthenshire. The meaning of this most singular in- stitution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person; he then uttered an in- cantation over the bread, after which he proceeded to eat it—thereby eating the sins of the dead person; this done, he received a fee of two-and-sixpence—which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious super- stition was everywhere prevalent.”
+Cf. “Old Yorkshire Customs,” “N. & Q.,” 6th S. vi. 146 ?? 144?, 273. Freperick E, Sawyer. Brighton,
+
+
+---
+
 
 Notes and Queries
 1896-02-08
