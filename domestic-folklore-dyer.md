@@ -7,166 +7,18 @@ https://archive.org/details/b24884558/page/n4/mode/2up?q=sin-eater
 Domestic folk-lore
 by Dyer, T. F. Thiselton (Thomas Firminger Thiselton), 1848- n 50010140
 
-Publication date 1881
-p60
+1881
+p59-63
 
-Again, the interval between death and burial has 
-generally been associated with various superstitious 
-fears and practices. Thus, as soon as the corpse is 
-laid out there is still a widespread custom of placing 
+Again, the interval between death and burial has generally been associated with various superstitious fears and practices. Thus, as soon as the corpse is laid out there is still a widespread custom of placing a plate of salt upon the breast, the reason being no doubt to prevent the body swelling ; although there is a belief that it acts as a charm against any attempt on the part of evil spirits to disturb the body. Pennant tells us that formerly in Scotland, "the corpse being stretched on a board and covered with a coarse linen wrapper, the friends laid on the breast of the deceased a wooden platter, containing a small quantity of salt and earth, separate and un-mixed ; the earth an emblem of the corruptible body, the salt as an emblem of the immortal spirit." Mr. Napier, in his "Folk-Lore of the West of Scotland," points out that we may find another explanation for the plate of salt on the breast in the "sin-eaters," persons who, in days gone by, when a person died, were sent for to come and eat the sins of the deceased. On their arrival their first act was to place a plate of salt and one of bread on the breast of the corpse, repeating a series of incantations, after which they devoured the contents of the plates. By this ceremony the deceased person was supposed to be relieved of such sins as would have kept his spirit hovering about his relations to their discomfort and annoyance.
 
+It is customary, especially among the poor, for those who visit a house while the dead body is lying in it to touch the corpse, thereby showing that they owe the departed one no grudge. This practice, in all probability, originated in the belief that a corpse would bleed at the touch of the murderer, constant allusions to which we find in old authors.
 
+The practice of watching the dead body until its burial is not yet obsolete, a custom indeed which, among the Irish, is even still occasionally the scene of the most unseemly revelries, those present often-times indulging in excessive drinking and riotous merry-making. In days gone by, however, this practice was attended with every mark of respect to the deceased one, the leading idea being to see that the devil did not carry off the body.
 
-60 
+Lastly, since the formation of cemeteries, many of the quaint old funeral customs which formerly existed in many of our country villages have passed away. Now-a-days, the "last act," as the committal of the body to the grave has been termed, has been shorn of much of its pomp. Thus, in the North of England it was customary, only a few years ago, to carry "the dead with the sun" to the grave, a practice corresponding with the Highland usage of making "the deazil," or walking three times round a person, according to the course of the sun. On one occasion, in the village of Stranton, near West Hartlepool, the vicar was standing at the churchyard gate, awaiting the arrival of the funeral procession, when, much to his surprise, the entire group, who had come within a few yards of him, suddenly turned back and marched round the churchyard wall, thus traversing its west, north, and east boundaries. On inquiring the reason of this extraordinary procedure, one of the mourners quickly replied, "Why, ye wad no hae them carry the dead again the sun ; the dead maun ay go wi’ the sun." This is not unlike a Welsh custom mentioned by Pennant, who tells us that when a corpse was conveyed to the churchyard from any part of the town, great care was always taken that it should be carried the whole distance on the right-hand side of the road. A curious custom, which still survives at Welsh funerals, is termed "the parson's penny." After reading the burial service in the church, the clergyman stands behind a table while a psalm is being sung. In the meantime each of the mourners places a piece of money on the table for his acceptance. This ceremony is regarded as a token of respect to the deceased, although it was no doubt originally intended to compensate the clergyman for praying for the soul of the departed. In some Welsh parishes a similar custom, called "spade-money," is observed. As soon as the corpse has been committed to its resting-place, the grave-digger presents his spade as a receptacle for donations, these offerings, which often amount to a goodly sum, being regarded as his perquisites.
 
-
-
-DOMESTIC FOLK-LORE. 
-
-
-
-a plate of salt upon the breast, the reason being 
-no doubt to prevent the body swelling ; although 
-there is a belief that it acts as a charm against 
-any attempt on the part of evil spirits to disturb the 
-body. Pennant tells us that formerly in Scotland, 
-“ the corpse being stretched on a board and covered 
-with a coarse linen wrapper, the friends laid on the 
-breast of the deceased a wooden platter, containing a 
-small quantity of salt and earth, separate and un- 
-mixed ; the earth an emblem of the corruptible body, 
-the salt as an emblem of the immortal spirit.” Mr. 
-Napier, in his “Folk-Lore of the West of Scotland,” 
-points out that we may find another explanation for 
-the plate of salt on the breast in the “ sin-eaters,” 
-persons who, in days gone by, when a person died, 
-were sent for to come and eat the sins of the deceased. 
-On their arrival their first act was to place a plate of 
-salt and one of bread on the breast of the corpse, 
-repeating a series of incantations, after which they 
-devoured the contents of the plates. By this cere- 
-mony the deceased person was supposed to be 
-relieved of such sins as would have kept his spirit 
-hovering about his relations to their discomfort and 
-annoyance. 
-
-It is customary, especially among the poor, for 
-those who visit a house while the dead body is lying 
-in it to touch the corpse, thereby showing that they 
-owe the departed one no grudge. This practice, in 
-all probability, originated in the belief that a corpse 
-would bleed at the touch of the murderer, constant 
-allusions to which we find in old authors. 
-
-
-
-DEATH AND BURIAL. 
-
-
-
-61 
-
-
-
-The practice of watching the dead body until its 
-burial is not yet obsolete, a custom indeed which, 
-among the Irish, is even still occasionally the scene 
-of the most unseemly revelries, those present often- 
-times indulging in excessive drinking and riotous 
-merry-making. In days gone by, however, this prac- 
-tice was attended with every mark of respect to the 
-deceased one, the leading idea being to see that the 
-devil did not carry off the body. 
-
-Lastly, since the formation of cemeteries, many of 
-the quaint old funeral customs which formerly existed 
-in many of our country villages have passed away. 
-Now-a-days, the “ last act,” as the committal of the 
-body to the grave has been termed, has been shorn of 
-much of its pomp. Thus, in the North of England 
-it was customary, only a few years ago, to carry “ the 
-dead with the sun ” to the grave, a practice correspond- 
-ing with the Highland usage of making “ the deazil,” 
-or walking three times round a person, according to 
-the course of the sun. On one occasion, in the village 
-of Stranton, near West Hartlepool, the vicar was 
-standing at the churchyard gate, awaiting the 
-arrival of the funeral procession, when, much to his 
-surprise, the entire group, who had come within a few 
-yards of him, suddenly turned back and marched 
-round the churchyard wall, thus traversing its west, 
-north, and east boundaries. On inquiring the reason 
-of this extraordinary procedure, one of the mourners 
-quickly replied, “ Why, ye wad no hae them carry the 
-dead again the sun ; the dead maun ay go wi’ the 
-sun.” This is not unlike a Welsh custom mentioned 
-
-
-
-62 
-
-
-
-DOMESTIC FOLK-LORE. 
-
-
-
-by Pennant, who tells us that when a corpse was con- 
-veyed to the churchyard from any part of the town, 
-great care was always taken that it should be carried 
-the whole distance on the right-hand side of the road. 
-A curious custom, which still survives at Welsh 
-funerals, is termed “the parson’s- penny.” After 
-reading the burial service in the church, the clergy- 
-man stands behind a table while a psalm is being 
-sung. In the meantime each of the mourners places a 
-piece of money on the table for his acceptance. This 
-ceremony is regarded as a token of respect to the 
-deceased, although it was no doubt originally intended 
-to compensate the clergyman for praying for the soul 
-of the departed. In some Welsh parishes a similar 
-custom, called “ spade-money,” is observed. As soon 
-as the corpse has been committed to its resting-place, 
-the grave-digger presents his spade as a receptacle for 
-donations, these offerings, which often amount to a 
-goodly sum, being regarded as his perquisites. 
-
-Prom time immemorial there has been a popular 
-prejudice among the inhabitants of rural villages 
-against “burial without the sanctuary.” This does not 
-imply in unconsecrated ground, but on the north side 
-of the church, or in a remote corner of the church- 
-yard. The origin of this repugnance is said to have 
-been the notion that the northern part was that which 
-was appropriated to the interment of unbaptised in- 
-fants, excommunicated persons, or such as had laid 
-violent hands upon themselves. Hence it was gene- 
-rally known as “the wrong side of the church.” In 
-many parishes, therefore, this spot remained unoc- 
-
-
-
-DEATH AND BURIAL. 
-
-
-
-63 
-
-
-
-Cupied while the remaining portion of the church- 
-yard was crowded. White, in his “ History of 
-Selborne,” alluding to this superstition, says that as 
-most people wished to be buried on the south side of 
-the churchyard, it became such a mass of mortality 
-that no person could be interred “ without disturbing 
-or displacing the bones of his ancestors.” A clergy- 
-man of a rural parish in Norfolk says : — “If I were 
-on any occasion to urge a parishioner to inter a de- 
-ceased relative on the north side of the church, he 
-would answer me with some expression of surprise, 
-if not of offence, at the proposal, “ No, sir, it is not 
-in the sanctuary.” 
+From time immemorial there has been a popular prejudice among the inhabitants of rural villages against "burial without the sanctuary." This does not imply in unconsecrated ground, but on the north side of the church, or in a remote corner of the church-yard. The origin of this repugnance is said to have been the notion that the northern part was that which was appropriated to the interment of unbaptised infants, excommunicated persons, or such as had laid violent hands upon themselves. Hence it was generally known as "the wrong side of the church." In many parishes, therefore, this spot remained unoccupied while the remaining portion of the churchyard was crowded. White, in his "History of Selborne," alluding to this superstition, says that as most people wished to be buried on the south side of the churchyard, it became such a mass of mortality that no person could be interred "without disturbing or displacing the bones of his ancestors." A clergyman of a rural parish in Norfolk says : — "If I were on any occasion to urge a parishioner to inter a deceased relative on the north side of the church, he would answer me with some expression of surprise, if not of offence, at the proposal, 'No, sir, it is not in the sanctuary.'"
 
 ---
 
