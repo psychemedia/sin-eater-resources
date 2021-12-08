@@ -2,95 +2,47 @@
 
 ---
 
-https://archive.org/details/folkloreofwestmi00daviuoft/page/46/mode/2up?q=sin
-FOlklore of west and mid-Wales
+https://archive.org/details/folkloreofwestmi00daviuoft/page/44/mode/2up?q=sin
+
+Folklore of west and mid-Wales
 by Davies, Jonathan Ceredig
-Publication date 1911
-p45-6
+1911
+p45-8
 
-Another strange old death custom, if it ever existed, was the 
-Sin Eater." 
+Another strange old death custom, if it ever existed, was the Sin Eater."
 
-It seems that the first to refer to the subject was Mr. John 
-Aubrey, in 1G86, who asserted that there was such a custom in 
-Herefordshire and also in North Wales, and at the annual meet- 
-ing of the Cambrian Archaeological Association, which was held 
-at Ludlow in August, 1852, Mr. Matthew Moggridge, of Swansea, 
-made the following observation : '' When a person died, his 
-friends sent for the Sin-eater of the district, who, on his arrival, 
-placed a plate of salt on the breast of the defunct, and upon the 
-salt a piece of bread. He then muttered an incantation over the 
-bread, which ho finally a,te, thereby eating up all the sins of the 
-deceased. This done, he received his fee of 2s. Gd. and vanished 
-a^ quickly as possible from the general gaze ; for, as it was believed 
-that he really appropriated to his own use and behoof the sins of 
-all those over whom he performed the above ceremony. He was 
-utterly detested in the neighbourhood regarded as a mere Pariah 
-as one irredeemably lost." The speaker then mentioned the Parish 
-01 Lla,ndebie, in Carmarthenshire, where the above practice was 
-said to have prevailed to a recent period. Mr. Allen, of Pem- 
-brokeshire, said that the plate and salt were known in that county, 
-where also a lighted candle was stuck in the salt, and that the 
-popular notion was that it kept away the evil spirit. 
+It seems that the first to refer to the subject was Mr. John Aubrey, in 1686, who asserted that there was such a custom in Herefordshire and also in North Wales, and at the annual meeting of the Cambrian Archaeological Association, which was held at Ludlow in August, 1852, Mr. Matthew Moggridge, of Swansea, made the following observation : "When a person died, his friends sent for the Sin-eater of the district, who, on his arrival, placed a plate of salt on the breast of the defunct, and upon the salt a piece of bread. He then muttered an incantation over the bread, which he finally ate, thereby eating up all the sins of the deceased. This done, he received his fee of 2s. 6d. and vanished as quickly as possible from the general gaze ; for, as it was believed that he really appropriated to his own use and behoof the sins of all those over whom he performed the above ceremony. He was utterly detested in the neighbourhood regarded as a mere Pariah as one irredeemably lost." The speaker then mentioned the Parish of Llandebie, in Carmarthenshire, where the above practice was said to have prevailed to a recent period. Mr. Allen, of Pembrokeshire, said that the plate and salt were known in that county, where also a lighted candle was stuck in the salt, and that the popular notion was that it kept away the evil spirit.
 
-A few years ago, one Rhys read at Tregaroii an interesting 
-paper on that town and district, and after referring to the custom 
-of keeping vigil over the dead, he makes the following statement : 
-' There was also an old custom in the town (Tregaroii) connected 
-with the ' Sin-eater/ Where there was a corpse in the house the 
-' Sin-eater ' was invited. The relatives of the dead prepared him 
-a meal on the coffin, he was supposed to eat the sins of the dead 
-mail so as to make the deceased's journey upward lighter." 
-The late Chancellor D. Silvan Evans, and other well-informed 
-Welshmen, have denied that any such custom as that of the Sin- 
-eater ever existed in Wales, and Wirt Sikes, after diligent search- 
-ing, failed to find any direct corroboration of it, and I may add 
-that, though I venture no opinion of my own upon the subject, 
-1 have never come across in any part of Wales any old persons, 
-either men or women, who had heard any tradition about it. On 
-the other hand, the celebrated Welsh Novelist, Allen Raine, 
-informed me a> short time ago, that she knew a man at Carmarthen 
-who had seen a "Sin-eater"; and the Rev. G. Eyre Evans showed 
-me a portrait of a man that had seen one long ago in the Parish 
-of Llanwenog. 
-Perhaps the following, which appeared in Volume 15 of " Folk 
-Lore," may prove of interest in connection with the subject. The 
-writer, Mr. Rendel Harries, who had visited Arc-hag, an Annenial 
-village, where he attended service, says as follows in his " Notes 
-from Armenia: "At the evening service, to my great surprise, 
-I found that when the congregation dispersed, a corpse laid out 
-for burial was lying in the midst of the building. It had, in 
-fact , been brought in before we came, and was to lie in the Church 
-in preparation for burial next day. I noticed that two large flat 
-loaves of bread had been placed upon the body. Inquiry as to 
-the meaning of this elicited no other explanation than that the 
-bread was for the Church mice and to keep them from eating the 
-corpse. I did not feel satisfied with the explanation. Some 
-months later, on mentioning the incident to some intelligent 
-Armenians in Constantinople, they frankly admitted that in 
-former days the custom was to eat the bread, dividing it up 
-amongst the friends of the deceased. Whether this is a case of 
-Sin-eating, I leave Mr. Frazer and Mr. Hartland to decide." 
-The question of the alleged Sin-eater in Wales and the Borders 
-has several times been discussed in " Bye-Gones," Oswestry, and 
-whether there was at any time such strange custom in vogue in the 
-country, there are at least ample proofs that it was customary 
-io Pembrokeshire, if not in other parts of the country, to place 
-a plate of salt on the breast of the corpse, and it was believed by 
-some that this kept the body from swelling, and by others that it 
-kept a.way the evil spirits. 
-Pennant, a very keen observer, noticed a similar custom in 
-the Highlands of Scotland 140 years ago, where " the friends lay 
-on the breast of the deceased a wooden platter containing a small 
-quantity of salt and earth separately and unmixed ; the earth an 
-emblem of the corruptible body; the salt an emblem of the 
-immortal spirit." 
-There are several superstitions in West Wales concerning salt, 
-but shall refer to the subject in another chapter. 
-It was once the custom in Wales to make the sign of the 
-cross on the dead body or a cross was placed at or near his head ; 
-and though the ceremony was discontinued long ago, we even 
-now occasionally hear the old saying, " Mae e dan ei grwys (h
+A few years ago, one Rhys read at Tregaroii an interesting paper on that town and district, and after referring to the custom of keeping vigil over the dead, he makes the following statement : "There was also an old custom in the town (Tregaroii) connected with the 'Sin-eater.' Where there was a corpse in the house the 'Sin-eater' was invited. The relatives of the dead prepared him a meal on the coffin, he was supposed to eat the sins of the dead man so as to make the deceased's journey upward lighter."
+
+The late Chancellor D. Silvan Evans, and other well-informed Welshmen, have denied that any such custom as that of the Sin-eater ever existed in Wales, and Wirt Sikes, after diligent searching, failed to find any direct corroboration of it, and I may add that, though I venture no opinion of my own upon the subject, I have never come across in any part of Wales any old persons, either men or women, who had heard any tradition about it. On the other hand, the celebrated Welsh Novelist, Allen Raine, informed me a short time ago, that she knew a man at Carmarthen who had seen a "Sin-eater"; and the Rev. G. Eyre Evans showed me a portrait of a man that had seen one long ago in the Parish of Llanwenog.
+
+Perhaps the following, which appeared in Volume 15 of "Folk Lore," may prove of interest in connection with the subject. The writer, Mr. Rendel Harries, who had visited Archag, an Annenial village, where he attended service, says as follows in his "Notes from Armenia": "At the evening service, to my great surprise, I found that when the congregation dispersed, a corpse laid out for burial was lying in the midst of the building. It had, in fact , been brought in before we came, and was to lie in the Church in preparation for burial next day. I noticed that two large flat loaves of bread had been placed upon the body. Inquiry as to the meaning of this elicited no other explanation than that the bread was for the Church mice and to keep them from eating the corpse. I did not feel satisfied with the explanation. Some months later, on mentioning the incident to some intelligent Armenians in Constantinople, they frankly admitted that in former days the custom was to eat the bread, dividing it up amongst the friends of the deceased. Whether this is a case of Sin-eating, I leave Mr. Frazer and Mr. Hartland to decide."
+
+The question of the alleged Sin-eater in Wales and the Borders has several times been discussed in "Bye-Gones," Oswestry, and whether there was at any time such strange custom in vogue in the country, there are at least ample proofs that it was customary in Pembrokeshire, if not in other parts of the country, to place a plate of salt on the breast of the corpse, and it was believed by some that this kept the body from swelling, and by others that it kept away the evil spirits.
+
+Pennant, a very keen observer, noticed a similar custom in the Highlands of Scotland 140 years ago, where "the friends lay on the breast of the deceased a wooden platter containing a small quantity of salt and earth separately and unmixed ; the earth an emblem of the corruptible body; the salt an emblem of the immortal spirit."
+
+There are several superstitions in West Wales concerning salt, but shall refer to the subject in another chapter.
+
+It was once the custom in Wales to make the sign of the cross on the dead body or a cross was placed at or near his head ; and though the ceremony was discontinued long ago, we even now occasionally hear the old saying, "Mae e dan ei grwys" (he is under the cross, when a dead body is in the house.
+
+As a rule in West Wales, coffins are made of oak but poor people are satisfied with elm and the corpse is placed in it, covered in a; white shroud, but good many are buried in their best clothes, both at present and in the past, and a writer in "Bye-Gones," 1888 says that in an old book in Tregaron Vestry, dated 1836, he found that it was the rule of the Parish at that time to bury pauperes without a coffin and they were to wear their best apparel, and best hat: the charge for burial was two-pence; if any were buried in a coffin they also were to don their Sunday best, and the charge for their burial was 2s. 6d."
+
+...
+
+On the appointed day for the funeral, a large concourse of friends and neighbours come together at the house of the deceased, and all are welcomed to partake of food, as the Welsh people have always been remarkable for their hospitality on melancholy as well as joyful occasions.
+
+In former times great preparations were made, for tlie day of the funeral was in reality a regular feasting day for those who attended. Meyrick, in his "History of Cardiganshire,' 7 writing about a hundred years ago, observes: "A profuse dinner, consist- ing principally of cold meat, fowls, tongues, etc., is spread on several tables, and a, carver placed at the head of each, whose sole business is to carve for different parties as they alternately sit down. As the company are too numerous to be all accommodated within, the poorer people are seated on stools round the outside of the house, and are presented with cakes and warmed ale, with spice and sugar in it."
+
+It was once customary to prepare a special kind of drink known as a "diod ebilon," which contained the juice of elder tree and Rosemary, in addition to the ordinary substances of ale. The custom of giving beer and cake at funerals continued in some districts till very recently, and the Rev. D. G. Williams, St. Clear's, says that this was done at the funeral of an old gentleman farmer in the Parish of Trelech, in Carmarthenshire, about 30 years ago. Though it is not customary to give beer at the present day, but food, especially in a way of tea and cake, is given to everybody in rural districts, not only to those who have come from a distance, but even to near neighbours. The nearest relations make it a point of sitting in the death chamber, and before the coffin is nailed up, almost everybody present in the house enters the room to see the body and look on it with a sigh. Then Divine Service is conducted, at the close of which, the body is borne out of the house, by the nearest male relatives of the deceased, a custom introduced, undoubtedly, into Wales by the "Romans during their residence in this country, for the coffins of Roman citizens held in high esteem were borne by senators, but those of enemies were borne on the other hand by slaves."
+
+According to Pennant's Tours in North Wales, there was formerly an old custom to distribute bread and cheese over the coffin to poor people who had been gathering flowers to decorate it. Sometimes a loaf of bread was given or a cheese with a piece of money placed inside it, and a cup of drink also was presented. Cakes were given in South Cardiganshire to those who attended the funerals of the wealthy.
+
+I found that in Pembrokeshire in the present day, it is customary to place the coffin on chairs before the door outside before placing it on a bier. In most districts of West Wales, hearses have been until a few years ago, almost unknown, and such is the case even at the present day with few exceptions, except in those places adjoining the towns, but no doubt they arc continually becoming more general every day. It is still the custom, especially in out of the way places where the funeral procession wends its way graveward on foot, to bear the corpse alternately, four men at the time, and sometimes even women carry as well as men.
+
+...
+
 
 ---
 
