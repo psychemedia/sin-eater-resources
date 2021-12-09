@@ -1,16 +1,20 @@
 
 Several months ago, I came across a story recorded for the Beyond the Border storytelling festival by Ceri Phillips.
 
-It tells the tale of a sin-eater, and is drawn from a Welsh tradition.
+The tale draws on the Welsh tradition of a "sin-eater", a folkloric role that was new to me, yet one that I found particularly intriguing.
 
-Trying to search for background detail, and lore, around sin eaters was not at first as fruitful as I'd hoped.
+In trying to search for background detail, and lore, around sin eaters, my initial attempts were not as fruitful as I'd hoped they would be.
 
-But then I stumbled into a debate from the last decade of the 19th century regarding whether there was any evidence that there had been an actual practice of sin-eating: was there any truth in the stories, or was all just hearsay?
+At least, not at first.
 
-So here, from the archives, are the claims and counterclaims made across various publications from the late 1800s, regarding the actual existence, or otherwise, of *The Sin Eater*.
+Until, that is, I stumbled into a debate from the last decade of the 19th century on the question of whether there was any *evidence* at all that regarding an *actual* practice of sin-eating? Was there any truth in the stories, or were they all just hearsay? And then I found an early debate from 20 years or so before that. And then another mention, twenty years earlier again.
 
-But before we get to the debate, let's start a few years before, and a report ??
+Accustomed as we now are to near real-time chats via digital social media (a "synchronous" communications technology), the controversies played out over several weeks, mediated by letters to *The Academy* ("A Weekly Review of Literature, Science, and Art", notable not least for the way it *shunned* anonymous authorship), *The Western Mail* and *Eddowes's Journal, and General Advertiser for Shropshire, and the Principality of Wales* and that veritable precursor to both Reddit and Stack Overflow, *Notes & Queries*.
 
-Aubrey???
+And whilst the names of most of the authors, or the real identities behind their corresponding "username" were known, it is notable that one of controversies was triggered by an article penned in *Blackwood's* magazine by *anonymous* author whose identity was only revealed after the conclusion of public debate it was to trigger.
 
+As befits the medium – correspondence through letters published days, or more likely, *weeks* apart – as well as the lack of readily available digital archives, there is much repetition of content in the original missives. But we are more fortunate, and can avail ourselves of much, if not quite all, of the correspondence, and the authorities cited, through freely available ([*Internet Archive*](https://archive.org/), [*National Library of Wales*](https://newspapers.library.wales/)), as well as subscription ([*British Newspaper Archive*](https://www.britishnewspaperarchive.co.uk/)), digital archives. And in collecting the correspondence together, we can cut down on the repetition presented, whilst also keeping a weather eye out for any slight errors in word or emphasis that might accrue from repeatedly copying what is ostensibly the same document from one letter to another. (Once again, digital technology comes to our aid, in the form of tools to support *differencing*, *full text search* and *concordancing*, and the finding of *longest common subsrings*.)
 
+So here, from those digital archives – with texts bootstrapped from *optical character recognition (OCR)* versions generated from scanned electronic *portable document format (PDF)* documents, the corrected by hand – is a history of the correspondence mediated controversies surrounding the existence, or otherwise, of this legendary, or perhaps mythical, character;controversies that were aired in public across a wide range of local and national publications, regarding the actual existence, or otherwise, of *The Sin Eater*.
+
+*Isle of Wight, December 2021.*
