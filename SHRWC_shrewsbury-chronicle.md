@@ -3,9 +3,15 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000401/18520903/060/0005
 Shrewsbury Chronicle
 Friday 03 September 1852
 
-p5?
+p5
+
+[Preceded on p4 by: The Cambrian Archaeological Association at Ludlow. (*Concluded from our last.*) As we were unable in last week's *Chronicle* to give more than a mere outline of Thursday's proceedings, we now supply a more extended report of that day's doings ... : FRIDAY: THE EXCURSION: At half-past nine this morning the Association left the Feathers Inn for Leominster Priory=, where they arrived shortly after eleven o'clock.... Evening Meeting: The President (Hon R. H. Clive, M.P. [ [Conservative Party MP for Ludlow](https://en.wikipedia.org/wiki/Robert_Clive_(1789%E2%80%931854)): "A keen antiquary, he was author of *Documents Concerned with the History of Ludlow and the Lords Marchers (1841), and president of the Cambrian Archaeological Association in 1852." ]) took the chair at half-past seven o'clock, and the proceedings commenced with the reading of the subjoined paper by T. O. Morgan, Esq., of Aberystwyth, on the HISTORY OF THE PARISH OF CARNO, MONTGOMERYSHIRE.]
+
+[ The President then moved a vote of thanks to Mr. Morgan, which was enthusiastically accorded by the meeting. MUNICIPAL RECORDS OF LUDLOW  ... (discussion) ]
 
 THE SIN EATER.
+
+
 
 Matthew Moggridge, Esq. then proceeded to make some observations the "Custom of the Sin Eater in Cwm Ammon Valley." The custom was this—formerly, when party died in district named, a person known by the name of the "Sin-eater” was called in, who placed upon the corpse a plate, with salt in it, and some bread over the salt; the "Sin-eater" then eat the bread, and was believed, by so doing, to have taken to himself all the sins of the deceased, and for which act he received fee of two shillings and sixpence. When he had accomplished his task he hurried off as fast as he could. The "sin-eater” was regarded man totally and irretrievably lost. He had the authority of a clergyman residing at Stanton Lacy for stating that portion of this custom had prevailed that district until within very recent years. It did not go to the lamentable length practised Cwm Ammon, but merely comprised the plate and the salt. The custom prevailed not long ago Oxfordshire, and in Cwm Ammon it had existed until very lately. He found that about twenty years ago the plate, the salt, and the bread, were placed upon the dead at the latter place, but the "sin-eater" was not sent for ; and advanced towards Swansea the "sin-eater" and the bread were dispensed with, and the plate and salt only remained. In Monmouthshire they had not only the plate and the salt, but also introduced the singular practice of making the figure of cross in the salt; and they frequently cut an onion or apple into four quarters, and placed one quarter each comer of the cross. He had recently received letter from clergyman who resided the neighbourhood, in which it was stated that the custom existed that form even the present day. He thought he had established the fact of this horrible custom having been in operation in this island, and they ought to thankful it was not now, for if there was one thing more disgusting than another it was this custom.
 
@@ -29,10 +35,9 @@ After some few observations from H. Hodges Hughes, Esq., and W. W. E Wynne Esq.
 
 The President moved a vote of thanks to Mr Moggridge, which was warmly accorded by the meeting.
 
+RESTORATION OF LUDLOW CHURCH
+
 [Second column as https://www.britishnewspaperarchive.co.uk/viewer/bl/0000401/18520903/059/0005 ]
-
----
-
 
 ---
 
