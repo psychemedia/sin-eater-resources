@@ -231,78 +231,50 @@ Gentleman's Magazine, vol, xcii. pt. i. p. 222. ]
 
 ---
 
-Notes and Queries
-1852-12-04
-Vol 6 Iss 162
+https://archive.org/details/sim_notes-and-queries_1852-10-23_6_156/page/390/mode/2up?q=sin
 
-Publication date 1852-12-04
+Notes and Queries
+
+1852-10-23: Vol 6 Iss 156
+
+Publication date 1852-10-23
 
 
 p390
 
-Sin-eater. — Can any of your readers explain 
-the origin of “ the sin-eater,” and give instances of 
-that horrid practice still subsisting in parts of 
-England or Wales, as I am assured it does? It 
-consists in the supposed transfer of the sins of a 
-person recently dead to a man of reprobate cha- 
-racter, who eats a piece of bread laid on the chest 
-of the corpse, whereby he is believed to have 
-released the dead man from the responsibility of 
-his sins, and to have taken it on himself; he then 
-receives half-a-crown for his services, and is driven 
-or pursued from the house with execration.
+Minor Queries Answered
 
-This practice was the subject of an interesting 
-paper by Mr. Muggridge of Swansea, at the last 
-annual meeting of the Cambrian Archaeological 
-Association ; but its origin was not satisfactorily 
-traced. The scapegoat, and the sacrifice of 
-criminals in the arena at Athens, &c., have been 
-suggested. Jelinger C. Symons.
+Sin-eater. — Can any of your readers explain the origin of "the sin-eater," and give instances of that horrid practice still subsisting in parts of England or Wales, as I am assured it does? It consists in the supposed transfer of the sins of a person recently dead to a man of reprobate character, who eats a piece of bread laid on the chest of the corpse, whereby he is believed to have released the dead man from the responsibility of his sins, and to have taken it on himself; he then receives half-a-crown for his services, and is driven or pursued from the house with execration.
 
-[The custom is generally supposed to have been 
-taken from the scapegoat in Leviticus xvi. 21, 22. See 
-a curious passage from the Lansdown MSS. concern- 
-ing a sin-eater who lived in a cottage on the Rosse 
-highway in Herefordshire, quoted in Brand’s Anti- 
-quities, vol. ii. p. 247., edit. 1849.] 
+This practice was the subject of an interesting paper by Mr. Muggridge of Swansea, at the last annual meeting of the Cambrian Archaeological Association ; but its origin was not satisfactorily traced. The scapegoat, and the sacrifice of criminals in the arena at Athens, &c., have been suggested. Jelinger C. Symons.
 
+[The custom is generally supposed to have been taken from the scapegoat in Leviticus xvi. 21, 22. See a curious passage from the Lansdown MSS. concerning a sin-eater who lived in a cottage on the Rosse highway in Herefordshire, quoted in Brand’s Antiquities, vol. ii. p. 247., edit. 1849.]
+
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1852-12-04_6_162/page/540/mode/2up?q=sin 
+
+Notes and Queries
+1852-12-04
+Vol 6 Iss 162
 
 p541
 
-THE SIN-EATER. 
-I submit (Vol. vi., p. 390.) 
-i 
-rishiow’ In addition to your reference to the scape-goat, 
-well gs 28 accounting for the custom to which JeLIncER 
-ntid. C. Symons refers, it occurs to me that Hosea iv. 8. 
-ABR might be also quoted: “ They eat up the sin of my 
-people.” “ They eat up,” that is, “ the sin-offering 
-of my people.” As the priest of old, by eating the 
-> estas HF sin-offering, declared in the clearest way that the 
-; Which sins of the guilty offerer had been transferred to the 
-lication victim that was offered, so in some sort it came to 
-Swift's be believed by superstitious persons, that the eat- 
-und the #% ing a piece of bread which had been taken off the 
-of his body of a dead man, and offered to another in his 
-prising, # behalf, transferred the sins of the deceased to the 
-eater of the bread. Perhaps indeed the practice 
-obey, referred to may be rather traced up to the one 
-es tea,” [great sin-offering of Him who was “ made sin” for 
-us, and who “ took bread,” the night He was be- 
-— trayed at the institution of the Eucharist. “The 
-Snolish bread” became the representative of the victim on 
-= Calvary ; and from the sin-offering-eater, or “ sin- 
-eater,” being a regularly ordained priest — who 
-leads, might, for a consideration, say a mass for the dead, 
-- —laymen of “reprobate character” usurped his 
-priestly functions, and took that honour to them- 
-selves. Some notion at least of the feast upon a 
-serifice seems to be implied by the proceeding 
-” referred to by your correspondent. 
-e? ALEXANDER LEEPER. 
-all Dublin. 
+THE SIN-EATER.
+
+(Vol. vi., p. 390.)
+
+In addition to your reference to the scape-goat, asaccounting for the custom to which JELINGER C. SYMONS refers, it occurs to me that Hosea iv. 8. might be also quoted: "They *eat up the sin* of my people." "They eat up," that is, "the sin-offering of my people." As the priest of old, by eating the sin-offering, declared in the clearest way that the sins of the guilty offerer *had* been transferred to the victim that was offered, so in some sort it came to be believed by superstitious persons, that the eating a piece of bread which had been taken off the body of a dead man, and offered to another in his behalf, transferred the sins of the deceased to the eater of the bread. Perhaps indeed the practice referred to may be rather traced up to the one great sin-offering of Him who was "made sin" for us, and who "took *bread*," the night He was betrayed at the institution of the Eucharist. "The *bread*" became the representative of the victim on Calvary ; and from the *sin-offering-eater*, or "sin-eater," being a regularly ordained priest — who might, for a consideration, say a mass for the *dead*, —laymen of "reprobate character" usurped his priestly functions, and took that honour to themselves. Some notion at least of the *feast upon a sacrifice* seems to be implied by the proceeding ” referred to by your correspondent.
+
+ALEXANDER LEEPER.
+
+Dublin.
+
+
+In Whitby and Doddridge there is a note on 1 Cor. iv. 13. which gives some information on this subject. Whitby, from *Phavorinus*, states the custom referred to to be an Athenian one; but I see, in Pole’s *Synopsis*, that Grotius, in a note on the above passage, refers to Caesar, lib. vi., in proof that a custom of the same kind prevailed among the Gauls. See also Bos, *Exercit. Philolog.*, p. 125., to whom Doddridge refers.
+
+E. B.
 
 
 ---
