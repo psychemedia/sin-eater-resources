@@ -249,7 +249,7 @@ The last point to note is that in the official report, there was no mention of t
 
 ## Following the Meeting
 
-In the aftermath of the meeting, it seems that one of the questioners at least was not satisifed with the evidence provided by Mr. Moggridge. For in the October 23rd, 1852 edition of *Notes and Queries* (Vol 6 Iss 156, p.390)](https://archive.org/details/sim_notes-and-queries_1852-10-23_6_156/page/390/mode/2up?q=sin) the following letter appears in the *Minor Queries Answered* section from a certain Jelinger C. Symons:
+In the aftermath of the meeting, it seems that one of the questioners at least was not satisifed with the evidence provided by Mr. Moggridge. For in the October 23rd, 1852 edition of [*Notes and Queries* (Vol 6 Iss 156, p.390)](https://archive.org/details/sim_notes-and-queries_1852-10-23_6_156/page/390/mode/2up?q=sin) the following letter appears in the *Minor Queries Answered* section from a certain Jelinger C. Symons:
 
 > Sin-eater. — Can any of your readers explain the origin of "the sin-eater," and give instances of that horrid practice still subsisting in parts of England or Wales, as I am assured it does? It consists in the supposed transfer of the sins of a person recently dead to a man of reprobate character, who eats a piece of bread laid on the chest of the corpse, whereby he is believed to have released the dead man from the responsibility of his sins, and to have taken it on himself; he then receives half-a-crown for his services, and is driven or pursued from the house with execration.
 >
