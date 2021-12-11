@@ -45,46 +45,12 @@ The Cambrian Archaeological Association
 FRIDAY. This morning party was formed to visit Leominster to inspect the Church, where Mr. Freeman explained the various parts which he had alluded to in his lecture the previous evening. After Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch.
 
 Evening Meeting.— 
-T. O. Morgan, Esq., of Aberystwith, read paper upon "The Parish of Carno, Montgomeryshire," which was followed by some remarks by the Rev. Basil Jones; after which W. Moggridge, Esq. delivered a very interesting discourse upon a custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in an old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this— when a party died, a person known by the name of "the sin-eater" was called in, who placed upon the corpse platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of a Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared. Thomas Allen, Esq. stated that there still existed custom in Wales of placing candle in salt, and burning it in the chamber of a deceased person, and made some very interesting remarks upon it, as connected with the custom of the sin-eater.
+T. O. Morgan, Esq., of Aberystwith, read paper upon "The Parish of Carno, Montgomeryshire," which was followed by some remarks by the Rev. Basil Jones; after which W. Moggridge, Esq. delivered a very interesting discourse upon a custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in an old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this— when a party died, a person known by the name of "the sin-eater" was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of a Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.
+
+Thomas Allen, Esq. stated that there still existed custom in Wales of placing candle in salt, and burning it in the chamber of a deceased person, and made some very interesting remarks upon it, as connected with the custom of the sin-eater.
 
 
 ---
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007
-
-Hereford Times
-Saturday 04 September 1852
-p?
-
-CAMBRIAN ARCHÆOLOGICAL ASSOCIATION. MEETING AT LUDLOW. 
-
-...
-
-FRIDAY. 
-
-EVENING MEETING
-
-
- 
-THE SIN-EATER.
-  
-M. MOGGRiDGE.Esq., made some remarks upon a singular custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in old work, being prevalent the neighbourhood of Ross, Herefordshire. The custom was this—when party died, a person known by the name of "the sin-eater was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread,and doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.
-  
-Mr. Allen remarked that there still existed a cu»tom in Wales of placing a candle in salt, and burning it in the chamber of deceased person. Was this in any way connected with the custom just described? It was a popular notion that the candle stuck in salt would scare away the evil spirit, and it was usual for the friends of the deceased to watch the corpse for a certain period.
-  
-The Rev. J. B. James reminded the meeting of the of this custom—the scape goat.
-  
-Mr. Svmons wished to understand distinctly whether this custom still prevailed, and if so, what extent. It was to be hoped that, for the credit of religion in this country, the custom was extinct. To send missionaries abroad to convert the heathen when a state of things disgusting and abhorrent existed at home, was perfect farce. The mere practice of putting salt on the bodies of corpses to prevent decomposition was a distinct custom, and totally irrelevant to the subject of this discussion.
-  
-The President considered that the object of the inquiry was that we might understand the and practices of the past. When a corpse lay state, there was always person appointed to remain with it during that exhibition. He viewed that only a mark respect to the deceased. He apprehended that, so far as explanation could now be given, may some way have arisen from practice.
-  
-Mr. Moggridge considered it to be an eastern custom, which he believed was now extinct. Mr. Freeman made some brief observations on the word "sin-eater" as used by Mr. Moggridge.
-  
-Mr. Hodges, of Ludlow, surgeon, said that it was a common practice to place a pewter filled with salt upon a corpse. Pewter was known good conductor of heat, and the salt had cooling effect.
-  
-Mr. Wynne said believed it was used in Merionethshire to prevent decomposition of the body.
-
-----
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18621220/001/0002
 
