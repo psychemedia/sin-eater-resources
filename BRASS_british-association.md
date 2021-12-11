@@ -1,5 +1,5 @@
 
-Report of The Sixty-fifth Meeting of The British  FOR THE ADVANCEMENT OF SCIENCE; HELD AT IPSWICH IN SEPTEMBER 1895
+Report of The Sixty-fifth Meeting of The British Association FOR THE ADVANCEMENT OF SCIENCE; HELD AT IPSWICH IN SEPTEMBER 1895
 
 https://books.google.co.uk/books?id=BgtLAAAAYAAJ&pg=PA5&dq=Report+of+The+Sixty-fifth+Meeting+of+The+British+ASSOCIATION+FOR+THE+ADVANCEMENT+OF+SCIENCE&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj7j-msxpv0AhWVnVwKHbjMCm0Q6AF6BAgKEAI#v=onepage&q=Report%20of%20The%20Sixty-fifth%20Meeting%20of%20The%20British%20ASSOCIATION%20FOR%20THE%20ADVANCEMENT%20OF%20SCIENCE&f=false
 
