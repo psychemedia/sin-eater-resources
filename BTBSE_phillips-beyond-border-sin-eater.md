@@ -20,7 +20,7 @@ essentially if somebody in your family had died  you would call in a sin eater. 
 the funeral you would lay the body of the recently  deceased out preferably in its coffin or casket  
 on a table in your home's largest room. You would  set up some candles and you would light them.  
 You would then proceed in the evening before the  witching hour at midnight the night before the  
-funeral to produce a poultry meal anything you  could spare - a bowl of cowl or broth maybe a  
+funeral to produce a paltry meal anything you  could spare - a bowl of cowl or broth maybe a  
 slice of bread or two, and put it in a bowl  then you would get a cup of beer, small beer,  
 something you could easily afford. Then you  would set it in front of the body on the table  
 and some have even suggested that many put the  meal on the corpse itself. You would then sit  
@@ -38,7 +38,7 @@ but everyone's dead relatives in the community  they were treated like pariahs f
 outside of the community at the very edges  of the village or the town in all the rural  
 areas of Wales and even in the counties across  Offa's Dyke on the Welsh marches of England.  
 They were they had to live in hovels, in cottages  that were ramshackle and run down because no one  
-could come and help them if they needed some  diy doing. These cottages and ramshackle hovels  
+could come and help them if they needed some  DIY doing. These cottages and ramshackle hovels  
 were quite often in forests like i'm standing in  now but in the case of the story i'm about to tell  
 you it was up on a mountain side. This sin eater,  the sin eater of the Swansea valley of Cwmtawe  
 lived on the Daryn mountain above the village of  Ystalyfera and this particular sin eater would  
