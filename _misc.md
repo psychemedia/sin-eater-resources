@@ -6,8 +6,35 @@ and in referencing Aubrey WK -> White Kennett (1660-1728), Bishop of Peterboroug
 E.M. Leather, The Folk-Lore of Herefordshire Collected from Oral and Printed Sources (1912)
 
 
+
+--
+
+Gomer M. Roberts, *Hanes Plywf Llandybie*, p. 271
+
+also transl: History of the Parish of Llandybie, Ivor Griffiths , 1939
+
 ---
 
+ *Oswestry Advertizer* for Sep. 22, 1858
+
+
+---
+
+Shreads and patches, shrewsbury journal somehwen between 1877-83?
+?? Salopian
+
+https://shropshire.gov.uk/media/3399/newspapers-summary-list.pdf print archive as Shrewsbury Journal and Shropshire and
+North Midlands County Gazette
+21 Mar 1883 -
+1891
+1883 -1888
+(bound)
+
+---
+
+??
+a note in the history of the parish of Llanfechain, published in *Mont : Coll :* in 1872
+Montgomeryshire Collections
 
 ---
 
