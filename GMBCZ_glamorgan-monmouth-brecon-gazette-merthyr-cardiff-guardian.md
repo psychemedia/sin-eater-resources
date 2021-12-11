@@ -113,12 +113,13 @@ The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck, and nails 
 ---
 
 
+
 https://newspapers.library.wales/view/3090385/3090388/36/
 The Cardiff and Merthyr Guardian Glamorgan Monmouth and Brecon Gazette
 30th October 1852
 p3
 
-SIN-EATER.—Can any of your readers explain the origin of "the sin-eater," and give instances of th.t horrible practice still subsisting in parts of England and Wales, as I am assured it does? It consists in the supposed transfer of the sins of a person recently dead to a man of reprobate character, who eats a piece of bread laid on the chest of the corpse, whereby he is believed to have relieved the dead man from the responsibility of his sins, aud to have it on himself; he crowu for his services, and is driven or pursued fioui the house with execration. This practice was the subject of an interesting paper by Mr. Moggridge of Swansea at the last annual meeting of the Cambrian Arthai do.r'.cal Association; but its origin was not satisfactorily traced. The scapegoat, and the sacrifice of criminals in the arena at Athens, &c., have been SUG^eateil. —JULINGBK. C. SYMONS. jihe custom is generally supposed to have been taken from the scapegoat in Leviticus xvi. 21 •> bee a curious passage from Lansdown MSS. concerning a sin-eater who lived in a collage on the Ross high way in Herefordshire, quoted in B.*i,s Antiquities, vol. iu, p. •447, edit. HPJ] -Not,, and Que,™.
+SIN-EATER.—Can any of your readers explain the origin of "the sin-eater," and give instances of that horrible practice still subsisting in parts of England and Wales, as I am assured it does? It consists in the supposed transfer of the sins of a person recently dead to a man of reprobate character, who eats a piece of bread laid on the chest of the corpse, whereby he is believed to have relieved the dead man from the responsibility of his sins, amd to have it on himself; he crown for his services, and is driven or pursued from the house with execration. This practice was the subject of an interesting paper by Mr. Moggridge of Swansea at the last annual meeting of the Cambrian Archaeological Association; but its origin was not satisfactorily traced. The scapegoat, and the sacrifice of criminals in the arena at Athens, &c., have been suggested. —JELINGER. C. SYMONS. [The custom is generally supposed to have been taken from the scapegoat in Leviticus xvi. 21, 22. See a curious passage from Lansdown MSS. concerning a sin-eater who lived in a cottage on the Ross high way in Herefordshire, quoted in Brand's Antiquities, vol. ii, p. 247, edit.1849] -Notes and Queries.
 
 ---
 
