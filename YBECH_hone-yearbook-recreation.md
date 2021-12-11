@@ -8,6 +8,11 @@ Publication date 1832
 
 p858-9
 
+
+The year book of daily recreation and information : concerning remarkable men and manners, times and seasons, solemnities and merry-makings, antiquities and novelties ... / by William Hone ; with 114 engravings.
+
+Originally published weekly from January 1831 to January 1832, in 52 numbers.
+
 In the entry for July 19
 
 Sin Eaters.
