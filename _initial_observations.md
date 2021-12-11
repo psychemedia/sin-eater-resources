@@ -132,7 +132,9 @@ Again, this question is one that we shall return to: if the tradition was a Sout
 So the phrase, at least in its English form, was claimed to be a recognised one.
 
 > After some few observations from H. Hodges Hughes, Esq., and W. W. E Wynne Esq.
->
+
+Whatever those observations were, they were apparently not thought substantive enough to be reporteed by the Shrewsbury Chronicle.
+
 > The President moved a vote of thanks to Mr Moggridge, which was warmly accorded by the meeting.
 
 And so we have it, the first part of tale. But already there are some pieces missing from that report: who were Moggridge's clerical correspondents, what evidence did he have of sin-eating in the 1840s, and what was the account given by "Aubrey"?
