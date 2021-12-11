@@ -133,7 +133,7 @@ So the phrase, at least in its English form, was claimed to be a recognised one.
 
 > After some few observations from H. Hodges Hughes, Esq., and W. W. E Wynne Esq.
 
-Whatever those observations were, they were apparently not thought substantive enough to be reporteed by the Shrewsbury Chronicle.
+Whatever those observations were, they were seemingly not thought substantive enough to be reporteed by the Shrewsbury Chronicle.
 
 > The President moved a vote of thanks to Mr Moggridge, which was warmly accorded by the meeting.
 
