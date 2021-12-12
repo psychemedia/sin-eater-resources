@@ -146,7 +146,7 @@ Their first stop was the Priory Church at Leominster, whence they arrived shortl
 
 According to the [Hereford Journal of Wednesday, September 1st, 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002), after Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch.  The whole circular trip covered a 30 mile journey or so.
 
-### "The Sin-Eater", As According to Moggridge
+## "The Sin-Eater", As According to Moggridge
 
 The evening programme that day convened at half-past seven o'clock, with the President, the Hon R. H. Clive, M.P., in the chair. It commenced with the reading of a paper on the *History of the Parish of Carno, Montgomeryshire* by T. O. Morgan, Esq., of Aberystwyth, and dollowing a vote of thanks to Mr. Morgan, "enthusiastically accorded by the meeting", an apparently short discussion on *Municipal records of Ludlow*." Matthew Moggridge, Esq., reporting on the latest of his researches in the Swansea valley alluded to in the paper he read at the fifth meeting the precious year in Tenby, on *"On the Preservation of Local Traditions"*, then proceeded to make some observations the *"Custom of the Sin Eater in Cwm Ammon Valley"*.
 
@@ -378,7 +378,25 @@ The last point to note is that in the official report, there was no mention of t
 
 ## Following the Meeting
 
-In the aftermath of the meeting, it seems that one of the questioners at least was not satisifed with the evidence provided by Mr. Moggridge. For in the October 23rd, 1852 edition of [*Notes and Queries* (Vol 6 Iss 156, p.390)](https://archive.org/details/sim_notes-and-queries_1852-10-23_6_156/page/390/mode/2up?q=sin) the following letter appears in the *Minor Queries Answered* section from a certain Jelinger C. Symons:
+In the aftermath of the meeting, it seems that one of the questioners at least was not satisifed with the evidence provided by Mr. Moggridge and turned to a social media site of the time, the recently launched *Notes and Queries*, for assistance.
+
+```{admonition} Notes & Queries
+Notes & Queries started life as a weekly period [first published on Saturday, November 3rd, 1849](https://archive.org/details/notesqueries01londuoft/page/n7/mode/2up), a *Medium of Inter-Communication for Literary Men, Artists, Antiquaries, Genealogsts, Etc.*
+
+Its motto – *"When  found,  make  a  note  of."-— CAPTAIN  CUTTLE* — will resonate with anyone who has an online social bookmarking habit or posted interesting "notes" or links or screenshots to their favouring social networking site.
+
+As the opening welcome to the first issue describes (p.1-3):
+
+> "WHEN FOUND, MAKE A NOTE OF," is a most admirable rule ; and if the excellent Captain had never uttered another word, he might have passed for a profound philosopher. It is a rule which should shine in gilt letters on the gingerbread of youth, and the spectacle-case of age. Every man who reads with any view beyond mere pastime, knows the value of it. Every one, more or less, acts upon it. Every one regrets and suffers who neglects it. 
+> ...
+> But, on the other hand, it cannot be denied that reading and writing men, of moderate industry, who act on this rule for any considerable length of time, will accumulate a good deal of matter in various forms, shapes, and sizes — some more, some less legible and intelligible — some unposted in old pocket books — some on whole or half sheets, or mere scraps of paper, and backs of letters — some, lost sight of and forgotten, stuffing out old portfolios, or getting smoky edges in bundles tied up with faded tape. There are, we are quite sure, countless boxes and drawers, and pigeon-holes of such things, which want looking over, and would well repay the trouble.
+> ...
+> We do not anticipate any holding back by those whose " NOTES" are most worth having, or any want of "QUERIES" from those best able to answer them. Whatever may be the case in other things, it is certain that those who are best informed are generally the most ready to communicate knowledge and to confess ignorance, to feel the value of such a work as we are attempting, and to understand that if it is to be well done they y must help to do it. Some cheap and frequent means for the interchange of thought s certainly wanted by those who are engaged n literature, art, and science, and we only lope to persuade the best men in all, that we offer them the best medium of communication with each other.
+> ...
+> To our readers therefore who are seeking for Truth, we repeat "When found make a NOTE of;" and we must add, "till then make a QUERY."
+```
+
+For in the October 23rd, 1852 edition of [*Notes and Queries* (Vol 6 Iss 156, p.390)](https://archive.org/details/sim_notes-and-queries_1852-10-23_6_156/page/390/mode/2up?q=sin), the following letter appears in the *Minor Queries Answered* section from a certain *Jelinger C. Symons*:
 
 > Sin-eater. — Can any of your readers explain the origin of "the sin-eater," and give instances of that horrid practice still subsisting in parts of England or Wales, as I am assured it does? It consists in the supposed transfer of the sins of a person recently dead to a man of reprobate character, who eats a piece of bread laid on the chest of the corpse, whereby he is believed to have released the dead man from the responsibility of his sins, and to have taken it on himself; he then receives half-a-crown for his services, and is driven or pursued from the house with execration.
 >

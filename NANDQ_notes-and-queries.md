@@ -1,6 +1,31 @@
 
 ---
 
+https://archive.org/details/notesqueries01londuoft/page/n9/mode/2up
+
+
+Notes and Queries No. 1
+
+Saturday, November 3rd, 1849
+
+p.1-3
+
+>NOTES AND QUERIES.
+>
+> THE nature and design of the present work have been so fully stated in the Prospectus, and are indeed so far explained by its very Title, that it is unnecessary to occupy any great portion of its first number with details on the subject. We are under no temptation to fill its columns with an account of what we hope future numbers will be. Indeed, we would rather give a specimen than a description ; and only regret that, from the wide range of subjects which it is intended to embrace, and the correspondence and contributions of various kinds which we are led to expect, even this can only be done gradually. A few words of introduction and explanation may, however, be allowed ; and, indeed, ought to be prefixed, that we may be understood,.by those readers who have not seen our Prospectus.
+
+"WHEN FOUND, MAKE A NOTE OF," is a most admirable rule ; and if the excellent Captain had never uttered another word, he might have passed for a profound philosopher. It is a rule which should shine in gilt letters on the gingerbread of youth, and the spectacle-case of age. Every man who reads with any view beyond mere pastime, knows the value of it. Every one, more or less, acts upon it. Every one regrets and suffers who neglects it. There is some trouble in it, to be sure ; but in what good thing is there not ? and what trouble does it save ! Nay, what mischief! Half the lies that are current in the world owe their origin to a misplaced confidence in memory, rather than to intentional falsehood. We have never known more than one man who could deliberately and conscientiously say that his memory had *never* deceived him ; and he (when he saw that he had excited the surprise of his hearers, especially those who knew how many years he had spent in the management of important commercial affairs) used to add, — because he had never trusted it ; but had uniformly written down what he was anxious to remember.
+
+But, on the other hand, it cannot be denied that reading and writing men, of moderate industry, who act on this rule for any considerable length of time, will accumulate a good deal of matter in various forms, shapes, and sizes — some more, some less legible and intelligible — some unposted in old pocket books — some on whole or half sheets, or mere scraps of paper, and backs of letters — some, lost sight of and forgotten, stuffing out old portfolios, or getting smoky edges in bundles tied up with faded tape. There are, we are quite sure, countless boxes and drawers, and pigeon-holes of such things, which want looking over, and would well repay the trouble. Nay, we are sure that the proprietors would find themselves much benefited even if we were to do nothing more than to induce them to look over their own collections. How much good might we have done (as well as got, for we do not pretend to speak quite disinterestedly), if we had had the looking over and methodizing of the chaos in which Mr. Oldbuck found himself just at the moment, so agonizing to an author, when he knows that the patience of his victim is oozing away, and fears it will be quite gone before he can lay his hand on the charm which is to fix him a hopeless listener: — "So saying, the Antiquary opened a drawer, and began rummaging among a quantity of miscellaneous papers, ancient and modern. But it was the misfortune of this learned gentleman, as it may be that of many learned and unlearned, that he frequently experienced on such occasions, what Harlequin calls *l'embarras des richesses* — in other words, the abundance of his collection often prevented him from finding the article he sought for." We need not add that this unsuccessful search, for Professor MacCribb's epistle, and the scroll of the Antiquary's answer, was the unfortunate turning-point on which the very existence of the documents depended, and that from that day to this nobody has seen them, or known where to look for them.
+
+But we hope for more extensive and important benefits, than these from furnishing a medium by which much valuable information may become a sort of common property among those who can appreciate and use it. We do not anticipate any holding back by those whose " NOTES" are most worth having, or any want of "QUERIES" from those best able to answer them. Whatever may be the case in other things, it is certain that those who are best informed are generally the most ready to communicate knowledge and to confess ignorance, to feel the value of such a work as we are attempting, and to understand that if it is to be well done they y must help to do it. Some cheap and frequent means for the interchange of thought s certainly wanted by those who are engaged n literature, art, and science, and we only lope to persuade the best men in all, that we offer them the best medium of communication with each other.
+
+By this time, we hope, our readers are prepared to admit that our title (always one of ,he most difficult points of a book to settle), las not been imprudently or unwisely adopted. We wish to bring together the ideas and the wants, not merely of men engaged in the same lines of action or inquiry, but also (and very particularly) of those who are going diferent ways, and only meet at the crossings, where a helping hand is oftenest needed, and they would be happy to give one if they knew it was wanted. In this way we desire that our little book should take "NOTES," and be a medley of all that men are doing — that the Notes of the writer and the reader, whatever be the subject-matter of his studies, of the antiquary, and the artist, the man of science, the historian, the herald, and the ge- nealogist, in short, Notes relating to all subjects but such as are, in popular discourse, termed either political or polemical, should meet in our columns in such juxta-position, as to give fair play to any natural attraction or repulsion between them, and so that if there are any hooks and eyes among them, they may catch each other.
+
+Now, with all modesty, we submit, that for the title of such a work as we have in view, and have endeavoured to describe, no word could be so proper as "NOTES." Can any man, in his wildest dream of imagination, conceive of any thing that may not be — nay, that has not been — treated of in a note ? Thousands of things there are, no doubt, which cannot be sublimed into poetry, or elevated into history, or treated of with dignity, in a stilted text of any kind, and which are, as it is, called, "thrown" into notes; but, after all, they are much like children sent out of the stiff drawing-room into the nursery, snubbed to be sure by the act, but joyful in the freedom of banishment. We were going to say (but it might sound vain-glorious), where do things read so well as in notes ? but we will put the question in another form : — Where do you so well test an author's learning and knowledge of his subject ? — where do you find the pith of his most elaborate researches?— where do his most original suggestions escape ? — where do you meet with the details that fix your attention at the time and cling to your memory for ever? — where do both writer and reader luxuriate so much at their ease, andfeel that they are wisely discursive? But if we pursue this idea, it will be scarcely possible to avoid something which might look like self-praise ; and we content ourselves for the present with expressing our humble conviction that we are doing a service to writers and readers, by calling forth materials which they have themselves thought worth notice, but which, for want of elaboration, and the "little leisure" that has not yet come, are lying, and may lie for ever, unnoticed by others, and presenting them in an unadorned *multum-in-parvo* form. To our readers therefore who are seeking for Truth, we repeat "When found make a NOTE of;" and we must add, "till then make a QUERY."
+
+---
+
 
 https://archive.org/details/notesqueriesmedi03note/page/24/mode/2up?q=mazer+wood
 
@@ -324,7 +349,7 @@ E. Leaton-Bienxtnsorr.
 
 https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up
 
-Notes and Queries  1878-01-19: Vol 9 Iss 212
+Notes and Queries 1878-01-19: Vol 9 Iss 212
 
 1878-01-19
 5th S. IX p48
@@ -344,7 +369,7 @@ Ed. Marshall, F.S.A
 
 https://archive.org/details/sim_notes-and-queries_1882-09-30_6_144/page/272/mode/2up
 
-Notes and Queries  1882-09-30: Vol 6 Iss 144
+Notes and Queries 1882-09-30: Vol 6 Iss 144
 
 1882-09-30
 
@@ -358,7 +383,7 @@ Otp Yorxsuire Customs (6" §. vi. 146). — The practice of placing a plate of s
 
 https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin
 
-Notes and Queries  1883-01-13: Vol 7 Iss 159
+Notes and Queries 1883-01-13: Vol 7 Iss 159
 
 ?6th S. VII Jan. 13
 1883-01-13
