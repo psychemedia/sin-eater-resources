@@ -8,37 +8,65 @@ So in our attempt to track down the origins of the story of the *sin-eater*, let
 
 ## Hone's Year Book
 
----
+*The year book of daily recreation and information : concerning remarkable men and manners, times and seasons, solemnities and merry-makings, antiquities and novelties, with 114 engravings* [[available here](https://archive.org/details/cu31924029752791/page/n443/mode/2up?q=sin)] by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in 1832.
 
-https://archive.org/details/cu31924029752791/page/n443/mode/2up?q=sin
+In the entry for July 19th, 1831, on pages 858-9, we find the following reference to *"Sin Eaters"*.
 
-The year book of daily recreation and information :
-by Hone, William, 1780-1842; Loewy, Benno, 1854-1919. fmo
+> Sin-eating is the only that can be used to signify a practice which prevailed with our ancestors. Lawrence Howell, mentioned above, wrote a "History of the Pontificate", in which he mentions a decretal epistle, attributed to a pope Alexander, in the second century, which, by an exposition of "They eat up the sin of my people," *Hosea* iv. 8, implies that this passage signifies "the dignity of priests, who, by their prayers and offerings, eat up the sins of the people." An usage called sin-eating undoubtedly arose in catholic times, and, however it may have been limited to the clergy in early ages, was afterwards continued and practised as a profession, by certain persons called sin-eaters.
 
+This reference to *Hosea* iv. 8 was presumbaly picked up by the person responding to Symons' letter to *Notes & Queries*; we also have an indication suggestive of catholic origins to the practise.
 
-Publication date 1832
+We then get a more direct statement regarding the folkloric character we are pursuing:
 
+> In a letter from John Bagford, dated 1715, printed in "Leland's Collectanea," there is the following account of a sin-eater. — "Within the memory of our fathers, in Shropshire, in those villages adjoining to Wales, when a person died, there was notice given to an old 'sire' (for so they called him,) who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket (or stool), on which he sat down facing the door. Then they gave him a groat, which he put in his pocket; a crust of bread, which he ate; and a full bowl of ale, which he drank off at a draught." After this, he got up from the cricket, and pronounced, with a composed gesture, 'the ease and rest of the soul departed, for which he would pawn his own soul.' This" says Bagford, "I had from the ingenious John Aubrey, esq., who made a collection of curious observations, which I have seen."
 
-p858-9
+Here, then, we have new evidence for visitor in the Shropshire area in the last quarter of the 17th century ("within memory of our fathers", from a basis in 1715) who arrives when a death is announced; who is paid groat (four pence); who sits on a small stool facing the door, eats some bread and drinks a "full bowl" of ale in one go; and who then stands, and with a particular gesture (though what sort of gesture we don't know), makes a ritual pronouncement.
 
-The year book of daily recreation and information : concerning remarkable men and manners, times and seasons, solemnities and merry-makings, antiquities and novelties ... / by William Hone ; with 114 engravings.
+The description is given in another document for us to track down, *Leland's Collectanea*, where a correspondent (John Bagford) claims "John Aubrey" as his source.
 
-Originally published weekly from January 1831 to January 1832, in 52 numbers.
-
-In the entry for July 19
-
-Sin Eaters.
-
-Sin-eating is the only that can be used to signify a practice which prevailed with our ancestors. Lawrence Howell, mentioned above, wrote a "History of the Pontificate, in which he mentions a decretal epistle, attributed to a pope Alexander, in the second century, which, by an exposition of "They eat up the sin of my people," *Hosea* iv. 8, implies that this passage signifies "the dignity of priests, who, by their prayers and offerings, eat up the sins of the people." An usage called sin-eating undoubtedly arose in catholic times, and, however it may have been limited to the clergy in early ages, was afterwards continued and practised as a profession, by certain persons called sin-eaters.
-
-In a letter from John Bagford, dated 1715, printed in "Leland's Collectanea," there is the following account of a sin-eater. — "Within the memory of our fathers, in Shropshire, in those villages adjoining to Wales, when a person died, there was notice given to an old 'sire' (for so they called him,) who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket (or stool), on which he sat down facing the door. Then they gave him a groat, which he put in his pocket; a crust of bread, which he ate; and a full bowl of ale, which he drank off at a draught." After this, he got up from the cricket, and pronounced, with a composed gesture, 'the ease and rest of the soul departed, for which he would pawn his own soul.' This" says Bagford, "I had from the ingenious John Aubrey, esq., who made a collection of curious observations, which I have seen."
-
-Among the Lansdowne MSS., in the British Museum, are statements in Aubrey's own hand writing, to this purport. — "In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the sin-eater, over the corpse, as also a mazard bowl, of maple, full of beer (which he was to drink up), and sixpence in money : in consideration whereof he took upon him, ipso facto, all the sins of the defunct, and freed him or her from walking after they were dead." Aubrey adds, "This custom, though rarely used in our days, yet, by some people, was observed even in the strictest time of the Presbyterian government ; as, at Dynder (volens nolens the parson of the parish), the kindred of a woman, deceased there, had this ceremony punctually performed, according to her will : and, also, the like was done at the city of Hereford, in those times, where a woman kept, many years before her death, a mazard bowl for the sin-eater; and the like in other places in this county ; as also in Brecon : e. g. at Llanggors, where Mr. Gwin, the minister, about 1640, could not hinder the performance of this ancient custom. I believe," says Aubrey, "this custom was heretofore used all over Wales." He states further, "A. D. 1686. This custom is used to this day in North Wales."
+> Among the Lansdowne MSS., in the British Museum, are statements in Aubrey's own hand writing, to this purport. — "In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the sin-eater, over the corpse, as also a mazard bowl, of maple, full of beer (which he was to drink up), and sixpence in money : in consideration whereof he took upon him, ipso facto, all the sins of the defunct, and freed him or her from walking after they were dead." Aubrey adds, "This custom, though rarely used in our days, yet, by some people, was observed even in the strictest time of the Presbyterian government ; as, at Dynder (volens nolens the parson of the parish), the kindred of a woman, deceased there, had this ceremony punctually performed, according to her will : and, also, the like was done at the city of Hereford, in those times, where a woman kept, many years before her death, a mazard bowl for the sin-eater; and the like in other places in this county ; as also in Brecon : e. g. at Llanggors, where Mr. Gwin, the minister, about 1640, could not hinder the performance of this ancient custom. I believe," says Aubrey, "this custom was heretofore used all over Wales." He states further, "A. D. 1686. This custom is used to this day in North Wales."
 
 Bishop White Kennet, who appears to have possessed Aubrey's MS., has added this note. "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford ; where, at the burial of every corpse, one cake and one flaggon of ale, just after the interment, were brought to the minister in the church porch."
 
 ---
 
+### John Bagford
+
+https://en.wikipedia.org/wiki/John_Bagford
+
+1650/51, Fetter Lane, London – 5 May 1716, Islington) was an English antiquarian, writer, bibliographer, ballad-collector, bookseller, and biblioclast.
+
+
+### John Leland
+
+https://en.wikipedia.org/wiki/John_Leland_(antiquary)
+
+https://www.britannica.com/biography/John-Leland#ref52118
+
+
+## Leland's Collectanea
+
+
+https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up
+
+Joannis Lelandi antiquarii De rebvs britannicis collectanea
+by Leland, John, 1506?-1552; Hearne, Thomas, 1678-1735, ed; Pre-1801 Imprint Collection (Library of Congress) DLC [from old catalog]
+
+2nd edition
+
+1774
+
+p. 66 LXVI
+
+Preface
+
+Letter from John Bagford
+
+Within the memory of our Fathers in Shropshire, in those Villages adjoyning to Wales when a Person dyed, there was notice given to an old Sire, (for so they call'd him,) who presently repair'd to the Place where the deceased lay, and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the Door. Then they gave him a Groat, which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket, and pronounced with a composed Gesture, *The safe and rest of the Soul departed, for which he would pawn his own Soul". This I had from the ingenious John Aubrey Esq; who made a Collectìon of curious Observations, which I bave seen, and is now remaining in the Hands of Mr. Churchill the Bookseller. How can a man think otherwise of this, than that it proceeded from the ancient Heathens?
+
+
+
+---
 
 ## Brand's Antiquities
 
@@ -121,25 +149,4 @@ British Library: Western Manuscripts Lansdowne MS 231/3
 
 Legal Status Not Public Record(s)
                
-
-
-## Leland's Collectanea
-
-
-https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up
-
-Joannis Lelandi antiquarii De rebvs britannicis collectanea
-by Leland, John, 1506?-1552; Hearne, Thomas, 1678-1735, ed; Pre-1801 Imprint Collection (Library of Congress) DLC [from old catalog]
-
-2nd edition
-
-1774
-
-p. 66 LXVI
-
-Preface
-
-Letter from John Bagford
-
-Within the memory of our Fathers in Shropshire, in those Villages adjoyning to Wales when a Person dyed, there was notice given to an old Sire, (for so they call'd him,) who presently repair'd to the Place where the deceased lay, and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the Door. Then they gave him a Groat, which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket, and pronounced with a composed Gesture, *The safe and rest of the Soul departed, for which he would pawn his own Soul". This I had from the ingenious John Aubrey Esq; who made a Collectìon of curious Observations, which I bave seen, and is now remaining in the Hands of Mr. Churchill the Bookseller. How can a man think otherwise of this, than that it proceeded from the ancient Heathens?
 
