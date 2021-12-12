@@ -46,7 +46,7 @@ That a Council, with a President, Secretary, and other officers be appointed ; a
 
 That whatever incidental expenses may arise, be left to be defrayed by the good feeling of those patrons of antiquarian pursuits who may be generous enough to come forward for that purpose.
 
-And, lastly, that the *Archceologia Cambrensis* be adopted as the official organ of the Society.
+And, lastly, that the *Archaeologia Cambrensis* be adopted as the official organ of the Society.
 
 These propositions and hints, which are thrown out for the consideration of your readers and yourselves, we have no hesitation in saying, could be carried into effect quickly, easily, and at a very trifling expense. We re- quest you to turn the subject over in your minds, and to propose it for the consideration of your readers. —
 I remain yours faithfully,

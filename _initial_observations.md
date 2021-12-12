@@ -9,6 +9,8 @@ Writing in Chapter 53, *"Antiquarianism and History"*, p. 516, of *A Companion t
 
 > By using the adjective "antiquarian" to discuss several forms of the study of the past as it was practiced in antiquity, we highlight implicitly the existence of a certain affinity between these forms and a major trend in European culture of the fifteenth to eighteenth centuries, namely research by *antiquarii* ("antiquarians"). Early modern antiquarians studied the *antiquitates* ("antiquities") of the ancient world (pagan and Christian) and of the Middle Ages. By the term antiquitates they meant surviving ancient or medieval artefacts (vestiges of architecture, sculpture, coins, inscriptions, manuscripts, utensils) or institutions, customs, laws, beliefs, ancient or medieval technology – or both categories simultaneously.
 
+## The Founding of the Cambrian Archaeological Association, 1846-7
+
 In the first part of the 19th century, the new kid on the block was *archaeology*. The British Archaeological Association (BAA) was founded in December, 1843, shortly followed by the formation of the *Archaeological Institute*. (There is probably a story in there somewhere about whether this was a set up by a disenchanted splinter group..)
 
 In January 1846, two Welsh clergyman, the Rev. Harry Longueville Jones and the Rev John Williams launched a richly illustrated journal of their own, *Archaeologia Cambrensis* (*Arch. Camb.*) ([original issue, volume I, issue I](https://archive.org/details/sim_archaeologia-cambrensis_1846-01_1_1)).
@@ -18,8 +20,9 @@ In January 1846, two Welsh clergyman, the Rev. Harry Longueville Jones and the R
 The first article in the issue, authored by *H. L. J.* — which is to say, Harry Longueville Jones – provided context for the aims of the journal: *"On the Study and Preservation of Natipnal Antiquities"*. Other articles in that first issue included *An Account of the Civil War in North Wales* and papers on *Heraldry* and *Holy Wells* and many pages of correspondence.
 
 In issue III, published July 1846, the following ["Important Communication"](https://archive.org/details/sim_archaeologia-cambrensis_1846-07_1_3/page/281/mode/1up?q=correspondence) opened the *Correspondence* section:
->
-> IMPORTANT COMMUNICATION. 
+
+
+> IMPORTANT COMMUNICATION.
 >
 > *To the Editors of the Archeologia Cambrensis.*
 >
@@ -59,7 +62,7 @@ The letter then continues:
 >
 > That whatever incidental expenses may arise, be left to be defrayed by the good feeling of those patrons of antiquarian pursuits who may be generous enough to come forward for that purpose.
 >
-> And, lastly, that the *Archceologia Cambrensis* be adopted as the official organ of the Society.
+> And, lastly, that the *Archaeologia Cambrensis* be adopted as the official organ of the Society.
 >
 > These propositions and hints, which are thrown out for the consideration of your readers and yourselves, we have no hesitation in saying, could be carried into effect quickly, easily, and at a very trifling expense. We re- quest you to turn the subject over in your minds, and to propose it for the consideration of your readers. —
 I remain yours faithfully,
@@ -98,13 +101,13 @@ The next edition of the journal, [*Archaeologia Cambrensis*, Vol 1 Iss IV, Octob
 >
 > THE EDITORS.
 
-There then follows an '*Alphabetical List of Antiquaries who "approve of the formation of a Society for the study and preservation of Welsh National Antiquities"*'.
+There then followed an '*Alphabetical List of Antiquaries who "approve of the formation of a Society for the study and preservation of Welsh National Antiquities"*'.
 
-In the next issue, *No. V, January 1847*, at p. 91 of the collected edition for Volume II](https://archive.org/details/archaeologiacamb1847unse/page/90/mode/2up?q=cambrian), a preliminary set of *REGULATIONS FOR THE GOVERNMENT OF THE CAMBRIAN ARCHAEOLOGICAL ASSOCIATION  (Provisionally adopted until the holding of the First Annual Meeting* appears. The remit of the association is described in the following terms:
+In the next issue, *No. V, January 1847*, at p. 91 of the collected edition for [Volume II](https://archive.org/details/archaeologiacamb1847unse/page/90/mode/2up?q=cambrian), a preliminary set of *REGULATIONS FOR THE GOVERNMENT OF THE CAMBRIAN ARCHAEOLOGICAL ASSOCIATION  (Provisionally adopted until the holding of the First Annual Meeting* appears. The remit of the association is described in the following terms:
 
 > The Cambrian Archaeological Association is formed in order to examine, preserve, and illustrate, all Ancient Monuments and Remains of the History, Manners, Customs and Arts of Wales and its Marches.
 
-## The Fifth Meeting, at Tenby
+## The Fifth Meeting, at Tenby, 1851
 
 At the fifth meeting of the Cambrian Archaeological Association in Tenby, at the end of August 1851, at the evening meeting on Monday, August 25th, Matthew Moggridge, Esq., read the following observations *"On the Preservation of Local Traditions"* as described in [*Archaeologia Cambrensis*, 1851-10: Vol 2 Iss 8](https://archive.org/details/sim_archaeologia-cambrensis_1851-10_2_8/page/326/mode/2up?q=moggridge), p. 326:
 
@@ -122,7 +125,7 @@ Moggridge's observations then concluded with some examples of the subject matter
 
 > "In conclusion, I would quote, as exemplifying the object I have in view, one or two passages from a paper read before the Literary and Philosophical Society at Swansea."—Mr. Moggridge then made a few extracts from the paper in question, and, in particular, mentioned as the origin of those "slangs" of land which are so often found in South Wales, mixed up with the estate of a distinct proprietor, the fact that it was at one time usual to gamble for small pieces of land.— "A similar custom to the last prevailed near St. Clear's; but there it partook more of the character of wager of battle, the doughty champions being snails, who were to climb up a pole, the owner of the one who reached the summit first receiving the stakes."
 
-## The Sixth Meeting, at Ludlow
+## The Sixth Meeting, at Ludlow, 1852
 
 As eight o’clock struck on the evening of Monday, August 23rd, 1852, in the New Buildings at Ludlow, the Vice President of the Cambrian Archaeological Association, W. W. E. Wynne, Esq., M.P., called the sixth annual meeting of that learned association to order.
 
