@@ -143,6 +143,8 @@ Their first stop was the Priory Church at Leominster, whence they arrived shortl
 
 According to the [Hereford Journal of Wednesday, September 1st, 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002), after Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch.  The whole circular trip covered a 30 mile journey or so.
 
+### "The Sin-Eater", As According to Moggridge
+
 The evening programme that day convened at half-past seven o'clock, with the President, the Hon R. H. Clive, M.P., in the chair. It commenced with the reading of a paper on the *History of the Parish of Carno, Montgomeryshire* by T. O. Morgan, Esq., of Aberystwyth, and dollowing a vote of thanks to Mr. Morgan, "enthusiastically accorded by the meeting", an apparently short discussion on *Municipal records of Ludlow*." Matthew Moggridge, Esq., reporting on the latest of his researches in the Swansea valley alluded to in the paper he read at the fifth meeting the precious year in Tenby, on *"On the Preservation of Local Traditions"*, then proceeded to make some observations the *"Custom of the Sin Eater in Cwm Ammon Valley"*.
 
 ```{admonition} Cwm Ammon
@@ -296,7 +298,7 @@ However, the report also includes the comments, not previously report, by Messrs
 
 As we later try to ascertain the development, and provenance, of the development of the sin-eater history, this additional fragments may help us identify by what source various authors came to their conclusions.
 
-## The "Offical" Account According to *Archaeologia Cambrensis*, 1852
+## The "Official" Account According to *Archaeologia Cambrensis*, 1852
 
 In many respects, the official record of the meeting in the journal of the Cambrian Archaeological Association follows that of Shrewsbury Chronicle, down to an exact match in some of the phrases, although it must be said, with some occasional omission.
 
