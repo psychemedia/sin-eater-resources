@@ -30,6 +30,13 @@ Doles were used at Funerals, as we learn from St. Chrysostoms, to procure Rest t
 Vol. II p. 109
 
 
+p23 chapter II - this is borune ratehr than observatio
+
+I find in Durant a pretty exaft Account of ibme of the Ceremonies ufed at prefent in what 1?V€ call laying out or streeking * in the North
+
+Footnote: Mr. Pennant, in his Tour in. Scotland, tells us, that on the Death of a Highlander, the Corps \^\xi%firett:hed ovl a Boards, and covered with a coarfe Lintn IVrapper^xht Friends lay on the Breaft of theDecea&da*u;W^/r Platter y containing a fmadl Qi|aotity of Salt 9x^6: Earthy feparate and' unmixed; the Earth an Emblem of the cotruptible Body; the Salt an Emblem of the immortal Spirit. «<— All Fire is extinguifhed where a Corps is kept ; and it is rec- koned fo ominous for a Dog or a Cat to pafs over it, that the poor Animal is killed without Mercy
+
+
 ---
 
 https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse
