@@ -1,7 +1,7 @@
 # The Legend of the Sin Eater in Wales - 19th Century Correspondence Debates
 
 
-## Initial Obsrvations
+## Initial Observations
 
 - first surfaced with a piece on funeral customs citing Aubrey
 - mentioned in yearbook

@@ -1,0 +1,8 @@
+format: jb-book
+root: _intro
+parts:
+- caption: Initial Observations
+  chapters:
+  - file: _beginning
+  - file: _initial_observations
+  - file: _before_ludlow
