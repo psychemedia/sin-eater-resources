@@ -86,9 +86,15 @@ Among his achievements, White Kennet was author of the *Parochial Antiquities at
 In terms of provenance of the White's papers, which included Aubrey's manuscript, and their route into the Lansdowne amnuscripts, the *Dictionary of National Biography, 1885-1900, [entry for *Kennett, White*](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Kennett,_White) offers the following:  "Many of Kennett's manuscripts, which once formed part of the library of James West, president of the Royal Society, were purchased in 1773 by the Earl of Shelburne (afterwards Marquis of Lansdowne), with whose collection they passed, in 1807, to the British Museum. They are now numbered 935–1041 in the Lansdowne collection."
 ```
 
-## Leland's Collectanea
+## Leland's *Collectanea*
 
-Regarding the "letter from John Bagford" in *Leland's Collectanea*, it first seems to appear in the second edition of *Joannis Lelandi antiquarii De rebvs britannicis collectanea*](https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up), published in 1774, as "A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.
+Regarding the "letter from John Bagford" in *Leland's Collectanea*, it first seems to appear in the second edition of *Joannis Lelandi antiquarii De rebvs britannicis collectanea*](https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up), edited by Thomas Hearne, and published in 1774, as "A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.
+
+```{admonition} Thomas Hearne
+:class: dropdown
+[Thomas Hearne](https://en.wikipedia.org/wiki/Thomas_Hearne_(antiquarian)) (1678-1735) was an English diarist, scholar and antiquary from Berkshire.
+
+```
 
 On p. LXXVI, we have the comment regarding the "old Sire":
 
@@ -155,7 +161,7 @@ The Lansdowne papers are still held by the British Library today, as the [*Lansd
 
 We have now also pretty much chased our way back to Aubrey.
 
-``````{admonition} John Aubrey
+```{admonition} John Aubrey
 :class: dropdown
 [John Aubrey](https://en.wikipedia.org/wiki/John_Aubrey) (12 March 1626 – 7 June 1697) was English antiquary and natural philosopher in the latter half of the seventeenth century.
 
@@ -173,7 +179,7 @@ So what did Brand, or the editor, Mr Ellis, have to say about "the sin eater"?
 
 ## Brand's Antiquities
 
-*Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's Antiquitates Vulgares* by John Brand, was first published in 1777. This [first edition](https://archive.org/details/observationsonp00bourgoog/page/n46/mode/2up) contains no explicit reference to a "sin eater", although Chapter II of Bourne's work, and Brand's observation on it, do cover traditions *Of Watching with the Dead*.
+*Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's Antiquitates Vulgares* — often referred to as *Popular Antiquities* — by John Brand, was first published in 1777. This [first edition](https://archive.org/details/observationsonp00bourgoog/page/n46/mode/2up) contains no explicit reference to a "sin eater", although Chapter II of Bourne's work, and Brand's observation on it, do cover traditions *Of Watching with the Dead*.
 
 A new edition, first published in 1813, edited by Henry Ellis, went on to be republished many times, including the 1849 edition as cited in *Notes and Queries*.
 
