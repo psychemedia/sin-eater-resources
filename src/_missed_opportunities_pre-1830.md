@@ -194,6 +194,7 @@ Finally, we have a rather humourous story of the elegy given to an apparently re
 
 > FUNERAL SERMONS.— Speaking of the frequency of these formerly, and their present disuse :— "Even such a character as the infamous Mother *Creswell*, the procuress in the reign of Charles II," our author observes, "must have her Funeral Sermon." She, according to Granger, desired by will to have a sermon preached at her funeral, for which the preacher was to have 10l., but upon the express condition that he only spoke well of her. A preacher was with some difficulty found, who undertook the task. He, after a sermon preached on the general subject of morality, and the good uses to be made of it, concluded by saying— 'By the will of the deceased, it is expected I should mention her, and say nothing but what is *well* of her. All I shall say of her, therefore, is this :— she was born well, she lived well, and she died well, for she was born with the name of Creswell, she lived in Clerkenwell, and she died in Bridewell."
 
+
 ```{admonition} Elizabeth Cresswell ("Mother Creswell", "Madam Cresswell of Clerkenwell")
 :class: seealso dropdown
 
@@ -203,9 +204,14 @@ https://en.wikipedia.org/wiki/Elizabeth_Cresswell
 
 ```
 
-In the paragraph following the original statement of that paragraph, in a footnote on [p.184-5](https://archive.org/details/observationsonpo02branuoft/page/184/mode/2up?q=cresswell) of the 1813 edition Of *Popular Antiquities*, we have a further commentary on sermons preached for unpopular characters (ones who might perhaps be in most need of the sin-eater's ministrations!):
+If we look up the reference to Madam Cresswell in *Popular Antiquities*, the paragraph following the original statement of that paragraph, in a footnote on [p.184-5](https://archive.org/details/observationsonpo02branuoft/page/184/mode/2up?q=cresswell) of the 1813 edition, we have a further commentary on sermons preached for unpopular characters (ones who might perhaps be in most need of the sin-eater's ministrations!):
 
 > "Dr. Fuller, in his Appeal of injured Innocence, (Part iii. p. 75.) tells us, that "When one was to preach the Funeral Sermon of a most vicious and generally hated person, all wondered what he would say in his praise ; the preacher's friends fearing, his foes hoping that, for his fee, he would force his conscience to flattery. For one thing, said the minister, this man is to be spoken well of by all ; and, for another thing, he is to be spoken ill of by none. The first is because God made him} the second, because lie is dead." Granger's Biogr. Hist. of England, 8vo- Lond. 1775. vol. iv. p. 218.
+
+```{admonition} Madam Cresswell, According to Granger
+:class: seealso dropdown
+
+Chasing down the reference to Madam Cresswell in Granger's *Biogr. Hist. of England*, what more do we learn of her?
 
 On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/mode/2up?q=Fuller) of volume IV of James Grangers *"A Biographical history of England"* (*from Egbert the Great to the Revolution : consisting of characters disposed in different classes, and adapted to a methodical catalogue of engraved British heads ; intended as an essay towards reducing our biography to system, and a help to the knowledge of portraits*), 1779, we have the following biography of Madam Cresswell in a section on *The History of Charels II. of England*. The images referred to appear to be [*The Cryes of the City of London Drawne after the Life 1688*](https://www.soundsurvey.org.uk/index.php/history/street_cries/brit1/499/2953), with this blog post on [Old London Cries](https://www.soundsurvey.org.uk/index.php/history/street_cries/brit2/662/3524) identifying *"51. “[London Curtezan](https://www.magnoliabox.com/products/london-curtezan-cries-of-london-c1688-1239163)” (Mrs. Russell, in a tawdry scarf of flowered gauze, patches on her face, a mask in her right hand, and a fan in her left).* and *52. [“Madam Creswell”](https://www.sciencephoto.com/media/994373/view/madam-creswell-cries-of-london) (a celebrated courtezan, and something more, mentioned by Shadwell, Oldham, and Otway)"*.
 
@@ -223,6 +229,7 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 > Though the daughters were much more numerous than the mothers of iniquity, I have met with only the names of three of those who were contemporaries with Mrs. Creswell ; viz. Mrs. Russel, Mrs. Foster, and Betty Morrice `[The two last are mentioned in "A Letter from Artemisia in *the Town, to Chloe in the Country," by lord Rochester]`. Oblivion is entailed on the obscene practices of these creatures, as well as rottenness on their bones. Their whole biography is contained in the sixth prints published by Mr. Hogarth. *Few and evil* are the *days*, or to speak with precision, the *nights* of harlots. These harpies in borrowed plumes are birds of darkness, and appear at the same time with bats and owls. They were dispersed through every quarter of the town; but Moor-Fields, Whetstone's Park, Lukener's Lane, and Dog and Bitch Yard, were their capital feraglios `[Manuscript State Poems, written in this reign, in the possession of the dutchess dowager of Portland,]`.
 
 *Note also: __mortality__ not __morality__ in the eulogy for Madam Cresswell.*
+```
 
 Just as another aside, there is an unpleasant tale that makes a passing reference to the famed Mother Cresswell, in [*"The Somers Collection of Tracts"*](https://archive.org/details/collectionofscar07someuoft/page/126/mode/2up?q=%22Mother+Cresswell%22+procuress)" (*A collection of scarce and valuable tracts, on the most interesting and entertaining subjects : but chiefly such as relate to the history and constitution of these Kingdoms, selected from an infinite number in print and manuscript, in the Royal, Cotton, Sion, and other public, ans well as private libraries, particularly that of the late Lord Somers. 2d ed.,*) by John Somers, second edition, revised and augmented by Walter Scott, Esq., 1812.
 
