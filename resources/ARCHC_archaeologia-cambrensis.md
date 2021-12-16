@@ -1,4 +1,21 @@
 
+
+---
+
+https://archive.org/details/sim_archaeologia-cambrensis_1846-01_1_1/page/54/mode/2up
+
+Archaeologia Cambrensis  1846-01: Vol 1 Iss 1
+Publication date 1846-01
+
+
+p54
+
+Holy Wells
+
+4. Sr. Elian’s Wett, in the parish of Llanelian, Denbigh- shire. This is the most dreadful of all the wells, and the one in whose miraculous powers the peasants of the present day most fully believe. Persons who bear any great malice against others, and wish to injure them, frequently resort to the minister of the well, who for a sum of money undertakes to “offer” them in it. The penalty consists either in per- sonal pain, or loss of property, as the offerer pleases. Various ceremonies are gone through on the occasion; amongst others, the name of the devoted is registered in a book —a pin in his name, and a pebble with his initials inscribed thereon, are thrown into the well. When the curse is to be removed, the ceremonies are to a certain extent reversed, such as erasing the name from the book, taking up the peb- ble, with several other practices of a superstitious character.
+
+
+
 ---
 
 https://archive.org/details/sim_archaeologia-cambrensis_1846-07_1_3/page/281/mode/1up?q=correspondence
@@ -166,3 +183,28 @@ Mr. W. Basil Jones observed that the Hon. Chairman had requested him to lay on t
 The Association then proceeded to private business, ...
 
 ---
+
+
+https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/150/mode/2up
+
+Archaeologia Cambrensis  1885-04: Vol 2 Iss 6
+Publication date 1885-04
+
+p152-5
+
+EXTRACTS FROM A MS. OF ANCIENT DATE,
+GIVING SOME. CUSTOMS AND USAGES IN NORTH WALES.
+
+The night before a dead body is to be interred the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with them some small piece of meat, bread, or drink (if the family be something poor); but more especially candles, whatever the family is; and this night is called Wy] Nos, whereby the country people seem to mean a Watching Night ; their going to such a house they say is “i wilio’r corph”, z.e., to watch the corpse. But “ wylo” signifies to weep and lament, aud so “wyl nos” may be a night of lamentations. While they stay together on these nights they are either singing psalms or reading some part of the holy scriptures. TElnayell
+Whenever anybody comes into the room where a dead corpse lyes, especially the wyl nos and the day of its interment, the first thing he does, he falls upon his knees by the corpse, and saith the Lord’s Prayer. [Llanycil custom. ]
+Pence and half-pence (in lieu of little rolls of bread, which heretofore generally, and by some still are given on these occasions) are now distributed to the poor who flock in great numbers to the house of the deceased before the corpse is brought out. [Ysceifiog custom. |
+When the corpse is brought out of the house, laid upon the bier, and covered before it be taken up, the next of kin to the deceased— widow, mother, daughter, or cosin (never done by a man)—gives across over the corpse to one of the poorest neighbors two or three little loaves of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink (all which things are brought upon a large dish and reached over the corpse to the poor body, who returns thanks for them, and blesses God for the happiness of the soul of his friend or neighbour departed), [ Llan- gollen|, which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s Prayer, and then they get forward toward church. [Llanycil. |
+And all along from the house to ye churchyard, at every cross way, the bier is laid down and the Lord’s Prayer rehearsed ; and so, when they come first into the churchyard, before any of the verses appointed in the service be said. [Yskeifiog.]
+
+...
+
+We have reprinted the above “ Extracts” from the Rhyl Journal for Nov. 22nd, 1884, because they com- prise a highly interesting list of old customs, some of which, indeed, still linger among us. From the locali- ties named it is evident that they relate to the diocese of St. Asaph, and they look as if they were taken from the Returns of Rural Deans on some of the ecclesias- tical uses of their parishes. The probable date may be the earlier half of the last century. Many of the customs are very curious, for different reasons.
+
+...
+
+The funeral customs were, all of them, expressive. The distribution of rolls of bread and of pence and half- pence at the house, was very likely symbolical of the obligation of charity, and the need to make friends of the mammon of unrighteousness. 
