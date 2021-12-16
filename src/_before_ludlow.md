@@ -6,9 +6,30 @@ A query raised following the meeting by one of those in attendance, Mr. Jelinger
 
 So in our attempt to track down the origins of the story of the *sin-eater*, let us begin with those two sources before broadening our search to other possible references to the tradition in the years prior to 1852.
 
-## Hone's Year Book
+## Hone's Year Book, 1832
 
-[*The year book of daily recreation and information*](https://archive.org/details/cu31924029752791) by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in 1832.
+[*The year book of daily recreation and information*](https://archive.org/details/cu31924029752791) by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in February, 1832.
+
+The publication of an Edinburgh edition was announced in *The Scotsman* on 
+[Saturday 18 February 1832](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18320218/015/0001)
+
+> MR HONE'S YEAR BOOK COMPLETE.
+>
+> This day is published.
+>
+> By _RICHARD GRIFFIN & CO. Glasgow,
+>
+> And STILLIES, BROTHERS, 140, High Street, Edinburgh.
+>
+> In one very large vol. 8 vo., with 114 Engravings, price 14s. in cloth
+>
+> THE YEAR BOOK of Daily Recreation and Information, concerning remarkable Men and Manners, Times and Seasons, Solemnities and Merry-makings, Antiquities and Novelties, forming a complete History of the Year, and a Key to the Almanacks.
+>
+> By W. Hone
+>
+> N.B. Persons wishing for Odd Numbers to complete the YEAR BOOK will make immediate applicationto R. GRIFFIN & CO., as some of the numbers are getting scarece.
+>
+>64, Hutcheson Street, Feb. 11, 1832 
 
 The full title of the book is more correctly recorded as *The year book of daily recreation and information concerning remarkable men and manners, times and seasons, solemnities and merry-makings, antiquities and novelties: on the plan of the Every-Day Book and Table Book, or everlasting calendar of popular amusements, sports, pastimes, ceremonies, customs, and events incident to each of the three hundered and sixty-five days in past and present times; forming a complete history of the year; and a perpetual key to the Almanac; with 114 engravings.*
 
@@ -17,6 +38,12 @@ This work drew on Hone's previous works, [*The Every-Day Book*](https://archive.
 ```{admonition} Hone's Every-Day Book
 :class: dropdown
 *The every day book : or, A guide to the year : describing the popular amusements, sports, ceremonies, manners, customs, and events, incident to the three hundred and sixty-five days, in past and present times* was originally published weekly from Jan. 1825 to Dec. 1826 (105 numbers including indexes).
+
+Reviews reprinted in the *Inverness Courier* of [Wednesday 06 June 1832](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18320606/002/0001) described it in the following terms:
+
+>THE YEAR BOOK. "This is another delightful compilation by the ingenious Mr Hone, whose fame as an author promises to out-rival his reputation as apolitical martyr. His productions certainly combine the useful with the agreeable, far more effectively than any other compilations of the present day. They afford an infinite variety of curious information, without either prosing or pretension : and so happily are the materials put together, that the very highest critical authority ot the present time, Dr Southey, has borne testimony to their merit. Conducted on the same plan as his other volumes, equally full of rare and curious matter, it is also in its multifarious details equally amusing—and therefore are we convinced that it cannot fail to be generally read and admired."— *Scots Times*.
+>
+> "This is very delightful Miscellany, full of Amusing Traditional anecdotes, Antiquarian research, Lively Observations, Prose and Poetry, together wiih a long Muster-roll of  & ceteras." *Sun*
 
 In the *Explanatory Address to the Readers of The Every-Day Book*, which was originally published in serialised form, Hone describes the publishing model:
 
