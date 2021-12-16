@@ -30,9 +30,9 @@ In the [second volume](https://archive.org/details/northwalesinclud02bing/page/2
 
 > A strange custom prevails in some obscure parts of North Wales, which, however, the clergy have now almost abolished. This is termed the "offering of an enemy." When a person supposes himself highly injured by any one, he repairs to some church dedicated to a celebrated saint, or one who is believed to have great power over the affairs of men ; here kneeling on his bare knees before the altar, and offering a piece of money to the saint, he utters the most virulent and dreadful imprecations, calling down curses and misfortunes on the offender and his family even for generations to come. Sometimes the offended persons repair for the same purpose to some sacred well, dedicated to a saint. Mr. Pennant was threatened by a man, who fancied he had been injured by him, "with the vengeance of St. Elian, and a journey to his well, to curse him with effect." [Tour in Wales, ii. 337.]
 
-
 ```{admonition} A Tale of Saint Elian
 :class: seealso
+:class: dropdown
 So who was St Elian, and why was his well so potent?
 
 According to [Celtic Remains](https://archive.org/details/celticremains00evangoog/page/162/mode/2up?q=elian) by Morris, Lewis, ("transcribed from the original MSS. by me Richard Morris, son of the author's Brother, in the year of our Lord 1778"), edited by D Silvan Evans, 1878, ([history](https://archive.org/details/sim_archaeologia-cambrensis_1872-01_3_9/page/36/mode/2up?q=celtic)), p161-2:
@@ -49,9 +49,10 @@ There are perhaps also references somewhere in Archaeologia Cambrensis somewhere
 ```
 
 ```{admonition} Not to be Confused with either of the Greyhounds, Gelert, or St. Guinefort
-:class: seealso
+:class: seealso dropdown
 
 https://archive.org/details/historyofwaleswr00carauoft/page/n309/mode/2up?q=+greyhound
+
 > " At a period when wolves were so formidable and numerous in Wales, Llewelyn the Great came to reside here for the hunting season, with his princess and children ; but while the family were one day absent, a wolf entered into the house and attempted to kill an infant that was left asleep in the cradle. The prince's favourite greyhound, called Gelert (given him by King John in 1205), that was watching by the side,, seized the rapacious animal and killed it, but in the struggle the cradle was overturned, and lay upon the wolf and child. On the prince's return, missing the infant, and observing the dog's mouth stained with blood, he immediately concluded Gelert had murdered the child, and in a paroxysm of rage drew his sword and ran the faithful animal through the heart ; but how great was his astonish- ment when, on replacing the cradle, he found the wolf dead and his child alive. He, however, caused the grateful creature to be honour- ably interred, and, as a monument to his memory, erected a church on the spot, as a grateful offering to God for the preservation of his child."
 
 https://www.mysteriousbritain.co.uk/legends/the-grave-of-gelert/
@@ -130,7 +131,7 @@ p72-4
 
 > The following are matters which the author ascribes to the middle ages, at least he can assign no earlier date.
 >
-> The first is the singular custom, now obsolete, of *Sin-eathig*.
+> The first is the singular custom, now obsolete, of *Sin-eating*.
 >
 > It appears, that so late as the seventeenth century, there was in the villages, adjoining to Wales, an old man, called the Sin-eater; and his office was, for a trifling compensation to pawn his own soul for the ease and rest of the soul departed; Ellis, the editor of the Popular Antiquities has extracted the following curious passage from the Lansdowne Manuscripts, concerning a *Sin-eater*, who "lived in a cottage, on Rosse highway."
 >
