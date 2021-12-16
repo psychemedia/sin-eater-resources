@@ -30,7 +30,7 @@ In the [second volume](https://archive.org/details/northwalesinclud02bing/page/2
 
 > A strange custom prevails in some obscure parts of North Wales, which, however, the clergy have now almost abolished. This is termed the "offering of an enemy." When a person supposes himself highly injured by any one, he repairs to some church dedicated to a celebrated saint, or one who is believed to have great power over the affairs of men ; here kneeling on his bare knees before the altar, and offering a piece of money to the saint, he utters the most virulent and dreadful imprecations, calling down curses and misfortunes on the offender and his family even for generations to come. Sometimes the offended persons repair for the same purpose to some sacred well, dedicated to a saint. Mr. Pennant was threatened by a man, who fancied he had been injured by him, "with the vengeance of St. Elian, and a journey to his well, to curse him with effect." [Tour in Wales, ii. 337.]
 
-```{admonition} A Tale of Saint Elian
+```{admonition} A Tale of Saint Elian, Who Banned Greyhounds
 :class: seealso dropdown
 So who was St Elian, and why was his well so potent?
 
@@ -132,16 +132,13 @@ Although probably relevant to our story, there is also mention, again via Popula
 
 In the hands of a storyteller, however, we might be able to weave a story that develops the notion of "half-eaten" bread, perhaps suggesting that not even a sin-eater would absolve the groom of the sin of spurning a woman he was perhaps previously betrothed to!
 
+## Further Channelling of *Popular Antiquities*
 
---- BELOW HERE IS WIP ---
-
-
-In both the [*Morning Herald (London)*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18221102/016/0003) and the [*English Chronicle and Whitehall Evening Post*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18221102/018/0003) on Saturda, November 2nd, 1822, in a column on *"CUSTOMS AT DEATHS."*, several traditions are cited as coming from "*The Vulgar Errors* of Browne, with the interesting notes and additions of Mr. Ellis, recently published" but the text appears more correctly to come from Ellis' edited version of *Popular Antiquities*.
+In both the [*Morning Herald (London)*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18221102/016/0003) and the [*English Chronicle and Whitehall Evening Post*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18221102/018/0003) on Saturday, November 2nd, 1822, in a column on *"CUSTOMS AT DEATHS."*, several traditions are cited as coming from "*The Vulgar Errors* of Browne, with the interesting notes and additions of Mr. Ellis, recently published" but the text appears more correctly to come from Ellis' edited version of *Popular Antiquities*.
 
 > The "Vulgar Errors" of Browne, with the interesting notes and additions of Mr. Ellis, recently published, furnish us with a curious detail of the various customs formerly observed at deaths, and several of which are yet retained in different parts of England. The article, as given in the work, is prolix, and contains some extraneous matter, which we think might have been omitted with advantage. In the following extracts we have selected only the parts most entertaining: they are ranged under several heads, as— "The Passing-Bell," "Watching The Dead," "Setting Salt or Candles on the Body," "The carrying of Torches and Lights," "Funeral Sermons," &c.
 
 This sections all appear under the same name, and in related form, in *Popular Antiquities*.
-
 
 ```{admonition} The Passing Bell (or "Soul Bell")
 :class: dropdown
@@ -158,7 +155,7 @@ This sections all appear under the same name, and in related form, in *Popular A
 > The Jews used trumpets instead of bells. The Turks do not permit the use of them at all. The Greek Church under their dominion still follow her old custom of using wooden boards, or iron plates full of holes, which they hold in their hands and knock with a hammer or mallet, to call the people to church. China has been remarkably famous for its bells. Father Le Compte tells us, that at Pekin, there are seven bells, each of which weighs 120,000 lbs.
 ```
 
-```{admonition} Watching With THhe Dead ("Wake")
+```{admonition} Watching With The Dead ("Wakes")
 :class: dropdown
 
 > WATCHING WITH THE DEAD.—This is called in the North of England the *Lake Wake*, a name plainly derived from the Anglo-Saxon *lic* or *lice*, a corpse, and *waece* or *wake*, a vigil or watching. It is used, in this sense by Chaucer, in his "Knight's Tale :"
@@ -189,7 +186,7 @@ This sections all appear under the same name, and in related form, in *Popular A
 > LAYING OUT, OR STREEKING THE BODY.— Durand, at the remote period at which he lived, gives a pretty exact account of some of the ceremonies used at laying out the body, as practised at pment in the north of England, where the laying out is called *streeking*. He mentions the closing of the eyes, the decent washing, dressing and wrapping up in a clean winding-sheet, or linen shroud, as well as other anciont observances. The interests of our woollen manufacture have interfered with this ancient rite in England. To the laying out may be added the very old custom of *setting salt*, and placing a lighted candle upon the body, both which are used to this day in some parts of Northumberland. The salt, a little of which is set in a pewter plate upon the corpse, is, according to the learned Morex, an emblem of eternity and immortality. It is not liable to putrefaction itself, and preserves other things that are seasoned with it from decay. The lighted candle, the same author conjectures to have been the Egyptian hieroglyphic for life. 
 ```
 
-The article includes Aubrey's (now familiar to us) description of the sin-eater of the Ross highway:
+The extract also includes Aubrey's (now familiar to us) description of the sin-eater of the Ross highway:
 
 > Aubrey, in some miscellanies of his, among the Lansdown MSS., at the British Museum, mentions a very curious custom at deaths, observed in a degree until his time (reign of Charles II), which he describes - under the name of *Sin-Eaters*. "In the County of Hereford," says he, "was an old custome at Funeralls, to hire poor people, who were to take upon-them the sinnes of the party deceased. One of theme (he was a long lean ugly lumentable raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layed on the biere, a loafe of bread was brought out and delivered to the sinne eater over the corpse, as also a mazar bowl, of maple, full of beere (which lie was to drink up), and sixpence in money : in consideration he took upon him, *ipso facto*, all the the sinnes of defunct, and freed him or her from walking after they were dead." This custom, he supposes, had some allusion to the scape-goat under the Mosaical law.
 
@@ -211,7 +208,7 @@ Just as another aside, there is an unpleasant tale that makes a passing referenc
 ```{admonition} The Salacious Seer Wareston
 :class: dropdown
 
-> CHAP. XVII.
+> [CHAP. XVII.](https://archive.org/details/collectionofscar07someuoft/page/126/mode/2up?q=%22Mother+Cresswell%22+procuress)
 >
 > *How the Seer Wareston `[Sir Archibald Johnston of Warristone, called Lord Warristone, was a stubborn presbytertan of the most rigid class. Yet he complied with Cromwell, under whose domination he retained his office of clerk register for Scotland. He was afterwards a leading member of the committee of public safety. He was apprehended at Rouen in France, after the Restoration, and delivered up to the English government, and, although his great age and the decay of his intellects, rendered him an unfit object of punishment, he was publicly executed 22d July, 1663]` lay with a Lady of Pleasure, that came to him with a Petition, upon the Council Table, and what happened thereupon.*
 >
