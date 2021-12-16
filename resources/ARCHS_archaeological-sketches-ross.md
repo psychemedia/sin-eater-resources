@@ -10,7 +10,7 @@ p72-4
 
 The following are matters which the author ascribes to the middle ages, at least he can assign no earlier date.
 
-The first is the singular custom, now obsolete, of *Sin-eathig*.
+The first is the singular custom, now obsolete, of *Sin-eating*.
 
 It appears, that so late as the seventeenth century, there was in the villages, adjoining to Wales, an old man, called the Sin-eater; and his office was, for a trifling compensation to pawn his own soul for the ease and rest of the soul departed; Ellis, the editor of the Popular Antiquities has extracted the following curious passage from the Lansdowne Manuscripts, concerning a *Sin-eater*, who "lived in a cottage, on Rosse highway."
 
