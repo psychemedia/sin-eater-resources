@@ -1,10 +1,26 @@
+---
+
+
+
+https://web.archive.org/web/20141026214727/http://ota.ahds.ac.uk/text/5179.html
+
+A tour in Wales. MDCCLXX: [pt.2]
+Pennant, Thomas
+
+1783
+
+Actual tour was in 1773
+
+p338
+
+PREVIOUS to a funeral, it was customary, when the corpse was brought out of the house and laid upon the bier, for the next of kin, be it widow, mother, sister, or daughter (for it must be a female) to give, over the coffin, a quantity of white loaves, in a great dish, and sometimes a cheese, with a piece of money stuck in it, to certain poor persons. After that they present, in the same manner, a cup of drink, and require the person to drink a little of it immediately. When that is done, all present kneel down; and the minister, if present, says the Lord's Prayer: after which, they proceed with the corpse; and at every cross-way, between the house and the church, they lay down the bier, kneel, and again repeat the Lord's Prayer; and do the same when they first enter the church-yard. It is also customary, in many places, to sing psalms on the way; by which the stillness of rural life is often broken into, in a manner finely productive of religious reflections.
 
 ---
 
 
 https://archive.org/details/toursinwales03penn/page/150/mode/2up?q=funeral
 
-Tours in Wales
+Tours in Wales with notes, preface, and copious index by the editor, John Rhys, Professor of Celtic in the University of Oxford
 by Pennant, Thomas, 1726-1798
 vol III
 1883
