@@ -1,5 +1,9 @@
 # The Decameron, and Other Missed Opportunities, 1830-1850
 
+In the course of the 1830s, there were occasional mentions of the sin-eater tradition recapping previous expositions, typically in the guise of articles on ancient or curious customs.
+
+The main event, however, was the publication of *The Mountatin Decameron*, ????, by a new Welsh author, Joseph Downes.
+
 ## WIP
 
 
@@ -260,7 +264,7 @@ The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck, and nails 
 
 Now as this traveller and the wretched being he stood in the dark and wind expecting, will be hereafter returned to, to avoid double description, this sketch may conclude, whose only purpose was to explain the character of a Sin-Eater of Wales, and the habits of one.
 
-## Advertising Break - FRAMPTON'S PILL OF HEALTH FOR BOTH SEXES
+## Advertising Break - Frampton's Pill of Health for Both Sexes
 
 At this point, let us take a little break an observe the following advert, identified, thorugh incorrect OCR, by a search on the phrase "sin eater":
 
