@@ -198,7 +198,6 @@ The following appears on [pp. 246-8](https://archive.org/details/b29328561_0002/
 > Bishop Kennett has added this note to Aubrey's MS. : "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford, where, at the burial of every corpse, one cake and one flagon of ale, just after the interment, were brought to the minister in the church-porch."
 
 The material adds little to what we have already learned. However, 
-the corresponding section of the [1813 edition](
-https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse) is essentially the same (although the edition differs not least in page numbering), so we can date the material, and its expression, relating to sin-eaters in the 1849 edition of *Brand's Antiquities* to the first edition of that edited version of thirty six years earlier. 
+the corresponding section of the [1813 edition](https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse) is essentially the same (although the edition differs not least in page numbering), so we can date the material, and its expression, relating to sin-eaters in the 1849 edition of *Brand's Antiquities* to the first edition of that edited version of thirty six years earlier.
 
 As to how this commentary material, which did not appear in the original 1777 edition, made its way into the edited version of 1813, we note that the editor, [Henry Ellis](https://en.wikipedia.org/wiki/Henry_Ellis_(librarian)), was principal librarian at the British Museum, which had acquired the Lansdowne manuscripts in 1807.
