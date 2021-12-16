@@ -6,9 +6,9 @@ These references include Hone's Year Book, 1831-32, the second edition of Leland
 
 In this chapter, we'll see whether there were any other popular, or at least, published sources that Moggridge might have overlooked, or been unaware of, that were published prior to his talk in September, 1852.
 
-## Pennant's *Tours in Wales*
+## Pennant's *Tours in Wales*, 1783
 
-The first item worthy of note is [part 2](https://web.archive.org/web/20141026214727/http://ota.ahds.ac.uk/text/5179.html) of *A Tour in Wales* by Thomas Pennant, first published i 1783 but recalling a tour from several years previously. The "Advertisement" at the front of the book is signed off by Downing on March 1st, 1781.
+The first item worthy of note is [part 2](https://web.archive.org/web/20141026214727/http://ota.ahds.ac.uk/text/5179.html) of *A Tour in Wales* by Thomas Pennant, first published in 1783 but recalling a tour from several years previously. The "Advertisement" at the front of the book is signed off by Downing on March 1st, 1781.
 
 On page 338, we find the following reference to a funeral custom involving a food offering, drink and a payment made to a poor visitor:
 
@@ -22,7 +22,7 @@ On the previous page, page 337, is another custom that is worthy of remark:
 
 In this case, it seems that prayers at to a holy well associated with St Aelian can be used to call forth a curse on one who has wronged the person uttering the imprecation. It's not clear what the process for "discovering thieves" is, but I am intrigued to find out.
 
-## Bingley's *North Wales*
+## Bingley's *North Wales*, 1804
 
 Next up comes William Bingley's *North Wales; including its scenery, antiquities, customs, and some sketches of its natural history, delineated from two excursions through all the interesting parts of that country, during the summers of 1798 and 1801.*, and published, in two volumes, in 1804.
 
@@ -85,7 +85,7 @@ The custom identified by Pennant then makes an appearance:
 
 What we should take away from this, perhaps, is the word *Diodlys* as somehow referencing or describing elements of this tradition; and the apparent confusion over whether this tradition is to be found in North or South Wales.
 
-## Jorevin's "Description of England and Ireland" in *The Antiquarian Repertory*
+## Jorevin's "Description of England and Ireland" in *The Antiquarian Repertory*, 1775
 
 In [Volume II](https://archive.org/details/antiquarianreper02gros/page/n321/mode/2up?q=jorevin) of a "new edition" of *The Antiquarian repertory : a miscellaneous assemblage of topography, history, biography, customs, and manners ; intended to illustrate and preserve several valuable remains of old times* by Francis Grose and Thomas Astle, published in 1775, the authors quote widely from an account Mosnsieur Jorevin de Rocheford's 17th century travels in England, Ireland and Scotland.
 
