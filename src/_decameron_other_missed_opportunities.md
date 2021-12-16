@@ -3,8 +3,6 @@
 ## WIP
 
 
----
-
 https://archive.org/details/sim_british-magazine-and-register-of-religious_1835-04-01_7/page/399/mode/2up
 
 The British Magazine and Monthly Register of Religious and Ecclesiastical Information 1835-02-01: Vol 7
@@ -13,267 +11,178 @@ The British Magazine and Monthly Register of Religious and Ecclesiastical Inform
 
 p399-401
 
-ANCIENT USAGES AND CUSTOMS IN NORTH WALES.
+Repeats several of the stories we have seen before, including Pennant, 
 
-(From a MS, book of a Bp. of St. Asaph, written about a century ago.)
+?the following seems to be citing Pennant (1783)? as in Watching With The Dead ("Wakes") in _missed_opportunites_pe-1830
 
-In the church there is a general spitting; they usually spit at the name of the devil or any of his synonyms, and smite their breasts at the name of Judas. In their ordinary conversation *that* name gives them no salivation, but is too familiar in their mouths.
+? https://en.wikipedia.org/wiki/Bishop_of_St_Asaph#List_of_the_Bishops_of_St_Asaph
 
-If there be a fynnon vair (well of our lady or other saint in the parish) the water for baptism in the font is fetched thence. Old women are very fond of washing their eyes with the water after baptism.
-
-At the delivery of the bread and wine at the sacrament, several, before they receive the bread or cup, though held out to them, will flourish a little with their thumb to their faces, something like making the figure of across. They (the women mostly), say their prayers on their first coming to church.
-
-The Sunday after a marriage they come to church with their friends and relations with splendid appearance, disturbing the church, and striving who shall place the groom and bride in the most honourable seat. After church is over, with the fidlers before them, they run to all the ale-houses in the town.
-
-When they bless another, they are very apt to add to the blessing of God, *the blessing of White Mary*.
-
-The night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with him some small present of meat, bread, or drink, (if the family be something poor,) but more especially candles, whatever the family is; and this night is called wl nos, whereby the coun corer a wyl *nos*, whereby the country people seem to mean a *watching night*. Their going to such a house they say is *i wilio corph*, i.e., to watch the corpse; but *wylo* signifies to
+> ANCIENT USAGES AND CUSTOMS IN NORTH WALES.
+>
+>(From a MS, book of a Bp. of St. Asaph, written about a century ago.)
+>
+> In the church there is a general spitting; they usually spit at the name of the devil or any of his synonyms, and smite their breasts at the name of Judas. In their ordinary conversation *that* name gives them no salivation, but is too familiar in their mouths.
+>
+> If there be a fynnon vair (well of our lady or other saint in the parish) the water for baptism in the font is fetched thence. Old women are very fond of washing their eyes with the water after baptism.
+>
+> At the delivery of the bread and wine at the sacrament, several, before they receive the bread or cup, though held out to them, will flourish a little with their thumb to their faces, something like making the figure of across. They (the women mostly), say their prayers on their first coming to church.
+>
+> The Sunday after a marriage they come to church with their friends and relations with splendid appearance, disturbing the church, and striving who shall place the groom and bride in the most honourable seat. After church is over, with the fidlers before them, they run to all the ale-houses in the town.
+>
+> When they bless another, they are very apt to add to the blessing of God, *the blessing of White Mary*.
+>
+> The night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with him some small present of meat, bread, or drink, (if the family be something poor,) but more especially candles, whatever the family is; and this night is called wl nos, whereby the coun corer a wyl *nos*, whereby the country people seem to mean a *watching night*. Their going to such a house they say is *i wilio corph*, i.e., to watch the corpse; but *wylo* signifies to
 weep and lanent, and so *wyl nos* may be a night of lamentation. While they stay together on these nights, they are either singing psalms or reading some part of scripture.
-
-Whenever anybody comes into the room where a dead corpse lies, especially the *wyl nos*, and the day of its interment, the first thing he does he falls upon his knees by the corpse and saith the Lord's prayer.
-
-Pence and halfpence, in lieu of little rolls of bread, (which heretofore generally and by some are still given on these occasions,) are now distributed to the poor, who flock in great numbers to the house of the dead before the corpse is brought out. When the corpse is brought out of the house, and laid upon the bier, and covered before it be taken up, the next of kin to the deceased, widow, mother, daughter, or cousin, (never done by a man,) gives cross over the corpse to one of the poorest neighbours two or three white loaves) of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink, which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s prayer, and then they set forward towards church. And all along, from the house to the church-yard, at every cross way, the bier is laid down, and the Lord’s prayer renewed ; and so when they come first into the church-yard, and before any of the verses appointed in the service to be said.
-
-In some places there is a custom of ringing a little bell before the corpse from the house to the church-yard. If it should happen. to rain while the corpse is carried to church, ’tis reckoned to bode well for the deceased, whose bier is wet with the dew of heaven. When a corpse is carried to church from any part of the town the bearers take care to carry it so that the cross may be on their right hand, nor will they bring the corpse to the church-yard any other way but through the south gate. There is also a custom of singing psalms on the way as the corpse is carried to church.
-
-At church nothing is done but as directed by the rubric, besides that, evening service is read with the office of burial. At those words, “we commit this body to the ground,” the minister holds the spade and throws in the earth first.
-
-The minister goes to the altar and there saith the Lord’s prayer, with one-of the prayers appointed to be read at the grave; after which, the congregation offer upon the altar, or on a little board for that purpose fixed to the rails of the altar, their benevolence to the officiating minister. A friend of the deceased is appointed to stand at the altar, observing who gives, and how much. When all] have given, he tells the money with the minister, and signifies the sum to the congregation, thanking them for all their good will.
-
-The people kneel and say the Lord's prayer on the graves of their lately deceased friends for some Sundays after their interment, and this is done generally upon their first coming into the chureh, and after that they dress the grave with flowers.
-
-
-
----
+>
+> Whenever anybody comes into the room where a dead corpse lies, especially the *wyl nos*, and the day of its interment, the first thing he does he falls upon his knees by the corpse and saith the Lord's prayer.
+>
+> Pence and halfpence, in lieu of little rolls of bread, (which heretofore generally and by some are still given on these occasions,) are now distributed to the poor, who flock in great numbers to the house of the dead before the corpse is brought out. When the corpse is brought out of the house, and laid upon the bier, and covered before it be taken up, the next of kin to the deceased, widow, mother, daughter, or cousin, (never done by a man,) gives cross over the corpse to one of the poorest neighbours two or three white loaves) of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink, which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s prayer, and then they set forward towards church. And all along, from the house to the church-yard, at every cross way, the bier is laid down, and the Lord’s prayer renewed ; and so when they come first into the church-yard, and before any of the verses appointed in the service to be said.
+>
+> In some places there is a custom of ringing a little bell before the corpse from the house to the church-yard. If it should happen. to rain while the corpse is carried to church, ’tis reckoned to bode well for the deceased, whose bier is wet with the dew of heaven. When a corpse is carried to church from any part of the town the bearers take care to carry it so that the cross may be on their right hand, nor will they bring the corpse to the church-yard any other way but through the south gate. There is also a custom of singing psalms on the way as the corpse is carried to church.
+>
+> At church nothing is done but as directed by the rubric, besides that, evening service is read with the office of burial. At those words, “we commit this body to the ground,” the minister holds the spade and throws in the earth first.
+>
+> The minister goes to the altar and there saith the Lord’s prayer, with one-of the prayers appointed to be read at the grave; after which, the congregation offer upon the altar, or on a little board for that purpose fixed to the rails of the altar, their benevolence to the officiating minister. A friend of the deceased is appointed to stand at the altar, observing who gives, and how much. When all] have given, he tells the money with the minister, and signifies the sum to the congregation, thanking them for all their good will.
+>
+> The people kneel and say the Lord's prayer on the graves of their lately deceased friends for some Sundays after their interment, and this is done generally upon their first coming into the chureh, and after that they dress the grave with flowers.
 
 ## Joseph Downes' "The Mountain Decameron", 1836
 
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18360521/018/0004
-
-Morning Post
-Saturday 21 May 1836
-p?
-A writer new to the world of literature, but possessed of a faculty of great power and entire originality, is on the point of producing a work of fiction, called "The Mountain Decameron." The editor of the first critical journal in this kingdom has pronounced the author to he a man of "rare genius." In selecting North Wales as the scene of his romance the writer has opened a field hitherto strangely neglected, but one which abounds in the grandest elements of fiction, whether as regards its magnificent landscapes, its striking customs, its traditionary lore, or the strongly marked character of its inhabitants.
-
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360604/021/0003
-
-Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette
-
-Saturday 04 June 1836
-
-p??
-
-Breconshire
-
-The forthcoming work, called "The Mountain Decameron, is licely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well)—thc Panty Gwaye (the Hollow of Woe)—the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blook of Man). What terrible mysteries do these more than half unveil, and by a single name!
-
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18360604/082/0008
-
-Morning Herald (London)
-Saturday 04 June 1836
-p?
-
-This day is published, in 3 vols, post 8vo
-THE MOUNTAIN DECAMERON.
-
-A ROMANCE of NORTH WALES.
-
-By J. DOWNES, Esq. Richard Bentley, New Burlington-street.
-
-To be obtained of all booksellers. 
-
----
-
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360611/025/0003
-
-Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette
-
-Saturday 11 June 1836
-
-p??
-
-Breconshire
-
-ROMANTIC LEGENDS OF WALES.-
-
-A new Romance, under the title of "The Mountain Decameron", from the pen of a most original and powerful writer, has just appeared. It is remarkable, that whilst England and Scotland have found such numerous, and, in several instances, such able and delightful delineators, Wales, which has remained, more than any other portion of the Empire in its ancient state, and which abounds with so many interesting legends and traditions congenial with its picturesque and magnificent scenery rendering it the very home of romance, should hitherto have remained without illustration from the pen of the novelist. At length, however, a master of fiction has arisen, who is likely to turn to account the rich materials existing in Cambria, and to render her mountains, her lakes, her valleys, and the strongly contrasted character of her inhabitants, as well known and admired as those of Scotland, when displayed by the genius of Scott and Burns.
-
-
-
----
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/024/0003
-
-Saturday 18 June 1836
-
-p??
-
-Breconshire
-THE MOUNTAIN DECAMERON—
-
-The romance thus announced will assuredly win for its author a distinguished name among English writers of fiction. The daring nature of his conceptions, and the fearless power with which he animates them, cannot fail to produce a deep impression His scene, too, Wales, is, most strange to say, nearly unbroken ground in English literature. Yet who, alive to taste or feeling, can look without intense excitement on its lone cataracts, its cloud-capt rocks, its vestiges of departed greatness, its mighty wrecks of castles breasting stormy seas, its abbeys crumbling in olive-coloured glooms, and its wild and stirring legends?
-
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001945/18360612/016/0006
-
-John Bull
-
-Sunday 12 June 1836
-p?
-
-LITERATURE.
-
-The proverb says it “never rains bat it lf that proverb were ever applicable, this the moment; when, after a dearth of novelty almost unprecedented in the literary world, there comes influx most overwhelming.   ... Why the publishers treasure all their stores till some given moment, and then send them out in this sort of torrent, do not exactly understand—surely if these novels hod appeared at intervals, the public would have had more time and better opportunity to read them. For ourselves, we repeat our incapacity to swallow so much fancy bread’ 1 in one week—much less have the power of digesting it. We mention the names the books, and will seriatim give accounts of them, when we have reading and breathing time.
-
-[Includes announcement, without comment, of "and The Mountain Decameron, by Mr. Downes, of Builth".]
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18360617/045/0003
-
-Sun (London)
-
-Friday 17 June 1836
-
-p?
-
-LITERATURE.
-
-MOUNTAIN DECAMERON-3 VoLs.
-
-Bentley London, 1836.
-
-The author of these volumes, a gentleman by name Downes, has, in treating of Welch scenery, manners, customs, legends, broken neatly, if not quite, untrodden ground. Hence his "Mountain Decameron" is full of life and novelty; and will come on the experienced novel-reader quite like a surprise. The stirring legends, and stern, domestic tragedies of homely Welch life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author's mind—so vivid are the colourings in which he has pourtrayed them, and so impassioned and truth-like their character. Another recommendation of the "Decameron” is its utter absence of anything like literary tact or mechanism. Mr. Downes has nothing of the practised book-maker about him ; he does not wire-draw his incidents ; or indulge in melodramatic surprises ; but trusts to nature for effect, who—as she always does to those who place a lively faith in her impulses—carries him handsomely through. Our impression on reading these volumes, is that the author is a man of a vigorous and imaginative turn of mind, who thinks for himself, and writes from the promptings of his own heart. But though he possesses much of the poetical temperament, yet strange to say, he makes sad work with his poetry, mistaking mysticism for sublimity, quaintness for fancy, and affectation for feeling. Out of some ten or a dozen poems which are scattered throughout the "Decameron," we have been able only to discover four good lines, which occur in some stanzas on the Ocean. In justice to Mr. Downes we subjoin them :
-
-"*What knells for broken hearts these waves have tolled!*
-*Eternal partings sob in this low roar !* 
-Some hope of hearts which but that one consoled, 
-Thy every night-storm blasts on every shore !" 
-
-The lines marked in italics appear to us eminently beautiful. But if our author's poetry be indifferent, his prose is quite the reverse. It is bold, rough, and racy, and remarkable for the felicity of its epithets and metaphors. Thus, speaking of a wife who was constantly miserable because her bed was barren, Mr. Downes says of her, that she fancied her husband's eye "turned coldly on her, and her *unoccupied* bosom." A young, enthusiastic scholar in love with an artless Welch girl of good family is described as "feeding in solitude on the white beauty of her idea ;" and a seastorm is thus graphically painted :—"The echoes of the tremendous falls of the broad sea's sweep, lashing the rock beach on the seaward side of the Great Orme, were like thunderclaps run into one another ; and the real thunder of the sky, shut up by clouds as by mighty folding doors hung with mourning, already came groaning from the distance." In sketching scenery, our author evidently takes Crabbe for his model ; as the following extract which has all his force and literalness will show : "On each side, a marbled expanse of the finest sand stretches away *yellowing* in the gold light of a summer morning. No horrid depth of black mud (half smothering you in imagination with its mere look) here scowls on the retrocession of the sea. As we stand on the edge of the sea-river, a crowd of mountain tops is in lofty distance before us, rolled up yet in a night of their own, but *grimly* yielding to the broad morning laugh of the whole sea firmament, of June blue. Close beside us, all is home-felt beauty. The little ferry-house, the patter. ing of a sea at play with real green banks ; all that a quiet eye can desire, to transmit a sympathetic quietude to the heart, in the way of scenery, is here. Meadows, a little marsh ground, wild wood, and green sward heights, lowing cows, bleating lambs, *singing bare-foot girls among them all*, and that smiling, heaving, half sea, half river, are all that meet eye or ear."
-
-The introduction of the "*singing, barefoot girls*" greatly assists the life and animation of this glowing landscape. But Mr. Downes has loftier qualities than those of a picturesque landscape painter. He is a man of deep and, at times, even original powers of thought, to which he gives fit utterance in eloquent and impassioned language. The subjoined apostrophe is put into the mouth of a philosophical Recluse, grey in years and disappointed in hopes, who is musing at night by a sea-coast abounding in ruins : 
-
-"If man be a worm, a grain of these sands, a nothing in the universe, man's woes also are nothing. Does my heart bleed or quake for the coming ills of my country ? I know, I see, where will be its place *presently* in this dumb, eternal revolution of the kingdoms of the creation—with Balbec in the desert ? Is my blood boiling with some wrong inflicted on me by my brother worm ? I come to this eloquent wilderness of waves as to a solemn wood for meditation, and it tells me that I have only *to fold my arms*, smile at the injurious wretch, and wait; for he is already dying Time is bringing up my enemy to judgment. Mortality has already on his ghastly head the sable coif, the token of his death-doom being about to be read, and while I cry Revenge,' behold, I am crying against ashes—a shadow—a nothing ! Why should I gnaw my own heart because I do not obtain the distinction which I fancy due to my gifts among men ? I think what man is ; I handle a dead bone, firm and unperished yet, and learn that even these brittle cancelli of its marrow-cells, have survived all the generations of mankind not born ; that the primeval giant-beast its owner, was in his living strength, while man was yet in his clod ; was breathing before that clay was breathed into by the spirit of his Maker ; ere it caught the fearful privilege *to be*; and started up—a heart !—a hand !—a tongue !—a brain !—to throb, to agonize ; to work good or evil ; to pour a burning eloquence ; to *think* through all God's universe, and almost to pry around his throne. And then, ah then ! and soon, through clammy sweats and agony, to return whence it started ; to be mastered by a vile worm ; to lie mute as this half-animated polypus at my feet ; to swell the festering masses that crowd this grave I stand on."
-
-This is finely felt and finely expressed, though we fear the thought is of too elevated and abstract a character to please the watering-place readers of fiction. It is simply calculated to perplex them. Far more intelligible to such readers, and equally beautiful in expressions, are these reflections, which proceed from the same thoughtful Recluse, of whom we have just made mention. He is describing the duties which he owes to himself in the grey evening of his existence :
-
-"My brother-men, good night. With you, and for you, I have lived, but now the evening of my life is stealing on me, with its cool, its damp, its shadows; I would fain now live a little to myself, awhile to nature, as, perhaps, soon to live to God, and in his presence. It is better to be prepared; to listen for the calling voice in the stillness of woods, than to be astonished with it, as by a thunder-clap, in the forgetful revels of cities. As on this Ystwith side, in this sweet valley, I observe preparations for the night ; the sounds of the day growing few, those few, faint and drowsy; the harmless man just finished folding his sheep, and no more to do ere he lie down, than look awhile at that beautiful sky, and listen the first owl's voice ; his wife heard indoors, singing their child to sleep, where father, mother, and child will be presently sleeping together, under that wild flowered roof—so let *me* too *look indoors*. It is time to compose my agitated bosom after the stir of life's day, to let contentious thoughts cease, and all fierce wishes be lullabied to quiet, to deep sleep. Oh, it is well—it is needful, this gentle, melancholy twilight to man's life! This breathing, resting !space between two worlds—this soft break of the transition front the world of sun to the world of night—the grave."
-
-There are numerous other passages in the "Decameron" nearly, if not quite, equal to those we have quoted above—passages which show a deep insight into the workings of the human heart ; which abound in pure, healthy sensibility ; and convince us that the author is one who, even in his most abstract speculations, turns a trembling, ever watchful ear to "the still, sad music of humanity." As regards the tales, they are, for the most part, of a stern, tragic cast, and occasionally repulsive in their incidents, like the fictions of Banim—and for this reason, that Mr. Downes, like the Irish novelist, does not draw on his own invention, but from the domestic annals of a semi-barbarous peasantry ; for such, in truth, were the Welch Indigetes up to the close of the last century. The best tale in the "Decameron" is, "The Tragical History of Marmaduke Paull," which is throughout worked up with uncommon power. The description of the lone, impassioned lover's feelings, when he discovers that he has formed an attachment to his own daughter ; of the fearful struggle in his mind when he makes the strange discovery ; of his resolution to commit suicide ; and of the mode in which he sets about it —namely, by waiting the approach of a raging sea, into a cavern half-way up the lofty Llandudno rocks ;—these Portions of the romance, which has the rare merit of being founded on fact, are unequalled by anything of the sort in the present day. Nor must we omit to notice the striking incident of the old Clergyman, who, when informed by the peasants who are grouped around him on the summit of the rock, that all human hope is vain, reads the burial service over the body of him who is at that moment breathing his last in the inundated cavern below We have already observed that Mr. Downes is a superior landscape painter; but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as in more than one instance, we ourselves can testify;. His allusions too, are rigidly local; and he hits off the Welch peasant, and small farmer, as none can do but he who is thoroughly conversant with their peculiarities. The great defect in his "Decameron" is that the tales are most clumsily and inartificalliy introduced; and that there are too frequent attempts at humour in the prefaratory part.
-
----
-
-
-britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/039/0004
-
-Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette 
-
-Saturday 18 June 1836
-
-p??
-
-LITERARY NOTICES.
-
-"THE MOUNTAIN DECAMERON."
-
-These volumes contain much that is clever and original. They profess to embody in a series of Tales the poppular habits, customs, superstitions, and modes of thinking of the Welsh.  We have no t;me for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.
-
-The author laments in a note, and with some shew of justice, the indifference of the Welsh Gentry to their National Literature.
-
-"With a thousand apologies to the *higher orders* of Welsh, it must be owned that this can the modern gentleman of Wales. The ruins that peep on his path, the dark hints of past tragic events, that, even in the common names of places, his familiar haunts, in the business of hunting and shooting, "implore the passing tribute of it in vain! The lightest, most tasteful antiquarianism, is heavy and vapid midst the excitement of the chase, or other excitements more fatal to health."
-
-"There is in fact, and literally, *no Reading Public in Wales*, but the better educated part of the more secluded Welsh peasantry. The gentry of Wales dispute this, but they had better *disprove it*. Let them do so by attaching *some* importance to so invaluable a resource, one so innocent, so exalting so vital to good morals as *reading*. Vermin hunting might still be the *grand* resource.
-
-"Facts are stubborn things. *Seventeen* Welsh periodicals circulate *well* among the *humbler* classes! *One*, conducted with ability—and with great sacrifice by the spirited patrons of it, to the honour of their country- *one*, acknowledged as worthy of support, by high critical authorities not Welsh— has at last *ceased to circulate for want of that support from the gentry*. Other orders, *seventeen* —the gentry *not one: verbum sat*."
-
-[...EXCERPT...]
-
-A few of the remaining superstitions of the Welsh are thus described:–
-
-"The superstitions of Wales," the Doctor remarked, "form no part of the popular *poetry* of our age; yet there exist many grandly imaginative. How few know any thing about our Cum Annwn,that is'Dogs of the Sky', but which their office, as assigned, would warrant its to call the *Bloodhounds of Souls!* by earthly analogy. Sudden fires trail along the heavens at the moment of a dying person's body and soul taking leave, and that light is no other than that fire which each of that terrible pack always has following after like a chain; and sounds like the yellings of an earthly hunt, may be heard in the dumbness of midnight, and which hunting is no less than the chase of the parting soul by these fiends of the sky, as it flies towards Heaven's gate before them, the flight tor nothing less than *eternal* life or death! What superstition affecting mortal life and its brevity, and its briefer pains, can compare in terror, in wildness, or sublimity with this? with these howlings and huntings for immortal souls, these wildfires trailed by demon bloodhounds, across all the deep-blue *Chase* of the midnight heavens, and the issue of the dread hunting never revealed to the mourner, upgazing from the gate of the house of mourning ? The light borne in the hand of a spirit, moving the way a corpse shall soon be borne, and called the *Canwyll Corph* —Corpse Candle — is better known and a solemn fancy is that!
-
-"More terrible and forcible in mournful conception is the strange being that crosses the twilight path of the Welsh mountaineer, and which warns him by its mere presence, of a death in his house near at hand. The Cyoeuraeth is the like- ness of a woman, frightfully cadaverous of visage, bringing all the festering horror of a three weeks' burial in its grim yet not utterly disfeatured loathsomeness, abroad into the world of life, divilulging the foulest secrets of the grave! This *form* stands direct in some lonesome path of the startled person, tossing her long grisly arms in the air and wringing her earthy lengths of wasted hand, and— shaking down her already worm-beset hair over her eye-holes, and their sunken dead-light fixed upon his, steady as the basilisk's on its prey, but gloomy— sets up such a cry of wild weeping, and utters two words only, so terrible i their power, that theyfor the moment arrest the moving blood in the veins of the hearer— the Welsh words signifying 'Oh, my wife!' or 'Oh, my husband! according to the sex of the shortlived object of its fatal forewarning."
-
-
-
-*Annwn*— The *bottomless abyss*; *Hell*, in the ancient scuse, as the "bourn" of all spitis.
-
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18360620/040/0007
-
-Morning Post
-Monday 20 June 1836
-p?
-
-The Mountain Decameron, a Romance of North Wales.— 
-
-The author of these volumes has. iv in treating of Welsh scenery, manners, customs, legends, &c., broken nearly, if not quite, untrodden ground. ° Hence his "Momtain Decameron" is full of life and novelty, and will come on the experienced novel reader quite like a surprise.  The stirring native legends and stern domestic tragedies of homely Welsh life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author's mind, so vivid are the colourings in which he has portrayed them, and so impassioned and truth-like their character. We have observed that Mr. Downes is a superior landscape painter, but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as, in more than one instance, we ourselves can testify.— *Sun.*
-
----
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18360623/052/0008
-
-English Chronicle and Whitehall Evening Post
-Thursday 23 June 1836
-p?
-THE MOUNTAIN DECAMERON, by J. DOWNES.
-
-—These three volumes, which have recently made their appearance under a name, consecrated by the Patriarch of all novelists, are dedicated to the illustration of the manners, customs, traditions, and superstitions of the true children of St. David in the Principality, and seem to have originated from an impression on the part of Mr. Downes, that his fellow-countrymen of Cymri blood, owe some debt to the land of Llewellen, for not having followed, ere now,the example set by the romance writers of Scotland and Ireland. Mr. Downes has accordingly with diffidence, but zealousy withal, and not feebly, taken up his staff to tread in the footsteps Of Scott and Galt, of Miss Edgeworth and Banim. The subject of his tales, he takes from humble life in Wales, and in his narratives he displays a strong taste for the mystic and awful, a delicate sense of the workings of the human affections, and, in addition, a graphic power of description. His style is sometimes obscure and inelegant, but in general its character is simplicity, with a touch of originality. If it were for no other reason than the latter, his fictions may be read with interest. He has interspersed occasional pieces of poetry through his volumes, some of which are in no common-place vein. He has also indulged in certain colloquial papers, the dramatis persona of which are Welsh Parsons and Brothers of the Angle, and in which he treats about every thing in the world et cetera. We should, however, recommend Mr. Downes not to introduce politics into such publications, especially where his information is not more accurate than to lead him to take "the Agitator" for "a private Roman Catholic Attorney from Ireland."
-
-
-
----
-
-
-
-https://newspapers.library.wales/view/3631955/3631958/33/sin%20eater
-
-The Glamorgan Monmouth and Brecon Gazette and Merthyr Guardian
-
-1st October 1836
-
-p3
-
-THE LAST "SIN-EATER" OF WALES. A SKETCH. (From Mr Downes' Mountain-Decameron.)
-
-So late as the earlier part of the last century, that strange character of a stranger superstition, known by the name of "The Sin-Eater," was not unknown in Wales. This was some desperate being, wno, (unless we suppose him an unbeliever)- being past redemption, lost to all hope of salvation, did for a slight reward, or to gratify the relatives of one lying dead, take on his own soul all the sins of the deceased by a formal act, sometimes receiving confessions during life, and bargaining for the burthens thus to bo imposed on his already laden soul.
-
-Mr Fosbroke, in an account of the town of Ross, quotes a letter, I forget bv whom, (but I have an idea by Mr Kyrle, the Man of Ross,") which describes a "Sin-Eater," who "lived by Ross highway," and is described as a gaunt, ghastly, lean, miserable, poor rascal."
-
-If we consider these persons as probably not less believers than those who employed them, it is not easy to imagine a condition of the mind more terrific, desolate, and desperate, than theirs; thus more and more removed from the hope of mercy with every death, and assurance of perdition doubly sure.
-
-A gentleman who lived a little before the time of this dark superstition becoming obsolete, gives us this brief account of what is believed to have been the last "Sin-Eater of Wales".
-
-"I got lost," savs he, "near nightfall, after being landed by the ferry-boat from the Aber of Dovey, on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was to gain that between Penyboat village and Machynlleth town. I was cautioned to ride far round this pitchy morass, for no horse ever ventured among the peat pits -the whole being a quaking morass. In truth its look was enough, under a black evening, to keep me off, even without peril of eing swallowed, man and horse. It forms a great brown-black triangle of land, without a tree, or any vegetation but patches of gorse. Yet the piles of *mawn*, (all fetched a way by persons on foot) diversified the dismalness with a sort of low walls, and between was gleaming of some water, from the many holes whence it is dug. Till the moon went down, which lit me a space, I could just distinguish these dismal pools and cuts like canals, by its glimmer. I never saw ought so dismal in mv own country as this great turbarv of hollow ground looked, a huge green-roofed pit, the pitchy mud thus betraying itself every where, as the large moon, looking red as blood in a foul fog stagnating all over it, took leave of it, and its brown grew browner, and that browner black, till the last to be seen was one horrid blackness, where nothing lived, and nothing was heard but the low roar of the sea washing it on two sides, like the hum of some great city. That deep-voiced murmur of the sea so sounding like a thousand voices, made it more shocking to look upon, the space between, as dumb as a great grave. More than once I thought a light glimmered in the very midst, but I took it for the Jack-a-lantern, if not something worse, for I had heard of Wreckers, and there had been a shipwreck, the weather wild, and even the day had been hardly light.
-
-"At last, thanks to my stars, the good hard rock of a rough road rung to my horse's hoof, and I saw a pleasant cottage taper instead of that will-o'-wisp of the black bog, which was as ghastly as the Canwyll Corph, the corpse-candle, carried by a figure of one (as these Welsh say,) whose own burial will soon take place, in the spot it vanishes at. The house was on a high point and turn of road, overlooking all those many acres of hollow ground. Just as I came up, hoping lodging, I heard sounds of wailing within and soon a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay a corpse of a man, with a plate of salt holding a bit of bread, placed on its breast. The woman was shouting to the Sin-Eater to come and do his office-that is, to cat the bl'ead, lav hi hand on tbe. dead breast, place the dead man's on his own, after making a sign of the Cross, and then praying for a transfer of whatever pains or penances in fire or "thick-ribbed ice," or molten lead, or what beside monastic belief attached to the perdition of tormented souls, from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and for ever."
-
-This is the traveller's account of this incident.
-
-He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing point. After waiting long, he caught a far-out shout in reply to the woman's long unanswered, till she kindled on the high road's point the straw of her husband's late bed—the usual signal of a death in the house.
-
-The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck, and nails of such, between sea marsh and that dim bog, where few could approach bv day, none dared by night; whether for the footing, or the great fear, or at least awe, which all felt of that recluse. One curious belief was current, that he was no other than "The Wandering Jew"— the man who spit on his Saviour, and cannot die—that fable familiar to so many countries.
-
----
+In late May, 1836, "trailers" started appearing for a new work, at the time still in preparation: Joseph Downes' *The Mountain Decameron*.
+
+Here, for example, is a post teasing the arrivial of the work as published in the Morning Post of [Saturday 21 May 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18360521/018/0004):
+
+> A writer new to the world of literature, but possessed of a faculty of great power and entire originality, is on the point of producing a work of fiction, called "The Mountain Decameron." The editor of the first critical journal in this kingdom has pronounced the author to he a man of "rare genius." In selecting North Wales as the scene of his romance the writer has opened a field hitherto strangely neglected, but one which abounds in the grandest elements of fiction, whether as regards its magnificent landscapes, its striking customs, its traditionary lore, or the strongly marked character of its inhabitants.
+
+A couple of weeks later, on [Saturday 04 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360604/021/0003) a similarly styled note appeared in the Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette:
+
+> Breconshire
+>
+> The forthcoming work, called "The Mountain Decameron, is licely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well)—thc Panty Gwaye (the Hollow of Woe)—the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blook of Man). What terrible mysteries do these more than half unveil, and by a single name!
+
+On the same day, [Saturday 04 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18360604/082/0008) the Morning Herald in London announced the release of the work:
+
+> This day is published, in 3 vols, post 8vo.
+> THE MOUNTAIN DECAMERON.
+>
+> A ROMANCE of NORTH WALES.
+>
+> By J. DOWNES, Esq. Richard Bentley, New Burlington-street.
+>
+> To be obtained of all booksellers.
+
+A week later, [Saturday 11 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000912/18360611/025/0003), the Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette, posted an early review:
+
+> Breconshire
+>
+> ROMANTIC LEGENDS OF WALES.
+>
+> A new Romance, under the title of "The Mountain Decameron", from the pen of a most original and powerful writer, has just appeared. It is remarkable, that whilst England and Scotland have found such numerous, and, in several instances, such able and delightful delineators, Wales, which has remained, more than any other portion of the Empire in its ancient state, and which abounds with so many interesting legends and traditions congenial with its picturesque and magnificent scenery rendering it the very home of romance, should hitherto have remained without illustration from the pen of the novelist. At length, however, a master of fiction has arisen, who is likely to turn to account the rich materials existing in Cambria, and to render her mountains, her lakes, her valleys, and the strongly contrasted character of her inhabitants, as well known and admired as those of Scotland, when displayed by the genius of Scott and Burns.
+
+This was followed in the same newspaper a fortnight later, [Saturday 18 June 1836](https://britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/024/0003), by another mention:
+
+> Breconshire 
+> THE MOUNTAIN DECAMERON
+>
+> The romance thus announced will assuredly win for its author a distinguished name among English writers of fiction. The daring nature of his conceptions, and the fearless power with which he animates them, cannot fail to produce a deep impression His scene, too, Wales, is, most strange to say, nearly unbroken ground in English literature. Yet who, alive to taste or feeling, can look without intense excitement on its lone cataracts, its cloud-capt rocks, its vestiges of departed greatness, its mighty wrecks of castles breasting stormy seas, its abbeys crumbling in olive-coloured glooms, and its wild and stirring legends?
+
+Over in the *John Bull* magazine, on [Sunday 12 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001945/18360612/016/0006), the editors are perhaps feeling overwhelmed by a sudden flurry of publications they feel the need to review:
+
+>LITERATURE.
+>
+> The proverb says it “never rains bat it lf that proverb were ever applicable, this the moment; when, after a dearth of novelty almost unprecedented in the literary world, there comes influx most overwhelming.   ... Why the publishers treasure all their stores till some given moment, and then send them out in this sort of torrent, do not exactly understand—surely if these novels hod appeared at intervals, the public would have had more time and better opportunity to read them. For ourselves, we repeat our incapacity to swallow so much fancy bread’ 1 in one week—much less have the power of digesting it. We mention the names the books, and will seriatim give accounts of them, when we have reading and breathing time.
+
+The same article mentions, without futher comment, "and The Mountain Decameron, by Mr. Downes, of Builth".
+
+In the Sun (London), on [Friday 17 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18360617/045/0003), we get quite a comprehensive review:
+
+> LITERATURE.
+>
+> MOUNTAIN DECAMERON-3 VoLs.
+>
+> Bentley London, 1836.
+>
+> The author of these volumes, a gentleman by name Downes, has, in treating of Welch scenery, manners, customs, legends, broken neatly, if not quite, untrodden ground. Hence his "Mountain Decameron" is full of life and novelty; and will come on the experienced novel-reader quite like a surprise. The stirring legends, and stern, domestic tragedies of homely Welch life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author's mind—so vivid are the colourings in which he has pourtrayed them, and so impassioned and truth-like their character. Another recommendation of the "Decameron” is its utter absence of anything like literary tact or mechanism. Mr. Downes has nothing of the practised book-maker about him ; he does not wire-draw his incidents ; or indulge in melodramatic surprises ; but trusts to nature for effect, who—as she always does to those who place a lively faith in her impulses—carries him handsomely through. Our impression on reading these volumes, is that the author is a man of a vigorous and imaginative turn of mind, who thinks for himself, and writes from the promptings of his own heart. But though he possesses much of the poetical temperament, yet strange to say, he makes sad work with his poetry, mistaking mysticism for sublimity, quaintness for fancy, and affectation for feeling. Out of some ten or a dozen poems which are scattered throughout the "Decameron," we have been able only to discover four good lines, which occur in some stanzas on the Ocean. In justice to Mr. Downes we subjoin them :
+>
+> "*What knells for broken hearts these waves have tolled!* 
+> *Eternal partings sob in this low roar !* 
+> Some hope of hearts which but that one consoled, 
+> Thy every night-storm blasts on every shore !" 
+>
+> The lines marked in italics appear to us eminently beautiful. But if our author's poetry be indifferent, his prose is quite the reverse. It is bold, rough, and racy, and remarkable for the felicity of its epithets and metaphors. Thus, speaking of a wife who was constantly miserable because her bed was barren, Mr. Downes says of her, that she fancied her husband's eye "turned coldly on her, and her *unoccupied* bosom." A young, enthusiastic scholar in love with an artless Welch girl of good family is described as "feeding in solitude on the white beauty of her idea ;" and a seastorm is thus graphically painted :—"The echoes of the tremendous falls of the broad sea's sweep, lashing the rock beach on the seaward side of the Great Orme, were like thunderclaps run into one another ; and the real thunder of the sky, shut up by clouds as by mighty folding doors hung with mourning, already came groaning from the distance." In sketching scenery, our author evidently takes Crabbe for his model ; as the following extract which has all his force and literalness will show : "On each side, a marbled expanse of the finest sand stretches away *yellowing* in the gold light of a summer morning. No horrid depth of black mud (half smothering you in imagination with its mere look) here scowls on the retrocession of the sea. As we stand on the edge of the sea-river, a crowd of mountain tops is in lofty distance before us, rolled up yet in a night of their own, but *grimly* yielding to the broad morning laugh of the whole sea firmament, of June blue. Close beside us, all is home-felt beauty. The little ferry-house, the patter. ing of a sea at play with real green banks ; all that a quiet eye can desire, to transmit a sympathetic quietude to the heart, in the way of scenery, is here. Meadows, a little marsh ground, wild wood, and green sward heights, lowing cows, bleating lambs, *singing bare-foot girls among them all*, and that smiling, heaving, half sea, half river, are all that meet eye or ear."
+>
+> The introduction of the "*singing, barefoot girls*" greatly assists the life and animation of this glowing landscape. But Mr. Downes has loftier qualities than those of a picturesque landscape painter. He is a man of deep and, at times, even original powers of thought, to which he gives fit utterance in eloquent and impassioned language. The subjoined apostrophe is put into the mouth of a philosophical Recluse, grey in years and disappointed in hopes, who is musing at night by a sea-coast abounding in ruins : 
+>
+> "If man be a worm, a grain of these sands, a nothing in the universe, man's woes also are nothing. Does my heart bleed or quake for the coming ills of my country ? I know, I see, where will be its place *presently* in this dumb, eternal revolution of the kingdoms of the creation—with Balbec in the desert ? Is my blood boiling with some wrong inflicted on me by my brother worm ? I come to this eloquent wilderness of waves as to a solemn wood for meditation, and it tells me that I have only *to fold my arms*, smile at the injurious wretch, and wait; for he is already dying Time is bringing up my enemy to judgment. Mortality has already on his ghastly head the sable coif, the token of his death-doom being about to be read, and while I cry Revenge,' behold, I am crying against ashes—a shadow—a nothing ! Why should I gnaw my own heart because I do not obtain the distinction which I fancy due to my gifts among men ? I think what man is ; I handle a dead bone, firm and unperished yet, and learn that even these brittle cancelli of its marrow-cells, have survived all the generations of mankind not born ; that the primeval giant-beast its owner, was in his living strength, while man was yet in his clod ; was breathing before that clay was breathed into by the spirit of his Maker ; ere it caught the fearful privilege *to be*; and started up—a heart !—a hand !—a tongue !—a brain !—to throb, to agonize ; to work good or evil ; to pour a burning eloquence ; to *think* through all God's universe, and almost to pry around his throne. And then, ah then ! and soon, through clammy sweats and agony, to return whence it started ; to be mastered by a vile worm ; to lie mute as this half-animated polypus at my feet ; to swell the festering masses that crowd this grave I stand on."
+>
+> This is finely felt and finely expressed, though we fear the thought is of too elevated and abstract a character to please the watering-place readers of fiction. It is simply calculated to perplex them. Far more intelligible to such readers, and equally beautiful in expressions, are these reflections, which proceed from the same thoughtful Recluse, of whom we have just made mention. He is describing the duties which he owes to himself in the grey evening of his existence :
+> 
+> "My brother-men, good night. With you, and for you, I have lived, but now the evening of my life is stealing on me, with its cool, its damp, its shadows; I would fain now live a little to myself, awhile to nature, as, perhaps, soon to live to God, and in his presence. It is better to be prepared; to listen for the calling voice in the stillness of woods, than to be astonished with it, as by a thunder-clap, in the forgetful revels of cities. As on this Ystwith side, in this sweet valley, I observe preparations for the night ; the sounds of the day growing few, those few, faint and drowsy; the harmless man just finished folding his sheep, and no more to do ere he lie down, than look awhile at that beautiful sky, and listen the first owl's voice ; his wife heard indoors, singing their child to sleep, where father, mother, and child will be presently sleeping together, under that wild flowered roof—so let *me* too *look indoors*. It is time to compose my agitated bosom after the stir of life's day, to let contentious thoughts cease, and all fierce wishes be lullabied to quiet, to deep sleep. Oh, it is well—it is needful, this gentle, melancholy twilight to man's life! This breathing, resting !space between two worlds—this soft break of the transition front the world of sun to the world of night—the grave."
+>
+> There are numerous other passages in the "Decameron" nearly, if not quite, equal to those we have quoted above—passages which show a deep insight into the workings of the human heart ; which abound in pure, healthy sensibility ; and convince us that the author is one who, even in his most abstract speculations, turns a trembling, ever watchful ear to "the still, sad music of humanity." As regards the tales, they are, for the most part, of a stern, tragic cast, and occasionally repulsive in their incidents, like the fictions of Banim—and for this reason, that Mr. Downes, like the Irish novelist, does not draw on his own invention, but from the domestic annals of a semi-barbarous peasantry ; for such, in truth, were the Welch Indigetes up to the close of the last century. The best tale in the "Decameron" is, "The Tragical History of Marmaduke Paull," which is throughout worked up with uncommon power. The description of the lone, impassioned lover's feelings, when he discovers that he has formed an attachment to his own daughter ; of the fearful struggle in his mind when he makes the strange discovery ; of his resolution to commit suicide ; and of the mode in which he sets about it —namely, by waiting the approach of a raging sea, into a cavern half-way up the lofty Llandudno rocks ;—these Portions of the romance, which has the rare merit of being founded on fact, are unequalled by anything of the sort in the present day. Nor must we omit to notice the striking incident of the old Clergyman, who, when informed by the peasants who are grouped around him on the summit of the rock, that all human hope is vain, reads the burial service over the body of him who is at that moment breathing his last in the inundated cavern below We have already observed that Mr. Downes is a superior landscape painter; but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as in more than one instance, we ourselves can testify;. His allusions too, are rigidly local; and he hits off the Welch peasant, and small farmer, as none can do but he who is thoroughly conversant with their peculiarities. The great defect in his "Decameron" is that the tales are most clumsily and inartificalliy introduced; and that there are too frequent attempts at humour in the prefaratory part.
+
+Another full length review, this time in the Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette of [Saturday 18 June 1836](britishnewspaperarchive.co.uk/viewer/bl/0000912/18360618/039/0004), also includes several excerpts:
+
+> LITERARY NOTICES.
+>
+> "THE MOUNTAIN DECAMERON."
+>
+> These volumes contain much that is clever and original. They profess to embody in a series of Tales the poppular habits, customs, superstitions, and modes of thinking of the Welsh.  We have no t;me for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.
+>
+> The author laments in a note, and with some shew of justice, the indifference of the Welsh Gentry to their National Literature.
+>
+> "With a thousand apologies to the *higher orders* of Welsh, it must be owned that this can the modern gentleman of Wales. The ruins that peep on his path, the dark hints of past tragic events, that, even in the common names of places, his familiar haunts, in the business of hunting and shooting, "implore the passing tribute of it in vain! The lightest, most tasteful antiquarianism, is heavy and vapid midst the excitement of the chase, or other excitements more fatal to health."
+>
+> "There is in fact, and literally, *no Reading Public in Wales*, but the better educated part of the more secluded Welsh peasantry. The gentry of Wales dispute this, but they had better *disprove it*. Let them do so by attaching *some* importance to so invaluable a resource, one so innocent, so exalting so vital to good morals as *reading*. Vermin hunting might still be the *grand* resource.
+>
+> "Facts are stubborn things. *Seventeen* Welsh periodicals circulate *well* among the *humbler* classes! *One*, conducted with ability—and with great sacrifice by the spirited patrons of it, to the honour of their country- *one*, acknowledged as worthy of support, by high critical authorities not Welsh— has at last *ceased to circulate for want of that support from the gentry*. Other orders, *seventeen* —the gentry *not one: verbum sat*."
+>
+>[...EXCERPT...]
+>
+>A few of the remaining superstitions of the Welsh are thus described:–
+>
+> "The superstitions of Wales," the Doctor remarked, "form no part of the popular *poetry* of our age; yet there exist many grandly imaginative. How few know any thing about our Cum Annwn,that is'Dogs of the Sky', but which their office, as assigned, would warrant its to call the *Bloodhounds of Souls!* by earthly analogy. Sudden fires trail along the heavens at the moment of a dying person's body and soul taking leave, and that light is no other than that fire which each of that terrible pack always has following after like a chain; and sounds like the yellings of an earthly hunt, may be heard in the dumbness of midnight, and which hunting is no less than the chase of the parting soul by these fiends of the sky, as it flies towards Heaven's gate before them, the flight tor nothing less than *eternal* life or death! What superstition affecting mortal life and its brevity, and its briefer pains, can compare in terror, in wildness, or sublimity with this? with these howlings and huntings for immortal souls, these wildfires trailed by demon bloodhounds, across all the deep-blue *Chase* of the midnight heavens, and the issue of the dread hunting never revealed to the mourner, upgazing from the gate of the house of mourning ? The light borne in the hand of a spirit, moving the way a corpse shall soon be borne, and called the *Canwyll Corph* —Corpse Candle — is better known and a solemn fancy is that!
+>
+> "More terrible and forcible in mournful conception is the strange being that crosses the twilight path of the Welsh mountaineer, and which warns him by its mere presence, of a death in his house near at hand. The Cyoeuraeth is the like- ness of a woman, frightfully cadaverous of visage, bringing all the festering horror of a three weeks' burial in its grim yet not utterly disfeatured loathsomeness, abroad into the world of life, divilulging the foulest secrets of the grave! This *form* stands direct in some lonesome path of the startled person, tossing her long grisly arms in the air and wringing her earthy lengths of wasted hand, and— shaking down her already worm-beset hair over her eye-holes, and their sunken dead-light fixed upon his, steady as the basilisk's on its prey, but gloomy— sets up such a cry of wild weeping, and utters two words only, so terrible i their power, that theyfor the moment arrest the moving blood in the veins of the hearer— the Welsh words signifying 'Oh, my wife!' or 'Oh, my husband! according to the sex of the shortlived object of its fatal forewarning."
+>
+> *Annwn*— The *bottomless abyss*; *Hell*, in the ancient scuse, as the "bourn" of all spitis.
+
+Meanwhile, the Morning Post keeps plugging away, as on [Monday 20 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18360620/040/0007):
+
+> The Mountain Decameron, a Romance of North Wales.— 
+>
+> The author of these volumes has. iv in treating of Welsh scenery, manners, customs, legends, &c., broken nearly, if not quite, untrodden ground. ° Hence his "Momtain Decameron" is full of life and novelty, and will come on the experienced novel reader quite like a surprise.  The stirring native legends and stern domestic tragedies of homely Welsh life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author's mind, so vivid are the colourings in which he has portrayed them, and so impassioned and truth-like their character. We have observed that Mr. Downes is a superior landscape painter, but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as, in more than one instance, we ourselves can testify.— *Sun.*
+
+The *English Chronicle and Whitehall Evening Post* also provides a short review on [Thursday 23 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18360623/052/0008):
+
+> THE MOUNTAIN DECAMERON, by J. DOWNES.
+>
+> —These three volumes, which have recently made their appearance under a name, consecrated by the Patriarch of all novelists, are dedicated to the illustration of the manners, customs, traditions, and superstitions of the true children of St. David in the Principality, and seem to have originated from an impression on the part of Mr. Downes, that his fellow-countrymen of Cymri blood, owe some debt to the land of Llewellen, for not having followed, ere now,the example set by the romance writers of Scotland and Ireland. Mr. Downes has accordingly with diffidence, but zealousy withal, and not feebly, taken up his staff to tread in the footsteps Of Scott and Galt, of Miss Edgeworth and Banim. The subject of his tales, he takes from humble life in Wales, and in his narratives he displays a strong taste for the mystic and awful, a delicate sense of the workings of the human affections, and, in addition, a graphic power of description. His style is sometimes obscure and inelegant, but in general its character is simplicity, with a touch of originality. If it were for no other reason than the latter, his fictions may be read with interest. He has interspersed occasional pieces of poetry through his volumes, some of which are in no common-place vein. He has also indulged in certain colloquial papers, the dramatis persona of which are Welsh Parsons and Brothers of the Angle, and in which he treats about every thing in the world et cetera. We should, however, recommend Mr. Downes not to introduce politics into such publications, especially where his information is not more accurate than to lead him to take "the Agitator" for "a private Roman Catholic Attorney from Ireland."
+
+An excerpt in The Glamorgan Monmouth and Brecon Gazette and Merthyr Guardian on [1st October 1836](https://newspapers.library.wales/view/3631955/3631958/33/sin%20eater), p3, provides a skectch of the last sin-eater:
+
+> THE LAST "SIN-EATER" OF WALES. A SKETCH. (From Mr Downes' Mountain-Decameron.)
+>
+> So late as the earlier part of the last century, that strange character of a stranger superstition, known by the name of "The Sin-Eater," was not unknown in Wales. This was some desperate being, wno, (unless we suppose him an unbeliever)- being past redemption, lost to all hope of salvation, did for a slight reward, or to gratify the relatives of one lying dead, take on his own soul all the sins of the deceased by a formal act, sometimes receiving confessions during life, and bargaining for the burthens thus to bo imposed on his already laden soul.
+>
+> Mr Fosbroke, in an account of the town of Ross, quotes a letter, I forget bv whom, (but I have an idea by Mr Kyrle, the Man of Ross,") which describes a "Sin-Eater," who "lived by Ross highway," and is described as a gaunt, ghastly, lean, miserable, poor rascal."
+>
+> If we consider these persons as probably not less believers than those who employed them, it is not easy to imagine a condition of the mind more terrific, desolate, and desperate, than theirs; thus more and more removed from the hope of mercy with every death, and assurance of perdition doubly sure.
+>
+> A gentleman who lived a little before the time of this dark superstition becoming obsolete, gives us this brief account of what is believed to have been the last "Sin-Eater of Wales".
+>
+> "I got lost," savs he, "near nightfall, after being landed by the ferry-boat from the Aber of Dovey, on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was to gain that between Penyboat village and Machynlleth town. I was cautioned to ride far round this pitchy morass, for no horse ever ventured among the peat pits -the whole being a quaking morass. In truth its look was enough, under a black evening, to keep me off, even without peril of eing swallowed, man and horse. It forms a great brown-black triangle of land, without a tree, or any vegetation but patches of gorse. Yet the piles of *mawn*, (all fetched a way by persons on foot) diversified the dismalness with a sort of low walls, and between was gleaming of some water, from the many holes whence it is dug. Till the moon went down, which lit me a space, I could just distinguish these dismal pools and cuts like canals, by its glimmer. I never saw ought so dismal in mv own country as this great turbarv of hollow ground looked, a huge green-roofed pit, the pitchy mud thus betraying itself every where, as the large moon, looking red as blood in a foul fog stagnating all over it, took leave of it, and its brown grew browner, and that browner black, till the last to be seen was one horrid blackness, where nothing lived, and nothing was heard but the low roar of the sea washing it on two sides, like the hum of some great city. That deep-voiced murmur of the sea so sounding like a thousand voices, made it more shocking to look upon, the space between, as dumb as a great grave. More than once I thought a light glimmered in the very midst, but I took it for the Jack-a-lantern, if not something worse, for I had heard of Wreckers, and there had been a shipwreck, the weather wild, and even the day had been hardly light.
+>
+> "At last, thanks to my stars, the good hard rock of a rough road rung to my horse's hoof, and I saw a pleasant cottage taper instead of that will-o'-wisp of the black bog, which was as ghastly as the Canwyll Corph, the corpse-candle, carried by a figure of one (as these Welsh say,) whose own burial will soon take place, in the spot it vanishes at. The house was on a high point and turn of road, overlooking all those many acres of hollow ground. Just as I came up, hoping lodging, I heard sounds of wailing within and soon a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay a corpse of a man, with a plate of salt holding a bit of bread, placed on its breast. The woman was shouting to the Sin-Eater to come and do his office-that is, to cat the bl'ead, lav hi hand on tbe. dead breast, place the dead man's on his own, after making a sign of the Cross, and then praying for a transfer of whatever pains or penances in fire or "thick-ribbed ice," or molten lead, or what beside monastic belief attached to the perdition of tormented souls, from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and for ever."
+>
+> This is the traveller's account of this incident.
+>
+> He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing point. After waiting long, he caught a far-out shout in reply to the woman's long unanswered, till she kindled on the high road's point the straw of her husband's late bed—the usual signal of a death in the house.
+>
+> The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck, and nails of such, between sea marsh and that dim bog, where few could approach bv day, none dared by night; whether for the footing, or the great fear, or at least awe, which all felt of that recluse. One curious belief was current, that he was no other than "The Wandering Jew"— the man who spit on his Saviour, and cannot die—that fable familiar to so many countries.
+
+
+## The Actual Work
 
 
 https://archive.org/details/mountaindecamero01down/page/18/mode/2up
@@ -351,10 +260,9 @@ The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck, and nails 
 
 Now as this traveller and the wretched being he stood in the dark and wind expecting, will be hereafter returned to, to avoid double description, this sketch may conclude, whose only purpose was to explain the character of a Sin-Eater of Wales, and the habits of one.
 
+## Advertising Break - FRAMPTON'S PILL OF HEALTH FOR BOTH SEXES
 
-
----
-
+At this point, let us take a little break an observe the following advert, identified, thorugh incorrect OCR, by a search on the phrase "sin eater":
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18380217/002/0001
 
@@ -369,11 +277,6 @@ Ask for FRAMPTON'S PILL OF HEALTH. and observe the name and address of "Thomas P
 
 
 [Example of error in OCR with amusing consequences...]
-
----
-
-
----
 
 ## A Lady Tourist, 1838
 
@@ -413,7 +316,7 @@ Publication date 1838
 pp. 336-337
 https://archive.org/details/dli.bengal.10689.7591
 
----
+## More Curious Customs
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004
