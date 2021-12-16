@@ -47,8 +47,10 @@ See also:
 There are perhaps also references somewhere in Archaeologia Cambrensis somewhere?
 ```
 
-```{admonition} Not to be Confused with either of the Greyhounds, Gelert, or St. Guinefort
+```{admonition} The Greyhounds, Gelert, or St. Guinefort
 :class: seealso dropdown
+
+When searching for "saint" and "greyhound", I kept finding myself discovering another story, that appears in several forms. Variously, the Welsh tradition of a greyhound called Gelert, and a French tradition of St. Guinefort, also a greyhound. Both stories essentially tell the same tale.
 
 https://archive.org/details/historyofwaleswr00carauoft/page/n309/mode/2up?q=+greyhound
 
@@ -134,7 +136,19 @@ In the hands of a storyteller, however, we might be able to weave a story that d
 
 ## Further Channelling of *Popular Antiquities*
 
-In both the [*Morning Herald (London)*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18221102/016/0003) and the [*English Chronicle and Whitehall Evening Post*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18221102/018/0003) on Saturday, November 2nd, 1822, in a column on *"CUSTOMS AT DEATHS."*, several traditions are cited as coming from "*The Vulgar Errors* of Browne, with the interesting notes and additions of Mr. Ellis, recently published" but the text appears more correctly to come from Ellis' edited version of *Popular Antiquities*.
+In both the [*Morning Herald (London)*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18221102/016/0003) and the [*English Chronicle and Whitehall Evening Post*](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18221102/018/0003) on Saturday, November 2nd, 1822, in a column on *"CUSTOMS AT DEATHS."*, several traditions are cited as coming from "*The Vulgar Errors* of Browne, with the interesting notes and additions of Mr. Ellis, recently published". There is indeed a work by one Sir Thomas, *"Pseudodoxia Epidemica or Enquiries into very many received tenents and commonly presumed truths* which was also known by the simpler title *"Vulgar Errors"*.
+
+```{admonition} Sir Thomas Browne
+:class: seealso dropdown
+
+Sir Thomas Browne was a 17th century polymath and author of works including *"Vulgar Errors"*, originally published in 1646 nd then running to several editions, which soght to refute various "vulgar" or common errors and superstitions of hof the time.
+
+See for example this [seventh and last edition](https://archive.org/details/worksoflearnedsr00brow/page/n5/mode/2up) of 1686.
+
+https://daily.jstor.org/sir-thomas-brownes-vulgar-errors/
+```
+
+However, the observations actually appear to come from Ellis' edited version of *Popular Antiquities*, the full titleof which we may recall is *Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's __Antiquitates Vulgares__ *.
 
 > The "Vulgar Errors" of Browne, with the interesting notes and additions of Mr. Ellis, recently published, furnish us with a curious detail of the various customs formerly observed at deaths, and several of which are yet retained in different parts of England. The article, as given in the work, is prolix, and contains some extraneous matter, which we think might have been omitted with advantage. In the following extracts we have selected only the parts most entertaining: they are ranged under several heads, as— "The Passing-Bell," "Watching The Dead," "Setting Salt or Candles on the Body," "The carrying of Torches and Lights," "Funeral Sermons," &c.
 
@@ -209,7 +223,7 @@ If we look up the reference to Madam Cresswell in *Popular Antiquities*, the par
 > "Dr. Fuller, in his Appeal of injured Innocence, (Part iii. p. 75.) tells us, that "When one was to preach the Funeral Sermon of a most vicious and generally hated person, all wondered what he would say in his praise ; the preacher's friends fearing, his foes hoping that, for his fee, he would force his conscience to flattery. For one thing, said the minister, this man is to be spoken well of by all ; and, for another thing, he is to be spoken ill of by none. The first is because God made him} the second, because lie is dead." Granger's Biogr. Hist. of England, 8vo- Lond. 1775. vol. iv. p. 218.
 
 ```{admonition} Madam Cresswell, According to Granger
-:class: seealso dropdown
+:class: dropdown
 
 Chasing down the reference to Madam Cresswell in Granger's *Biogr. Hist. of England*, what more do we learn of her?
 
@@ -248,18 +262,18 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 >
 > I do not design to fall upon Failures in general, with relation to the Gift of Chastity, but at present only enter upon that large Field, and begin with the Consideration of poor and publick Whores. The other Evening passing along near Covent-Garden, I was jogged on the Elbow as I turned into the Piazza, on the right Hand coming out of James-street, by a slim young Girl of about Seventeen, who with a pert Air asked me if I was for a Pint of Wine. I do not know but I should have indulged my Curiosity in having some Chat with her, but that I am informed the Man of the Bumper knows me; and it would have made a Story for him not very agreeable to some Part of my Writings, though I have in others so frequently said that I am wholly unconcerned in any Scene I am in, but meerly as a Spectator. This Impediment being in my Way, we stood under one of the Arches by Twilight; and there I could observe as exact Features as I had ever seen, the most agreeable Shape, the finest Neck and Bosom, in a Word, the whole Person of a Woman exquisitely Beautiful. She affected to allure me with a forced Wantonness in her Look and Air; but I saw it checked with Hunger and Cold: Her Eyes were wan and eager, her Dress thin and tawdry, her Mein genteel and childish. This strange Figure gave me much Anguish of Heart, and to avoid being seen with her I went away, but could not forbear giving her a Crown. The poor thing sighed, curtisied, and with a Blessing, expressed with the utmost Vehemence, turned from me. This Creature is what they call newly come upon the Town, but who, I suppose, falling into cruel Hands was left in the first Month from her Dishonour, and exposed to pass through the Hands and Discipline of one of those Hags of Hell whom we call Bawds. But lest I should grow too suddenly grave on this Subject, and be my self outragiously good, I shall turn to a Scene in one of Fletcher’s Plays, where this Character is drawn, and the Œconomy of Whoredom most admirably described. The Passage I would point to is in the third Scene of the second Act of The Humorous Lieutenant. Leucippe who is Agent for the King’s Lust, and bawds at the same time for the whole Court, is very pleasantly introduced, reading her Minutes as a Person of Business, with two Maids, her Under-Secretaries, taking Instructions at a Table before her. Her Women, both those under her present Tutelage, and those which she is laying wait for, are alphabetically set down in her Book; and as she is looking over the Letter C, in a muttering Voice, as if between Soliloquy and speaking out, she says,
 >
-> Her Maidenhead will yield me; let me see now;
-> She is not Fifteen they say: For her Complexion—-
-> Cloe, Cloe, Cloe, here I have her,
-> Cloe, the Daughter of a Country Gentleman;
-> Here Age upon Fifteen. Now her Complexion,
-> A lovely brown; here ’tis; Eyes black and rolling,
-> The Body neatly built; she strikes a Lute well,
-> Sings most enticingly: These Helps consider’d,
-> Her Maidenhead will amount to some three hundred,
-> Or three hundred and fifty Crowns, ’twill bear it handsomly.
-> Her Father’s poor, some little Share deducted,
-> To buy him a Hunting Nag—
+> Her Maidenhead will yield me; let me see now; 
+> She is not Fifteen they say: For her Complexion—- 
+> Cloe, Cloe, Cloe, here I have her, 
+> Cloe, the Daughter of a Country Gentleman; 
+> Here Age upon Fifteen. Now her Complexion, 
+> A lovely brown; here ’tis; Eyes black and rolling, 
+> The Body neatly built; she strikes a Lute well, 
+> Sings most enticingly: These Helps consider’d, 
+> Her Maidenhead will amount to some three hundred, 
+> Or three hundred and fifty Crowns, ’twill bear it handsomly. 
+> Her Father’s poor, some little Share deducted, 
+> To buy him a Hunting Nag— 
 >
 > These Creatures are very well instructed in the Circumstances and Manners of all who are any Way related to the Fair One whom they have a Design upon. As Cloe is to be purchased with 350 Crowns, and the Father taken off with a Pad; the Merchant’s Wife next to her, who abounds in Plenty, is not to have downright Money, but the mercenary Part of her Mind is engaged with a Present of Plate and a little Ambition. She is made to understand that it is a Man of Quality who dies for her. The Examination of a young Girl for Business, and the crying down her Value for being a slight Thing, together with every other Circumstance in the Scene, are inimitably excellent, and have the true Spirit of Comedy; tho’ it were to be wished the Author had added a Circumstance which should make Leucippe’s Baseness more odious.
 >
@@ -269,13 +283,13 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 ```{admonition}  The Tatler, Issue 84
 :class: dropdown
 
-*My first attempt at looking up "Tatler, No. 84" identified [issue 84 of "The Female Tatler"](https://archive.org/details/sim_female-tatler_january-16-18-1710_84/page/n1/mode/2up) of January 16-18, 1710. The sole article seems to be on "Men of Honour", although there is also an advertisement for "The Tomb of Venus: or, a Plain and Certain Method by which all People that ever were infected with the Venereal Distemper, may infallibly know whether they are cured or not ; with effectual Remedies to Eradicate all noxious Remainders, as well of the Medicines applied, as the Disease itself. By a Foreign Physician. Sold by Bernard Lintotte, Bookseller at Cross Keys between the Two Temple Gates in Fleet-street. Price 1s".
+My first attempt at looking up "Tatler, No. 84" identified [issue 84 of "The Female Tatler"](https://archive.org/details/sim_female-tatler_january-16-18-1710_84/page/n1/mode/2up) of January 16-18, 1710. The sole article seems to be on "Men of Honour", although there is also an advertisement for "The Tomb of Venus: or, a Plain and Certain Method by which all People that ever were infected with the Venereal Distemper, may infallibly know whether they are cured or not ; with effectual Remedies to Eradicate all noxious Remainders, as well of the Medicines applied, as the Disease itself. By a Foreign Physician. Sold by Bernard Lintotte, Bookseller at Cross Keys between the Two Temple Gates in Fleet-street. Price 1s".
 
-On a second attempt, I find [The Tatler, Vol 1., Numb. 84](https://archive.org/details/sim_tatler_october-20-october-22-1709_1_84), October 20-October 22, 1709, which opens with some comments on a rape case, and the presence of women at the trial, along with a passing comment on "a Maxim of the celebrated Madam Bennet, That a young Wench, tho' never so beautiful, was not worth her Board when, she was past her Blushing".*
+On a second attempt, I find [The Tatler, Vol 1., Numb. 84](https://archive.org/details/sim_tatler_october-20-october-22-1709_1_84), October 20-October 22, 1709, which opens with some comments on a rape case, and the presence of women at the trial, along with a passing comment on *"a Maxim of the celebrated Madam Bennet, That a young Wench, tho' never so beautiful, was not worth her Board when, she was past her Blushing".*
 
 ```
 
-Just as another aside, there is an unpleasant tale that makes a passing reference to the famed Mother Cresswell, in [*"The Somers Collection of Tracts"*](https://archive.org/details/collectionofscar07someuoft/page/126/mode/2up?q=%22Mother+Cresswell%22+procuress)" (*A collection of scarce and valuable tracts, on the most interesting and entertaining subjects : but chiefly such as relate to the history and constitution of these Kingdoms, selected from an infinite number in print and manuscript, in the Royal, Cotton, Sion, and other public, ans well as private libraries, particularly that of the late Lord Somers. 2d ed.,*) by John Somers, second edition, revised and augmented by Walter Scott, Esq., 1812.
+Just as another aside, there is an unpleasant tale that makes a passing reference to the famed Mother Cresswell, in [*"The Somers Collection of Tracts"*](https://archive.org/details/collectionofscar07someuoft/page/126/mode/2up?q=%22Mother+Cresswell%22+procuress)" (*A collection of scarce and valuable tracts, on the most interesting and entertaining subjects : but chiefly such as relate to the history and constitution of these Kingdoms, selected from an infinite number in print and manuscript, in the Royal, Cotton, Sion, and other public, ans well as private libraries, particularly that of the late Lord Somers. 2d ed.,*) by John Somers, second edition, revised and augmented by Walter Scott, Esq., 1812, relating to Lord Warristone ("Wareston").
 
 ```{admonition} The Salacious Seer Wareston
 :class: dropdown
