@@ -86,7 +86,8 @@ E. Sidney Hartland.
 
 https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments
 
-Folklore Vol III 1892
+Folklore Vol III
+1892
 p546-9
 
 MR. HARTLAND'S "SIN-EATER", AND PRIMITIVE SACRAMENTS.
