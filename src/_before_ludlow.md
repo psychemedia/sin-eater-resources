@@ -183,7 +183,7 @@ So what did Brand, or the editor, Mr Ellis, have to say about "the sin eater"?
 
 A new edition, first published in 1813, edited by Henry Ellis, went on to be republished many times, including the 1849 edition as cited in *Notes and Queries*.
 
-The following appears on [pp. 246-8](https://archive.org/details/b29328561_0002/page/246/mode/2up?q=sin-eater):
+The following appears on [pp. 246-8](https://archive.org/details/b29328561_0002/page/246/mode/2up?q=sin-eater) of the 1849 edition:
 
 > The following is extracted from Bagford's letter relating to the antiquities of London, printed in Leland’s Collectanea, i. 76. It is dated February 1, 1714-5:
 >
