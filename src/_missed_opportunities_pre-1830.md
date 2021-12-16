@@ -225,7 +225,7 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 > Mother Ross, mother Bennet `[The dedication of the "Plain Dealer," which is an admirable piece of raillery on women of this character, is addressed to madam B—, i.e. Bennet. See Spectator, No. 266. See also Tatler, No. 84.]`, mother Mosely, and mother Beaulie `[Betty Beaulie, a bawd of figure, lived in Durham-Yard, in the Strand. Charles Maurice Tellier, archbishop and duke of Rheims, who came to England, together with Crequi, to treat concerning a marriage of the dauphin with the lady Mary, daughter of the duke of York, is said to have gone to her house. See Wood's "Life," edir. 2. p. 265, 266, where there are some verses in which this fact is mentioned]`, flourishied, or rather decayed, in this reign : but of these matrons we have no portraits. Nor have we any of mother Needham, mother Rawlins of Deptford, mother Douglass `[Characterized in the "Minor."]`, mother Eastmead, mother Ph--l--ps, and several other mother strumpets, who deserve to be remembered as well as mother Creswell.
 
 
-````{admonition} The Spectator & THe Tatler
+````{admonition} The Spectator & The Tatler
 :class: dropdown
 
 *[The Spectator, issue 266](https://archive.org/details/sim_spectator-1711_1712-01-04_1-8_266/) is dated Friday, January 4, 1712. It opens with an article on ["Extending Sympathy to Whores"](https://spectator300.wordpress.com/2012/01/04/no-266-extending-sympathy-to-whores/).
