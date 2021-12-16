@@ -1,5 +1,19 @@
 
 
+https://archive.org/details/sim_archaeologia-cambrensis_1846-01_1_1/page/n9/mode/2up
+
+
+Archaeologia Cambrensis  1846-01: Vol 1 Iss 1
+Publication date 1846-01
+
+p1-2
+
+Archacolegia Cambrensis.
+
+JANUARY, 1846.
+
+In sending forth to the world this first number of the *Archaeologia Cambrensis*, we are desirous of making known to our numerous antiquarian friends and correspondents the deep sense we entertain of their spontaneous kindness, and, we may add, of the enthusiastic feeling with which they have participated in our arduous undertaking. We hope that we have struck a chord in the hearts of Welsh antiquaries that will resound not harshly in the ears of the Welsh public; and that, by describing and illustrating the antiquities of our dear native land, we shall meet with the lasting support and sympathy of all, who love those venerable and delightful associations connected with the very name of Wales. The many acts of courtesy which we have received from gentlemen, whom we have the honour of knowing only by name, are evidences of the interest with which the study of antiquities is pursued by all men of intelligent and cultivated minds; and they are to us auguries of good for the future.
+
 ---
 
 https://archive.org/details/sim_archaeologia-cambrensis_1846-01_1_1/page/54/mode/2up
@@ -26,7 +40,7 @@ Publication date 1846-07
 
 p281-4
 
-IMPORTANT COMMUNICATION. 
+IMPORTANT COMMUNICATION.
 
 *To the Editors of the Archaeologia Cambrensis.*
 
