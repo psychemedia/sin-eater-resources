@@ -31,11 +31,10 @@ In the [second volume](https://archive.org/details/northwalesinclud02bing/page/2
 > A strange custom prevails in some obscure parts of North Wales, which, however, the clergy have now almost abolished. This is termed the "offering of an enemy." When a person supposes himself highly injured by any one, he repairs to some church dedicated to a celebrated saint, or one who is believed to have great power over the affairs of men ; here kneeling on his bare knees before the altar, and offering a piece of money to the saint, he utters the most virulent and dreadful imprecations, calling down curses and misfortunes on the offender and his family even for generations to come. Sometimes the offended persons repair for the same purpose to some sacred well, dedicated to a saint. Mr. Pennant was threatened by a man, who fancied he had been injured by him, "with the vengeance of St. Elian, and a journey to his well, to curse him with effect." [Tour in Wales, ii. 337.]
 
 ```{admonition} A Tale of Saint Elian
-:class: seealso
-:class: dropdown
+:class: seealso dropdown
 So who was St Elian, and why was his well so potent?
 
-According to [Celtic Remains](https://archive.org/details/celticremains00evangoog/page/162/mode/2up?q=elian) by Morris, Lewis, ("transcribed from the original MSS. by me Richard Morris, son of the author's Brother, in the year of our Lord 1778"), edited by D Silvan Evans, 1878, ([history](https://archive.org/details/sim_archaeologia-cambrensis_1872-01_3_9/page/36/mode/2up?q=celtic)), p161-2:
+According to [Celtic Remains](https://archive.org/details/celticremains00evangoog/page/162/mode/2up?q=elian) by Morris, Lewis, (*"transcribed from the original MSS. by me Richard Morris, son of the author's Brother, in the year of our Lord 1778"*), edited by D Silvan Evans, 1878, ([history](https://archive.org/details/sim_archaeologia-cambrensis_1872-01_3_9/page/36/mode/2up?q=celtic)), p161-2:
 
 > By oral tradition. Elian had a young doe which he brought up tame, and the lord of that country gave his as much land to his church as the doe would encompass in a day. The tradition doth not say how the doe was drove to compass the ground; but it happened in her marking out her lord's ground that the greyhound of some rich man of the neighbourhood disturbed or killed the doe, upon which St. Elian in great wrath pronounced it a judgement on the inhabitants of the parich, that none of them should keep a greyhound to the end of the world; and his sentence is come to pass, for none of the parishioners are able to keep a greyhound — they areso very poor, the ground is so very rocky.
 
@@ -84,36 +83,26 @@ The custom identified by Pennant then makes an appearance:
 
 What we should take away from this, perhaps, is the word *Diodlys* as somehow referencing or describing elements of this tradition; and the apparent confusion over whether this tradition is to be found in North or South Wales.
 
+## Jorevin's "Description of England and Ireland" in *The Antiquarian Repertory*
+
+In [Volume II](https://archive.org/details/antiquarianreper02gros/page/n321/mode/2up?q=jorevin) of a "new edition" of *The Antiquarian repertory : a miscellaneous assemblage of topography, history, biography, customs, and manners ; intended to illustrate and preserve several valuable remains of old times* by Francis Grose and Thomas Astle, published in 1775, the authors quote widely from an account Mosnsieur Jorevin de Rocheford's 17th century travels in England, Ireland and Scotland.
+
+On [p100-102](https://archive.org/details/antiquarianreper02gros/page/102/mode/2up?q=SCHROSBERY), Jorevin describes his travels through Shrewsbury, which includes an account of a funeral there. The account opens with a description of his intial thoughts on entering Shrewsbury:
+
+> SCHROSBERY.
+>
+> The Severn is navigable to Schrosbery, I passed it over a large stone bridge,
+at the entrance there is a suburb, the church of which appears to me to have formerly belonged to some fine abbey. I ascended from thence to the town, which is mounted on the platform of a rock, scarped on almost every side, which renders its situation naturally strong; besides which, the wall that encloses it made it difficult to be scaled ; the environs consist of large woods and high mountains, nevertheless this town is filled with people and rich shop-keepers, who dwell in two large streets, one leading to the market, place, and the other turning from this place towards the left. Near which are the Great Church, the Exchange, and Town-hall, they are in a street called Aystrit [High Street], which is so broad that it seems a long market-place, terminating at one of the ends of the town, where stands the Castle and commands it, being more elevated, and by so much the stronger as it is environed on one side by broad ditches, closed with good walls, and on the other there is no approach to it, on account of the steepness of the rock, but it has been ruined by the late wars, in so much that excepting a few towers and some lodgings within, I see nothing remarkable.
+
+The account then describes a funeral ceremony he encountered; there is no particular mention of the pre-funereal rite, such as the sin-eating ceremony, although there does appear to be a tradition of placing jug of wine on the coffin from which everyone in attendance can drink the health of the deceased:
+
+>I met nothing more pleasing to me than the funeral ceremonies at the interment of a My Lord, which mine host procured me the fight of. The relations and friends being assembled in the house of the defunct, the minister advanced into the middle of the chamber, where, before the company, he made a funeral oration, representing the great actions of the deceased, his virtues, his qualities, his titles of nobility, and those of the whole family, so that nothing more could be said towards consoling every one of the company for the great loss they had sustained in this man, and principally the relations who were seated round the dead body, and whom he assured that he was gone to heaven, the seat of all sorts of happiness, whereas the world that he had just left was replete with misery. It is to be remarked, that during this oration there stood upon the coffin a large pot of wine, out of which every one drank to the health of the deceased, hoping that he might surmount the difficulties he had to encounter in his road to Paradise, where, by the mercy of God, he was about to enter, on which mercy they founded all their hope, without considering their evil life, their wicked religion, and that God is just.
+
+The account then describes the funeral procession and interment:
+
+> This being finished, six men took up the corps and carried it on their shoulders to the church ; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough; the other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where having placed the body on tressels and taken off the cloth from the coffin, which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chafed in the manner of a buffet. The minister then ascended his pulpit, and every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of the Holy Scripture concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation ; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaus in the earth with which the corps was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester, and having passed over a large desart plain, I reached Addar, Morton, and a Castle. The country here is barren ; passed a river near a windmill ; from thence to Pries and Vitechurch on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns all alone ; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.
+
 --- BELOW HERE IS WIP ---
-
-
-NOT MENTIONED IN THIS REF TO SHREWSBURY
-
-https://archive.org/details/antiquarianreper04ingros
-
-The Antiquarian repertory : a miscellaneous assemblage of topography, history, biography, customs, and manners ; intended to illustrate and preserve several valuable remains of old times
-by Grose, Francis, 1731?-1791; Astle, Thomas, 1735-1803; Jeffery, Edward
-
-Volume IV
-
-1807
-
-
-p584-6
-
-DESCRIPTION OF ENGLAND AND IRELAND, IN THE 17th century: BY JOREVIN.
-
-Starts p549
-
-Then p584
-
-...
-
-SCHROSBERY.
-
-The Severn is navigable to Schrosbery ; I passed it over a large stone bridge. At the entrance there is a suburb, the church of which appears to me to have formerly belonged to some fine abbey. I ascended from thence to the town, which is mounted on the platform of a rock, scarped on almost every side, which renders its situation naturally strong ; besides which, the wall that encloses it makes it difficult to be scaled. The environs consist of large woods and high mountains. Nevertheless, this town is filled with people and rich shopkeepers, who dwell in two large streets, one leading to the market-place, and the other turning from this place towards the left, near which are the Great Church, the Exchange and Town-hall. They are in a street called [Hight Street] Aystrit, which is so broad that it seems a long market-place, terminating at one of the ends of the town ; where stands the castle, and commands it, being more elevated, and by so much the stronger as it is environed on one side by broad ditches, closed with good walls, and on the other there is no approach to it, on account of the steepness of the rock ; but it has been ruined by the late wars, insomuch that, excepting a few towers and some lodgings within, I see nothing remarkable.
-
-I met nothing more pleasing to me than the funeral ceremonies at the interment of a My Lord, which mine host procured me the sight of. The relations and friends being assembled in the house of the defunct, the minister advanced into the middle of the chamber, where, before the company, he made a funeral oration, representing the great actions of the deceased, his virtues, his qualities, his titles of nobility, and those of the whole family ; so that nothing more could be said towards consoling every one of the company for the great loss they had sustained in this man, and principally the relations, who were seated round the dead body, and whom he assured that he was gone to heaven, the seat of all sorts of happiness, whereas the world that he had just left was replete with misery. It is to be remarked, that during this oration there stood upon the coffin a large pot of wine, out of which every one drank to the health of the deceased, hoping that he might surmount the difficulties he had to encounter in his road to Paradise, where, by the mercy of God, he was about to enter; on which mercy they founded all their hope, without considering their evil life, their wicked religion, and that God is just. This being finished, six men took up the corpse, and carried it on their shoulders to the church ; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough. The other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where, having placed the body on trestles, and taken off the cloth from the coffin (which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chased in the manner of a buffet) the minister then ascended his pulpit, and, every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of Holy Scripture, concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation ; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaux in the earth with which the corpse was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester. Having passed over a large desert plain, I reached Addar, Morton, and a castle. The country here is barren. Passed a river near a windmill ; from thence to Pries and Vitechurch, on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns, all alone ; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.
 
 
 ---
@@ -144,8 +133,6 @@ p72-4
 Formerly flowers were strewed before young couples, in their way to church. The author once saw a malicious caricature of this custom. Nosegays of rue enclosing a piece of half-eaten bread and butter were dropt in the church-path and porch by a deserted female, in order to denote an unhappy wedding. Stephens, in his plaine Country Bridegroom, p. 353, says "He shews neere affinity betwixt Marriage and Hanging ; and to that purpose, he provides a great Nosegay, and shakes hands with every one he meets, as if he were now preparing for a condemned man's voyage. [Popular Antiq. ii. 48]
 
 ...
-
-----
 
 
 
