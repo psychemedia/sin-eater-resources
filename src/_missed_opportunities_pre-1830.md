@@ -108,9 +108,9 @@ If there is further evidence or anecdotes surrounding the existence of the sin-e
 
 Unfortunately, there is no new information, just a restatement of Aubrey's comments from the Lansdowne manuscripts via Popular Antiquities.
 
-```{admonition}
+```{admonition} Aubrey Quoted via *Popular Antiq.* in *Archaological Sketches*
 :class: dropdown
-The quotatation appears at [p72-4](https://archive.org/details/cu31924104094986/page/n89/mode/2up?q=singular).
+The quotation appears at [p72-4](https://archive.org/details/cu31924104094986/page/n89/mode/2up?q=singular).
 
 > The following are matters which the author ascribes to the middle ages, at least he can assign no earlier date.
 >
@@ -124,6 +124,8 @@ The quotatation appears at [p72-4](https://archive.org/details/cu31924104094986/
 
 ```
 
+The fragment regarding sin-eating also appears on pp.222-3 of [*The Gentleman's Magazine 1822-03: Vol 92](https://archive.org/details/sim_gentlemans-magazine_1822-03_92/page/222/mode/2up), in a column on *Popular Customs and Superstitions in Herefordshore. [From Mr. Fosbroke's "Ariconensia."]*, p220-223, continued from earlier in that volume.
+
 Although probably relevant to our story, there is also mention, again via Popular Antiquities, of a custom involving the casting of half-eater bread in the path of wedding party by a "deserted female":
 
 > Formerly flowers were strewed before young couples, in their way to church. The author once saw a malicious caricature of this custom. Nosegays of rue enclosing a piece of half-eaten bread and butter were dropt in the church-path and porch by a deserted female, in order to denote an unhappy wedding. Stephens, in his plaine Country Bridegroom, p. 353, says "He shews neere affinity betwixt Marriage and Hanging ; and to that purpose, he provides a great Nosegay, and shakes hands with every one he meets, as if he were now preparing for a condemned man's voyage. [Popular Antiq. ii. 48]
@@ -133,28 +135,6 @@ In the hands of a storyteller, however, we might be able to weave a story that d
 
 --- BELOW HERE IS WIP ---
 
-
-https://archive.org/details/sim_gentlemans-magazine_1822-03_92/page/222/mode/2up
-
-The Gentleman's Magazine 1822-03: Vol 92
-
-1822-03
-p222
-
-The following are matters which the author ascribes to the middle ages, at least he can assign no earlier date.
-
-The first is the singular custom, now obsolete, of *Sin-eating*.
-
-It appears, that so late as the seventeenth century, there was in the villages, adjoining to Wales, an old man, called the Sin-eater; and his office was, for a trifling compensation to pawn his own soul for the ease and rest of the soul departed. Mr. Ellis, the editor of the Popular Antiquities, has extracted the following curious passage from the Lansdown Manuscripts, concerning a *Sin-eater*, who "lived in a cottage, on Rosse highway."
-
-> "In the county of Hereford was an old custom at funerals to hire people, who were to take upon them sinnes of the deceased. One of them (he was a long, leane, ugly, lamentable poor rascal) I remember lived in a cottage on Rosse higwway. The manner was, that when the corps was brought out of the house, and layd on the biere, a loafe of bread was brought out, and delivered to the Sinne-eater, over the corps, as also a mazar bow! of maple, full of beer [which he was to drink up], and sixpence in money, in consideration whereof he took upon him, *ipso facto*, all the sinnes of defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the Scape-Goate in the old laws, Levit. chap. xvi. v. 21, 22, “And Aaron shall lay his hands on the head of the live goate, and confesse over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them the head of the goate, and shall send him away by the hand of a fit man into the wilderness. And the goat shall bear upon him all their iniquities unto a land not inhabited ; and he let the goate goe into the wilderness."
->
-> "This custome (though rarely used in our days), yet by some people was observed, even in the strictest time of the Presbyterian Government, as at Dynder (volens nolens the Parson of the parish) the kindred of a woman deceased there had this ceremonie punctually performed according to her will; and also the like was done at the city of Hereford in those times, where a woman kept, many years before her death, a mazard bowle for the Sinne-eater; and the like in other places in this county; as also in Brecon. I believe this custom was heretofore used all over Wales. [*Popular Antiq. ii. 156 [referring to 1813 edition]]"
-
----
-
-
----
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18221102/018/0003
 
 English Chronicle and Whitehall Evening Post
@@ -166,10 +146,10 @@ CUSTOMS AT DEATHS. The "Vulgar Errors" of Browne, with the. interesting notes an
 
 The PASSING BELL, so called from its denoting the passing or departing of any one from life to death, was originally intended to invite the prayers of the faithful for the person who was dying, but was not yet dead ; and though in some instances superstitiously used, has its meaning clearly pointed out in a clause in the " Advertisements for Due Order," &c. in the seventh year of Queen Elizabeth, which enjoins " that when anye Christian bode is in passing, that the *bell be toled*, and that the Curate be speciallie called for to comfort the sicke person ; and after the time of his passing, to ring , : no more but one short peale; and one before the buriall, and another short peale after the buriail." Grose, refeiring to the old Catholic belief on this subject, treats it rather ludicrously, though its intention, as just duscribed, was evidently serious. " The Passing Bell," says he, " was anciently run! , for two purposes; one to bespeak the prayers of all good Christians for a soul just departing ; the other, to drive away the evil spirits who stood at the bed's foot, and about the house ready to seize their prey, or at least to molest and terrify the soul in its passage ; but by the ringing of that bell (for Durandus, a writer of the twelfth century, inform us evil spirits are much afraid of bells) they were kept aloof; and the soul, like a hunted hare, gained the start, or had what is; by sportsmen, called law."
 
-In the diary of Robert Birrel, preserved in " Fragments of Scottish History," &c. is the following curious entry :- 1566, the 25 of October, word came to the towne of Edinburghe, from the Queine, yat hir Majestic was deadly seike, and desirit ye bells to he run e ,we, and all ye peopile to resort to ye Kirk to pray for her, for she was so seike that none lepsied her life" (expected. her to live.) Bourne supposes, that from the saying mentioned by Bede, "Loan have mercy on my soul," which St. Oswald uttered when he fell to the earth, has been derived the distich so often introduced in ballads on the melancholy occasion of a coining execution
+In the diary of Robert Birrel, preserved in "Fragments of Scottish History," &c. is the following curious entry :- 1566, the 25 of October, word came to the towne of Edinburghe, from the Queine, yat hir Majestic was deadly seike, and desirit ye bells to he run e ,we, and all ye peopile to resort to ye Kirk to pray for her, for she was so seike that none lepsied her life" (expected. her to live.) Bourne supposes, that from the saying mentioned by Bede, "Loan have mercy on my soul," which St. Oswald uttered when he fell to the earth, has been derived the distich so often introduced in ballads on the melancholy occasion of a coining execution
 
 When the bell begins to toll,
-LORD have mercy on my soul "
+LORD have mercy on my soul"
 
 In a very rare book entitled " Wits, Fits, and Fancies," (1614) the author relates a droll anecdote concerning the ringing out at the burial of" a rich clunk and a begger who were buried at one time, in the same churchyard, and the bells rang out amiable for the miser. Now the wiseacre, his son, and executor," says he, " to the ende the worlde might not thinke that all that ringing was for the begger, bat for his father, hyred a trumpetter to stand all the ringing while in the belfrie, and between every peak, to sound his • trumpet, and proclame aloud and saye, sirres, this next peale is not for R, but for maister N,-,his father." There seems to be nothing more intended at present by tolling the Passing Bell, but to inform the neighbourhood of some person's death.
 
