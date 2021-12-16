@@ -7,6 +7,16 @@ E.M. Leather, The Folk-Lore of Herefordshire Collected from Oral and Printed Sou
 
 --
 
+The works of the learned Sr Thomas Brown, Kt. ... : Containing I. Enquiries into vulgar and common errors. II. Religio medici : with annotations and observations upon it. III. Hydriotaphia; or, Urn-burial : together with The garden of Cyrus. IV. Certain miscellany tracts. With alphabetical tables
+by Browne, Thomas, Sir, 1605-1682
+
+Publication date 1686
+
+funerals? 
+https://archive.org/details/worksoflearnedsr00brow/page/n4/mode/2up?q=funeral
+
+---
+
 https://archive.org/details/cu31924029911520/page/n6/mode/2up?q=elian+greyhound+cambrensis
 
 Welsh folk-lore: a collection of the folk-tales and legends of North Wales; being the prize essay of the national Eisteddfod, 1887
