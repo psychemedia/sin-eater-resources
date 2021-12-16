@@ -457,7 +457,7 @@ If there were any replies made directly to the papers that reprinted the questio
 >ALEXANDER LEEPER.
 >Dublin.
 
-The second also provides a biblical reference, as well as resorting to classics:
+The second also provides a biblical reference, as well as resorting to classical antiquity:
 
 > In Whitby and Doddridge there is a note on 1 Cor. iv. 13. which gives some information on this subject. Whitby, from *Phavorinus*, states the custom referred to to be an Athenian one; but I see, in Pole’s *Synopsis*, that Grotius, in a note on the above passage, refers to Caesar, lib. vi., in proof that a custom of the same kind prevailed among the Gauls. See also Bos, *Exercit. Philolog.*, p. 125., to whom Doddridge refers.
 >
