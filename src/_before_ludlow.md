@@ -113,7 +113,7 @@ Among his achievements, White Kennet was author of the *Parochial Antiquities at
 In terms of provenance of the White's papers, which included Aubrey's manuscript, and their route into the Lansdowne amnuscripts, the *Dictionary of National Biography, 1885-1900, [entry for *Kennett, White*](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Kennett,_White) offers the following:  "Many of Kennett's manuscripts, which once formed part of the library of James West, president of the Royal Society, were purchased in 1773 by the Earl of Shelburne (afterwards Marquis of Lansdowne), with whose collection they passed, in 1807, to the British Museum. They are now numbered 935–1041 in the Lansdowne collection."
 ```
 
-## Leland's *Collectanea*
+## Leland's *Collectanea*, 1774
 
 Regarding the "letter from John Bagford" in *Leland's Collectanea*, it first seems to appear in the second edition of *Joannis Lelandi antiquarii De rebvs britannicis collectanea*](https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up), edited by Thomas Hearne, and published in 1774, as "A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.
 
@@ -204,7 +204,7 @@ We know that Hone was familiar with an earlier edition of Brand's work, citing f
 
 So what did Brand, or the editor, Mr Ellis, have to say about "the sin eater"?
 
-## Brand's Antiquities
+## Brand's Antiquities, edited by Ellis, 1813
 
 *Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's Antiquitates Vulgares* — often referred to as *Popular Antiquities* — by John Brand, was first published in 1777. This [first edition](https://archive.org/details/observationsonp00bourgoog/page/n46/mode/2up) contains no explicit reference to a "sin eater", although Chapter II of Bourne's work, and Brand's observation on it, do cover traditions *Of Watching with the Dead*.
 
@@ -228,3 +228,10 @@ The material adds little to what we have already learned. However,
 the corresponding section of the [1813 edition](https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse) is essentially the same (although the edition differs not least in page numbering), so we can date the material, and its expression, relating to sin-eaters in the 1849 edition of *Brand's Antiquities* to the first edition of that edited version of thirty six years earlier.
 
 As to how this commentary material, which did not appear in the original 1777 edition, made its way into the edited version of 1813, we note that the editor, [Henry Ellis](https://en.wikipedia.org/wiki/Henry_Ellis_(librarian)), was principal librarian at the British Museum, which had acquired the Lansdowne manuscripts in 1807.
+
+```{admonition} Henry Ellis
+:class: dropdown seealso
+
+https://en.wikipedia.org/wiki/Henry_Ellis_(librarian)
+
+```
