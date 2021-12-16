@@ -6,17 +6,17 @@ The Scotsman
 Saturday 18 February 1832
 p?
 
-MR _HONE'S _YEAR BOOK COMPLETE.
+MR _HONE'S YEAR BOOK COMPLETE.
 
- This day is _published.
+ This day is published.
  
-By _RICHARD GRIFFIN & CO. Glasgow,
+By RICHARD GRIFFIN & CO. Glasgow,
 
-And STILLIES , BROTHERS , 140 , High _Street , Edinburgh.
+And STILLIES, BROTHERS, 140, High Street, Edinburgh.
 
-In one very _large _vol . 8 vo ., with 114 _Engravings , _price 14s. in cloth
+In one very large vol. 8 vo., with 114 Engravings, price 14s. in cloth
 
-THE _YEAR BOOK of Daily Recreation and Information, concerning remarkable Men and Manners , Times and Seasons, Solemnities and Merry-makings, Antiquities and Novelties, forming a complete History of the Year, and a Key to the Almanacks.
+THE YEAR BOOK of Daily Recreation and Information, concerning remarkable Men and Manners , Times and Seasons, Solemnities and Merry-makings, Antiquities and Novelties, forming a complete History of the Year, and a Key to the Almanacks.
 
 By W. Hone
 
