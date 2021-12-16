@@ -1,6 +1,6 @@
 # The Road to Ludlow
 
-From *Archaeologia Cambrensis*, the official proceedings of the sixth annual meeting of the Cambrian Archaeological Association at Ludlow in 1852, we might reasonably assume that Mr. Matthew Moggridge, Esq., himself learned of the tradition from "Aubrey", writing in the Lansdowne manuscripts, as held by the British Museum, via *Hone’s Year Book*, p. 858.*
+From *Archaeologia Cambrensis*, the official proceedings of the sixth annual meeting of the Cambrian Archaeological Association at Ludlow in 1852, we might reasonably assume that Mr. Matthew Moggridge, Esq., himself learned of the tradition from "Aubrey", writing in the Lansdowne manuscripts, as held by the British Museum, via *Hone’s Year Book*, p. 858.
 
 A query raised following the meeting by one of those in attendance, Mr. Jelinger C. Symons in *Notes & Queries* also revealed by way of response a reference to the same quote appearing in *Brand's Antiquities, vol. ii. p. 247., edit. 1849*.
 
@@ -8,11 +8,11 @@ So in our attempt to track down the origins of the story of the *sin-eater*, let
 
 ## Hone's Year Book
 
-[*The year book of daily recreation and information*](https://archive.org/details/cu31924029752791)] by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in 1832.
+[*The year book of daily recreation and information*](https://archive.org/details/cu31924029752791) by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in 1832.
 
 The full title of the book is more correctly recorded as *The year book of daily recreation and information concerning remarkable men and manners, times and seasons, solemnities and merry-makings, antiquities and novelties: on the plan of the Every-Day Book and Table Book, or everlasting calendar of popular amusements, sports, pastimes, ceremonies, customs, and events incident to each of the three hundered and sixty-five days in past and present times; forming a complete history of the year; and a perpetual key to the Almanac; with 114 engravings.*
 
-This work drew on Hone's previous works, [*The Every-Day Book*](https://archive.org/details/everydaybookorgu01hone) and the [*Table Book*](https://archive.org/details/cu31924103708214). Whilst neither book contains a description of the sin-eater practise, the list of "topics to be covered" in the first edition of the Every-Day Book (started at the end of 1824), does mention that "sin-eater" *will* be one of the topics to be covered.
+This work drew on Hone's previous works, [*The Every-Day Book*](https://archive.org/details/everydaybookorgu01hone) and [*The Table Book*](https://archive.org/details/cu31924103708214). Whilst neither book contains a description of the sin-eater practise, the list of "topics to be covered" in the first edition of the Every-Day Book (started at the end of 1824), does mention that "sin-eater" *will* be one of the topics to be covered.
 
 ```{admonition} Hone's Every-Day Book
 :class: dropdown
@@ -169,7 +169,7 @@ We have now also pretty much chased our way back to Aubrey.
 
 We might also note that there is a transmission of elements of the sin-eater ritual via Bagford, perhaps via direct personal communication, or perhaps just via Bagford's reading of Aubrey's manuscript.
 
-How, then, did Hone come across Aubrey's comments? We should note that Hone appears to have been familiar with the term *sin-eater* in December 1824, where the term is mentoned as one of the items to be covered in his forthcoming (at the time) *Every-Day Book*.
+How, then, did Hone come across Aubrey's comments? We should note that Hone appears to have been familiar with the term *sin-eater* in December 1824, where the term is mentioned as one of the items to be covered in his forthcoming (at the time) *Every-Day Book*.
 
 One possibility is that he learned of it from "Brand's Antiquities", which we saw cited one response to Symon's letter to *Notes & Queries*, specifically, *Brand's Antiquities, vol. ii. p. 247., edit. 1849*.
 
@@ -183,13 +183,13 @@ So what did Brand, or the editor, Mr Ellis, have to say about "the sin eater"?
 
 A new edition, first published in 1813, edited by Henry Ellis, went on to be republished many times, including the 1849 edition as cited in *Notes and Queries*.
 
-The following appears on pp.246-8](https://archive.org/details/b29328561_0002/page/246/mode/2up?q=sin-eater):
+The following appears on [pp. 246-8](https://archive.org/details/b29328561_0002/page/246/mode/2up?q=sin-eater):
 
 > The following is extracted from Bagford's letter relating to the antiquities of London, printed in Leland’s Collectanea, i. 76. It is dated February 1, 1714-5:
 >
 > "Within the memory of our fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old sire (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket, on which he sat down facing the door. Then they gave him a groat, which he put in his pocket ; a crust of bread, which he eat ; and a full bowle of ale, which he drank off at a draught. After this he got up from the cricket and pronounced, with a composed gesture, the ease and rest of the soul departed for which he would pawn his own soul. This I had from the ingenious John Aubrey, Esq., who made a collection of curious observations, which I have seen, and is now remaining in the hands of Mr. Churchill, the bookseller. How can a man think otherwise of this, than that it proceeded from the ancient heathens ?"
 
-> Aubrey's collection, here mentioned, was most probably the Remaines of Gentilisme and Judaism, still preserved among the Lansdowne MSS., whence the following remarks on this subject, in Mr. Aubrey’s own hand, have been extracted :
+> Aubrey's collection, here mentioned, was most probably the *Remaines of Gentilisme and Judaism*, still preserved among the Lansdowne MSS., whence the following remarks on this subject, in Mr. Aubrey’s own hand, have been extracted :
 >
 > "In the county of Hereford was an old custome at funeralls to hire poor people, who were to take upon them the sinnes of the party deceased. One of them (he was a long, leane, ugly, lamentable poor raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out and delivered to the sinne eater, over the corpse, as also a mazar bowle, of maple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. 'And Aaron shall lay both his hands on the head of the live goate, and confesse over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness. And the goat shall bear upon him all their iniquities unto a land not inhabited ; and he shall let the goat goe into the wilderness.'
 >
@@ -199,6 +199,6 @@ The following appears on pp.246-8](https://archive.org/details/b29328561_0002/pa
 
 The material adds little to what we have already learned. However, 
 the corresponding section of the [1813 edition](
-https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse) is essentially the same (although the edition differs not least in page numbering), so we can date the material, and its expression, relating to sin-eaters in the 1849 edition of *Brand's Antiquities" to the first edition of that edited version of thirty six years earlier. 
+https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse) is essentially the same (although the edition differs not least in page numbering), so we can date the material, and its expression, relating to sin-eaters in the 1849 edition of *Brand's Antiquities* to the first edition of that edited version of thirty six years earlier. 
 
 As to how this commentary material, which did not appear in the original 1777 edition, made its way into the edited version of 1813, we note that the editor, [Henry Ellis](https://en.wikipedia.org/wiki/Henry_Ellis_(librarian)), was principal librarian at the British Museum, which had acquired the Lansdowne manuscripts in 1807.
