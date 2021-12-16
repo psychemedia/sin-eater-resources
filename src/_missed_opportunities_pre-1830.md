@@ -102,21 +102,15 @@ The account then describes the funeral procession and interment:
 
 > This being finished, six men took up the corps and carried it on their shoulders to the church ; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough; the other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where having placed the body on tressels and taken off the cloth from the coffin, which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chafed in the manner of a buffet. The minister then ascended his pulpit, and every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of the Holy Scripture concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation ; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaus in the earth with which the corps was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester, and having passed over a large desart plain, I reached Addar, Morton, and a Castle. The country here is barren ; passed a river near a windmill ; from thence to Pries and Vitechurch on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns all alone ; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.
 
---- BELOW HERE IS WIP ---
+## *Archaeological sketches of Ross and Archenfield*, 1821
 
+If there is further evidence or anecdotes surrounding the existence of the sin-eater on the "Rosse highway", then an 1821 work entitled *Ariconensia, or, Archaeological sketches of Ross and Archenfield : illustrative of the campaigns of Caractacus, the station Ariconium, &c, with other matters never before published* by Thomas Dudley Fosbroke, is perhaps a good place to look, particularly if it includes *"other matters never before published"*.
 
----
+Unfortunately, there is no new information, just a restatement of Aubrey's comments from the Lansdowne manuscripts via Popular Antiquities.
 
-
-https://archive.org/details/cu31924104094986/page/n89/mode/2up?q=singular
-
-Ariconensia, or, Archaeological sketches of Ross and Archenfield : illustrative of the campaigns of Caractacus, the station Ariconium, &c, with other matters never before published
-
-by Fosbroke, Thomas Dudley, 1770-1842; Wordsworth Collection
-
-1821
-
-p72-4
+```{admonition}
+:class: dropdown
+The quotatation appears at [p72-4](https://archive.org/details/cu31924104094986/page/n89/mode/2up?q=singular).
 
 > The following are matters which the author ascribes to the middle ages, at least he can assign no earlier date.
 >
@@ -128,15 +122,16 @@ p72-4
 >
 > This custome (though rarely used in our day,) yet by some people was observed, even in the strictest time of the Presbyterian Government, as at Dynder (volens nolens the Parson of the Parish) the kindred of a woman deceased there had this ceremonie punctually performed according to her will; and also the like was done at the city of Hereford in those times, where a woman kept, many years before her death, a mazard bowle for the Sinne-eater; and the like in other places in this countie; as also in Brecon. I believe this custom was heretofore used all over Wales. [Popular Antiq. ii. 156.]
 
-...
+```
 
-Formerly flowers were strewed before young couples, in their way to church. The author once saw a malicious caricature of this custom. Nosegays of rue enclosing a piece of half-eaten bread and butter were dropt in the church-path and porch by a deserted female, in order to denote an unhappy wedding. Stephens, in his plaine Country Bridegroom, p. 353, says "He shews neere affinity betwixt Marriage and Hanging ; and to that purpose, he provides a great Nosegay, and shakes hands with every one he meets, as if he were now preparing for a condemned man's voyage. [Popular Antiq. ii. 48]
+Although probably relevant to our story, there is also mention, again via Popular Antiquities, of a custom involving the casting of half-eater bread in the path of wedding party by a "deserted female":
 
-...
+> Formerly flowers were strewed before young couples, in their way to church. The author once saw a malicious caricature of this custom. Nosegays of rue enclosing a piece of half-eaten bread and butter were dropt in the church-path and porch by a deserted female, in order to denote an unhappy wedding. Stephens, in his plaine Country Bridegroom, p. 353, says "He shews neere affinity betwixt Marriage and Hanging ; and to that purpose, he provides a great Nosegay, and shakes hands with every one he meets, as if he were now preparing for a condemned man's voyage. [Popular Antiq. ii. 48]
+
+In the hands of a storyteller, however, we might be able to weave a story that develops the notion of "half-eaten" bread, perhaps suggesting that not even a sin-eater would absolve the groom of the sin of spurning a woman he was perhaps previously betrothed to!
 
 
-
----
+--- BELOW HERE IS WIP ---
 
 
 https://archive.org/details/sim_gentlemans-magazine_1822-03_92/page/222/mode/2up
