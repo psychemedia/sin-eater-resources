@@ -2,9 +2,9 @@
 
 In the course of the 1830s and 1840s, whilst there were occasional mentions of the sin-eater tradition recapping previous expositions, typically in the guise of articles on ancient or curious customs, they typically introduced no new information, stories or sources.
 
-The main event, however, was the publication of *The Mountain Decameron*, ????, by a new Welsh author, Joseph Downes, a fictional work that added "poetic license" elements to the tradition.
+The main event, however, was the publication of *The Mountain Decameron* in 1836 by a new Welsh author, Joseph Downes, a fictional work that added "poetic license" elements to the tradition.
 
-## WIP
+## The British Magazine, 1835
 
 The British Magazine and Monthly Register of Religious and Ecclesiastical Information, of, [February 1st, 1835, Vol 7](https://archive.org/details/sim_british-magazine-and-register-of-religious_1835-04-01_7/page/399/mode/2up), pp399-401, repeats several of the fragments we have seen before, but perhaps raises them to the attention of a new audience.
 
@@ -22,7 +22,7 @@ The next fragment is more directly familiar to us from Penannt's own *Tour In Wa
 
 > Pence and halfpence, in lieu of little rolls of bread, (which heretofore generally and by some are still given on these occasions,) are now distributed to the poor, who flock in great numbers to the house of the dead before the corpse is brought out. When the corpse is brought out of the house, and laid upon the bier, and covered before it be taken up, the next of kin to the deceased, widow, mother, daughter, or cousin, (never done by a man,) gives cross over the corpse to one of the poorest neighbours two or three white loaves) of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink, which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s prayer, and then they set forward towards church. And all along, from the house to the church-yard, at every cross way, the bier is laid down, and the Lord’s prayer renewed ; and so when they come first into the church-yard, and before any of the verses appointed in the service to be said.
 
-## Joseph Downes' "The Mountain Decameron", 1836
+## Announcing "The Mountain Decameron"
 
 In late May, 1836, "trailers" started appearing for a new work, at the time still in preparation: Joseph Downes' *The Mountain Decameron*.
 
@@ -70,7 +70,7 @@ Over in the *John Bull* magazine, on [Sunday 12 June 1836](https://www.britishne
 
 The same article mentions, without further comment, "and The Mountain Decameron, by Mr. Downes, of Builth".
 
-## Downe's Preface to "THe Mountatin Decameron"
+## Joseph Downes' "The Mountain Decameron", 1836
 
 In Volume 1 of [*The Mountain Decameron*, 1836](https://archive.org/details/mountaindecamero01down/page/18/mode/2up), Joseph Downes sets the scene in his long preface to the work:
 
