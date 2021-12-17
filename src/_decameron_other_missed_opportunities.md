@@ -34,7 +34,7 @@ A couple of weeks later, on [Saturday 04 June 1836](https://www.britishnewspaper
 
 > Breconshire
 >
-> The forthcoming work, called "The Mountain Decameron, is licely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well)—thc Panty Gwaye (the Hollow of Woe)—the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blook of Man). What terrible mysteries do these more than half unveil, and by a single name!
+> The forthcoming work, called "The Mountain Decameron, is likely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well) — the Panty Gwaye (the Hollow of Woe) — the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blood of Man). What terrible mysteries do these more than half unveil, and by a single name!
 
 On the same day, [Saturday 04 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18360604/082/0008) the Morning Herald in London announced the release of the work:
 
@@ -66,35 +66,63 @@ Over in the *John Bull* magazine, on [Sunday 12 June 1836](https://www.britishne
 
 >LITERATURE.
 >
-> The proverb says it “never rains bat it lf that proverb were ever applicable, this the moment; when, after a dearth of novelty almost unprecedented in the literary world, there comes influx most overwhelming.   ... Why the publishers treasure all their stores till some given moment, and then send them out in this sort of torrent, do not exactly understand—surely if these novels hod appeared at intervals, the public would have had more time and better opportunity to read them. For ourselves, we repeat our incapacity to swallow so much fancy bread’ 1 in one week—much less have the power of digesting it. We mention the names the books, and will seriatim give accounts of them, when we have reading and breathing time.
+> The proverb says it "never rains but it pours." If that proverb were ever applicable, this is the moment; when, after a dearth of novelty almost unprecedented in the literary world, there comes influx most overwhelming. We will first notice the periodical publications, and then glance at the numerous volumes, most of which we have as yet been unable to red, but the names and characters of which, as they have been reported to us, will, of themselves, occupy no inconsiderable space. ... Why the publishers treasure all their stores till some given moment, and then send them out in this sort of torrent, we do not exactly understand—surely if these novels had appeared at intervals, the public would have had more time and better opportunity to read them. For ourselves, we repeat our incapacity to swallow so much "fancy bread" in one week— much less have the power of digesting it. We mention the names of the books, and will *seriatim* give accounts of them, when we have reading and breathing time.
 
-The same article mentions, without further comment, "and The Mountain Decameron, by Mr. Downes, of Builth".
+The same column mentions, without further comment, "and The Mountain Decameron, by Mr. Downes, of Builth" in the list of publications too numerous have yet digested.
 
 ## Joseph Downes' "The Mountain Decameron", 1836
 
-In Volume 1 of [*The Mountain Decameron*, 1836](https://archive.org/details/mountaindecamero01down/page/18/mode/2up), Joseph Downes sets the scene in his long preface to the work:
+In Volume 1 of [*The Mountain Decameron*, 1836](https://archive.org/details/mountaindecamero01down/page/18/mode/2up), Joseph Downes sets the scene in his long preface to the work, but not before making a withering comment on the state of reading in the Principality:
 
-> Preface
-> ...
+> There is in fact, and literally, *no Reading Public in Wales*, but the better educated part of the more secluded Welsh peasantry. The gentry of Wales dispute this, but they had better *disprove* it. Let them do so by attaching some importance to so invaluable a resource, one so innocent, so exalting, so vital to good morals as *reading*. Vermin hunting might still be the *grand* resource.
 >
-> There is in fact, and literally, no Reading Public in Wales, but the better educated part of the more secluded Welsh peasantry. The gentry of Wales dispute this, but they had better disprove it. Let them do so by attaching some importance to so invaluable a resource, one so innocent, so exalting, so vital to good morals as reading. Vermin hunting might stiU be the grand resource. Facts are stubborn things. Seventeen Welsh periodicals circulate well among the humbler classes ! One, conducted with ability — and with great sacrifice by the spirited patrons of it, to the honour of their country — one acknowledged as worthy of support, by high critical authorities not Welsh — has at last ceased to circulate for want of that support from the gentry. Other orders, seventeen — the gentry not one : verbum sat. ...
->
-> Finally, in extenuation of what will perhaps be deemed presumptuous ambition thus announced, the writer begs it may be remembered, that he is pleading for no novelty in composition, which he conceits himself the inventor of, but merely a bona fide return to th?it honest, hear tfelty fearless tone of expression, which distinguished our glorious old dramatists — for a little indulgence to those flowers, even in prose, which Jeremy Taylor did not deem unworthy of even divinity, nor 18 THE MOUNTAIN-DECAMERON. Bacon disdain to strew, even copiously, over philosophy's rugged path. ... Resigning the auctorial pompous periphrasis of the third person I shall entreat, '"beloved reader," your indulgence for much quaintness, perhaps obscurity, certainly much ignorance of the outer world at least, which I feel assured that you will discover in these pages. Doubtless, if I be as ignorant of the heart and human character, as I am of the world and the worldly character, my authorship will be a woful failure. Something, I hope, is to be allowed for the self-delusions of an almost Hteral hermit. Shut up or wandering among mountains for these PREFACE. 19 many years past, conversing with few but the rudest people, I have not the advantage of literary or other refined society, to freshen my stagnating thoughts, or correct my erroneous ones ; to tell me where those thoughts are not duly elicited, or where it were more graceful to suppress them. I am my own adviser and my own critic, my own '' pensive public," and hence, perhaps, ought to be less-severely quizzed if I become, as in the previous lines — my " own trumpeter.'^ Nor do mountains alone constitute my solitude, but the misfortune of antedating old age by the loss of friends. The splendid streets of your huge metropolis, with their immense throngs of people, are to some' few bosom-aliens among them, more deeply solitary than mountain-avenues, with their multitude of trees and moving flocks. For myself, I can say that the mighty " hum '^ of those crowds no more disturbs me, who neither share in the chase of their many interests nor swell the cry, than does the constant roar of the cataracts of my home country. Nor do I state this without a latent conceit that possibly such a recluse, addressing such an audience as the " Reading Public/^ may be regarded as a curious kind of monster. In such solitude, it is natural for the unguided mind (especially if in 20 THE MOUNTAIN-DECAMERON. old time enthusiastic) both to hope and despond to excess. I have however reached that stage of '^ Ufe's poor play '^ when a writer (and still more if he be a parent) has a darker fear than that of the critic "before his eyes^' — Death. >
-> ...
->
-> Now, as to the travelling part of my Diary, distinct from the story-telling — I can truly assure thee that there is matter in abundance for rational curiosity, left in Wales, and, what is better, strong vestiges of what we may surely characterise as patriarchal life, if life as rudely simple, yet happy, as that recorded of very early times may be so designated. The se- cluded Welsh breeder of sheep and tender of cattle, leads a life of solitary wildness truly cu- rious to the curious in man^s nature — one of pastoral peace, if not pastoral vagrancy, that leaves little to the imagination to fill up for that of an ancient man of woolly wealth, or a modern one among the Bedouin Arabs. When you read of the picture of primitive modes of even Cambrian life being now wholly lost, of MacAdam and the schoolmaster having swept both Ignorance and Pastoral in their pri- 30 THE MOUNTAIN-DECAMERON. mitive character out of Britain^ you may, I am very sorry and happy to say^ suspend your belief. Tourists — bookmakers I mean^ — follow the routes of predecessors^ and see with their eyes, and nothing beyond ; thence I believe it is that so little is known of the domestic lives and characters of the direct descendants of the Britons, our fellow countrymen. ...
->
-> PREFACE. 33 Such then being the kind of entertainment which for ten days T propose to provide for thee, I shall first ask, Art thou willing to take a cup of tea and a tale with us under some ^^ ro- mantic mountain forest-crowned '' ? To sit at our tent's mouth on some sunshiny sod, be- twixt a hanging wood and water, " far from the haunts of men " (yet peradventure busier with man than ever), sung to by the woodlark or cuckoo, or plained to by the owl, possibly ? for our odd amateur-gypsy the Doctor, is fond of reading on into the night, by a very bright moon, or his little lamp when the night is sultry and still. If possible I will make you our guest, without endangering you by night air, or bivouac, or dewy greensward, by remitting you the very feeling of the hour, at the hour, by putting forth my writing tools, even by that lamp if day's be "burned out/' (My own health has vastly improved under this novel regimen.) Although weeks or months may elapse before you receive these my dispatches, " written on the field " — of flowers, not of blood — still I pre- fer penning them on the spur of the occasion — (the spur of the scenic and pictorial beauty of landscape) to writing from mere cold recollec- tion when the glow of the moment is gone for ever.
+> Facts are stubborn things. *Seventeen* Welsh periodicals circulate *well* among the *humbler* classes ! *One*, conducted with ability — and with great sacrifice by the spirited patrons of it, to the honour of their country — *one* acknowledged as worthy of support, by high critical authorities *not* Welsh — has at last *ceased to circulate for want of that support* from the *gentry*. Other orders, seventeen — the gentry *not one : verbum sat*. ...
+
+He then has something of a selfish moment:
+
+> [p17] Finally, in extenuation of what will perhaps be deemed presumptuous ambition thus announced, the writer begs it may be remembered, that he is pleading for no novelty in composition, which he conceits himself the inventor of, but merely a bona fide return to that honest, *heartfelt*, *fearless* tone of expression, which distinguished our glorious old dramatists — for a *little* indulgence to those flowers, even in prose, which Jeremy Taylor did not deem unworthy of even divinity, nor Bacon disdain to strew, even copiously, over philosophy's rugged path.
 >
 > ...
 >
-> Owing to this mode of life, he has acquired the habits of the mountaineers, men who hav- ing nothing to cloak, and no part to act, throw themselves open to a stranger at once, and expect the same from him. Hence he often startles a worldly man by questions such as children only ask, but men in a less artificial state of society might rationally ask also. '^ How old are you, sir?" or, "Did you retire from the world for pleasure; or from disap- pointment, embarrassment, or" — These may serve to exemplify this species of oddity in him.
+> Resigning the auctorial pompous periphrasis of the third person I shall entreat, '"beloved reader," your indulgence for much quaintness, perhaps obscurity, certainly much ignorance of the *outer* world at least, which I feel assured that you will discover in these pages. Doubtless, if I be as ignorant of the heart and human character, as I am of the world and the worldly character, my authorship will be a woful failure.
+>
+> Something, I hope, is to be allowed for the self-delusions of an almost literal hermit. Shut up or wandering among mountains for these many years past, conversing with few but the rudest people, I have not the advantage of literary or other refined society, to freshen my stagnating thoughts, or correct my erroneous ones ; to tell me where those thoughts are not duly elicited, or where it were more graceful to suppress them. I am my own adviser and my own critic, my own "pensive public," and hence, perhaps, ought to be less-severely quizzed if I become, as in the previous lines — my "own trumpeter." Nor do mountains alone constitute my solitude, but the misfortune of antedating old age by the loss of friends. The splendid streets of your huge metropolis, with their immense throngs of people, are to some few bosom-aliens among them, more deeply solitary than mountain-avenues, with their multitude of trees and moving flocks. For myself, I can say that the mighty "hum" of those crowds no more disturbs me, who neither share in the chase of their many interests nor swell the cry, than does the constant roar of the cataracts of my home country. Nor do I state this without a latent conceit that possibly such a recluse, addressing such an audience as the "Reading Public" may be regarded as a curious kind of monster. In such solitude, it is natural for the unguided mind (especially if in the old time enthusiastic) both to hope and despond to excess. I have however reached that stage of "life's poor play" when a writer (and still more if he be a parent) has a darker fear than that of the critic "before his eyes" — Death. ...
+
+We then get elements of the framing tale:
+
+>
+> [p23] EPISTOLARY POEM
+>
+> To Dr. Edward Hogg, London.
+>
+> ...
+>
+> [p24] I have also commenced fulfilling thy request (which I am aware was but a further mental recipe in disguise) to keep a sort of travelling Diary for thy amusement ; to transmit any traditions of a curious nature I might pick up from hoary chroniclers— any of those strange dramas of real life, and village life, often romantic beyond romance, which the obscurity of village annals eternally secludes from popular notice. You suggested also, that I should write some- thing in the shape of a Tour, and I told you — (mind, I perfectly remember that *Thou* art not more than one man, when I use the plural pronoun, and do not be puffed up therefore) — I told thee that I would do no such thing — I hated Tours (of Wales above all) — I hated Tourists ; that they come to mountains as *gentlemen* travellers ; "bring with them airs from" the — *hell* I had almost said — of pestilent London, and they attract fashionable travellers, all on the hunt for those pastoral and peaceful charms of landscape, which eternally keep yielding up the ghost — losing the very essence of their attractions at the mere presence of their pursuers, and their frivolous retinue of menial followers — the corruption of whose society is strangely rapid among the simpler Welsh folk. Wherein one may liken such lovers of primitive life to the anatomists of Pope's simile, who,
+>
+> "Following life in creatures they dissect, 
+"Still lose it in the moment they detect."
+>
+> All this and more I remarked then ; but I have come to a sort of compromise between your imposition of a task, and my aversion. What if I try to mingle the Novel with the *spirit* of a Tour, to *print* the *zest* of travelling and petty adventures, in the "breach" of mountains almost meeting, the perils of the green bog, &c. ? This mere spirit will amalgamate with such narratives as Welsh domestic history is rich in; nor will you fail to receive some portion of that knowledge of the "natives" which books of travels teach, even from such gossiping and little didactic method ; knowledge possibly not the less pleasant for being only incidental.
+>
+> [p29] Now, as to the travelling part of my Diary, distinct from the story-telling — I can truly assure thee that there is matter in abundance for rational curiosity, left in Wales, and, what is better, strong vestiges of what we may surely characterise as patriarchal life, if life as rudely simple, yet happy, as that recorded of very early times may be so designated. The *secluded* Welsh breeder of sheep and tender of cattle, leads a life of solitary wildness truly curious to the curious in man's nature — one of pastoral peace, if not pastoral vagrancy, that leaves little to the imagination to fill up for that of an ancient man of woolly wealth, or a modern one among the Bedouin Arabs.
+>
+> When you read of the picture of primitive modes of even Cambrian life being now wholly lost, of MacAdam and the schoolmaster having swept both Ignorance and Pastoral in their primitive character out of Britain, you may, I am very sorry and happy to say, suspend your belief. Tourists — bookmakers I mean — follow the routes of predecessors, and see with their eyes, and nothing beyond ; thence I believe it is that so little is known of the domestic lives and characters of the direct descendants of the Britons, our fellow countrymen. ...
+>
+> [p33] Such then being the kind of entertainment which for ten days I propose to provide for thee, I shall first ask, Art thou willing to take a cup of tea and a tale with us under some "romantic mountain forest-crowned" ? To sit at our tent's mouth on some sunshiny sod, betwixt a hanging wood and water, "far from the haunts of men" (yet peradventure busier with man than ever), sung to by the woodlark or cuckoo, or plained to by the owl, possibly ? for our odd amateur-gypsy the Doctor, is fond of reading on into the night, by a very bright moon, or his little lamp when the night is sultry and still. If possible I will make you our guest, without endangering you by night air, or bivouac, or dewy greensward, by remitting you the very feeling of the hour, at the hour, by putting forth my writing tools, even by that lamp if day's be "burned out." (My own health has vastly improved under this novel regimen.) Although weeks or months may elapse before you receive these my dispatches, "written on the field" — of flowers, not of blood — still I prefer penning them on the spur of the occasion — (the spur of the scenic and pictorial beauty of landscape) to writing from mere cold recollection when the glow of the moment is gone for ever.
+>
+> Moreover, be not surprised, if, after my taking leave of thee at night in this my most disorderly Diary, you find me (or us) by the place I date from next morning, to have taken a miraculous night journey, too long for aught but seven-leagued boots or the Chapel of Loretto to perform. Understand, in explanation, that this next day in the journal is *not* our next day, but the first *agreable* next day, as I shall observe the plan of selection both in the romances and our daily travels. We shall have stages dreary as well as pleasant ; and our storyteller, the Doctor, will have his intolerable tales as well as his tolerable. These unhappy stages or prosing tales, which I must suffer myself — far be it from me to inflict on thee. Hence my Diary will be any thing rather than one of ten *continuous* days. For example, I date this from the vicinity of the conflux of the Wye and Irvon, a grotesque nook of the latter near the end of its course, full of rocky ledges, making it a grand and rude channel, down which its whitening waters foam, and roar and tumble very nobly — but our travels will begin in North Wales.
 
 ## The Last "Sin-Eater" in Wales
 
-Of perhaps most interest to us in *The Mountain Decameron* is the following tale, *The Last "Sin-Eater" of Wales*, which we can find in [Volume 3, pp232-6](https://archive.org/details/mountaindecamero03down/page/232/mode/2up?q=sin+eater), for example,
+Of perhaps most interest to us in *The Mountain Decameron* is the following tale, *The Last "Sin-Eater" of Wales*, which we can find in [Volume 3, pp232-6](https://archive.org/details/mountaindecamero03down/page/232/mode/2up?q=sin+eater) on the *Eighth Day*:
 
 > But a yet further introduction is needful, (ere entering on their story,) touching a curious superstitious practice not very long obsolete in Wales.
+>
+> THE MOUNTAIN-DECAMERON
+>
+> THE LAST "SIN-EATER" OF WALES.
+>
+> A SKETCH, INTRODUCTORY TO THE FRAGMENTS OF THE LIFE, &c. OF JULIAN ACOSTA.
 >
 > So late as the earlier part of the last century that strange character of a stranger superstition, known by the name of "The Sin-Eater" was not unknown in Wales. This was some desperate being, who, (unless we suppose him an unbeliever) being past redemption, lost to all hope of salvation, did for a slight reward, or to gratify the relatives of one lying dead, take on his own soul all the sins of the deceased by a formal act, sometimes receiving confessions during life, and bargaining for the burthens thus to be imposed on his already laden soul.
 >
@@ -190,9 +218,13 @@ An excerpt in The Glamorgan Monmouth and Brecon Gazette and Merthyr Guardian on 
 > So late as the earlier part of the last century, that strange character of a stranger superstition, known by the name of "The Sin-Eater," was not unknown in Wales. This was some desperate being, wno, (unless we suppose him an unbeliever)- being past redemption, lost to all hope of salvation, did for a slight reward, or to gratify the relatives of one lying dead, take on his own soul all the sins of the deceased by a formal act, sometimes receiving confessions during life, and bargaining for the burthens thus to bo imposed on his already laden soul.
 >
 > Mr Fosbroke, in an account of the town of Ross, quotes a letter, I forget bv whom, (but I have an idea by Mr Kyrle, the Man of Ross,") which describes a "Sin-Eater," who "lived by Ross highway," and is described as a gaunt, ghastly, lean, miserable, poor rascal."
->
+
+Fosbroke wrote *Ariconensia*, and was quoting Aubrey by way of *Popular Antiquities*. (Thus far, I have found no other mentions of John Kyrle mentioning the sin-eater.)
+
 > If we consider these persons as probably not less believers than those who employed them, it is not easy to imagine a condition of the mind more terrific, desolate, and desperate, than theirs; thus more and more removed from the hope of mercy with every death, and assurance of perdition doubly sure.
->
+
+In the following section, have we now stepped away from traditional beliefs and folklore and entered into the realm of the imagination of Joseph Downes?
+
 > A gentleman who lived a little before the time of this dark superstition becoming obsolete, gives us this brief account of what is believed to have been the last "Sin-Eater of Wales".
 >
 > "I got lost," savs he, "near nightfall, after being landed by the ferry-boat from the Aber of Dovey, on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was to gain that between Penyboat village and Machynlleth town. I was cautioned to ride far round this pitchy morass, for no horse ever ventured among the peat pits -the whole being a quaking morass. In truth its look was enough, under a black evening, to keep me off, even without peril of eing swallowed, man and horse. It forms a great brown-black triangle of land, without a tree, or any vegetation but patches of gorse. Yet the piles of *mawn*, (all fetched a way by persons on foot) diversified the dismalness with a sort of low walls, and between was gleaming of some water, from the many holes whence it is dug. Till the moon went down, which lit me a space, I could just distinguish these dismal pools and cuts like canals, by its glimmer. I never saw ought so dismal in mv own country as this great turbarv of hollow ground looked, a huge green-roofed pit, the pitchy mud thus betraying itself every where, as the large moon, looking red as blood in a foul fog stagnating all over it, took leave of it, and its brown grew browner, and that browner black, till the last to be seen was one horrid blackness, where nothing lived, and nothing was heard but the low roar of the sea washing it on two sides, like the hum of some great city. That deep-voiced murmur of the sea so sounding like a thousand voices, made it more shocking to look upon, the space between, as dumb as a great grave. More than once I thought a light glimmered in the very midst, but I took it for the Jack-a-lantern, if not something worse, for I had heard of Wreckers, and there had been a shipwreck, the weather wild, and even the day had been hardly light.
@@ -263,50 +295,33 @@ https://archive.org/details/dli.bengal.10689.7591
 
 ## More Curious Customs, 1838-1849
 
+In the *Hereford Times* of [Saturday, May 5th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004), the following "curious custom"is described:
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004
-
-Hereford Times
-Saturday 05 May 1838
-p?
-
-VARIETIES.
-
-... 
-
-Curious Custom.
-
-A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended by a professed "sin-eater," hired to take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing, apparently, like Esau, to sell their birthright for a mess pottage. 
+> Curious Custom.
+>
+> A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended by a professed "sin-eater," hired to take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing, apparently, like Esau, to sell their birthright for a mess pottage.
 ...
 
 
 [This appeared earlier in the Inverness Courier - Wednesday 28 February 1838 ]
 
----
 
+The *Hereford Journal*  of [Wednesday, July 11th, 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18490711/025/0004) also describes the following "indecorous customs":
 
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18490711/025/0004
-
-Hereford Journal
-Wednesday 11 July 1849
-p?
-
-INDECOROUS CUSTOMS.
-
-The irreverent practice properly condemned in the following extract from Southey's *Common-place Book*, has prevailed at assize-sermons in both Worcester and Hereford Cathedrals. If, when the beautiful edifice at the latter city shall be re-opened for Divine Service, the Bishop, or rather the Dean as the Ordinary, shall abate a nuisance which prevents all seriousness in the worship, general approval will follow ; there will be no fear that those who effect so desirable reform will incur the fate which is i spoken of in the following extract as threatened to Dr. i Lake:— 
-
-"In the cathedral of York an indecent custom, not yet abolished in some other cathedrals, prevailed of walking and talking loudly in the nave during prayers, so that the congregation were often interrupted in their devotions. Dr. Lake, however, was a resolute disciplinarian, and resolved to break so indecent and profane usage; but the mob were so mnch exasperated by the attempt that, after breaking open the south door of the cathedral, they assaulted the residentiary his own house, and having stripped it of part of the tiles, would probably have murdered him had he not been seasonably rescued by Captain Honeywood, the deputy-governor of the castle."— Whittaker's *Loidis and Elmete*, p. 37.
-
-To turn from Hereford Cathedral to the villages of the county, we heartily wish the practice of eating and drinking at funerals, described in the annexed extract, were abolished. The English loudly and justly condemn the frantic *wakes* of the Irish ; but is their own custom of eating dainty luncheons accompanied with Maderia and *liquers* to be commended? Lord Byron's satire is painfully true:
-
-"There's deal of fun 
+> INDECOROUS CUSTOMS.
+>
+> The irreverent practice properly condemned in the following extract from Southey's *Common-place Book*, has prevailed at assize-sermons in both Worcester and Hereford Cathedrals. If, when the beautiful edifice at the latter city shall be re-opened for Divine Service, the Bishop, or rather the Dean as the Ordinary, shall abate a nuisance which prevents all seriousness in the worship, general approval will follow ; there will be no fear that those who effect so desirable reform will incur the fate which is i spoken of in the following extract as threatened to Dr. i Lake:— 
+>
+> "In the cathedral of York an indecent custom, not yet abolished in some other cathedrals, prevailed of walking and talking loudly in the nave during prayers, so that the congregation were often interrupted in their devotions. Dr. Lake, however, was a resolute disciplinarian, and resolved to break so indecent and profane usage; but the mob were so mnch exasperated by the attempt that, after breaking open the south door of the cathedral, they assaulted the residentiary his own house, and having stripped it of part of the tiles, would probably have murdered him had he not been seasonably rescued by Captain Honeywood, the deputy-governor of the castle."— Whittaker's *Loidis and Elmete*, p. 37.
+>
+> To turn from Hereford Cathedral to the villages of the county, we heartily wish the practice of eating and drinking at funerals, described in the annexed extract, were abolished. The English loudly and justly condemn the frantic *wakes* of the Irish ; but is their own custom of eating dainty luncheons accompanied with Maderia and *liquers* to be commended? Lord Byron's satire is painfully true:
+>
+> "There's deal of fun 
 In mourning-coaches when the funeral's done."
-
-In the county of Hereford was an old custom at funeralsto hire poor people who were to take upon them all the sins of the party deceased and were called 'sin-eaters.' One of them, I remember, lived in a cottage on the Ross highway. The manner was this: when the corpse was brought out of the house and laid on the bier, a loaf of bread was delivered to the sin-eater over the corpse, as also a mazar bowl (a gossip's bowl of maple) full of beerm which he was to drink up, with sixpence of money; in consequence, whereof, he took upon himself, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead. In Noerth Wales the sin-eaters are frequently made use of; but there, instead of a nbowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest times of the Presbyterian government; and at Dyndar, *volens nolens* the parson of the parish, the relations of a woman deceased there had the ceremony performed punctually according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar-bowl for the sin-eater; and in other places in this county, as also at Brecon, at Llangore, where Mr. Gwin, the minister, about 1640, could not hinder this superstition." — Aubrey of Gentilisme, MS., quoted Kennet's Par. Ant. ii. 276
-
-To the practice last mentioned of giving to the poor at funerals, we have no objection, except the fear of the distribution of the doles not being made "decently and in order."
+>
+> In the county of Hereford was an old custom at funeralsto hire poor people who were to take upon them all the sins of the party deceased and were called 'sin-eaters.' One of them, I remember, lived in a cottage on the Ross highway. The manner was this: when the corpse was brought out of the house and laid on the bier, a loaf of bread was delivered to the sin-eater over the corpse, as also a mazar bowl (a gossip's bowl of maple) full of beerm which he was to drink up, with sixpence of money; in consequence, whereof, he took upon himself, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead. In Noerth Wales the sin-eaters are frequently made use of; but there, instead of a nbowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest times of the Presbyterian government; and at Dyndar, *volens nolens* the parson of the parish, the relations of a woman deceased there had the ceremony performed punctually according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar-bowl for the sin-eater; and in other places in this county, as also at Brecon, at Llangore, where Mr. Gwin, the minister, about 1640, could not hinder this superstition." — Aubrey of Gentilisme, MS., quoted Kennet's Par. Ant. ii. 276
+>
+> To the practice last mentioned of giving to the poor at funerals, we have no objection, except the fear of the distribution of the doles not being made "decently and in order."
 
 ---
 
