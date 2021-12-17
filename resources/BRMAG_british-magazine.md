@@ -23,8 +23,7 @@ The Sunday after a marriage they come to church with their friends and relations
 
 When they bless another, they are very apt to add to the blessing of God, *the blessing of White Mary*.
 
-The night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with him some small present of meat, bread, or drink, (if the family be something poor,) but more especially candles, whatever the family is; and this night is called wl nos, whereby the coun corer a wyl *nos*, whereby the country people seem to mean a *watching night*. Their going to such a house they say is *i wilio corph*, i.e., to watch the corpse; but *wylo* signifies to
-weep and lanent, and so *wyl nos* may be a night of lamentation. While they stay together on these nights, they are either singing psalms or reading some part of scripture.
+The night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with him some small present of meat, bread, or drink, (if the family be something poor,) but more especially candles, whatever the family is; and this night is called a *wyl nos*, whereby the country people seem to mean a *watching night*. Their going to such a house they say is *i wilio corph*, i.e., to watch the corpse; but *wylo* signifies to weep and lament, and so *wyl nos* may be a night of lamentation. While they stay together on these nights, they are either singing psalms or reading some part of scripture.
 
 Whenever anybody comes into the room where a dead corpse lies, especially the *wyl nos*, and the day of its interment, the first thing he does he falls upon his knees by the corpse and saith the Lord's prayer.
 
