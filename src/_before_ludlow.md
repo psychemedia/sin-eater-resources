@@ -129,7 +129,7 @@ On p. LXXVI, we have the comment regarding the "old Sire":
 >
 > Letter from John Bagford
 >
-> Within the memory of our Fathers in Shropshire, in those Villages adjoyning to Wales when a Person dyed, there was notice given to an old Sire, (for so they call'd him,) who presently repair'd to the Place where the deceased lay, and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the Door. Then they gave him a Groat, which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket, and pronounced with a composed Gesture, *The safe and rest of the Soul departed, for which he would pawn his own Soul". This I had from the ingenious John Aubrey Esq; who made a Collectìon of curious Observations, which I have seen, and is now remaining in the Hands of Mr. Churchill the Bookseller. How can a man think otherwise of this, than that it proceeded from the ancient Heathens?
+> Within the memory of our Fathers in Shropshire, in those Villages adjoyning to Wales when a Person dyed, there was notice given to an old Sire, (for so they call'd him,) who presently repair'd to the Place where the deceased lay, and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the Door. Then they gave him a Groat, which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket, and pronounced with a composed Gesture, "The safe and rest of the Soul departed, for which he would pawn his own Soul". This I had from the ingenious John Aubrey Esq; who made a Collectìon of curious Observations, which I have seen, and is now remaining in the Hands of Mr. Churchill the Bookseller. How can a man think otherwise of this, than that it proceeded from the ancient Heathens?
 
 The letter is signed off as follows:
 
@@ -139,7 +139,7 @@ The letter is signed off as follows:
 
 So we can date this observation back at least to c. 1714.
 
-We also note that the letter has a little more detail regarding the current whereabouts of Aubrey's papers – * and is now remaining in the Hands of Mr. Churchill the Bookseller* – as well as a comment regarding the deeper history of the story: *How can a man think otherwise of this, than that it proceeded from the ancient Heathens?*.
+We also note that the letter has a little more detail regarding the current whereabouts of Aubrey's papers – *and is now remaining in the Hands of Mr. Churchill the Bookseller* – as well as a comment regarding the deeper history of the story: *How can a man think otherwise of this, than that it proceeded from the ancient Heathens?*
 
 ```{admonition} John Leland
 :class: dropdown
@@ -164,7 +164,7 @@ and who we consider might be George Spencer-Churchill, the 5th Duke of Marlborou
 
 The *History of Parliament* biography of Churchill continues:
 
-> Despite his strongly Whig sympathies, Churchill remained on friendly terms with his Tory kinsman George Churchill*: he was the first to break the news of the admiral's death to the Duke of Marlborough, who thanked him for the 'kind concern' he had shown, and he was appointed an executor of George's will. Awnsham had nevertheless always shown a reluctance to approach Marlborough for patronage, preferring the independence his trade gave him.
+> Despite his strongly Whig sympathies, Churchill remained on friendly terms with his Tory kinsman George Churchill: he was the first to break the news of the admiral's death to the Duke of Marlborough, who thanked him for the 'kind concern' he had shown, and he was appointed an executor of George's will. Awnsham had nevertheless always shown a reluctance to approach Marlborough for patronage, preferring the independence his trade gave him.
 
 so we know that they were on good terms.
 

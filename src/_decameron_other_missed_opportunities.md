@@ -12,7 +12,7 @@ The British Magazine and Monthly Register of Religious and Ecclesiastical Inform
 >
 >(From a MS, book of a Bp. of St. Asaph, written about a century ago.)
 
-This attribution is an odd on: a list of [Bishops_of_St_Asaph](https://en.wikipedia.org/wiki/Bishop_of_St_Asaph#List_of_the_Bishops_of_St_Asaph) turns up no names I recognise, but the first quote below appears to come more or less directly from the manuscript ascribed to Pennant in *Popular Antiqities*:
+This attribution is an odd on: a list of [Bishops_of_St_Asaph](https://en.wikipedia.org/wiki/Bishop_of_St_Asaph#List_of_the_Bishops_of_St_Asaph) turns up no names I recognise, but the first quote below appears to come more or less directly from the manuscript ascribed to Pennant in *Popular Antiquities*:
 
 > The night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with him some small present of meat, bread, or drink, (if the family be something poor,) but more especially candles, whatever the family is; and this night is called a *wyl nos*, whereby the country people seem to mean a *watching night*. Their going to such a house they say is *i wilio corph*, i.e., to watch the corpse; but *wylo* signifies to weep and lament, and so *wyl nos* may be a night of lamentation. While they stay together on these nights, they are either singing psalms or reading some part of scripture.
 >
@@ -90,7 +90,7 @@ In Volume 1 of [*The Mountain Decameron*, 1836](https://archive.org/details/moun
 >
 > Owing to this mode of life, he has acquired the habits of the mountaineers, men who hav- ing nothing to cloak, and no part to act, throw themselves open to a stranger at once, and expect the same from him. Hence he often startles a worldly man by questions such as children only ask, but men in a less artificial state of society might rationally ask also. '^ How old are you, sir?" or, "Did you retire from the world for pleasure; or from disap- pointment, embarrassment, or" — These may serve to exemplify this species of oddity in him.
 
-## "The Last "Sin-Eater" in Wales
+## The Last "Sin-Eater" in Wales
 
 Of perhaps most interest to us in *The Mountain Decameron* is the following tale, *The Last "Sin-Eater" of Wales*, which we can find in [Volume 3, pp232-6](https://archive.org/details/mountaindecamero03down/page/232/mode/2up?q=sin+eater), for example,
 
@@ -261,7 +261,7 @@ Publication date 1838
 pp. 336-337
 https://archive.org/details/dli.bengal.10689.7591
 
-## More Curious Customs
+## More Curious Customs, 1838-1849
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004
