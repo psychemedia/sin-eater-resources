@@ -9,7 +9,7 @@ p??
 
 Breconshire
 
-The forthcoming work, called "The Mountain Decameron, is licely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well)—thc Panty Gwaye (the Hollow of Woe)—the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blook of Man). What terrible mysteries do these more than half unveil, and by a single name!
+The forthcoming work, called "The Mountain Decameron, is likely to enrol its writer as one of the most potent masters of fiction. The scene is Wales, a land abounding in the highest materials of romance, but till now unaccountably neglected. The common nomenclature of its topography involves themes of deep mystery and overpowering interest. There is the Fynnon Waedog (Bloody Well) — the Panty Gwaye (the Hollow of Woe) — the Maen Achwynfan (the Stone of Weeping)–the Lysan Gwad Gwyr (the Plant of the Blood of Man). What terrible mysteries do these more than half unveil, and by a single name!
 
 ---
 
