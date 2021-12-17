@@ -77,7 +77,6 @@ Quo vadam nescio ;
 Invitus morior ; 
 Valete, posthumi." — Old Epitaph.
 
-
 There lived formerly a solitary man, whose habits might have suggested the idea of "Old Mortality" to the great Novelist, had not a Scottish prototype existed. To say he *lived* in Wales, would have been contradicting all traditional authorities, which all concur in asserting that he *lived* nowhere. However, the chief and the last scene of his Wanderings was the Principality. The object of his perpetual travel was (though innocent enough) at least a less religious one than that of the Scottish wanderer. This man's was to watch the last acts of the eventful Drama of Life — hunting, throughout the range of his restless excursions, whatever human beings especially struck his fancy, or touched his heart, quite up to the mortal issue of their being's adventure : for what but a perilous adventure is every born man's emergence from the night of unessential Nought ? — the grand (but hazardous) privilege to *earth* (as yet nothing sufferings nothing fearing) — of starting up a figured creation with the breath of the Almighty in "its nostrils" to fear much, suffer more, enjoy little ?
 
 Not the last, however — the death-bed scene alone — was the quarry at which the melancholic curious man flew, but whatever results of passions, or virtues, or failings, might follow those predisponent events, often decisive as death, long before the day of natural death.
@@ -138,8 +137,6 @@ It will be the work of the following pages to give some "passages" of their live
 But a yet further introduction is needful, (ere entering on their story,) touching a curious superstitious practice not very long obsolete in Wales.
 
 ---
-
-
 
 https://archive.org/details/mountaindecamero03down/page/232/mode/2up?q=sin+eater
 
