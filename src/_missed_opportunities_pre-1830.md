@@ -8,7 +8,7 @@ In this chapter, we'll see whether there were any other popular, or at least, pu
 
 ## Pennant's *Tours in Wales*, 1783
 
-The first item worthy of note is [part 2](https://web.archive.org/web/20141026214727/http://ota.ahds.ac.uk/text/5179.html) of *A Tour in Wales* by Thomas Pennant, first published in 1783 but recalling a tour from several years previously. The "Advertisement" at the front of the book is signed off by Downing on March 1st, 1781.
+The first item worthy of note is [part 2](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.002/K105973.002.html?sequence=5&isAllowed=y) of *A Tour in Wales* by Thomas Pennant, first published in 1783 but recalling a tour from several years previously. (See also: [part 1](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.001/K105973.001.html?sequence=5&isAllowed=y) and [*A Tour in Scotland*](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K112026.000/K112026.000.html?sequence=5&isAllowed=y)) The "Advertisement" at the front of the book is signed off by Downing on March 1st, 1781.
 
 On page 338, we find the following reference to a funeral custom involving a food offering, drink and a payment made to a poor visitor:
 
@@ -21,6 +21,8 @@ On the previous page, page 337, is another custom that is worthy of remark:
 > THE well of St. Aelian, a parish not far from Llandrillo in Caernarvonshire, has been in great repute for the cures of all diseases, by means of the intercession of the saint; who was first invoked by earnest prayers in the neighboring church. He was also applied to on less worthy occasions, and made the instrument of discovering thieves, and of recovering stolen goods. Some repair to him to imprecate their neighbors, and to request the saint to afflict with sudden death, or with some great misfortune, any persons who may have offended them. The belief in this is still strong; for three years have not elapsed since I was threatened by a fellow (who imagined I had injured him) with the vengeance of St. Aelian, and a journey to his well to curse me with effect.
 
 In this case, it seems that prayers at to a holy well associated with St Aelian can be used to call forth a curse on one who has wronged the person uttering the imprecation. It's not clear what the process for "discovering thieves" is, but I am intrigued to find out.
+
+Further observations ascribed to Pennant appear in 
 
 ## Bingley's *North Wales*, 1804
 
@@ -169,7 +171,7 @@ This sections all appear under the same name, and in related form, in *Popular A
 > The Jews used trumpets instead of bells. The Turks do not permit the use of them at all. The Greek Church under their dominion still follow her old custom of using wooden boards, or iron plates full of holes, which they hold in their hands and knock with a hammer or mallet, to call the people to church. China has been remarkably famous for its bells. Father Le Compte tells us, that at Pekin, there are seven bells, each of which weighs 120,000 lbs.
 ```
 
-```{admonition} Watching With The Dead ("Wakes")
+```{admonition} Watching With The Dead ("Wakes", "wyl nos")
 :class: dropdown
 
 > WATCHING WITH THE DEAD.—This is called in the North of England the *Lake Wake*, a name plainly derived from the Anglo-Saxon *lic* or *lice*, a corpse, and *waece* or *wake*, a vigil or watching. It is used, in this sense by Chaucer, in his "Knight's Tale :"
