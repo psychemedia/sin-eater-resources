@@ -75,7 +75,9 @@ Publication date 1813
 
 
 p140
-"In North Wales," says Mr. Pennant's MS. to often quoted in the former Volume of this Work, (speaking of the Manners of the eighteenth Century,) " the Night before a dead body is to be in- terred, the friends and neighbours of the deceased resort to the House the corpse is in, each bring- ing with him some small present of Bread, Meat, Drink, (if the family be something poor ;) but more especially Candles, whatever the Family be : and this Night is called wyl n&s, whereby the country people seem to mean a Watching Night. Their going to such a House, they say is, i wilior corph, i. e. to watch the corpse ; but wylo signifies to weep and lament, and so wyl nos may be a night of lamentation : while they stay together on that night they are either singing Psalms, or reading some part of the Holy Scriptures
+"In North Wales," says Mr. Pennant's MS. to often quoted in the former Volume of this Work, (speaking of the Manners of the eighteenth Century,) "the Night before a dead body is to be interred, the friends and neighbours of the deceased resort to the House the corpse is in, each bringing with him some small present of Bread, Meat, Drink, (if the family be something poor ;) but more especially Candles, whatever the Family be : and this Night is called *wyl nôs*, whereby the country people seem to mean a Watching Night. Their going to such a House, they say is, *i wilior corph*, i. e. to watch the corpse ; but *wylo* signifies to weep and lament, and so wyl nôs may be a night of lamentation : while they stay together on that night they are either singing Psalms, or reading some part of the Holy Scriptures.
+
+"Whenever any body comes into a Room where a dead Body lies, especially the wyl nôs and the day of its Interment, the first thing he does, he falls on his knees by the Corps, and says the Lord's Prayer."
 
 p144 Streeking
 
