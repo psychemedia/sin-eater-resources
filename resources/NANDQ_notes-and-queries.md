@@ -156,8 +156,58 @@ E. B.
 
 ---
 
+https://archive.org/details/sim_notes-and-queries_1876-12-23_6_156/page/504/mode/2up
 
 
+Notes and Queries  1876-12-23: Vol 6 Iss 156
+Publication date 1876-12-23
+
+p505
+
+Tue Six-Eater.—This odd term, with the ex- planation (quoted in Brand’s Antiquities), recently turned up in a newspaper article advocating “funeral reform ”:—
+
+“ Our good friend the opulent cheesemonger, or our other good friend the wealthy drysalter, is interred with ceremonies befitting a baron. Says an authority on the subject :—‘ The mutes who stand at the door represent the two porters of the castle, with their staves in black ; the man who heads the procession, wearing a scarf, is the herald-at-arms ; the man who carries the plume of feathers on his head is an esquire, who bears the shield and casque with its plume (of feathers) ; the pall-bearers, with batons, represent the knight companions-at-arms ; and the men walking with wands the gentlemen ushers’; and so on throughout the rest of the performance. There are, however, distinct indications of revolt against this absurdity, and much beside that pertains to the burial of the dead. We have won the right of bei buried with or without Church sanction in consecra or unconsecrated ground, and with entire liberty as to the sort of service to be adopted on the occasion. Those who desire it can have the attendance of a priest at the grave, but he is no more indispensable than a sin-eater. * And what,’ the reader asks, ‘is a sin-eater?’ Well, he is not a person easy to find in these days, but followed an indispensable occupation in the past. He was gene- rally an old man, the Pariah of a village, who, before every funeral, went and stood at the door of the house, where was given him a sixpence, a loaf of bread, anda wooden bowl of beer or milk. And as the coffin passed out, he ate the bread and swallowed the draught, and in so doing took upon himeelf the sins of the departed, and went his way. We are well rid of the sin-eater, who throve in the last century ; but there still linger around us customs and usages hardly less preposterous.”
+G. E. Watson.
+St. George's Place, Dublin.
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1877-01-06_7_158/page/n15/mode/2up
+
+Notes and Queries  1877-01-06: Vol 7 Iss 158
+Publication date 1877-01-06
+
+
+p14
+
+Tne Six-Earer (5 §, vi. 505.)—
+
+ Mr. Wartsox may perhaps not be aware of very curious ar ilmost el | parallel to this Yorkshire relig ceremony, superstition, or whatever it may called, in the book on Turkistan recently pul
+He found it, if I remer
+ber right, among the Mussulmans of Khokand } + oll Uieets ‘estietees al aa a regular part of their religious observances. A. C. B. | [See “N. & Q.,” 1* S. vi. 300, 541.] 
+
+
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1878-01-26_9_213/page/n3/mode/2up
+
+Notes and Queries  1878-01-26: Vol 9 Iss 213
+Publication date 1878-01-26
+
+p65
+
+THe CORPSE CANDLE
+
+The belief in the appearance ...
+
+
+
+---
+
+
+
+----
 
 Notes and queries
 
@@ -245,6 +295,33 @@ p25
 Wetsn Fork-tore: tHe Six-Eater.—The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
 “The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caer- marthenshire. The meaning of this most singular in- stitution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person; he then uttered an in- cantation over the bread, after which he proceeded to eat it—thereby eating the sins of the dead person; this done, he received a fee of two-and-sixpence—which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious super- stition was everywhere prevalent.”
 Cf. “Old Yorkshire Customs,” “N. & Q.,” 6th S. vi. 146 ?? 144?, 273. Freperick E, Sawyer. Brighton,
+
+----
+
+https://archive.org/details/sim_notes-and-queries_1895-10-12_8_198/page/288/mode/2up
+
+Notes and Queries  1895-10-12: Vol 8 Iss 198
+Publication date 1895-10-12
+
+p288
+
+-zaTERS.— Recently this old custom has been referred to in a local paper ; but the rather con- tradictory illustrations given call for an explana- tion, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is = to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case,
+t Eek cheese, and beer on the breast of the
+ead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himeelf the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; ifso, where. The old custom referred to in Leland’s ‘ Collections’ was sin-eati e = and simple. Atrrep Cuas. Jonas, F.R.Hist.S.
+Pairfield, Poundfald, near Sweneea.
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1895-10-26_8_200/page/332/mode/2up
+
+p332
+
+Notes and Queries  1895-10-26: Vol 8 Iss 200
+Publication date 1895-10-26
+
+Sin-zaters (8 S, viii. 288).
+
+—See ‘N. & Q..,’ 1* S. iv. 211; vi. 390, 541, and the references there given. W. C. B.
 
 
 ---
@@ -772,3 +849,45 @@ old northern sacrificer. S. O. Addy.
 
 
 
+---
+
+
+https://archive.org/details/sim_notes-and-queries_1896-03-21_9_221/page/236/mode/2up
+
+Notes and Queries  1896-03-21: Vol 9 Iss 221
+Publication date 1896-03-21
+
+p236-7
+
+8th S. IX 
+
+Srn-EaTER (8 §, viii, 288, 332 ; ix. 109, 169). | Mr. Appy’s reference to my note in ‘N. & Q.’ is not quite accurate. I did not “forget to say” that Mr. Thomas’s letters to the Times were an ‘* attack” on Mr. Hartland, for the simple reason that the latter gentleman had assured me bis sole object was to get at the truth, and that he would welcome light from whatever quarter it came. The only thing in the = > of an “‘ attack” that I have seen was Mr. Hartland’s criticism on the supposed shortcomings of the venerable Welsh scholar Canon Silvan Evans. So far as I was personally concerned, I thoroughly enjoyed the way in which my own humble contributions to the controversy were handled, though that handling did not tend to enhance my respect for “ autho- rity”’ in matters of folk-lore, nor to deepen my confidence in the dovetailing method of working up accounts of custom and myth. Indeed, Mr. Hartland’s efforts varias inducere plumas
+Undique collatis membris ut turpiter atrum
+Pingeret dvépopayow (Fe-fi-fo-fum Auberiensem), furnish a lesson that will not, I hope, be thrown away on the guileless reader of the pronounce- ments of folk-lore ‘* authorities.”
+The only modern instance of so-called ‘‘sin- eating” adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Appy’s book. Aubrey |and Pennant, Moggeridge and the Pembrokeshire | minister were all found to be other than Mr. Hartland’s fancy painted them. I was unable to
+| find a copy of Mr. Appr’s work in the British Museum, but that gentleman’s own communica- tion to ‘N. & Q.’ induces me to ask him (1) if the term “‘sin-drinking” was employed by bis in-
+formant ; (2) if his informant was a Churchman |
+or a Dissenter; and (3) if he can see his way to publish the name of the locality where the * ritual ” described to and by him is practised.
+It was only, I believe, through my public avowal of scepticism as to the “ significance,” from a sin-eating point of view, of the Pembroke- shire minister's remarks at the Market Drayton
+funeral that Mr. Hartland was induced to sift |
+that tale. The result of his investigation war, if I may borrow Mr. Appy’s expression, “ effectual ” enough. The Market Drayton evidence—“ ovi- dence,” to — Mr. Hartland’s words in the Aca- demy for 9 Nov., “ such as could not be doubted ”
+—bad become two months later (Academy, 11.Jan.) |
+an “incident about which there had been some misapprehension”; while the minister’s words “would appear only to have had reference to the general custom of eating and drinking at funerals.” I did not attempt to argue with Mr. Hartland.
+Indeed, there was no need, for the above is only a | sample of the “effectual” way in which his own |
+arguments destroyed either themselves or one another. J. P. Owen, 48, Comeragh Road, W
+
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1896-04-11_9_224/page/296/mode/2up
+
+Notes and Queries  1896-04-11: Vol 9 Iss 224
+Publication date 1896-04-11
+
+p296
+
+8th S. IX
+
+Siy-zaTer (8 S. viii, 288, 332; ix. 109, 169, 236).—Mr. Owen has put three questions to me, which I answer specifically. (1) The term ‘‘sin- drinking” was not employed by my informant, nor does it occur in the text of my book. I used it in the index as the most convenient word for reference. (2) I do not know whether my in- formant was a Churchwoman or a Dissenter. (3) The name of my informant was Miss Alice Halifax, the daughter of a farmer, formerly living near Dronfield, in Derbyshire, afterwards at
+Ompton, in Nottinghamsbire, and now, I believe, near Newark. Miss Halifax collected folk-lore | for me, and I wrote it down from her dictation. | I am not aware that any ritual is now practised. 8. O. Appy.
+3, Westbourne Road, Sheffield,
