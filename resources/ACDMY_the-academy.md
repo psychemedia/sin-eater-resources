@@ -795,3 +795,93 @@ N. W. Thomas.
 
 ---
 
+
+https://archive.org/details/sim_academy-and-literature_1896-04-25_49_1251/page/346/mode/2up?q=sin+eater
+
+The Academy  1896-04-25: Vol 49 Iss 1251
+Publication date 1896-04-25
+
+p346
+
+
+THE SIN-EATER IN WALES. London: April 8, 1898.
+My only excuse for writing again on this subject in the AcApEMY is the belief that I have now run the Welsh “ Sin-eater ” to earth, and that, too, in the very parish understood to have been referred to by Moggridge at Ludlow.
+In 1844, Miss Anne Beale, the well-known writer of numerous tales and novels depicting various phases of life in Wales, published a small volume of sketches under the name of The Vale of the Towey. At that date Miss Beale was governess to the daughters of Mr. Williams, vicar of Llandefeisant, a small parish almost entirely swallowed up by Dynevor Park, where the church is situated. Practically, Liandefeisant may be looked upon as belonging to the parish of Llandilo; and, in the early forties, the southern end of that huge parish included a great portion of the ‘lawless mountain valley ” of Cwmamman.
+The sketches of Welsh manners and customs to be found in The Vale of the Towey are drawn from life, a little idealised, no doubt, but, apart from the slender thread of fiction on which they are strung, absolutely trustworthy. They were republished, I should add, by the Religious Tract Society in 1886, with the title altered into Seven Years for Rachel.
+So much being premised, I now proceed to give a few extracts from the fourteenth sketch, which is named “ The Ivorite’s Funeral” :
+** Pally is accordingly busily engaged in serving out a beverage that was once common at funerals, but is now comparatively seldom used. It is called abeilon, and is composed of the juice of the elderberry, rosemary, and other herbs, well spiced, and poured into hot ale, which is dis- tributed to the mourners, and drunk, notwith- standing the circumstances, with evident satis-
+action. All the assembly .. . . partake of the reeking drink, eat cake with it, and talk meanwhile of many things far removed from the solemn subject of death, though it would seem impossible to forget it in the presence of the corpse. When the party had drunk a sufficient quantity of abeilon, one of them, a tall, lank man, arose. . . . This was the Dissenting minister. . . . After quietly delivering the text, he pours forth at once a flood of words. . . . He then gives out a verse of a hymn, in which most of his congregation join. . . . The hymn being finished, the minister descends from his pulpit, and again enters the house. He is immediately attended by Rachel’s uncle and Pally, the former of whom slips five shillings into his hand in pay- ment for his sermon, whilst the latter offers a second glass of abeilon. Both are received with thanks . . and the preacher takes his depar- ture. . . . The preparations for bearing the body to its last resting-place now began. . . . At the turning of the lane another procession was seen approaching in an opposite direction. It was composed of the members of the Ivorite Olub, consisting of between two and three hundred persons, who joined the funeral, and preceded the coffin. Each individual wore a black scarf and hatband, and the general effect was very imposing. They wound their mournful way through the park until they reached the little church I have already attempted to describe. There they were met by the clergyman, and the solemn service began. The coffin rests in the aisle, and the church is filled with mourners. The first part of the service over, they proceed to the churchyard and surround the grave. . . . The sunbeams fall upon the dark forms of the mourners, and rest upon the coffin. . . . A few lumps of earth fall heavily upon the coffin. . . . The Ivorites now surround the grave. Hand in hand they encircle it, whilst each takes from his bosom a spric of rosemary and drops it upon the coffin. The last act completed, they stand for a few moments solemnly silent, then disunite and form into pairs.’’
+Moggridge, itmay be remembered, in his letter to Canon Silvan Evans (January 1, 1876), said that the only written account of the custom mentioned by him at Ludlow was Aubrey’s. If, therefore, somebody who had read the above account in Miss Beale’s book had told him of the “tall lank man” who poured forth ‘‘ a flood of words,” received ‘‘ five shillings,” drank a glass of abeilon, and then departed—all this “ritual” being quite distinct from the church service ; or if, which is still more probable, he had heard the tale, with inevitabie variations, at third or fourth hand, he may be excused for having seen in it a confirmation of Aubrey’s fable of the Sin-eater.
+The term abeilon, which is italicised in the republished sketch but not in the original one, is unknown tome. Itisnot to be found, nor anything like it, either in Owen Pughe’s Dic- tionary or in Silvan Evans’s. If the initial, however, is the definite article ‘‘y,” then we have (I now quote from Lewis’s Welsh Dictionary, 1805), meiliaid, “‘a dishful,” “a bowlful” ; meiliedyn, “as bowl” ; meilio, “to put in a bowl,” “to dish”; meilon, “‘powder,” ‘“‘dust,” “flour”; meiloni, ‘‘to reduce to powder,” ‘‘to become dust”; mail, ** a hollow vessel of wood; a vessel to hold milk; a bowl or basin.”
+May I, in conclusion, make an ingenuous confession? I was a leetle disappointed at finding this meilio derivation; for before I came upon it I had constructed a very pretty theory, by conjecturing that it was a form of ymbilion (‘‘ earnest entreaties,’’) degraded and disguised beyond recognition.
+J. P. OWEN.
+
+---
+
+https://archive.org/details/sim_academy-and-literature_1896-05-02_49_1252/page/366/mode/2up?q=sin+eater
+
+The Academy  1896-05-02: Vol 49 Iss 1252
+Publication date 1896-05-02
+
+p366
+
+THE SIN-EATER IN WALES. Cardiff April 27, 1996.
+Mr. J. P. Owen, writing under the above heading in the ACADEMY of April 25, seems to have mistaken the true meaning and etymology of abeilon, a term used in the neighbourhood of Llandilo, in Carmarthenshire. The a, prob- ably, as Mr. Owen suggests, represents the article ; but the word is composed of y bylon or y mylon, literally ‘‘edges” or ‘‘ margins,” and then ‘‘ perquisites” or “‘ gifts.” The bylon of which Miss Beall speaks were the customary perquisites given in the neighbourhood of Llandefeisant, and are still in vogue in some parts of Wales. The term is used in other parts of Carmarthenshire, and also in North Wales. It is the plural form of byl or myl, ‘ side,” ‘* edge,” or ‘‘ margin,’ and still heard in the phrase hyd y fyl, ‘‘to the brim,” or “ brimful.” It is a good word, and should have found place in every Welsh dictionary ; and it is somewhat strange that Chancellor Silvan Evans has not included it in his great work. Both forms, bylon and mylon, are heard in the neighbour- hood of Newcastle Emlyn, a locality with which the Chancellor is well acquainted.
+W. Erie Evans.
+
+---
+
+
+https://archive.org/details/sim_academy-and-literature_1896-05-09_49_1253/page/384/mode/2up?q=sin+eater
+
+The Academy  1896-05-09: Vol 49 Iss 1253
+Publication date 1896-05-09
+
+p385
+
+THE SIN-EATER IN WALES. Llanwrin, North Wales : May 4, 1896.
+Permit me to correct an error into which Mr. W. Eilir Evans has fallen, in his letter in the ACADEMY of May 2, regarding the word by/.
+He there states that ‘‘ it is somewhat strange that Chancellor Silvan-Evans has not included it [dy/j] in his great work.” The word is included in the dictionary referred to, and will be found, together with the phrase ‘‘llawn hyd y fyl,’’ in its alphabetical order on p. 600.
+HEnryY SILVAN-EVANS.
+[In justice to Mr. Silvan-Evans, we ought to say that the assertion he contradicts seems to have arisen from a misunderstanding. It was a former correspondent (Mr. J. P. Owen, in the ACADEMY of April 25) who affirmed that the (anglicised) Welsh word abei/on was not to be found in Silvan-Evans’s Welsh Dictionary. Mr. W. Eilir Evans, while supplying tbe real Welsh form by/, appear to have supposed that Mr. Owen’s assertion extended likewise to that.—Ed. ACADEMY. |
+
+---
+
+
+https://archive.org/details/sim_academy-and-literature_1896-05-16_49_1254/page/406/mode/2up?q=sin+eater
+
+The Academy  1896-05-16: Vol 49 Iss 1254
+Publication date 1896-05-16
+
+p407
+
+1896.
+The dissyllabic compound ymy/ is the ordinary Welsh word for “brim,” “edge,” &. In Carmarthenshire that word is pronounced imi!, the vowel in both syllables having the same. value as in the English word “limit.” The Irish and Gaelic cognates are imaell and iomall. In Cardiganshire and North Wales the vowel has a different sound, which the u of the English word ‘‘humble”’ will represent well enough. I cannot at present see my way to concede that Miss Beale’s abei/on has anything to do with ymy/ and its plural form ymylon, or with the very dubious variants y bylon and y mylon given by Mr. Eilir Evans. I cannot find myl as an independent word in the dic- tionaries; and this is what they say about its brother byl.
+Owen Pughe’s Dictionary’, 1832:
+** Byl, sm. pl. t. au (yl), a brim or edge. Yn llawn hyd y byl, being full to the brim, Sil[-urian]. This word is only used in North Wales in its com- pound forms, ymy/, cyfy/, and the like.”’
+Silvan Evans’s English - Welsh Dictionary (1858) has, under ‘‘ brimless,” “‘ a heart brimful of tears,” calon lawn o ddagrau hyd y byl.” The same distinguished lexicographer’s Welsh- English Dictionary has (p. 600) :
+‘*Byl (¥), sm. f.,a brim oredge; a rim. Liawn hyd y fyl, full to the brim, brimful. S[-outh} Wi-ales{.”
+But Mr. Eilir Evans says that y bylon and mylon not only mean ‘‘ edges ”’ or “‘ margins,” ut also ‘‘ perquisites” or “ gifts.” In regard to that statement I have collected the following evidence. Under ‘‘ perquisite,”’ I find in Silvan Evans’s English- Welsh Dictionary, ad/ael, dam- weinfael, dygwyddfael, rhoddfael, mael dygwydd, rhyw fael neu elw a gaffer heb law cyflog [* some vail or profit that is got in addition to wages”), anrheg. Under ‘‘ vails” the same work gives gweinidfael, gweinidrodd, damweinfael, rhodd- Jfael, ystlysfael, mael dygwydd, rhodd i weini- dogion [‘‘ gift to ministers”). Salesbury has mael, “‘avayle”; T. Richards (1753) has mael, “gain, profit, lucre, advantage”; T. Lewis (1805) has ‘‘ maelor, s., a place of traffic, a mart or market. There are districts so called in the marches of Wales, which were neutral ground, where trade was carried on.” It is clear, from the above quotations, that the question is not confined to ymylon and y meilon, but that maelon must also be taken into account. Both mail and mael will explain the diph- thongal middle syllable of abeilon, but ymy? will not. Whether or no the Welsh mae/ is connected i i English ‘“ mail” (in “ black- mail”) or English ‘‘ vails” is an interesting problem, but (mindful of the heading of this note) I must not attempt to discuss it at
+present. J. P. Owen.
+
+
+---
+
+https://archive.org/details/sim_academy-and-literature_1896-05-23_49_1255/page/428/mode/2up?q=sin+eater
+
+The Academy  1896-05-23: Vol 49 Iss 1255
+Publication date 1896-05-23
+
+p428-9
+
+THE SIN-EATER IN WALES—A POSTSCRIPT.
+London: May 16, 1896. In the AcADEMY for November 23, 1893 (p. 485), Mr. Sidney Hartland has a remark which led me to suppose that diodliffé is not found in the Welsh dictionaries before the Trefriw (1815) edition of Richards’ work. As a matter of fact, the word is to be found in the first edition (Bristol, 1753). Moreover, what Richards says is taken from Lluyd’s Archaeo- logia Britannica (1707). In that most excellent and valuable work, there is a division containing Welsh words, omitted in Dr. Davies of Mall- wyd’s Dictionary (1632), among them being ‘** Additions written by Dr. Davies himself
+in the margin of his Dictionary.” One of these is ‘ Diodlift, Kuppan dros y Meiru.” These additions are the ‘“ MS. notes” to’ which Mr. Hartland refers. There is also a very enlightening note on byl in this division of Lluyd’s folio: ‘ Bil, ‘the mouth’; hence in i hire and elsewhere Bil is the mouth of a vessel. ‘ Kuppan laun hyd y vyl,’ &c.” Lower down is found “‘[Obsol. Welsh] Bill, ‘a mouth,’ Ir. Béul, [Obsol. Ir.] Bél.” (1 should explain that Lluyd writes u for w.)
+May I just add a line with reference to Mr. Joseph Jacobs’s careful note to the Cornish “Tale of Ivan” in his Celtic Fairy Tales? Mr. Jacobs does not seem to have been aware that that fine story is printed (with due acknowledgment that it is taken from Lluyd’s Archaeologia) in Trysorfa Gwybodaeth (Car- marthen, 1770). The proverbial saying quoted in Borrow’s Wild Wales may probably be thus accounted for.
+J. P. OWEN.
+
+---
+
+
+
+
