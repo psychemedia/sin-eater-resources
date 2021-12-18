@@ -254,78 +254,62 @@ If we consider these persons as probably not less believers than those who emplo
 
 ## Advertising Break - Frampton's Pill of Health for Both Sexes
 
-At this point, let us take a little break an observe the following advert, identified, through incorrect OCR, by a search on the phrase "sin eater":
+At this point, let us take a little break an observe the following advert, identified, through incorrect OCR, by a search on the phrase "sin eater" which returns this item from the *Hampshire Independent* of [Saturday, February 17th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18380217/002/0001):
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18380217/002/0001
 
-Hampshire Independent
-Saturday 17 February 1838
-p?
-
-FRAMPTON'S PILL OF HEALTH FOR BOTH SEXES.—
-
-The unprecedented Sale of these Pills, arising from the earliest recommendation of the many thousands who have derived benefit from their use, render any lengthened comment unnecessary; they are not put forth as a cure for all diseases to which mankind is liable, but for bilious and liver complaints, with their many well-known attendants bilious and sick head-ache, pain and oppression after meals, giddiness [via OCR: prim and opprim. sins eater ditai nese], singing noise in the head and ears, drowsiness, heartburn, loss of appetite, wind. *spasms, &c.; they are acknowledged to be vastly superior to any thing ever before offered to the public, and for those of a full habit of body they will prove truly invaluable; while as a general Family Aperient for either sex they cannot fail to ensure universal satisfaction. Two or three doses will convince the afflicted of their salutary efforts. The stomach will speedily regain its strength; a healthy action of the Liver, Bowels, and Kidneys, will rapidly take place: and instead of listlessness, with pain, and jaundiced appearance, strength, activity, and renewed health, will be the result of using this Medicine, according to the directions accompaning each box.
-
-Ask for FRAMPTON'S PILL OF HEALTH. and observe the name and address of "Thomas Prout, 229, Strand, London," on the Government Stamp.
+> FRAMPTON'S PILL OF HEALTH FOR BOTH SEXES.—
+>
+> The unprecedented Sale of these Pills, arising from the earliest recommendation of the many thousands who have derived benefit from their use, render any lengthened comment unnecessary; they are not put forth as a cure for all diseases to which mankind is liable, but for bilious and liver complaints, with their many well-known attendants bilious and sick head-ache, pain and oppression after meals, giddiness [via OCR: prim and opprim. sins eater ditai nese], singing noise in the head and ears, drowsiness, heartburn, loss of appetite, wind. *spasms, &c.; they are acknowledged to be vastly superior to any thing ever before offered to the public, and for those of a full habit of body they will prove truly invaluable; while as a general Family Aperient for either sex they cannot fail to ensure universal satisfaction. Two or three doses will convince the afflicted of their salutary efforts. The stomach will speedily regain its strength; a healthy action of the Liver, Bowels, and Kidneys, will rapidly take place: and instead of listlessness, with pain, and jaundiced appearance, strength, activity, and renewed health, will be the result of using this Medicine, according to the directions accompaning each box.
+>
+> Ask for FRAMPTON'S PILL OF HEALTH. and observe the name and address of "Thomas Prout, 229, Strand, London," on the Government Stamp.
 
 [Example of error in OCR with amusing consequences...]
 
 ## A Lady Tourist, 1838
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18380228/034/0003
-
-Inverness Courier
-Wednesday 28 February 1838
-p?
-
-A LADY TOURIST — ANECDOTES
-
-In these dull days of frost and snow—when mails come not, and our printers are crying out for "copy" to fill up the accustomed four pages—we have been tempted to dip into a new publication by Miss Sinclair (a sister of the Member for Caithness), which is thus heralded into the world— 
-
-"Hill and Valley, or Hours in England and Walks. By Catharine Sinclair, &c.. Dedicated the Travellers Club."
-
-It appears that Miss Sinclair made a tour in Wales in the summer of 1833, of which she kept miscellaneous journal, intended, *of course*, merely for private circulation. The book is essentially lady's book, and if the "Travellers' Club" be composed of the "rougher sex,” we doubt very much whether the compliment of the authoress will duly appreciated. From a principle of gallantry, however, it is to be hoped that her health will be duly toasted at all anniversary meetings, when the members exceed their daily pint of wine. Miss Sinclair a lively tourist, full light anecdote and small talk, affectionate to her correspondent (a "dear cousin”) and minutely observant of little traits of character, manners, and scenery, in which it must be confessed the lady-authors very often excel the regulars. Miss Sinclair lays down a maxim at starting, to which we cordially subscribe, that traveller should study his own country before he seeks to explore others.
-
-... 
-
-
-A LADY TOURIST—ANECDOTES. 
-
-The Scotch have been always considered particularly provident about funerals; but a story which amused once, affords particularly strong evidence of this propensity, A poor woman in the village of -, had lent her neighbour the carpenter some money, but finding him quite unable to repay her, she obligingly consented to take the value of his debt in *coffins* for herself and all her children. They were accordingly each measured and provided without delay ; but she was heard often afterwards to complain that the children had quite out-grown theirs."
-
-... 
-
-... Like all mountaineers, the Welsh are still tinged with superstition, but the following one is of the most earthy of those beliefs we have heard of—
-
-"A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended a professed sin-eater,’ hired take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing apparently, like Esau, to sell their birthright for a mess of pottage.”
-
-... 
-
-
-REF: Hill And Valley
-by Sinclair, Catherine 
+In the *Inverness Courier* of [Wednesday, February 28th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18380228/034/0003), comments on a new publication, [*Hill And Valley*](https://archive.org/details/dli.bengal.10689.7591), 1838, by Catherine Sinclair.
+ 
 Publication date 1838 
 pp. 336-337
-https://archive.org/details/dli.bengal.10689.7591
 
-## More Curious Customs, 1838-1849
 
-In the *Hereford Times* of [Saturday, May 5th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004), the following "curious custom" is described, which we recognise from the observations of the "Lady Tourist":
-
-> Curious Custom.
+> A LADY TOURIST — ANECDOTES
 >
-> A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended by a professed "sin-eater," hired to take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing, apparently, like Esau, to sell their birthright for a mess pottage.
-...
-
-
-[This appeared earlier in the Inverness Courier - Wednesday 28 February 1838 ]
-
-
-The *Hereford Journal*  of [Wednesday, July 11th, 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18490711/025/0004) also describes the following "indecorous customs":
-
-> INDECOROUS CUSTOMS.
+> In these dull days of frost and snow—when mails come not, and our printers are crying out for "copy" to fill up the accustomed four pages—we have been tempted to dip into a new publication by Miss Sinclair (a sister of the Member for Caithness), which is thus heralded into the world—
 >
-> The irreverent practice properly condemned in the following extract from Southey's *Common-place Book*, has prevailed at assize-sermons in both Worcester and Hereford Cathedrals. If, when the beautiful edifice at the latter city shall be re-opened for Divine Service, the Bishop, or rather the Dean as the Ordinary, shall abate a nuisance which prevents all seriousness in the worship, general approval will follow ; there will be no fear that those who effect so desirable reform will incur the fate which is i spoken of in the following extract as threatened to Dr. i Lake:— 
+> "Hill and Valley, or Hours in England and Walks. By Catharine Sinclair, &c. Dedicated the Travellers Club."
+>
+> It appears that Miss Sinclair made a tour in Wales in the summer of 1833, of which she kept miscellaneous journal, intended, *of course*, merely for private circulation. The book is essentially lady's book, and if the "Travellers' Club" be composed of the "rougher sex,” we doubt very much whether the compliment of the authoress will duly appreciated. From a principle of gallantry, however, it is to be hoped that her health will be duly toasted at all anniversary meetings, when the members exceed their daily pint of wine. Miss Sinclair a lively tourist, full light anecdote and small talk, affectionate to her correspondent (a "dear cousin") and minutely observant of little traits of character, manners, and scenery, in which it must be confessed the lady-authors very often excel the regulars. Miss Sinclair lays down a maxim at starting, to which we cordially subscribe, that traveller should study his own country before he seeks to explore others.
+
+There then follow various excerpts from the book, including this interesting fragment from a story appearing on [p29](https://archive.org/details/dli.bengal.10689.7591/page/n59/mode/2up?q=satan) of the book:
+
+> The following is new to us:–
+>
+> The Highlanders have a superstition, which I never could trace to its origin, that Satan gets possession of the first corpse laid in new cemetery ! The time when I heard of this was in 1830 at Blair; on which occasion the innkeeper happened to mention, that a new burying-ground had been prepared during some years without ever coming into use, on account of no neighbouring family liking to lake the precedence. 'We are just waiting,' added the worthy landlady, looking hard at *me*, 'to see if, by good chance, some stranger dies in the place, who could be laid there at once.' After that, I very nearly resolved to sleep without a pillow at Blair, in case of being Burked ; and it is remarkable that an English sportsman about that time *fairly* died there, when, alter his interment in the new cemetery, it was adopted into use."
+>
+> This is wonderful, if true. ... We resume–
+>
+> The Scotch have been always considered particularly provident about funerals; but a story which amused once, affords particularly strong evidence of this propensity, A poor woman in the village of -, had lent her neighbour the carpenter some money, but finding him quite unable to repay her, she obligingly consented to take the value of his debt in *coffins* for herself and all her children. They were accordingly each measured and provided without delay ; but she was heard often afterwards to complain that the children had quite out-grown theirs."
+
+The review also speaks of the good lady's tours in Wales:
+
+> The fair tourist's ramble among the "hills and valleys" of Wales does not appear to have furnished forth many adventures. She was delighted with the country-rich in all the magnificent and beautiful features of nature, and filled with simple and happy people. The Welsh language sounded to her nearly similar to the Gaelic that she often felt inclined to give the common Highland salutation in passing along the road, especially seeing the landscape around exactly on a similar pattern. "We hurried on from mountain to mountain in splendid succession ; and but for the women wearing their little hats like men's, instead of the graceful plaid, might have supposed ourselves in Ross-shire."
+
+As an example of one of the rare stories from Wales, we hear (from [p336-7]() of the original)[https://archive.org/details/dli.bengal.10689.7591/page/n347/mode/2up]:
+
+> ... Like all mountaineers, the Welsh are still tinged with superstition, but the following one is of the most earthy of those beliefs we have heard of—
+>
+> "A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended a professed 'sin-eater,' hired take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing apparently, like Esau, to sell their birthright for a mess of pottage.”
+
+That same fragment also appears in n the *Hereford Times* of [Saturday, May 5th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004), ascribed to the "Lady Tourist":
+
+## Indecorous Customs, 1849
+
+The *Hereford Journal* of [Wednesday, July 11th, 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18490711/025/0004) also describes the following "indecorous customs":
+
+> INDECOROUS CUSTOMS
+>
+> The irreverent practice properly condemned in the following extract from Southey's *Common-place Book*, has prevailed at assize-sermons in both Worcester and Hereford Cathedrals. If, when the beautiful edifice at the latter city shall be re-opened for Divine Service, the Bishop, or rather the Dean as the Ordinary, shall abate a nuisance which prevents all seriousness in the worship, general approval will follow ; there will be no fear that those who effect so desirable reform will incur the fate which is spoken of in the following extract as threatened to Dr. Lake:—
 >
 > "In the cathedral of York an indecent custom, not yet abolished in some other cathedrals, prevailed of walking and talking loudly in the nave during prayers, so that the congregation were often interrupted in their devotions. Dr. Lake, however, was a resolute disciplinarian, and resolved to break so indecent and profane usage; but the mob were so mnch exasperated by the attempt that, after breaking open the south door of the cathedral, they assaulted the residentiary his own house, and having stripped it of part of the tiles, would probably have murdered him had he not been seasonably rescued by Captain Honeywood, the deputy-governor of the castle."— Whittaker's *Loidis and Elmete*, p. 37.
 >
@@ -333,46 +317,20 @@ The *Hereford Journal*  of [Wednesday, July 11th, 1849](https://www.britishnewsp
 >
 > "There's deal of fun 
 In mourning-coaches when the funeral's done."
->
-> In the county of Hereford was an old custom at funeralsto hire poor people who were to take upon them all the sins of the party deceased and were called 'sin-eaters.' One of them, I remember, lived in a cottage on the Ross highway. The manner was this: when the corpse was brought out of the house and laid on the bier, a loaf of bread was delivered to the sin-eater over the corpse, as also a mazar bowl (a gossip's bowl of maple) full of beerm which he was to drink up, with sixpence of money; in consequence, whereof, he took upon himself, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead. In Noerth Wales the sin-eaters are frequently made use of; but there, instead of a nbowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest times of the Presbyterian government; and at Dyndar, *volens nolens* the parson of the parish, the relations of a woman deceased there had the ceremony performed punctually according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar-bowl for the sin-eater; and in other places in this county, as also at Brecon, at Llangore, where Mr. Gwin, the minister, about 1640, could not hinder this superstition." — Aubrey of Gentilisme, MS., quoted Kennet's Par. Ant. ii. 276
+
+We than get the well worn quotation from Aubrey:
+
+> "In the county of Hereford was an old custom at funerals to hire poor people who were to take upon them all the sins of the party deceased and were called 'sin-eaters.' One of them, I remember, lived in a cottage on the Ross highway. The manner was this: when the corpse was brought out of the house and laid on the bier, a loaf of bread was delivered to the sin-eater over the corpse, as also a mazar bowl (a gossip's bowl of maple) full of beerm which he was to drink up, with sixpence of money; in consequence, whereof, he took upon himself, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead. In North Wales the sin-eaters are frequently made use of; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest times of the Presbyterian government; and at Dyndar, *volens nolens* the parson of the parish, the relations of a woman deceased there had the ceremony performed punctually according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar-bowl for the sin-eater; and in other places in this county, as also at Brecon, at Llangore, where Mr. Gwin, the minister, about 1640, could not hinder this superstition." — *Aubrey of Gentilisme, MS., quoted Kennet's Par. Ant. ii. 276.*
 >
 > To the practice last mentioned of giving to the poor at funerals, we have no objection, except the fear of the distribution of the doles not being made "decently and in order."
 
----
+This was perhaps brought to attention by the release of the [1849 edition](https://archive.org/details/b29328561_0002/page/246/mode/2up?q=sin-eater) of Ellis' edited edition of Brand's *Observations on the popular antiquities of Great Britain: chiefly illustrating the origin of our vulgar and provincial customs, ceremonies, and superstitions*, as recalled later that year by the *North & South Shields Gazette and Northumberland and Durham Advertiser* on
+[Friday, November 30th, 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000288/18491130/024/0002).
 
-1849 edition
-
-eg referenced in North & South Shields Gazette and Northumberland and Durham Advertiser
-Friday 30 November 1849?
-
-https://archive.org/details/b29328561_0002/page/246/mode/2up?q=sin-eater
-
-Also of note in 1849, a new edition of Ellis' edited edition of Brand's *Observations on the popular antiquities of Great Britain: chiefly illustrating the origin of our vulgar and provincial customs, ceremonies, and superstitions*
-
-by Brand, John, 1744-1806. n 80083655; Halliwell-Phillipps, J. O. (James Orchard), 1820-1889. n 80075855; Ellis, Henry, 1777-1869. n 50011810
-
-Publication date 1849
-
-which perhaps led in part to a renewed noting of the tradition of "the sin-eater" for anyone reading that work for the first time.
-
----
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000288/18491130/024/0002
-
-North & South Shields Gazette and Northumberland and Durham Advertiser
-Friday 30 November 1849
-p?
-
-Anecdotes of death.
-
-
-... 
-
-Sin-Eaters.—
-
-We learn from *Brande's Popular Antiquities* that in the west of England the sixteenth century, and Wales probably at a later date, a class of persons, called Sin-Eaters, existed, who, in consideration of a certain dole of food or money, made themselves responsible for the sins of the dead, and undertook to console the survivors, by guaranteeing them at least security against being haunted by the spirits of the departed, who, it was supposed, could not rest, when some such exhibition of charity was not made to neutralise the effect of their sins. 
-...
-
-
----
+> Anecdotes of death.
+>
+>...
+>
+> Sin-Eaters.—
+>
+> We learn from *Brande's Popular Antiquities* that in the west of England the sixteenth century, and Wales probably at a later date, a class of persons, called Sin-Eaters, existed, who, in consideration of a certain dole of food or money, made themselves responsible for the sins of the dead, and undertook to console the survivors, by guaranteeing them at least security against being haunted by the spirits of the departed, who, it was supposed, could not rest, when some such exhibition of charity was not made to neutralise the effect of their sins.
