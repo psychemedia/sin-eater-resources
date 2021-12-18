@@ -206,9 +206,9 @@ So what did Brand, or the editor, Mr Ellis, have to say about "the sin eater"?
 
 ## Brand's *Popular Antiquities*, edited by Ellis, 1813
 
-*Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's Antiquitates Vulgares* — often referred to as *Popular Antiquities* — by John Brand, was first published in 1777. This [first edition](https://archive.org/details/observationsonp00bourgoog/page/n46/mode/2up) contains no explicit reference to a "sin eater", although Chapter II of Bourne's work, and Brand's observation on it, do cover traditions *Of Watching with the Dead*.
+*Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's Antiquitates Vulgares* — often referred to as *Popular Antiquities* — by John Brand, was first published in [1777](https://archive.org/details/observationsonp00bourgoog/page/n46/mode/2up) and reprinted again in [1810](https://archive.org/details/observationsonpo00bran/page/20/mode/2up?q=watching). These editions contains no explicit reference to a "sin eater", although Chapter II of Bourne's work, and Brand's observation on it, do cover traditions *Of Watching with the Dead*.
 
-A new edition, first published in 1813, edited by Henry Ellis, went on to be republished many times, including the 1849 edition as cited in *Notes and Queries*.
+A new edition in two volumes, first published in 1813, edited by Henry Ellis, went on to be republished many times, including the 1849 edition as cited in *Notes and Queries*.
 
 The following appears on [pp. 246-8](https://archive.org/details/b29328561_0002/page/246/mode/2up?q=sin-eater) of the 1849 edition:
 
