@@ -1,6 +1,6 @@
-# Interim - 1854-1870
+# Interim - 1854-1874
 
-Following the publicaion of Moggridge's comments in 1852, and the immediate response to it, I have found few mentions of the tradition until the 1870s.
+Following the publication of Moggridge's comments in 1852, and the immediate response to it, I have found few mentions of the tradition until the 1870s.
 
 In Thomas Roscoe's [*Wanderings and excursions in South Wales, with the scenery of the River Wye*](https://archive.org/details/wanderingsandex01roscgoog/page/n80/mode/2up?q=obsolete) of 1854, we find at p48-51 a referernce to the tradition of corpse candles, the *Cwn Annwn* and the *Cyoewraeth*:
 
@@ -48,7 +48,7 @@ In John Murray's [*A handbook for travellers in South Wales and its borders, inc
 
 > Many old customs and superstitions have become obsolete within the last ten or twenty years, in consequence of increased education and facilities of intercommunication with the rest of the country. Some of them may be mentioned as both interesting and curious. The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm Amman in Carmarthenshire. When a person died, the friends sent for the sin-eater of the district, who on his arrival placed a plate of salt on the breast of the deceased, and on the salt a piece of bread. He then muttered an incantation over the bread, which he finally eat, thereby eating the sins of the dead person. This done, he received the fee of 2s. 6d., and vanished as quickly as he could, the friends helping his departure by the aid of sundry blows and kicks, if they could catch him ; for as it was believed that he took upon himself the sins of the defunct, he was looked upon as a social Pariah for whom nothing was too bad. The custom of placing bread or a plate of salt on the breast of the corpse is by no means uncommon in many parts of Wales.
 
-This is the first mention of *"the friends helping his departure by the aid of sundry blows and kicks, if they could catch him "* that I recall?
+This is the first mention of *"the friends helping his departure by the aid of sundry blows and kicks, if they could catch him "* that I can recall. Was the author here adding a bit of their own colour to the story, imagining that if the sin-eater were a pariah, he would surely be chased out of the house after performing that soul-destroying (for him) rite?
 
  Another curious custom is still in existence — that of the Cefyl Pren, which occurs in cases where popular indignation is excited by any gross infringement of domestic rights or proprieties. A large crowd, one of whom is dressed up with a horse's head, assembles before the door of the delinquent, who, after undergoing an immense amount of vituperation and a hideous noise of old kettles and cleavers, is at length burnt in effigy, by which the sacred wrath of the people is at length appeased.
 
@@ -65,3 +65,11 @@ The reference to *Once a Week* seems to be a reference to a column in another pu
 ```
 
 The same tale, similarly credited, also appears on page 3 of *The Welshman* of [](https://newspapers.library.wales/view/4351919/4351922/10/) dated December 12th, 1862, and in the *Hereford Journal* on the same date.
+
+
+
+A few years later, in *The Cambrian News and Merionethshire Standard* of [22nd May, 1874](https://newspapers.library.wales/view/3343897/3343906/85/), on p. 9, we have the following mention, citing Hone's *Year Book*:
+
+> TIPYN O BOB PETH
+>
+> The superstition of the Sin Eater, a poor half starved wretch, bribed by a dole of bread, beer, and a sixpence, to attend at a funeral, and by accepting such a tender to take upon him the sins of the defunct, is noticed in the same volume [ "the Year Book"], and referred to certain counties in North and South Wales, where we have reason to believe it still exists."
