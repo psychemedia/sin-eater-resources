@@ -18,9 +18,9 @@ This attribution is an odd on: a list of [Bishops_of_St_Asaph](https://en.wikipe
 >
 > Whenever anybody comes into the room where a dead corpse lies, especially the *wyl nos*, and the day of its interment, the first thing he does he falls upon his knees by the corpse and saith the Lord's prayer.
 
-Was there, perhaps, an earlier manuscript, by the said Bishop of Asaph, that Pennant drew upon?
+Was there, perhaps, an earlier manuscript, by the said Bishop of Asaph, that Pennant drew upon, unattributed (as far as I have found) by him? Or is this a misattribution by the authors of the British Magazine article?
 
-The next fragment is more directly familiar to us from Penannt's own *Tour In Wales (Part 2)*:
+The next fragment is more directly familiar to us from Pennant's own *Tour In Wales (Part 2)*:
 
 > Pence and halfpence, in lieu of little rolls of bread, (which heretofore generally and by some are still given on these occasions,) are now distributed to the poor, who flock in great numbers to the house of the dead before the corpse is brought out. When the corpse is brought out of the house, and laid upon the bier, and covered before it be taken up, the next of kin to the deceased, widow, mother, daughter, or cousin, (never done by a man,) gives cross over the corpse to one of the poorest neighbours two or three white loaves) of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink, which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s prayer, and then they set forward towards church. And all along, from the house to the church-yard, at every cross way, the bier is laid down, and the Lord’s prayer renewed ; and so when they come first into the church-yard, and before any of the verses appointed in the service to be said.
 
