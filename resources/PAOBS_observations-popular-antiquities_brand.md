@@ -27,14 +27,60 @@ Doles were used at Funerals, as we learn from St. Chrysostoms, to procure Rest t
 
 [2] Mr. Strutt in his Englisg Aera tells us, that Sir Robert Knolles (in the 8th Year of Henry IV.) died at his Manor in Norfolk and his dead Body was brought in a Litter to London with great Pomp and much Torch Light, and it was buried in the White Friars Church — "where was done for him a solemne Obsequie, with a great Feast and *lyberall Dole to the Poore.*" This Custom of giving a Funeral Feast to the Chief Mourners, was universally practised all over the Kingdom, as well *as giving Alms to the Poor*, in Proportion to the Quality and Finances of the Deceased.
 
-Vol. II p. 109
+Vol. II p. 109 ??
 
 
-p23 chapter II - this is borune ratehr than observatio
 
-I find in Durant a pretty exaft Account of ibme of the Ceremonies ufed at prefent in what 1?V€ call laying out or streeking * in the North
+p20 (1777 edition)
+Chapter II 
 
-Footnote: Mr. Pennant, in his Tour in. Scotland, tells us, that on the Death of a Highlander, the Corps \^\xi%firett:hed ovl a Boards, and covered with a coarfe Lintn IVrapper^xht Friends lay on the Breaft of theDecea&da*u;W^/r Platter y containing a fmadl Qi|aotity of Salt 9x^6: Earthy feparate and' unmixed; the Earth an Emblem of the cotruptible Body; the Salt an Emblem of the immortal Spirit. «<— All Fire is extinguifhed where a Corps is kept ; and it is rec- koned fo ominous for a Dog or a Cat to pafs over it, that the poor Animal is killed without Mercy
+Of Watching the Dead
+
+Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica `[Psaltenum arripuit Euodius, & cantare caepit psalmum, cui respondebamus omnes domus : Miserecordiam & judicium cantabo tibi Domine. Aug. Lib. 9. Confes C. 12.]` Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, `[Ad ecclesiam antelueana hora qua defunctus est, corpus ipsius portatum est : Ibique eadem suit nocte, quam vigtlaviamus in pascba. G?g. Turon. de Gloria; Confes. C. 104.]` That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.
+
+How unlike to this antient Custom of watching is the modern one, of locking up the Corps in a Room, and leaving It there alone ? How unlike to this decent Manner of watching, is that watching of the Vulgar, which is a Scene of Sport and Drinking and Lewdness? Watching at that Time with a dear Friend, is the las Kindness and Respect we can shew him ; and how unfriendly is it, to change it into Negligence and too great Resignation? How unchristian, instead of a becoming Sorrow and decent Gravity, to put on an unbecoming Joy and undecent Pastime,
+
+
+
+p21-2
+Our Author, for what Reason I know not, has omitted the vulgar Name given here to this *watching with a Corps*. It is called the *Lake-wake* ; a Word plainly derived from the Anglo-Saxon Lie or Lice, *a Corpse* and *a Wake*, a *Vigil*, or *Watching*. It is used in this Sense by Chaucer, in his Knight's Tale :
+
+Shall not be told for me. 
+How that Arcite is breht to Afhen cold, 
+Ne how that thefe the *Liche-wake* was yhold 
+All that Night long.
+
+Thus also I read in the Article *Walkin* in the learned `[* By the late Mr. Ruddiman, as is generally supposed.]` Glossary to Douglas' Virgil, "Properly *Like-wakes* (Scotch) are the Meetings of the Friends of the Deceased, a Night, or Nights before the Burial."
+
+I am not satisfied with either of the Quotations he has given us in Proof of the Antiquity of the Custom: They are indeed something to the Purpose ; but in the last cited Passage, one would be inclined to think from the Words of the Original, that the *Watching* was on Account of its being the Vigil of Easter-Day.
+
+The subsequent Extract from one of the antient Councils quoted in Durant, `[Porro observandum est, nedum Psalmos cani confuetum, cum fucus ducitur, sed etiam nocte, que praecedit funus, veteres vigilasse, nocturnasque vigilias canendis Psalmis egisse.]` p. 232, is, I think, much more apposite : — "Now it must be observed, that Psalms are wont to be sung not only when the Corps is conducted to Church, but that the Antients *watched on the Night* before the Burial, and spent the Vigil in singing Psalms." So also *Gregory*, in the Epistle that treats of the Death of his Sister Macrina, has these Words: `[Cum igitur (inquit) nocturna pervigilatio, ut in Martyrum celebritate canendis Psalmis perfecta esset & Crepusculmn advenisset &c. Durant, p. 232.]` "Now when the *nightly Watching*, as is usual" &c.
+
+I could give numerous Passages from the Antients, were there any Doubt of the Antiquity of a Custom, which probably owes its Origin to the tenderest *Affections* of human Nature, and has perhaps on that Account been used from the Infancy of Time.
+
+
+p23 chapter II - this is borune ratehr than observatio?
+
+I find in Durant a pretty exact Account of some of the Ceremonies used at present in what we call *laying out* or *streeking* `[*To Streek*, to expand, of stretch out. from the Anglo-Saxon SlCJiecaBy. extendere. See Benson's Anglo-Saxon Vocabulary in verbo.— A *Streeking-Board* is that on which they stretch out and compose the Limbs of the dead Body.]` in the North
+
+````FOOTNOTE: Quinetiam Sanctorum Corpora, manibus erestis supinisque excipere – occludere oculos-— ora obturare — decenter ornare–  lavare accurate et linteo funebri involvere, &c.
+
+Durant. de Ritibus, p. 224.
+
+Mr. Pennant, in his Tour in Scotland, tells us, that on the Death of a Highlander, the Corps being *stretched* on a *Board*, and covered with a coarse *Linen Wrapper*, the Friends lay on the Breast of the Deceased a *wooden* Platter, containing a small Quantity of *Salt* and *Earth*, separate and unmixed; the *Earth* an Emblem of the corruptible Body; the *Salt* an Emblem of the immortal Spirit.— All Fire is extinguished where a Corps is kept ; and it is reckoned so ominous for a Dog or a Cat to pass over it, that the poor Animal is killed without Mercy.
+````
+
+Mention is made of the closing the Eyes and Lips —the decent washiing — dressing — and wrapping in a Linen Shroud `[The Face Cloth too is of great Antiquity.— Mr Strutt tells us, that after the closing the Eyes, &c. a Linen Cloth was put over the Face oi the Deceased.— Thus we are told, that Henry the Fourth, in his last Illness seeming to be dead, his Chamberlain Covered his Face with a Linen Cloth. English AEra, p. 105]` Of which Shroud Prudentius, the Christian Poet, has these Words:
+
+Condore nitentia claro 
+Praetendere lintea mos est. 
+— Hymn. ad Exequias Defunct.
+
+The Interests of our Woollen Manufactories have interfered with this antient Rite in England.
+
+It is customary at this Day in Northumberland, to set a Pewter *Plate*, containing a little *Salt* `[Salem abhorrere constat Diabolu, et ratione optima nititur, quia Salr aeternitatis est et immortatalitatis signum, neque putredeine neque corruptione infestatur unquam, sed ipse ab his omnia vendicat. Depriv. Rel. &c. p154. Confided in reference to this symbolical Explication, how beuatiful is that Expression, "Ye are the Salt of the Earth."]` upon the Corps; as also a Candle in some Places. — The learned Moresin tells us, "That *Salt* is the Emblem of Eternity and Immortality : It is not liable to Putrefaction itself, and it preserves Things that are seasoned with it from Decay." — He gives us also his Conjecture on the Use of a *Candle* `[Lucerna, feu Candela mortuis cadaveribus semper apponitur in domibus et templis, quamdiu fspra terram sunt— aa hinc ducto more, oculo, vel Lucerna incensa veteres AEgyptii vitam significabant, unde veteres foliti sunt lucernas ardentes sepulchris imponere, hac saltem ratione significantes se mortuorum quamdiu possent vitas producturos. Deprav. Rel. Orig. p. 89.]` on this Occasion: "It was an Egyptian Hieroglyphic for Life, meant to express the ardent Desire of having had the life of the Deceased prolonged."
+
+
 
 
 ---
