@@ -202,7 +202,7 @@ One possibility is that he learned of it from "Brand's Antiquities", which we sa
 
 We know that Hone was familiar with an earlier edition of Brand's work, citing from it liberally right from the very start of his *Every-Day Book* of 1826. For example, even on [January 1st, column 6,](https://archive.org/details/b29326072_0001/page/3/mode/2up?q=brand) *"The  late Rev. John Brand, in his 'Popular Antiquities' edited by Mr. Ellis, observes..."*
 
-## Brand's *Observations on Popular Antiquities, 1777
+## Brand's *Observations on Popular Antiquities*, 1777
 
 *Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's Antiquitates Vulgares* — often referred to as *Popular Antiquities* — by John Brand, was first published in [1777](https://archive.org/details/observationsonp00bourgoog/page/n46/mode/2up) and reprinted again in [1810](https://archive.org/details/observationsonpo00bran/page/20/mode/2up?q=watching). These editions contains no explicit reference to a "sin eater", although Chapter II of Bourne's work, and Brand's observation on it, do cover traditions *Of Watching with the Dead*
 
@@ -211,25 +211,25 @@ Here's what Mr Bourne has to say, in Chapter II:
 > Of Watching the Dead
 >
 > Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica `[Psaltenum arripuit Euodius, & cantare caepit psalmum, cui respondebamus omnes domus : Miserecordiam & judicium cantabo tibi Domine. Aug. Lib. 9. Confes C. 12.]` Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, `[Ad ecclesiam antelueana hora qua defunctus est, corpus ipsius portatum est : Ibique eadem suit nocte, quam vigtlaviamus in pascba. G?g. Turon. de Gloria; Confes. C. 104.]` That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.
-> 
+>
 > How unlike to this antient Custom of watching is the modern one, of locking up the Corps in a Room, and leaving It there alone ? How unlike to this decent Manner of watching, is that watching of the Vulgar, which is a Scene of Sport and Drinking and Lewdness? Watching at that Time with a dear Friend, is the las Kindness and Respect we can shew him ; and how unfriendly is it, to change it into Negligence and too great Resignation? How unchristian, instead of a becoming Sorrow and decent Gravity, to put on an unbecoming Joy and undecent Pastime,
 
-Brand comments as follows: 
+Brand commented as follows:
 
 > Our Author, for what Reason I know not, has omitted the vulgar Name given here to this *watching with a Corps*. It is called the *Lake-wake* ; a Word plainly derived from the Anglo-Saxon Lie or Lice, *a Corpse* and *a Wake*, a *Vigil*, or *Watching*. It is used in this Sense by Chaucer, in his Knight's Tale :
 >
-> Shall not be told for me. 
-> How that Arcite is breht to Afhen cold, 
-> Ne how that thefe the *Liche-wake* was yhold 
+> Shall not be told for me.  
+> How that Arcite is brent to Afhen cold,  
+> Ne how that there the *Liche-wake* was yhold  
 > All that Night long.
 >
 > Thus also I read in the Article *Walkin* in the learned `[* By the late Mr. Ruddiman, as is generally supposed.]` Glossary to Douglas' Virgil, "Properly *Like-wakes* (Scotch) are the Meetings of the Friends of the Deceased, a Night, or Nights before the Burial."
 >
 > I am not satisfied with either of the Quotations he has given us in Proof of the Antiquity of the Custom: They are indeed something to the Purpose ; but in the last cited Passage, one would be inclined to think from the Words of the Original, that the *Watching* was on Account of its being the Vigil of Easter-Day.
 
-Bourne also comments on some contemporary customs:
+Brand also comments on some contemporary customs:
 
-> I find in Durant a pretty exact Account of some of the Ceremonies used at present in what we call *laying out* or *streeking* `[*To Streek*, to expand, of stretch out. from the Anglo-Saxon SlCJiecaBy. extendere. See Benson's Anglo-Saxon Vocabulary in verbo.— A *Streeking-Board* is that on which they stretch out and compose the Limbs of the dead Body.]` in the North
+> I find in Durant a pretty exact Account of some of the Ceremonies used at present in what we call *laying out* or *streeking* `[*To Streek*, to expand, or stretch out. from the Anglo-Saxon SlCJiecaBy. extendere. See Benson's Anglo-Saxon Vocabulary in verbo.— A *Streeking-Board* is that on which they stretch out and compose the Limbs of the dead Body.]` in the North
 
 There is then a longer footnote that refers to Pennant's *Tour in Scotland*:
 
@@ -243,13 +243,13 @@ Brand then continues:
 
 > Mention is made of the closing the Eyes and Lips —the decent washiing — dressing — and wrapping in a Linen Shroud `[The Face Cloth too is of great Antiquity.— Mr Strutt tells us, that after the closing the Eyes, &c. a Linen Cloth was put over the Face oi the Deceased.— Thus we are told, that Henry the Fourth, in his last Illness seeming to be dead, his Chamberlain Covered his Face with a Linen Cloth. English AEra, p. 105]` Of which Shroud Prudentius, the Christian Poet, has these Words:
 >
-> Condore nitentia claro 
-> Praetendere lintea mos est. 
+> Condore nitentia claro  
+> Praetendere lintea mos est.  
 > — Hymn. ad Exequias Defunct.
 >
 > The Interests of our Woollen Manufactories have interfered with this antient Rite in England.
 
-Another contemporary custom is also described, this time from Northumberland:
+Another contemporary custom is also described as part of Brand's oberservations, this time from Northumberland:
 
 > It is customary at this Day in Northumberland, to set a Pewter *Plate*, containing a little *Salt* `[Salem abhorrere constat Diabolu, et ratione optima nititur, quia Salr aeternitatis est et immortatalitatis signum, neque putredeine neque corruptione infestatur unquam, sed ipse ab his omnia vendicat. Depriv. Rel. &c. p154. Confided in reference to this symbolical Explication, how beuatiful is that Expression, "Ye are the Salt of the Earth."]` upon the Corps; as also a Candle in some Places. — The learned Moresin tells us, "That *Salt* is the Emblem of Eternity and Immortality : It is not liable to Putrefaction itself, and it preserves Things that are seasoned with it from Decay." — He gives us also his Conjecture on the Use of a *Candle* `[Lucerna, feu Candela mortuis cadaveribus semper apponitur in domibus et templis, quamdiu fspra terram sunt— aa hinc ducto more, oculo, vel Lucerna incensa veteres AEgyptii vitam significabant, unde veteres foliti sunt lucernas ardentes sepulchris imponere, hac saltem ratione significantes se mortuorum quamdiu possent vitas producturos. Deprav. Rel. Orig. p. 89.]` on this Occasion: "It was an Egyptian Hieroglyphic for Life, meant to express the ardent Desire of having had the life of the Deceased prolonged."
 
