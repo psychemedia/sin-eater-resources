@@ -27,6 +27,11 @@ Publication date 1896
 
 --
 
+devil in Shrewsbury
+https://journals.library.wales/view/2092910/2092926/2#?xywh=304%2C-184%2C3479%2C2295
+
+--
+
 https://archive.org/details/iolomanuscriptss00willrich/page/n17/mode/2up?q=elian
 
 Iolo manuscripts. A selection of ancient Welsh manuscripts, in prose and verse, from the collection made by the late Edward Williams, Iolo Morganwg, for the purpose of forming a continuation of the Myfyrian archaiology; and subsequently proposed as materials for a new history of Wales:
