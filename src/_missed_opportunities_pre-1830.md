@@ -251,11 +251,11 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 ```{admonition} The Spectator, Issue 266, "Extending Sympathy to Whores"
 :class: dropdown
 
-*[The Spectator, issue 266](https://archive.org/details/sim_spectator-1711_1712-01-04_1-8_266/) is dated Friday, January 4, 1712. It opens with an article on ["Extending Sympathy to Whores"](https://spectator300.wordpress.com/2012/01/04/no-266-extending-sympathy-to-whores/).
+[*The Spectator*, issue 266](https://archive.org/details/sim_spectator-1711_1712-01-04_1-8_266/) is dated Friday, January 4, 1712. It opens with an article on [*"Extending Sympathy to Whores"*](https://spectator300.wordpress.com/2012/01/04/no-266-extending-sympathy-to-whores/).
 
-> Id vero est, quod ego mihi puto palmarium, 
-> Me reperisse, quomodo adolescentulus
-> Meretricum ingenia et mores possit noscere:
+> Id vero est, quod ego mihi puto palmarium,  
+> Me reperisse, quomodo adolescentulus 
+> Meretricum ingenia et mores possit noscere: 
 > Mature ut cum cognórit perpetuo oderit.
 >
 > Ter. Eun. Act. 5, Sc. 4.
@@ -264,18 +264,18 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 >
 > I do not design to fall upon Failures in general, with relation to the Gift of Chastity, but at present only enter upon that large Field, and begin with the Consideration of poor and publick Whores. The other Evening passing along near Covent-Garden, I was jogged on the Elbow as I turned into the Piazza, on the right Hand coming out of James-street, by a slim young Girl of about Seventeen, who with a pert Air asked me if I was for a Pint of Wine. I do not know but I should have indulged my Curiosity in having some Chat with her, but that I am informed the Man of the Bumper knows me; and it would have made a Story for him not very agreeable to some Part of my Writings, though I have in others so frequently said that I am wholly unconcerned in any Scene I am in, but meerly as a Spectator. This Impediment being in my Way, we stood under one of the Arches by Twilight; and there I could observe as exact Features as I had ever seen, the most agreeable Shape, the finest Neck and Bosom, in a Word, the whole Person of a Woman exquisitely Beautiful. She affected to allure me with a forced Wantonness in her Look and Air; but I saw it checked with Hunger and Cold: Her Eyes were wan and eager, her Dress thin and tawdry, her Mein genteel and childish. This strange Figure gave me much Anguish of Heart, and to avoid being seen with her I went away, but could not forbear giving her a Crown. The poor thing sighed, curtisied, and with a Blessing, expressed with the utmost Vehemence, turned from me. This Creature is what they call newly come upon the Town, but who, I suppose, falling into cruel Hands was left in the first Month from her Dishonour, and exposed to pass through the Hands and Discipline of one of those Hags of Hell whom we call Bawds. But lest I should grow too suddenly grave on this Subject, and be my self outragiously good, I shall turn to a Scene in one of Fletcher’s Plays, where this Character is drawn, and the Œconomy of Whoredom most admirably described. The Passage I would point to is in the third Scene of the second Act of The Humorous Lieutenant. Leucippe who is Agent for the King’s Lust, and bawds at the same time for the whole Court, is very pleasantly introduced, reading her Minutes as a Person of Business, with two Maids, her Under-Secretaries, taking Instructions at a Table before her. Her Women, both those under her present Tutelage, and those which she is laying wait for, are alphabetically set down in her Book; and as she is looking over the Letter C, in a muttering Voice, as if between Soliloquy and speaking out, she says,
 >
-> Her Maidenhead will yield me; let me see now; 
-> She is not Fifteen they say: For her Complexion—- 
-> Cloe, Cloe, Cloe, here I have her, 
-> Cloe, the Daughter of a Country Gentleman; 
-> Here Age upon Fifteen. Now her Complexion, 
-> A lovely brown; here ’tis; Eyes black and rolling, 
-> The Body neatly built; she strikes a Lute well, 
-> Sings most enticingly: These Helps consider’d, 
-> Her Maidenhead will amount to some three hundred, 
-> Or three hundred and fifty Crowns, ’twill bear it handsomly. 
-> Her Father’s poor, some little Share deducted, 
-> To buy him a Hunting Nag— 
+> Her Maidenhead will yield me; let me see now;  
+> She is not Fifteen they say: For her Complexion—-  
+> Cloe, Cloe, Cloe, here I have her,  
+> Cloe, the Daughter of a Country Gentleman;  
+> Here Age upon Fifteen. Now her Complexion,  
+> A lovely brown; here ’tis; Eyes black and rolling,  
+> The Body neatly built; she strikes a Lute well,  
+> Sings most enticingly: These Helps consider’d,  
+> Her Maidenhead will amount to some three hundred,  
+> Or three hundred and fifty Crowns, ’twill bear it handsomly.  
+> Her Father’s poor, some little Share deducted,  
+> To buy him a Hunting Nag—
 >
 > These Creatures are very well instructed in the Circumstances and Manners of all who are any Way related to the Fair One whom they have a Design upon. As Cloe is to be purchased with 350 Crowns, and the Father taken off with a Pad; the Merchant’s Wife next to her, who abounds in Plenty, is not to have downright Money, but the mercenary Part of her Mind is engaged with a Present of Plate and a little Ambition. She is made to understand that it is a Man of Quality who dies for her. The Examination of a young Girl for Business, and the crying down her Value for being a slight Thing, together with every other Circumstance in the Scene, are inimitably excellent, and have the true Spirit of Comedy; tho’ it were to be wished the Author had added a Circumstance which should make Leucippe’s Baseness more odious.
 >
@@ -291,7 +291,7 @@ On a second attempt, I find [The Tatler, Vol 1., Numb. 84](https://archive.org/d
 
 ```
 
-Just as another aside, there is an unpleasant tale that makes a passing reference to the famed Mother Cresswell, in [*"The Somers Collection of Tracts"*](https://archive.org/details/collectionofscar07someuoft/page/126/mode/2up?q=%22Mother+Cresswell%22+procuress)" (*A collection of scarce and valuable tracts, on the most interesting and entertaining subjects : but chiefly such as relate to the history and constitution of these Kingdoms, selected from an infinite number in print and manuscript, in the Royal, Cotton, Sion, and other public, ans well as private libraries, particularly that of the late Lord Somers. 2d ed.,*) by John Somers, second edition, revised and augmented by Walter Scott, Esq., 1812, relating to Lord Warristone ("Wareston").
+Just as another aside, there is an unpleasant tale that makes a passing reference to the famed Mother Cresswell, in [*"The Somers Collection of Tracts"*](https://archive.org/details/collectionofscar07someuoft/page/126/mode/2up?q=%22Mother+Cresswell%22+procuress) (*A collection of scarce and valuable tracts, on the most interesting and entertaining subjects : but chiefly such as relate to the history and constitution of these Kingdoms, selected from an infinite number in print and manuscript, in the Royal, Cotton, Sion, and other public, ans well as private libraries, particularly that of the late Lord Somers. 2d ed.,*) by John Somers, second edition, revised and augmented by Walter Scott, Esq., 1812, relating to Lord Warristone ("Wareston").
 
 ```{admonition} The Salacious Seer Wareston
 :class: dropdown
