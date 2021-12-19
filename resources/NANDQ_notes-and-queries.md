@@ -180,12 +180,11 @@ Publication date 1877-01-06
 
 p14
 
-Tne Six-Earer (5 §, vi. 505.)—
+Tne Six-Eater (5th S. vi. 505.)—
 
- Mr. Wartsox may perhaps not be aware of very curious ar ilmost el | parallel to this Yorkshire relig ceremony, superstition, or whatever it may called, in the book on Turkistan recently pul
-He found it, if I remer
-ber right, among the Mussulmans of Khokand } + oll Uieets ‘estietees al aa a regular part of their religious observances. A. C. B. | [See “N. & Q.,” 1* S. vi. 300, 541.] 
+Mr. Watson may perhaps not be aware of very curious or almost identical parallel to this Yorkshire religious ceremony, superstition, or whatever it may be called, in the book on Turkistan recently published by Mr. Schuyler. He found it, if I remeber right, among the Mussulmans of Khokand as a regular part of their religious observances.
 
+A. C. B. | [See "N. & Q.," 1st S. vi. 390, 541.]
 
 
 ---
@@ -203,11 +202,10 @@ The belief in the appearance ...
 
 
 
----
-
-
 
 ----
+
+https://archive.org/details/sim_notes-and-queries_1895-11-09_8_202/page/366/mode/2up?q=smoking
 
 Notes and queries
 
@@ -217,34 +215,14 @@ Vol 8 Iss 202
 
 p366
 
-Smoking in Church .—The following is a cutting 
-from a recent number of the Times :— 
+Smoking in Church .—The following is a cutting from a recent number of the Times :—
 
-“Mr, Elton B, Ede writes to us from Edenhurst, 
-Heene, Worthing :—‘ Though the sin-eater in Wales 
-may not have existed, the mention of him recalls an old 
-practice—viz., smoking in church, which I remember 
-J mother telling me she saw in Wales about 1850. 
+"Mr. Elton B. Ede writes to us from Edenhurst, Heene, Worthing :— 'Though the sin-eater in Wales may not have existed, the mention of him recalls an oldpractice—viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. The Communion-table stood in the aisle, and the farmers were in the habit of putting their hate upon it, and when the sermon began they lit their pipes and smoked, but without any idea of irreverence, have not seen this practice mentioned in any book, and though it is not desirable that it should be revived, it seems a pity that 
+it should be forgotten.'"
 
-The Communion-table stood in the aisle, and the farmers 
-were in the habit of putting their hate upon it, and 
-when the sermon began they lit their pipes and smoked, 
-but without any idea of irreverence, have not seen 
-this practice mentioned in any book, and though it is not 
-desirable that it should be revived, it seems a pity that 
-it should be forgotten. ’” 
+I remember reading somewhere that it was a custom among ladies in South America to have chocolate brought to them as soon as the sermon commenced— a practice denounced by the bishop, who preached against it. He, however, had his cup of chocolate in the sacristy after the service. His persistence in denouncing it was followed by his being found dead in the sacristy after having drunk his cup of chocolate.
 
-I remember reading somewhere that it was a 
-custom among ladies in South America to have 
-chocolate brought to them as soon as the sermon 
-commenced—a practice denounced by the bishop, 
-who —_ against it. He, however, had his 
-cup of chocolate in the sacristy after the service. 
-His persistence in denouncing it was followed by 
-his being found dead in the sacristy after having 
-drunk his cup of chocolate. 
-
-E. Leaton-Bienxtnsorr. 
+E. Leaton-Blenkinsopp.
 
 
 ---
@@ -265,9 +243,24 @@ Some years since I call for the first time upon Canon Percy, of Carlisle, at his
 
 Ed. Marshall, F.S.A
 
-[Make up aa story; secretly a sin eater?!]
+[Make up a story; secretly a sin eater?!]
 
 ---
+
+https://archive.org/details/sim_notes-and-queries_1882-08-19_6_138/page/146/mode/2up
+
+Notes and Queries  1882-08-19: Vol 6 Iss 138 6th S. VI
+Publication date 1882-08-19
+
+p146
+
+Old Yorkshire Customs,—A few days ago I received a letter from a friend, who holds the office of coroner in the North Riding, which is worth
+quoting. He says: "I held an inquest the other day at —— on a man who hanged himself; on the breast of the corpse was a plate of salt— a thing rarely seen now. The object is to scare away evil spirits." Brand mentions the custom as being common in his day in Northumberland, and gives a quotation from Moresin’s *Depravatae Religionis Origo*, 1594, "Salem abhorrere constat Diabolum," &c., which bears out my correspondent’s statement as to the motive with which the act was done in this case. Such a survival, in the nineteenth century, of an old custom is curious and deserves placing on record in "N. & Q."
+
+Jonny H. Cuarmay, F.S.A. Lincoln's Inn.
+
+---
+
 
 https://archive.org/details/sim_notes-and-queries_1882-09-30_6_144/page/272/mode/2up
 
@@ -277,7 +270,15 @@ Notes and Queries 1882-09-30: Vol 6 Iss 144
 
 p273
 
-Otp Yorxsuire Customs (6" §. vi. 146). — The practice of placing a plate of salt on the breast of a corpse is a general one among the labouring classes of Dudley and that district, though there it is done not with the object indicated by Mr. Cuapman, but with the idea that it acts as a disinfectant and purifies the apartment. B. R
+Old Yorkshire Customs (6th S. vi. 146). — The practice of placing a plate of salt on the breast of a corpse is a general one among the labouring classes of Dudley and that district, though there it is done not with the object indicated by Mr. Chapman, but with the idea that it acts as a disinfectant and purifies the apartment. B. R.
+
+The custom to which my firend Mr. Chapman refers is perhaps more common than he supposes. It was followed in my own house some years ago (without my previous knowledge or sanction), but I found that in addition to the plate of salt on the breast there was a larger vessel of salt under the bed on which the corpse was laid. I have always heard that the reason for placing the plate of salt on the breast was that given by Mr. Chapman's correspondent, who is, if I may guess at his identity, well acquainted with North Yorkshire tradition. C. G. C.
+Richmond, Yorkshire.
+
+I remember seeing a corpse some twenty years since at Lower Heyford, Oxfordshire, on the breast of which was placed a pewter plate containing salt. On inquiring for what purpose it was placed there the female in attendance said it was to prevent the corpse swelling. G. J. Dew.
+Lower Heyford, Oxon.
+
+See the Rev. T. F. Thiselton Dyer's Domestic Folk-lore, pp. 59, 60. F. C. Birkbeck Terry.
 
 
 ---
@@ -292,9 +293,13 @@ Notes and Queries 1883-01-13: Vol 7 Iss 159
 
 p25
 
-Wetsn Fork-tore: tHe Six-Eater.—The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
-“The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caer- marthenshire. The meaning of this most singular in- stitution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person; he then uttered an in- cantation over the bread, after which he proceeded to eat it—thereby eating the sins of the dead person; this done, he received a fee of two-and-sixpence—which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious super- stition was everywhere prevalent.”
-Cf. “Old Yorkshire Customs,” “N. & Q.,” 6th S. vi. 146 ?? 144?, 273. Freperick E, Sawyer. Brighton,
+Welsh Folk-lore: tHe Sin-Eater.— The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
+
+"The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire. The meaning of this most singular in-stitution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person; he then uttered an incantation over the bread, after which he proceeded to eat it— thereby eating the sins of the dead person; this done, he received a fee of two-and-sixpence—which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious superstition was everywhere prevalent."
+
+Cf. "Old Yorkshire Customs," "N. & Q.," 6th S. vi. 146, 273.
+
+Frederick E, Sawyer. Brighton,
 
 ----
 
@@ -305,10 +310,9 @@ Publication date 1895-10-12
 
 p288
 
--zaTERS.— Recently this old custom has been referred to in a local paper ; but the rather con- tradictory illustrations given call for an explana- tion, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is = to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case,
-t Eek cheese, and beer on the breast of the
-ead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himeelf the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; ifso, where. The old custom referred to in Leland’s ‘ Collections’ was sin-eati e = and simple. Atrrep Cuas. Jonas, F.R.Hist.S.
-Pairfield, Poundfald, near Sweneea.
+SIN_EATERS.— Recently this old custom has been referred to in a local paper ; but the rather contradictory illustrations given call for an explanation, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case, put bread, cheese, and beer on the breast of the
+dead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himeelf the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; if so, where. The old custom referred to in Leland's 'Collections' was sin-eating pure and simple. Alfred Chas. Jonas, F.R.Hist.S.
+Pairfield, Poundfald, near Swansea.
 
 ---
 
@@ -319,13 +323,14 @@ p332
 Notes and Queries  1895-10-26: Vol 8 Iss 200
 Publication date 1895-10-26
 
-Sin-zaters (8 S, viii. 288).
+Sin-eaters (8th S, viii. 288).
 
-—See ‘N. & Q..,’ 1* S. iv. 211; vi. 390, 541, and the references there given. W. C. B.
+—See 'N. & Q.,' 1st S. iv. 211; vi. 390, 541, and the references there given. W. C. B.
 
 
 ---
 
+https://archive.org/details/sim_notes-and-queries_1896-02-08_9_215/page/108/mode/2up?q=sin+eater
 
 Notes and Queries
 1896-02-08
@@ -335,349 +340,63 @@ p109-111 Feb 8, 1896
 
 
 
-SIN-EATER. 
-(8™ §S. viii. 288, 332.) 
+SIN-EATER.
+(8th S. viii. 288, 332.)
 
-There appeared in the Times of 18 Sept., 1895, 
-a very interesting letter from Mr. N. W. Thomas, of 
-Oswestry, on the above subject. Armed with that 
-letter, I spent half a day at the British Museum, 
-and looked through everything that Mr. Thomas 
-refers to as bearing on the matter. I was already 
-familiar with Joseph Downes’s tale in the ‘ Moun- 
-tain Decameron,’ but as I am no folk-lorist, that 
-was about the extent of my own knowledge. It 
-seems that the “authorities” for the alleged 
-custom are (1) Aubrey ; (2) Mr. Matthew Mogg- 
-ridge, of Swansea ; and (3) Pennant. 
+There appeared in the *Times* of 18 Sept., 1895, a very interesting letter from Mr. N. W. Thomas, of Oswestry, on the above subject. Armed with that letter, I spent half a day at the British Museum, and looked through everything that Mr. Thomas refers to as bearing on the matter. I was already familiar with Joseph Downes’s tale in the 'Mountain Decameron,' but as I am no folk-lorist, that was about the extent of my own knowledge. It seems that the "authorities" for the alleged custom are (1) Aubrey ; (2) Mr. Matthew Moggridge, of Swansea ; and (3) Pennant.
 
-The important statement as affecting South 
-Wales is Mr. Moggridge’s, made at the sixth 
-—s of the Cambrian Archeological Society 
-at Ludlow on 28 August, 1852. 
+The important statement as affecting South Wales is Mr. Moggridge's, made at the sixth meeting of the Cambrian Archeological Society at Ludlow on 28 August, 1852.
 
-After describing the custom Mr. Moggridge 
+After describing the custom Mr. Moggridge said that—
 
-said that— 
-“in Carmarthenshire, not far from Llandebie, there was 
-& mountain valley, where, up to the commencement of 
-the present century, the people were of a very lawless 
-character. There the practice was said to have pre- 
-vailed to a recent period...... He believed that people 
-were thoroughly ashamed of the practice; one case, he 
-was informed, occurred a few yeara ago, but he believed 
-it was extinct now.” 
+"in Carmarthenshire, not far from Llandebie, there was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the practice was said to have pre-vailed to a recent period...... He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred a few yeara ago, but he believed it was extinct now."
 
-Mr. E. A. Freeman inquired whether “sin- 
-eater was the term used in the district where the 
-custom prevailed?” Mr. Moggridge ‘‘ answered 
-in the affirmative.” 
+Mr. E. A. Freeman inquired whether "sin-eater was the term used in the district where the custom prevailed?" Mr. Moggridge "answered in the affirmative."
 
-That statement seems to have passed un- 
-challenged, although there were Welshmen actually 
-present—the late Mr. Wynne, of Peniarth, for 
-instance, and the present Bishop of St. David's. 
+That statement seems to have passed unchallenged, although there were Welshmen actually present—the late Mr. Wynne, of Peniarth, for instance, and the present Bishop of St. David's.
 
-It is greatly to Freeman’s credit that his scent 
-for “facts” was keener than the Welshmen’s, even 
-on their own ground. ‘“‘Sin-eater” has never 
-been adopted into the Welsh language, nor is 
-there an equivalent term known in that language. 
-And yet ‘Mr. Moggridge must have had some 
-ground for his assertion. On the supposition that 
-he was acquainted with the Rev. John Williams, 
-who was vicar of Llandebie and Bettws from 1804 
-to 1850, I think I can give a possible explanation. 
-When, after Williams’s death in 1850, there 
-was a sale of his effects at the vicarage, my father 
-bought a large quantity of Welsh periodicals and 
-books. Among these was Drych yr Amseroedd 
-(Mirror of the Times), by the Rev. Robert Jones, 
-of Rhoslan, Carnarvonshire. That little work was 
-a great favourite of mine when I was a boy. Let 
-me translate a short passage :— 
+It is greatly to Freeman’s credit that his scent for "facts" was keener than the Welshmen’', even on their own ground. "Sin-eater" has never been adopted into the Welsh language, nor is there an equivalent term known in that language. And yet Mr. Moggridge must have had some ground for his assertion. On the supposition that he was acquainted with the Rev. John Williams, who was vicar of Llandebie and Bettws from 1804 to 1850, I think I can give a possible explanation. When, after Williams's death in 1850, there was a sale of his effects at the vicarage, my fatherbought a large quantity of Welsh periodicals and books. Among these was *Drych yr Amseroedd* (*Mirror of the Times*), by the Rev. Robert Jones, of Rhoslan, Carnarvonshire. That little work was a great favourite of mine when I was a boy. Let me translate a short passage :—
 
-“ Inquirer: I remember my grandfather mentioning 
-something called Diodlas or Diodles. Can you tell me 
+"*Inquirer*: I remember my grandfather mentioning something called Diodlas or Diodles. Can you tell me what that was?
 
+"*Observer*: When some one happened te die in a household, some poor person chosen by the family would be the recipient of that precious (lit. happy) dole the Diodles. The manner of bestowing it was as follows: the family would send a cup to the coffin-maker, to be painted of the same colour as the coffin (two colours were used in those times—black for married folk, white for the single); and when the day of the funeral arrived, after the body had been placed on the bier, the head of the family gave the alms to the poor person selected, that is to say, a big loaf of good bread, and a large chunk of cheese with a piece of silver stuck in it, and the painted cup full of ale (if ale there happened to be), otherwisr of milk, presenting them across the corpse to the poor person. The latter would utter devout and fervent blessings and prayers for (lit. along with) the soul of the dead. It was customary for the entire household, on the first Sunday after the funeral, to go and kneel on the grave, each saying the Lord's Prayer (Pader). And they would never mention any deceased member or relation of the family without saying very devoutly 'Heaven be his portion' (*Nefoedd iddo!*),"— p43.
 
-what that was? abe 
-“ Observer: When some one happened te die in a 
+This custom will be familiar to the reader already, no doubt, from Pennant's 'Tour' (ii. p. 338, London, 1784) ; but the Welsh name, and several graphic touches besides, are not to be found in Pennant’s description, which, by the way, is evidently derived from the same source as the account in the British Magazine for 1835 (vol. vii. p. 399), said there to be taken "from a MS. book of a bishop of St. Asaph, written about a century ago."
 
+I venture to suggest that it is this by no means repulsive old North Walian custom that has given rise to the myth of the sin-eater. The only Welsh terms for the alleged custom that Mr. Moggridge could possibly have heard are *diodles* and *cwpan y meirw*—both of them unknown in South Wales.
 
+Owen Pughe's 'Welsh Dictionary' (Gee, 1832) has, under *Diawdlesir* :—
 
+"A drinking cup; also a cup-full of drink, so called superstitiously, given for the dead, which in some places is called *diawdlyst*, and *cwpan y meire* (i.e., the cup of the dead).
 
+"*Diawdlyst*=the give-ale."
 
-“The cream of a nation’s thought expreseed in in- 
-dividual form,” Dvutcet. 
+Canon Silvan Evans's great 'Welsh Dictionary,' now in course of publication, has not yet, I believe, reached D. It does not mention *cwpan y meirw*.
 
+I was very well acquainted, when a boy, with a small farmer from what I must call the "incriminated district," who used to be in great request as a *post mortem* barber. He would most certainly have informed me of such a practice had it ever existed within his personal or traditional knowledge.
 
-household, some poor person chosen by the family 
+I may add that the opening of the "lawless" valley mentioned lies between the two parishes of Liandebie and Bettws, and that Swansea is only some ten or twelve miles off. It is not only possible, but highly probable that the aged vicar of those two parishes had often dwelt on the "Popish" superstition described so graphically in Jones of Rhoslan's little book.
 
+At any rate, that is the only explanation I can suggest of the Cambrian Archaeologists' amusing "comedy of errors." Mr, Sidney Hartland must search somewhere else than in Lilandebie and Cwmamman for evidence in support of his "cannibal" theory. J. P. Owen.
+48, Comeragh Road, West Kensington.
 
+P.S.—Perhaps I may be allowed to add that the above was sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895.
 
+The two customs mentioned under the above heading are, in reality, quite reconcilable. According to a widely disseminated folk-belief, when a man dies his essential principles, moral or otherwise, may be taken over by some one else, the matter being managed in various ways in different parts of the world. Thus, among certain savage peoples a successful warrior banquets on the body of the enemy he has killed, in order to absorb his bravery and his other enviable characteristics. It is said that in ancient Mexico the captor was under obligation to offer up his captive at one of the solemn sacrificial feasts— an important reason for the custom being, probably, that the prisoner's virtues as a man should be transmitted to the conqueror, though, from another point of view, no doubt the unfortunate sufferer was an earthly representative of the god to whom he was sacrificed.
 
+In most cases where transference of moral or vital powers is supposed to take place, the recipient is thought to benefit ; but this is not a necessary part of the belief. He may occupy the place of a scapegoat, as does the Welsh sin-eater, and take upon himself all responsibility for the misdeeds of the deceased, although he more usually appropriates the good qualities of the dead. The idea of freeing the defunct from his imperfections can scarcely be so ancient as the more selfish notion of seizing his virtues. It would seem to be an outgrowth from the more egotistical belief, aided to some degree in development by the influence of religious or quasi-religious environment. M. P.
 
+The ceremony of sin-eating as it was formerly practised in Scotland is described at p. 60 of Mr. Phiselton Dyer’s 'Domestic Folk-lore.' If my memory serves me, there is a good deal of information on this subject in 'The Golden Bough,' by Mr. Frazer. C. C. B.
 
+Mr. Elton, in 'Origins of English History,' 1882, pp. 181, 182, has some interesting observations on sin-eating. He says, "The superstition certainly prevailed in Herefordshire, though it may be doubful whether it extended to the neighbouring parts of Wales." He quotes Aubrey's 'Remains of Gentilisme' (as every one writing on the subject does), and refers also to Sikes's 'British Goblins,' 325, and Hone's 'Year Book,' 858. A quotation from Mr. Wirt Sikes shows that the custom prevails in Turkestan. I doubt if the custom survives anywhere in Great Britain or Ireland. James Hooper. Norwich.
 
+Sin-eating pure and simple has, I think, been obsolete in these islands now for some considerable period. An excellent article dealing with the whole matter appears in Folk-Lore, 1892, pp. 144-157, by Mr. E. Sidney Hartland. He states, at p. 156, that the custom (of sin-eating in one form or another) was existent, or quite recently existed, among the Greeks and Scots, and possibly among the Dyaks and Gipsies. He quotes the incident which occurred in 1851 or 1852, when the custom was still prevalent in Wales, and gives a reference to the *Archaeologia Cambrensis*, N.S., iii. (1852), 330. A curious variant of the custom is mentioned as surviving in Shropshire in 1892 (*Folk-Lore*, iv. pp. 392, 393). W. B. Gerish. Wormley, Herts. 
 
-
-
-
-110 NOTES AND QUERIES. 
-
-
-[8 8, 1X, Fes, 8, 96, 
-
-
-
-
-
-would be the recipient of that precious (lit. happy) dole 
-the Diodles. The manner of bestowing it was as follows: 
-the family would send a cup to the coffin-maker, to be 
-painted of the same colour as the coffin (two colours 
-were used in those times—black for married folk, white 
-for the single); and when the day of the funeral arrived, 
-after the body had been placed on the bier, the head of 
-the family gave the alms to the poor person selected, 
-that is to say, a big loaf of good bread, and a large chunk 
-of cheese with a piece of silver stuck in it, and the 
-painted cup full of ale (if ale there happened to be), 
-otherwiee of milk, presenting them across the corpse to 
-the poor person. 
-fervent blessings and prayers for (lit. along with) the 
-soul of the dead. It was customary for the entire house- 
-
-
-
-
-
-he latter would utter devout and | 
-
-
-| 
-
-
-hold, on the first Sunday after the funeral, to go and | 
-
-
-kneel on the grave, each saying the Lord’s Prayer 
-(Pader). And they wou'd never mention any deceased 
-member or relation of the family without saying very 
-oy * Heaven be his portion’ (Nefoedd iddo /),”— 
-
-
-This custom will be familiar to the reader already, 
-no doubt, from Pennant’s ‘Tour’ (ii. p. 338, 
-London, 1784) ; bat the Welsh name, and several 
-graphic touches besides, are not to be found in 
-Pennant’s description, which, by the way, is evi- 
-dently derived from the same source as the account 
-in the British Magazine for 1835 (vol. vii. p. 399), 
-said there to be taken “from a MS. book of a 
-bishop of St. Asaph, written about a century ago.” 
-
-I venture to suggest that it is this by no means 
-repulsive old North Walian custom that has given 
-rise to the myth of the sin-eater. The only Welsh 
-terms for the alleged custom that Mr. Moggridge 
-could possibly have heard are diodles and cwpan y 
-meirw—both of them unknown in South Wales. 
-
-Owen Pughe’s ‘ Welsh Dictionary’ (Gee, 1832) 
-
-has, under Diawdlestr :— 
-“A drinking cup; also a cup-full of drink, so called 
-superstitiously, given for the dead, which in some places 
-is called diawdlyst, and cwpan y meirw” (i,¢., the cup of 
-the dead). 
-
-“ Diawdlyst=the give-ale.” 
-
-Canon Silvan Evans’s great ‘ Welsh Dictionary,’ 
-now in course of publication, bas not yet, I believe, 
-reached D. It does not mention cwpan y meirw. 
-
-I was very well acquainted, when a boy, with a 
-small farmer from what I must call the “ incri- 
-minated district,” who used to be in great request 
-as a post mortem barber. He would most cer- 
-tainly have informed me of such a practice had 
-it ever existed within his personal or traditional 
-knowledge. 
-
-I may add that the opening of the “lawless” 
-valley mentioned lies between the two parishes of 
-Liandebie and Bettws, and that Swansea is only 
-some ten or twelve miles off. It is not only 
-possible, but highly probable that the aged vicar 
-Sook two parishes = — dwelt on the 
-
-‘opish”” superstition described so hically in 
-Jones of Rhoslan’s little book. wliee d 
-
-At any rate, that is the only explanation I can 
-suggest of the Cambrian Archzologists’ amusing 
-“comedy of errors.” Mr, Sidney Hartland must 
-
-
-
-
-
-i 
-
-
-search somewhere else than in Lilandebie and 
-
-Cwmamman for evidence in support of his “ canni- 
-
-bal” theory. J. P. Owen. 
-48, Comeragh Road, West Kensington. 
-
-
-P.S.—Perhaps I may be allowed to add that the 
-above was sent for publication to ‘N. & Q.’ before 
-the appearance of Mr. Sidney Hartland’s first letter 
-in the Academy (Nov., 1895), and that that gentle- 
-man had it before him, in the form of a letter from 
-me to Prof. Rhys, in October, 1895. 
-
-
-The two customs mentioned under the above 
-heading are, in reality, quite reconcilable. Accord- 
-ing to a widely disseminated folk-belief, when 
-a man dies his essential principles, moral or 
-otherwise, may be taken over by some one else, 
-the matter being managed in various ways in 
-different parts of the world. Thus, among certain 
-savage peoples a successful warrior banquets on 
-the body of the enemy he has killed, in order 
-to absorb his bravery and his other enviable 
-characteristics. It is said that in ancient Mexico 
-the captor was under obligation to offer up his 
-captive at one of the solemn sacrificial feaste— 
-an important reason for the custom being, pro- 
-bably, that the prisoner's virtues as a man should 
-be transmitted to the conqueror, though, from 
-another point of view, no doubt the unfortunate 
-sufferer was an earthly representative of the god to 
-whom he was sacrificed. 
-
-In most cases where transference of moral or 
-vital powers is supposed to take place, the recipient 
-is thought to benefit ; but this is not a necessary 
-part of the belief. He may occupy the place of a 
-scapegoat, as does the Welsh sin-eater, and take 
-upon bimself all responsibility for the misdeeds of 
-the deceased, although he more usually appro- 
-priates the good qualities of the dead. The idea 
-of freeing the defunct from his imperfections can 
-scarcely be so ancient as the more selfish notion of 
-seizing his virtues. It would seem to be an out- 
-growth from the more egotistical belief, aided to 
-some degree in development by the influence of 
-religious or quasi-religious environment. 
-
-
-The ceremony of sin-eating as it was formerly practised in Scotland is described at p. 60 of Mr. 
-Phiselton Dyer’s ‘Domestic Folk-lore.’ If my 
-memory serves me, there is a good deal of infor- 
-mation on this subject in ‘The Golden Bough,’ by 
-Mr. Frazer. Cc. C. B. 
-
-
-Mr. Elton, in ‘Origins of English History,’ 
-1882, pp. 181, 182, bas some interesting obser- 
-vations on sin-eating. He says, “ The superstition 
-certainly prevailed in Herefordshire, though it may 
-be doubful whether it extended to the neighbour- 
-ing parts of Wales.” He quotes Aubrey’s ‘ Re- 
-mains of Gentilisme ’ (as every one writing on the 
-subject does), and refers also to Sikes’s ‘ British 
-
-
-
-
-
-
-
-
-KHOoOOow fF 
-
-
-MEWS ageeweowueaao 
-
-
-
-
-
-
-
-
-ye rereer ae 
-
-
-eo rmi Ff @eoeos 
-
-
--eorws of 
-
-
-
-
-
-g* 8. 1X. Fan, 8, '96,] 
-
-
-NOTES AND QUERIES. 111 
-
-
-
-
-
-Goblins,’ 325, and Hone’s ‘ Year Book,’ 858. A 
-
-quotation from Mr. Wirt Sikes shows that the 
-
-custom prevails in Turkestan. I doubt if the 
-
-custom survives anywhere in Great Britain or 
-
-Ireland. James Hooper. 
-Norwich. 
-
-
-Sin-eating pure and simple has, I think, been 
-obsolete in these islands now for some considerable 
-period. An excellent article dealing with the 
-whole matter appears in Folk-Lore, 1892, pp. 144- 
-157, by Mr. E. Sidney Hartland. He states, at 
-p. 156, that the custom (of sin-eating in one form 
-or another) was existent, or quite recently existed, 
-among the Greeks and Scotcb, and possibly among 
-the Dyaks and Gipsies. He quotes the incident 
-which occurred in 1851 or 1852, when the custom 
-was still prevalent in Wales, and gives a reference 
-to the Archewologia Cambrensis, N.S., iii. (1852), 
-330. A curious variant of the custom is men- 
-tioned as surviving in Shropshire in 1892 (7olk- 
-Lore, iv. pp. 392, 393). W. B. Gerisa. 
-
-Wormley, Herts. 
-
-
-Is Mr. Jonas acquainted with the articles on 
-this subject in Brand’s ‘Popular Antiquities,’ 
-ii. 152 (edit. 1841) ; Gentleman’s Magazine, xcii. 
-222; and ‘N. & Q.,’ 1" 5. iv. 211; vi. 390, 541, 
-where references to other works are also given ? 
-
-Everard Home CoLemay. 
-
-71, Brecknock Road. 
+Is Mr. Jonas acquainted with the articles on this subject in Brand's 'Popular Antiquities,' ii. 152 (edit. 1841) ; Gentleman’s Magazine, xcii. 222; and 'N. & Q.,' 1st S. iv. 211; vi. 390, 541, where references to other works are also given ? Everard Home Coleman. 71, Brecknock Road. 
 
 ---
+
+https://archive.org/details/sim_notes-and-queries_1896-02-29_9_218/page/168/mode/2up?q=sin-eater
 
 Notes and Queries
 1896-02-29
@@ -686,166 +405,32 @@ Vol 9 Iss 218
 Feb 29, 1896
 p169-170
 
- SIN - EATER, 
-(8 §, viii, 288, 332 ; ix. 109.) 
+SIN - EATER, 
+(8th S. viii, 288, 332 ; ix. 109.)
 
-As the question of the sin-eater has come up in 
-‘N. & Q.,’ and Mr. Owen has alluded in your issue 
-of 8 Feb. to my letter to the Times in September 
-last, I should be glad of an opportunity of making 
-a few remarks on the subject. I should have pre- 
-ferred to do so in the Academy, but the editor, 
-after inserting Mr. Hartland’s letters, in which I 
-was alluded to by name half a dozen times and 
-challenged to explain various facts, published Mr. 
-Owen’s reply without a word of explanation to 
-myself. 
+As the question of the sin-eater has come up in 'N. & Q.,' and Mr. Owen has alluded in your issue of 8 Feb. to my letter to the *Times* in September last, I should be glad of an opportunity of making a few remarks on the subject. I should have preferred to do so in the *Academy*, but the editor, after inserting Mr. Hartland's letters, in which I was alluded to by name half a dozen times and challenged to explain various facts, published Mr. Owen's reply without a word of explanation to myself.
 
-The original purpose of my letter to the Times 
-was to dispute the evidence for the Llandebie case, 
-and it was only incidentally that the general ques- 
-tion of sin-eating was involved. 
+The original purpose of my letter to the Times was to dispute the evidence for the Llandebie case, and it was only incidentally that the general question of sin-eating was involved.
 
-The main objection to the Llandebie story is the 
-evidence of the schoolmaster Rowlands, who states 
-that cakes were not given at funerals there. If 
-this is so it is difficult to see how the sin-eater 
-could have existed; for it is argued that this 
-custom of giving cakes was a survival of sin-eating, 
-and we are asked to believe that the custom of 
-giving cakes disappeared before the central figure, 
-the sin-eater. 
+The main objection to the Llandebie story is the evidence of the schoolmaster Rowlands, who states that cakes were not given at funerals there. If this is so it is difficult to see how the sin-eater could have existed; for it is argued that this custom of giving cakes was a survival of sin-eating, and we are asked to believe that the custom of giving cakes disappeared before the central figure, the sin-eater.
 
-The weakness of Mr. Moggridge’s ipse dixit is so 
-apparent that I need not enlarge on it ; for, in the 
-absence of any statement of how he came by his 
-information, a story on his authority is worth no 
-more than a statement in an anonymous letter, 
-copied and published without investigation. 
+The weakness of Mr. Moggridge's *ipse dixit* is so apparent that I need not enlarge on it ; for, in the absence of any statement of how he came by his information, a story on his authority is worth no more than a statement in an anonymous letter, copied and published without investigation.
 
-I could not, even without the explicit denials 
-which we have before us, attach any importance 
-to such a story ; but when capable men, resident 
-in the neighbourhood, not only fail to find the sin- 
-eater, but vouch for facts actually inconsistent 
-with the existence of the sin-eater at the spot 
-within recent times, it seems absurd to consider 
-the Llandebie case as coming under the head of 
-facts for folk-lorists. 
+I could not, even without the explicit denials which we have before us, attach any importance to such a story ; but when capable men, resident in the neighbourhood, not only fail to find the sin-eater, but vouch for facts actually inconsistent with the existence of the sin-eater at the spot within recent times, it seems absurd to consider the Llandebie case as coming under the head of facts for folk-lorists.
 
-It is singular that no one has ever been 
-duced who has seen a sin-eater, or even spoken 
-with any one who has seen one. If the sin-eater was 
-in existence in 1852 or shortly before, it should be 
-possible now (much more should it have been so in 
-1877) to produce one who could give testimony of 
-this nature. N. W. Tomas. 
-New College, Eastbourne. 
+It is singular that no one has ever been duced who has seen a sin-eater, or even spoken with any one who has seen one. If the sin-eater was in existence in 1852 or shortly before, it should be possible now (much more should it have been so in 1877) to produce one who could give testimony of this nature. N. W. Thomas. New College, Eastbourne. 
 
+Mr. Owen begins his remarks by saying that "there appeared in the *Times* of 18 Sept., 1895, a very interesting letter from Mr. N. W. Thomas, of Oswestry, on the above subject." He forgets to say that Mr. Thomas's letter was an attack on Mr. Hartland, to which the latter, in the *Times* and the *Academy*, effectually replied.
 
+Mr. Hartland quoted a passage from my 'Household Tales and Traditional Remains,' p. 124 ; and as this has a material bearing on the subject, I will repeat it here :—
 
-Mr. Owen begins his remarks by saying that 
-‘ there appeared in the Times of 18 Sept., 1895, a 
-very interesting letter from Mr. N. W. Thomas, of 
-Oswestry, on the above subject.” He forgets to 
-say that Mr. Thomas's letter was an attack on Mr. 
-Hartland, to which the latter, inthe Times and the 
-Academy, effectually replied. 
+"When you drink wine at a funeral every drop that ou drink is s sin which the deceased has committed. You thereby take away the dead man’s sins and bear them yourself."
 
+I can produce the informant from whom this curious piece of folk-lore was obtained. It was offered to me without any questioning when I was collecting folk-lore some years ago, and it is undoubtedly genuine. It completes what Aubrey said about sin-eating; so that English folk-lore is acquainted not only with sin-eating but also with sin-drinking. It matters not whether such terms as "sin-eating" or "sin-drinking" can be proved to have existed in recent times. It is enough to show that the customs themselves existed ; and of this we have ample evidence.
 
+Taking the two customs together, one cannot help seeing a resemblance between them and the *missa pro defunctis*, or mass for the dead. For what is a "mass" for the dead but a "mess" or banquet for the dead? Prof. Skeat tells us that the Low Lat. *missa* "is usually accounted for by supposing that the allusion is to the words *ite, missa est*." But this seems far-fetched and very improbable ; indeed, Prof. Skeat admits that the change of vowel from the Lat. *i* to O.E. oe, as in *moesse*, M.E. *messe*, is remarkable. It is easy to trace the "mess," or feast for the dead, in ancient custom. We may see it in the mass of All Hallows, or All Hallows Day (1 Nov.), of which, even to this day, a reminiscence is found in Yorkshire in the "tharf cakes" eaten during the first week of November. We may see it in the funeral cakes so commonly eaten during the present century. We may see it in the enormous feasts and in the mighty brewings of ale held and made after the death of the wealthy in the Middle-English period. And, going still further back, we may see it in the broken bones, with marrow extracted, scattered throughout so many prehistoric burial mounds in England.`[Greenwell's 'British Barrows', p10.]` From evidence thus presented it appeared to Dr. Thurnam that anthropophagism once prevailed in the British Isles, and he adduced some passages from ancient writers in support of his opinion `[Greenwell, ut supro, p544.]`. These were: Diodorus Siculus, v. 32; Strabo, iv. 5, 4; Plinius, vii. 2; Hieronymus adv. Jovianum, ii.
 
-
-
-E. B, Barry. 
-
-
-
-
-Mr. Hartland quoted a passage from my ‘ House- 
-
-
-
-
-
-170 
-
-
-
-
-
-NOTES AND QUERIES. 
-
-
-
-
-
-[8 8, IX, Fen, 29, '96. 
-
-
-
-
-
-hold Tales and Traditional Remains,’ p. 124 ; and 
-as this has a material bearing on the subject, I 
-will repeat it here :— 
-“When you drink wine at a funeral every drop that 
-ou drink is s sin which the deceased has committed. 
-ou thereby take away the dead man’s sins and bear 
-them yourself.” 
-
-
-I can produce the informant from whom this 
-curious piece of folk-lore was obtained. It was 
-offered to me without any questioning when I was 
-collecting folk-lore some years ago, and it is un- 
-doubtedly genuine. It completes what Aubrey 
-said about sin-eating; so that English folk-lore is 
-acquainted not only with sin-eating but also with 
-sin-drinking. It matters not whether such terms 
-as “ sin-eating ” or “‘sin-drinking” can be proved 
-to have existed in recent times. It is enough to 
-show that the customs themselves existed ; and of 
-this we have ample evidence. 
-
-Taking the two customs together, one cannot 
-help seeing a resemblance between them and the 
-missa pro defunctis, or mass for the dead. For 
-what is a ‘‘ mass” for the dead but a ‘‘ mess” or 
-banquet for the dead? Prof. Skeat tells us that 
-the Low Lat. missa “is usually accounted for by 
-supposing that the allusion is to the words ite, missa 
-est.” Bat this seems far-fetched and very impro- 
-bable ; indeed, Prof. Skeat admits that the change 
-of vowel from the Lat. ¢ to O.E. «@, as in meesse, 
-M.E. messe, is remarkable. It is easy to trace the 
-** mess,” or feast for the dead, in ancient custom. 
-We may see it in the mass of All Hallows, or All 
-Hallows Day (1 Nov.), of which, even to this day, 
-a reminiscence is found in Yorkshire in the 
-“tharf cakes” eaten during the first week of 
-November. We may see it in the funeral cakes so 
-commonly eaten during the present century. We 
-may see it in the enormous feasts and in the mighty 
-brewings of ale held and made after the death of 
-the wealthy in the Middle-English period. And, 
-going still further back, we may see it in the 
-
-ken bones, with marrow extracted, scattered 
-throughout so many prehistoric burial mounds in 
-England.* From evidence thus presented it ap- 
-peared to Dr. Thurnam that anthropophagism once 
-prevailed in the British Isles, and he adduced some 
-es from ancient writers in support of his 
-opinion.t These were: Diodorus Siculus, v. 32; 
-Strabo, iv. 5, 4; Plinius, vii. 2; Hieronymus adv. 
-Jovianun, ii. 
-
-If the explanation of “‘ mass” here offered be 
-correct, it follows that every “feast” in the calendar 
-is a commemorative banquet. The words of the 
-Saviour, ‘‘ This doin remembrance of me,” may be 
-compared, and also the minni, or memorial cup, at 
-old northern sacrificer. S. O. Addy. 
+If the explanation of  "mass" here offered be correct, it follows that every "feast" in the calendar is a commemorative banquet. The words of the Saviour, "This do in remembrance of me," may be compared, and also the *minni*, or memorial cup, at old northern sacrifices. S. O. Addy. 3, Westbourne Road, Sheffield.
 
 
 
@@ -859,22 +444,20 @@ Publication date 1896-03-21
 
 p236-7
 
-8th S. IX 
+8th S. IX
 
-Srn-EaTER (8 §, viii, 288, 332 ; ix. 109, 169). | Mr. Appy’s reference to my note in ‘N. & Q.’ is not quite accurate. I did not “forget to say” that Mr. Thomas’s letters to the Times were an ‘* attack” on Mr. Hartland, for the simple reason that the latter gentleman had assured me bis sole object was to get at the truth, and that he would welcome light from whatever quarter it came. The only thing in the = > of an “‘ attack” that I have seen was Mr. Hartland’s criticism on the supposed shortcomings of the venerable Welsh scholar Canon Silvan Evans. So far as I was personally concerned, I thoroughly enjoyed the way in which my own humble contributions to the controversy were handled, though that handling did not tend to enhance my respect for “ autho- rity”’ in matters of folk-lore, nor to deepen my confidence in the dovetailing method of working up accounts of custom and myth. Indeed, Mr. Hartland’s efforts varias inducere plumas
-Undique collatis membris ut turpiter atrum
-Pingeret dvépopayow (Fe-fi-fo-fum Auberiensem), furnish a lesson that will not, I hope, be thrown away on the guileless reader of the pronounce- ments of folk-lore ‘* authorities.”
-The only modern instance of so-called ‘‘sin- eating” adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Appy’s book. Aubrey |and Pennant, Moggeridge and the Pembrokeshire | minister were all found to be other than Mr. Hartland’s fancy painted them. I was unable to
-| find a copy of Mr. Appr’s work in the British Museum, but that gentleman’s own communica- tion to ‘N. & Q.’ induces me to ask him (1) if the term “‘sin-drinking” was employed by bis in-
-formant ; (2) if his informant was a Churchman |
-or a Dissenter; and (3) if he can see his way to publish the name of the locality where the * ritual ” described to and by him is practised.
-It was only, I believe, through my public avowal of scepticism as to the “ significance,” from a sin-eating point of view, of the Pembroke- shire minister's remarks at the Market Drayton
-funeral that Mr. Hartland was induced to sift |
-that tale. The result of his investigation war, if I may borrow Mr. Appy’s expression, “ effectual ” enough. The Market Drayton evidence—“ ovi- dence,” to — Mr. Hartland’s words in the Aca- demy for 9 Nov., “ such as could not be doubted ”
-—bad become two months later (Academy, 11.Jan.) |
-an “incident about which there had been some misapprehension”; while the minister’s words “would appear only to have had reference to the general custom of eating and drinking at funerals.” I did not attempt to argue with Mr. Hartland.
-Indeed, there was no need, for the above is only a | sample of the “effectual” way in which his own |
-arguments destroyed either themselves or one another. J. P. Owen, 48, Comeragh Road, W
+SIN-EATER (8th S. viii, 288, 332 ; ix. 109, 169). — Mr. Addy's reference to my note in 'N. & Q.' is not quite accurate. I did not "forget to say" that Mr. Thomas's letters to the *Times* were an "attack" on Mr. Hartland, for the simple reason that the latter gentleman had assured me his sole object was to get at the truth, and that he would welcome light from whatever quarter it came. The only thing in the shape of an "attack" that I have seen was Mr. Hartland's criticism on the supposed shortcomings of the venerable Welsh scholar Canon Silvan Evans. So far as I was personally concerned, I thoroughly enjoyed the way in which my own humble contributions to the controversy were handled, though that handling did not tend to enhance my respect for "authority" in matters of folk-lore, nor to deepen my confidence in the dovetailing method of working up accounts of custom and myth. Indeed, Mr. Hartland's efforts
+
+varias inducere plumas 
+Undique collatis membris ut turpiter atrum 
+Pingeret dvépopayow (Fe-fi-fo-fum Auberiensem),
+
+furnish a lesson that will not, I hope, be thrown away on the guileless reader of the pronouncements of folk-lore "authorities."
+
+The only modern instance of so-called "sin-eating" adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Addy’s book. Aubrey and Pennant, Moggeridge and the Pembrokeshire minister were all found to be other than Mr. Hartland’s fancy painted them. I was unable to find a copy of Mr. Addy's work in the British Museum, but that gentleman's own communication to 'N. & Q.' induces me to ask him (1) if the term "sin-drinking" was employed by his informant ; (2) if his informant was a Churchman or a Dissenter; and (3) if he can see his way to publish the name of the locality where the "ritual" described to and by him is practised.
+
+It was only, I believe, through my public avowal of scepticism as to the "significance," from a sin-eating point of view, of the Pembrokeshire minister's remarks at the Market Drayton funeral that Mr. Hartland was induced to sift that tale. The result of his investigation was, if I may borrow Mr. Addy's expression, "effectual" enough. The Market Drayton evidence— "evidence," to quote Mr. Hartland's words in the *Academy* for 9 Nov., "such as could not be doubted" — had become two months later (*Academy*, 11.Jan.) an "incident about which there had been some misapprehension"; while the minister's words "would appear only to have had reference to the general custom of eating and drinking at funerals." I did not attempt to argue with Mr. Hartland. Indeed, there was no need, for the above is only a sample of the "effectual" way in which his own
+arguments destroyed either themselves or one another. J. P. Owen, 48, Comeragh Road, W.
 
 
 ---
@@ -888,6 +471,5 @@ p296
 
 8th S. IX
 
-Siy-zaTer (8 S. viii, 288, 332; ix. 109, 169, 236).—Mr. Owen has put three questions to me, which I answer specifically. (1) The term ‘‘sin- drinking” was not employed by my informant, nor does it occur in the text of my book. I used it in the index as the most convenient word for reference. (2) I do not know whether my in- formant was a Churchwoman or a Dissenter. (3) The name of my informant was Miss Alice Halifax, the daughter of a farmer, formerly living near Dronfield, in Derbyshire, afterwards at
-Ompton, in Nottinghamsbire, and now, I believe, near Newark. Miss Halifax collected folk-lore | for me, and I wrote it down from her dictation. | I am not aware that any ritual is now practised. 8. O. Appy.
-3, Westbourne Road, Sheffield,
+Sin-Eater (8th S. viii, 288, 332; ix. 109, 169, 236).— Mr. Owen has put three questions to me, which I answer specifically. (1) The term "sin-drinking" was not employed by my informant, nor does it occur in the text of my book. I used it in the index as the most convenient word for reference. (2) I do not know whether my informant was a Churchwoman or a Dissenter. (3) The name of my informant was Miss Alice Halifax, the daughter of a farmer, formerly living near Dronfield, in Derbyshire, afterwards at Ompton, in Nottinghamsbire, and now, I believe, near Newark. Miss Halifax collected folk-lore for me, and I wrote it down from her dictation. I am not aware that any ritual is now practised. S. O. Addy.
+3, Westbourne Road, Sheffield.
