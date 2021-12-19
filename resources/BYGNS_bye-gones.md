@@ -1,9 +1,23 @@
+https://journals.library.wales/view/2092910/2092952/7#?xywh=-478%2C-702%2C5026%2C3315
+
+Bygones, 1871-3
+
+February, 1872
+
+p. 36
+
+Death Tokens
+
+...
+
+I never heard of'Grwn' death token mentioned by  *edromo*, but I remember, some years ago, a highly intelligent inhabitant of Criggion, Montgomeryshire, telling me that when he was a bot, upon one occasion, during a vey heavy snow, his mother called him to her as she went up the stars one nght to bed, and pointed out to him a light proceeding slowly from a neighbouring farmhouse in the direction of the church. A servant coming up the stairs at the time was also witness to it. The light traversed a line where there was no road or gate into the churchyard, and in a moment or two all the windows of the church were lighted up, and then gradually the light went back by the course it had come, and vanished in the neighbouring farmhouse. Thet knew, I believe, that their neighbour the farmer was unwell, but the snow was so deep that it was not until the second day that they heard he had died at the very time they saw the light. The snow continued, and the roads became more and more blocked, so that on the day of the funeral it was found to be impossible to take the procession by the ordinary course; so a portion of the churchyard wall was taken down, and the bier was carried through the opening. That portion was the very spot at which my friend saw the light cross on the evening of the death. –Jarco.
 
 
 
 ---
 
-https://archive.org/details/byegonesrelating1882unse/page/18/mode/2up?q=sin
+
+/page/18/mode/2up?q=sin
 
 Bye-gones, relating to Wales and the border counties.
 
