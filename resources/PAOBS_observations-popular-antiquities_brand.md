@@ -45,9 +45,9 @@ How unlike to this antient Custom of watching is the modern one, of locking up t
 p21-2
 Our Author, for what Reason I know not, has omitted the vulgar Name given here to this *watching with a Corps*. It is called the *Lake-wake* ; a Word plainly derived from the Anglo-Saxon Lie or Lice, *a Corpse* and *a Wake*, a *Vigil*, or *Watching*. It is used in this Sense by Chaucer, in his Knight's Tale :
 
-Shall not be told for me. 
-How that Arcite is breht to Afhen cold, 
-Ne how that thefe the *Liche-wake* was yhold 
+Shall not be told for me.  
+How that Arcite is brent to Afhen cold,  
+Ne how that there the *Liche-wake* was yhold  
 All that Night long.
 
 Thus also I read in the Article *Walkin* in the learned `[* By the late Mr. Ruddiman, as is generally supposed.]` Glossary to Douglas' Virgil, "Properly *Like-wakes* (Scotch) are the Meetings of the Friends of the Deceased, a Night, or Nights before the Burial."
@@ -61,7 +61,7 @@ I could give numerous Passages from the Antients, were there any Doubt of the An
 
 p23 chapter II - this is borune ratehr than observatio?
 
-I find in Durant a pretty exact Account of some of the Ceremonies used at present in what we call *laying out* or *streeking* `[*To Streek*, to expand, of stretch out. from the Anglo-Saxon SlCJiecaBy. extendere. See Benson's Anglo-Saxon Vocabulary in verbo.— A *Streeking-Board* is that on which they stretch out and compose the Limbs of the dead Body.]` in the North
+I find in Durant a pretty exact Account of some of the Ceremonies used at present in what we call *laying out* or *streeking* `[*To Streek*, to expand, or stretch out. from the Anglo-Saxon SlCJiecaBy. extendere. See Benson's Anglo-Saxon Vocabulary in verbo.— A *Streeking-Board* is that on which they stretch out and compose the Limbs of the dead Body.]` in the North
 
 ````FOOTNOTE: Quinetiam Sanctorum Corpora, manibus erestis supinisque excipere – occludere oculos-— ora obturare — decenter ornare–  lavare accurate et linteo funebri involvere, &c.
 
