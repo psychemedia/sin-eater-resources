@@ -4,7 +4,7 @@ https://archive.org/details/sim_blackwoods-magazine_1818-05_3_14/page/192/mode/2
 
 p193-4
 
-[Part of a longer article "On Some Popular Supersitions in Wales" p188-196]
+[Part of a longer article "On Some Popular Superstitions in Wales" p188-196]
 
 
 
