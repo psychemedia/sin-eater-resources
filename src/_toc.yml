@@ -9,3 +9,4 @@ parts:
   - file: _mazard_bowl
   - file: _missed_opportunities_pre-1830
   - file: _decameron_other_missed_opportunities
+  - file: _interim
