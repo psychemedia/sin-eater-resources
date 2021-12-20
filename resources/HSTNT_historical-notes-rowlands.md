@@ -15,63 +15,19 @@ Vol 9 Iss 196
 p125-6
 
 
+p56-7
+
 Rowlands writes of Llandebie:
 
 
-In the Churchyard of Llandebie there are some curious epitaphs 
-to be seen, but of late years great improvement have taken place 
-in the style of the tombstones and the epitaphs, &c. Unfortunately 
-the litwature of the Churchyard is left entirely in some parishe» 
-in the hands of the village sculptor, who changes the epitaphs to 
+In the Churchyard of Llandebie there are some curious epitaphs to be seen, but of late years great improvement have taken place in the style of the tombstones and the epitaphs, &c. Unfortunately the literature of the Churchyard is left entirely in some parishes in the hands of the village sculptor, who changes the epitaphs to suit his own taste and purposes. Books, skulls, spades, urns, &c., are the emblems which are to be seen in our country Churchyards, particularly in the vicinity of the ironworks. Such emblems are more appropriate on the tombs of pagans than Christians. There are not many Churches in the county so well attended as Llandebie. We are glad to find that it is intended to erect a Chapel of Ease in this parish, as the distance is far from the parish Church. Some years ago a New National School-room was opened here. We remember that morning well, when a crowd of young ones, with shining morning faces, were skipping cheerfully to school for the first time. Where is that light hearted group now ? Some are grown up to manhood, and others lying in their graves. This school has been carried on with great success since its foundation. There were several mansions in this parish, but they have been converted into farm houses, and their glory has departed. Dyffryn lies between Llandebie and Cross Inn, on the banks of the Loughor; it was formerly the residence of the Leweses, the representative of which is W. P. Lewes, Esquire, of Llysnewydd, who is descended from Ceredig, Prince of Ceredigion. Aberlash, the residence of the Evanses, who are now extinct, is at present a farm house. Glynhir, the residence of William Du Buisson, Esq., stands on a hill which commands an extensive view of the surrounding country. Close to Glynhir there is a beautiful fall formed by the Loughor.
 
+"Smooth to the shelving brink a copious flood  
+Rolls fair and placid, where, collected all,  
+In one impetaons torrent down the steep  
+It thuad'riug shoots and shakes the countxy round.  
 
-
-Digitized by VjOOQIC 
-
-
-
-Historical Notes. 57 
-
-miit his own taste and purposes. Books, skulls, spades, urns, &c., 
-are the emblems which are to be seen in our country Churchyards, 
-particularly in the vicinity of the ironwoits. Such emblems are 
-more appropriate on the tombs of pagans than Christians. There 
-are not many Churches in the county so well attended as 
-Llandebie. We are glad to find that it is intended to erect a Chapel 
-of Ease in this parish, as the distance is far from the parish 
-Church. Some years ago a New National School-room was- 
-opened here. We remember that morning well, when a crowd of 
-yoimg ones, with shining morning faces, were skipping cheerfully 
-to school for the first time. Where is that light hearted group 
-now ? Some are grown up to manhood, and others lying in their 
-graves. This school has been carried on with great success sinoe 
-its foundation. There were several mansions in this parish, but 
-they have been converted into farm houses, and their glory has 
-departed. DyfBryn lies between Llandebie and Cross Inn, on the 
-banks of the Loughor; it was formerly the residence of the 
-Leweses, the representative of which is W. P. Lewes, Esquire, of 
-Llysnewydd, who is descended from Ceredig, Prince of Ceredigion. 
-Aberlash, the residence of the Evanses, who are now extinct, is at 
-present a farm house. Glynhir, the residence of William Du 
-Buisson, Esq., stands on a hill which commands an extensive 
-view of the surrounding country. Close to Glynhir there is a 
-beautiful fall formed by the Loughor. 
-
-** Smooth to the shelving brink a copious flood 
-Rolls fair and placid, where, collected all, 
-In one impetaons torrent down the steep 
-It thuad'riug shoots and shakes the countxy round. 
-
-Blyne, or Blaenau, the residence of an old and highly respect- 
-able family of the name of Davies, is at present the property of 
-David Prothero, Esq., M.D., the representative of the family. A 
-short distance from Blyne there is another neat little mansion, 
-Cwmcoch, the property of the same family. PUs, stands in the 
-village of Llandebie ; this building was very large and extensive, 
-but it has met with the same fate as others, having been converted 
-into a farm house. We have heard that this place belonged to a 
-family of the name of Phillips; one of them was a ** mighty 
-hunter" in his day. Derwydd, the residence of the Vaughans, 
+Blyne, or Blaenau, the residence of an old and highly respectable family of the name of Davies, is at present the property of David Prothero, Esq., M.D., the representative of the family. A short distance from Blyne there is another neat little mansion, Cwmcoch, the property of the same family. Plâs, stands in the village of Llandebie ; this building was very large and extensive, but it has met with the same fate as others, having been converted into a farm house. We have heard that this place belonged to a family of the name of Phillips; one of them was a "mighty hunter" in his day. Derwydd, the residence of the Vaughans, 
 
 
 
