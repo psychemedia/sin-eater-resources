@@ -11,6 +11,7 @@ parts:
   - file: _decameron_other_missed_opportunities
   - file: _interim
 - caption: The First Controversy, 1875-6
+  chapters:
   - file: _first_trigger
 - caption: What Next?
   chapters:
