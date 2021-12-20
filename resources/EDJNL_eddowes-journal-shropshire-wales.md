@@ -39,7 +39,7 @@ SALOPIAN SHREDS AND PATCHES.
 
 SIN EATERS (August 14, 1878).
 
-In a former article on this subject I spoke of the practice as having arisen in Roman Catholic times, this statement I have to modify, for I read, in Canon Kingsley's *Health and Education* p. 224. thus— Plato speaks of lower grade of Orphic priests, Orpheotelestai, who used to come before the doors of the rich and promise by sacrifice and expiatory songs release them from their own sins and those of their forefathers, and such (the Canon says) would be but too likely to get a hearing from the man who was afraid of a weasel or an owl." Superstition has a far-reaching pedigree. A similar practice, initiated by Orphic priests, is continued by ignorant Papists (who servilely copied most if not all of the follies of paganism), and is found existing in Shropshire villages in the 18th century. Alas I poor human nature !
+In a former article on this subject I spoke of the practice as having arisen in Roman Catholic times, this statement I have to modify, for I read, in Canon Kingsley's *Health and Education* p. 224. thus— Plato speaks of lower grade of Orphic priests, Orpheotelestai, who used to come before the doors of the rich and promise by sacrifice and expiatory songs release them from their own sins and those of their forefathers, and such (the Canon says) would be but too likely to get a hearing from the man who was afraid of a weasel or an owl." Superstition has a far-reaching pedigree. A similar practice, initiated by Orphic priests, is continued by ignorant Papists (who servilely copied most if not all of the follies of paganism), and is found existing in Shropshire villages in the 18th century. Alas ! poor human nature !
 
 Boileau.
 
