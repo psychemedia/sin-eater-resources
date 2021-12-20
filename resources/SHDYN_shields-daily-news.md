@@ -12,7 +12,7 @@ LONG AGO STORIES
 
 SIMON THE SIN EATER.
 
-Simon lived about a hundred years ago and he longed to travel to the far corners of the earth. His home was in the heart of the country where all the old customs were still kept up. and when o.d Farmer Brook died the whole village went to his funeral. When the ceremony was over, Farmer Brook's son asked if anybody would eat his father's sins, and he looked towards the beggars who were waiting for the dole of bread which was to he distributed in memory of the old farmer.
+Simon lived about a hundred years ago and he longed to travel to the far corners of the earth. His home was in the heart of the country where all the old customs were still kept up. and when old Farmer Brook died the whole village went to his funeral. When the ceremony was over, Farmer Brook's son asked if anybody would eat his father's sins, and he looked towards the beggars who were waiting for the dole of bread which was to he distributed in memory of the old farmer.
 
 Now Simon knew that the farmer had been a good man, and before any of the beggars could come forward he ran up to the grave side and said he would be sin-eater. His father was horrified, but Simon ate the slice bread which was supposed to contain all the farmer's sins, and was given a shilling.
 
@@ -20,7 +20,7 @@ Now Simon knew that the farmer had been a good man, and before any of the beggar
 
 When Simon attended another funeral and ate the sins afterwards, his parents decided that nothing could be done with such a boy who became known as Simon the Sin-eater.
 
-"I am no worse for eating them," thought simon, "and I am collecting money to go to London."
+"I am no worse for eating them," thought Simon, "and I am collecting money to go to London."
 
 By the time he was eighteen he had eaten so many sins that people would not have him in their homes. The girls, and even the young men, were afraid of him, and the old folk said he was very wicked.
 
