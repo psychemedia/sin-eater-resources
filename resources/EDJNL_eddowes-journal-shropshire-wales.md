@@ -32,7 +32,7 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 
 Wednesday 25 December 1878
 
-p?
+p6
 
 SALOPIAN SHREDS AND PATCHES.
 
