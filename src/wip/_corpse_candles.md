@@ -1,13 +1,36 @@
 
 
 
+
+https://archive.org/details/churchenglandma06unkngoog/page/418/mode/2up?q=%22corpse+candle%22
+
+
+https://archive.org/details/sim_mining-journal_1836-07-02_3_45/page/n5/mode/2up?q=%22corpse+candle%22 Mining Journal
+
+
+Fairy legends and traditions of the South of Ireland.
+by Croker, Thomas Crofton, 1798-1854
+Publication date 1825 p279
+https://archive.org/details/fairylegendstrad03crok/page/278/mode/2up?q=%22corpse+candle%22
+
+
+
 Also Hone's Year Book,  Corpse candles, p. 1279 https://archive.org/details/cu31924029752791/page/n641/mode/2up?q=brand October 1831
 
+
+Gentleman's Magazine p314 The Gentleman's magazine
+Publication date 1868
+https://archive.org/details/gentlemansmagazi301unse/page/314/mode/2up?q=%22corpse+candle%22
+
+
+
+https://archive.org/details/percyanecdotesco02perc/page/30/mode/2up?q=%22corpse+candle%22
 
 
 Also Blackwoods 1818
 
-Howells 1831
+Howells 1831 https://archive.org/details/cambriansuperst00howegoog/page/n64/mode/2up?q=corpse+candle p59-65
+p58 ames of those who would die
 
 N&Q https://archive.org/details/sim_notes-and-queries_1878-01-26_9_213/page/n3/mode/2up
 
