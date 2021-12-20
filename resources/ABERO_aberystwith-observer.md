@@ -137,8 +137,12 @@ https://newspapers.library.wales/view/3040755/3040759/41/
 The Aberystwith Observer
 11th March 1876
 p4
+
 TWM SHON CATTI.
-To the Editor of the Abcrystiojth Observer. Sir.— I have been much interested by the letters which h ive appeared in your columns from the pen of the Rev. Silvan Evans on the subject of that suppositious personage, the "Sin Eater;" perhaps Mr. Evans or some other reader of antiquarian tastes may be able to inform me where I can find a reliable aoeount of funny Twm, or as others prefer to stylo him" Thomas Jones, Esq., of Tregaron. I am a,ware that a. "life" of Twm has been published at Llanidloes and hy a, .London firm, but both those books have assumed the form of Welsh novels, and it is occa. ionally diiffcult to sever the rortl from the imaginary. If any of your readers can help me to solve my perplexity, or assist me to genuine facts I shall be heartily obliged. I am, sir, LLIDIARDE-Y-FFYNON.
+
+To the Editor of the Aberystwyth Observer.
+
+Sir.— I have been much interested by the letters which hae appeared in your columns from the pen of the Rev. Silvan Evans on the subject of that suppositious personage, the "Sin Eater;" perhaps Mr. Evans or some other reader of antiquarian tastes may be able to inform me where I can find a reliable account of funny Twm, or as others prefer to style him "Thomas Jones, Esq., of Tregaron." I am aware that a "life" of Twm has been published at Llanidloes and by a London firm, but both those books have assumed the form of Welsh novels, and it is occasionally diiffcult to sever the real from the imaginary. If any of your readers can help me to solve my perplexity, or assist me to genuine facts I shall be heartily obliged. I am, sir, LLIDIARDE-Y-FFYNON.
 
 
 ---
