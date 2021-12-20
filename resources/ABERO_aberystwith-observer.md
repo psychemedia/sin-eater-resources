@@ -142,7 +142,7 @@ TWM SHON CATTI.
 
 To the Editor of the Aberystwyth Observer.
 
-Sir.— I have been much interested by the letters which hae appeared in your columns from the pen of the Rev. Silvan Evans on the subject of that suppositious personage, the "Sin Eater;" perhaps Mr. Evans or some other reader of antiquarian tastes may be able to inform me where I can find a reliable account of funny Twm, or as others prefer to style him "Thomas Jones, Esq., of Tregaron." I am aware that a "life" of Twm has been published at Llanidloes and by a London firm, but both those books have assumed the form of Welsh novels, and it is occasionally diiffcult to sever the real from the imaginary. If any of your readers can help me to solve my perplexity, or assist me to genuine facts I shall be heartily obliged. I am, sir, LLIDIARDE-Y-FFYNON.
+Sir.— I have been much interested by the letters which have appeared in your columns from the pen of the Rev. Silvan Evans on the subject of that suppositious personage, the "Sin Eater;" perhaps Mr. Evans or some other reader of antiquarian tastes may be able to inform me where I can find a reliable account of funny Twm, or as others prefer to style him "Thomas Jones, Esq., of Tregaron." I am aware that a "life" of Twm has been published at Llanidloes and by a London firm, but both those books have assumed the form of Welsh novels, and it is occasionally diiffcult to sever the real from the imaginary. If any of your readers can help me to solve my perplexity, or assist me to genuine facts I shall be heartily obliged. I am, sir, LLIDIARDE-Y-FFYNON.
 
 
 ---
