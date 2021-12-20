@@ -43,7 +43,7 @@ SIR.—The old saying is very true "if you want to hear news you must go from ho
 
 We are told this custom prevailed at Llandebe, in Carmarthenshire.
 
-I went to reside in that village m 1850; and I lived there for six years. My avocation brought me in contact with all the parishioners I knew them well, and I am well acquainted with the history of the place, its customs and traditions. I attended many funerals, but this Sin Eater never cropped up; and I never saw cakes distributed at funerals.
+I went to reside in that village in 1850; and I lived there for six years. My avocation brought me in contact with all the parishioners I knew them well, and I am well acquainted with the history of the place, its customs and traditions. I attended many funerals, but this Sin Eater never cropped up; and I never saw cakes distributed at funerals.
 
 The Welsh people are, it is true, in some localities a little tainted with superstition, as to ghosts &c., but they are not so superstitious as the importations who cross the "Severn Sea" to South Wales they are too well acquainted with their Bibles as to believe in such a thing as a "Sin Eater."
 
