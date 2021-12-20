@@ -45,10 +45,9 @@ A LADY TOURIST — ANECDOTES
 
 It appears that Miss Sinclair made a tour in Wales in the summer of 1833, of which she kept miscellaneous journal, intended, *of course*, merely for private circulation. The book is essentially lady's book, and if the "Travellers' Club” be composed of the "rougher sex," we doubt very much whether the compliment of the authoress will duly appreciated. From a principle of gallantry, however, it is to be hoped that her health will be duly toasted at all anniversary meetings, when the members exceed their daily pint of wine. Miss Sinclair a lively tourist, full light anecdote and small talk, affectionate to her correspondent (a "dear cousin”) and minutely observant of little traits of character, manners, and scenery, in which it must be confessed the lady-authors very often excel the regulars. Miss Sinclair lays down a maxim at starting, to which we cordially subscribe, that traveller should study his own country before he seeks to explore others.
 
-... 
+...
 
-
-A LADY TOURIST—ANECDOTES. 
+A LADY TOURIST—ANECDOTES.
 
 ...
 
