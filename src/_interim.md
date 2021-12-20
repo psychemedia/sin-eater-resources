@@ -43,7 +43,6 @@ At page 52-4, Roscoe also quotes the description of the sin-eater.
 > "'The Sin-Eater,' he was told, 'lived alone in a hovel made of sea-wreck, and nails of such, between sea-marsh and that dim bog, where few could approach by day, none dare by night; whether for the footing, or the great fear, or at least awe, which all felt of that recluse.'"
 ```
 
-
 In John Murray's [*A handbook for travellers in South Wales and its borders, including the river Wye. With a travelling map*](https://archive.org/details/ahandbookfortra07firgoog/page/n30/mode/2up?q=sin) of 1860, we see prefatory comments on pp. *xxvi-xxvii* describing old traditions that appear to come from the *Archaeologia Cambrensis* report of the 1852 meeting at Ludlow:
 
 > Many old customs and superstitions have become obsolete within the last ten or twenty years, in consequence of increased education and facilities of intercommunication with the rest of the country. Some of them may be mentioned as both interesting and curious. The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm Amman in Carmarthenshire. When a person died, the friends sent for the sin-eater of the district, who on his arrival placed a plate of salt on the breast of the deceased, and on the salt a piece of bread. He then muttered an incantation over the bread, which he finally eat, thereby eating the sins of the dead person. This done, he received the fee of 2s. 6d., and vanished as quickly as he could, the friends helping his departure by the aid of sundry blows and kicks, if they could catch him ; for as it was believed that he took upon himself the sins of the defunct, he was looked upon as a social Pariah for whom nothing was too bad. The custom of placing bread or a plate of salt on the breast of the corpse is by no means uncommon in many parts of Wales.
@@ -64,8 +63,21 @@ Again, we have the mention of that one the sin-eater *had received his pay, he v
 The reference to *Once a Week* seems to be a reference to a column in another publication. But which one?
 ```
 
-The same tale, similarly credited, also appears on page 3 of *The Welshman* of [](https://newspapers.library.wales/view/4351919/4351922/10/) dated December 12th, 1862, and in the *Hereford Journal* on the same date.
+The same tale, similarly credited, also appears on page 3 of *The Welshman* of [December 12th, 1862](https://newspapers.library.wales/view/4351919/4351922/10/), and in the *Hereford Journal* on the same date.
 
+A new column appearing in the Oswestry Advertiser, as well as under its own banner, *Bye-gones*, appeared on [October 4th, 1871](https://journals.library.wales/view/2092910/2092920/#?xywh=-22%2C192%2C2833%2C1868).
+
+> We purpose devoting a column, more or less, each week to the publication of NOTES, QUERIES, and REPLIES, ob bye-gone events, interesting to North Wales and its Borders. To enable us to make the column interesting – as well as valuable to future historians, we respectfully invite the co-operation of our readers, in the supply of queries and of replies – in the loan of old pamphlets, fly-sheets, and newpapers; and where practicable, in files of old letters or other M.S.S.
+>
+> We need scarcely say that all documents submitted to the editor of this column will be most carefully treated, and promptly returned. All communications for the column must be addressed 'Bye-gones, Caxton Works, Oswestry.'
+>
+> Correspondents are reminded that the space at our disposal is limited, so they must not be disappointed if their communications are sometimes withheld a week or two. Correspondents are also requested to send their real names and addresses, not necessarily for publication but as a guarantee of good faith.
+
+We might reasonably expect such a publication, a "hyper-local" version of *Notes & Queries* to make passing mention, at least, of the sin-eater tradition, but there are no mentions in its early editions.
+
+There is, however, an early tale remembering an encounter with a corpse candle, in the [February, 1872](https://journals.library.wales/view/2092910/2092952/7#?xywh=-478%2C-702%2C5026%2C3315) edition, p. 36:
+
+> I never heard of 'Grwn' death token mentioned by *edromo*, but I remember, some years ago, a highly intelligent inhabitant of Criggion, Montgomeryshire, telling me that when he was a bot, upon one occasion, during a vey heavy snow, his mother called him to her as she went up the stars one night to bed, and pointed out to him a light proceeding slowly from a neighbouring farmhouse in the direction of the church. A servant coming up the stairs at the time was also witness to it. The light traversed a line where there was no road or gate into the churchyard, and in a moment or two all the windows of the church were lighted up, and then gradually the light went back by the course it had come, and vanished in the neighbouring farmhouse. They knew, I believe, that their neighbour the farmer was unwell, but the snow was so deep that it was not until the second day that they heard he had died at the very time they saw the light. The snow continued, and the roads became more and more blocked, so that on the day of the funeral it was found to be impossible to take the procession by the ordinary course; so a portion of the churchyard wall was taken down, and the bier was carried through the opening. That portion was the very spot at which my friend saw the light cross on the evening of the death. –Jarco.
 
 A few years later, in *The Cambrian News and Merionethshire Standard* of [22nd May, 1874](https://newspapers.library.wales/view/3343897/3343906/85/), on p. 9, we have the following mention, citing Hone's *Year Book*:
 
