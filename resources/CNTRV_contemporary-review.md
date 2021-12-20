@@ -1,5 +1,5 @@
 
-Contemporary Review 1896 February Lady Verney ,p. 396+
+Contemporary Review 1876 February Lady Verney ,p. 396+
 Old Welsh Legends and Poetry
 
 https://babel.hathitrust.org/cgi/pt?id=chi.15561341&view=1up&seq=408&skin=2021&q1=verney
