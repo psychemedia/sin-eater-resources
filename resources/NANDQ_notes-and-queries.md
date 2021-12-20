@@ -239,7 +239,7 @@ p48
 
 Bread and Salt.
 
-Some years since I call for the first time upon Canon Percy, of Carlisle, at his residence there. When refreshment had been offered and declined, he said, "You must have some bread and salt,” with some remarks to imply that it was the way to establish a friendship. These were then brought in and eaten, without anything to lead one to suppose that this was an unusual custom at the house. Was this a practic peculiar to himself or to his family? or is such custom prevalent in the North, or in any other part of England? I have not met with it else-where.
+Some years since I call for the first time upon Canon Percy, of Carlisle, at his residence there. When refreshment had been offered and declined, he said, "You must have some bread and salt," with some remarks to imply that it was the way to establish a friendship. These were then brought in and eaten, without anything to lead one to suppose that this was an unusual custom at the house. Was this a practic peculiar to himself or to his family? or is such custom prevalent in the North, or in any other part of England? I have not met with it else-where.
 
 Ed. Marshall, F.S.A
 
