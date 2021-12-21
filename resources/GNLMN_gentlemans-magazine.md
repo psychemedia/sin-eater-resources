@@ -23,3 +23,14 @@ It appears, that so late as the seventeenth century, there was in the villages, 
 ---
 
 
+
+https://archive.org/details/sim_gentlemans-magazine_1837-10_8/page/398/mode/2up
+
+The Gentleman's Magazine  1837-10: Vol 8
+Publication date 1837-10
+
+p398-9
+
+The Mountain Decameron, by John Downes. 3 vols.
+
+While we praise the power and skill with which many parts of these tales are written ; the picturesque delineations of nature, the transcript of manners, and the general conduct of the fable; we must protest against the groundwork of the histories themselves, which are founded on circumstances, as that of Ruth and Marmaduke, most improbable and unnatural; as love growing up between a father and daughter, ignorant of their sacred relation to each other— their unhallowed hopes— their disappointment and their death of despair. Nearly all the stories are of the same cast, containing descriptions of strong uncontrollable passions, desperate resolves, fearful vicissitudes, and violent and tragic terminations. The skill with which such tales are written only adds to the evil they are too apt to occasion; and the sympathies they excite are so powerful and distressing, as to act most disadvantageously on the mind. If Mr Downes will take up another line of fiction, and delineate the milder feelings,— the gentler and softer affections, the less harrowing afflictions,— and will build them round the more endearing events of life, he will, we are sure, draw from them more useful lessons, and form more permanently engaging works.
