@@ -65,9 +65,9 @@ The reference to *Once a Week* seems to be a reference to a column in another pu
 
 The same tale, similarly credited, also appears on page 3 of *The Welshman* of [December 12th, 1862](https://newspapers.library.wales/view/4351919/4351922/10/), and in the *Hereford Journal* on the same date.
 
-A new column appearing in the Oswestry Advertiser, as well as under its own banner, *Bye-gones*, appeared on [October 4th, 1871](https://journals.library.wales/view/2092910/2092920/#?xywh=-22%2C192%2C2833%2C1868).
+A new column, which we might reasonably turn to in search of for further stories, appeared in the Oswestry Advertiser, as well as under its own banner, *Bye-gones*, on [October 4th, 1871](https://journals.library.wales/view/2092910/2092920/#?xywh=-22%2C192%2C2833%2C1868). It was initially edited by one John Askew Roberts.
 
-> We purpose devoting a column, more or less, each week to the publication of NOTES, QUERIES, and REPLIES, ob bye-gone events, interesting to North Wales and its Borders. To enable us to make the column interesting – as well as valuable to future historians, we respectfully invite the co-operation of our readers, in the supply of queries and of replies – in the loan of old pamphlets, fly-sheets, and newpapers; and where practicable, in files of old letters or other M.S.S.
+> We purpose devoting a column, more or less, each week to the publication of NOTES, QUERIES, and REPLIES, of bye-gone events, interesting to North Wales and its Borders. To enable us to make the column interesting – as well as valuable to future historians, we respectfully invite the co-operation of our readers, in the supply of queries and of replies – in the loan of old pamphlets, fly-sheets, and newpapers; and where practicable, in files of old letters or other M.S.S.
 >
 > We need scarcely say that all documents submitted to the editor of this column will be most carefully treated, and promptly returned. All communications for the column must be addressed 'Bye-gones, Caxton Works, Oswestry.'
 >
