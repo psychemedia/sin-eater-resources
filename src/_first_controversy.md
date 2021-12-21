@@ -61,7 +61,7 @@ There is a second piece of correspondence, immediately following (p530), that ad
 
 Askew Roberts, you might recall, was the original editor of Bye-gones, launched in 1871, the hyperlocal *Notes & Queries* of its time for Oswestry and the border counties of England and Wales.
 
-We also get a first hint here that he, at least, has a good idea as to who the author of the article might be.
+We also get a first hint here that Askew Robers, at least, has a good idea about whom the author of the article might be.
 
 ```{admonition} John Askew Roberts
 
@@ -74,13 +74,9 @@ http://onlinebooks.library.upenn.edu/webbin/serial?id=byegoneswales
 
 ```
 
-Roberts' also submitted a letter in response the *Academy* article to *The Cambrian News and Merionethshire Standard*, published on [November 26th, 1875](https://newspapers.library.wales/view/3307690/3307699/76/sin-eater), p9, that includes an elaboration of the reference in Hone's *Year Book*.
+In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/2092910/2093552/11#?xywh=-1479%2C531%2C5791%2C3820), p329-30, we have a note that '[t]he following letter has appeared in the *Academy*. "Llanymawddwy Rectory, Merioneth: November 8th, 1875. ...' that quotes Silvan Evans' letter to the November 13th edition of the *Academy* along with Askew Roberts own reply from the November 20th edition, as well as an excerpt of several paragraphs from that work.
 
-> The Academy of Nov. 20, contains the following letter on the subject, in reply to the Rev. Silvan Evans :—
->
-> In reference to the strange profession of a Sin-Eater, mentioned by the writer in *Blackwood* and doubted by your able correspondent, the Rev. Silvan Evans, let me refer him and your readers to a well-known work, Hone's *Year Book*, on col. 858 of which will be found some records of the practice both in Wales and on the borders. One of the illustrations dates from Herefordshire, in which county, if I am not mistaken, the writer in Blackwood resides. Croeswylan, Oswestry. ASKEW ROBERTS.
-
-```{admonition} Askew Roberts, citing Hone, in Cambrian News, 1875-11-26
+```{admonition} Askew Roberts, citing Hone
 :class: dropdown
 
 > The following is the information given by Hone in his *Year Book*, col. 858:— According to Lawrence Howell, *History of the Pontificate*, Pope Alexander, in the second century, from the passage in Hosea, "They eat up the sin of my people," implied that the priest by prayers and offerings did this for the worshippers. In later times, however, Sin Eating has been a very much more vulgar affair, and a letter from John Bagford, written in 1715, and printed in Leland's *Collectanea*, gives the following account of a Sin Eater on the Borders:—
@@ -88,8 +84,10 @@ Roberts' also submitted a letter in response the *Academy* article to *The Cambr
 > Within the memory of our fathers, in Shropshire, in those villages adjoining to Wales, when a person died, there was notice given to an old "sire," (for so they called him) who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket (or stool) on which he sat down facing the door. Then they gave him a groat, which he put in his pocket; a crust of bread, which he ate; a full bowl of ale, which he drank off at a draught. After this he got up from the cricket, and pronounced, with a composed gesture, "the ease and rest of the soul departed, for which he would pawn his own soul."
 >
 > Bagford states that he received his information from "the ingenious John Aubrey, Esq., who made a collection of curious observations," which he had seen. Among the Lansdowne MSS. in the British Museum may be found accounts of this singular custom, in Aubrey's own handwriting. In these he tells of "a long, lean, ugly, lamentable poor rascal" who lived in a cottage on Rosse highway, Hereford, who was a professional Sin-Eater. He also says there was a like practice at Brecon "at Llanygors, where Mr Gwyn the minister about 1640 could not hinder the performance of this ancient custom." In 1686 Mr Aubrey says the custom was prevalent in North Wales.
-
 ```
+
+Askew Roberts letter in the *Academy* also appears in *The Cambrian News and Merionethshire Standard*, published on [November 26th, 1875](https://newspapers.library.wales/view/3307690/3307699/76/sin-eater), p9, along with the elaboration of the reference in Hone's *Year Book*.
+
 
 ## The Blackwood Author Replies, 1875-11-27
 
@@ -134,6 +132,14 @@ TO DO - ANNOTATE PREVIOUS SECTION
 
 ## Commentary Elsewhere, TO DO DATE
 
+On [December 1st, 1875](https://journals.library.wales/view/2092910/2093566/#?xywh=516%2C654%2C2792%2C1842), p331, the readers of *Bye-Gones* were kept up to date with how the debate was proceeding (the date reference in the title is a reference back to the previous mention of the topic in *Bye-Gones*):
+
+> The Sin Eater (Nov. 24, 1875)
+>
+> In reference to this subject the write in *Blackwood* states in the *Academy* of Nov. 27 that the Cambrian Archaeologists at Ludlow in 1852 had the matter before them, when "Mr Moggridge cited a case of this supersition having occurred with five years at or near Llandebie, in the hill country of Carmarthenshire." (See *Cam. Arch, Jour.* s. 11, v. iii, p.330)
+
+---
+
 https://newspapers.library.wales/view/3040686/3040689/21/
 
 The Aberystwith Observer
@@ -151,33 +157,11 @@ The Aberystwith Observer
 ---
 
 
-https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin
+Although archival copies of the *Western Mail* do not appear in the digital archives (scans for [July to December 1875](https://newspapers.library.wales/browse/3980151) are missing from the National Library of Wales newspaper archive collection), a note in Bye-Gones of [December 22, 1875](https://journals.library.wales/view/2092910/2093566/11#?xywh=-1479%2C-194%2C5791%2C3820), also reprinted in *The Cambrian News and Merionethshire Standard*, dated [December 24th, 1875](https://newspapers.library.wales/view/3307734/3307743/72/sin-eater), p9, contains an excerpt of a letter to that publication of December 16th, 1875, from a certain "RHEIDIOL" that also claims not to have witnessed or found evidence of the tradition, despite having been a collector of folklore in the area:
 
-The Journal of the Anthropological Institute of Great Britain and Ireland  February 9, 1875-January 25, 1876
+> THE SIN EATER (Dec. 1, 1875.)- The Western Mail, Dec. 16, contains a letter signed RHEIDIOL, Twmbarlwn, on this subject, in which, after narrating the facts already stated, the writer proceeds to say :- I lived at Llandebie many years ago, and I am well acquainted with the history of that parish and its customs and traditions, and from time to time I attended fuuerals, but I never heard of such a thing. I am well acquainted with Welsh lore in almost every parish in South Wales, which I collected for the late Sir Thomas Phillips, Bart., and I never heard of its existence. The Welsh peasant may be a little superstitious, but he is far too intelligent to believe in such a thing as a Sin Eater. This is simply a fling at the Welsh nation. I hope, for the credit of the Cambrian Association, that they have better foundation for the papers read at their meetings than the Sin-Eater."
 
-1875
-Vol 5
-p423
-
-[Discussion on a paper "On the Belief in Bhutas—Devil and Guost Worship in Western India., pp408- By M. J. Watnovsz, F.R.A.S."]
-
-> Mr. Moggridge said : Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself. Among the mountains of South Wales I find a similar ceremony prevailing down to almost our own times. When a person died, the Sin-eater of the district was called in. On his arrival he received a plate, on which he poured some salt. Upon the salt he placed a piece of bread, laid the plate on the chest of the defunct, muttered words of charmed power while bending over the corse, then eat the bread, whereby he eat up and appropriated to himself all*the sins of the deceased, received two shillings and sixpence for his services, and quickly retired from the pitying gaze of are present, who regarded him as one utterly and irremediably lost.
->
-> Mr. Jeremiah said: I was very much interested in the paper just read. With reference to the alleged custom of *sin-eating* in Wales, mentioned by Mr. Moggridge, I would remark that the discussion raised by the Rev. D. Silvan Evans in the (November 5, 1875) appears to have gone adrift for want of the Welsh word for *Sin-eater*. The discussion arose, as all must be aware, from a statement made by a writer in *Blackwood's Magazine* for last month, in an article on the Legend and Folk-lore of North Wales,' where he says, in reference to a funeral custom, that the "Scapegoat . . . is currently called a 'sin-eater.'" Dr. Evans demanded the Welsh equivalent, which the author of that article could not give, in consequence of, he says, "my ignorance of Welsh." (Academy, Nov. 27, p. 555.) Had he referred to Bingley’s "North Wales," vol. ii. p. 278, he would have seen a way out of his difficulty, and a clear answer to the query put by Dr. Evans; and Mr. Moggridge will also see, I think, that the custom was not known as sin-eating, although the original meaning may have been of that nature. Bingley says, "It is usual in several parts of North Wales for the nearest female relation to the deceased, be she widow, mother, sister, or daughter, to pay some poor person of the same sex, and nearly the same age with the deceased, for procuring slips of yew, box, and other evergreens, to strew over and ornament the grave for some weeks after interment, and in some instances for weeding and adorning it on the eves of Easter, Whitsuntide, and the other great festivals for a year or two afterwards. This gift is called Diodlys, and it is made on a plate at the door of the house, where, at the same time, the body is standing ona bier. It had its name from a custom, which is now discontinued (1804), of the female relative giving to the person a piece of cheese with the money stuck in it, some white bread, and afterwards a cup of ale. When this previous ceremony is over, the clergyman, or, in his absence, the parish clerk, repeats the Lord’s Prayer, after which they proceed with the body to the church." It appears, then, that the custom means simply a "gift of ale or beer," and not *sin-eating*. Pennant’s (in his "Tours in Wales," vol. iii. p. 159, edition 1810) account is slightly different. He says: "Previous to a funeral it was customary, when the corpse was brought out of the house and laid upon the bier, for the next-of-kin, be it widow, mother, sister, or daughter—for it must be a female—to give, over the coffin, a quantity of white loaves in a t dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it *immediately*. When that was done they kneeled down, and the minister, if present, said the Lord’s Prayer, after which they proceeded with the corpse, and at every crossway between the house and the church they laid down the bier and knelt, and again repeated the Lord's Prayer, and did the same when they first entered the churchyard." This custom,
-and that of the alleged sin-eating, are conclusively one and the same, viz. that of Diodlys.
-> 
-> Mr Edkins and the President also made a few remarks.
-
-We have no record of what those remarks may have been.
-
----
-
-
-https://newspapers.library.wales/view/3040691/3040694/15/sin%20eater
-
-The Aberystwith Observer
-1875-12-18
-, p3
+A second letter from the same correspondent appeared in *The Aberystwith Observer* of December 18th, 1875](https://newspapers.library.wales/view/3040691/3040694/15/sin%20eater), p3:
 
 > THE "SIN EATER" IN WALES.
 >
@@ -198,21 +182,45 @@ The Aberystwith Observer
 > I am, sir, yours faithfully,
 >
 > RHEIDIOL.
->
-> ??Often misquoted as Western Mail letter?
+
+```{admonition} Who Was "Rheidiol"?
+
+At this point, the identity of "Rheidiol" is not clear, but we do have various snippets of information about them:
+
+- their address: *Twmbarlwn*;
+- they resided in "Llandebe" (*Llandebie*) from 1850 to 1856;
+- they were "employed by an eminent antiquary to collect old Welsh legends, traditions and customs".
+
+We also note that they "attended many funerals", which may be as a result of their profession or their standing in the community.
+
+```
 
 ---
 
+https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin
 
-https://newspapers.library.wales/view/3307734/3307743/72/sin-eater
 
-The Cambrian News and Merionethshire Standard
-1875-12-24
-, p9
+??date of meeting?
 
-> BYE-GONES December 22, 1875.
+The Journal of the Anthropological Institute of Great Britain and Ireland  February 9, 1875-January 25, 1876
 
-THE SIN EATER (Dec. 1, 1875.)- The Western Mail, Dec. 16, contains a letter signed RHEIDIOL, Twmbariwn, on this subject, in which, after narrating the facts already stated, the writer proceeds to say :- I lived at Llandebie many years ago, and I am well acquainted with the history of that parish and its customs and traditions, and from time to time I attended fuuerals, but I never heard of such a thing. I am well acquainted with Welsh lore in almost every parish in South Wales, which I collected for the late Sir Thomas Phillips, Bart., and I never heard of its existence. The Welsh peasant may be a little superstitious, but he is far too intelligent to believe in such a thing as a Sin Eater. This is simply a fling at the Welsh nation. I hope, for the credit of the Cambrian Association, that they have better foundation for the papers read at their meetings than the Sin-Eater."
+1875
+Vol 5
+p423
+
+[Discussion on a paper "On the Belief in Bhutas—Devil and Guost Worship in Western India., pp408- By M. J. Watnovsz, F.R.A.S."]
+
+> Mr. Moggridge said : Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself. Among the mountains of South Wales I find a similar ceremony prevailing down to almost our own times. When a person died, the Sin-eater of the district was called in. On his arrival he received a plate, on which he poured some salt. Upon the salt he placed a piece of bread, laid the plate on the chest of the defunct, muttered words of charmed power while bending over the corse, then eat the bread, whereby he eat up and appropriated to himself all*the sins of the deceased, received two shillings and sixpence for his services, and quickly retired from the pitying gaze of are present, who regarded him as one utterly and irremediably lost.
+>
+> Mr. Jeremiah said: I was very much interested in the paper just read. With reference to the alleged custom of *sin-eating* in Wales, mentioned by Mr. Moggridge, I would remark that the discussion raised by the Rev. D. Silvan Evans in the (November 5, 1875) appears to have gone adrift for want of the Welsh word for *Sin-eater*. The discussion arose, as all must be aware, from a statement made by a writer in *Blackwood's Magazine* for last month, in an article on the Legend and Folk-lore of North Wales,' where he says, in reference to a funeral custom, that the "Scapegoat . . . is currently called a 'sin-eater.'" Dr. Evans demanded the Welsh equivalent, which the author of that article could not give, in consequence of, he says, "my ignorance of Welsh." (Academy, Nov. 27, p. 555.) Had he referred to Bingley’s "North Wales," vol. ii. p. 278, he would have seen a way out of his difficulty, and a clear answer to the query put by Dr. Evans; and Mr. Moggridge will also see, I think, that the custom was not known as sin-eating, although the original meaning may have been of that nature. Bingley says, "It is usual in several parts of North Wales for the nearest female relation to the deceased, be she widow, mother, sister, or daughter, to pay some poor person of the same sex, and nearly the same age with the deceased, for procuring slips of yew, box, and other evergreens, to strew over and ornament the grave for some weeks after interment, and in some instances for weeding and adorning it on the eves of Easter, Whitsuntide, and the other great festivals for a year or two afterwards. This gift is called Diodlys, and it is made on a plate at the door of the house, where, at the same time, the body is standing ona bier. It had its name from a custom, which is now discontinued (1804), of the female relative giving to the person a piece of cheese with the money stuck in it, some white bread, and afterwards a cup of ale. When this previous ceremony is over, the clergyman, or, in his absence, the parish clerk, repeats the Lord’s Prayer, after which they proceed with the body to the church." It appears, then, that the custom means simply a "gift of ale or beer," and not *sin-eating*. Pennant’s (in his "Tours in Wales," vol. iii. p. 159, edition 1810) account is slightly different. He says: "Previous to a funeral it was customary, when the corpse was brought out of the house and laid upon the bier, for the next-of-kin, be it widow, mother, sister, or daughter—for it must be a female—to give, over the coffin, a quantity of white loaves in a t dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it *immediately*. When that was done they kneeled down, and the minister, if present, said the Lord’s Prayer, after which they proceeded with the corpse, and at every crossway between the house and the church they laid down the bier and knelt, and again repeated the Lord's Prayer, and did the same when they first entered the churchyard." This custom,
+and that of the alleged sin-eating, are conclusively one and the same, viz. that of Diodlys.
+> 
+> Mr Edkins and the President also made a few remarks.
+
+We have no record of what those remarks may have been.
+
+---
+
 
 ---
 
@@ -295,6 +303,26 @@ https://www.npg.org.uk/collections/search/person/mp04621/frances-parthenope-lady
 https://www.jstor.org/stable/1872758
 
 
+
+---
+
+
+
+https://journals.library.wales/view/2092910/2093610/2#?xywh=-260%2C901%2C4171%2C2751
+
+Bye-gones
+
+February 9th 1876
+
+p15
+
+The Sin-Eater in Wales
+
+The discussion on this subject, commenced in the *Academy*, and continued in that and other papers, was fully given in *Bye-gones* towards the close of last year. Our readers will remember that the discussion arose on a challenge by a well-known and able Welshman, the Rev. D. Silvan Evans, to the write of an article in *Blackwood*, on the Folk Lore of Wales, to prove his assertion that ever such a personage as the "Sin-Eater" existed in the Principality. One or two replies appeared, referring to Aubrey, as the original authority that such an office once existed; and the writer of the article expressed his surprise that Mr Evans, whose connection with the *Archaeologia Combrensis* was well known, should not be aware that Mr Moggridge had stated at the meeting of the Cambrian Archaeological Society in 1852, that the custom had prevailed at or near Llandebie, Caermarthanshore, within five years of that date. The substance of this we gave in Dec. 1, 1875, and on Dec. 20 a letter from the *Western Mail* written, as we are no informed, by Mr John Rowlands who had been a schoolmaster at Llandebie for many years, commencing 1850, and who denied the exitence of the practice in his time, or within the memory of the oldest inhabitant. In the *Academy*, Feb. 5, 1875, Mr Silvan Evans goes fully into the matter, and gives as the result of his enquiries, a total denial of the practice as far as Wales is concerned; in the course of which he publishes a letter from the Vicar of Llandebie, who confirms all Mr Rowlands previously said. Mr Silvan Evans concludes that the "whole story of the Sin-Eater rests on the shoulders of Aubrey," and he declines to place any faith in "so credulous a person in any case in which superstition plays a part." Mr Evans also explains that his connection with the organ of the Cambrian Archaeological Society commenced twenty years after the date of Mr Moggridge's connection.
+
+
+
+
 ---
 
 ## The Blackwood Author Snaps Back, 1876-02-12
@@ -319,6 +347,7 @@ The Academy  1876-02-12: Vol 9 Iss 197
 > Also p144
 >
 > In the Contemporary Review  ...  Lady VERNEY, in an interesting paper in the same periodical on Welsh Legends and Welsh Poetry, repeats the disputed statement as to the functions of the Sin-eater, and supplies some instances of witchcraft with a rationalistic explanation.
+
 
 ---
 
@@ -477,7 +506,7 @@ The Aberystwith Observer
 
 > THE "SIN-EATER" IN WALES.
 >
-> The Rev. Professor Silvan Evaus, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alle-eo functions of the imaginary "Sin-Eater":—
+> The Rev. Professor Silvan Evans, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alle-eo functions of the imaginary "Sin-Eater":—
 >
 > THE "SIN-EATER."
 >
@@ -502,6 +531,23 @@ The Aberystwith Observer
 ---
 
 
+https://journals.library.wales/view/2092910/2093621/6#?xywh=-1479%2C210%2C5791%2C3820
+
+Bye-gones
+
+March 8th, 1876
+
+p29
+
+The  Sin-Eater in Wales
+
+(Feb. 9, 1876)
+
+Further correspondence has appeared in the *Academy* on this question, but no fresh light has been thrown on the alleged custom. On February 26th, Mr E. R. Morris gives from Ruscoe's *South Wales* a quotation from the *Mountain Decameron*, in which "what is believed to have been the last Sin-Eater in Wales," is stated to have lived somewhere between Aberystwyth and Machynlleth, but Mr Askew Roberts, in the last number, shows, by further quotation from the book itself, that this was only a fancy sketch, founded on Aubrey's "leane raskal." In another letter, replying to one by the author of the *Blackwood* article, Mr Silvan Evans deies that gentleman to make good his assertion that the superstition is "still surviving in North and South Wales."
+
+
+---
+
 https://newspapers.library.wales/view/3307838/3307845/60/
 
 None
@@ -515,6 +561,20 @@ The Cambrian News and Merionethshire Standard
 > Further correspondence has appeared in the *Academy* on this question, but no fresh light has been thrown on the alleged custom. On February 26th, Mr E. R. Morris gives from Ruscoe's *South Wales* a quotation from the *Mountain Decameron*, in which "what is believed to have been the last Sin-Eater in Wales," is stated to have lived somewhere between Aberystwyth and Machynnlleth, but Mr Askew Roberts, in the last number, shows, by a further quotation from the book itself, that this was only a fancy sketch, founded on Aubrey's "leane raskal" In another letter, replying to one by the author of the *Blackwood* article, Mr Silvan Evans defies that gentleman to make good his assertion the superstition is "still surviving in North and South Wales."
 
 ---
+
+
+
+https://journals.library.wales/view/2092910/2093621/12#?xywh=242%2C1729%2C2412%2C1591
+
+March 29th, 1876
+
+p35-6
+
+Welsh Decameron
+
+The character of the *Mountain Decameron* as a work of fiction, its delineations of human nature devoid of credit, and its narratives of palpable improbabilities, will be best explained by the following review of it, which was published soon after its appearance.
+
+"While we praise the power and skill with which many parts of these tales are written ; the picturesque delineations of nature, the transcript of manners, and the general conduct of the fable; we must protest against the groundwork of the histories themselves, which are founded on circumstances, as that of Ruth and Marmaduke, most improbable and unnatural; as love growing up between a father and daughter, ignorant of their sacred relation to each other— their unhallowed hopes— their disappointment and their death of despair. Nearly all the stories are of the same cast, containing descriptions of strong uncontrollable passions, desperate resolves, fearful vicissitudes, and violent and tragic terminations. The skill with which such tales are written only adds to the evil they are too apt to occasion; and the sympathies they excite are so powerful and distressing, as to act most disadvantageously on the mind. If Mr Downes will take up another line of fiction, and delineate the milder feelings,— the gentler and softer affections, the less harrowing afflictions,— and will build them round the more endearing events of life, he will, we are sure, draw from them more useful lessons, and form more permanently engaging works." *Gent. Mag.*, vol. viii., New Series, pp 398 9 (Oct., 1837). Llallawg.
 
 
 
@@ -618,6 +678,29 @@ The Western Mail
 > Sir ,—Is there among the numerous intelligent correspondents of the *Western Mail* one who can inform me to what extent the ancient burial and marriage customs of the Welsh still prevail? I allude particularly to the customs of watching over the dead in the manner called by the Irish "waking" – the placing of salt on the breast of the corpse, and the performance of the sin eater. I am told that these customs were still prevalent in Carmarthenshire, and other like neighbourhoods strongly Welsh, within a few years back. Do they still prevail ? A late number of the *Dublin University Magazine* represented the customs of this kind in Yorkshire as being only just extinct. No doubt your correspondents in Carmarthenshire could enlighten me as regards the same here; or the learned "Morien" might consent to devote a paragraph or two to the subject, which is full of interest to readers who have come to Wales from other parts. The bidding to weddings I believe is still practised in some sections, and the galloping to church may be also, but of this I have not heard. NEW COMER. Cardiff, Nov. 17.
 
 ---
+
+
+
+https://journals.library.wales/view/2092910/2093636/6#?xywh=198%2C658%2C2797%2C1845
+
+Bye-gones
+
+April 12, 1876
+
+p43
+
+EXORCISM IN WALES.
+
+*(From Old Welsh Legends and Poetry in "Contemporary Review," by Lady Verney.)*
+
+
+An old clergyman at the beginning of this century made a profession of exorcism. He was once asked how he could lend himself to such superstition among his flock, and replied that he could not alter their belief which made them miserable, and that a 1 he did was to give them comfort and assistance. He then gave an account of what had once happened to himself. A farmer's wife camo to tell him that they were half ruined, every thing about their place went wrong without any cause, their fences were broken, their beasts were lamed or destroyed, their poultry died, while within the house the china came to grief, the linen was burnt; she knew they were cursed, arid entreated him to come and undo the spell. He went up to the farmhouse, which was on a lonely mountain, and desired to be left alone in the kitchen. Suddenly the poor woman rushed in to say that while she was preparing tea three tea-cups had been mysteriously broken, and the servant-girl had appeared with a goose hanging to her apron. He sat considering with his head on his hand, and then desired the girl might be sent in to him. He looked at her sternly, and said, "You know something about this." She denied it vehemently: "You want to break my character." "You had better confess," he said, solemnly; whereupon she became still more violent. At last he drew out his pocket book and began to write, If you don't tell me the truth directly I will make a pair of horns to grow out of your head." She then fell on her knees, entreating for mercy, and confessed that a neighbour, anxious to get the farm, had bribed her to do ail the mischief possible in order to induce the owners to believe themselves bewitched and to leave the place. The clergyman made her promise that nothing of the kind should ever happen again; if it did, he said, he would make the horns grow instantly. He then went out and told the farmer he had uncursed the place, and all went on rightly from that time; but he had never revealed the reason until that moment.
+
+In another case a clergyman, celebrated for exorcisms, was sent for to a house haunted by the devil close to the sea-shore. He went and spent three night3 there alone, after which he announced that he had done the deed, "but that the devil was the hardest he had ever had to deal with." He never would reveal what took place. It was probably some smuggling transaction. He died rich, as he was well paid for such operations.
+
+
+---
+
 
 
 https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up
