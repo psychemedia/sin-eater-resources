@@ -1,3 +1,38 @@
+
+sin-eating TO DO
+
+Ledbury
+https://archive.org/details/dli.ernet.527755/page/57/mode/2up?q=%22sin+eating%22
+
+
+
+https://archive.org/details/sim_the-catholic-world-a-monthly-magazine_1930-11_132_788/page/212/mode/2up?q=%22sin+eating%22
+
+-----
+
+exorcism in wlaes 
+
+https://journals.library.wales/view/2092910/2093636/6#?xywh=-205%2C1560%2C2797%2C1845 p 43
+
+--
+
+punishing paupers
+
+https://journals.library.wales/view/2092910/2093597/3#?xywh=70%2C2012%2C2326%2C1534 p4 
+
+https://journals.library.wales/view/2092910/2093621/8#?xywh=-521%2C571%2C4021%2C2652 p 31
+
+
+https://journals.library.wales/view/2092910/2093636/5#?xywh=-838%2C-151%2C4826%2C3183 p42
+
+---
+
+https://victoriancalendar.blogspot.com/2011/04/may-26-1876-stolen-duchess.html
+
+
+---
+
+
 https://www.reddit.com/r/AskHistorians/comments/6yinfj/what_were_sineaters_and_when_did_the_tradition/ incl. quote "At least one other account from Herefordshrie does exist; Ella Mary Leather, who collected folk stories from the area in the early 20th century, was told by a guest at a farmhouse wake that when he had declined a glass of port, the old farmer told him: "But you must drink, sir. It is like the Sacrament. "
 
 and in referencing Aubrey WK -> White Kennett (1660-1728), Bishop of Peterborough, who was vicar of Ambrosden, Oxfordshire, from 1685-1703, and is known to have come into the possession of some of Aubrey's manuscripts – ,
@@ -23,6 +58,36 @@ Welsh folk-lore: a collection of the folk-tales and legends of North Wales; bein
 by Owen, Elias
 
 Publication date 1896
+
+
+
+
+--
+
+sin eater fiona macleod -https://archive.org/details/bestpsychicstori00frenrich/page/n9/mode/2up?q=%22sin+eater%22 ghost story
+
+also
+https://archive.org/details/sineaterwasf00sharuoft/page/n8/mode/2up?q=%22sin+eater%22
+
+
+--
+
+
+https://archive.org/details/sineater0000schm/page/n5/mode/2up?q=%22sin+eater%22
+
+
+
+Fairy legends and traditions of the South of Ireland.
+by Croker, Thomas Crofton, 1798-1854
+Publication date 1825
+https://archive.org/details/fairylegendstrad03crok/page/n8/mode/2up?q=%22corpse+candle%22
+
+
+
+--
+
+
+MouNtAIN DECAMERON QUOTE IN https://archive.org/details/sim_literary-gazette_1836-08-13_1021/page/514/mode/2up?q=%22corpse+candle%22
 
 
 --
