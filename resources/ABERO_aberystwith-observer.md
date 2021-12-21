@@ -55,7 +55,6 @@ I am, sir, yours faithfully,
 
 RHEIDIOL.
 
-??Often misquoted as Western Mail letter?
 
 ---
 
@@ -109,7 +108,7 @@ The Aberystwith Observer
 p2
 THE "SIN-EATER" IN WALES.
 
-The Rev. Professor Silvan Evaus, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alle-eo functions of the imaginary "Sin-Eater":—
+The Rev. Professor Silvan Evans, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alle-eo functions of the imaginary "Sin-Eater":—
 
 THE "SIN-EATER."
 Llanymawddwy, Feb. 12, 1876.
