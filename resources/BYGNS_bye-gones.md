@@ -7,10 +7,10 @@ October 4th, 1871
 
 p1
 
-Separate publication, based on column appearin in Oswestry Advertiser
+Separate publication, based on column appearing in Oswestry Advertiser
 
 
-We purpose devoting a column, more or less, each week to the publication of NOTES, QUERIES, and REPLIES, ob bye-gone events, interesting to North Wales and its Borders. To enable us to make the column interesting – as well as valuable to future historians, we respectfully invite the co-operation of our readers, in the supply of queries and of replies – in the loan of old pamphlets, fly-sheets, and newpapers; and where practicable, in files of old letters or other M.S.S.
+We purpose devoting a column, more or less, each week to the publication of NOTES, QUERIES, and REPLIES, of bye-gone events, interesting to North Wales and its Borders. To enable us to make the column interesting – as well as valuable to future historians, we respectfully invite the co-operation of our readers, in the supply of queries and of replies – in the loan of old pamphlets, fly-sheets, and newpapers; and where practicable, in files of old letters or other M.S.S.
 
 We need scarcely say that all documents submitted to the editor of this column will be most carefully treated, and promptly returned. All communications for the column must be addressed 'Bye-gones, Caxton Works, Oswestry.'
 
