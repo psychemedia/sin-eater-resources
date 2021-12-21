@@ -54,7 +54,7 @@ TO DO
 
 ## Blackwood's Magazine, November, 1875
 
-In the November edition of *Blackwood's Magazine*, [volume 118, pages 590-607](https://babel.hathitrust.org/cgi/pt?id=chi.55222270&view=1up&seq=602&skin=2021&q1=north%20wales), an unnamed author provided an article on the *LEgends and Folk-loer of North Wales*.
+In the November edition of *Blackwood's Magazine*, [volume 118, pages 590-607](https://babel.hathitrust.org/cgi/pt?id=chi.55222270&view=1up&seq=602&skin=2021&q1=north%20wales), an unnamed author provided an article on the *Legends and Folk-lore of North Wales*.
 
 The article is a long one and is presented without section breaks to separate out different types of tradition.
 
@@ -69,6 +69,8 @@ As well as the predictive-of-death corpse candle, various death bed traditions a
 >
 > "The body's salt the soul is, which, when gone,  
 > The flesh soone sucks in putrefaction."
+
+TO DO - pigeon's feathers, and the Bible and key or sieve spell to find'a thief)
 
 But then we reach the paragraph that was to trigger a whole series of letters regarding the actual existence, or otherwise, of one very particular tradition: that of the "sin-eater".
 
