@@ -1,4 +1,68 @@
 
+
+"The Sin Eater" , Megan Campisi, 2022
+
+https://www.panmacmillan.com/blogs/fiction/megan-campisi-on-the-sin-eater
+
+
+https://www.icysedgwick.com/sin-eaters/
+
+Aaron, Jane (2015), Welsh Gothic, Cardiff: University of Wales Press. Chapter on: The Sin Eater
+
+Richardson, Ruth (2001), Death, Dissection and the Destitute: The Politics of the Corpse in Pre-Victorian Britain, London: Phoenix Press.
+
+Valjak, Domagoj (2018), ‘The Macabre Story of Sin-Eaters’, The Vintage News, https://www.thevintagenews.com/2018/08/06/sin-eaters/
+
+Harris, Ingrid (2007), ‘The Gift of Suffering’, in Nancy Johnston and Alwilda Scholler-Jaquish (ed.), Meaning in Suffering: Caring Practices in the Health Professions, Madison, WI: University of Wisconsin Press, pp. 60-97.
+
+
+The sin eater
+Yuan-Innes, Melissa.Medical Post; Chicago Vol. 52, Iss. 4,  (Apr 5, 2016): 29.
+
+Margaret Atwood - sin eater short story in https://en.wikipedia.org/wiki/Bluebeard%27s_Egg The Sin Eater
+Atwood, Margaret
+The Irish Times (1921-); Aug 15, 1986;
+ProQuest Historical Newspapers: The Irish
+
+
+Sin eater
+Rossiter, Sarah
+The Christian century (1902), 2021-07-14, Vol.138 (14), p.25-25
+
+---
+
+BIZARRE TALES OF THE 'SIN EATER' AND CITY 'S LAST WIFE SALE: [Echonews Edition]
+Northern Echo; Darlington (UK) [Darlington (UK)]. 09 Nov 2005: 09. 
+
+THE long-forgotten past has been brought vividly back to life in a new book that explores a city's history.
+
+Among the characters and facts that North Yorkshire historian Maurice Taylor has unearthed is the bizarre story of the Ripon Sin Eater.
+
+A custom dating back to pre-Christian times, the sin eater was summoned to the bedside of a dead person. On the corpse was placed a tankard of ale containing a coin and a piece of bread.
+
+The sin eater drank the ale, ate the bread and pocketed the coin, symbolically taking in the sins of the deceased.
+
+The tradition continued in the area into the mid-19th Century.
+
+Other stories in the book, An Illustrated History of Ripon, tell of the city's last-known wife sale and the last women to die accused of witchcraft, after a visit by a witch-finder.
+
+Maurice Taylor has lived in Ripon for more than 30 years and has been researching its history since 1992. He often leads guided walks there.
+
+He has uncovered much new information for the book, as well as previously unpublished illustrations.
+
+The chapters cover the city's origins from prehistoric times to the present day, covering subjects including the market, its religious past and heroes and villains.
+
+The book also contains lists of wakemen, mayors and bishops, as well as information such as the origins of Ripon street names.
+
+An Illustrated History of Ripon, priced 12.99, will be launched on December 8 and will be available from House of Stratus, in Fishergate, Ripon.
+
+Copies can be ordered in advance from the shop.
+
+Word count: 261
+Copyright Newsquest (North East) Ltd. Nov 9, 2005
+
+
+---
 sin-eating TO DO
 
 Ledbury
