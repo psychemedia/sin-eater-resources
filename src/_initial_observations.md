@@ -2,8 +2,7 @@
 
 Throughout the 18th century, there flourished a wide variety of "antiquarian" societies, whose members sought to recover empirical evidence of the past, from artefacts to scholarly researched and cross-referenced facts in the classical texts of antiquity, much as a naturalist might seek to collect from evidence of particular species of insect, fungus or plant in the environment from both specimens as well as much earlier writings.
 
-Remnants of the antiquarian way still exist today in the form of family history research and local history societies, where there is still some sense of trying to recover "facts" from the past (see, for example [*Antiquarianism and history*,
-Roey Sweet, 2008](https://archives.history.ac.uk/makinghistory/resources/articles/antiquarianism.html) for an informal introduction).
+Remnants of the antiquarian way still exist today in the form of family history research and local history societies, where there is still some sense of trying to recover "facts" from the past (see, for example [*Antiquarianism and history*, Roey Sweet, 2008](https://archives.history.ac.uk/makinghistory/resources/articles/antiquarianism.html) for an informal introduction).
 
 Writing in Chapter 53, *"Antiquarianism and History"*, p. 516, of *A Companion to Green And Roman Historiography, J. Marincola (Ed.), 2007* Benedetto Bravo identifies the role of the anitiquarian as follows:
 
