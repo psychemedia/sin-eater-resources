@@ -548,7 +548,7 @@ I have picked out the following questions from *Goleuad Cymru* for June, 1819, a
 
 "What is the meaning of putting lighted candles in brass candlesticks on the coffin ?"
 
-“Why do people lean on the coffin to pray?"
+"Why do people lean on the coffin to pray?"
 
 "Is that a sign of an old custom of praying for the dead?" "The second Sunday after a burial the relations of the deceased keep a 'memorial knell' (*clul coffa*) that Sunday, and feast throughout the day."
 
@@ -873,8 +873,9 @@ Publication date 1896-05-02
 p366
 
 THE SIN-EATER IN WALES. Cardiff April 27, 1996.
-Mr. J. P. Owen, writing under the above heading in the ACADEMY of April 25, seems to have mistaken the true meaning and etymology of abeilon, a term used in the neighbourhood of Llandilo, in Carmarthenshire. The a, prob- ably, as Mr. Owen suggests, represents the article ; but the word is composed of y bylon or y mylon, literally ‘‘edges” or ‘‘ margins,” and then ‘‘ perquisites” or “‘ gifts.” The bylon of which Miss Beall speaks were the customary perquisites given in the neighbourhood of Llandefeisant, and are still in vogue in some parts of Wales. The term is used in other parts of Carmarthenshire, and also in North Wales. It is the plural form of byl or myl, ‘ side,” ‘* edge,” or ‘‘ margin,’ and still heard in the phrase hyd y fyl, ‘‘to the brim,” or “ brimful.” It is a good word, and should have found place in every Welsh dictionary ; and it is somewhat strange that Chancellor Silvan Evans has not included it in his great work. Both forms, bylon and mylon, are heard in the neighbour- hood of Newcastle Emlyn, a locality with which the Chancellor is well acquainted.
-W. Erie Evans.
+
+Mr. J. P. Owen, writing under the above heading in the ACADEMY of April 25, seems to have mistaken the true meaning and etymology of *abeilon*, a term used in the neighbourhood of Llandilo, in Carmarthenshire. The *a*, probably, as Mr. Owen suggests, represents the article ; but the word is composed of *y bylon* or *y mylon*, literally "edges" or "margins," and then "perquisites" or "gifts." The *bylon* of which Miss Beall speaks were the customary perquisites given in the neighbourhood of Llandefeisant, and are still in vogue in some parts of Wales. The term is used in other parts of Carmarthenshire, and also in North Wales. It is the plural form of *byl* or *myl*, "side," "edge," or "margin," and still heard in the phrase *hyd y fyl*, "to the brim," or "brimful." It is a good word, and should have found place in every Welsh dictionary ; and it is somewhat strange that Chancellor Silvan Evans has not included it in his great work. Both forms, *bylon* and *mylon*, are heard in the neighbourhood of Newcastle Emlyn, a locality with which the Chancellor is well acquainted.  
+W. Eilir Evans.
 
 ---
 
@@ -887,10 +888,13 @@ Publication date 1896-05-09
 p385
 
 THE SIN-EATER IN WALES. Llanwrin, North Wales : May 4, 1896.
-Permit me to correct an error into which Mr. W. Eilir Evans has fallen, in his letter in the ACADEMY of May 2, regarding the word by/.
-He there states that ‘‘ it is somewhat strange that Chancellor Silvan-Evans has not included it [dy/j] in his great work.” The word is included in the dictionary referred to, and will be found, together with the phrase ‘‘llawn hyd y fyl,’’ in its alphabetical order on p. 600.
-HEnryY SILVAN-EVANS.
-[In justice to Mr. Silvan-Evans, we ought to say that the assertion he contradicts seems to have arisen from a misunderstanding. It was a former correspondent (Mr. J. P. Owen, in the ACADEMY of April 25) who affirmed that the (anglicised) Welsh word abei/on was not to be found in Silvan-Evans’s Welsh Dictionary. Mr. W. Eilir Evans, while supplying tbe real Welsh form by/, appear to have supposed that Mr. Owen’s assertion extended likewise to that.—Ed. ACADEMY. |
+
+Permit me to correct an error into which Mr. W. Eilir Evans has fallen, in his letter in the ACADEMY of May 2, regarding the word *byl*.
+
+He there states that "it is somewhat strange that Chancellor Silvan-Evans has not included it (*byl*) in his great work." The word is included in the dictionary referred to, and will be found, together with the phrase "llawn hyd y fyl," in its alphabetical order on p. 600.  
+HENRY SILVAN-EVANS.
+
+[In justice to Mr. Silvan-Evans, we ought to say that the assertion he contradicts seems to have arisen from a misunderstanding. It was a former correspondent (Mr. J. P. Owen, in the ACADEMY of April 25) who affirmed that the (anglicised) Welsh word *abeilon* was not to be found in Silvan-Evans's Welsh Dictionary. Mr. W. Eilir Evans, while supplying tbe real Welsh form *byl*, appear to have supposed that Mr. Owen’s assertion extended likewise to that.—Ed. ACADEMY.
 
 ---
 
