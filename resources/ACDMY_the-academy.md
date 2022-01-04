@@ -907,14 +907,22 @@ Publication date 1896-05-16
 
 p407
 
-1896.
-The dissyllabic compound ymy/ is the ordinary Welsh word for “brim,” “edge,” &. In Carmarthenshire that word is pronounced imi!, the vowel in both syllables having the same. value as in the English word “limit.” The Irish and Gaelic cognates are imaell and iomall. In Cardiganshire and North Wales the vowel has a different sound, which the u of the English word ‘‘humble”’ will represent well enough. I cannot at present see my way to concede that Miss Beale’s abei/on has anything to do with ymy/ and its plural form ymylon, or with the very dubious variants y bylon and y mylon given by Mr. Eilir Evans. I cannot find myl as an independent word in the dic- tionaries; and this is what they say about its brother byl.
-Owen Pughe’s Dictionary’, 1832:
-** Byl, sm. pl. t. au (yl), a brim or edge. Yn llawn hyd y byl, being full to the brim, Sil[-urian]. This word is only used in North Wales in its com- pound forms, ymy/, cyfy/, and the like.”’
-Silvan Evans’s English - Welsh Dictionary (1858) has, under ‘‘ brimless,” “‘ a heart brimful of tears,” calon lawn o ddagrau hyd y byl.” The same distinguished lexicographer’s Welsh- English Dictionary has (p. 600) :
-‘*Byl (¥), sm. f.,a brim oredge; a rim. Liawn hyd y fyl, full to the brim, brimful. S[-outh} Wi-ales{.”
-But Mr. Eilir Evans says that y bylon and mylon not only mean ‘‘ edges ”’ or “‘ margins,” ut also ‘‘ perquisites” or “ gifts.” In regard to that statement I have collected the following evidence. Under ‘‘ perquisite,”’ I find in Silvan Evans’s English- Welsh Dictionary, ad/ael, dam- weinfael, dygwyddfael, rhoddfael, mael dygwydd, rhyw fael neu elw a gaffer heb law cyflog [* some vail or profit that is got in addition to wages”), anrheg. Under ‘‘ vails” the same work gives gweinidfael, gweinidrodd, damweinfael, rhodd- Jfael, ystlysfael, mael dygwydd, rhodd i weini- dogion [‘‘ gift to ministers”). Salesbury has mael, “‘avayle”; T. Richards (1753) has mael, “gain, profit, lucre, advantage”; T. Lewis (1805) has ‘‘ maelor, s., a place of traffic, a mart or market. There are districts so called in the marches of Wales, which were neutral ground, where trade was carried on.” It is clear, from the above quotations, that the question is not confined to ymylon and y meilon, but that maelon must also be taken into account. Both mail and mael will explain the diph- thongal middle syllable of abeilon, but ymy? will not. Whether or no the Welsh mae/ is connected i i English ‘“ mail” (in “ black- mail”) or English ‘‘ vails” is an interesting problem, but (mindful of the heading of this note) I must not attempt to discuss it at
-present. J. P. Owen.
+London, Maay 11, 1896.
+
+The dissyllabic compound *ymyl* is the ordinary Welsh word for "brim," "edge," &c. In Carmarthenshire that word is pronounced *imíl*, the vowel in both syllables having the same value as in the English word "limit." The Irish and Gaelic cognates are *imaell* and *iomall*. In Cardiganshire and North Wales the vowel has a different sound, which the *u* of the English word "humble" will represent well enough. I cannot at present see my way to concede that Miss Beale's *abeilon* has anything to do with *ymyl* and its plural form *ymylon*, or with the very dubious variants *y bylon* and *y mylon* given by Mr. Eilir Evans. I cannot find *myl* as an independent word in the dictionaries; and this is what they say about its brother *byl*.
+
+Owen Pughe's Dictionary, 1832:
+
+"Byl, sm. pl. t. au (yl), a brim or edge. *Yn llawn hyd y byl*, being full to the brim, Sil[-urian]. This word is only used in North Wales in its compound forms, *ymyl*, *cyfyl*, and the like."
+
+Silvan Evans's English - Welsh Dictionary (1858) has, under "brimless," "a heart brimful of tears," *calon lawn o ddagrau hyd y byl*." The same distinguished lexicographer's Welsh- English Dictionary has (p. 600) :
+‘Byl (¥), sm. f., a brim or edge; a rim. *Llawn hyd y fyl*, full to the brim, brimful. S[-outh] W[-ales]."
+
+But Mr. Eilir Evans says that *y bylon* and *y mylon* not only mean "edges" or "margins," but also "perquisites" or "gifts." In regard to that statement I have collected the following evidence. Under "perquisite," I find in Silvan Evans's English-Welsh Dictionary, *adfael, damweinfael, dygwyddfael, rhoddfael, mael dygwydd, rhyw fael neu elw a gaffer heb law cyflog* ["some vail or profit that is got in addition to wages"), *anrheg*. Under "vails" the same work gives *gweinidfael, gweinidrodd, damweinfael, rhoddfael, ystlysfael, mael dygwydd, rhodd i weinidogion* ["gift to ministers"). Salesbury has *mael*, "avayle"; T. Richards (1753) has *mael*, "gain, profit, lucre, advantage"; T. Lewis (1805) has "*maelor*, s., a place of traffic, a mart or market. There are districts so called in the marches of Wales, which were neutral ground, where trade was carried on." It is clear, from the above quotations, that the question is not confined to *ymylon* and *y meilon*, but that *maelon* must also be taken into account. Both *mail* and *mael* will explain the diphthongal middle syllable of *abeilon*, but *ymyl* will not.
+
+Whether or no the Welsh *mael* is connected with either English "mail" (in "blackmail") or English "vails" is an interesting problem, but (mindful of the heading of this note) I must not attempt to discuss it at present.
+
+J. P. Owen.
 
 
 ---
