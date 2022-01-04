@@ -1,7 +1,7 @@
 
 # The First Controversy, 1875
 
-The response to the article in *Blackwood's Magazine*, and in particular the mention of "the sin-eater", begins with the Vol 8 Iss 182 edition *The Academy*, dated [November 6th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-06_8_182/page/478/mode/2up?q=legends), on p. 478
+The response to the article in *Blackwood's Magazine*, and in particular the mention of "the sin-eater", begins with the *Vol 8 Iss 182* edition of *The Academy*, dated [November 6th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-06_8_182/page/478/mode/2up?q=legends), p. 478:
 
 > AMONG curious customs and superstitions noticed in an article in *Blackwood* on the "Legends and Folk-lore of North Wales" there is one the singularity of which is heightened by the statement that it still survives in North and South Wales and the Border. At a funeral, "a hireling who lives by such services has handed over to him a loaf of bread, a maple bowl full of beer or milk, and a sixpence, in consideration of which he takes upon him all the sins of the defunct, and frees him or her from walking after death." The scapegoat is currently called a "Sin-eater."
 
@@ -23,7 +23,7 @@ At the time of writing, Daniel Silvan Evans was an ordained priest and scholar, 
 
 The letter expresses a certain amount of doubt as to the veracity of the "alleged" tradition, based on the author having lived for a quarter of a century in the principality in an occupation that *"often brings me in contact with funerals"* and having *"never found a trace of such a custom"*.
 
-Silvan Evans then goes on to request further information on sources and locations and offers to visit the location to pursue further investigations. He also asks for the " *Welsh equivalent of "Sin-eater"'* as one *"interested in Welsh words as well as in Welsh customs and legends"*. 
+Silvan Evans then goes on to request further information on sources and locations and offers to visit the location to pursue further investigations. He also asks for the " *Welsh equivalent of "Sin-eater"'* as one *"interested in Welsh words as well as in Welsh customs and legends"*.
 
 A reprinted version of Silvan Evans letter to the *Academy* also appeared *The Cambrian News and Merionethshire Standard*, published on [November 19th, 1875](https://newspapers.library.wales/view/3307679/3307686/41/sin-eater), p7, introduced as:
 
@@ -35,9 +35,10 @@ and in *The Aberystwith Observer*, p4, dated [November 20th, 1875](https://newsp
 
 ## Response to Silvan Evans, Historical Evidence, 1875-11-20
 
-The next issue of the *Academy*, Vol 8 Iss 18 dated [November 20th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-20_8_184), pp. 529-30, has a response that recaptures must of the evidence that we are familiar with. It is restated here to provide a concise benchmark for the state of understanding we might have expected from the participants from this point in the debate.
+The next issue of the *Academy*, *Vol 8 Iss 18* dated [November 20th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-20_8_184), pp. 529-30, has a response that recaptures much of the evidence that we are familiar with. It is restated here to provide a concise benchmark for the state of understanding we might have expected from the participants from this point in the debate.
 
-> "LEGENDS AND FOLK-LORE OF NORTH WALES": THE SIN-EATER, Hammersmith : Nov. 16, 1875.
+> "LEGENDS AND FOLK-LORE OF NORTH WALES": THE SIN-EATER
+> Hammersmith : Nov. 16, 1875.
 >
 > Professor Evans has "never heard of the strange custom here alluded to, either as now existing or as having existed at some former period." May I be allowed to point out what appears to be the original passage from which the writer of the article drew the authority for his statement, and apparently its very words ? It occurs in a work so well-known as *Brand's Popular Antiquities* (Bohn's edition, 1849, vol. ii. 246-248), where the following is cited from Bagford’s letter, dated February 1, 1714-5, in Leland's *Collectanea*, i. 76 :—
 >
@@ -52,29 +53,54 @@ The next issue of the *Academy*, Vol 8 Iss 18 dated [November 20th, 1875](https:
 > While these statements very clearly affirm the former prevalence, in North Wales and the Border, of the superstitious practice in question, they do not, of course, go to show that, in the words of the article, it is "still surviving" in those localities, as well as in South Wales. The writer, however, of the interesting compilation in *Blackwood* has little to tell us about surviving North Welsh superstitions, and less that is new. Some of those mentioned (e.g., that about pigeon's feathers, and the Bible and key or sieve spell to find'a thief) are common in various parts of England and Scotland; others, like the *Canwyll Corph* (Corpse Candle), are more or less satisfactorily referred to in well-known works— as in the *Choice Notes from Notes and Queries*, and in the old *Cambrian Quarterly Magazine*; other remarkable superstitions, again, alleged to be still living, such as that of the *Mallt y Nos*, or *Mam y Drwg* (Mother of Mischief), are not mentioned.
 >
 > I venture to remark that the popular superstitions of Wales still await a student, acquainted with the Welsh language, and content, instead of seeking *folk*-lore from books, to collect it at the firesides of the people, in the out-of-the-way villages and secluded glens where it lingers longest. David Fitzgerald.
->
 
 There is a second piece of correspondence, immediately following (p530), that adds a further reference to Hone's *Year Book*:
 
 > Croeswylan, Oswestry.
-> In reference to the strange profession of "Sin-Eater," mentioned by the writer in *Blackwood* and doubted by your able correspondent, the Rev. Silvan Evans, let me refer him and your readers to a well-known work, Hone's *Year Book*, on col. 858 of which will be found some records of the practice both in Wales and on the borders. One of the illustrations dates from Herefordshire, in which county, if I am not mistaken, the writer in *Blackwood* resides. Askew Roberts.
+> In reference to the strange profession of "Sin-Eater," mentioned by the writer in *Blackwood* and doubted by your able correspondent, the Rev. Silvan Evans, let me refer him and your readers to a well-known work, Hone's *Year Book*, on col. 858 of which will be found some records of the practice both in Wales and on the borders. One of the illustrations dates from Herefordshire, in which county, if I am not mistaken, the writer in *Blackwood* resides.  
+> Askew Roberts.
 
-Askew Roberts, you might recall, was the original editor of Bye-gones, launched in 1871, the hyperlocal *Notes & Queries* of its time for Oswestry and the border counties of England and Wales.
+Askew Roberts, you might recall, was the original editor of Bye-Gones, launched in 1871, the hyperlocal *Notes & Queries* of its time for Oswestry and the border counties of England and Wales.
 
-We also get a first hint here that Askew Robers, at least, has a good idea about whom the author of the article might be.
+We also get a first hint here that Askew Roberts, at least, has a good idea about whom the author of the article might be.
 
-```{admonition} John Askew Roberts
+```{admonition} Askew Roberts, the Oswestry Advertizer, and Bye-Gones
+:class: seealso dropdown
 
-TO DO
+The history of Bye-Gones, and Robert Askew's stewardship of it, is given in an obituary piece that appeared in *Bye-Gones* of [December 17th, 1884](https://journals.library.wales/view/2092910/2095293/4#), p146-8:
+
+> Mr Askew Roberts, who was born at Oswestry on the 27th of March, 1826, was the son of Mr Samuel Roberts, a bookseller in the town, and on the side of his mother, a niece of the Rev. John Whitridge of Oswestry, was descended from the family of Anne Askew, the martyr, a name which has been perpetuated in succeeding generations. For a short time in early manhood Mr Roberts resided at Taunton, but he returned to Oswestry about 1848, to take part in his father's business, and continued to live there for the rest of his days ; and in January, 1858, he married Katharine, fourth daughter of the Rev. Thomas Toller of Kettering. Mr Roberts's first literary productions, we believe, appeared in *Oswald's Well*, a magazine conducted by his brother, the late Mr William Whitridge (Roberts), and including the late Mr Shirley Brooks, afterwards editor of *Punch*, amongst its contributors. In 1849 *Oswald's Well* was succeeded by the *Oswestry Advertizer*, which was established as a monthly publication, but under Mr. Roberts's enterprising management soon developed into a weekly, and from time to time was enlarged in size and extended in circulation until it became an influential newspaper for a wide-spread district in Shropshire and North Wales. It was in connection with the railway projects fought in the parliamentary committee rooms, a few years after the establishment of the *Advertizer*, that Mr Roberts, by his lively and trenchant style, first made the influence of the paper felt in the district now served by the Cambrian line, and some of our readers can remember the excitement that was caused week after week by the contributions which came from his pen. In 1860 he founded a second newspaper, the *Merionethshire Standard*, which afterwards became the *Cambrian News* ; and of this publication, as well as the *Advertizer*, he continued to be proprietor until, in 1868, he retired from business and sold the copyright to two of his old associates at the Caxton Press, by one of whom the paper in which these lines are written is still conducted. Mr Roberts was always an unflinching Liberal and Nonconformist, and no considerations of personal profit or loss were ever allowed to stand in the way of his constant advocacy of the principles in which he believed. He helped, not only by his writing, but by active work in some of the Welsh constituencies, to fight the battles which were carried on for years in North Wales, and which only ended in complete victory in the spring of 1880, though in Merionethshire he had the satisfaction of seeing his friend, Mr David Williams, elected as early as 1868.
+
+A later part of the obituary reveals that:
+
+> In 1865 he entered the Council, tying with another candidate at the head of the poll; but, believing perhaps that the position was not entirely compatible with his more important functions as a journalist and a critic, he retired in 1868.
+
+As well as being an editor, Askew Roberts was also to publish a popular work, "The Gossiping Guide":
+
+> The first edition of that popular book was issued in 1870, under the title of "On and Off the Cambrian," and so successful did it prove that the scope of the work was gradually enlarged, until it became a complete guide to North Wales. The Press abounded with favourable notices, but it is only necessary to say that 50,000 copies of the Guide have been sold, to show how skilfully Mr Roberts did his work, and how well it was appreciated. In this publication also he was fortunate enough to secure the help of the late Mr Wynne, and of another well-known Welsh antiquary, the late Rev. R. Williams, at one time Rector of Rhydycroesau.
+
+Following the publication of this work, and notwithstanding having relinuqished his ownership of the *Oswestry Advertizer*, Roberts' took on the role of editor of the *Bye-gones* column within that publication:
+
+> In 1871, Mr. Roberts, who took a keen and generous interest in the success of the *Advertizer* after it had passed into other hands, kindly offered to edit an antiquarian column, and the offer was gladly accepted. *Bye-Gones*, the first of many similar columns in other newspapers, began in October of that year, and soon made for itself a reputation amongst antiquaries which attracted contributors from various parts of the kingdom. The column was republished in quarterly parts, and Mr. Roberts never flagged, even when weakness almost incapacitated him from work, in his efforts to make the publication worthy of the position which it had won. The list of contributors contains the names of several well-known philologists and archaeologists ...
+
+It appears from the obituary that Askew Roberts was a well-regarded man:
+
+> In former days, when he conducted this paper, if he sometimes wrote with too keen a pen to please all readers, he was guided by a wholesome dislike of snobbery and pretence, a just regard for the honour and independence of the Press, and a fearless devotion to the cause of freedom and progress, which he did a good deal to help forward in less favoured times than these ; and while he frankly expressed his opinions, he never vilified his opponents or refused to recognize their merits, so that it is not surprising he should have won the lasting friendship of men who altogether differed wich him in religious and political belief.
+
+A report in *Bye-Gones*, of [June 25th, 1890](https://journals.library.wales/view/2092910/2096798/17#?xywh=-371%2C1552%2C3382%2C2231), p392-3, on the opening of the Askew Roberts Memorial Clock "placed by public subscription outside the [Oswestry] Post Office, and which was to be removed wherever the Post Office was removed to", quoted Roberts' executor, Mr J. Parry-Jones recognising him as "the originator of *Bye-Gones*, which had done so much to create an interest in the subject of folk-lore and antiquarian research in local matters", and who:
+
+> believed Mr Askew Roberts was the originator of these local "Notes and Queries," and that *Bye-Gones* was the first periodical of the kind, perhaps, in all England, and his memory, if for nothing else than this, deserved to be perpetuated. They were all aware of the interest, he might say the passionate interest, with which he regarded his native town, and therefore it was fitting that his memory should be commemorated by the inhabitants of the town he loved so well.
+
+TO DO - see also:
+
 
 https://biography.wales/article/s-ROBE-ASK-1826
 
 http://onlinebooks.library.upenn.edu/webbin/serial?id=byegoneswales
 
-
 ```
 
-In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/2092910/2093552/11#?xywh=-1479%2C531%2C5791%2C3820), p329-30, we have a note that '[t]he following letter has appeared in the *Academy*. "Llanymawddwy Rectory, Merioneth: November 8th, 1875. ...' that quotes Silvan Evans' letter to the November 13th edition of the *Academy* along with Askew Roberts own reply from the November 20th edition, as well as an excerpt of several paragraphs from that work.
+In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/2092910/2093552/11#?xywh=-1479%2C531%2C5791%2C3820), p329-30, we have a note that '[t]he following letter has appeared in the *Academy*. "Llanymawddwy Rectory, Merioneth: November 8th, 1875. ...' that quotes Silvan Evans' letter to the November 13th edition of the *Academy* along with Roberts' own reply from the November 20th edition, as well as an excerpt of several paragraphs from that work.
 
 ```{admonition} Askew Roberts, citing Hone
 :class: dropdown
@@ -86,12 +112,11 @@ In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/209291
 > Bagford states that he received his information from "the ingenious John Aubrey, Esq., who made a collection of curious observations," which he had seen. Among the Lansdowne MSS. in the British Museum may be found accounts of this singular custom, in Aubrey's own handwriting. In these he tells of "a long, lean, ugly, lamentable poor rascal" who lived in a cottage on Rosse highway, Hereford, who was a professional Sin-Eater. He also says there was a like practice at Brecon "at Llanygors, where Mr Gwyn the minister about 1640 could not hinder the performance of this ancient custom." In 1686 Mr Aubrey says the custom was prevalent in North Wales.
 ```
 
-Askew Roberts letter in the *Academy* also appears in *The Cambrian News and Merionethshire Standard*, published on [November 26th, 1875](https://newspapers.library.wales/view/3307690/3307699/76/sin-eater), p9, along with the elaboration of the reference in Hone's *Year Book*.
-
+Askew Roberts' letter to the *Academy* is also republished in *The Cambrian News and Merionethshire Standard*, published on [November 26th, 1875](https://newspapers.library.wales/view/3307690/3307699/76/sin-eater), p9, along with the elaboration of the reference in Hone's *Year Book*.
 
 ## The Blackwood Author Replies, 1875-11-27
 
-A week after the first response to Silvan Evans' letter in the Academy, and two weeks after that letter appeared, in  Vol 8 Iss 185 dated [November 27th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-27_8_185/page/554/mode/2up?q=sin+eater), p555, the anonymous *Blackwood* author goes on the defensive in their response – their *retort* - to the Reverend, addressing him almost as if he were a poorly read schoolboy who hadn't done his prep:
+A week after the first response to Silvan Evans' letter in the Academy, and two weeks after that letter appeared, in *Vol 8 Iss 185* dated [November 27th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-27_8_185/page/554/mode/2up?q=sin+eater), p555, the anonymous *Blackwood* author goes on the defensive in their response – their *retort* - to the Reverend, addressing him almost as if he were a poorly read schoolboy who hadn't done his prep:
 
 > THE SIN-EATER. November 20, 1875.
 >
@@ -105,7 +130,7 @@ The patronising tone continues with an explanation of how the answer should be i
 
 > That which can be pointed to within a generation back may be said, speaking broadly, to "survive" or linger still; and I have only delayed writing these remarks in the hopes of hunting up a paper where, early in the present year, I found a notice of a still later case.
 
-To reinforce Silvan Evans' laziness, the anonymous correspondent points out that several other boys managed to do the homework all on their own:
+To reinforce Silvan Evans' suggested laziness, the anonymous correspondent points out that several other boys managed to do the homework all on their own:
 
 > Other of your correspondents have relieved me of the necessity of referring to instances of the "Sin-eater" custom cited by Leland, Aubrey, and others, as having occurred between 1686 and 1715 in three or four Herefordshire parishes, in Shropshire, *in the villages adjoining Wales*, at Llangorse, near Brecon, and elsewhere in North and South Wales.
 
@@ -121,47 +146,47 @@ In signing off, the author continues to maintain their anonymity:
 
 > The Author of a paper on "LEGENDS AND FOLK-LORE OF NORTH WALES in "Blackwood’s Magazine" For November.
 
+## Commentary Elsewhere, November-December, 1875
 
----
-
-TO DO - ANNOTATE PREVIOUS SECTION
-
- WIP BELOW HERE
-
----
-
-## Commentary Elsewhere, TO DO DATE
-
-On [December 1st, 1875](https://journals.library.wales/view/2092910/2093566/#?xywh=516%2C654%2C2792%2C1842), p331, the readers of *Bye-Gones* were kept up to date with how the debate was proceeding (the date reference in the title is a reference back to the previous mention of the topic in *Bye-Gones*):
+On [December 1st, 1875](https://journals.library.wales/view/2092910/2093566/), p331, the readers of *Bye-Gones* were kept up to date with how the debate was proceeding (the date reference in the title is a reference back to the previous mention of the topic in *Bye-Gones*):
 
 > The Sin Eater (Nov. 24, 1875)
 >
-> In reference to this subject the write in *Blackwood* states in the *Academy* of Nov. 27 that the Cambrian Archaeologists at Ludlow in 1852 had the matter before them, when "Mr Moggridge cited a case of this supersition having occurred with five years at or near Llandebie, in the hill country of Carmarthenshire." (See *Cam. Arch, Jour.* s. 11, v. iii, p.330)
+> In reference to this subject the writer in *Blackwood* states in the *Academy* of Nov. 27 that the Cambrian Archaeologists at Ludlow in 1852 had the matter before them, when "Mr Moggridge cited a case of this supersition having occurred with five years at or near Llandebie, in the hill country of Carmarthenshire." (See *Cam. Arch, Jour.* s. 11, v. iii, p.330)
 
----
+In the *Aberystwith Observer* of [December 11th, 1875](https://newspapers.library.wales/view/3040686/3040689/21/), p3, a Welsh language column appeared from which the following is taken:
 
-https://newspapers.library.wales/view/3040686/3040689/21/
+> LLYTHYRAU Y GWYLIEDYDD.
+>  
+> Cyfeiriasom yn un o'n llythyrau at gyhuddiad pwysig a ddygwyd yn ein herbyn yn yr Academy sef fod y fath fôd a sin-eater gyda ni yn ein claddedigaethau. Mewn atebiad i'r Parch. D Silvan Evans, dywed y cyhuddwr i'r achos fod dan sylw y Cambrian Archaeologists yn Ludlow, yn 1852, pan ddywedoad un Mr. Moggridge i'r achos ofer-goelus hwngymeryd lie, o fewn pum mlynedd, yn neu gerllaw Llandebie, sir Gaerfyrddin. Wrth ein cyhuddo, dywedwyd fed yr arferiad yn Nghymru yn bresennol, ond pan ofynir am y prawf eir yn ol i bellafoedd 30 mlynedd. Y mae 30 mlynedd yn y cyfnod hwn yo fwy nag oedd dau gant o flynyddau ganrifoedd yn ol. Ond er iddo ddychwelyd i 1847, nis gallasai ddweyd wrthym pa un ai yn neu gerllaw Llandebie y cymerodd yr amgylchiad lle pa un ai yn Llandilo fawr, Cwmdwr, Pontarddulais, neu rywle arall. Ond er iddo nodi amser a lle, yr ydym yn ei sicrhau ef, Mr. Moggridge, a phawb eraill, na chymerodd yr amgylchiad le yno o fewn cof y trigolion hynaf. Y mae arferiad mewn rhai lleoedd yn Nghymru cyn cychwyn a'r corff oddiwrth y ty fyned a chwrw a theisienau i'r gwyddfodolion, cyn casglu i gynnorthwyo yn y treulio i gladdu; ao y mae yn dra thebyg i'r doethawr Moggridge dybied mai arferiad ffol ei genedl ei hun oedd hyny. Difyr iawn ydyw gweled ambell hynafiaethydd arwynebol a chyflym yn trafod rhai pynciau. Rhaid bod yn ofalus iawn gyda phethau sydd yn dal cysylltiad agos a chymeriad cenedl. Perthyna lluaws o ffaeleddau i ni fel Cymry, a thröwn ein cefnau yn ewyllysgar at y fflangellwr, ond ni chymerwn ein sarhau am bethau na pherthyn i ni, a hyny gan genedl sydd a phob llecyn o'i gwlad yn gysegredig i ofergoeleddd.
 
-The Aberystwith Observer
-1875-12-11
-, p3
+Via *Google Translate*, we get the following attempt at a translation:
 
-> LLYTHYRAU Y GWYLIEDYDD. BaIF. III. Y peth mwyaf neillduol sydd wedi tynu sylw J y wlad y dyddiau hyn
->
->  yw pryniad rhanddaliadatl Khedive yr Aifft o Gamlas Sues gan Loegr. O'f braidd na syfrdanwyd y Rhyddfrydwyr gan eydya- rwydd y pryniad, a rhyfeddant fod y weinyddlaeth bresennol wedi gallu gwneyd tro mor fendithlol l'r wlad hon. Mawr ganmolir y weithred hon gan y WRSg, a chan y wlad yn gyffredinol. GweithnHI ddoeth ydoedd yn mhob ystyr. Yr oedd y than* ddaliadau ar werth am fod y Llywodraeth Aifftaidd mewn eisiau arian. Digon tebyg y prynasid y rhanddaliadau hyn gan rai o deyrnaaoedd y Cyfaadir pe buasai digon o arian yn eu pwrs; ond gan na feddent yr arian, daeth Lloegryn mlaen, a aiorhaocid hwy ar umvaith. Ur uedd y rhanddaliadau ya SO punt yr un, a'r capital yn 8,000,000 punt, aprynodd tin Llywodraeth 177,000 o randdaliadau. Yn ol J cytundeb, yr ydym wedi rhoddi benthyg pedair miliwn o bunnau i'r Aifft, a cheir Hog rhagorol arnynt; ac yn mhln cant and un o fiynyddaodaw yr lioll randdaliadau yn eidd" i'r deyrnas hon. T ratte y pryniad hwn yn sicr o fod o feoditk anmhrisiadwy i ni mewn ystyr fasnachol, ond bydd yn fwy felly mewn ystyr wleidyddol, fan 1 gellir M'crhau y brif dramwyfa i India, a thrwy hyny ein g»sod y.. annibynol ar Bwrci. Y mae y delbyniadaa blynyddol oddiw-th y gamlas yn fuwr iawn, er nad ydyw yr hyn ddylai fod, a'r hyu a fydd yn mhen ychydig flynyddau. (Jan i'r wlad hon wneyd y fath gvmmwynns a'r Khedive, tybia y Gymdeithas Wrth-Gaethiwad y gellir dylanwaduarnoi ddiddyms caethiwed. Ond os nad ellir llwyddo i hyny ya bre sennol, y mae yn debygol y llwyddir cyn hir, canys y mae ef mewn mawr eisieu arian ao y am yn rhaitl cyhwfanu baner wen rhyddid drMyr holl ddaear. Cyfeiriasom yn un o'n llythyrau at gyhuddiad pwysig a ddygwyd yn ein herbyn yn yr Academy 6ff fod y fath fod a sin-eater gyda ni yn ein claddedigaethau. Mewn atebiad i'r Parch. D Sdvan Evans, dywed y cyhuddwr i'r achos fod dan sylw y Cambrian Archaeologists yn Ludlow, yn 1852, pan ddywedoad un Mr. Moggridge i'r achos ofer-goelus hwngymeryd lie, o fewn pum mlynedd, yn ecu gerllaw Llandebie, sir Gaerfyrddin I Wrth ein cyhuddo, dywedwyd fed yr arferiad yn Nghymru yn bresennol, ond pan ofynir amy prawf eir yn ol i bellafoedd 30 mlynedd. Y mae 30 mlynedd yn y cyfnod hwn yo fwy nag oedd dau gant o flynyddau ganrifoedd yn ol. Ond er iddo ddychwelyd i 1847, nis gallasai ddweyd wrthym pa un ai yn neu gerllaw Llandebia y cymerodd yr amgylchiad He pa un ai yn Llandilo fawr, Cwmdwr, Pontarddulais, neu rywle arall. Ond er iddo nodi amser a lie, yr ydym yn ei sicrhau pf, Mr. Moggridge, a phawb eraill, na chymerodd yr amgylchiad Ie yno o fewn oof y trigolion hynaf. Y mae arferiad mewn rhai Ueoedd yn Nghymru cyn cychwyn a'r corff oddiwrth y ty fyned a chwrw a theisienau i'r gwyddfodolion, cyn casglu i gynnorthwyo yn y treulio i gladda; ao y mae yn dra thebyg i'r doethawr Moggridge dybied mai arferiad ffol ei genedl ei bun oedd hyny. Difyr iawn ydyw gweled ambell hynafiaethydd arwynebol a chyflym yn trafod thai pynciau. Rhaid bod yn ofalus iawn gyda phethau sydd yn dal cysylltiad agos a chyineriad cenedl. Perthyna lluaws 0 ffacleddau i ni fel Cymry, a throws ein cefnau yn ewyllysgar at y fflangellwr, ond ni chymerwn ein sarhau am bethau na pherthyn i ni, a hyny gan genedl sydd a phob llecyn o'i gwlad yn gysegredig i ofergoeleddd. Y mae y Deheudir wedi cael ergyd parlysiot arall, trwy i danchwa otnadwy gymeryd lie yn New Tredegar, sir Fynwy, bore dydd Sadwrn, trwy yr i on y collodd liuaws eu bywydau, ac yr anafwyd amry w eraill. Dyma y danchwa gyntaf yn y De* heucir er pan y mae cyfraith newydd Rheoleidd* iad y Glofeydd mewn grym. Y mae cofrestr tanchwaoedd Deheudir Cymiu yn hir a phruddglw- yfus. Gallem enwi y Ddinas, Gethin, Pwll 1. Plough, Aberdar, Lletty Shenkin, Tredegar, Risca, «hon »da, Blaina, Vocnriw, Blaenll-chau, &0., ao yn ddiweddaf, dyma luaws o wragedd a pblant N»w Tredegar wedi en gwneyd yn weddwon ac amddi*- taid. Perihynai y lofa hon i'r Powell Dyffryn Steam Coal Company. Gweithia tua chwe chant o lowyr yma, a ehodir tua thair mil a hanner odyneili o lo yn wythnosol. Dechreuwyd codi glo yn y pwIl hwo tua dwy flynedd ar hugain yn ol, ac y mae tua thri chant a hanner o latheni o ddyfnder, Yr oedd yn y pwll pan gymerodd y ddamwain 19 tua phedwar cant o eneidiau. Torodd y nwy aiian tua hanner awr wedi wyth yn y bore, ao yn aaheB ychydig eiliadau yr oedd dau ar hugain wedi eu trosglwyddo i fyd arall ar adenydd tanilyd y nwy, a ihrwy ymdrechion dirfawr y llwyddodd y lleill i ddianc, du hanadl an eu dwylaw, i hysbysa y newydd galarus i ni. Byddai tynu darlun cywir 0 bryder, gobaith, amheuon, pwyil, a gwylltineby dyrfa hyn wrth ymladd am en bywydau yn nhawch awyr angeuol, ac yn nhywyllwch hanner nos y lofa, tra yr oedd angeu yn en heilyn gyda chamraa ysg&fn, byddai darlunio hyn, meddwn, yn gofyn darfclydd anarferol. Y mae adroddiadd rhai o'r gwaredtgion yn galon-rwygol i'r eithaf, fel y bloeddiai rhai, yr wylai eraill, ac y syrthieut blith- draphlith with geisio dianc. Mor fuaa ag y clyw* wyd am y gyflafan, rhedodd torfeydd at enauy lofa, a darllenid gwullgofrwydd yn ngwynebpryd y gwragedd, fel y gwneir bob amser ar adegan cyffelyb. Llefai y plemyn am ei dad, y wraig am ei phriod, a llawer mam am ei mab. Y mae yn rhyfedd ftd .wl mur ychydig o niwed a wnaed t'r gwaith, ac mor ychydig a losgwyd. Ond y rhai a losgwyd, llosgwyd hwy nes oeddynt fel marworyn. C ifwyd cyrff rhai yn union fel yr oeddynt pan yn gweiohit, ac y mae yn amlwi iddynt farw ar darawiad amrant, heb gymaint ag un pang corfferol. Y mae cyfrifoldeb mawr yn rhywle, ond y mae yn rhy gynar i ni gynyg barn arhyny. Y peth sydd eisiau yn awr yw darparu ar gyfer y gweddwon a'r amddifaid sydd wedi colli ffon eu cynhaliaetb. Ymddcugys mai ychydig o'r rliai lladdedig oedd yn perthyn i Undeb y Glowyr, ac oherwydd hynyni ellir disgwyl dim o'r drysorfa hono. Ond dylid meddwl ar unwaith am ryw gynilun i ffurho try- sorfa ar gylcb eang ar gyfer auigyichiadan toroalenu o r nacur hyn. I Y mae y g.owr wrth Wi iihi i'n cynhe&u ni, yn cloddio ei fedd ei hunan, ac yn ei lanw a marwor tanilyd.
->
-> Google translate (excerpt)
->
-> In reply to Rev. D Sdvan Evans, the accuser says the case was under consideration brian Archaeologists in Ludlow, in 1852, when one Mr. Moggridge to the over-zealous cause where, within five years, at ecod near Llandebie, Carmarthenshire I Accused, the custom in Wales was said to be present, but when the test is called for it will go back to a maximum of 30 years. 30 years in this period is more than two hundred years ago. But although he returned to 1847, he could not tell us whether or not the circumstance took place in or near Llandebia whether at Llandilo fawr, Cwmdwr, Pontardulais, or elsewhere. But though he did specify a time and place, we assure him pf, Mr. Moggridge, and everyone else, did not take the Yes circumstance there within me of the older inhabitants. It is customary in some Welsh times before commencing with the body from the house to go for beer and cakes for the essentials, before gathering to assist in digestion; and it is highly probable that the scholar Moggridge assumed that this was the custom of his own nation's fool. It is very interesting to see a few superficial and fast antiquaries discussing subject houses. Great care must be taken with things that hold a close connection to a nation. Many factions belong to us as Welshmen, and turn our backs willingly to the scourge, but let us not be insulted for things or belonging to us, and that by a nation whose sacred place is sacred to superstition.
+> LETTERS OF THE HOLIDAYS.
+>  
+> We referred in one of our letters to an important accusation made against us at the Academy in that we have such a sense of sin and eater in our burials. In reply to the Rev. D Silvan Evans, the accuser states that the case was under consideration by the Cambrian Archaeologists at Ludlow, in 1852, when one said Mr. Moggridge to the over-zealous cause where, within five years, at or near Llandebie, Carmarthenshire. In our charge, it was said that the practice in Wales is present, but when the test is called for it will go back to a maximum of 30 years. 30 years in this period is more than two hundred years ago. But although he returned to 1847,
 
----
+— *the 1847 date presumably refers to the "within five years" period dated relative to 1852* — 
 
+> he could not tell us whether in Llandilo, Cwmdwr, Pontarddulais, or elsewhere, the event took place in or near Llandebie. But though he did specify a time and place, we assure him, Mr. Moggridge, and everyone else, the circumstance did not take place there in the memory of the older inhabitants.
+
+Here, then more negative anecdotal evidence.
+
+The column then goes on (albeit from what is perhaps a rather dubious translation) to offer a possible explanation:
+
+> It is customary in some places in Wales before the departure of the body from the house to take beer and cakes to the essentials, before collecting to assist in digestion; and it is very likely that the scholar Moggridge assumed this to be the custom of his own nation.
+
+There is then a defence of the Welsh people and their traditions:
+
+> It is very interesting to see a few superficial and fast antiquaries discussing some topics. Great care must be taken with things that hold a close connection to the character of a nation. Many failings belong to us as Welshmen, and we turn our backs eagerly to the scourge, but we are not to be insulted for things or belonging to us, and that is by a nation whose sacred land is sacred to superstition.
+
+### Two Letters from "Rheidiol"
 
 Although archival copies of the *Western Mail* do not appear in the digital archives (scans for [July to December 1875](https://newspapers.library.wales/browse/3980151) are missing from the National Library of Wales newspaper archive collection), a note in Bye-Gones of [December 22, 1875](https://journals.library.wales/view/2092910/2093566/11#?xywh=-1479%2C-194%2C5791%2C3820), also reprinted in *The Cambrian News and Merionethshire Standard*, dated [December 24th, 1875](https://newspapers.library.wales/view/3307734/3307743/72/sin-eater), p9, contains an excerpt of a letter to that publication of December 16th, 1875, from a certain "RHEIDIOL" that also claims not to have witnessed or found evidence of the tradition, despite having been a collector of folklore in the area:
 
 > THE SIN EATER (Dec. 1, 1875.)- The Western Mail, Dec. 16, contains a letter signed RHEIDIOL, Twmbarlwn, on this subject, in which, after narrating the facts already stated, the writer proceeds to say :- I lived at Llandebie many years ago, and I am well acquainted with the history of that parish and its customs and traditions, and from time to time I attended fuuerals, but I never heard of such a thing. I am well acquainted with Welsh lore in almost every parish in South Wales, which I collected for the late Sir Thomas Phillips, Bart., and I never heard of its existence. The Welsh peasant may be a little superstitious, but he is far too intelligent to believe in such a thing as a Sin Eater. This is simply a fling at the Welsh nation. I hope, for the credit of the Cambrian Association, that they have better foundation for the papers read at their meetings than the Sin-Eater."
 
-A second letter from the same correspondent appeared in *The Aberystwith Observer* of December 18th, 1875](https://newspapers.library.wales/view/3040691/3040694/15/sin%20eater), p3:
+A second letter from the same correspondent appeared in *The Aberystwyth Observer* of [December 18th, 1875](https://newspapers.library.wales/view/3040691/3040694/15/sin%20eater), p3:
 
 > THE "SIN EATER" IN WALES.
 >
@@ -195,36 +220,28 @@ We also note that they "attended many funerals", which may be as a result of the
 
 ```
 
----
+### Mr Moggridge Returns: A Meeting of The Anthropological Institute
 
-https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin
+Elsewhere, on December 14th, 1875, at a meeting of *The Anthroplogical Institute*, with Colonel A. Lane Fox, President, in the Chair, a paper was read by M. J. Watnovsz, F.R.A.S *"On the Belief in Bhutas—Devil and Ghost Worship in Western India* [The Journal of the Anthropological Institute of Great Britain and Ireland](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin), vol. 5, 1875, pp408 onwards.
 
-
-??date of meeting?
-
-The Journal of the Anthropological Institute of Great Britain and Ireland  February 9, 1875-January 25, 1876
-
-1875
-Vol 5
-p423
-
-[Discussion on a paper "On the Belief in Bhutas—Devil and Guost Worship in Western India., pp408- By M. J. Watnovsz, F.R.A.S."]
+Notes from a discussion following the reading of the paper are also recorded from [p423](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin). Notably, they featuring a response from a certain *Mr Moggridge*, whom we might assume to be the same Mr Moggridge that spoke on the subect of the sin-eater at the sixth meeting of the Cambrian Archaeological Association meeting in Ludlow over twenty years earlier, in 1852:
 
 > Mr. Moggridge said : Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself. Among the mountains of South Wales I find a similar ceremony prevailing down to almost our own times. When a person died, the Sin-eater of the district was called in. On his arrival he received a plate, on which he poured some salt. Upon the salt he placed a piece of bread, laid the plate on the chest of the defunct, muttered words of charmed power while bending over the corse, then eat the bread, whereby he eat up and appropriated to himself all*the sins of the deceased, received two shillings and sixpence for his services, and quickly retired from the pitying gaze of are present, who regarded him as one utterly and irremediably lost.
->
-> Mr. Jeremiah said: I was very much interested in the paper just read. With reference to the alleged custom of *sin-eating* in Wales, mentioned by Mr. Moggridge, I would remark that the discussion raised by the Rev. D. Silvan Evans in the (November 5, 1875) appears to have gone adrift for want of the Welsh word for *Sin-eater*. The discussion arose, as all must be aware, from a statement made by a writer in *Blackwood's Magazine* for last month, in an article on the Legend and Folk-lore of North Wales,' where he says, in reference to a funeral custom, that the "Scapegoat . . . is currently called a 'sin-eater.'" Dr. Evans demanded the Welsh equivalent, which the author of that article could not give, in consequence of, he says, "my ignorance of Welsh." (Academy, Nov. 27, p. 555.) Had he referred to Bingley’s "North Wales," vol. ii. p. 278, he would have seen a way out of his difficulty, and a clear answer to the query put by Dr. Evans; and Mr. Moggridge will also see, I think, that the custom was not known as sin-eating, although the original meaning may have been of that nature. Bingley says, "It is usual in several parts of North Wales for the nearest female relation to the deceased, be she widow, mother, sister, or daughter, to pay some poor person of the same sex, and nearly the same age with the deceased, for procuring slips of yew, box, and other evergreens, to strew over and ornament the grave for some weeks after interment, and in some instances for weeding and adorning it on the eves of Easter, Whitsuntide, and the other great festivals for a year or two afterwards. This gift is called Diodlys, and it is made on a plate at the door of the house, where, at the same time, the body is standing ona bier. It had its name from a custom, which is now discontinued (1804), of the female relative giving to the person a piece of cheese with the money stuck in it, some white bread, and afterwards a cup of ale. When this previous ceremony is over, the clergyman, or, in his absence, the parish clerk, repeats the Lord’s Prayer, after which they proceed with the body to the church." It appears, then, that the custom means simply a "gift of ale or beer," and not *sin-eating*. Pennant’s (in his "Tours in Wales," vol. iii. p. 159, edition 1810) account is slightly different. He says: "Previous to a funeral it was customary, when the corpse was brought out of the house and laid upon the bier, for the next-of-kin, be it widow, mother, sister, or daughter—for it must be a female—to give, over the coffin, a quantity of white loaves in a t dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it *immediately*. When that was done they kneeled down, and the minister, if present, said the Lord’s Prayer, after which they proceeded with the corpse, and at every crossway between the house and the church they laid down the bier and knelt, and again repeated the Lord's Prayer, and did the same when they first entered the churchyard." This custom,
-and that of the alleged sin-eating, are conclusively one and the same, viz. that of Diodlys.
-> 
+
+??had Moggrdige seen academy debate? Certainly, he appears not to have contributed directly to it (I have find no signs he contributed elsewhere? but search moggridge in this period??
+)
+TO DO
+
+> Mr. Jeremiah said: I was very much interested in the paper just read. With reference to the alleged custom of *sin-eating* in Wales, mentioned by Mr. Moggridge, I would remark that the discussion raised by the Rev. D. Silvan Evans in the *Academy* (November 5, 1875) appears to have gone adrift for want of the Welsh word for *Sin-eater*. The discussion arose, as all must be aware, from a statement made by a writer in *Blackwood's Magazine* for last month, in an article on the Legend and Folk-lore of North Wales,' where he says, in reference to a funeral custom, that the "Scapegoat . . . is currently called a 'sin-eater.'" Dr. Evans demanded the Welsh equivalent, which the author of that article could not give, in consequence of, he says, "my ignorance of Welsh." (Academy, Nov. 27, p. 555.) Had he referred to Bingley’s "North Wales," vol. ii. p. 278, he would have seen a way out of his difficulty, and a clear answer to the query put by Dr. Evans; and Mr. Moggridge will also see, I think, that the custom was not known as sin-eating, although the original meaning may have been of that nature. Bingley says, "It is usual in several parts of North Wales for the nearest female relation to the deceased, be she widow, mother, sister, or daughter, to pay some poor person of the same sex, and nearly the same age with the deceased, for procuring slips of yew, box, and other evergreens, to strew over and ornament the grave for some weeks after interment, and in some instances for weeding and adorning it on the eves of Easter, Whitsuntide, and the other great festivals for a year or two afterwards. This gift is called Diodlys, and it is made on a plate at the door of the house, where, at the same time, the body is standing ona bier. It had its name from a custom, which is now discontinued (1804), of the female relative giving to the person a piece of cheese with the money stuck in it, some white bread, and afterwards a cup of ale. When this previous ceremony is over, the clergyman, or, in his absence, the parish clerk, repeats the Lord’s Prayer, after which they proceed with the body to the church." It appears, then, that the custom means simply a "gift of ale or beer," and not *sin-eating*. Pennant’s (in his "Tours in Wales," vol. iii. p. 159, edition 1810) account is slightly different. He says: "Previous to a funeral it was customary, when the corpse was brought out of the house and laid upon the bier, for the next-of-kin, be it widow, mother, sister, or daughter—for it must be a female—to give, over the coffin, a quantity of white loaves in a t dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it *immediately*. When that was done they kneeled down, and the minister, if present, said the Lord’s Prayer, after which they proceeded with the corpse, and at every crossway between the house and the church they laid down the bier and knelt, and again repeated the Lord's Prayer, and did the same when they first entered the churchyard." This custom, and that of the alleged sin-eating, are conclusively one and the same, viz. that of Diodlys.
+>  
 > Mr Edkins and the President also made a few remarks.
 
 We have no record of what those remarks may have been.
 
----
-
-
----
-
 ## Silvan Evans Responds to the Evidence, 1876-02-05
+
+Back in the *Academy*, Silvan Evans responded in the new year. ??? nothing in January?? Presimablay been maming enquiries?
+
 
 https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+
 
@@ -286,7 +303,7 @@ Old Welsh Legends and Poetry
 
 https://babel.hathitrust.org/cgi/pt?id=chi.15561341&view=1up&seq=408&skin=2021&q1=verney
 
-February 1896
+February 1876
 
 p403
 
@@ -306,19 +323,11 @@ https://www.jstor.org/stable/1872758
 
 ---
 
+Over in *Bye-gones*, the running commentary continued in the [February 9th, 1876](https://journals.library.wales/view/2092910/2093610/2) edition, p15:
 
-
-https://journals.library.wales/view/2092910/2093610/2#?xywh=-260%2C901%2C4171%2C2751
-
-Bye-gones
-
-February 9th 1876
-
-p15
-
-The Sin-Eater in Wales
-
-The discussion on this subject, commenced in the *Academy*, and continued in that and other papers, was fully given in *Bye-gones* towards the close of last year. Our readers will remember that the discussion arose on a challenge by a well-known and able Welshman, the Rev. D. Silvan Evans, to the write of an article in *Blackwood*, on the Folk Lore of Wales, to prove his assertion that ever such a personage as the "Sin-Eater" existed in the Principality. One or two replies appeared, referring to Aubrey, as the original authority that such an office once existed; and the writer of the article expressed his surprise that Mr Evans, whose connection with the *Archaeologia Combrensis* was well known, should not be aware that Mr Moggridge had stated at the meeting of the Cambrian Archaeological Society in 1852, that the custom had prevailed at or near Llandebie, Caermarthanshore, within five years of that date. The substance of this we gave in Dec. 1, 1875, and on Dec. 20 a letter from the *Western Mail* written, as we are no informed, by Mr John Rowlands who had been a schoolmaster at Llandebie for many years, commencing 1850, and who denied the exitence of the practice in his time, or within the memory of the oldest inhabitant. In the *Academy*, Feb. 5, 1875, Mr Silvan Evans goes fully into the matter, and gives as the result of his enquiries, a total denial of the practice as far as Wales is concerned; in the course of which he publishes a letter from the Vicar of Llandebie, who confirms all Mr Rowlands previously said. Mr Silvan Evans concludes that the "whole story of the Sin-Eater rests on the shoulders of Aubrey," and he declines to place any faith in "so credulous a person in any case in which superstition plays a part." Mr Evans also explains that his connection with the organ of the Cambrian Archaeological Society commenced twenty years after the date of Mr Moggridge's connection.
+> The Sin-Eater in Wales
+>
+> The discussion on this subject, commenced in the *Academy*, and continued in that and other papers, was fully given in *Bye-gones* towards the close of last year. Our readers will remember that the discussion arose on a challenge by a well-known and able Welshman, the Rev. D. Silvan Evans, to the write of an article in *Blackwood*, on the Folk Lore of Wales, to prove his assertion that ever such a personage as the "Sin-Eater" existed in the Principality. One or two replies appeared, referring to Aubrey, as the original authority that such an office once existed; and the writer of the article expressed his surprise that Mr Evans, whose connection with the *Archaeologia Combrensis* was well known, should not be aware that Mr Moggridge had stated at the meeting of the Cambrian Archaeological Society in 1852, that the custom had prevailed at or near Llandebie, Caermarthanshore, within five years of that date. The substance of this we gave in Dec. 1, 1875, and on Dec. 20 a letter from the *Western Mail* written, as we are no informed, by Mr John Rowlands who had been a schoolmaster at Llandebie for many years, commencing 1850, and who denied the exitence of the practice in his time, or within the memory of the oldest inhabitant. In the *Academy*, Feb. 5, 1875, Mr Silvan Evans goes fully into the matter, and gives as the result of his enquiries, a total denial of the practice as far as Wales is concerned; in the course of which he publishes a letter from the Vicar of Llandebie, who confirms all Mr Rowlands previously said. Mr Silvan Evans concludes that the "whole story of the Sin-Eater rests on the shoulders of Aubrey," and he declines to place any faith in "so credulous a person in any case in which superstition plays a part." Mr Evans also explains that his connection with the organ of the Cambrian Archaeological Society commenced twenty years after the date of Mr Moggridge's connection.
 
 
 
@@ -326,6 +335,10 @@ The discussion on this subject, commenced in the *Academy*, and continued in tha
 ---
 
 ## The Blackwood Author Snaps Back, 1876-02-12
+
+
+??one or two?? weeks after Silvan Evan's ??, the *Blackwood* author responded ??
+
 
 https://archive.org/details/sim_academy-and-literature_1876-02-12_9_197/page/146/mode/2up?q=silvan
 
@@ -365,7 +378,7 @@ The Aberystwith Observer
 >
 > Aberystwyth, Jan. 29, 1876.
 >
-> At the risk pf exposing my "ignorance" still further, aud thereby causing additional surprise to the writer of the paper on the "Legends and Folklore of North Wales" in *Blackwood's Magazine*, I venture to reiterate my doubts as to the existence of the sin-eater in any part of Wales. Like every other country, the Principality had, and still has, her superstitions, but that of the sin-cater does not appear to be among them. Since the appearance of my former letter in the *Academy* (November 13), I have made all the enquiries I could into the subject, with the view of ascertaining whether such a personage has, or ever had, "a local habitation and a name" among us. I have spoken to many and correspondce with several persons who are known to have paid attention to the customs and traditions of the country; and the sum of their communications is, without any exception, that the superstition of the sin-eater was as novel to them as it was to me.
+> At the risk pf exposing my "ignorance" still further, aud thereby causing additional surprise to the writer of the paper on the "Legends and Folklore of North Wales" in *Blackwood's Magazine*, I venture to reiterate my doubts as to the existence of the sin-eater in any part of Wales. Like every other country, the Principality had, and still has, her superstitions, but that of the sin-cater does not appear to be among them. Since the appearance of my former letter in the *Academy* (November 13), I have made all the enquiries I could into the subject, with the view of ascertaining whether such a personage has, or ever had, "a local habitation and a name" among us. I have spoken to many and correspondence with several persons who are known to have paid attention to the customs and traditions of the country; and the sum of their communications is, without any exception, that the superstition of the sin-eater was as novel to them as it was to me.
 >
 > The writer points to Llandebie as the place where the custom prevailed as late as 1847, refers me for confirmation to a statement made by Mr. Matthew Moggridge at the annual meeting of the Cambrian Archaeological Association held at Ludlow in 1852, and is "surprised" that I, who became connected with the *Archaeologia Cambrensis* in 1872, should not be minutely acquainted with everything that appeared in that journal some twenty years previously. Whether I ever read the account of the Ludlow meeting I cannot say; but if I did, every trace of Mr. Moggridge's revelations had been effaced from my memory when I wrote my letter. The writer tells us that "at the meeting of the Cambrian archaeologists at Ludlow in 1852, Mr. Moggridge cited a case of this superstition as having occurred within five years at or near Llandebie, in the hill-country of Carmarthenshire." Mr. Moggridge said no such thing, and it is hardly fair to make him responsible for sentiments which he never expressed. The description of the sin-eater given by Mr. Moggridge is taken from Aubrey and the following are his words in reference to Llandebie, as reported in the *Archaeologia Cambrensis*, the organ of the Association:—
 >
@@ -587,6 +600,10 @@ except... who was the author of the Blackwood column?
 
 ## The Identity of the *Blackwood* Author
 
+In an obituary for the Rev. James Davies, M.A., Prebendary of Hereford, appearing in *Bye-gones* of TO DO ?? March 1883, p212, we finally learn of the identity of the anonymous author of the *Blackwood* author: the prebendary himself.
+
+?? what is a "Prebendary"
+
 https://archive.org/details/byegonesrelating1882unse/page/212/mode/2up?q=sin
 
 
@@ -608,8 +625,9 @@ p212
 >
 > A very interesting article from his pen was published in *Blackwood's Magazine* for Nov. 1875, on "Legends and Folk Lore of Wales," which was the subject — or rather a passage in it was— of a hot controversy in *The Academy*. In the course of his paper the writer (he preserved his incognito throughout) had mentioned the superstition of "The Sin-Eater," which attracted the attention of Professor Silvan Evans, who challenged the writer to produce proofs. Several letters were published, and other scribes joined in the discussion ; some account of which will, probably, shortly appear in the *Red Dragon*, issued by Daniel Owen and Co. of Cardiff.
 
-
 AND
+
+A summary of the first controversy, along with the idetity of the anonymous author, is also given in an article by Charles Wilkins in the *Red Dragon – The National Magazine of Wales* TO DO REF
 
 
 https://archive.org/details/reddragonnation00wilkgoog/page/450/mode/2up?q=sin+eater
@@ -642,7 +660,7 @@ p450-4
 >
 > And now, when we might reasonably have expected that the Sin Eater had been laid for ever, appears the Rev. Paxton Hood's book — referred to in the March number of the Red Dragon. Mr. Hood is a very pleasant writer, but he is too impulsive for an antiquary. It was only in 1876 that he gave a glowing picture of Llanidloes, "the home of the really great poet, John Dyer," and told us of "Grongar Hill, a delicious spot in that neighbourhood !" Now he sets up an imaginary being in the district of Cwm-Amman ; and only varies the words of Mr. Murray's editor by remarking that the superstition "is said to linger even now," instead of (as Murray has it), "is said to have lingered until very recently," in that happy valley ! Mr. Hood's assertion was copied into *Notes and Queries* in January last, and will, doubtless, be accepted as gospel by a goodly number; but unfortunately for him, his book on Christmas Evans attracted the attention of a brother minister in the same Cwm-Amman Vale, who promptly wrote to the Christian World to repudiate the whole story.
 >
-> Oswestry. Askew Roberts. 
+> Oswestry. Askew Roberts.
 
 ---
 
@@ -661,6 +679,8 @@ The Aberystwith Observer
 >
 > To the Editor of the Aberystwyth Observer.
 >
-> Sir.— I have been much interested by the letters which have appeared in your columns from the pen of the Rev. Silvan Evans on the subject of that suppositious personage, the "Sin Eater;" perhaps Mr. Evans or some other reader of antiquarian tastes may be able to inform me where I can find a reliable account of funny Twm, or as others prefer to style him "Thomas Jones, Esq., of Tregaron." I am aware that a "life" of Twm has been published at Llanidloes and by a London firm, but both those books have assumed the form of Welsh novels, and it is occasionally diiffcult to sever the real from the imaginary. If any of your readers can help me to solve my perplexity, or assist me to genuine facts I shall be heartily obliged. I am, sir, LLIDIARDE-Y-FFYNON.
+> Sir.— I have been much interested by the letters which have appeared in your columns from the pen of the Rev. Silvan Evans on the subject of that suppositious personage, the "Sin Eater;" perhaps Mr. Evans or some other reader of antiquarian tastes may be able to inform me where I can find a reliable account of funny Twm, or as others prefer to style him "Thomas Jones, Esq., of Tregaron." I am aware that a "life" of Twm has been published at Llanidloes and by a London firm, but both those books have assumed the form of Welsh novels, and it is occasionally difficult to sever the real from the imaginary. If any of your readers can help me to solve my perplexity, or assist me to genuine facts I shall be heartily obliged. I am, sir, LLIDIARDE-Y-FFYNON.
 
 ---
+
+?? video https://www.youtube.com/watch?v=pHx_HHFmGPg
