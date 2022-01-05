@@ -205,11 +205,11 @@ But for now, let us continue to hear what Mr. Moggridge Esq. has to say, at leas
 
 > He had the authority of a clergyman residing at Stanton Lacy [*Shropshire*] for stating that portion of this custom had prevailed in that district until within very recent years. It did not go to the lamentable length practised Cwm Ammon, but merely comprised the plate and the salt. The custom prevailed not long ago Oxfordshire, and in Cwm Ammon it had existed until very lately. He found that about twenty years ago the plate, the salt, and the bread, were placed upon the dead at the latter place, but the "sin-eater" was not sent for ; and as they advanced towards Swansea the "sin-eater" and the bread were dispensed with, and the plate and salt only remained.
 
-It is not clear who the "clergyman residing at Stanton Lacy" was, but it does suggest that the tradition also existed in Shropshire. And as we shall in the later controversies, such eyewitness evidence, if such it was, may well have proved invaluable in helping settle debates about the existence of the sin-eater in that area.
+It is not clear who the "clergyman residing at Stanton Lacy" was, and there is no claim that the full tradition could still be found in Shropshire. If a more complete record of eyewitness testimony were available, if such it was, it may well have proved invaluable in helping settle debates about the existence of the sin-eater in that area that were to arise several decades later.
 
 ```{admonition} A Tale of Stanton Lacy
 :class: seealso
-Whilst we do not know what stories the "clergyman residing at Stanton Lacy" might have told, a tale of another clergyman of Stanton Lacy is recorded.
+Whilst we do not know what stories the "clergyman residing at Stanton Lacy" might have told, various tales of another, rather coourful, clergyman of Stanton Lacy are recorded.
 
 https://en.wikipedia.org/wiki/Robert_Foulkes
 ```
@@ -256,7 +256,7 @@ At this points, as befitted a society convened to study *archaeology*, and as su
 
 Mr. Symons, Esq., reassured the President as the focus of his attention, whilst also acknowledging the contemporary view of the President:
 
-> JELINGER C. Symons, Esq.- -Of course my impression was as to the custom of the sin-eater. Some part the custom appears arise out of respect for the dead.
+> JELINGER C. Symons, Esq.- -Of course my impression was as to the custom of the "sin-eater". Some part the custom appears arise out of respect for the dead.
 
 Mr Moggridge then tried to regain control of the discussion:
 
@@ -354,10 +354,13 @@ Let's see what other points of difference we can find in the accounts...
 > In Caermarthenshire, not far from Llandebie, was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the above practice was said to have prevailed to a recent period, and going thence to those parts of the country where, from the establishment of works, and from other causes, the people had more early become enlightened, he found the more absurd portions of the custom had been abandoned, while some still remained.
 
 Here we have mention of a particular place, *Llandebie*, midway between Dinefwr and Ystalyfera, as mentioned by Ceri Phillips in his story,
+Here we have mention of a particular place, *Llandebie*, midway between Dinefwr and Ystalyfera, as mentioned by Ceri Phillips in his story. But there is no mention here of who was "said to have claimed"* that the tradition had prevailed.
+
+Moggridge then went on:
 
 > Thus near Llanon `[there is a Llanon just down the coast from Aberystwyth]`, within twenty years, the plate, salt and bread were retained, —near Swansea (and indeed very generally) only the plate and salt. In a parish near Chepstow `[in the county of Monmouthshire, on the Welsh borders]` it was usual to make the figure of a cross on the salt, and cutting an apple or an orange into quarters, to put one piece at each termination of the lines.
 
-Ah, this seems a little less unusual: *an apple or an orange*. Perhaps the Shrewsbury Chronicler misread their own handwriting? We might also note that there has also been no mention of a certain "clergyman residing at Stanton Lacy".
+Ah, this seems a little less unusual: *an apple or an orange*. Perhaps the Shrewsbury Chronicler misread their own handwriting, or the typesetter made an error in setting the type? We might also note that there has also been no mention of a certain "clergyman residing at Stanton Lacy".
 
 The "official" report then goes on to describe some of the other differences noted by Mr. Moggridge, including the evidence of the mysterious "Aubrey" mentioned, but not quoted, in the Shrewsbury Chronicle account:
 
