@@ -506,14 +506,9 @@ At this point, you might imagine some readers imploring Silvan Evans "don't feed
 
 ## Silvan Evans Restates His Position, 1876-02-26
 
-Having held off replying for one week, Silvan Evans picked up his pen to respond, yet again, in the *Academy* of [February 26th, 1876](https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/196/mode/2up?q=sin+eater), p197-8:
+Having held off replying for one week, Silvan Evans picked up his pen to respond, yet again, in the *Academy* of [February 26th, 1876](https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/196/mode/2up?q=sin+eater), p197-8.
 
-
-
-
-
-
-
+He opens with, a patient - if resigned – tone, such as one might use when addresssing an obstinate and truculent toddler:
 
 > The Sin-Eater, by the Rev. D. Silvan Evans and E. R. Morris.
 >
@@ -521,13 +516,83 @@ Having held off replying for one week, Silvan Evans picked up his pen to respond
 >
 > Llanymawddwy : Feb. 12, 1876.
 >
-> The question between the writer in Blackwood and myself is a simple one, and I regret to find that in his letter in the Academy of to-day he mixes up with it a good deal of irrelevant matter, leaving the point at issue just where it was. He stated in his article that the custom of the Sin-Eater prevails in North and South Wales at the present day; when I challenged that statement and asked for proof, we were told that by the present day he means some thirty years ago; and when pressed for the locality he goes under the aegis of Mr. Moggridge to Llandebi "in the hill-country of Carmarthenshire." When persons appeal to certain tribunals, they should not complain if they are sent to appear before the tribunals of their choice. Llandebie was named, and Llandebie was accepted: enquiries were made on the spot by competent persons; and those who will take the trouble to read my last letter will see with what success, The Sin-Eater is as little known there as probably he is in Nova Zembla. Now the writer shifts his ground and moves, under the enlightening guidance of Murray's *Handbook for Travellers in South Wales*, to Cwm Amman, about seven miles from Llandebie. The compiler of that volume, whether ever "connected with Monmouthshire Iron Works" or not, states nothing about the Sin-Eater from personal knowledge, or from the personal knowledge of any informants, but quotes almost the identical words of Mr. Moggridge at Ludlow, with a slight variation as to the locality. Lady Verney, in the February number of the Contemporary Review, simply relates the same story over again, without any corroboration of her own. A false story does not become truth by repetition, and these repetitions add nothing to our knowledge, and therefore it is simply waste of space to retail them.
->
+> The question between the writer in Blackwood and myself is a simple one,
+
+— you dunderhead! –
+
+> and I regret to find that in his letter in the Academy of to-day he mixes up with it a good deal of irrelevant matter, leaving the point at issue just where it was.
+
+Which is to say, *"I'm going to try to explain this to you again, if you can just focus on the matter at hand"*...
+
+> He stated in his article that the custom of the Sin-Eater prevails in North and South Wales at the present day;
+
+ – which is quite a simple thing to understand. But when I suggested that's not correct –
+
+> when I challenged that statement and asked for proof,
+
+- you moved the goalposts –
+
+> we were told that by the present day he means some thirty years ago;
+
+As to the locale where this tradition was supposedly respected:
+
+> and when pressed for the locality
+
+– you copy Mr. Moggridge –
+
+> he goes under the aegis of Mr. Moggridge to Llandebi "in the hill-country of Carmarthenshire."
+
+– That is the evidence you gave, and that's the evidence I challenged –
+
+> When persons appeal to certain tribunals, they should not complain if they are sent to appear before the tribunals of their choice.
+
+– So I checked in and around Llandebie –
+
+> Llandebie was named, and Llandebie was accepted: enquiries were made on the spot by competent persons;
+
+- and nobody thereabouts has ever heard of a sin-eater, or can recall ever having heard of a sin-eater –
+
+> and those who will take the trouble to read my last letter will see with what success, The Sin-Eater is as little known there as probably he is in Nova Zembla.
+
+– You then try to move the goalposts again –
+
+> Now the writer shifts his ground and moves, under the enlightening guidance of Murray's *Handbook for Travellers in South Wales*, to Cwm Amman, about seven miles from Llandebie.
+
+– You then cite another spurious authority, who was simply repeating the claims you have already appealed to, citing a slightly different location, in a yet more recent publication –
+
+> The compiler of that volume, whether ever "connected with Monmouthshire Iron Works" or not, states nothing about the Sin-Eater from personal knowledge, or from the personal knowledge of any informants, but quotes almost the identical words of Mr. Moggridge at Ludlow, with a slight variation as to the locality.
+
+– As if that weren't enough, you try to point to yet another restatement of the same old, same old, as further corroborating evidence –
+
+> Lady Verney, in the February number of the Contemporary Review, simply relates the same story over again, without any corroboration of her own.
+
+– Something doesn't become true just because you keep saying it over and over again. –
+
+> A false story does not become truth by repetition, and these repetitions add nothing to our knowledge, and therefore it is simply waste of space to retail them.
+
+– As to your claims that I didn't read the whole of the *Arch. Camb.* report of Moggridge's remarks at Ludlow by not turning the page over, I did. And I read them properly... –
+
 > The writer complains that I did not turn over a certain leaf in the *Archaeologia Cambrensis*, where he intimates that Mr. Moggridge told the archaeologists at Ludlow that the practice of sin-eating was carried on *at Llandebie until within five years of that time* (1852). The leaf had been turned over and read before I wrote my last letter; I turn it over again, and on it read the last utterances of Mr. Moggridge as follows :—
->
-> "Mr. Moggridge said— Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. He thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of Sin-Eater and the plate and the salt. Starting from the Carmarthenshire valley, he found the most horrible portion of the custom dropped; and the rest still retained; and us he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high character, said that the custom had existed both in Herefordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw a man whom he described as the Sin-Eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thorough] ashamed of the practice; one case, he was informed, occurred four or five years ago, but he believed it was extinct now."
->
-> These are Mr. Moggridge's last words at Ludlow, and I fail to find a syllable in them referring to Llandebie; and if he refers to any place, it must be, as I understand him, to some part of  Herefordshire, with which the writer appears to be more acquainted than I can pretend to be, and to which, as I have already distinctly stated, my remarks do not apply. Mr. Moggridge, and apparently the writer of the article, assume all along that the plate and salt are necessarily remnants of the alleged sin-eating practice ; and finding these articles employed in certain cases, they take it for granted that the "more odious part of the custom has been removed," which amounts to begging the whole question. Mr. Moggridge candidly admits that he never witnessed the “horrid custom” at Llandebie or elsewhere, but informs us that it “was said to have prevailed:” he does not mention his authorities, nor does he so much as hint what means his informants had of knowing the truth or untruth of the story. I can assure Mr. Moggridge that I mean no disrespect to him when I say that both the vicar and the schoolmaster have enjoyed more favourable opportunities than he is likely to have had of ascertaining the facts of the case, on account of their connexion with the locality and their knowledge of the vernacular. I value Mr. Moggridge’s opinions as opinions; but we are now in quest of facts; and opinions, from whatever source they may emanate, must not be mistaken for them. The question at issue lies within the domain of fact, and, therefore, capable of proof if the charge has any foundation on a more solid substance than "imagination all compact."
+
+– I'm not sure you did though, so I'll repeat them here –
+
+> "Mr. Moggridge said— Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. He thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of Sin-Eater and the plate and the salt. Starting from the Carmarthenshire valley, he found the most horrible portion of the custom dropped; and the rest still retained; and as he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high character, said that the custom had existed both in Herefordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw a man whom he described as the Sin-Eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thorough] ashamed of the practice; one case, he was informed, occurred four or five years ago, but he believed it was extinct now."
+
+At this point, Silvan Evans has himself perhaps made an slight error in calculation. Whilst there is no mention of *Llandebie*, there is mention of a *Carmarthenshire valley*. However, whilst the anonymous *Blackwood* author might argue for these to be bradly referring to the same location, Moggridge admits that *"the most horrible portion of the custom dropped"* there. Which is to say: *if* the tradition had been there, it was no longer; but what evidence was there that the *most horrible portion* had ever existed there?
+
+> These are Mr. Moggridge's last words at Ludlow, and I fail to find a syllable in them referring to Llandebie;
+
+As to references to the sin-eater in other locations, that was not the concern of Silvan Evans:
+
+> and if he refers to any place, it must be, as I understand him, to some part of Herefordshire, with which the writer appears to be more acquainted than I can pretend to be, and to which, as I have already distinctly stated, my remarks do not apply.
+
+
+
+
+
+
+
+> Mr. Moggridge, and apparently the writer of the article, assume all along that the plate and salt are necessarily remnants of the alleged sin-eating practice ; and finding these articles employed in certain cases, they take it for granted that the "more odious part of the custom has been removed," which amounts to begging the whole question. Mr. Moggridge candidly admits that he never witnessed the “horrid custom” at Llandebie or elsewhere, but informs us that it “was said to have prevailed:” he does not mention his authorities, nor does he so much as hint what means his informants had of knowing the truth or untruth of the story. I can assure Mr. Moggridge that I mean no disrespect to him when I say that both the vicar and the schoolmaster have enjoyed more favourable opportunities than he is likely to have had of ascertaining the facts of the case, on account of their connexion with the locality and their knowledge of the vernacular. I value Mr. Moggridge’s opinions as opinions; but we are now in quest of facts; and opinions, from whatever source they may emanate, must not be mistaken for them. The question at issue lies within the domain of fact, and, therefore, capable of proof if the charge has any foundation on a more solid substance than "imagination all compact."
 >
 > It is very kind, but slightly superfluous, on the part of the writer to “refresh” my memory respecting “the vicarious sin-bearing of the Levitical scapegoat.” It is useless to argue about what may, could, or should have occurred, when we are concerned only with what has actually taken place. It is needless to expatiate on the possibility of a custom, when its existence is denied. The writer might have spared his sneering remark about: the "treason" of calling Welshmen "ignorant" and "superstitious." The qualities denoted by these elegant stock-epithets, unfortunately, are not confined to the Principality of Wales; and one at least of these benighted barbarians holds that it is treason against truth to make charges that cannot be substantiated against any nation, however "ignorant" or "superstitious" that nation may be. The writer seems to assume that it is "a point of national honour," rather than any higher motive, that induces Welshmen to repudiate groundless imputations. When" national honour" and truth go together, "national honour" is not to be contemned.
 >
