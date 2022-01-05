@@ -301,7 +301,9 @@ which is to say, *up to the start of the 19th century*, to whit, the late 1700s,
 
 > the people were of a very lawless character. There the above practice was said to have prevailed to a recent period,
 
-But what period does Silvan Evans think this refers to? As the tradition was *"said to have"* prevailed, then perhaps it prevailed in *"a recent period"* relative to the context described by whomever said it, and who was perhaps that same someone who had been speaking about *"the commencement of the present century"*.
+But the practice was *"said to prevail"* by whom?
+
+And what period does Silvan Evans think this refers to? As the tradition was *"said to have"* prevailed, then perhaps it prevailed in *"a recent period"* relative to the context described by whomever said it, and who was perhaps that same someone who had been speaking about *"the commencement of the present century"*.
 
 > and going thence to those parts of the country where, from the establishment of works, and from other causes, the people had more early become enlightened, he
 
@@ -327,7 +329,7 @@ Silvan Evans then tries to find evidence of dates associated with eyewitness tes
 
 > Aubrey, if I may rely on the extracts given in the ACADEMY, does not say that he was eyewitness to the performances of the sin-eater in any part of *Wales*, and therefore, according to Mr. Moggridge, no one speaks of it from personal knowledge as having prevailed at any time in the Principality; and it will be borne in mind that I am writing of the Principality and not of the English counties.
 
-Here, any references to the tradition *outisde* the Principlaity of Wales are explicitly discounted. Furthermore, mo mention or reference is made of any oral evidence Mr Moggridge might have otherwise had access to, or not.
+Here, any references to the tradition *outside* the Principality of Wales are explicitly discounted. Furthermore, mo mention or reference is made of any oral evidence Mr Moggridge might have otherwise had access to, or not.
 
 Failing to find such reports of direct evidence, Silvan Evans returns his focus to Llandebie, referring to correspondence he had recently received from one John Rowlands, schoolmaster and *"one time librarian to the late Sir Thomas Phillipps"* who had similarly never been witness to any eyewitness testimony:
 
@@ -574,17 +576,40 @@ As to the locale where this tradition was supposedly respected:
 
 > The writer complains that I did not turn over a certain leaf in the *Archaeologia Cambrensis*, where he intimates that Mr. Moggridge told the archaeologists at Ludlow that the practice of sin-eating was carried on *at Llandebie until within five years of that time* (1852). The leaf had been turned over and read before I wrote my last letter; I turn it over again, and on it read the last utterances of Mr. Moggridge as follows :—
 
-– I'm not sure you did though, so I'll repeat them here –
+– I'm not sure *you* did though, so I'll repeat them here –
 
 > "Mr. Moggridge said— Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. He thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of Sin-Eater and the plate and the salt. Starting from the Carmarthenshire valley, he found the most horrible portion of the custom dropped; and the rest still retained; and as he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high character, said that the custom had existed both in Herefordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw a man whom he described as the Sin-Eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thorough] ashamed of the practice; one case, he was informed, occurred four or five years ago, but he believed it was extinct now."
 
-At this point, Silvan Evans has himself perhaps made an slight error in calculation. Whilst there is no mention of *Llandebie*, there is mention of a *Carmarthenshire valley*. However, whilst the anonymous *Blackwood* author might argue for these to be bradly referring to the same location, Moggridge admits that *"the most horrible portion of the custom dropped"* there. Which is to say: *if* the tradition had been there, it was no longer; but what evidence was there that the *most horrible portion* had ever existed there?
+At this point, Silvan Evans has himself perhaps made an slight error in judgement. Whilst there is no mention of *Llandebie*, there is mention of a *Carmarthenshire valley*. However, whilst the anonymous *Blackwood* author might argue for these to be bradly referring to the same location, Moggridge admits that *"the most horrible portion of the custom dropped"* there. Which is to say: *if* the tradition had been there, it was no longer; but what evidence was there that the *most horrible portion* had ever existed there?
 
 > These are Mr. Moggridge's last words at Ludlow, and I fail to find a syllable in them referring to Llandebie;
 
 As to references to the sin-eater in other locations, that was not the concern of Silvan Evans:
 
 > and if he refers to any place, it must be, as I understand him, to some part of Herefordshire, with which the writer appears to be more acquainted than I can pretend to be, and to which, as I have already distinctly stated, my remarks do not apply.
+
+In particular, Herefordshore is not Wales.
+
+```{admonition} Where Do the Welsh Sin-Eater References Come From?
+At this point, let us just recap where the reference to the __Welsh__ sin-eater tradition comes from. It appears to be all Moggridge.
+
+From the title of his remarks ar Ludlow – *Custom of the Sin Eater in Cwm Ammon Valley* – to two quotations appearing in the *Arch. Camb.* write-up.
+
+Firstly:
+
+>  The custom of employing the *sin-eater* probably obtained in ancient times throughout a large portion of Wales and its Marches.
+
+And secondly:
+
+> In Caermarthenshire, not far from Llandebie, was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the above practice was said to have prevailed to a recent period,
+
+But in neither case is any provenance for the claim provided.
+
+Had Moggridge perhaps heard of the tradition in a Welsh context of the plate of salt, and/or perhaps the eating of food around the time of death, then associated this with the sin-eater ritual he learned of via Aubrey as occurring around the Welsh borders, and consequently reasoned (perhaps unjustifiably) that there were from the same origin, although only a partial relic of the (supposed) full ritual could be identified in Wales?
+
+```
+
+Silvan Evans then turns his attention to mattes of ritual, or rituals, under discussion:
 
 
 
