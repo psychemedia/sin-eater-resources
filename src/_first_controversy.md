@@ -52,7 +52,8 @@ The next issue of the *Academy*, *Vol 8 Iss 18* dated [November 20th, 1875](http
 >
 > While these statements very clearly affirm the former prevalence, in North Wales and the Border, of the superstitious practice in question, they do not, of course, go to show that, in the words of the article, it is "still surviving" in those localities, as well as in South Wales. The writer, however, of the interesting compilation in *Blackwood* has little to tell us about surviving North Welsh superstitions, and less that is new. Some of those mentioned (e.g., that about pigeon's feathers, and the Bible and key or sieve spell to find'a thief) are common in various parts of England and Scotland; others, like the *Canwyll Corph* (Corpse Candle), are more or less satisfactorily referred to in well-known works— as in the *Choice Notes from Notes and Queries*, and in the old *Cambrian Quarterly Magazine*; other remarkable superstitions, again, alleged to be still living, such as that of the *Mallt y Nos*, or *Mam y Drwg* (Mother of Mischief), are not mentioned.
 >
-> I venture to remark that the popular superstitions of Wales still await a student, acquainted with the Welsh language, and content, instead of seeking *folk*-lore from books, to collect it at the firesides of the people, in the out-of-the-way villages and secluded glens where it lingers longest. David Fitzgerald.
+> I venture to remark that the popular superstitions of Wales still await a student, acquainted with the Welsh language, and content, instead of seeking *folk*-lore from books, to collect it at the firesides of the people, in the out-of-the-way villages and secluded glens where it lingers longest.  
+> David Fitzgerald.
 
 There is a second piece of correspondence, immediately following (p530), that adds a further reference to Hone's *Year Book*:
 
@@ -222,21 +223,41 @@ We also note that they "attended many funerals", which may be as a result of the
 
 ### Mr Moggridge Returns: A Meeting of The Anthropological Institute
 
-Elsewhere, on December 14th, 1875, at a meeting of *The Anthroplogical Institute*, with Colonel A. Lane Fox, President, in the Chair, a paper was read by M. J. Watnovsz, F.R.A.S *"On the Belief in Bhutas—Devil and Ghost Worship in Western India* [The Journal of the Anthropological Institute of Great Britain and Ireland](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin), vol. 5, 1875, pp408 onwards.
+Elsewhere, on December 14th, 1875, at a meeting of *The Anthroplogical Institute*, with Colonel A. Lane Fox, President, in the Chair, a paper was read by M. J. Watnovsz, F.R.A.S *"On the Belief in Bhutas—Devil and Ghost Worship in Western India* [The Journal of the Anthropological Institute of Great Britain and Ireland](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/407/mode/1up?q=sin, vol. 5, 1875, pp408 onwards.
 
-Notes from a discussion following the reading of the paper are also recorded from [p423](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin). Notably, they featuring a response from a certain *Mr Moggridge*, whom we might assume to be the same Mr Moggridge that spoke on the subect of the sin-eater at the sixth meeting of the Cambrian Archaeological Association meeting in Ludlow over twenty years earlier, in 1852:
+*The collected volume 5 edition of the Journal covers the period February 9, 1875-January 25, 1876, so we might assume it was published in early 1876.*
+
+Notes from a discussion following the reading of the paper are also recorded from [p423](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin). Notably, they feature a response from a certain *Mr Moggridge*, whom we might assume to be the same Mr Moggridge that spoke on the subect of the sin-eater at the sixth meeting of the Cambrian Archaeological Association meeting in Ludlow over twenty years earlier, in 1852:
 
 > Mr. Moggridge said : Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself. Among the mountains of South Wales I find a similar ceremony prevailing down to almost our own times. When a person died, the Sin-eater of the district was called in. On his arrival he received a plate, on which he poured some salt. Upon the salt he placed a piece of bread, laid the plate on the chest of the defunct, muttered words of charmed power while bending over the corse, then eat the bread, whereby he eat up and appropriated to himself all*the sins of the deceased, received two shillings and sixpence for his services, and quickly retired from the pitying gaze of are present, who regarded him as one utterly and irremediably lost.
 
-??had Moggrdige seen academy debate? Certainly, he appears not to have contributed directly to it (I have find no signs he contributed elsewhere? but search moggridge in this period??
-)
-TO DO
+Moggridge continues to hold firm in his belief of the existence of the tradition and in the authority of Aubrey.
 
-> Mr. Jeremiah said: I was very much interested in the paper just read. With reference to the alleged custom of *sin-eating* in Wales, mentioned by Mr. Moggridge, I would remark that the discussion raised by the Rev. D. Silvan Evans in the *Academy* (November 5, 1875) appears to have gone adrift for want of the Welsh word for *Sin-eater*. The discussion arose, as all must be aware, from a statement made by a writer in *Blackwood's Magazine* for last month, in an article on the Legend and Folk-lore of North Wales,' where he says, in reference to a funeral custom, that the "Scapegoat . . . is currently called a 'sin-eater.'" Dr. Evans demanded the Welsh equivalent, which the author of that article could not give, in consequence of, he says, "my ignorance of Welsh." (Academy, Nov. 27, p. 555.) Had he referred to Bingley’s "North Wales," vol. ii. p. 278, he would have seen a way out of his difficulty, and a clear answer to the query put by Dr. Evans; and Mr. Moggridge will also see, I think, that the custom was not known as sin-eating, although the original meaning may have been of that nature. Bingley says, "It is usual in several parts of North Wales for the nearest female relation to the deceased, be she widow, mother, sister, or daughter, to pay some poor person of the same sex, and nearly the same age with the deceased, for procuring slips of yew, box, and other evergreens, to strew over and ornament the grave for some weeks after interment, and in some instances for weeding and adorning it on the eves of Easter, Whitsuntide, and the other great festivals for a year or two afterwards. This gift is called Diodlys, and it is made on a plate at the door of the house, where, at the same time, the body is standing ona bier. It had its name from a custom, which is now discontinued (1804), of the female relative giving to the person a piece of cheese with the money stuck in it, some white bread, and afterwards a cup of ale. When this previous ceremony is over, the clergyman, or, in his absence, the parish clerk, repeats the Lord’s Prayer, after which they proceed with the body to the church." It appears, then, that the custom means simply a "gift of ale or beer," and not *sin-eating*. Pennant’s (in his "Tours in Wales," vol. iii. p. 159, edition 1810) account is slightly different. He says: "Previous to a funeral it was customary, when the corpse was brought out of the house and laid upon the bier, for the next-of-kin, be it widow, mother, sister, or daughter—for it must be a female—to give, over the coffin, a quantity of white loaves in a t dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it *immediately*. When that was done they kneeled down, and the minister, if present, said the Lord’s Prayer, after which they proceeded with the corpse, and at every crossway between the house and the church they laid down the bier and knelt, and again repeated the Lord's Prayer, and did the same when they first entered the churchyard." This custom, and that of the alleged sin-eating, are conclusively one and the same, viz. that of Diodlys.
->  
-> Mr Edkins and the President also made a few remarks.
+Whether or not Mr Moggridge had been reminded of the sin-eater tradition from the Blackwood article, or the correspondence running in the *Academy* is not clear. Certainly, he did not contribute to the correspondence in the *Academy*, and I haven't found evidence of him commenting on it elsewhere.
 
-We have no record of what those remarks may have been.
+Moggridge's comments were followed up by comments from another participant, a certain Mr Jeremiah, who *did* reference the *Academy* correspondence, picking up on the question raised by Silvan Evans regarding a possible Welsh word for "sin-eater":
+
+> Mr. Jeremiah said: I was very much interested in the paper just read. With reference to the alleged custom of *sin-eating* in Wales, mentioned by Mr. Moggridge, I would remark that the discussion raised by the Rev. D. Silvan Evans in the *Academy* (November 5, 1875) appears to have gone adrift for want of the Welsh word for *Sin-eater*. The discussion arose, as all must be aware, from a statement made by a writer in *Blackwood's Magazine* for last month, in an article on the Legend and Folk-lore of North Wales,' where he says, in reference to a funeral custom, that the "Scapegoat . . . is currently called a 'sin-eater.'" Dr. Evans demanded the Welsh equivalent, which the author of that article could not give, in consequence of, he says, "my ignorance of Welsh." (Academy, Nov. 27, p. 555.)
+
+Mr Jeremiah then suggests that the answer is to be found in William Bingley's *North Wales; including its scenery, antiquities, customs, and some sketches of its natural history*, published in 1804, which is referenced in the context of the sin-eater debate for the first time:
+
+> Had he referred to Bingley’s "North Wales," vol. ii. p. 278, he would have seen a way out of his difficulty, and a clear answer to the query put by Dr. Evans; and Mr. Moggridge will also see, I think, that the custom was not known as sin-eating, although the original meaning may have been of that nature. Bingley says, "It is usual in several parts of North Wales for the nearest female relation to the deceased, be she widow, mother, sister, or daughter, to pay some poor person of the same sex, and nearly the same age with the deceased, for procuring slips of yew, box, and other evergreens, to strew over and ornament the grave for some weeks after interment, and in some instances for weeding and adorning it on the eves of Easter, Whitsuntide, and the other great festivals for a year or two afterwards. This gift is called Diodlys, and it is made on a plate at the door of the house, where, at the same time, the body is standing ona bier. It had its name from a custom, which is now discontinued (1804), of the female relative giving to the person a piece of cheese with the money stuck in it, some white bread, and afterwards a cup of ale. When this previous ceremony is over, the clergyman, or, in his absence, the parish clerk, repeats the Lord’s Prayer, after which they proceed with the body to the church."
+
+From this, Mr Jeremiah appears to be suggesting that there is a Welsh word for a particular eating related death ritual, but that it does not describe sin-eating:
+
+> It appears, then, that the custom means simply a "gift of ale or beer," and not *sin-eating*.
+
+Mr Jeremiah also refered Pennant's *Tours in Wales*, which once again is the first citation I have found of this work in the context of discussions around the sin-eater:
+
+> Pennant’s (in his "Tours in Wales," vol. iii. p. 159, edition 1810) account is slightly different. He says: "Previous to a funeral it was customary, when the corpse was brought out of the house and laid upon the bier, for the next-of-kin, be it widow, mother, sister, or daughter—for it must be a female—to give, over the coffin, a quantity of white loaves in a great dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it *immediately*. When that was done they kneeled down, and the minister, if present, said the Lord’s Prayer, after which they proceeded with the corpse, and at every crossway between the house and the church they laid down the bier and knelt, and again repeated the Lord's Prayer, and did the same when they first entered the churchyard."
+
+Mr Jeremiah suggests this also refers to the *Diodlys* tradition, and the misascribed sin-eating tradition:
+
+> This custom, and that of the alleged sin-eating, are conclusively one and the same, viz. that of Diodlys.
+
+Several other remarks appear then to have been made — *"Mr Edkins and the President also made a few remarks"* –  presumably including a vote of thanks to the reader of the paper, but what the remarks were is not recorded.
+
+This appears to have been Mr Jeremiah's only contribution to the sin-eater debate unless he appears elsewhere under a pseudonym.
 
 ## Silvan Evans Responds to the Evidence, 1876-02-05
 
@@ -364,6 +385,8 @@ The Academy  1876-02-12: Vol 9 Iss 197
 
 ---
 
+## Further Correspondence Elsewhere, February, 1876
+
 reprint elsewhere, continued to generate interest
 
 https://newspapers.library.wales/view/3040731/3040733/14/sin%20eater
@@ -386,7 +409,7 @@ The Aberystwith Observer
 >
 > Out of this statement the author of the article makes "five years"! and by that process brings the custom down to 1847. Mr. Moggridge, in a letter dated the first day of the present year, tells me that he does "not remember anything that gives a date," and adds that "the only written account" of the sin-eater "from personal knowledge" is that of Aubrey, 'de Gentilisme'". Aubrey, if I may rely on the extracts given in the *Academy*, does not say that he was eyewitness to the performances of the sin-eater in any part of Wales, and therefore, according to Mr. Moggridge, no one speaks of it from personal knowledge as having prevailed at any time in the Principality; and it will be borne in mind that I am writing of the Principality and not of the English counties.
 >
-> Bat let us return to Llandebie, the locality in which it is asserted that the custom prevailed within the last thirty years. Mr. John Rowlands, a highly intelligent schoolmaster, author of a small volume of *Historical Notes* published about ten years ago, and at one time librarian to the late Sir Thomas Phillipps of Middle Hill, wrote to me on December 14 last in these words :—
+> But let us return to Llandebie, the locality in which it is asserted that the custom prevailed within the last thirty years. Mr. John Rowlands, a highly intelligent schoolmaster, author of a small volume of *Historical Notes* published about ten years ago, and at one time librarian to the late Sir Thomas Phillipps of Middle Hill, wrote to me on December 14 last in these words :—
 >
 > "I opened the Llandebie School in the year 1850, and I lived there for many years. I knew all the parisioners, and the history of the parish; its legends, customs, and traditions. And during the time I was there I attended many funerals, but never heard of the 'sin-eater;' in fact people there never give cakes at funerals. I know almost every parish in South Wales; I collected all the legends, and made notes of the old customs for the late Sir Thomas Phillipps. If such a custom had prevailed I should have heard of it. I have no hesitation in writing that it is a glaring untruth."
 >
@@ -509,7 +532,7 @@ The Academy  1876-03-04: Vol 9 Iss 200
 
 ---
 
-
+## Further Correspondence Elsewhere, March, 1876
 
 https://newspapers.library.wales/view/3040750/3040752/9/sin%20eater
 
