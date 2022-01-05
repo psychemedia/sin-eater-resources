@@ -353,7 +353,6 @@ Let's see what other points of difference we can find in the accounts...
 
 > In Caermarthenshire, not far from Llandebie, was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the above practice was said to have prevailed to a recent period, and going thence to those parts of the country where, from the establishment of works, and from other causes, the people had more early become enlightened, he found the more absurd portions of the custom had been abandoned, while some still remained.
 
-Here we have mention of a particular place, *Llandebie*, midway between Dinefwr and Ystalyfera, as mentioned by Ceri Phillips in his story,
 Here we have mention of a particular place, *Llandebie*, midway between Dinefwr and Ystalyfera, as mentioned by Ceri Phillips in his story. But there is no mention here of who was "said to have claimed"* that the tradition had prevailed.
 
 Moggridge then went on:
