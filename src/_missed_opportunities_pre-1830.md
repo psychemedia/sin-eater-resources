@@ -22,8 +22,6 @@ On the previous page, page 337, is another custom that is worthy of remark:
 
 In this case, it seems that prayers at to a holy well associated with St Aelian can be used to call forth a curse on one who has wronged the person uttering the imprecation. It's not clear what the process for "discovering thieves" is, but I am intrigued to find out.
 
-Further observations ascribed to Pennant appear in 
-
 ## Bingley's *North Wales*, 1804
 
 Next up comes William Bingley's *North Wales; including its scenery, antiquities, customs, and some sketches of its natural history, delineated from two excursions through all the interesting parts of that country, during the summers of 1798 and 1801.*, and published, in two volumes, in 1804.
