@@ -167,7 +167,7 @@ Via *Google Translate*, we get the following attempt at a translation:
 >  
 > We referred in one of our letters to an important accusation made against us at the Academy in that we have such a sense of sin and eater in our burials. In reply to the Rev. D Silvan Evans, the accuser states that the case was under consideration by the Cambrian Archaeologists at Ludlow, in 1852, when one said Mr. Moggridge to the over-zealous cause where, within five years, at or near Llandebie, Carmarthenshire. In our charge, it was said that the practice in Wales is present, but when the test is called for it will go back to a maximum of 30 years. 30 years in this period is more than two hundred years ago. But although he returned to 1847,
 
-— *the 1847 date presumably refers to the "within five years" period dated relative to 1852* — 
+— *the 1847 date presumably refers to the "within five years" period dated relative to 1852* —
 
 > he could not tell us whether in Llandilo, Cwmdwr, Pontarddulais, or elsewhere, the event took place in or near Llandebie. But though he did specify a time and place, we assure him, Mr. Moggridge, and everyone else, the circumstance did not take place there in the memory of the older inhabitants.
 
@@ -223,7 +223,7 @@ We also note that they "attended many funerals", which may be as a result of the
 
 ### Mr Moggridge Returns: A Meeting of The Anthropological Institute
 
-Elsewhere, on December 14th, 1875, at a meeting of *The Anthroplogical Institute*, with Colonel A. Lane Fox, President, in the Chair, a paper was read by M. J. Watnovsz, F.R.A.S *"On the Belief in Bhutas—Devil and Ghost Worship in Western India* [The Journal of the Anthropological Institute of Great Britain and Ireland](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/407/mode/1up?q=sin, vol. 5, 1875, pp408 onwards.
+Elsewhere, on December 14th, 1875, at a meeting of *The Anthroplogical Institute*, with Colonel A. Lane Fox, President, in the Chair, a paper was read by M. J. Watnovsz, F.R.A.S *"On the Belief in Bhutas—Devil and Ghost Worship in Western India* [The Journal of the Anthropological Institute of Great Britain and Ireland](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/407/mode/1up?q=sin), vol. 5, 1875, pp408 onwards.
 
 *The collected volume 5 edition of the Journal covers the period February 9, 1875-January 25, 1876, so we might assume it was published in early 1876.*
 
@@ -492,7 +492,7 @@ Gauls... Wales... close enough...
 
 So - the Welsh have a sin-bearing tradition not totally unlike a Gaulish tradition, but to say such a thing might be to slight the Welsh as supersituous or ignorant for sharing similar beliefs, perhaps because the ancient Gauls were considered to be ignorant and superstitious?
 
-Finally, 
+Finally,
 
 > Mr. Silvan Evans's parting shot at the discoverers "who are ignorant of the language of the natives, and but slightly acquainted with the country," shall not draw me from my incognito, or I might show him that by parentage, ancestry, property, and interests, I am connected with two counties of South Wales, and that I have travelled frequently over most of the Principality, although I have failed to acquire its language.
 >
