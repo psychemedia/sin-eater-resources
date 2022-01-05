@@ -229,11 +229,17 @@ Elsewhere, on December 14th, 1875, at a meeting of *The Anthroplogical Institute
 
 Notes from a discussion following the reading of the paper are also recorded from [p423](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin). Notably, they feature a response from a certain *Mr Moggridge*, whom we might assume to be the same Mr Moggridge that spoke on the subect of the sin-eater at the sixth meeting of the Cambrian Archaeological Association meeting in Ludlow over twenty years earlier, in 1852:
 
-> Mr. Moggridge said : Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself. Among the mountains of South Wales I find a similar ceremony prevailing down to almost our own times. When a person died, the Sin-eater of the district was called in. On his arrival he received a plate, on which he poured some salt. Upon the salt he placed a piece of bread, laid the plate on the chest of the defunct, muttered words of charmed power while bending over the corse, then eat the bread, whereby he eat up and appropriated to himself all*the sins of the deceased, received two shillings and sixpence for his services, and quickly retired from the pitying gaze of are present, who regarded him as one utterly and irremediably lost.
+> Mr. Moggridge said : Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself.
 
-Moggridge continues to hold firm in his belief of the existence of the tradition and in the authority of Aubrey.
+Moggridge went on mention another, more recent tradition, which he associates with a sin-eater, but which he distinguishes as a slightly simpler ritual:
 
-Whether or not Mr Moggridge had been reminded of the sin-eater tradition from the Blackwood article, or the correspondence running in the *Academy* is not clear. Certainly, he did not contribute to the correspondence in the *Academy*, and I haven't found evidence of him commenting on it elsewhere.
+> Among the mountains of South Wales I find a similar ceremony prevailing down to almost our own times. When a person died, the Sin-eater of the district was called in. On his arrival he received a plate, on which he poured some salt. Upon the salt he placed a piece of bread, laid the plate on the chest of the defunct, muttered words of charmed power while bending over the corse, then eat the bread, whereby he eat up and appropriated to himself all the sins of the deceased, received two shillings and sixpence for his services, and quickly retired from the pitying gaze of are present, who regarded him as one utterly and irremediably lost.
+
+It is also remarkable how closely those reported words match the words ascribed to Moggridge back in 1852 as reported in [*Archaeologia Cambrensis*, October 1852, Vol 3, Issue 12, p330-332](https://archive.org/details/sim_archaeologia-cambrensis_1852-10_3_12/page/332/mode/2up): *"When a person died, the friends sent for the sin-eater of the district, who on his arrival placed a plate of salt on the breast of the defunct, and upon the salt a piece of bread. He then muttered an incantation over the bread, which he finally ate—thereby eating up all the sins of the deceased. This done he received his fee of 2s. 6d., and vanished as quickly as possible from the general gaze; for, as it was believed that he really appropriated to his own use and behoof the sins of all those over whom he performed the above ceremony, he was utterly detested in the neighbourhood— regarded as a mere Pariah— as one irremediably lost"*. Had Mr Moggridge perhaps recently re-read the report of his comments to the Cambrian Archaeological Association and rehearsed those same words once again?
+
+Whatever the case, Mr. Moggridge seems to continue to hold firm in his belief of the existence of the tradition and in the authority of Aubrey.
+
+Whether or not Mr Moggridge had been reminded of the sin-eater tradition from the Blackwood article, or the correspondence running in the *Academy* is not clear. Certainly, he did not contribute to the correspondence in the *Academy*, and I haven't found evidence of him publicly commenting on it elsewhere, although as we shall see, he does appear to have corresponded privately with Silvan Evans at the start of the following year.
 
 Moggridge's comments were followed up by comments from another participant, a certain Mr Jeremiah, who *did* reference the *Academy* correspondence, picking up on the question raised by Silvan Evans regarding a possible Welsh word for "sin-eater":
 
@@ -261,58 +267,127 @@ This appears to have been Mr Jeremiah's only contribution to the sin-eater debat
 
 ## Silvan Evans Responds to the Evidence, 1876-02-05
 
-Back in the *Academy*, Silvan Evans responded in the new year. ??? nothing in January?? Presimablay been maming enquiries?
+After a short break in correspondence, presumably as he attempted his researches,  Silvan Evans wrote again to the *Academy* a month into the new year with a missive that appears in [*Vol 9 Iss 196*](https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+) published February 2nd, 1876, p125-6.
 
+He opens with a restatement of his belief that the tradition of the sin-eater does not exist in Wales:
 
-https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+
-
-The Academy
-Vol 9 Iss 196
-1876-02-05
-, p125-6
-
-> Correspondence The Sin-Eater, by Prof. D. Silvan Evans
+> Correspondence: The Sin-Eater, by Prof. D. Silvan Evans
 >
 > THE SIN-EATER.
 >
 > Aberystwyth : Jan. 29, 1876.
 >
-> At the risk of exposing my "ignorance" still further, and thereby causing additional surprise to the writer of the paper on the "Legends and Folklore of North Wales" in *Blackwood’s Magazine*, I venture to reiterate my doubts as to the existence of the sin-eater in any part of Wales. Like every other country, the Principality had, and still has, her superstitions, but that of the sin-eater does not appear to be among them. Since the appearance of my former letter in the ACADEMY (November 13), I have made all the enquiries I could into the subject, with the view of ascertaining whether such a personage has, or ever had, “a local habitation and a name” among us. I have spoken to many and corresponded with several persons who are known to have paid attention to the customs and traditions of the country; and the sum of their communications is, without any exception, that the superstition of the sin-eater was as novel to them as it was to me.
+> At the risk of exposing my "ignorance" still further, and thereby causing additional surprise to the writer of the paper on the "Legends and Folklore of North Wales" in *Blackwood’s Magazine*, I venture to reiterate my doubts as to the existence of the sin-eater in any part of Wales. Like every other country, the Principality had, and still has, her superstitions, but that of the sin-eater does not appear to be among them.
+
+Silvan Evans backs this up by explaining that despite his best efforts, he has still not been able to find anyone who has knowledge of the tradition:
+
+> Since the appearance of my former letter in the ACADEMY (November 13), I have made all the enquiries I could into the subject, with the view of ascertaining whether such a personage has, or ever had, "a local habitation and a name" among us. I have spoken to many and corresponded with several persons who are known to have paid attention to the customs and traditions of the country; and the sum of their communications is, without any exception, that the superstition of the sin-eater was as novel to them as it was to me.
+
+Silvan Evans then starts to pick up on some of the points raised in the Blackwood's author's previous correspondence, admitting that if he had ever been aware of Moggridge's claims, he had forgotten them, and making the reasonable claim that he should not be expected to be *"minutely acquainted with everything that appeared in that journal some twenty years previously"* even if he had been the editor of it:
+
+> The writer points to Llandebie as the place where the custom prevailed as late as 1847, refers me for confirmation to a statement made by Mr. Matthew Moggridge at the annual meeting of the Cambrian Archaeological Association held at Ludlow in 1852, and is "surprised" that I, who became connected with the *Archaeologia Cambrensis* in 1872, should not be minutely acquainted with everything that appeared in that journal some twenty years previously. Whether I ever read the account of the Ludlow meeting I cannot now say; but if I did, every trace of Mr. Moggridge’s revelations had been effaced from my memory when I wrote my letter.
+
+Silvan Evan's then recaps the Blackwood author's summary of Moggridge's original claims:
+
+> The writer tells us that "at the meeting of the Cambrian archaeologists at Ludlow in 1852, Mr. Moggridge cited a case of this superstition as having occurred within five years at or near Llandebie, in the hill-country of Carmarthenshire."
+
+before suggesting that this is a completely false summary, in so-doing demonstrating his correspondent that he has now engaged with that source, having had it raised to his attention, and being a competent researcher found that Moggridge made no such claim:
+
+> Mr. Moggridge said no such thing, and it is hardly fair to make him responsible for sentiments which he never expressed. The description of the sin-eater, given by Mr. Moggridge, is taken from Aubrey; and the following are his words in reference to Llandebie, as reported in the *Archaeologia Cambrensis*, the organ of the Association :—
 >
-> The writer points to Llandebie as the place where the custom prevailed as late as 1847, refers me for confirmation to a statement made by Mr. Matthew Moggridge at the annual meeting of the Cambrian Archaeological Association held at Ludlow in 1852, and is "surprised" that I, who became connected with the *Archaeologia Cambrensis* in 1872, should not be minutely acquainted with everything that appeared in that journal some twenty years previously, Whether I ever read the account of the Ludlow meeting I cannot now say; but if I did, every trace of Mr. Moggridge’s revelations had been effaced from my memory when I wrote my letter. The writer tells us that "at the meeting of the Cambrian archaeologists at Ludlow in 1852, Mr. Moggridge cited a case of this superstition as having occurred within five years at or near Llandebie, in the hill-country of Carmarthenshire." Mr. Moggridge said no such thing, and it is hardly fair to make him responsible for sentiments which he never expressed. The description of the sin-eater, given by Mr. Moggridge, is taken from Aubrey; and the following are his words in reference to Llandebie, as reported in the *Archaeologia Cambrensis*, the organ of the Association :—
->
-> "In Caermarthenshire, not far from Llandebie, was a mountain valley where, up to the commencement of the present century, the people were of a very lawless character. There the above practice was said to have prevailed to a recent period, and going thence to those parts of the country where, from the establishment of works, and from other causes, the people had more early become enlightened, he found the more absurd portions of the custom had been abandoned, while some still remained. Thus near Llanon, within twenty years, the plate, salt, and bread were retained ; near Swansea (and, indeed, very generally), only the plate and salt."
->
-> Out of this statement the author of the article makes “five years”! and by that process brings the custom down to 1847. Mr. Moggridge, in a letter dated the first day of the present year, tells me that he does “not remember anything that gives a date,” and adds that “the only written account” of the sin-eater "from *personal* knowledge is that of Aubrey, 'de Gentilisme.'" Aubrey, if I may rely on the extracts given in the ACADEMY, does not say that he was eyewitness to the performances of the sin-eater in any part of *Wales*, and therefore, according to Mr. Moggridge, no one speaks of it from personal knowledge as having prevailed at any time in the Principality; and it will be borne in mind that I am writing of the Principality and not of the English counties.
->
+> "In Caermarthenshire, not far from Llandebie, was a mountain valley where, up to the commencement of the present century,
+
+which is to say, *up to the start of the 19th century*, to whit, the late 1700s,
+
+> the people were of a very lawless character. There the above practice was said to have prevailed to a recent period,
+
+But what period does Silvan Evans think this refers to? As the tradition was *"said to have"* prevailed, then perhaps it prevailed in *"a recent period"* relative to the context described by whomever said it, and who was perhaps that same someone who had been speaking about *"the commencement of the present century"*.
+
+> and going thence to those parts of the country where, from the establishment of works, and from other causes, the people had more early become enlightened, he
+
+*he* being Moggridge,
+
+> found the more absurd portions of the custom had been abandoned, while some still remained. Thus near Llanon, within twenty years, the plate, salt, and bread were retained ; near Swansea (and, indeed, very generally), only the plate and salt."
+
+Silvan Evans then attacks the Blackwood's author's logic, perhaps inappropriately, as we shall later see:
+
+> Out of this statement the author of the article makes "five years"! and by that process brings the custom down to 1847.
+
+Which is to say, five years previous to Moggridge's paper of 1852.
+
+> Mr. Moggridge, in a letter dated the first day of the present year,
+
+*(I have not been able to find a copy of this letter published anywhere)*
+
+> tells me that he does "not remember anything that gives a date," and adds that "the only written account" of the sin-eater "from *personal* knowledge is that of Aubrey, 'de Gentilisme.'"
+
+So, here we have an affirmation from Moggridge that the only *written* source he was aware of was Aubrey, and perhaps was not aware of any specific dates associated with when the tradition was extant.
+
+Silvan Evans then tries to find evidence of dates associated with eyewitness testimony, starting with his reading of Aubrey, who we might recall was writing about the sin-eater in 1686.
+
+> Aubrey, if I may rely on the extracts given in the ACADEMY, does not say that he was eyewitness to the performances of the sin-eater in any part of *Wales*, and therefore, according to Mr. Moggridge, no one speaks of it from personal knowledge as having prevailed at any time in the Principality; and it will be borne in mind that I am writing of the Principality and not of the English counties.
+
+No mention is made of any oral evidence Mr Moggridge might have had access to.
+
+Failing to find such reports of direct evidence, Silvan Evans returns his focus to Llandebie, referring to correspondence he had recently received from one John Rowlands, schoolmaster and *"one time librarian to the late Sir Thomas Phillipps"* who had similarly never been witness to any eyewitness testimony:
+
 > But let us return to Llandebie, the locality in which it is asserted that the custom prevailed within the last thirty years. Mr. John Rowlands, a highly intelligent schoolmaster, author of a small volume of *Historical Notes* published about ten years ago, and at one time librarian to the late Sir Thomas Phillipps of Middle Hill, wrote to me on December 14 last in these words :—
 >
 > "I opened the Llandebie School in the year 1850, and I lived there for many years. I knew all the parishioners, and the history of the parish; its legends, customs, and traditions. And during the time I was there I attended many funerals, but never heard of the 'sin-eater;' in fact people there never give cakes at funerals. I know almost every parish in South Wales; I collected all the legends, and made notes of the old customs for the late Sir Thomas Phillipps. If such a custom had prevailed I should have heard of it. I have no hesitation in writing that it is a glaring untruth."
->
+
+As Silvan Evans points out,
+
 > Letters to the same effect appeared in the *Western Mail*, which circulates very extensively in the Principality, in the *Aberystwyth Observer*, and, I am told, in some other papers; but no one in reply has put in a plea in favour of the sin-eater.
->
+
+These letters, by *"Rheidiol"*, are presumably by that same Mr. John Rowlands.
+
+Silvan Evans also received correspondence from the current vicar of Llandebie:
+
 > The Rev. Rees Evans, Vicar of Llandebie, has favoured me with the following letter in answer to my enquiries, and I must crave indulgence on the part of your readers for inserting it without abridgment :—
->
-> "I duly received your letter of the 22nd ult., which contained such extraordinary statements in reference to a superstitious custom supposed and alleged to be prevalent in this parish, viz., the employment at funerals of a strange person called the 'sin-eater.' I have been the vicar of this parish for the last fourteen years, and I have known this neighbourhood well for the last twenty-five years; but I never heard till I received your letter of such a personage as the 'sin-eater.' However, with the view of arriving at the truth or falsehood of the statements made by Mr. Moggridge at Ludlow in the year 1852, which appeared subsequently in the *Archaeologia Cambrensis*, and with the view of satisfying my own mind on the subject, I have during the last three weeks instituted searching enquiries in every part and hamlet of this parish, as to the probability of there having ever existed here such a functionary as 'sin-eater;' and the result of my investigation in the matter is this :—
->
-> That such a custom as that alluded to in your letter never prevailed, at least for several centuries, in this parish and neighbourhood. That is the candid opinion of all classes of persons with whom I had long conversations while investigating the matter in question for you. One intelligent old man, an octogenarian, whose ancestors had lived from time immemorial in this parish, told me that such a custom, in his opinion, could not have prevailed here at least for the last two hundred years, or he would have heard of it from his father or his grandfather, who lived to a great age. Therefore, from all the enquiries that I have made, my candid opinion is that the statements which were made by Mr. Moggridge cannot be substantiated by any reliable authority or proved by any credible evidence."
->
+
+Revd. Rees Evans, it seems, was well famliar with the area:
+
+> "I duly received your letter of the 22nd ult., which contained such extraordinary statements in reference to a superstitious custom supposed and alleged to be prevalent in this parish, viz., the employment at funerals of a strange person called the 'sin-eater.' I have been the vicar of this parish for the last fourteen years, and I have known this neighbourhood well for the last twenty-five years; but I never heard till I received your letter of such a personage as the 'sin-eater.'
+
+Intrigued by Silvan Evans' enquiries, and digging into the claims made originally by Mr Moggridge, Rees Evans conducted his own research:
+
+> "However, with the view of arriving at the truth or falsehood of the statements made by Mr. Moggridge at Ludlow in the year 1852, which appeared subsequently in the *Archaeologia Cambrensis*, and with the view of satisfying my own mind on the subject, I have during the last three weeks instituted searching enquiries in every part and hamlet of this parish, as to the probability of there having ever existed here such a functionary as 'sin-eater' and the result of my investigation in the matter is this :—
+
+In short, he also failed to find evidence of the sin-eater:
+
+> That such a custom as that alluded to in your letter never prevailed, at least for several centuries, in this parish and neighbourhood.
+
+This understanding was based on his solicitaion of local knowledge and opinion:
+
+> That is the candid opinion of all classes of persons with whom I had long conversations while investigating the matter in question for you. One intelligent old man, an octogenarian, whose ancestors had lived from time immemorial in this parish, told me that such a custom, in his opinion, could not have prevailed here at least for the last two hundred years, or he would have heard of it from his father or his grandfather, who lived to a great age. Therefore, from all the enquiries that I have made, my candid opinion is that the statements which were made by Mr. Moggridge cannot be substantiated by any reliable authority or proved by any credible evidence."
+
+Silvan Evans picks up the correspondence once again:
+
 > Such are the results of my enquiries, and yet we are asked to believe that the sin-eater carried on his nefarious profession in the neighbourhood of Llandebie until within a little more than a quarter of a century.
->
+
+He also distinguishes between the tradition of the "plate and salt" and the ritual of the sin-eater, and, seemingly *contra* Moggridge, does not see the former as evidence a sin-eater tradition.
+
 > The plate and salt mentioned by Mr. Moggridge as being still seen in some parts have no connexion, or at least no necessary connexion, with the sin-eater, and much more satisfactory reasons are given for their employment. They are not uncommon, I understand, among Roman Catholics at the present day.
->
-> The whole story of the sin-eater appears to rest on the shoulders of Aubrey, and, as we have just seen, he does not state that he saw any performance of the custom among the Welsh people. Those who only retail his statements need not detain us. I leave it to others to judge what amount of credibility is due to so credulous a person as Aubrey in any case in which superstition plays a part. If we put implicit belief in what he says about the sin-eater, whether in England or out of England, I do not see how we can consistently refuse his evidence as to ghosts, spectres, witchcraft, and similar subjects, about which he is so eloquent.
->
+
+All the evidence, it appears, owes to Aubrey, who had no direct evidence of it of his own.
+
+> The whole story of the sin-eater appears to rest on the shoulders of Aubrey, and, as we have just seen, he does not state that he saw any performance of the custom among the Welsh people. Those who only retail his statements need not detain us.
+
+Silvan Evans then further raises doubts about trusting Aubrey in general:
+
+> I leave it to others to judge what amount of credibility is due to so credulous a person as Aubrey in any case in which superstition plays a part.
+
+based on other apparently wild claims he appears to have made:
+
+> If we put implicit belief in what he says about the sin-eater, whether in England or out of England, I do not see how we can consistently refuse his evidence as to ghosts, spectres, witchcraft, and similar subjects, about which he is so eloquent.
+
+Finally, Silvan Evans' signs off with another dig at the Blackwood's author, wondering at how the only people who seem to have found evidence in support of the sin-eater tradition are those who don't speak Welsh and don't know the country:
+
 > In conclusion I would remark that if the custom under notice ever existed in Wales, it is somewhat strange, if not "surprising," that the discovery of it has been exclusively confined to those who are ignorant of the language of the natives, and are but slightly acquainted with the country.
 >
 > D. SILVAN EVANS.
->
-> [See also: https://archive.org/stream/sim_academy-and-literature_1876-02-26_9_199/sim_academy-and-literature_1876-02-26_9_199_djvu.txt
 
----
-
-
-## Further Correspondence Elsewhere, TO DO DATE
+## Further Correspondence Elsewhere, February, 1876
 
 In the 1876 work *Historical notes of the counties of Glamorgan, Carmarthen and Cardigan:*, the entriy for Llandebie, starting on [page 125](https://archive.org/details/historicalnotes00rowlgoog) has no mention of *any* peculiar or local customs or traditions, let alone a mention of the sin-eater.
 
@@ -357,7 +432,7 @@ Over in *Bye-gones*, the running commentary continued in the [February 9th, 1876
 
 ## The Blackwood Author Snaps Back, 1876-02-12
 
-
+wastes no time... trolling (or defensive) behaviour
 ??one or two?? weeks after Silvan Evan's ??, the *Blackwood* author responded ??
 
 
