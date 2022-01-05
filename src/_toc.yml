@@ -13,6 +13,7 @@ parts:
 - caption: The First Controversy, 1875-6
   chapters:
   - file: _first_trigger
+  - file: _first_controversy
 - caption: What Next?
   chapters:
   - file: _forthcoming
