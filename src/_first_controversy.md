@@ -510,7 +510,16 @@ At this point, you might imagine some readers imploring Silvan Evans "don't feed
 
 Having held off replying for one week, Silvan Evans picked up his pen to respond, yet again, in the *Academy* of [February 26th, 1876](https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/196/mode/2up?q=sin+eater), p197-8.
 
-He opens with, a patient - if resigned – tone, such as one might use when addresssing an obstinate and truculent toddler:
+```{admonition} Republished Elsewhere...
+
+The same letter was reprinted in the [*Aberystwith Observer* of March 4th, 1876](https://newspapers.library.wales/view/3040750/3040752/9/sin%20eater), p2).
+
+The opinion of the editor as to the validity of claims regarding the existence, or otherwise, of the sin-eater tradition in Wales is clearly evident.
+
+> The Rev. Professor Silvan Evans, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alleged functions of the imaginary "Sin-Eater"
+```
+
+Silvan Evans opened with, a patient - perhaps condescending, perhaps resigned – tone, such as one might use when addresssing an obstinate and truculent toddler:
 
 > The Sin-Eater, by the Rev. D. Silvan Evans and E. R. Morris.
 >
@@ -609,7 +618,7 @@ Had Moggridge perhaps heard of the tradition in a Welsh context of the plate of 
 
 ```
 
-Silvan Evans then turns his attention to mattes of ritual, or rituals, under discussion:
+Silvan Evans then turns his attention to the matters of ritual, or ritual*s*, under discussion:
 
 
 
@@ -688,15 +697,10 @@ The Academy  1876-03-04: Vol 9 Iss 200
 
 ## Further Correspondence Elsewhere, March, 1876
 
-https://newspapers.library.wales/view/3040750/3040752/9/sin%20eater
-
-The Aberystwith Observer
-1876-03-04
-, p2
 
 > THE "SIN-EATER" IN WALES.
 >
-> The Rev. Professor Silvan Evans, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alle-eo functions of the imaginary "Sin-Eater":—
+> 
 >
 > THE "SIN-EATER."
 >
