@@ -300,7 +300,7 @@ So the phrase, at least in its English form, was claimed to be a recognised one.
 
 > After some few observations from H. Hodges Hughes, Esq., and W. W. E Wynne Esq.
 
-Whatever those observations were, they were seemingly not thought substantive enough to be reporteed by the Shrewsbury Chronicle.
+Whatever those observations were, they were seemingly not thought substantive enough to be reported by the Shrewsbury Chronicle.
 
 > The President moved a vote of thanks to Mr Moggridge, which was warmly accorded by the meeting.
 
@@ -322,7 +322,7 @@ The Hereford Times, in its [Saturday, September 4th, 1852](https://www.britishne
 
 > M. MOGGRIDGE Esq., made some remarks upon a singular custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this—when party died, a person known by the name of "the sin-eater was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.
 >
-> Mr. Allen remarked that there still existed a cu»tom in Wales of placing a candle in salt, and burning it in the chamber of deceased person. Was this in any way connected with the custom just described? It was a popular notion that the candle stuck in salt would scare away the evil spirit, and it was usual for the friends of the deceased to watch the corpse for a certain period.
+> Mr. Allen remarked that there still existed a custom in Wales of placing a candle in salt, and burning it in the chamber of deceased person. Was this in any way connected with the custom just described? It was a popular notion that the candle stuck in salt would scare away the evil spirit, and it was usual for the friends of the deceased to watch the corpse for a certain period.
 >
 > The Rev. J. B. James reminded the meeting of the of this custom—the scape goat.
 >
