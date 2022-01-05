@@ -115,7 +115,7 @@ In terms of provenance of the White's papers, which included Aubrey's manuscript
 
 ## Leland's *Collectanea*, 1774
 
-Regarding the "letter from John Bagford" in *Leland's Collectanea*, it first seems to appear in the second edition of *Joannis Lelandi antiquarii De rebvs britannicis collectanea*](https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up), edited by Thomas Hearne, and published in 1774, as "A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.
+Regarding the "letter from John Bagford" in *Leland's Collectanea*, it first seems to appear in the second edition of [*Joannis Lelandi antiquarii De rebvs britannicis collectanea*](https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up), edited by Thomas Hearne, and published in 1774, as "A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.
 
 ```{admonition} Thomas Hearne
 :class: dropdown
