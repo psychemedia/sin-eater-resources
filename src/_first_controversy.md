@@ -309,7 +309,7 @@ But what period does Silvan Evans think this refers to? As the tradition was *"s
 
 > found the more absurd portions of the custom had been abandoned, while some still remained. Thus near Llanon, within twenty years, the plate, salt, and bread were retained ; near Swansea (and, indeed, very generally), only the plate and salt."
 
-Silvan Evans then attacks the Blackwood's author's logic, perhaps inappropriately, as we shall later see:
+Silvan Evans then attacks the Blackwood's author's logic:
 
 > Out of this statement the author of the article makes "five years"! and by that process brings the custom down to 1847.
 
@@ -327,7 +327,7 @@ Silvan Evans then tries to find evidence of dates associated with eyewitness tes
 
 > Aubrey, if I may rely on the extracts given in the ACADEMY, does not say that he was eyewitness to the performances of the sin-eater in any part of *Wales*, and therefore, according to Mr. Moggridge, no one speaks of it from personal knowledge as having prevailed at any time in the Principality; and it will be borne in mind that I am writing of the Principality and not of the English counties.
 
-No mention is made of any oral evidence Mr Moggridge might have had access to.
+Here, any references to the tradition *outisde* the Principlaity of Wales are explicitly discounted. Furthermore, mo mention or reference is made of any oral evidence Mr Moggridge might have otherwise had access to, or not.
 
 Failing to find such reports of direct evidence, Silvan Evans returns his focus to Llandebie, referring to correspondence he had recently received from one John Rowlands, schoolmaster and *"one time librarian to the late Sir Thomas Phillipps"* who had similarly never been witness to any eyewitness testimony:
 
@@ -357,9 +357,11 @@ In short, he also failed to find evidence of the sin-eater:
 
 > That such a custom as that alluded to in your letter never prevailed, at least for several centuries, in this parish and neighbourhood.
 
-This understanding was based on his solicitaion of local knowledge and opinion:
+This understanding was based on his solicitation of local knowledge and opinion:
 
 > That is the candid opinion of all classes of persons with whom I had long conversations while investigating the matter in question for you. One intelligent old man, an octogenarian, whose ancestors had lived from time immemorial in this parish, told me that such a custom, in his opinion, could not have prevailed here at least for the last two hundred years, or he would have heard of it from his father or his grandfather, who lived to a great age. Therefore, from all the enquiries that I have made, my candid opinion is that the statements which were made by Mr. Moggridge cannot be substantiated by any reliable authority or proved by any credible evidence."
+
+As an aside, we might note that in an 1876 work on *Historical notes of the counties of Glamorgan, Carmarthen and Cardigan:*, the entry for Llandebie, starting on [page 54](https://archive.org/details/historicalnotes00rowlgoog/page/n62/mode/2up?q=llandebie) has no mention of *any* particular traditions or local customs peculiar to that location, let alone a mention of the sin-eater.
 
 Silvan Evans picks up the correspondence once again:
 
@@ -389,46 +391,28 @@ Finally, Silvan Evans' signs off with another dig at the Blackwood's author, won
 
 ## Further Correspondence Elsewhere, February, 1876
 
-In the 1876 work *Historical notes of the counties of Glamorgan, Carmarthen and Cardigan:*, the entriy for Llandebie, starting on [page 125](https://archive.org/details/historicalnotes00rowlgoog) has no mention of *any* peculiar or local customs or traditions, let alone a mention of the sin-eater.
+As the correspondence in the *Academy* picked up once again, a column on *Old Welsh Legends and Poetry*, penned by Lady Varley, appeared in the [February, 1876, edition of the *Contemporary Review*](https://babel.hathitrust.org/cgi/pt?id=chi.15561341&view=1up&seq=408&skin=2021&q1=verney), pp396-416, which made passing mention of the sin-eater tradition ([p403](https://babel.hathitrust.org/cgi/pt?id=chi.15561341&view=1up&seq=415&skin=2021&q1=verney)):
 
-
----
-
-Contemporary Review 1876 February Lady Verney ,p. 396+
-Old Welsh Legends and Poetry
-
-https://babel.hathitrust.org/cgi/pt?id=chi.15561341&view=1up&seq=408&skin=2021&q1=verney
-
-February 1876
-
-p403
-
-> ...
->
 > There is a strange superstition concerning the "sin-eater." which remains in some secluded places, perhaps the echo of the idea of substitution for sin in the Jewish scapegoat. He presents himself, professionally, at the moment of death, puts a plate containing bread and salt on the breast of the corpse, mutters an incantation, and proceeds to eat the bread, thereby "eating up the sins of the dead," and especially preventing him, or her, from “walking” after death. The man who exercises this tremendous power is a sort of pariah, detested in the neighbourhood, and does his work for half-a-crown, and sometimes even goes as low as sixpence in his demands.
->
+
+In passing, we note that Lady Varley also describes a cursing ritual that is perhaps reminiscent of the cursing ritual at St. Aelian's well.:
+
 > Another instance of the extraordinary power which, it is supposed, can be exerted by very ordinary individuals, is accomplished by throwing oneself on one's knees and repeating the Cursing Psalms, when the dreadful wishes of David for his enemies are made to cling to the person thus prayed against. “The devil can quote Scripture” indeed. This Pagan and devilish use of the Bible, and the change of name, not of nature, which has taken place in many an ancient local deity, may still be met with in Brittany, where there was a Celtic goddess of Hate, now transmogrified into "Notre Dame de la Haine." If three *Aves* are uttered at nightfall in her chapel near Treguier, winged with the proper directions against the hated person, "death happens irrevocably within the year to him or her."
->
-> ...
+
+```{admonition} Lady Varley, Sister of Florence Nightingale
+:class: seealso dropdown
 
 https://www.npg.org.uk/collections/search/person/mp04621/frances-parthenope-lady-verney (1819-1890), Writer and journalist; sister of Florence Nightingale; second wife of Sir Harry Verney, Bt
 
 https://www.jstor.org/stable/1872758
 
-
-
----
+```
 
 Over in *Bye-gones*, the running commentary continued in the [February 9th, 1876](https://journals.library.wales/view/2092910/2093610/2) edition, p15:
 
 > The Sin-Eater in Wales
 >
 > The discussion on this subject, commenced in the *Academy*, and continued in that and other papers, was fully given in *Bye-gones* towards the close of last year. Our readers will remember that the discussion arose on a challenge by a well-known and able Welshman, the Rev. D. Silvan Evans, to the write of an article in *Blackwood*, on the Folk Lore of Wales, to prove his assertion that ever such a personage as the "Sin-Eater" existed in the Principality. One or two replies appeared, referring to Aubrey, as the original authority that such an office once existed; and the writer of the article expressed his surprise that Mr Evans, whose connection with the *Archaeologia Combrensis* was well known, should not be aware that Mr Moggridge had stated at the meeting of the Cambrian Archaeological Society in 1852, that the custom had prevailed at or near Llandebie, Caermarthanshore, within five years of that date. The substance of this we gave in Dec. 1, 1875, and on Dec. 20 a letter from the *Western Mail* written, as we are no informed, by Mr John Rowlands who had been a schoolmaster at Llandebie for many years, commencing 1850, and who denied the exitence of the practice in his time, or within the memory of the oldest inhabitant. In the *Academy*, Feb. 5, 1875, Mr Silvan Evans goes fully into the matter, and gives as the result of his enquiries, a total denial of the practice as far as Wales is concerned; in the course of which he publishes a letter from the Vicar of Llandebie, who confirms all Mr Rowlands previously said. Mr Silvan Evans concludes that the "whole story of the Sin-Eater rests on the shoulders of Aubrey," and he declines to place any faith in "so credulous a person in any case in which superstition plays a part." Mr Evans also explains that his connection with the organ of the Cambrian Archaeological Society commenced twenty years after the date of Mr Moggridge's connection.
-
-
-
-
----
 
 ## The Blackwood Author Snaps Back, 1876-02-12
 
