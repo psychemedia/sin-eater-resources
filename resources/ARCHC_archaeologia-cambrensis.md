@@ -165,7 +165,8 @@ Monday, August 23rd.
 EVENING MEETING.
 
 THE business of the Association commenced at the New Buildings, at eight o’clock. In the absence of the President, the Right. Hon. the Earl Cawdor, the chair was taken by W. W. E. Wynne, Esq., M.P., Vice-President, who, on behalf of his Lordship, resigned the chair to the President elect, the Hon. R. H. Clive, M.P.
-The President then delivered his inaugural address to the Asso- ciation. He began by expressing his own diffidence in undertaking the duty of presiding over a learned body, a duty from which he would have shrunk but for the kind request of the Association, and his own desire to assist in procuring information of value and interest to the neighbourhood with which he was connected. 
+
+The President then delivered his inaugural address to the Association. He began by expressing his own diffidence in undertaking the duty of presiding over a learned body, a duty from which he would have shrunk but for the kind request of the Association, and his own desire to assist in procuring information of value and interest to the neighbourhood with which he was connected. 
 ...
 
 [Friday August 28th, 1852]
@@ -182,7 +183,7 @@ Mr. Jelinger C. Symons would like to know whether this custom of sin-eating was 
 
 The President hoped they were not entering into the history of present customs, but into the history of past events. It struck him that even at the present day when that melancholy event took place, the death of an individual, there was always a certain respect paid to the corpse; it was not closed in the coffin, but was left open for a certain time for the inspection of friends; the room was hung, the candles were lighted, and there was always a person in the room who remained during the time that exhibition took place. It was out of respect to the deceased that such ceremony took place,—he could not regard it in any other light; it had been continued from time immemorial; and, with every degree of respect he should entertain towards that custom, there was nothing in it that he could exclaim against.
 
-Mr. Jelinger C. Symons said, of course his impression was as to the custom of the "sin-eater.”" Some part of the custom appears to arise out of respect to the dead.
+Mr. Jelinger C. Symons said, of course his impression was as to the custom of the "sin-eater." Some part of the custom appears to arise out of respect to the dead.
 
 Mr. Moggridge said—Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. He thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of sin-eater and the plate and the salt. Starting from the Carmarthenshire valley, he found the most horrible portion of the custom dropped, and the rest still retained; and as he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high character, said that the custom had existed both in Herefordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw a man whom he described as the sin-eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred four or five years ago, but he believed it was extinct now. 
 
