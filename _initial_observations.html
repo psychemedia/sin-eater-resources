@@ -41,7 +41,7 @@
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script>
         const thebe_selector = ".thebe"
@@ -144,6 +144,11 @@
    Triggering the First Controversy, 1875
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_first_controversy.html">
+   The First Controversy, 1875
+  </a>
+ </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
@@ -202,7 +207,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -220,7 +225,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -274,14 +279,70 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Initial Observations</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-founding-of-the-cambrian-archaeological-association-1846-7">
+   The Founding of the Cambrian Archaeological Association, 1846-7
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-fifth-meeting-at-tenby-1851">
+   The Fifth Meeting, at Tenby, 1851
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-sixth-meeting-at-ludlow-1852">
+   The Sixth Meeting, at Ludlow, 1852
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-sin-eater-as-according-to-moggridge">
+   “The Sin-Eater”, As According to Moggridge
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#other-news-reports">
+   Other News Reports
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-official-account-according-to-archaeologia-cambrensis-1852">
+   The “Official” Account According to
+   <em>
+    Archaeologia Cambrensis
+   </em>
+   , 1852
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#following-the-meeting">
+   Following the Meeting
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="initial-observations">
 <h1>Initial Observations<a class="headerlink" href="#initial-observations" title="Permalink to this headline">¶</a></h1>
 <p>Throughout the 18th century, there flourished a wide variety of “antiquarian” societies, whose members sought to recover empirical evidence of the past, from artefacts to scholarly researched and cross-referenced facts in the classical texts of antiquity, much as a naturalist might seek to collect from evidence of particular species of insect, fungus or plant in the environment from both specimens as well as much earlier writings.</p>
-<p>Remnants of the antiquarian way still exist today in the form of family history research and local history societies, where there is still some sense of trying to recover “facts” from the past (see, for example <a class="reference external" href="https://archives.history.ac.uk/makinghistory/resources/articles/antiquarianism.html"><em>Antiquarianism and history</em>,
-Roey Sweet, 2008</a> for an informal introduction).</p>
+<p>Remnants of the antiquarian way still exist today in the form of family history research and local history societies, where there is still some sense of trying to recover “facts” from the past (see, for example <a class="reference external" href="https://archives.history.ac.uk/makinghistory/resources/articles/antiquarianism.html"><em>Antiquarianism and history</em>, Roey Sweet, 2008</a> for an informal introduction).</p>
 <p>Writing in Chapter 53, <em>“Antiquarianism and History”</em>, p. 516, of <em>A Companion to Green And Roman Historiography, J. Marincola (Ed.), 2007</em> Benedetto Bravo identifies the role of the anitiquarian as follows:</p>
 <blockquote>
 <div><p>By using the adjective “antiquarian” to discuss several forms of the study of the past as it was practiced in antiquity, we highlight implicitly the existence of a certain affinity between these forms and a major trend in European culture of the fifteenth to eighteenth centuries, namely research by <em>antiquarii</em> (“antiquarians”). Early modern antiquarians studied the <em>antiquitates</em> (“antiquities”) of the ancient world (pagan and Christian) and of the Middle Ages. By the term antiquitates they meant surviving ancient or medieval artefacts (vestiges of architecture, sculpture, coins, inscriptions, manuscripts, utensils) or institutions, customs, laws, beliefs, ancient or medieval technology – or both categories simultaneously.</p>
@@ -444,10 +505,10 @@ I remain yours faithfully,</p>
 <blockquote>
 <div><p>He had the authority of a clergyman residing at Stanton Lacy [<em>Shropshire</em>] for stating that portion of this custom had prevailed in that district until within very recent years. It did not go to the lamentable length practised Cwm Ammon, but merely comprised the plate and the salt. The custom prevailed not long ago Oxfordshire, and in Cwm Ammon it had existed until very lately. He found that about twenty years ago the plate, the salt, and the bread, were placed upon the dead at the latter place, but the “sin-eater” was not sent for ; and as they advanced towards Swansea the “sin-eater” and the bread were dispensed with, and the plate and salt only remained.</p>
 </div></blockquote>
-<p>It is not clear who the “clergyman residing at Stanton Lacy” was, but it does suggest that the tradition also existed in Shropshire. And as we shall in the later controversies, such eyewitness evidence, if such it was, may well have proved invaluable in helping settle debates about the existence of the sin-eater in that area.</p>
+<p>It is not clear who the “clergyman residing at Stanton Lacy” was, and there is no claim that the full tradition could still be found in Shropshire. If a more complete record of eyewitness testimony were available, if such it was, it may well have proved invaluable in helping settle debates about the existence of the sin-eater in that area that were to arise several decades later.</p>
 <div class="seealso admonition">
 <p class="admonition-title">A Tale of Stanton Lacy</p>
-<p>Whilst we do not know what stories the “clergyman residing at Stanton Lacy” might have told, a tale of another clergyman of Stanton Lacy is recorded.</p>
+<p>Whilst we do not know what stories the “clergyman residing at Stanton Lacy” might have told, various tales of another, rather coourful, clergyman of Stanton Lacy are recorded.</p>
 <p><a class="reference external" href="https://en.wikipedia.org/wiki/Robert_Foulkes">https://en.wikipedia.org/wiki/Robert_Foulkes</a></p>
 </div>
 <p>Another clergyman, also unnamed, appears to offer evidence of a related ritual a little further to the south, and still in current practice:</p>
@@ -486,7 +547,7 @@ I remain yours faithfully,</p>
 </div></blockquote>
 <p>Mr. Symons, Esq., reassured the President as the focus of his attention, whilst also acknowledging the contemporary view of the President:</p>
 <blockquote>
-<div><p>JELINGER C. Symons, Esq.- -Of course my impression was as to the custom of the sin-eater. Some part the custom appears arise out of respect for the dead.</p>
+<div><p>JELINGER C. Symons, Esq.- -Of course my impression was as to the custom of the “sin-eater”. Some part the custom appears arise out of respect for the dead.</p>
 </div></blockquote>
 <p>Mr Moggridge then tried to regain control of the discussion:</p>
 <blockquote>
@@ -527,7 +588,7 @@ I remain yours faithfully,</p>
 <blockquote>
 <div><p>After some few observations from H. Hodges Hughes, Esq., and W. W. E Wynne Esq.</p>
 </div></blockquote>
-<p>Whatever those observations were, they were seemingly not thought substantive enough to be reporteed by the Shrewsbury Chronicle.</p>
+<p>Whatever those observations were, they were seemingly not thought substantive enough to be reported by the Shrewsbury Chronicle.</p>
 <blockquote>
 <div><p>The President moved a vote of thanks to Mr Moggridge, which was warmly accorded by the meeting.</p>
 </div></blockquote>
@@ -545,7 +606,7 @@ I remain yours faithfully,</p>
 <p>The Hereford Times, in its <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007">Saturday, September 4th, 1852</a> edition only gave scant mention of the J. O. Morgan’s paper on “The History of the Parish of Carno, Montogomeryshore”, but described at length the discussion on “The Municipal Records of Ludlow”, presumably based on local interest. For the most part, its report on the sin-eater discussion closely followed the one previously described:</p>
 <blockquote>
 <div><p>M. MOGGRIDGE Esq., made some remarks upon a singular custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this—when party died, a person known by the name of “the sin-eater was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.</p>
-<p>Mr. Allen remarked that there still existed a cu»tom in Wales of placing a candle in salt, and burning it in the chamber of deceased person. Was this in any way connected with the custom just described? It was a popular notion that the candle stuck in salt would scare away the evil spirit, and it was usual for the friends of the deceased to watch the corpse for a certain period.</p>
+<p>Mr. Allen remarked that there still existed a custom in Wales of placing a candle in salt, and burning it in the chamber of deceased person. Was this in any way connected with the custom just described? It was a popular notion that the candle stuck in salt would scare away the evil spirit, and it was usual for the friends of the deceased to watch the corpse for a certain period.</p>
 <p>The Rev. J. B. James reminded the meeting of the of this custom—the scape goat.</p>
 <p>Mr. Symons wished to understand distinctly whether this custom still prevailed, and if so, what extent. It was to be hoped that, for the credit of religion in this country, the custom was extinct. To send missionaries abroad to convert the heathen when a state of things disgusting and abhorrent existed at home, was perfect farce. The mere practice of putting salt on the bodies of corpses to prevent decomposition was a distinct custom, and totally irrelevant to the subject of this discussion.
 The President considered that the object of the inquiry was that we might understand the and practices of the past. When a corpse lay state, there was always person appointed to remain with it during that exhibition. He viewed that only a mark respect to the deceased. He apprehended that, so far as explanation could now be given, may some way have arisen from practice.</p>
@@ -570,11 +631,12 @@ The President considered that the object of the inquiry was that we might unders
 <blockquote>
 <div><p>In Caermarthenshire, not far from Llandebie, was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the above practice was said to have prevailed to a recent period, and going thence to those parts of the country where, from the establishment of works, and from other causes, the people had more early become enlightened, he found the more absurd portions of the custom had been abandoned, while some still remained.</p>
 </div></blockquote>
-<p>Here we have mention of a particular place, <em>Llandebie</em>, midway between Dinefwr and Ystalyfera, as mentioned by Ceri Phillips in his story,</p>
+<p>Here we have mention of a particular place, <em>Llandebie</em>, midway between Dinefwr and Ystalyfera, as mentioned by Ceri Phillips in his story. But there is no mention here of who was “said to have claimed”* that the tradition had prevailed.</p>
+<p>Moggridge then went on:</p>
 <blockquote>
 <div><p>Thus near Llanon <code class="docutils literal notranslate"><span class="pre">[there</span> <span class="pre">is</span> <span class="pre">a</span> <span class="pre">Llanon</span> <span class="pre">just</span> <span class="pre">down</span> <span class="pre">the</span> <span class="pre">coast</span> <span class="pre">from</span> <span class="pre">Aberystwyth]</span></code>, within twenty years, the plate, salt and bread were retained, —near Swansea (and indeed very generally) only the plate and salt. In a parish near Chepstow <code class="docutils literal notranslate"><span class="pre">[in</span> <span class="pre">the</span> <span class="pre">county</span> <span class="pre">of</span> <span class="pre">Monmouthshire,</span> <span class="pre">on</span> <span class="pre">the</span> <span class="pre">Welsh</span> <span class="pre">borders]</span></code> it was usual to make the figure of a cross on the salt, and cutting an apple or an orange into quarters, to put one piece at each termination of the lines.</p>
 </div></blockquote>
-<p>Ah, this seems a little less unusual: <em>an apple or an orange</em>. Perhaps the Shrewsbury Chronicler misread their own handwriting? We might also note that there has also been no mention of a certain “clergyman residing at Stanton Lacy”.</p>
+<p>Ah, this seems a little less unusual: <em>an apple or an orange</em>. Perhaps the Shrewsbury Chronicler misread their own handwriting, or the typesetter made an error in setting the type? We might also note that there has also been no mention of a certain “clergyman residing at Stanton Lacy”.</p>
 <p>The “official” report then goes on to describe some of the other differences noted by Mr. Moggridge, including the evidence of the mysterious “Aubrey” mentioned, but not quoted, in the Shrewsbury Chronicle account:</p>
 <blockquote>
 <div><p>There were other slight variations in those parts of the custom still extant, as indeed variations existed in old times when it prevailed in all its profane absurdity, an instance of which might be found-in the adjoining county, as mentioned by Aubrey in the Lansdowne MSS. at the British Museum. (See <em>Hone’s Year Book</em>, p. 858.)</p>
@@ -685,8 +747,8 @@ Dublin.</p>
 
               </div>
               
-        
-            <!-- Previous / next buttons -->
+            
+                <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
     <a class='left-prev' id="prev-link" href="_beginning.html" title="previous page">
         <i class="fas fa-angle-left"></i>
@@ -703,19 +765,17 @@ Dublin.</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-        
+            
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Tony Hirst<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Tony Hirst<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 

@@ -41,7 +41,7 @@
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script>
         const thebe_selector = ".thebe"
@@ -144,6 +144,11 @@
    Triggering the First Controversy, 1875
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_first_controversy.html">
+   The First Controversy, 1875
+  </a>
+ </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
@@ -202,7 +207,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -220,7 +225,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -272,7 +277,62 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>The Road to Ludlow</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#hone-s-year-book-1832">
+   Hone’s Year Book, 1832
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#leland-s-collectanea-1774">
+   Leland’s
+   <em>
+    Collectanea
+   </em>
+   , 1774
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#from-aubrey-to-the-british-library">
+   From Aubrey to the British Library
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#brand-s-observations-on-popular-antiquities-1777">
+   Brand’s
+   <em>
+    Observations on Popular Antiquities
+   </em>
+   , 1777
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#brand-s-popular-antiquities-edited-by-ellis-1813">
+   Brand’s
+   <em>
+    Popular Antiquities
+   </em>
+   , edited by Ellis, 1813
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="the-road-to-ludlow">
@@ -366,7 +426,7 @@
 </div>
 <div class="section" id="leland-s-collectanea-1774">
 <h2>Leland’s <em>Collectanea</em>, 1774<a class="headerlink" href="#leland-s-collectanea-1774" title="Permalink to this headline">¶</a></h2>
-<p>Regarding the “letter from John Bagford” in <em>Leland’s Collectanea</em>, it first seems to appear in the second edition of <em>Joannis Lelandi antiquarii De rebvs britannicis collectanea</em>](<a class="reference external" href="https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up">https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up</a>), edited by Thomas Hearne, and published in 1774, as “A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.</p>
+<p>Regarding the “letter from John Bagford” in <em>Leland’s Collectanea</em>, it first seems to appear in the second edition of <a class="reference external" href="https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up"><em>Joannis Lelandi antiquarii De rebvs britannicis collectanea</em></a>, edited by Thomas Hearne, and published in 1774, as “A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Thomas Hearne</p>
 <p><a class="reference external" href="https://en.wikipedia.org/wiki/Thomas_Hearne_(antiquarian)">Thomas Hearne</a> (1678-1735) was an English diarist, scholar and antiquary from Berkshire.</p>
@@ -521,8 +581,8 @@ Praetendere lintea mos est.<br />
 
               </div>
               
-        
-            <!-- Previous / next buttons -->
+            
+                <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
     <a class='left-prev' id="prev-link" href="_initial_observations.html" title="previous page">
         <i class="fas fa-angle-left"></i>
@@ -539,19 +599,17 @@ Praetendere lintea mos est.<br />
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-        
+            
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Tony Hirst<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Tony Hirst<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 

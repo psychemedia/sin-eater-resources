@@ -41,7 +41,7 @@
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script>
         const thebe_selector = ".thebe"
@@ -144,6 +144,11 @@
    Triggering the First Controversy, 1875
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_first_controversy.html">
+   The First Controversy, 1875
+  </a>
+ </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
@@ -202,7 +207,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -220,14 +225,24 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
         </div>
     </div>
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Interim - 1854-1874</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="interim-1854-1874">
@@ -237,8 +252,8 @@
 <div class="dropdown admonition">
 <p class="admonition-title">Corpse Candles (Roscoe citing <em>Mountain Decameron</em>)</p>
 <blockquote>
-<div><p>We are apt to marvel at accounts of odd ceremonies and customs in other lands, without knowing half the peculiar habits and ancient rites still practised within the boundaries of our own country ; many of which, especially among the Welsh, may be traced to the highest antiquity.
-The familiar superstitions of Wales are becoming gradually fainter and fainter ; but it is notorious that in this county they were more rife than in almost any other in Wales, and that not only amongst the uneducated portion of its inhabitants, but including those who, from their rank in society, might have been considered superior to the delusions of their age. John Lewis, Esq., a magistrate, residing near Aberystwith, writing, in the year 1656, to a clergyman, relates several stories of apparitions, and the <em>Canwyll Corph</em>, or corpse candles, with a minuteness and simplicity which show his entire belief in his narratives. The Rev. John Davis, a minister, in Cardiganshire, has written down the order which seems to regulate this superstition : — “We call them” saith he, “corpse candles, not that we see anything besides the light, but yet it resembles a material candlelight, as much as eggs do eggs, only they sometimes appear and instantly disappear : for, if one comes near them, or on the way against them, unto him they vanish ; but presently appear behind him, and hold on their course. If it be a little candle, pale and bluish, then follows the corpse of an abortive, or some infant. If a big one, then the corpse of some one come to age. If two, three, or more, great and little, be seen together, then so many and such corpse will follow together. If two candles come from divers places, and be seen to meet, the corpse will do the like. If any of these candles seem to turn out of the way or path that leads to the church, the following corpse will be found to turn in some place, for the avoiding some dirty lane, plash, &amp;c.”</p>
+<div><p>We are apt to marvel at accounts of odd ceremonies and customs in other lands, without knowing half the peculiar habits and ancient rites still practised within the boundaries of our own country ; many of which, especially among the Welsh, may be traced to the highest antiquity.</p>
+<p>The familiar superstitions of Wales are becoming gradually fainter and fainter ; but it is notorious that in this county they were more rife than in almost any other in Wales, and that not only amongst the uneducated portion of its inhabitants, but including those who, from their rank in society, might have been considered superior to the delusions of their age. John Lewis, Esq., a magistrate, residing near Aberystwith, writing, in the year 1656, to a clergyman, relates several stories of apparitions, and the <em>Canwyll Corph</em>, or corpse candles, with a minuteness and simplicity which show his entire belief in his narratives. The Rev. John Davis, a minister, in Cardiganshire, has written down the order which seems to regulate this superstition : — “We call them” saith he, “corpse candles, not that we see anything besides the light, but yet it resembles a material candlelight, as much as eggs do eggs, only they sometimes appear and instantly disappear : for, if one comes near them, or on the way against them, unto him they vanish ; but presently appear behind him, and hold on their course. If it be a little candle, pale and bluish, then follows the corpse of an abortive, or some infant. If a big one, then the corpse of some one come to age. If two, three, or more, great and little, be seen together, then so many and such corpse will follow together. If two candles come from divers places, and be seen to meet, the corpse will do the like. If any of these candles seem to turn out of the way or path that leads to the church, the following corpse will be found to turn in some place, for the avoiding some dirty lane, plash, &amp;c.”</p>
 </div></blockquote>
 </div>
 <div class="dropdown admonition">
@@ -284,13 +299,13 @@ The familiar superstitions of Wales are becoming gradually fainter and fainter ;
 <p>The reference to <em>Once a Week</em> seems to be a reference to a column in another publication. But which one?</p>
 </div>
 <p>The same tale, similarly credited, also appears on page 3 of <em>The Welshman</em> of <a class="reference external" href="https://newspapers.library.wales/view/4351919/4351922/10/">December 12th, 1862</a>, and in the <em>Hereford Journal</em> on the same date.</p>
-<p>A new column, which we might reasonably turn to in search of for further stories, appeared in the Oswestry Advertiser, as well as under its own banner, <em>Bye-gones</em>, on <a class="reference external" href="https://journals.library.wales/view/2092910/2092920/#?xywh=-22%2C192%2C2833%2C1868">October 4th, 1871</a>. It was initially edited by one John Askew Roberts.</p>
+<p>A new column, which we might reasonably turn to in search of for further stories, appeared in the Oswestry Advertiser, as well as under its own banner, <em>Bye-Gones</em>, on <a class="reference external" href="https://journals.library.wales/view/2092910/2092920/#?xywh=-22%2C192%2C2833%2C1868">October 4th, 1871</a>. It was initially edited by one John Askew Roberts.</p>
 <blockquote>
 <div><p>We purpose devoting a column, more or less, each week to the publication of NOTES, QUERIES, and REPLIES, of bye-gone events, interesting to North Wales and its Borders. To enable us to make the column interesting – as well as valuable to future historians, we respectfully invite the co-operation of our readers, in the supply of queries and of replies – in the loan of old pamphlets, fly-sheets, and newpapers; and where practicable, in files of old letters or other M.S.S.</p>
 <p>We need scarcely say that all documents submitted to the editor of this column will be most carefully treated, and promptly returned. All communications for the column must be addressed ‘Bye-gones, Caxton Works, Oswestry.’</p>
 <p>Correspondents are reminded that the space at our disposal is limited, so they must not be disappointed if their communications are sometimes withheld a week or two. Correspondents are also requested to send their real names and addresses, not necessarily for publication but as a guarantee of good faith.</p>
 </div></blockquote>
-<p>We might reasonably expect such a publication, a “hyper-local” version of <em>Notes &amp; Queries</em> to make passing mention, at least, of the sin-eater tradition, but there are no mentions in its early editions.</p>
+<p>In its coverage of folklore, we might reasonably expect such a publication, a “hyper-local” version of <em>Notes &amp; Queries</em> to make passing mention, at least, of the sin-eater tradition; but there are no mentions in its early editions.</p>
 <p>There is, however, an early tale remembering an encounter with a corpse candle, in the <a class="reference external" href="https://journals.library.wales/view/2092910/2092952/7#?xywh=-478%2C-702%2C5026%2C3315">February, 1872</a> edition, p. 36:</p>
 <blockquote>
 <div><p>I never heard of ‘Grwn’ death token mentioned by <em>edromo</em>, but I remember, some years ago, a highly intelligent inhabitant of Criggion, Montgomeryshire, telling me that when he was a bot, upon one occasion, during a vey heavy snow, his mother called him to her as she went up the stars one night to bed, and pointed out to him a light proceeding slowly from a neighbouring farmhouse in the direction of the church. A servant coming up the stairs at the time was also witness to it. The light traversed a line where there was no road or gate into the churchyard, and in a moment or two all the windows of the church were lighted up, and then gradually the light went back by the course it had come, and vanished in the neighbouring farmhouse. They knew, I believe, that their neighbour the farmer was unwell, but the snow was so deep that it was not until the second day that they heard he had died at the very time they saw the light. The snow continued, and the roads became more and more blocked, so that on the day of the funeral it was found to be impossible to take the procession by the ordinary course; so a portion of the churchyard wall was taken down, and the bier was carried through the opening. That portion was the very spot at which my friend saw the light cross on the evening of the death. –Jarco.</p>
@@ -327,8 +342,8 @@ The familiar superstitions of Wales are becoming gradually fainter and fainter ;
 
               </div>
               
-        
-            <!-- Previous / next buttons -->
+            
+                <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
     <a class='left-prev' id="prev-link" href="_decameron_other_missed_opportunities.html" title="previous page">
         <i class="fas fa-angle-left"></i>
@@ -345,19 +360,17 @@ The familiar superstitions of Wales are becoming gradually fainter and fainter ;
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-        
+            
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Tony Hirst<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Tony Hirst<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 

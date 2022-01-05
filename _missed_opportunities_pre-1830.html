@@ -41,7 +41,7 @@
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script>
         const thebe_selector = ".thebe"
@@ -144,6 +144,11 @@
    Triggering the First Controversy, 1875
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_first_controversy.html">
+   The First Controversy, 1875
+  </a>
+ </li>
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
@@ -202,7 +207,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -220,7 +225,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -279,7 +284,69 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Missed Opportunities, Prior to 1830</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#pennant-s-tours-in-wales-1783">
+   Pennant’s
+   <em>
+    Tours in Wales
+   </em>
+   , 1783
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bingley-s-north-wales-1804">
+   Bingley’s
+   <em>
+    North Wales
+   </em>
+   , 1804
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#jorevin-s-description-of-england-and-ireland-in-the-antiquarian-repertory-1775">
+   Jorevin’s “Description of England and Ireland” in
+   <em>
+    The Antiquarian Repertory
+   </em>
+   , 1775
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#fosbroke-s-ariconensia-archaeological-sketches-of-ross-and-archenfield-1821">
+   Fosbroke’s
+   <em>
+    Ariconensia / Archaeological sketches of Ross and Archenfield
+   </em>
+   , 1821
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#further-channelling-of-popular-antiquities">
+   Further Channelling of
+   <em>
+    Popular Antiquities
+   </em>
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="missed-opportunities-prior-to-1830">
@@ -300,7 +367,6 @@
 <div><p>THE well of St. Aelian, a parish not far from Llandrillo in Caernarvonshire, has been in great repute for the cures of all diseases, by means of the intercession of the saint; who was first invoked by earnest prayers in the neighboring church. He was also applied to on less worthy occasions, and made the instrument of discovering thieves, and of recovering stolen goods. Some repair to him to imprecate their neighbors, and to request the saint to afflict with sudden death, or with some great misfortune, any persons who may have offended them. The belief in this is still strong; for three years have not elapsed since I was threatened by a fellow (who imagined I had injured him) with the vengeance of St. Aelian, and a journey to his well to curse me with effect.</p>
 </div></blockquote>
 <p>In this case, it seems that prayers at to a holy well associated with St Aelian can be used to call forth a curse on one who has wronged the person uttering the imprecation. It’s not clear what the process for “discovering thieves” is, but I am intrigued to find out.</p>
-<p>Further observations ascribed to Pennant appear in</p>
 </div>
 <div class="section" id="bingley-s-north-wales-1804">
 <h2>Bingley’s <em>North Wales</em>, 1804<a class="headerlink" href="#bingley-s-north-wales-1804" title="Permalink to this headline">¶</a></h2>
@@ -546,8 +612,8 @@ To buy him a Hunting Nag—</p>
 
               </div>
               
-        
-            <!-- Previous / next buttons -->
+            
+                <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
     <a class='left-prev' id="prev-link" href="_mazard_bowl.html" title="previous page">
         <i class="fas fa-angle-left"></i>
@@ -564,19 +630,17 @@ To buy him a Hunting Nag—</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-        
+            
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Tony Hirst<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Tony Hirst<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 
