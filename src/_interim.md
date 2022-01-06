@@ -24,7 +24,7 @@ In Thomas Roscoe's [*Wanderings and excursions in South Wales, with the scenery 
 > "More terrible and forcible in mournful conception is the strange being that crosses the twilight path of the Welsh mountaineer, and which warns him by its mere presence, of a death in his house near at hand. The *Cyoewraeth* is the likeness of a woman, frightfully cadaverous of visage, bringing all the festering horror of a three weeks' burial, in its grim yet not utterly disfeatured loathsomeness, abroad into the world of life, divulging the foulest secrets of the grave ! This *form* stands direct in some lonesome path of the startled person, tossing her long grisly arms in the air, and wringing her earthy lengths of wasted hand, and, shaking down her already worm-beset hair over her eye-holes, and their sunken dead-lights fixed upon his, steady as the basilisk's on its prey, but gloomy, — sets up such a cry of wild weeping, and utters two words only, so terrible in their power, that they for the moment arrest the moving blood in the veins of the hearer — the Welsh words signifying 'Oh, my wife !' or, 'Oh, my husband !' according to the sex of the short-lived object of its fatal forewarning.
 ```
 
-At page 52-4, Roscoe also quotes the description of the sin-eater.
+At [page 52-4](https://archive.org/details/wanderingsandex01roscgoog/page/n80/mode/2up?q=obsolete), Roscoe also quotes the description of the sin-eater.
 
 ```{admonition} *Sin-eater* (Roscoe citing *Mountain Decameron*)
 :class: dropdown
