@@ -1,7 +1,7 @@
 
 https://archive.org/details/remainesgentili01aubrgoog/page/n40/mode/2up
 
-John Aubrey, ‘Remaines of Gentilisme’
+John Aubrey, 'Remaines of Gentilisme'
 1881
 
 p?
@@ -34,6 +34,10 @@ James Britten
 Isleworth, February 1881
 
 ---
+
+https://archive.org/details/remainesgentili01aubrgoog/page/n40/mode/2up
+
+John Aubrey, 'Remaines of Gentilisme'
 
 1881
 
@@ -70,6 +74,10 @@ Sinne-eaters*  p24
 It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford, where at the burial of every corps one cake and one flaggon of Ale just after the interrment were brought to the minister in the Ch. porch. W. K.
 
 ---
+
+https://archive.org/details/remainesgentili01aubrgoog/page/n40/mode/2up
+
+John Aubrey, 'Remaines of Gentilisme'
 
 1881
 
