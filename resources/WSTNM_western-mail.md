@@ -84,6 +84,24 @@ That; this meeting regrets to find that Mr. John Row- lands, better known as t.G
 
 
 
+
+---
+https://newspapers.library.wales/view/4322943/4322949/83/
+
+The Western Mail
+22nd January 1892
+
+p6
+
+Wales Day By Day
+
+...
+
+An attractive programme of lectures has been arranged for the next session of the Cynimro- dorion Society, which begins this week. tlr. J. W. Wiiiis-Bund will lead off with a paper on "The Early History of the Welsh Church." Air. Sidney Hartland, formerly of Swansea, will follow with one on "'Iho Sin Eater," which will have a peculiar interest for folk-lorists
+
+...
+
+
 ----
 
 
@@ -95,12 +113,8 @@ p?
 Correspondence?
 The interesting discussion which followed Captain Hinde's paper on cannibalism before the anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in the course of his comments to an old custom which obtained in Wales in times gone by, and which was called "sin-eating." As late as 1851 traces of it still survived in the Swainsea Valley, and it would he worthwhile inquiring whether they have completely disappeared. The "sin-eater" was the individual who literally "took the cake" at the death of a neighbour, and in consumling it was supposed to "eat" the sins of the deceased. The custom was a relic of barbarism, and shows with whlat tenacity old beliefs and institutions hold on. The student of men and his ways must feel regret that so many ancient customs and usages have been relegated to oblivion, beyond any possibility of re-call. But it was hardly expected that they should have survived in a country like Wales, which has given itself over to the Sunday school and the Bible. It is a mistaken policy, however, to drive out ancient customs, for they form links between the present and the past, and relieve modern social life of much of the monotony which enters into its very texture.
 
+
 ---
-
-
-
-
-----
 
 
 https://newspapers.library.wales/view/4330397/4330401/50/
@@ -114,72 +128,6 @@ Wales Day BY Day
 
 ...
 Aubrey, writing about the middle c! ths seventeenth century, remarks that, "in the strictest time of Presbyterian government, one very singular oustom was prevalent in many parts of rural England and Wales: — "In Shropshire when a person died, there was notice given to an old 'siro' (for S4 they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, where soaic of the family furnished him with a cricket or stool, on which he sat down faoing ihe (iccr. Then they gave him a groat, which he put in his pocket, a crust of bread, which he ate, and a bowl of ale, which he drank off at one draught. After this he got up I the cricket, and pronounced with a composed I gesture 'the peace and rest of the soul departed, for which he would pawn his own soul. A similar scene is also recorded at Ross, about 1640, when the local "sin- eater," long, lean, lamentable pool nwoal," came, "when the corpse was taken out of the home and laid upon a bier and received a loaf of bread, and a mazard I bowl of maple fuil of beer (which he was ta drink up), and tixpence in money, in con- sideration of which he took upon him, faoto,' a'l the sins of the defunct, and freed him or r from walking after they wort dCld. 1' is noticeable (remark* a wriis* :n the "Giobe") that the "sin-eater's" fes was 2d. dearer in Herefordshire than ia Shropshire, but it is not recorded whether I this arose from ti fact that people wew wickeder in the fmrntt than th* laWsr conntjt
-
----
-
-
-https://newspapers.library.wales/view/4333313/4333320/113/sin%20eater
-The Western Mail
-8th October 1895
-p?
-THE SIN-EATER. I LETTER FROM "GWYNFARDD I DYFED." In reply to Mr. E. Sidney Hartland's letter on this subject which appeared in OUr i"ue of September 25 last, "Gwynlardd Dyfcdd" 'w?°: "J regret that, owing to my having been in a weak state of health reoontly, I have been unable before to give Mr. Hartland the be f ore to g i vl, additional information which he re- quires in support of the statements adduced in my article on the sin-eater in Wales. It give* me much pleasure to find that Mr. Hart* land was greatly interested in my contribution to the NKutty literature on the sub'ject of the alleged prevalence in bygone daysof this sin- eating custom in the Prinoipality and on its borders. Students of Welsh antiquities may like to know that the works quoted from by me on the subject are as \inder:—Pr>. 52, 53, and 54 of anderinlCS and Excursions in South Wales: With the Scenery of the River Wye,' by Thomas Roscoe. Eenuire. published in 1854 hv Mr. Henry G. Bohu. York-street, Covent Garde;), also Pn. 92 and 166 of Part II, of C-Vmru rn-Xotes and Queries Relating to the Vast Historv of Wales and Border Coun- ties,' published in 1888 by Messrs. Daniel Owen and Co. (Limited), of St. Mary-street, Cardiff. In these notes in Cymru Fu M the writers on this subiect in turn draw their in- formation from Favton Hood's Christmas Kvans, and from 'Blackwood* {November, 1875). By consulting tlie.se sources as well, Mr. Hartland may come aerQ6g 1110re matter l'datin to this curious and superstitious custom, now cob,olet. Possibly, do thorough investigation of the matter would result in much more .abc)]t it being brought to light. If a f,? (,f th., old", wpl,, in the neig h ?.ur h m d of Cw?nim?tii, in Gia- morganshire, wero interviewed, 6urdy Home folk-lore respecting the sin-eater might be ob. tained. I have talked to several old Pern, brokeshire folk about the practice, but they appear to know nothing of ?vch a custom; they, however, tell w that the plate of salt- i tftdl used in 3 great many eases. Thi*, too, hU8 come \vat3iin my own personal expe- rience. It is a pewtrr plate that is mostly u,.oo, if one -,h can be >(01. One old lady, now deceafted, u*ed t-o keep a pewter plate wihiah fJhe woe in the habit, 01 lending out for tihe purpose. It was also customary in the same county to plac" coins upon the eyelids of oorpses to keep their evps closed. Are the coins 1l11d the plate 0: --alt all mere relies of t&tfk =>in-fci.tinir custtora, or does their use pœses. any real efficacyV This important question is om- whiM the 111JCdical man could assist the antiquary by answering."
-
-
----
-
-
-https://newspapers.library.wales/view/4333367/4333373/114/sin%20eater
-The Western Mail
-15th October 1895
-p6
-
-THE SIN-EATER IN WALRI A column of the Times" of Monday occupied with a letter from Mr E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent. N, W. Thomas, who denied the existenceof the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years and of the Rev. T. Eynon Davies in the "Christian World" of Febuary, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
-
-
-
----
-
-
-https://newspapers.library.wales/view/4333385/4333389/37/
-The Western Mail
-17th October 1895
-p4
-Editorial Comments
-Quite a serious controversy has been waged in our oolumus, as well as those of the "Times," on the subject of the "Sin-eater" in Wales. The function of this individual is alleged to have been to attend funerals and consllm the sins oJ the defunct with cakts, washed doirn with nut-brown ale. It is alleged that sin-eating took place as late as 1852 at the village of Llandebie, in Car- marthenshire. Tiie matter was investigated by Silvan Evans, the lexicograplier, as well as the latf "Giraldus" (who was resident there at the very time), and wtlio buth failed to discover any foundation for the story. Still, the evidence for the "Sin-eater'' is not thus wholly got rid of, and equally extraordinary superstitions are to be met with in England and in other countries, so that no stone can reasonably be thrown at the Celt even if he did indulge these barbarous exeroises, relics as they are of a dark and credulous age.
-
-
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000104/18951017/005/0003
-
-Western Mail
-Thursday 17 October 1895
-p?
-
-THE "SIN-EATER" IN WALES
-
-TO THE: EDITOR OF THE WESTERN MAIL.
-
-Sir-
-A natural interest in thle place of my a birth prmopts me to ask you to give the death-blow, once for all, to the absurd figment which I find re-produced in the "Western Mail" of this mornin-g viz., that. "the superstition of the 'sin-eater' lingered even till 1881 in the secluded Vale of Cwmamman, in Carmarthenshire." When the late Mr. Paxton Hood first gave currency to the report in his "Life of Christinmas Evans", I, as well as others, asked some of the oldest reesidents of the place, whose memory reached back over 70 years, as to the truth of it, and they had never heard of the custom, which was said to prevail in their midst up to 1881. The late Dr. Rees, of Swansea, also naturally concerned that such a barbarous custom should be said to be practised by his countrymen towards the end of the nineteenth century, made the same inquiries, with the same result. I am not claiming for the secluded place of my birth an undue degree of enlightenment in asking you to "scotch " if it be hopeless to destroy entirely, the absurd idea which would, place it on a level with the most heathenish vas villages of Central Africa. -I am, &c.
-
-J. LL. THOMAS, Vicar of Aberpergwm.
-
----
-
-
-
-
-https://newspapers.library.wales/view/4333844/4333849/68/
-
-The Western Mail
-16th December 1895
-p5
-
-??Also mis-cited in matter of letter from RHEIDIOL, correct reference is: The Aberystwith Observer 18th December 1875 p3
-
-The sin-eater controversy did not end w it disappeared from theee oolumns. The "Tim, the "Aoademv." and one of the Bir- minm papers opened their columns to the disoMewton. and now a volume has appeared, entailed, "Tlie Sim-Bater, and Other Stories,* by Miss Fiona Maoleod. of which a reviewer says "she (the authoress) has oaught in too SIIIOIU degree the spirit of the Celt, with its gloom and superstition, its fixity of purpose, it hardiness cwd nobility.
 
 ---
 
@@ -216,5 +164,93 @@ I am &c..
 E. SIDNEY HARTLAND
 Highgarth, Gloucester.
 
+
 ---
+
+
+https://newspapers.library.wales/view/4333313/4333320/113/sin%20eater
+The Western Mail
+8th October 1895
+p?
+THE SIN-EATER. I LETTER FROM "GWYNFARDD I DYFED." In reply to Mr. E. Sidney Hartland's letter on this subject which appeared in OUr i"ue of September 25 last, "Gwynlardd Dyfcdd" 'w?°: "J regret that, owing to my having been in a weak state of health reoontly, I have been unable before to give Mr. Hartland the be f ore to g i vl, additional information which he re- quires in support of the statements adduced in my article on the sin-eater in Wales. It give* me much pleasure to find that Mr. Hart* land was greatly interested in my contribution to the NKutty literature on the sub'ject of the alleged prevalence in bygone daysof this sin- eating custom in the Prinoipality and on its borders. Students of Welsh antiquities may like to know that the works quoted from by me on the subject are as \inder:—Pr>. 52, 53, and 54 of anderinlCS and Excursions in South Wales: With the Scenery of the River Wye,' by Thomas Roscoe. Eenuire. published in 1854 hv Mr. Henry G. Bohu. York-street, Covent Garde;), also Pn. 92 and 166 of Part II, of C-Vmru rn-Xotes and Queries Relating to the Vast Historv of Wales and Border Coun- ties,' published in 1888 by Messrs. Daniel Owen and Co. (Limited), of St. Mary-street, Cardiff. In these notes in Cymru Fu M the writers on this subiect in turn draw their in- formation from Favton Hood's Christmas Kvans, and from 'Blackwood* {November, 1875). By consulting tlie.se sources as well, Mr. Hartland may come aerQ6g 1110re matter l'datin to this curious and superstitious custom, now cob,olet. Possibly, do thorough investigation of the matter would result in much more .abc)]t it being brought to light. If a f,? (,f th., old", wpl,, in the neig h ?.ur h m d of Cw?nim?tii, in Gia- morganshire, wero interviewed, 6urdy Home folk-lore respecting the sin-eater might be ob. tained. I have talked to several old Pern, brokeshire folk about the practice, but they appear to know nothing of ?vch a custom; they, however, tell w that the plate of salt- i tftdl used in 3 great many eases. Thi*, too, hU8 come \vat3iin my own personal expe- rience. It is a pewtrr plate that is mostly u,.oo, if one -,h can be >(01. One old lady, now deceafted, u*ed t-o keep a pewter plate wihiah fJhe woe in the habit, 01 lending out for tihe purpose. It was also customary in the same county to plac" coins upon the eyelids of oorpses to keep their evps closed. Are the coins 1l11d the plate 0: --alt all mere relies of t&tfk =>in-fci.tinir custtora, or does their use pœses. any real efficacyV This important question is om- whiM the 111JCdical man could assist the antiquary by answering."
+
+
+---
+
+
+https://newspapers.library.wales/view/4333367/4333373/114/sin%20eater
+The Western Mail
+15th October 1895
+p6
+
+THE SIN-EATER IN WALRI A column of the Times" of Monday occupied with a letter from Mr E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent. N, W. Thomas, who denied the existenceof the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years and of the Rev. T. Eynon Davies in the "Christian World" of Febuary, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
+
+
+
+---
+
+
+https://newspapers.library.wales/view/4333385/4333389/37/
+The Western Mail
+17th October 1895
+p4
+Editorial Comments
+Quite a serious controversy has been waged in our oolumus, as well as those of the "Times," on the subject of the "Sin-eater" in Wales. The function of this individual is alleged to have been to attend funerals and consllm the sins oJ the defunct with cakts, washed doirn with nut-brown ale. It is alleged that sin-eating took place as late as 1852 at the village of Llandebie, in Car- marthenshire. Tiie matter was investigated by Silvan Evans, the lexicograplier, as well as the latf "Giraldus" (who was resident there at the very time), and wtlio buth failed to discover any foundation for the story. Still, the evidence for the "Sin-eater'' is not thus wholly got rid of, and equally extraordinary superstitions are to be met with in England and in other countries, so that no stone can reasonably be thrown at the Celt even if he did indulge these barbarous exeroises, relics as they are of a dark and credulous age.
+
+
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000104/18951017/005/0003
+
+Western Mail
+Thursday 17 October 1895
+p?
+
+THE "SIN-EATER" IN WALES
+
+TO THE: EDITOR OF THE WESTERN MAIL.
+
+Sir-
+A natural interest in thle place of my a birth prmopts me to ask you to give the death-blow, once for all, to the absurd figment which I find re-produced in the "Western Mail" of this mornin-g viz., that. "the superstition of the 'sin-eater' lingered even till 1881 in the secluded Vale of Cwmamman, in Carmarthenshire." When the late Mr. Paxton Hood first gave currency to the report in his "Life of Christinmas Evans", I, as well as others, asked some of the oldest reesidents of the place, whose memory reached back over 70 years, as to the truth of it, and they had never heard of the custom, which was said to prevail in their midst up to 1881. The late Dr. Rees, of Swansea, also naturally concerned that such a barbarous custom should be said to be practised by his countrymen towards the end of the nineteenth century, made the same inquiries, with the same result. I am not claiming for the secluded place of my birth an undue degree of enlightenment in asking you to "scotch " if it be hopeless to destroy entirely, the absurd idea which would, place it on a level with the most heathenish vas villages of Central Africa. -I am, &c.
+
+J. LL. THOMAS, Vicar of Aberpergwm.
+
+
+---
+
+
+https://newspapers.library.wales/view/4333844/4333849/68/
+
+The Western Mail
+16th December 1895
+p5
+
+
+Wales Day By Day
+
+The sin-eater controversy did not end when it disappeared from these columns. The "Times", the "Academy," and one of the Birmingham papers opened their columns to the discussion, and now a volume has appeared, entailed, "The Sim-Bater, and Other Stories," by Miss Fiona Macleod. of which a reviewer says "she (the authoress) has caught in no small degree the spirit of the Celt, with its gloom and superstition, its fixity of purpose, it harshness and nobility."
+
+??Also mis-cited in matter of letter from RHEIDIOL, correct reference is: The Aberystwith Observer 18th December 1875 p3
+
+---
+
+https://newspapers.library.wales/view/4335993/4335999/105/
+
+The Western Mail
+
+Monday 19th September 1898
+
+p6?
+
+WAS THE SIBYL A CELTICI ORACLE. THE REPLY OF FOLKLORE AND I PHILOLOGY. INTERESTING THEORIES I DISCUSSED. To the Editor of the "Western Mail." I Sir,—Mr. J. 8: Fraur, the greit authority on folk-lore, has just brought out a new edition of Pausanius, in six volumes, including a most elaborate commentary. In the fifth volume, where Pausanlus's remarks about the Sibyls come under review, the author of the "Golden Bough" adduces from German collections of modern folk-lore the following stories (as pre- viously translated by Dr, M. R. James, and printed in the sixth volume of the "Classical Review") — "Once upon a time there was a girl in London whi wished to live for ever, go they say London, London is a fine town, A maiden prayed to live for ever. And still she lives ad hangs in a basket in a church, and every St. Johns Day about noon she eats a roll of bread." Another tells of "a lady who resided at I>an7.ig, and was so rich and so blest with all that life can give that she wished to live always. So when she came to her latter end she did not roally die, but only looked like dead, and very soon they found her In a hollow of a pillar in the churoh, halfattind- ing and half sitting, motionless. She stirred never a limb, but they saw quite plainly that aha was alive, and she sits there down to this blessed day. Every New Year's Day the sacris- tan comes and puts a morsel of the holy bread in her mouth, and that is all she has to live on. Long, long has she rued her fatal wish who sets this transient life above the eternal joys of Heaven." A third story tells of a noble damsel who cherished the same foolish wish for immor- tality. So they put her in a baskot and hung her up in a church, and there she hangs and never dies, though many, many a year has come and gone since they put her there. But every year on a certain day they give her a nil, and she eats it and cries out "For ever' for ever! for ever!" And when she has so cried she falls silent again till the Rame time next year, and so it will go on for ever ami for ever. The fourth anil last tale quoted by- Mr. Frazer, which was taken down near Oldenburg in Holstein, te]s of "a jolly dame that ate and drank and lived right merrily and had all that heart could desire, and she wished to live always. For the first hundred years all went well, but after that she began to shrink and shrivel up, till at last she could neither walk nor stand nor eat nor drink. But die she could not. At first they fed her as if she were a little child, but when she grew smaller and smaller they put her in a glass bottle and hung her up in the church, and there she still hangs in the Church of St. Mary at Lubeck. She is as small as a mouse, but once a year she stirs." The way in which Mr. Frazer quotes these interesting German folk-tales is a capital instance of a weakness that the scientific folk-lorist is prone to-it weakness that have already pointed out in my criticism of Mr. Sidney Hartland's treat- ment of the" Welsh Sin-eater." Mr. Frazer prints these tales in close connection with quo- t.ations of early references to oracular Sibyls in Roman and Greek authors of classical times. An unwary reader could not but connect them with the quotations from Petronius Arbiter, and the "exhortations to the Greeks attributed to Justin Martyr, and tTTe inscriptions found in the lately discovered cave of the Erythraean Sibyl. Now, it so happened that just before Mr. Frazer's Pausanius came into my hands I had been reading a great deal about Chris- tian symbolism. Among other material on that subject that was fresh in my memory was a little pamphlet by Mr. W. Marsh on the "Iconography of the Sibyls," where tho author, omitting the treatment of the Sibyls by the great masters—Michael Angelo, Perugino, Raphael, and so on-describes how they are treated in Books of Hours, frescoes, and church windows. It is all but an absolute certainty that the German folk-tales quoted by Mr. Frazer have their source in the ecclesiastical art, and that any direct influence traceable to the old Sibyl oracles is in the highest degree improbable. Yet Mr. Frazer ignores entirely the Sibyl legends of Christian symbolism (I say legends, for many of the pictured representa- tions include long-storied scrolls). His quota- tions, however, from earlier sources are more relevant to the illustration of his author, and one of them, the inscription from the Erythriean cave, is not, of course, in Alexandre's work on the Sibylline oracles, as that cave was only discovered in 1891. The short one has been restored to read thus:—"With good luck. The Erythraean Sibyl, daughter of a nymph and Thcodorus." The longer inscription is given as follows:—"I am the oracular Sibyl, the minister of Phoebus, eldest daughter of a Naiad nymph. My native land is Erythr», and no other, and Tlieodorus was my mortal sire. Cis- sotas was my birthplace, in which I uttered orae,e to mankind as soon as I had issued from the womb. And, seated on this rock, I sang to mortal men prophecies of events which were yet to come. And every thrice three hundred years, as an unwedded maid, I travelled over all the earth; and here, again, beside this dear rock I now sit delighting in the kindly waters. And I rejoice that the time has now come to me in which I said that Erythra) would flourish again, and would enjoy all good government and wealth and virtue, when a new Erythrus should have come again to his dear native land." This inscription is referred to the second century A.D.-the time of the Antonines. But I must hurry oil, and simply state here my opinion that the Sibyl of Cuma;, in Cam- pania. was, if not the earliest known to the Greeks. at any rate among the earliest. For I venture to suggest that the very name betrays her Western origin. The generally accepted derivation of that name, the Doric, sios-theos, and bolla-boule ("she that tells the will of God"), is all uncouth and far-fetched guess, in- dicating that the real meaning and origin were unknown to the Greeks. Now, to start with, the word looks like a genuine Latin diminu- ee, wSo::h lkii; gsad di I others. Is there a Latin word with which it can be connected? There i.. That word is sibus, which, with its compound per-sibus, is given by Festus as used by Plautus and Nævius in the sense of "acutus," "calliduq i' The feminine sibila might easily yield sibulla, and, in spite of the different quantity of the first syllable, it is not impossible that these words would be originally connected with sibiltis-a "hissing" or "whistling." There is another very strong argument for the Western deriva- tion of this oracle. Every schoolboy is familiar with the famous chaffering between Tarquin the Tyrant and the Cumaean Sibyl over the purchase of her fortune-telling book. In spite, however, of one'3 natural impression founded on that tale, the broad fact refnains that the oracles of the Cumeean Sibyl are chiefly distinguished from those of her nume- rous later sisters by some kind of defect in what I may call their literary promulgation. But to return to the derivation of the name: I do not know whether Sibus is a Latin word or not, but it has an undoubted cognate in Welsh. On p. 270 of Professor Rhys's "Celtic Heathen- dom" l find the following verses taten out of Skene's "Four Ancient Books of Wales" "Seith seren yøyd. o seithnawn dofyd, Seon sywedyd A wyr eu defnyd. Seven stars are there, Of the seven gifts of the Lord; Seon the philosopher. He knows their nature." "Sywedyd" means philosopher, or man of science, and is obviously derived from "syw." At the present day my impression is that "syw" has the meaning of "smart" or "trim." On referring to Pughe's Dictionary it, is quite clear that that eminent man had no real knowledge of the early meaning of the word. From the above-quoted old lines (pro- bably) he supposed that "sywedyd" meant "astronomer"; and so he renders "Dewi mawr Mynyw srw sywedydd," "Great Dewi of Mynyw a constant observer of the stars," and comes to the conclusion that "syw" meant "steady or "constant." I do not know if "syw" is found spelt "siw" in old manuscripts, but is is extremely likely that "siu" or "siv" was the early form of the word, and in that case it would be the very same word as the Latin sibus, with the meaning of "he who knows." From "siw" we get "siwin" (? the Irish salmon of knowledge) and "siwen" "an epithet for the mermaid" (Pughe). Not only that, but the Welsh word for eel (llyswen) seems to be of similar derivation. Salesbury spells that word "llyssowen," which represents exactly the pronuncia- tion known to me in my boyhood. It is not nnlikely that the mysterious migrations and habits of sewin and eels may have had scmethiiig to do with the sibylline supersti- tion. The important, position of salmon, and especially the salmon of knowledge in Irish folk-lore, is familiar to everybody; but even in Wales there are soma faint tre of similar beliefs. Professor Rhys draws nttention (L.C.M., pp 555, 558) to the salmon of Llyn Llyw, connected by the ntory of Knlhwch with the Severn (Welsh Haf-ren; Lat. Sab-rina), and says that it "had more to say than the other ancients questioned by Arthur's men, because he had lived longer in the world. I may also quote the following from Theophilus Jones's "History of Brecknockshire" "The sewin (a fish in high estimation in part )1 South Wales) is not found in many of the risers of Preconshlra, except the Tawe. And here ?nother 3bsezvation occurs, though, perhaps, it has seldom, if ever, been attended to. The sewin Is not seen in any river running in this country from ea«t to west, but in all those flowing in a contrary direction. I leave this circumstance to the natural philo- sopher to account for; the fact it as I have stated" (I. p. 16). Whether it is a fact or not it cannot be dissociated from the "wither- phins," "t=thpel." cr motion "against the sun" of folk-lore. That a marine origin may be almost certainly attributed to the sibyl also I gather from the Erythnean inscription given aoove. The "Exhortation to the Greeks" seems to Imply the same thing, while the evidence of old coias tends in the same direction. A very early coin of Cnmae at the British Museum has a female head on the observe, and a plftrix or "sea-eorpent" on the reverse. Another (not in the British Museum) figured in Smith's Dictionary of Greek and Roman Geography under the article "CumeB," has on the reverse a female's head and upper part, with her hand on what looks like an eel. bttt it may be a sea-serpent! I have not seen similar Agures on the old coinage of any other reputed seat of sibyls. I ought, perhaps, to mention that as Grote SI:Ot::rfû8' pto ;;n!,Ie::a:dG: I solitary Grecian establishment in the Tyrrhenian Sea—the Campanian Cumae, near Cape Jifisenum, which the more commcr. opinion of chronol igists supposed to have been founded in 1050 B.C., and which haoevsn been carried back by some authors to 1139 B.C. Without reposing any faith in this early chronology, we may, at least, feel certain that it is the most ancient Grecian establishment in any part of Italy." I have suggested ahove n, Welsh origin for the word under discussion. In view, however, of tho difficulty which Pughe seems to have encountered in dealing with "syw," the latter may, after all, lie another Irish survival in South "Wales In Irish, suadh—"cloak or gown of an Ollamh or professor: counsel, wisdom; also ad.1, discreet, wise"; and suaidh—"a wise man."—I am, Ac., J. P. OWEN. P.8.—The last sentence reminds me that I have found an exact parallel from Scotland to my suggested derivation of Waunglyncath. A particular spot in Strnthearn, a few miles from the famous Roman camp nt Ardoch (^ec "Penny Cyclopedia," Ii, V.), is called Strageth. "the valley of the fort." There are still to be eell there the remains of an old Roman station A careful examination by a competent military engineer of the country from the present Waun- glyncath and Cathilas, its far as the Turc.ui (that is the local pronunciation, not Turcarn), would not improbably result in some interest- ing diseoveri<5j. 
+
+J. P. O.
+
+
+
+
+---
+
 
