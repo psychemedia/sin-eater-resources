@@ -52,13 +52,15 @@ Professor Evans has "never heard of the strange custom here alluded to, either a
 
 The following words of Aubrey’s own are then quoted :—
 
-"In the county of Hereford was an old custome at funeralls to hire poor peopie, who were to take upon them the sinnes of the party deceased. Ono of them (he was a long, leane, ugly, lamentable poor raskal) I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out, and delivered to the sinne eater, over the corpse, as also a mazar bowlo, of muple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. . . . This custome, though rarely used in our dayes, yet by some people was observed even in the strictest time of the presbyterian government, as at Dynder (volens nolens the parson of the parish), the kindred of a woman deceased there had this cere- monie punctually performed, according to her will: and also the like was done at the city of Hereford in those times, where a woman kept, many yeares before her death, a mazard bowle for the sinne-eater; and the like in other places in this countie; as also in Brecon. I believe this custom was heretofore used all over Wales." (*Remaines of Gentilisme and Judaism.* Lansdowne MSS. 226, fol. 116.)
+"In the county of Hereford was an old custome at funeralls to hire poor peopie, who were to take upon them the sinnes of the party deceased. Ono of them (he was a long, leane, ugly, lamentable poor raskal) I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out, and delivered to the sinne eater, over the corpse, as also a mazar bowlo, of muple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. . . . This custome, though rarely used in our dayes, yet by some people was observed even in the strictest time of the presbyterian government, as at Dynder (volens nolens the parson of the parish), the kindred of a woman deceased there had this ceremonie punctually performed, according to her will: and also the like was done at the city of Hereford in those times, where a woman kept, many yeares before her death, a mazard bowle for the sinne-eater; and the like in other places in this countie; as also in Brecon. I believe this custom was heretofore used all over Wales." (*Remaines of Gentilisme and Judaism.* Lansdowne MSS. 226, fol. 116.)
 
 In a note the same writer adds that at Llanggors, Brecon, about 1640, Mr. Gwin, the minister, "could not hinder the performance of this ancient custome." And he says in another page of the MS. cited: "A.D. 1686. This custom is used to this day in North Wales."
 
 While these statements very clearly affirm the former prevalence, in North Wales and the Border, of the superstitious practice in question, they do not, of course, go to show that, in the words of the article, it is "still surviving" in those localities, as well as in South Wales. The writer, however, of the interesting compilation in *Blackwood* has little to tell us about surviving North Welsh superstitions, and less that is new. Some of those mentioned (e.g., that about pigeon's feathers, and the Bible and key or sieve spell to find'a thief) are common in various parts of England and Scotland; others, like the *Canwyll Corph* (Corpse Candle), are more or less satisfactorily referred to in well-known works— as in the *Choice Notes from Notes and Queries*, and in the old *Cambrian Quarterly Magazine*; other remarkable superstitions, again, alleged to be still living, such as that of the *Mallt y Nos*, or *Mam y Drwg* (Mother of Mischief), are not mentioned.
 
-I venture to remark that the popular superstitions of Wales still await a student, acquainted with the Welsh language, and content, instead of seeking *folk*-lore from books, to collect it at the firesides of the people, in the out-of-the-way villages and secluded glens where it lingers longest. David Fitzgerald.
+I venture to remark that the popular superstitions of Wales still await a student, acquainted with the Welsh language, and content, instead of seeking *folk*-lore from books, to collect it at the firesides of the people, in the out-of-the-way villages and secluded glens where it lingers longest.
+
+David Fitzgerald.
 
 
 Croeswylan, Oswestry.
@@ -184,6 +186,16 @@ If the writer proves, as he states in *Blackwood*, that the superstition of the 
 
 D. Silvan Evans.
 
+---
+
+https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/198/mode/2up?q=sin+eater
+
+The Academy
+1876-02-26
+Vol 9 Iss 199
+
+p198
+
 Homestay, Newtown, Montgomeryshire : February 12, 1876.
 
 Roscoe, in his *Wanderings and Excursions in South Wales*, quoting the author of the *Mountain Decameron*, locates "what is believed to have been the last Sin-Eater of Wales" differently from any mentioned in the Academy. I subjoin his remarks.
@@ -202,7 +214,7 @@ Roscoe, in his *Wanderings and Excursions in South Wales*, quoting the author of
 
 "The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck and nails of such, between sea-marsh and that dim bog, where few could approach by day, none dare by night, whether for the footing, or the great fear, or at least awe, which all felt of that recluse."
 
-Persons acquainted with the district readily recognise the locality from the above description, others may do so when I state that the Cambrian Railway, between Machynlleth and Aberystwith, traverses the "black turbary of great extent," and the high road from Aberdovey passes close by one of the railway stations on this line, called "Ynyslas." The custom of placing a late of salt on the breast of a dead person is, I imagine, not obsolete in this county yet; at any rate instances have occurred within my own knowledge.
+Persons acquainted with the district readily recognise the locality from the above description, others may do so when I state that the Cambrian Railway, between Machynlleth and Aberystwith, traverses the "black turbary of great extent," and the high road from Aberdovey passes close by one of the railway stations on this line, called "Ynyslas." The custom of placing a plate of salt on the breast of a dead person is, I imagine, not obsolete in this county yet; at any rate instances have occurred within my own knowledge.
 
 E. R. Morris.
 
@@ -219,7 +231,7 @@ p221
 THE SIN-EATER.
 Croeswylan, Oswestry: Feb. 28, 1876.
 
-My friend Mr. Morris, your latest contributor to the "Sin-Eater" correspondence, quotes the Mountain Decameron sketch of what is "believed to be the last sin-eater in Wales." I presume Mr. Morris quotes at second-hand, or he would have seen that he has only unearthed old Aubrey's "long, leane, ugly, lamentable poor raskal." for, in the passage immediately before Roscoe’s quotation, the author says :— “Mr. Fosbroke, in an account of the town of Ross, quotes a letter, I forget by whom (but I have an idea by Mr. Kyrle, the 'Man of Ross'), which describes a 'Sin-Eater,' who 'lived by Ross highway, and is described as a 'gaunt, ghastly, lean, miserable, poor raskal.'"
+My friend Mr. Morris, your latest contributor to the "Sin-Eater" correspondence, quotes the Mountain Decameron sketch of what is "believed to be the last sin-eater in Wales." I presume Mr. Morris quotes at second-hand, or he would have seen that he has only unearthed old Aubrey's "long, leane, ugly, lamentable poor raskal," for, in the passage immediately before Roscoe's quotation, the author says :— "Mr. Fosbroke, in an account of the town of Ross, quotes a letter, I forget by whom (but I have an idea by Mr. Kyrle, the 'Man of Ross'), which describes a 'Sin-Eater,' who 'lived by Ross highway, and is described as a 'gaunt, ghastly, lean, miserable, poor raskal.'"
 
 If your readers will refer to Mr. Fitzgerald's letter on November 20, 1875, they will see that the "poor raskals" are identical; and Mr. Downes, the author of the Mountain Decameron (who dates his book "Builth, Breconshire, April, 1836 "), does not profess to do more than pen a fancy sketch on Aubrey’s text, laying his scene in Cardiganshire.
 
@@ -227,7 +239,7 @@ I fear Mr. Silvan Evans is as far off as ever from catching the real Simon Pure!
 
 Askew Roberts.
 
-[Simon Pure - Merriam Webster http://dictionary.sensagent.com/simon%20pure/en-en/ - Simon-pure , a. Genuine; true; real; authentic; -- a term alluding to the comedy character Simon Pure, who is impersonated by another and is obliged to prove himself to be the “real Simon Pure.”
+[Simon Pure - Merriam Webster http://dictionary.sensagent.com/simon%20pure/en-en/ - Simon-pure , a. Genuine; true; real; authentic; -- a term alluding to the comedy character Simon Pure, who is impersonated by another and is obliged to prove himself to be the "real Simon Pure."
 
 See also: https://en.wikipedia.org/wiki/A_Bold_Stroke_for_a_Wife#Simon_Pure ]
 
