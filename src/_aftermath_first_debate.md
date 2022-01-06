@@ -1,18 +1,40 @@
+# Fallout From the First Controversy
 
+Although the correspondence between the two protagonists of the first controversy – Revd. D. Silvan Evans and the anonymous *Blackwood* author –  had come to an end, the debate had not quite come to an end; for immediately after Silvan Evans' letter in the *Academy* at the end of February, 1876, appeared another letter from a new correspondent.
+
+And for the curious, the identity of the *Blackwood* author was still to be revealed...
 ## *The Mountain Decameron* Makes An Appearance
 
-But the debate was not quite over.
+Writing from Newtown, in Montgomeryshore, the column in the *Academy* that contained Silvan Evans' final letter also included a communication from a certain Mr. E. R. Morris ([Vol 9 Iss 199, February 26th, 1876](https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/198/mode/2up?q=sin+eater), p198) that recalled another, as yet unmentioned reference to the sin-eater, in Joseph Downes' *Mountain Decameron*.
 
-In the same issue of the *Academy*, ???
-
-at this point, it all gets a bit more confused as someone who can't distinguish between fact and fiction add's their two penn'orth.
+This was, you might recall, a largely fictional work, although it did draw on Welsh legend and tradition. But it is referenced here not from direct experience of the original, but mediated via another work, Roscoe's  *Wanderings and Excursions in South Wales*.
 
 > Homestay, Newtown, Montgomeryshire : February 12, 1876.
 >
 > Roscoe, in his *Wanderings and Excursions in South Wales*, quoting the author of the *Mountain Decameron*, locates "what is believed to have been the last Sin-Eater of Wales" differently from any mentioned in the Academy. I subjoin his remarks.
->
+
+```{important}
+The following paragraph, taken from Roscoe, precedes the excerpt provided in the letter, and is also taken directly from the *Mountain Decameron*:
+
+> "So late as the earlier part of the last century, that strange character of a stranger superstition, known by the name of 'The Sin-Eater,' was not unknown in Wales. This was some desperate being, who (unless we suppose him an unbeliever), being past redemption, lost to all hope of salvation, did, for a slight reward, or to gratify the relatives of one lying dead, take on his own soul all the sins of the deceased by a formal act, sometimes receiving confession during life, and bargaining for the burthens thus to be imposed on his already laden soul.
+
+But two short paragraphs from the *Mountain Decameron* that appear between the paragraph above and the paragraphs quoted in the letter are omitted:
+
+> Mr. Fosbroke, in an account of the town of Ross, quotes a letter, I forget by whom, (but I have an idea by Mr. Kyrle, the "Man of Ross,") which describes a "Sin-Eater," who "lived by Ross highway," and is described as a "gaunt, ghastly, lean, miserable, poor rascal."
+
+which we might recognise as quoting Aubrey,
+
+> If we consider these persons as probably not less believers than those who employed them, it is not easy to imagine a condition of the mind more terrific, desolate, and desperate, than theirs; thus more and more removed from the hope of mercy with every death, and assurance of perdition doubly sure.
+```
+
+There then follows a direct quotation from the work, which we should probably now read with a more critical eye.
+
 > "A gentleman who lived a little before the time of this dark superstition becoming obsolete (the earlier part of the last century) gives us this brief account of what is believed to have been the last 'Sin-Eater of Wales.'
->
+
+As Silvan Evans might have asked, *what gentleman?*
+
+If we place the sentence back into its original context, where the preceding lines refer to the tradition according to Aubrey, we might interpret the line *"[a] gentleman who lived a little before the time of this dark superstition becoming obsolete (the earlier part of the last century) gives us this brief account"* as moving us from the "historical" context and into the fictional world of Downes' imagination.
+
 > "'I got lost,' says he, 'near nightfall, after being landed by the ferry-boat from the Aber of Dovey on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was cautioned to ride far’ round this pitchy bog, for no horse ever ventured among the peat pits, the whole being a quaking morass. In truth, its look was enough, under a black evening, to keep me off, even without peril of being swallowed, man and horse.
 >
 > "'At last, thanks to my stars, the good hard rock of a rough road rung to my horse’s hoof, and I saw a cottage taper, as ghastly as the Canwyll Corph, at a distance.
@@ -20,75 +42,72 @@ at this point, it all gets a bit more confused as someone who can't distinguish 
 > "'The house was on a high point and turn of road, overlooking all those many acres of hollow ground.
 >
 > "'Just as I came up, hoping lodging, I heard sounds of wailing within, and soon, a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay a corpse of a man, with a plate of salt holding a bit of bread placed on its breast. The woman was shouting to the Sin-Eater to come and do his office— that is, to eat the bread, lay his hand on the dead breast, place the dead man’s on his own, after making a sign of the cross, and then praying for a transfer of all pains or penances from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and ever.'
->
-> "This is the traveller's account of this incident. He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing-point. After waiting long, he caught a far-out shout in reply to the woman's long unanswered, till she kindled, on the high road’s point, the straw of her husband’s late bed—the usual signal of a death in the house.
->
+
+Again, the story appears to claim an "authentic" source, the traveller, although he remains otherwise unidentified:
+
+> "This is the traveller's account of this incident.
+
+The account continues:
+
+> He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing-point. After waiting long, he caught a far-out shout in reply to the woman's long unanswered, till she kindled, on the high road’s point, the straw of her husband’s late bed—the usual signal of a death in the house.
+
+And then we have the reference to the sin-eater:
+
 > "The Sin-Eater, he was told, lived alone in a hovel made of sea-wreck and nails of such, between sea-marsh and that dim bog, where few could approach by day, none dare by night, whether for the footing, or the great fear, or at least awe, which all felt of that recluse."
->
-> Persons acquainted with the district readily recognise the locality from the above description, others may do so when I state that the Cambrian Railway, between Machynlleth and Aberystwith, traverses the "black turbary of great extent," and the high road from Aberdovey passes close by one of the railway stations on this line, called "Ynyslas." The custom of placing a late of salt on the breast of a dead person is, I imagine, not obsolete in this county yet; at any rate instances have occurred within my own knowledge.
+
+As to the locale?
+
+> Persons acquainted with the district readily recognise the locality from the above description, others may do so when I state that the Cambrian Railway, between Machynlleth and Aberystwith, traverses the "black turbary of great extent," and the high road from Aberdovey passes close by one of the railway stations on this line, called "Ynyslas."
+
+So there was a sin-eater at "Ynyslas", a small village north of Aberystwyth, on the south bank of the Dovey (*Dyfi*) Estuary, opposite Aberdovey (*Aberdyfi*)?
+
+As to the tradition, the correspondent presumes the tradition continues, *or at least the tradition of placing a plate of salt on the dead body, for he claims personal knowledge of it:
+
+> The custom of placing a plate of salt on the breast of a dead person is, I imagine, not obsolete in this county yet; at any rate instances have occurred within my own knowledge.
 >
 > E. R. Morris.
 
----
-
-
-https://archive.org/details/sim_academy-and-literature_1876-03-04_9_200/page/220/mode/2up?q=sin
-
-The Academy  1876-03-04: Vol 9 Iss 200
-1876-03-04
-, p221
+In the following issue of the *Academy*, [Vol 9 Iss 200, dated March 4th, 1876](https://archive.org/details/sim_academy-and-literature_1876-03-04_9_200/page/220/mode/2up?q=sin), p221, a letter appears from a certain gentleman of Oswestry who had also been minded to check the original source:
 
 > THE SIN-EATER.
 >
 > Croeswylan, Oswestry: Feb. 28, 1876.
 >
-> My friend Mr. Morris, your latest contributor to the "Sin-Eater" correspondence, quotes the Mountain Decameron sketch of what is "believed to be the last sin-eater in Wales." I presume Mr. Morris quotes at second-hand, or he would have seen that he has only unearthed old Aubrey's "long, leane, ugly, lamentable poor raskal." for, in the passage immediately before Roscoe’s quotation, the author says :— “Mr. Fosbroke, in an account of the town of Ross, quotes a letter, I forget by whom (but I have an idea by Mr. Kyrle, the 'Man of Ross'), which describes a 'Sin-Eater,' who 'lived by Ross highway, and is described as a 'gaunt, ghastly, lean, miserable, poor raskal.'"
->
-> If your readers will refer to Mr. Fitzgerald's letter on November 20, 1875, they will see that the "poor raskals" are identical; and Mr. Downes, the author of the Mountain Decameron (who dates his book "Builth, Breconshire, April, 1836 "), does not profess to do more than pen a fancy sketch on Aubrey’s text, laying his scene in Cardiganshire.
->
+> My friend Mr. Morris, your latest contributor to the "Sin-Eater" correspondence, quotes the Mountain Decameron sketch of what is "believed to be the last sin-eater in Wales." I presume Mr. Morris quotes at second-hand, or he would have seen that he has only unearthed old Aubrey's "long, leane, ugly, lamentable poor raskal," for, in the passage immediately before Roscoe's quotation, the author says :— "Mr. Fosbroke, in an account of the town of Ross, quotes a letter, I forget by whom (but I have an idea by Mr. Kyrle, the 'Man of Ross'), which describes a 'Sin-Eater,' who 'lived by Ross highway, and is described as a 'gaunt, ghastly, lean, miserable, poor raskal.'"
+
+The gentleman of Oswestry, who we are probably not surprised to learn is Mr. Askew Roberts, then associates that quotation with on from Aubrey that appeared earlier in the debate, and suggests that all Downes' does is reimagine it in his own way:
+
+> If your readers will refer to Mr. Fitzgerald's letter on November 20, 1875, they will see that the "poor raskals" are identical; and Mr. Downes, the author of the Mountain Decameron (who dates his book "Builth, Breconshire, April, 1836"), does not profess to do more than pen a fancy sketch on Aubrey’s text, laying his scene in Cardiganshire.
+
+He signs off with a nod to Silvan Evans' and his apparently fruitless quest to track down evidence of a Welsh sin-eater:
+
 > I fear Mr. Silvan Evans is as far off as ever from catching the real Simon Pure!
 >
 > Askew Roberts.
->
-> [Simon Pure - Merriam Webster http://dictionary.sensagent.com/simon%20pure/en-en/ - Simon-pure , a. Genuine; true; real; authentic; -- a term alluding to the comedy character Simon Pure, who is impersonated by another and is obliged to prove himself to be the “real Simon Pure.”
->
-> See also: https://en.wikipedia.org/wiki/A_Bold_Stroke_for_a_Wife#Simon_Pure ]
 
----
+```{admonition} Simon Pure
+:class: seealso dropdown
 
+In contemporary usage, at least according to the *Merriam Webster* dictionary](http://dictionary.sensagent.com/simon%20pure/en-en/):
 
-https://journals.library.wales/view/2092910/2093621/6#?xywh=-1479%2C210%2C5791%2C3820
+> Simon-pure , a. Genuine; true; real; authentic; -- a term alluding to the comedy character Simon Pure, who is impersonated by another and is obliged to prove himself to be the "real Simon Pure."
 
-Bye-gones
+The character is originally introduced in [*A Bold Stroke for a Wife*](https://en.wikipedia.org/wiki/A_Bold_Stroke_for_a_Wife#Simon_Pure), an 18th century satirical play in which two Simon Pures appear on stage.
+```
 
-March 8th, 1876
+Over in *Bye-Gones*, which we might recall was edited by Askew Roberts, and also reprinted in *The Cambrian News and Merionethshire Standard* of [March 10th, 1876, p7](https://newspapers.library.wales/view/3307838/3307845/60/), the  commentary surrounding the debate continued, with a follow-up to the summary of the February 9th, 1876, edition appearing in the [March 8th, 1876](https://journals.library.wales/view/2092910/2093621/6#?xywh=-1479%2C210%2C5791%2C3820) edition, p29:
 
-p29
-
-The  Sin-Eater in Wales
-
-(Feb. 9, 1876)
-
+> The  Sin-Eater in Wales
+> (Feb. 9, 1876)
 > Further correspondence has appeared in the *Academy* on this question, but no fresh light has been thrown on the alleged custom. On February 26th, Mr E. R. Morris gives from Ruscoe's *South Wales* a quotation from the *Mountain Decameron*, in which "what is believed to have been the last Sin-Eater in Wales," is stated to have lived somewhere between Aberystwyth and Machynlleth, but Mr Askew Roberts, in the last number, shows, by further quotation from the book itself, that this was only a fancy sketch, founded on Aubrey's "leane raskal." In another letter, replying to one by the author of the *Blackwood* article, Mr Silvan Evans deies that gentleman to make good his assertion that the superstition is "still surviving in North and South Wales."
 
-
----
-
-https://newspapers.library.wales/view/3307838/3307845/60/
-
-None
-1876-03-10
-, p7
-
-The Cambrian News and Merionethshire Standard
-
-> THE SIN-EATER IN WALES
->
-> Further correspondence has appeared in the *Academy* on this question, but no fresh light has been thrown on the alleged custom. On February 26th, Mr E. R. Morris gives from Ruscoe's *South Wales* a quotation from the *Mountain Decameron*, in which "what is believed to have been the last Sin-Eater in Wales," is stated to have lived somewhere between Aberystwyth and Machynnlleth, but Mr Askew Roberts, in the last number, shows, by a further quotation from the book itself, that this was only a fancy sketch, founded on Aubrey's "leane raskal" In another letter, replying to one by the author of the *Blackwood* article, Mr Silvan Evans defies that gentleman to make good his assertion the superstition is "still surviving in North and South Wales."
-
----
+Whether or not Askew Roberts penned this himself, the editorial line is clear: the last sin-eater as described in the *Mountain Decameron* is a fiction, a *"fancy sketch, founded on Aubrey"*.
 
 
+
+
+
+Bye Gones 
 
 https://journals.library.wales/view/2092910/2093621/12#?xywh=242%2C1729%2C2412%2C1591
 
@@ -103,6 +122,20 @@ p35-6
 >
 > "While we praise the power and skill with which many parts of these tales are written ; the picturesque delineations of nature, the transcript of manners, and the general conduct of the fable; we must protest against the groundwork of the histories themselves, which are founded on circumstances, as that of Ruth and Marmaduke, most improbable and unnatural; as love growing up between a father and daughter, ignorant of their sacred relation to each other— their unhallowed hopes— their disappointment and their death of despair. Nearly all the stories are of the same cast, containing descriptions of strong uncontrollable passions, desperate resolves, fearful vicissitudes, and violent and tragic terminations. The skill with which such tales are written only adds to the evil they are too apt to occasion; and the sympathies they excite are so powerful and distressing, as to act most disadvantageously on the mind. If Mr Downes will take up another line of fiction, and delineate the milder feelings,— the gentler and softer affections, the less harrowing afflictions,— and will build them round the more endearing events of life, he will, we are sure, draw from them more useful lessons, and form more permanently engaging works." *Gent. Mag.*, vol. viii., New Series, pp 398 9 (Oct., 1837). Llallawg.
 
+
+
+
+
+https://archive.org/details/sim_gentlemans-magazine_1837-10_8/page/398/mode/2up
+
+The Gentleman's Magazine  1837-10: Vol 8
+Publication date 1837-10
+
+p398-9
+
+The Mountain Decameron, by John Downes. 3 vols.
+
+While we praise the power and skill with which many parts of these tales are written ; the picturesque delineations of nature, the transcript of manners, and the general conduct of the fable; we must protest against the groundwork of the histories themselves, which are founded on circumstances, as that of Ruth and Marmaduke, most improbable and unnatural; as love growing up between a father and daughter, ignorant of their sacred relation to each other— their unhallowed hopes— their disappointment and their death of despair. Nearly all the stories are of the same cast, containing descriptions of strong uncontrollable passions, desperate resolves, fearful vicissitudes, and violent and tragic terminations. The skill with which such tales are written only adds to the evil they are too apt to occasion; and the sympathies they excite are so powerful and distressing, as to act most disadvantageously on the mind. If Mr Downes will take up another line of fiction, and delineate the milder feelings,— the gentler and softer affections, the less harrowing afflictions,— and will build them round the more endearing events of life, he will, we are sure, draw from them more useful lessons, and form more permanently engaging works.
 
 
 HERE ENDS THE FIRST DEBATE
