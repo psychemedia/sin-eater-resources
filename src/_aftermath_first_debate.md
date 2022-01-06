@@ -1,6 +1,6 @@
 # Fallout From the First Controversy
 
-Although the correspondence between the two protagonists of the first controversy – Revd. D. Silvan Evans and the anonymous *Blackwood* author –  had come to an end, the debate had not quite come to an end; for immediately after Silvan Evans' letter in the *Academy* at the end of February, 1876, appeared another letter from a new correspondent.
+Although the correspondence between the two protagonists of the first controversy – Revd. D. Silvan Evans and the anonymous *Blackwood* author –  had come to an end, there were still a couple of loose ends; for immediately after Silvan Evans' letter in the *Academy* at the end of February, 1876, appeared another letter from a new correspondent.
 
 And for the curious, the identity of the *Blackwood* author was still to be revealed...
 
