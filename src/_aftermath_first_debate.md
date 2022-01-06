@@ -117,6 +117,7 @@ In an obituary for the Rev. James Davies, M.A., Prebendary of Hereford, appearin
 > A very interesting article from his pen was published in *Blackwood's Magazine* for Nov. 1875, on "Legends and Folk Lore of Wales," which was the subject — or rather a passage in it was— of a hot controversy in *The Academy*. In the course of his paper the writer (he preserved his incognito throughout) had mentioned the superstition of "The Sin-Eater," which attracted the attention of Professor Silvan Evans, who challenged the writer to produce proofs. Several letters were published, and other scribes joined in the discussion ; some account of which will, probably, shortly appear in the *Red Dragon*, issued by Daniel Owen and Co. of Cardiff.
 
 ```{admonition} Prebendary James Davies, M.A., (Full Obituary)
+:class: dropdown
 > The late Prebendary Davies.
 >
 > In our paper of Mar. 14 we briefly announced the death of this gentleman. In the Hereford Times of Mar. 17 there was the following somewhat extended notice : —
