@@ -1,10 +1,11 @@
 https://archive.org/details/christmasevansp00hooduoft/page/22/mode/2up?q=sin+eater
 
-1888
-p23-24
+Christmas Evans : the preacher of Wild Wales, his country, his times and his contemporaries
 
 Paxton Hood
-Christmas Evans : the preacher of Wild Wales, his country, his times and his contemporaries
+
+1888
+p23-24
 
 Characterisitics of Welsh Preaching
 
