@@ -46,7 +46,7 @@ The next issue of the *Academy*, *Vol 8 Iss 18* dated [November 20th, 1875](http
 >
 > The following words of Aubrey’s own are then quoted :—
 >
-> "In the county of Hereford was an old custome at funeralls to hire poor peopie, who were to take upon them the sinnes of the party deceased. Ono of them (he was a long, leane, ugly, lamentable poor raskal) I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out, and delivered to the sinne eater, over the corpse, as also a mazar bowlo, of muple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. . . . This custome, though rarely used in our dayes, yet by some people was observed even in the strictest time of the presbyterian government, as at Dynder (volens nolens the parson of the parish), the kindred of a woman deceased there had this cere- monie punctually performed, according to her will: and also the like was done at the city of Hereford in those times, where a woman kept, many yeares before her death, a mazard bowle for the sinne-eater; and the like in other places in this countie; as also in Brecon. I believe this custom was heretofore used all over Wales." (*Remaines of Gentilisme and Judaism.* Lansdowne MSS. 226, fol. 116.)
+> "In the county of Hereford was an old custome at funeralls to hire poor peopie, who were to take upon them the sinnes of the party deceased. Ono of them (he was a long, leane, ugly, lamentable poor raskal) I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out, and delivered to the sinne eater, over the corpse, as also a mazar bowlo, of muple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. . . . This custome, though rarely used in our dayes, yet by some people was observed even in the strictest time of the presbyterian government, as at Dynder (volens nolens the parson of the parish), the kindred of a woman deceased there had this ceremonie punctually performed, according to her will: and also the like was done at the city of Hereford in those times, where a woman kept, many yeares before her death, a mazard bowle for the sinne-eater; and the like in other places in this countie; as also in Brecon. I believe this custom was heretofore used all over Wales." (*Remaines of Gentilisme and Judaism.* Lansdowne MSS. 226, fol. 116.)
 >
 > In a note the same writer adds that at Llanggors, Brecon, about 1640, Mr. Gwin, the minister, "could not hinder the performance of this ancient custome." And he says in another page of the MS. cited: "A.D. 1686. This custom is used to this day in North Wales."
 >
@@ -698,7 +698,7 @@ Of course I shall. Not like *him*, as he turns and points at the accused...
 
 > and the "national honour" shall take its chance;
 
-for we shall stand by what we belive to be the truth.
+– for we shall surely stand by what we believe to be the truth.
 
 > but if he fails to do this,
 
@@ -706,7 +706,9 @@ for we shall stand by what we belive to be the truth.
 
 > he ought, in justice to the country of his "ancestry," to retract the groundless charge.
 
-He is a scoundrel! And points at the defendant again...
+— He is a scoundrel!
+
+And points at the defendant again...
 
 > He it is that has brought the accusation against it, and on him lies the burden of proof.
 
@@ -714,4 +716,6 @@ He is a scoundrel! And points at the defendant again...
 
 > D. Silvan Evans.
 
-*As far as my readings to date go, there appears to be no further response from the anonymous Blackwoood author, and the major correspondence in the Academy comes to an end.*
+*As far as my readings to date go, there appears to be no further response from the anonymous Blackwoood author, and the major correspondence in the Academy associated with this sequence of correspondence comes to an end.*
+
+But the story doesn't *quite* end there, for immediately following Silvan Evans was another letter, from another correspondent...
