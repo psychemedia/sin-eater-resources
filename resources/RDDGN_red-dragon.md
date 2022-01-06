@@ -31,6 +31,8 @@ April 1883
 
 p371
 
+Literary and Art Notes
+
 Our March "note" anent the Carmarthenshire superstition of "the Sin Eater" appears to have excited the liveliest curiosity. Letters asking for further information upon the subject have reached us from all quarters, including one from "an American Reader." We have much pleasure in announcing that the Red Dragon for May will contain a paper, by a well-known Welsh antiquarian, explanatory of the extraordinary custom. 
 
 ---
