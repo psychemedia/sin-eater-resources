@@ -62,14 +62,14 @@ I am, sir, yours faithfully,
 
 RHEIDIOL.
 
-
 ---
 
-
 https://newspapers.library.wales/view/3040731/3040733/14/sin%20eater
-     
-12th February 1876
+
 The Aberystwith Observer
+
+12th February 1876
+
 p?
 
 THE "SIN EATER" IN WALES.
@@ -184,6 +184,8 @@ Aberystwyth Observer
 
 Saturday 06 December 1884
 p??
+
+New Welsh-English Dictionary
 
 All Welshmen students of the Welsh language will learn with pleasure that the Rev Professor Silvan Evans' Welsh-Englisb Dictionary is now in the press, the first two sheets already been printed. The work will be published by Mr Spurrell, Carmarthen. Mr Evans English-Welsh Dictionary, published at Denbigh, was issued from the press nearly thirty years ago. Thu present work will be far superior to anything of the kind over attempted. and will largely supplement the previous great works.
 
