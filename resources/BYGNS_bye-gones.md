@@ -196,16 +196,16 @@ WELSH DECAMERON (Mar. 29, 1876.)—It appears that Dr Downes died "on the Bank" 
 
 ---
 
-/page/18/mode/2up?q=sin
+https://journals.library.wales/view/2092910/2094771/9#?xywh=-1532%2C-191%2C5763%2C3801
 
 Bye-gones, relating to Wales and the border counties.
 
-1882
+February 15th, 1882
 
 THE SHROPSHIRE ARCHAEOLOGICAL AND NATURAL HISTORY SOCIETY.
 (From the Oswestry Advertizer , Feb. 15, 1882.)
 
-p?
+p18
 
 Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
 
@@ -245,7 +245,9 @@ Gypt.
 
 https://journals.library.wales/view/2092910/2094856/5#?xywh=-860%2C-96%2C4002%2C2639
 
-July 1882
+Bye-Gones
+
+July 12th, 1882
 
 p94
 
@@ -262,9 +264,12 @@ The Habits and Customs of the Welsh
 https://archive.org/details/byegonesrelating1882unse/page/204/mode/2up?q=sin
 
 Bye-gones, relating to Wales and the border counties.
-March 1883
+
+March 14th, 1883
 
 p205
+
+Current Notes
 
 Dr. Ollivant, the late Bishop of Llandaff, forms the subject of the memoir and portrait in the Red Dragon for March. ... That disreputable old fellow, "The Sin Eater," who we thought was killed long ago, has, it seems, only been scotched, for he crops up again in the number before us !
 
