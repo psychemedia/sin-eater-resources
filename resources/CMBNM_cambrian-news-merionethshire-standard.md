@@ -73,9 +73,12 @@ The discussion on this subject, commenced in the Academy, and continued in that 
 
 
 https://newspapers.library.wales/view/3307838/3307845/60/
+
+The Cambrian News and Merionethshire Standard
+
 10th March 1876
 p7
-The Cambrian News and Merionethshire Standard
+
 
 THE SIN-EATER IN WALES
 
