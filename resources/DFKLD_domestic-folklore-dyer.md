@@ -10,6 +10,10 @@ by Dyer, T. F. Thiselton (Thomas Firminger Thiselton), 1848- n 50010140
 1881
 p59-63
 
+Death and Burial
+
+...
+
 Again, the interval between death and burial has generally been associated with various superstitious fears and practices. Thus, as soon as the corpse is laid out there is still a widespread custom of placing a plate of salt upon the breast, the reason being no doubt to prevent the body swelling ; although there is a belief that it acts as a charm against any attempt on the part of evil spirits to disturb the body. Pennant tells us that formerly in Scotland, "the corpse being stretched on a board and covered with a coarse linen wrapper, the friends laid on the breast of the deceased a wooden platter, containing a small quantity of salt and earth, separate and un-mixed ; the earth an emblem of the corruptible body, the salt as an emblem of the immortal spirit." Mr. Napier, in his "Folk-Lore of the West of Scotland," points out that we may find another explanation for the plate of salt on the breast in the "sin-eaters," persons who, in days gone by, when a person died, were sent for to come and eat the sins of the deceased. On their arrival their first act was to place a plate of salt and one of bread on the breast of the corpse, repeating a series of incantations, after which they devoured the contents of the plates. By this ceremony the deceased person was supposed to be relieved of such sins as would have kept his spirit hovering about his relations to their discomfort and annoyance.
 
 It is customary, especially among the poor, for those who visit a house while the dead body is lying in it to touch the corpse, thereby showing that they owe the departed one no grudge. This practice, in all probability, originated in the belief that a corpse would bleed at the touch of the murderer, constant allusions to which we find in old authors.
