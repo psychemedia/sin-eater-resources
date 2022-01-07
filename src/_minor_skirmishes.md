@@ -1,84 +1,46 @@
 # Following the First Controversy
 
-The following *could* but doesn't kick off the debate again (imagine someone walking in to a bar where a debate has been raging, and settled, who asks the opening question again!)
 
-https://newspapers.library.wales/view/4344887/4344890/8/
+In the months following the flurry of correspodence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the pages fell laregly silent on the matter, although topics on folklore and various customs continued to be popular.
 
-The Western Mail
-1876-11-20
-, p3
+In the [April 12th, 1876](https://journals.library.wales/view/2092910/2093636/6#?xywh=198%2C658%2C2797%2C1845) issue *Bye-Gones*, p43, for example, we find the fllowing column on exorcisms in Wales which derives from the Lady Verney column on *Old Welsh Legend and Poetry*:
 
-
-> Correspondence
+> EXORCISM IN WALES.
 >
+> *(From Old Welsh Legends and Poetry in "Contemporary Review," by Lady Verney.)*
+> An old clergyman at the beginning of this century made a profession of exorcism. He was once asked how he could lend himself to such superstition among his flock, and replied that he could not alter their belief which made them miserable, and that a 1 he did was to give them comfort and assistance. He then gave an account of what had once happened to himself. A farmer's wife camo to tell him that they were half ruined, every thing about their place went wrong without any cause, their fences were broken, their beasts were lamed or destroyed, their poultry died, while within the house the china came to grief, the linen was burnt; she knew they were cursed, arid entreated him to come and undo the spell. He went up to the farmhouse, which was on a lonely mountain, and desired to be left alone in the kitchen. Suddenly the poor woman rushed in to say that while she was preparing tea three tea-cups had been mysteriously broken, and the servant-girl had appeared with a goose hanging to her apron. He sat considering with his head on his hand, and then desired the girl might be sent in to him. He looked at her sternly, and said, "You know something about this." She denied it vehemently: "You want to break my character." "You had better confess," he said, solemnly; whereupon she became still more violent. At last he drew out his pocket book and began to write, If you don't tell me the truth directly I will make a pair of horns to grow out of your head." She then fell on her knees, entreating for mercy, and confessed that a neighbour, anxious to get the farm, had bribed her to do ail the mischief possible in order to induce the owners to believe themselves bewitched and to leave the place. The clergyman made her promise that nothing of the kind should ever happen again; if it did, he said, he would make the horns grow instantly. He then went out and told the farmer he had uncursed the place, and all went on rightly from that time; but he had never revealed the reason until that moment.
+>
+> In another case a clergyman, celebrated for exorcisms, was sent for to a house haunted by the devil close to the sea-shore. He went and spent three night3 there alone, after which he announced that he had done the deed, "but that the devil was the hardest he had ever had to deal with." He never would reveal what took place. It was probably some smuggling transaction. He died rich, as he was well paid for such operations.
+
+Towards the end of 1876, a "new comer" to Cardiff enquired of the readers of the Western Mail in the edition of [November 20th, 1876](https://newspapers.library.wales/view/4344887/4344890/8/), p3, to what extent ancient burial and marriage customs prevailed, including that of the sin-eater, but their appeal seems to fall on deaf ears:
+
 > BURIAL CUSTOMS IN WALES. TO THE EDITOR.
-> Sir ,—Is there among the numerous intelligent correspondents of the *Western Mail* one who can inform me to what extent the ancient burial and marriage customs of the Welsh still prevail? I allude particularly to the customs of watching over the dead in the manner called by the Irish "waking" – the placing of salt on the breast of the corpse, and the performance of the sin eater. I am told that these customs were still prevalent in Carmarthenshire, and other like neighbourhoods strongly Welsh, within a few years back. Do they still prevail ? A late number of the *Dublin University Magazine* represented the customs of this kind in Yorkshire as being only just extinct. No doubt your correspondents in Carmarthenshire could enlighten me as regards the same here; or the learned "Morien" might consent to devote a paragraph or two to the subject, which is full of interest to readers who have come to Wales from other parts. The bidding to weddings I believe is still practised in some sections, and the galloping to church may be also, but of this I have not heard. NEW COMER. Cardiff, Nov. 17.
+>
+> Sir ,— Is there among the numerous intelligent correspondents of the *Western Mail* one who can inform me to what extent the ancient burial and marriage customs of the Welsh still prevail? I allude particularly to the customs of watching over the dead in the manner called by the Irish "waking" – the placing of salt on the breast of the corpse, and the performance of the sin eater. I am told that these customs were still prevalent in Carmarthenshire, and other like neighbourhoods strongly Welsh, within a few years back. Do they still prevail ? A late number of the *Dublin University Magazine* represented the customs of this kind in Yorkshire as being only just extinct. No doubt your correspondents in Carmarthenshire could enlighten me as regards the same here; or the learned "Morien" might consent to devote a paragraph or two to the subject, which is full of interest to readers who have come to Wales from other parts. The bidding to weddings I believe is still practised in some sections, and the galloping to church may be also, but of this I have not heard. NEW COMER. Cardiff, Nov. 17.
 
----
+There do not appear to have been any replies.
 
-
-
-https://journals.library.wales/view/2092910/2093636/6#?xywh=198%2C658%2C2797%2C1845
-
-Bye-gones
-
-April 12, 1876
-
-p43
-
-EXORCISM IN WALES.
-
-*(From Old Welsh Legends and Poetry in "Contemporary Review," by Lady Verney.)*
-
-
-An old clergyman at the beginning of this century made a profession of exorcism. He was once asked how he could lend himself to such superstition among his flock, and replied that he could not alter their belief which made them miserable, and that a 1 he did was to give them comfort and assistance. He then gave an account of what had once happened to himself. A farmer's wife camo to tell him that they were half ruined, every thing about their place went wrong without any cause, their fences were broken, their beasts were lamed or destroyed, their poultry died, while within the house the china came to grief, the linen was burnt; she knew they were cursed, arid entreated him to come and undo the spell. He went up to the farmhouse, which was on a lonely mountain, and desired to be left alone in the kitchen. Suddenly the poor woman rushed in to say that while she was preparing tea three tea-cups had been mysteriously broken, and the servant-girl had appeared with a goose hanging to her apron. He sat considering with his head on his hand, and then desired the girl might be sent in to him. He looked at her sternly, and said, "You know something about this." She denied it vehemently: "You want to break my character." "You had better confess," he said, solemnly; whereupon she became still more violent. At last he drew out his pocket book and began to write, If you don't tell me the truth directly I will make a pair of horns to grow out of your head." She then fell on her knees, entreating for mercy, and confessed that a neighbour, anxious to get the farm, had bribed her to do ail the mischief possible in order to induce the owners to believe themselves bewitched and to leave the place. The clergyman made her promise that nothing of the kind should ever happen again; if it did, he said, he would make the horns grow instantly. He then went out and told the farmer he had uncursed the place, and all went on rightly from that time; but he had never revealed the reason until that moment.
-
-In another case a clergyman, celebrated for exorcisms, was sent for to a house haunted by the devil close to the sea-shore. He went and spent three night3 there alone, after which he announced that he had done the deed, "but that the devil was the hardest he had ever had to deal with." He never would reveal what took place. It was probably some smuggling transaction. He died rich, as he was well paid for such operations.
-
-
----
-
-
-
-https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up
-
-Notes and Queries 1878-01-19: Vol 9 Iss 212
-1878-01-19
-, p48
+In Notes and Queries, [Vol 9 Iss 212, dated January 19th, 1878](https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up), p48, a query on the matter of customs surrounding "bread and salt" appears:
 
 > Bread and Salt.
 >
 > Some years since I call for the first time upon Canon Percy, of Carlisle, at his residence there. When refreshment had been offered and declined, he said, "You must have some bread and salt," with some remarks to imply that it was the way to establish a friendship. These were then brought in and eaten, without anything to lead one to suppose that this was an unusual custom at the house. Was this a practic peculiar to himself or to his family? or is such custom prevalent in the North, or in any other part of England? I have not met with it else-where.
 >
 > Ed. Marshall, F.S.A
->
-> [Make up aa story; secretly a sin eater?!]
 
----
+Although this does not directly relate to the ritual that was often described in a sin-eater context, I wonder if we might not co-opt this sotry to create a fictional sin-eater tale of our own involving a priest who takes various sincs unto himself, but then passes them on to his unkowing parishioners!
 
 # A Minor Skirmish, Eddowe's Journal, 1878-9
 
-There is then another slight, localised skirmish:
+Discussion around the tradition thus appears to have fallen back into obscurity. In the summer of 1878, a short piece appeared in the [August 14th, 1878](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18780814/092/0006) edition of *Eddowes's Shrewsbury Journal*, that restated the observations of Bagford's letter, but it drew no immediate response:
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18780814/092/0006
-
-Eddowes's Journal, and General Advertiser for Shropshire, and the Principality of Wales
-1878-08-14
-, p?
-
-> SIN EATERS. An usage called sin eating (see Hosea iv. 8) undoubtedly arose in Roman Catholic times, and, however it may have been limited to the clergy in early ages, was afterwards continued, and practised as profession, certain persons called sin eaters. In letter from John Bagford, dated 1715, printed in *Leland's Collectanea*, there is the following account of sin eater:— "Within the memory of our fathers, in Shropshire in those villages adjoining to Wales when a person died, there was notice given to an old 'sire' (for so they called him) who presently repaired to the place where the deceased lay and stood before the door of the house, when some of the family came out and furnished him with cricket (or stool) on which he sat down facing the door. Then they gave him groat which he put in his pocket; a crust of bread which ate; and a full bowl of ale which drank off at a draught. After this he got from the cricket, and pronounced with a composed gesture, "the ease and rest of the soul departed for which he would pawn his own soul." Among the Lansdowne MSS. in the British Museum are statements, in Aubrey's own handwriting, to the same purport.
+> SIN EATERS.
+>
+> An usage called sin eating (see Hosea iv. 8) undoubtedly arose in Roman Catholic times, and, however it may have been limited to the clergy in early ages, was afterwards continued, and practised as profession, certain persons called sin eaters. In letter from John Bagford, dated 1715, printed in *Leland's Collectanea*, there is the following account of sin eater:— "Within the memory of our fathers, in Shropshire in those villages adjoining to Wales when a person died, there was notice given to an old 'sire' (for so they called him) who presently repaired to the place where the deceased lay and stood before the door of the house, when some of the family came out and furnished him with cricket (or stool) on which he sat down facing the door. Then they gave him groat which he put in his pocket; a crust of bread which ate; and a full bowl of ale which drank off at a draught. After this he got from the cricket, and pronounced with a composed gesture, "the ease and rest of the soul departed for which he would pawn his own soul." Among the Lansdowne MSS. in the British Museum are statements, in Aubrey's own handwriting, to the same purport.
 >
 > Boileau
 
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18781225/131/0006
-
-Eddowes's Journal, and General Advertiser for Shropshire, and the Principality of Wales
-1878-12-25
-, p6
+Several months later, in an issue of the same periodical, and dated Christmas Day, [December 25th, 1878](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18781225/131/0006), p6, the same author picks up the tale again with an ostensible correction:
 
 > SALOPIAN SHREDS AND PATCHES.
 >
@@ -88,14 +50,7 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 >
 > Boileau.
 
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18790101/127/0006
-
-Eddowes's Journal, and General Advertiser for Shropshire, and the Principality of Wales
-1879-01-01
-, p?
+This note attracted an immediate reply in the following New Year's Day issue, dated [January 1st, 1879](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18790101/127/0006), a short, teasing response that requests more direct evidence of the sin-eating tradition:
 
 > SALOPIAN SHREDS AND PASTURES
 >
@@ -103,35 +58,39 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 >
 > Proud Salopian.
 
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18790129/097/0006
-
-Eddowes's Journal, and General Advertiser for Shropshire, and the Principality of Wales
-1879-01-29
-, p?
+*Boileau* responds later that month, in the edition of [January 29th, 1878](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18790129/097/0006)
 
 > SALOPIAN SHREDS AND PASTURES
 >
-> SIN EATERS (January 1st, 1879). "Proud Salopian" asks (January 1st, 1879) for proof respecting this practice. If he will refer to *Shreds and Patches* of Ang. 14th. last year, he will see what authority I relied on. In Brand’s *Popular Antiquities* vol ii., p. 155-6, quarto edition of 1813, he will find all the proof which can be given ; and Bagford adds, "How can a man think otherwise of this than that it proceeded from the ancient Heathens?" Aubrey further remarks. "In the county of Hereford was an old Custome at Funeralls hire poor People, who were to take upon them the Sinnes of the Party deceased. One of them (he was a long, leane, ugly, lamentable poor Raskal) I remember lived in Cottage Rosse high-way The manner was that when the Corps waa brought out of the House and layd on the Biere, a Loafe of Bread was brought out and delivered to the Sinne Eater, over the Corps, as also a Mazar Bowle of Maple, full of Beer (which he was to drink up), and Sixpence in money: in consideration whereof he took upon him, *ipso facto*, all the Sinnes of the defunct, and freed him or her from walking after they were dead. This Custome alludes, methinks, something to the Scape Goate in the old Lawe— Levit. chap xvi , v 21. 22. 'And Aaron shall lay,' &c. This Custome (though rarely used in our dayes) yet by some people was observed even in the strictest time of the Presbyterian Government; as at Dynder (*volens nolens*, the Parson of the Parish) the Kindred Woman deceased there had this punctually performed according to her Will: and, also, the like was done at the City of Hereford in those times, where a Woman kept, many yeares before her death, a Mazard Bowle for the Sinne-Eater; and the like in other places in this Countie: as also in Brecon (a). I believe Custom was heretofore used all over Wales (b)
+> SIN EATERS (January 1st, 1879). "Proud Salopian" asks (January 1st, 1879) for proof respecting this practice.
+
+As provenance, they cite their original correspondence describing the tradition (which cites Bagford's letter in *Leland's Collectanea*):
+
+> If he will refer to *Shreds and Patches* of Ang. 14th. last year, he will see what authority I relied on.
+
+as well as providing a perhaps more convenient reference in the guise of the 1813 edition of Brand's *Popular Antiquities*:
+
+> In Brand’s *Popular Antiquities* vol ii., p. 155-6, quarto edition of 1813, he will find all the proof which can be given ; and Bagford adds, "How can a man think otherwise of this than that it proceeded from the ancient Heathens?"
+
+*Boileau* then includes the Aubrey quote, with which we are increasingly familiar:
+
+```{admonition} Boileau, quoting Aubrey
+:class: dropdown
+
+> Aubrey further remarks. "In the county of Hereford was an old Custome at Funeralls hire poor People, who were to take upon them the Sinnes of the Party deceased. One of them (he was a long, leane, ugly, lamentable poor Raskal) I remember lived in Cottage Rosse high-way The manner was that when the Corps waa brought out of the House and layd on the Biere, a Loafe of Bread was brought out and delivered to the Sinne Eater, over the Corps, as also a Mazar Bowle of Maple, full of Beer (which he was to drink up), and Sixpence in money: in consideration whereof he took upon him, *ipso facto*, all the Sinnes of the defunct, and freed him or her from walking after they were dead. This Custome alludes, methinks, something to the Scape Goate in the old Lawe— Levit. chap xvi , v 21. 22. 'And Aaron shall lay,' &c. This Custome (though rarely used in our dayes) yet by some people was observed even in the strictest time of the Presbyterian Government; as at Dynder (*volens nolens*, the Parson of the Parish) the Kindred Woman deceased there had this punctually performed according to her Will: and, also, the like was done at the City of Hereford in those times, where a Woman kept, many yeares before her death, a Mazard Bowle for the Sinne-Eater; and the like in other places in this Countie: as also in Brecon (a). I believe Custom was heretofore used all over Wales (b)
 >
-> "(a) E.g.f at Llangors, where Mr. Gwin. the Minister, about 1640. could not hinder the performance of this ancient Custome.
+> "(a) E.g. at Llangors, where Mr. Gwin. the Minister, about 1640. could not hinder the performance of this ancient Custome.
 >
 > '(b) MS. Lansd, 226, fol. 116.' In another page. Mr. Aubrey says:— “A.D. 1686 This Custom is used this day in North Wales, where milk seems to have been the substitute for beer."
->
+```
+
+Additional details are also hinted at courtesy of Pennant, also described in Brand's *Popular Antiquities*:
+
 > In the same book. Brand's *Popular Antiquities* p 193, I note there is farther account of this custom from Pennant's MS. relative to North Wales.
 >
 > Boileau.
 
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18790205/144/0006
-
-Eddowes's Journal, and General Advertiser for Shropshire, and the Principality of Wales
-1879-02-05
-, p?
+Unfortunately, this does not satisfy *Proud Salopian*, who in their letter in the following edition, of [February 5th, 1879](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18790205/144/0006) is keen to learn of a more contemporary description of the tradition:
 
 > SALOPIAN SHREDS AND PASTURES
 >
@@ -141,7 +100,16 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 >
 > Proud Salopian.
 
----
+Thus far, I have been unable to find any signs of a further response from *Boileau*.
+
+## British Goblins
+
+Towards the end of 1879, reviews started to appear for a new book on "Welsh Folk-Lore, Fairy Mythology, Legends and Traditions" in the form of [*Britsh Goblins*](https://archive.org/details/britishgoblinswe00sikeuoft), which appears to have had a publication date of 1880, by the Hon. Wirt Sykes. 
+
+
+
+
+
 
 
 https://newspapers.library.wales/view/3309620/3309623/16/
@@ -152,7 +120,7 @@ The Cambrian News and Merionethshire Standard
 
 > LITERATURE.
 >
-> BRITISH GOBLIN  Welsh Folk-Lore, Fairy Mythology, Legends and Traditions; by the Hon. Wirt Sykes, United States Consul for Wales. London, Sampson Low & Co.
+> BRITISH GOBLINS  Welsh Folk-Lore, Fairy Mythology, Legends and Traditions; by the Hon. Wirt Sykes, United States Consul for Wales. London, Sampson Low & Co.
 >
 > THIS is, to us, one of the most attractive books of the season. Not only has Mr. Sykes carefully culled from published sources —such as Peter Roberts's Cambrian Antiquities, Jones's "Apparations,""Cymru Fu," "Cambro Briton," "Bye-gones" "Archaeologia Cambrensis" all that relates to his subject, but he has gone about amongst the people of South Wales for himself, and taken down from the lips of the elders there old stories of bye-gone customs and once prevalent superstitions. May be that the author places too much confidence in some of those narratives; whether he does or not, they add greatly to the interest of his book, and readers can judge for themselves how much to put under the head of "national superstitions," and how much to the credit merely of the foolish fancies of the narrators. We are glad to see that Mr. Sykes has investigated the "Sin Eater" fable. We don't believe an instance of this practice was ever proved to have been observed in Wales, or Shropshire either, and the author, after giving all the "illustrations" he can gather, says:-
 >
