@@ -1,9 +1,8 @@
 # Following the First Controversy
 
+In the months following the flurry of correspodence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the pages fell largely silent on the matter, although topics on folklore and various customs continued to be popular.
 
-In the months following the flurry of correspodence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the pages fell laregly silent on the matter, although topics on folklore and various customs continued to be popular.
-
-In the [April 12th, 1876](https://journals.library.wales/view/2092910/2093636/6#?xywh=198%2C658%2C2797%2C1845) issue *Bye-Gones*, p43, for example, we find the fllowing column on exorcisms in Wales which derives from the Lady Verney column on *Old Welsh Legend and Poetry*:
+In the [April 12th, 1876](https://journals.library.wales/view/2092910/2093636/6#?xywh=198%2C658%2C2797%2C1845) issue *Bye-Gones*, p43, for example, we find the following column on exorcisms in Wales which derives from the Lady Verney column on *Old Welsh Legend and Poetry*:
 
 > EXORCISM IN WALES.
 >
@@ -19,6 +18,16 @@ Towards the end of 1876, a "new comer" to Cardiff enquired of the readers of the
 > Sir ,— Is there among the numerous intelligent correspondents of the *Western Mail* one who can inform me to what extent the ancient burial and marriage customs of the Welsh still prevail? I allude particularly to the customs of watching over the dead in the manner called by the Irish "waking" – the placing of salt on the breast of the corpse, and the performance of the sin eater. I am told that these customs were still prevalent in Carmarthenshire, and other like neighbourhoods strongly Welsh, within a few years back. Do they still prevail ? A late number of the *Dublin University Magazine* represented the customs of this kind in Yorkshire as being only just extinct. No doubt your correspondents in Carmarthenshire could enlighten me as regards the same here; or the learned "Morien" might consent to devote a paragraph or two to the subject, which is full of interest to readers who have come to Wales from other parts. The bidding to weddings I believe is still practised in some sections, and the galloping to church may be also, but of this I have not heard. NEW COMER. Cardiff, Nov. 17.
 
 There do not appear to have been any replies.
+
+```{admonition} Lady Verney, Sister of Florence Nightingale
+:class: seealso dropdown
+
+Lady Verney, sister of Florence Nightingale, author and second wife of Harry Verney, 2nd Baronet, MP for Buckingham.
+
+https://en.wikipedia.org/wiki/Frances_Parthenope_Verney
+https://en.wikipedia.org/wiki/Verney_family_of_Middle_Claydon
+
+```
 
 In Notes and Queries, [Vol 9 Iss 212, dated January 19th, 1878](https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up), p48, a query on the matter of customs surrounding "bread and salt" appears:
 
