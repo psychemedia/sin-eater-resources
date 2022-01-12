@@ -194,7 +194,7 @@ Roberts closes where he began: with reference to the recent work (at the time) f
 >
 > Oswestry. Askew Roberts.
 
-We will pick up the tale again in the next chapter by reviewing these three new additions to the published canon regarding the sin-eater: the discussion in the *Shrewsbury Journal*, Wirst Sykes' *British Goblins*, and Paxton Hood's work on Christmas Evans.
+We will pick up the tale again in the next chapter by reviewing these three new additions to the published canon regarding the sin-eater: the discussion in the *Shrewsbury Journal* and Wirt Sykes' *British Goblins*, and later, by Paxton Hood's work on Christmas Evans.
 
 But first, a slight aside..
 
