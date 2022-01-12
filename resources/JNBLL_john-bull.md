@@ -11,4 +11,14 @@ The proverb says it "never rains but it pours." If that proverb were ever applic
 
 [Includes announcement, without comment, of "and The Mountain Decameron, by Mr. Downes, of Builth".]
 
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001945/18430403/024/0006
+John Bull
+Monday 03 April 1843
+p6
+
+At the Beanmaris Assizes Isst week, a esse of crim. eon. (Evans v. Elliott) was tried, and verdict of9ool. damages obtained. Plaintiff was abont 24, native of some place near Tamwonb, and after short eoortsbip married his wife, who was at the lime about 18, and the daughter of solicitor Wenlock. They resided at Angleaaa, apparently on harmonious terms, ontil November last year, when defendant, who was scarcely 20, came on a visit to them, and in less than a fortnight the onforlnnate woman fell. The same day another Jary gave the father of a girl named Pritchard 21.25. damages for her JOHN HULL seduction, which Waa accomplished after the custom ofthe entry,” the mode of courtship called bundling,’’ adopted in Wales, is termed.
+
+---
 

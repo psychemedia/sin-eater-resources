@@ -1,5 +1,15 @@
 
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18430405/001/0001
+Hereford Journal
+Wednesday 05 April 1843
+p1
+
+TIIE ß«uis of Hertford's Valet.— *'°a d Chancellor has, on appeal, confirmed the dcci- i ce - c bancellor, by which the fortunate valet t 7 s the full benefit of the will of the late Marquis. " c Beaumaris Assizes last week, a case of crim. con. W «. Elliott) was tried, and verdict of 500/. da|V obtained. Plaintiff was about 24, a native of some ' Pauiworth, and after a short courtship married a.. ~' ho was at the time about 18, and the daughter tor at Wenlock. They resided at Anglesea, ap- Hefj v harmonious terras, until November last year, defendant, who was scarcely 20, came on visit to in less than fortnight the unfortunate woman j*he same day another jury gave the father of a girl N Pritchard 21. 2s. damages for her seduction, which "after the custom of the country," as U j° court,1 »P called "bundling" adopted in Wales, of 
+
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18490711/025/0004
