@@ -272,7 +272,7 @@ Moggridge then attempted to address certain of the questions raised:
 
 > Starting from the Cwm Amman Valley he found that the most horrible portion of the custom dropped, and the rest still remained; and as he advanced still further he found that less remained.
 
-So for Moggridge, it is the *eating over the body* that is presumably at the heart of the tradition his is attempting to describe.
+So for Moggridge, it is the *eating over the body* that is presumably at the heart of the tradition he is attempting to describe.
 
 The next part of the report then reveals a gap in the earlier part of account in the Shrewsbury Chronicle:
 
@@ -426,7 +426,7 @@ Notes & Queries started life as a weekly period [first published on Saturday, No
 
 Its motto – *"When  found,  make  a  note  of."-— CAPTAIN  CUTTLE* — will resonate with anyone who has an online social bookmarking habit or posted interesting "notes" or links or screenshots to their favouring social networking site.
 
-To a certain exteain, it might be thought of as an "social commonplace book" (see for example, [Wikipedia: *(Commonplace Book*)](https://en.wikipedia.org/wiki/Commonplace_book), or with a [contemporary twist](https://thepaperkind.com/2020/08/15/commonplace-book/); for creating your own commonlplace book, with index, see for example [*A new method of making common-place-books*, John Locke, 1706](https://archive.org/details/gu_newmethodmaki00lock)).
+To a certain extent, it might be thought of as an "social commonplace book" (see for example, [Wikipedia: *(Commonplace Book*)](https://en.wikipedia.org/wiki/Commonplace_book), or with a [contemporary twist](https://thepaperkind.com/2020/08/15/commonplace-book/); for creating your own commonlplace book, with index, see for example [*A new method of making common-place-books*, John Locke, 1706](https://archive.org/details/gu_newmethodmaki00lock)).
 
 As the opening welcome to the first issue describes (p.1-3):
 
