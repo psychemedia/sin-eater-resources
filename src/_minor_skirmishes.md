@@ -2,6 +2,8 @@
 
 In the months following the flurry of correspodence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the pages fell largely silent on the matter, although topics on folklore and various customs continued to be popular.
 
+## Around and About
+
 In the [April 12th, 1876](https://journals.library.wales/view/2092910/2093636/6#?xywh=198%2C658%2C2797%2C1845) issue *Bye-Gones*, p43, for example, we find the following column on exorcisms in Wales which derives from the Lady Verney column on *Old Welsh Legend and Poetry*:
 
 > EXORCISM IN WALES.
@@ -218,6 +220,8 @@ So what, exactly, did Wirt Sykes have to say for himself about the sin-eater, an
 In the heading to Chapter VII, from p321, onwards, of the 1880 edition of [*British goblins: Welsh folk-lore, fairy mythology, legends and traditions*](https://archive.org/details/britishgoblinswe00sikerich/page/321/mode/2up), Wirt Sikes describes lists the topics to be covered in the chapter
 
 > Death and Burial— The Gwylnos— Beer-drinking at Welsh Funerals — Food and Drink over the Coffin — Sponge Cakes at Modern Funerals — The Sin-eater— Welsh Denial that this Custom ever existed — The Testimony concerning it — Superstitions regarding Salt— Plate of Salt on Corpse's Breast— The Scapegoat— The St. Tegla Cock and Hen — Welsh Funeral Processions — Praying at Cross-roads — Superstition regarding Criminals' Graves— Hang- ing and Welsh Prejudice — The Grassless Grave — Parson's Penny, or Offrwm— Old Shoes to the Clerk— Arian y Rhaw, or Spade Money— Burials without Coffin— The Sul Coffa— Planting and Strewing Graves with Flowers.
+
+The chapter opens with a introduction to funeral traditions.
 
 ```{admonition} I. *Funeral Traditions*
 :class: dropdown
