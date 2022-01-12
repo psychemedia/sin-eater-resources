@@ -41,7 +41,7 @@ I know the habits of the Welsh well, and though they are far from what could be 
 
 This communication attracted the notice of Dr Dd. Thomas, Ystalvfera, who, thinking the charge made by Dr. Matthews Duncan should not W allowed to remain without a further attempt at refutation, also wrote the editor a letter on the subject, but beyond an acknowledgment of its receipt no further notice was taken of it in the columns of the *British Medical Journal*. Through the courtesy of Dr. Thomas we are enabled to publish a copy of this letter. It is as follows :—
 
-TO THE EDITOR OF THE" BRITISH MEDICALJOURNAL.
+TO THE EDITOR OF THE BRITISH MEDICAL JOURNAL.
 
 SIR,—I am glad to find my friend, Mr. E. Rice Morgan, has entered his protest against the odious and unwarrantable statement made by Dr. Matthews Duncan as to Welsh morality in his a dress on "Sterility," as published recently in your journal (*vide* page 702, April 14).
 
