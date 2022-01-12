@@ -282,7 +282,7 @@ He further comments on salt traditions as related to portent and omen:
 
 ### The Biblical Scapegoat
 
-The idea of the sin-eater is recalled in section IV, which considers 
+The idea of the sin-eater is recalled in section IV, which considers the tradition as an example of a scapegoat tradition:
 
 > It has been suggested that the custom of the Sin-eater is in imitation of the Biblical scapegoat. 'And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness. And the goat shall bear upon him all their iniquities unto a land not inhabited : and he shall let go the goat in the wilderness.' `[Levit. xvi., 21, 22.]`
 
