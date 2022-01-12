@@ -290,7 +290,8 @@ Sikes then mentions another tradition, that of the "cock and hen of St. Tegla's 
 
 The chapter categories several other funeral customs, which are included here for completeness.
 
-```{admonition} V. Fineral Processions
+```{admonition} V. Funeral Processions
+:class: dropdown
 
 > The funeral procession, in rural districts where hearses are unknown, wends its way graveward on foot, with the corpse borne by the nearest relatives of the deceased, a custom probably introduced in Wales during their residence here by the Romans. The coffin of Metellus, the conqueror of Macedon, was borne by his four sons. The coffins of Roman citizens held in high esteem by the Republic, were borne by justices and senators, while those of the enemies of the people were borne by slaves and hired servants. As the Welsh procession winds its way along the green lanes, psalms and hymns are sung continually, except on coming to cross-roads. Here the bier is set down, and all kneel and repeat the Lord's Prayer. The origin of this custom, as given by the Welsh, is to be found in the former practice of burying criminals at cross-roads. It was believed that the spirits of these criminals did not go far away from the place where their bodies lay, and the repeating of the Lord's Prayer was supposed to destroy and do away with any evil influence these spirits might have on the soul of the dear departed. `['Cymru Fu,' 92.]`
 > 
@@ -301,6 +302,7 @@ The chapter categories several other funeral customs, which are included here fo
 *Another funeral procession story is worth noting here, that of the "funeral rehearsal", e.g. as told in Joyn Rhys' "Celtic Folklore: Welsh and Manx", Volume I, p.271-3, retelling a tale published (anoynously?) Silvan Evans.*
 
 ```{admonition} *The Funeral Rehearsal*, collectd by D. Silvan Evans
+:class: dropdown seealso
 
 From John Rhys, [Celtic Folklore: Welsh and Manx, Volume I](https://archive.org/details/celticfolklorewe01rhys/page/270/mode/2up?q=funeral), 1901, p271-3, *"so charmingly told by Silvan Evans, which he got from the mouths of the farmer and his wife, whom he considered highly honest and truth- ful persons, as well as comparatively free from superstition. The last time they talked to him about the incident they were very advanced in years, and both died within a few weeks of one another early in the year 1852."* 
 
@@ -340,6 +342,7 @@ The traditions continue:
 ```
 
 ```{admonition} IX. *Sul Coffa* / *Sul Coffa of Ivan the Harper*
+:class: dropdown
 
 > Sul Coffa is an old Welsh custom of honouring the dead on the Sunday following the funeral, and for several succeeding Sundays, until the violence of grief has abated. In the Journal of Thomas Dinelly, Esquire, an Englishman who travelled through Wales and Ireland in the reign of Charles II., `[Quoted in the Proceedings of the Kilkenny Arch. Soc., 1858.]` this passage occurs, after description of the wake, the keening, etc. : 'This done ye Irish bury their dead, and if it be in or neer ye burying place of that family, the servants and followers hugg kiss howle and weep over the skulls that are there digg'd up and once a week for a quarter of an year after come two or three and pay more noyse at the place.' The similarity in spirit between this and the Welsh Sul Coffa is as striking as the difference in practice. The Welsh walk quietly and gravely to the solemn mound beneath which rest the remains of the loved, and there kneeling in silence for five or ten minutes, pray or appear to pray.
 >
@@ -347,7 +350,8 @@ The traditions continue:
 
 ```
 
-```X. Flowers on Graves
+```{admonition} X. Flowers on Graves
+:class: dropdown
 
 > Reference has been made, in the chapter on courtship and marriage, to the Welsh practice of planting graves with flowers. There are graves in Glamorganshire which have been kept blooming with flowers for nearly a century without interruption, through the loving care of descendants of the departed. By a most graceful custom which also prevailed until recently, each mourner at a funeral carried in his hand a sprig of rosemary, which he threw into the grave. The Pagan practice of throwing a sprig of cypress into the grave has been thought to symbolize the annihilation of the body, as these sprigs would not grow if set in the earth : whereas the rosemary was to signify the resurrection or up-springing of the body from the grave. The existing custom of throwing flowers and immortelles into the grave is derivable from the ancient practice. But the Welsh carry the association of graves and floral life to the most lavish extreme, as has already been pointed out. Shakspeare has alluded to this in 'Cymbeline,' the scene of which tragedy is principally in Pembrokeshire, at and about Milford Haven:
 >
