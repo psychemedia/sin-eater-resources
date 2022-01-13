@@ -213,7 +213,35 @@ The *Wrexham Guardian* reviewer closes the review with high regard:
 
 > *British Goblins* is evidently the work of an author well versed in the folk-lore of other countries, especially in that of Germany and Scandinavia. The copious index at the end of the volume, and the lists of contents before each chapter, add much to the usefulness of the book. It is dedicated, most appropriately, to the Prince of Wales, and its popularity in Wales is certain to be great — not because all the author's views will be entirely agreed with, but because of the amount of information it affords on many subjects hitherto little known, the deeply interesting materials of which it is composed and the sympathetic and generous appreciation of all that is best in the Welsh character which Mr. Wirt Sikes has so constantly displayed in his literary work.
 
-So what, exactly, did Wirt Sykes have to say for himself about the sin-eater, and other death traditions?
+A later review, in *The North Wales Express* of [January 23rd, 1880](https://newspapers.library.wales/view/3558939/3558947/52/), p8, opens with the observation that it is unusual that it has taken someone who *isn't* Welsh to have created such a work:
+
+> In perusing this handsome volume, which, by the way, is specially dedicated to the Prince of Wales, we are struck by the singular fact that it has remained for a stranger to bring together in proper form the vast amount of fairy lore and superstitions with which Welsh history at every period is enriched. But is not the less advantageously handled, for this great task has fallen to the lot of a writer who has thoroughly investigated the legendary lore of other countries, and his masterly treatment and classification have stood him in good stead in the present work.
+
+The reviewer then praises Sikes for having put the work in, and that he is to be credited for it. His emotional distance and cultural independence might also be seen as being of benefit in producing such a work:
+
+> Mr Sikes apparently has suffered nothing from the probable disadvantage of investigating the traditions of a country to which he was until lately a perfect stranger, for his energy has enabled him to turn over every stone which may yield to him any fragmentary stories, from the immense mass of which he has compiled a bulky volume but on the other hand he starts upon the work untainted by those sentimental considerations which in the case of a Welshman may have influenced his treatment of some of the matter inevitably brought into the work.
+
+This allows him to treat the subject matter in an unbiased and straightforward way:
+
+> We cannot help thinking that in the hands of many Welsh writers an apologetic tone would probably influence the ludicrous side of the subject, whilst in another direction the work may have suffered by the suppression of much of what Mr Sikes has brought very clearly to light.
+
+A review of the content then follows:
+
+> The author in his preface admits that Wales is the cradle of fairy legend, and that from this field have been borrowed many of the first subjects of composition in the literature of all the cultivated peoples of Europe. With such enormous wealth Mr Sikes has moulded these stories into a pleasing form, and we are enabled to read with delight of the revels of elves, of fairies, and of their marvellous doings in every part of the Principality, the depredations of goblins, the horrors of ghosts, and the miraculous virtues of stones, wells, &c., which exercised an influence upon the superstitious.
+
+Content which is too rich and comprehensive to quote from, and which should be enjoyed directly from reading the book itself:
+
+> It would be too stupendous a task for us to recapitulate the contents of the book, or to extract some of the best stories told therein. The book must be perused to be duly appreciated.
+
+Instead, the reviewer provides an overview of the book's structure, which might allow a potential reader to get a flavour for the treats it contains, include the legend of the sin-eater, which, the reviewer observes, is treated in a fair and balanced way:
+
+> But we may state that it is divided into four sections. Book I. deals with the Realm of Faerie, which again is sub-divided into different classes. The author has classified the fairies, and it will astonish many to know that these airy beings were so multifarious in their kind. We have the household faries, the lake faries, the mountain faries, &c., and the peculiarities of each are shown by a great number of stories. In Book II., "The Spirit World," the author has managed to bring together a collection of the most blood-freezing ghost stories that we have ever had the pleasure of coming across. We have little doubt this will be with many readers the most popular part of the book. The ghosts are also regularly classified, and comparisons drawn between these and like creatures of popular fancy in other lands. The chapters on death-omens are especially absorbing. A pleasant change of subject is found in the Third Book, where a large number of quaint old customs are described. The Sin-eater, a custom long associated with Wales by writers in this fields is treated of at some length, and the evidence pro and con regarding it carefully collated.
+
+Finally, the illustrations are credited:
+
+> The illustrations by Mr Thomas add to the attractions of the book, and the work of the printer has been exceedingly well done.
+
+So, exactly, did Wirt Sykes have to say for himself about the sin-eater. *"the evidence pro and con regarding it carefully collated"*, and other death traditions?
 
 ## *British goblins : Welsh folk-lore, fairy mythology, legends and traditions*, Wirt Sykes, 1880
 
