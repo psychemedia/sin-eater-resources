@@ -40,7 +40,7 @@ Indeed, based on the success of recently create English archaeological societies
 
 > Since so much good has been effected throughout England, generally, by the existence of Societies for "the Encouragement and Promotion of researches into the Arts and Monuments of the Early and Middle Ages," and since the enthusiasm excited by these societies is still on the increase, why should we not establish a similar Society or Association for Wales, and form ourselves into a body of  Archaeologists for the Study and Preservation of Welsh National Antiquities?
 
-A point of contrast is noted, however, between how the "business model" of English societies (which is to say, topic-based or thematic social netwroks) – launch the society first, build the audience, then publish the magazine - and an opportunity afforded by the *Archaeologia Cambrensis*: tale the audience it has already built, and create a society (which is to say, a thematic social network) around that audience:
+A point of contrast is noted, however, between how the "business model" of English societies (which is to say, topic-based or thematic social networks) – launch the society first, build the audience, then publish the magazine - and an opportunity afforded by the *Archaeologia Cambrensis*: tale the audience it has already built, and create a society (which is to say, a thematic social network) around that audience:
 
 > We are aware that some will urge against the idea, what they are pleased to call, our national apathy and slowness. They will say that other Welsh societies have been formed with not very dissimilar objects, and have become extinct, or else proceed so slowly that their existence is scarcely known to the generality of our fellow countrymen. But we would reply, that Archaeology is not now the dry and dusty, because speculative and theoretical, study which it once was. It is like Geology, it has taken firm hold of the national mind, and has numerous votaries in all parts, not of these islands only, but of the whole civilized world. The same objection, too, might have been urged against the formation of any new association in England ; for was not the old Society of Antiquaries already in existence when the others were formed? and yet, by which is the real work now principally doing, by the society at Somerset House, or by the others?
 
@@ -292,7 +292,7 @@ So then, apparently the practice was extinct, and had, to Mr Moggridge's knowled
 
 > E. A. Freeman, Esq. enquired whether sin-eater was the term used in the district where the custom prevailed ?
 
-Again, this question is one that we shall return to: if the tradition was a South Walian one, then might we not expect to find vestiges of it in the language (as well as the folklore) of the Principlaity?
+Again, this question is one that we shall return to: if the tradition was a South Walian one, then might we not expect to find vestiges of it in the language (as well as the folklore) of the Principality?
 
 > We understand Mr. Moggridge to reply in the affirmative.
 
@@ -404,7 +404,7 @@ The official report then turns to back to Moggridge's response but __omits__ the
 
 Moggridge's response in the official record, as well as the final remarks, then largely follow the text presented in the Chronicle, with just a few minor differences in spelling (*gist* rather than *jist*, *connexion* rathe than *connection*, turn of phrase (*no immediate connexion* rather than *no immediate and direct connection*) and formaility (Mr. Allen as not qualified as a "friend").
 
-The only possibly substantive difference was in the currency of the pratice which he believed *"was extinct now"* rather than *"extinct in the Cwm Amman Valley"*.
+The only possibly substantive difference was in the currency of the practice which he believed *"was extinct now"* rather than *"extinct in the Cwm Amman Valley"*.
 
 > Mr. Moggridge said— Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. He thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of sin-eater and the plate and the salt. Starting from the Carmarthenshire valley, he found the most horrible portion of the custom dropped, and the rest still retained; and as he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high character, said that the custom had existed both in Herefordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw a man whom he described as the sin-eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred four or five years ago, but he believed it was extinct now.
 >

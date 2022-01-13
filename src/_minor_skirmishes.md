@@ -1,6 +1,6 @@
 # Following the First Controversy
 
-In the months following the flurry of correspodence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the pages fell largely silent on the matter, although topics on folklore and various customs continued to be popular.
+In the months following the flurry of correspondence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the pages fell largely silent on the matter, although topics on folklore and various customs continued to be popular.
 
 ## Around and About
 
@@ -39,7 +39,7 @@ In Notes and Queries, [Vol 9 Iss 212, dated January 19th, 1878](https://archive.
 >
 > Ed. Marshall, F.S.A
 
-Although this does not directly relate to the ritual that was often described in a sin-eater context, I wonder if we might not co-opt this sotry to create a fictional sin-eater tale of our own involving a priest who takes various sincs unto himself, but then passes them on to his unkowing parishioners!
+Although this does not directly relate to the ritual that was often described in a sin-eater context, I wonder if we might not co-opt this story to create a fictional sin-eater tale of our own involving a priest who takes various sincs unto himself, but then passes them on to his unkowing parishioners!
 
 And in full length work by James Napier published in 1879, [Folk lore: or, superstitious beliefs in the west of Scotland within this century](https://archive.org/details/folkloreorsuper00napigoog/page/n70/mode/2up), p60-62, several *Scottish* death customs were described:
 
@@ -179,7 +179,7 @@ Another tradition is then mentioned that is, however, believed to be extant:
 > Concerning the custom of bundling (courting a-bed), on the other hand, his testimony is that it is still practised in certain rural neighbourhoods of Wales. He adds "It is only by breathing the very atmosphere of an existance whose primitive influences we may thus ourselves feel, that we can get a just conception of underlying forces which govern a custom like this. Of course it is sternly condemned by every advanced moralist, even in the neighbourhoods where it prevails." An instance of bundling is given which came to the author's knowledge so lately as 1877. In this connection he pertinently recalls certain laws of the ancient Britons regarding courtship, which were so severe that "any other issue to courtship than marriage was practically impossible." Many of the quaint old customs in Wales, our author tells us, while they "appear to be meaningless, to people of average culture, are in truth replete with meaning:"
 
 ```{admonition} The Tradition of "Bundling"
-Sikes describes the tradtion of bundling in the following terms, or rather, *doesn't* describe the tradition:
+Sikes describes the tradition of bundling in the following terms, or rather, *doesn't* describe the tradition:
 
 > The Welsh custom of Bundling, or courting abed, needs no description. The Welsh words sopen and sypio mean a bundle and to bundle, and they mean a squeezed-up mass, and to squeeze together ; but there is a further meaning, equivalent to our word baggage, as applied to a strumpet. `[The Rev. Dr. Thomas, late President of Pontypool College, whose acquaintance with Welsh customs is very extensive, (and to whose erudition I have been frequently indebted during the progress of these pages through the press, tells me he never heard the word sopen or sypio, synonymous with bundling, used for the old custom, but only 'caru yn y gwclu,' (courting abed.)]` The custom of bundling is still practised in certain rural neighbourhoods of Wales. To discuss its moral character is not my province in these pages ; but I may properly record the fact that its practice is not confined to the
 irreligious classes. It is also pertinent here to recall the circumstance that among these people anciently, courtship was guarded by the sternest laws, so that any ther issue to courtship than marriage was practically impossible. If a maiden forgot her duty to herself, her parents, and her training, when the evil result became known she was to be thrown over a precipice ; the young man who had abused the parents' confidence was also to be destroyed. Murder itself was punished less severely. Customs of promiscuous sleeping arose in the earliest times, out of the necessities of existence in those primitive days, when a whole household lay down together on a common bed of rushes strewn on the floor of the room. In cold weather they lay close together for greater warmth, with their usual clothing on. Caesar's misconception that the ancient Britons were polyandrous polygamists evidently had here its source.
@@ -300,7 +300,7 @@ Supersitions and traditions involving *salt* are described in the next section, 
 
 > Of superstitions regarding salt, there are many in Wales. I have even encountered the special custom of placing a plate of salt on the breast of the corpse. In the case of an old woman from Cardiganshire, who was buried at Cardiff, and who was thus decked by her relatives, I was told the purpose of the plate of salt was to 'prevent swelling.' There is an Irish custom of placing a plate of snuff on the body of a corpse ; hence the saying, addressed to an enemy, 'I'll get a pinch off your belly yet.'
 
-Sikes also suggests that such funeral traditions are widespread and should not be too hastily identified with the sin-eater tradtion.
+Sikes also suggests that such funeral traditions are widespread and should not be too hastily identified with the sin-eater tradition.
 
 > The Irish also employ the plate of salt in the same manner. In view of the universal prevalence of superstitions regarding salt, too much weight should not be placed on this detail, in connection with the accounts of the Sin-eater. 
 

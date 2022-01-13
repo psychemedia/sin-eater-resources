@@ -200,7 +200,7 @@ But first, a slight aside..
 
 ## A Final Aside – Another Curious Figure
 
-As a final aside, a letter appearing in *The Aberystwith Observer* publisehd [March 11th, 1876](https://newspapers.library.wales/view/3040755/3040759/41/), p4, seems inspired by the recent discussions about the sin-eater, and asks about another curious fellow, *Twm Shone Catti*:
+As a final aside, a letter appearing in *The Aberystwith Observer* published [March 11th, 1876](https://newspapers.library.wales/view/3040755/3040759/41/), p4, seems inspired by the recent discussions about the sin-eater, and asks about another curious fellow, *Twm Shone Catti*:
 
 > TWM SHON CATTI.
 >

@@ -86,7 +86,7 @@ Following the publication of this work, and notwithstanding having relinuqished 
 
 It appears from the obituary that Askew Roberts was a well-regarded man:
 
-> In former days, when he conducted this paper, if he sometimes wrote with too keen a pen to please all readers, he was guided by a wholesome dislike of snobbery and pretence, a just regard for the honour and independence of the Press, and a fearless devotion to the cause of freedom and progress, which he did a good deal to help forward in less favoured times than these ; and while he frankly expressed his opinions, he never vilified his opponents or refused to recognize their merits, so that it is not surprising he should have won the lasting friendship of men who altogether differed wich him in religious and political belief.
+> In former days, when he conducted this paper, if he sometimes wrote with too keen a pen to please all readers, he was guided by a wholesome dislike of snobbery and pretence, a just regard for the honour and independence of the Press, and a fearless devotion to the cause of freedom and progress, which he did a good deal to help forward in less favoured times than these ; and while he frankly expressed his opinions, he never vilified his opponents or refused to recognize their merits, so that it is not surprising he should have won the lasting friendship of men who altogether differed with him in religious and political belief.
 
 A report in *Bye-Gones*, of [June 25th, 1890](https://journals.library.wales/view/2092910/2096798/17#?xywh=-371%2C1552%2C3382%2C2231), p392-3, on the opening of the Askew Roberts Memorial Clock "placed by public subscription outside the [Oswestry] Post Office, and which was to be removed wherever the Post Office was removed to", quoted Roberts' executor, Mr J. Parry-Jones recognising him as "the originator of *Bye-Gones*, which had done so much to create an interest in the subject of folk-lore and antiquarian research in local matters", and who:
 
@@ -521,7 +521,7 @@ The opinion of the editor as to the validity of claims regarding the existence, 
 > The Rev. Professor Silvan Evans, B.D., of Llanymawddwy, has contributed another letter to the Academy in disproof of the absurd statements which have been forthcoming respecting the alleged functions of the imaginary "Sin-Eater"
 ```
 
-Silvan Evans opened with, a patient - perhaps condescending, perhaps resigned – tone, such as one might use when addresssing an obstinate and truculent toddler:
+Silvan Evans opened with, a patient - perhaps condescending, perhaps resigned – tone, such as one might use when addressing an obstinate and truculent toddler:
 
 > The Sin-Eater, by the Rev. D. Silvan Evans and E. R. Morris.
 >

@@ -83,7 +83,7 @@ A few years later, in *The Cambrian News and Merionethshire Standard* of [22nd M
 
 > The superstition of the Sin Eater, a poor half starved wretch, bribed by a dole of bread, beer, and a sixpence, to attend at a funeral, and by accepting such a tender to take upon him the sins of the defunct, is noticed in the same volume ["the Year Book"], and referred to certain counties in North and South Wales, where we have reason to believe it still exists."
 
-A question is also opened in the [May 20th, 1874](https://journals.library.wales/view/2092910/2093266/7#?xywh=-1479%2C-192%2C5791%2C3820) edition of *Bye-gones*, p58, regarding the tradtion:
+A question is also opened in the [May 20th, 1874](https://journals.library.wales/view/2092910/2093266/7#?xywh=-1479%2C-192%2C5791%2C3820) edition of *Bye-gones*, p58, regarding the tradition:
 
 > CURRENT NOTES. ... The Saturday Review, in a notice of Mr Tegg's new edition of Hone's Calanders, says :— "There is scarcely an odd or obsolescent usage in regard to which Hone has not been before us with curious observation. The divination by Bible and Key, which crops up just now in an amusing story in the *Cornhill* is described in the Year Book. The superstition of the Sin Eater, a poor half-starved wretch, bribed by a dole of bread, beer, and a sixpence, to attend at a funeral, and by accepting such a tender to take upon him the sins of the defunct, is noticed in the same volume, and referred to certain counties in North and South Wales, where we have reason to believe it still exists." Can any of our readers tell us anything about this curious custom ? ... Any notes on either of these subjects would be acceptable in our Bye-gones column.
 
