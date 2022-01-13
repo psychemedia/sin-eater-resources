@@ -420,13 +420,15 @@ The last point to note is that in the official report, there was no mention of t
 
 In the aftermath of the meeting, it seems that one of the questioners at least was not satisifed with the evidence provided by Mr. Moggridge and turned to a social media site of the time, the recently launched *Notes and Queries*, for assistance.
 
-```{admonition} Notes & Queries
+```{admonition} William Thoms and *Notes & Queries*
 :class: dropdown
 Notes & Queries started life as a weekly period [first published on Saturday, November 3rd, 1849](https://archive.org/details/notesqueries01londuoft/page/n7/mode/2up), a *Medium of Inter-Communication for Literary Men, Artists, Antiquaries, Genealogsts, Etc.*
 
-Its motto – *"When  found,  make  a  note  of."-— CAPTAIN  CUTTLE* — will resonate with anyone who has an online social bookmarking habit or posted interesting "notes" or links or screenshots to their favouring social networking site.
+Its motto was selected by William Thoms, it's editor from launch until 1872 – *"When  found,  make  a  note  of."-— CAPTAIN  CUTTLE*. This will no doubt resonate with anyone who has an online social bookmarking habit or posted interesting "notes" or links or screenshots to their favouring social networking site.
 
-To a certain extent, it might be thought of as an "social commonplace book" (see for example, [Wikipedia: *(Commonplace Book*)](https://en.wikipedia.org/wiki/Commonplace_book), or with a [contemporary twist](https://thepaperkind.com/2020/08/15/commonplace-book/); for creating your own commonlplace book, with index, see for example [*A new method of making common-place-books*, John Locke, 1706](https://archive.org/details/gu_newmethodmaki00lock)).
+Thoms himself was an interesting character, a clerk at the House of Lords from 1845, and then deputy librarian of the House of Lords from 1862 unil 1882.
+
+To a certain extent, *Notes & Queries* might be thought of as an "social commonplace book" (see for example, [Wikipedia: *(Commonplace Book*)](https://en.wikipedia.org/wiki/Commonplace_book), or with a [contemporary twist](https://thepaperkind.com/2020/08/15/commonplace-book/); for creating your own commonlplace book, with index, see for example [*A new method of making common-place-books*, John Locke, 1706](https://archive.org/details/gu_newmethodmaki00lock)).
 
 As the opening welcome to the first issue describes (p.1-3):
 
