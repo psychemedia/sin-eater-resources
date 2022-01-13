@@ -11,7 +11,7 @@ THE RED DRAGON [1] In fulfilment of the promise we gave last week to notice at g
 
 The Sin Eater is a capital little paper by Mr. Askew Roberts, Oswestry, in which the personage in question, much though he has been exercising the minds of English writers, is shown after all to be a myth.
 
-[1] *The Red Dgragon*, the National Magazine of Wales. Edited by Charles Wilkins. Cardiff: Daniel Ower and Company. London: Kent and Company, Paternoster-row.
+[1] *The Red Dragon*, the National Magazine of Wales. Edited by Charles Wilkins. Cardiff: Daniel Ower and Company. London: Kent and Company, Paternoster-row.
 
 ---
 
