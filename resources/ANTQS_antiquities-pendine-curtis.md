@@ -1,7 +1,7 @@
 https://archive.org/details/antiquitiesoflau00curt/page/206/mode/2up?q=funeral
 
 The antiquities of Laugharne, Pendine, and their neighbourhood, Carmarthenshire, Amroth, Sandersfoot, Cilgetty, Pembrokeshire, South Wales
-by Curtis, Mary
+by Curtis, Mary (published for the author)
 
 1880
 
