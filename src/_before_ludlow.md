@@ -75,7 +75,7 @@ We then get a more direct statement regarding the folkloric character we are pur
 Here, then, it would appear that we have another description of a visiting fellow in the Shropshire area in the last quarter of the 17th century ("within memory of our fathers", from a basis in 1715) who arrives when a death is announced; who is paid groat (four pence); who sits on a small stool facing the door, eats some bread and drinks a "full bowl" of ale in one go; and who then stands, and with a particular gesture (though what sort of gesture we don't know), makes a ritual pronouncement. Bagford claims this account comes from Aubrey, perhaps as a personal communication, who was collecting and writing in the latter quarter of the seventeenth century, or perhaps from Aubrey's writings. But in either case: *from Aubrey*.
 
 ```{admonition} John Bagford
-:class: dropdown
+:class: dropdown seealso
 [John Bagford](https://en.wikipedia.org/wiki/John_Bagford) (1650/51 – 5 May, 1716)  was an English antiquarian, writer, bibliographer, ballad-collector and bookseller.
 
 JOHN BAGFORD, BOOKSELLER AND ANTIQUARY MILTON MCC. GATCH https://www.bl.uk/eblj/1986articles/pdf/article12.pdf
@@ -118,7 +118,7 @@ In terms of provenance of the White's papers, which included Aubrey's manuscript
 Regarding the "letter from John Bagford" in *Leland's Collectanea*, it first seems to appear in the second edition of [*Joannis Lelandi antiquarii De rebvs britannicis collectanea*](https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up), edited by Thomas Hearne, and published in 1774, as "A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.
 
 ```{admonition} Thomas Hearne
-:class: dropdown
+:class: dropdown seealso
 [Thomas Hearne](https://en.wikipedia.org/wiki/Thomas_Hearne_(antiquarian)) (1678-1735) was an English diarist, scholar and antiquary from Berkshire.
 
 ```
@@ -142,7 +142,7 @@ So we can date this observation back at least to c. 1714.
 We also note that the letter has a little more detail regarding the current whereabouts of Aubrey's papers – *and is now remaining in the Hands of Mr. Churchill the Bookseller* – as well as a comment regarding the deeper history of the story: *How can a man think otherwise of this, than that it proceeded from the ancient Heathens?*
 
 ```{admonition} John Leland
-:class: dropdown
+:class: dropdown seealso
 
 John Leland was an English antiquary who lived and worked during the first half of the sixteenth century.
 
@@ -189,7 +189,7 @@ The Lansdowne papers are still held by the British Library today, as the [*Lansd
 We have now also pretty much chased our way back to Aubrey.
 
 ```{admonition} John Aubrey
-:class: dropdown
+:class: dropdown seealso
 [John Aubrey](https://en.wikipedia.org/wiki/John_Aubrey) (12 March 1626 – 7 June 1697) was English antiquary and natural philosopher in the latter half of the seventeenth century.
 
 ```
