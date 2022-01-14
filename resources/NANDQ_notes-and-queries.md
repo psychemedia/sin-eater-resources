@@ -158,17 +158,21 @@ E. B.
 
 https://archive.org/details/sim_notes-and-queries_1876-12-23_6_156/page/504/mode/2up
 
-
 Notes and Queries  1876-12-23: Vol 6 Iss 156
 Publication date 1876-12-23
 
 p505
 
-Tue Six-Eater.—This odd term, with the ex- planation (quoted in Brand’s Antiquities), recently turned up in a newspaper article advocating “funeral reform ”:—
+The Sin-Eater.—
 
-“ Our good friend the opulent cheesemonger, or our other good friend the wealthy drysalter, is interred with ceremonies befitting a baron. Says an authority on the subject :—‘ The mutes who stand at the door represent the two porters of the castle, with their staves in black ; the man who heads the procession, wearing a scarf, is the herald-at-arms ; the man who carries the plume of feathers on his head is an esquire, who bears the shield and casque with its plume (of feathers) ; the pall-bearers, with batons, represent the knight companions-at-arms ; and the men walking with wands the gentlemen ushers’; and so on throughout the rest of the performance. There are, however, distinct indications of revolt against this absurdity, and much beside that pertains to the burial of the dead. We have won the right of bei buried with or without Church sanction in consecra or unconsecrated ground, and with entire liberty as to the sort of service to be adopted on the occasion. Those who desire it can have the attendance of a priest at the grave, but he is no more indispensable than a sin-eater. * And what,’ the reader asks, ‘is a sin-eater?’ Well, he is not a person easy to find in these days, but followed an indispensable occupation in the past. He was gene- rally an old man, the Pariah of a village, who, before every funeral, went and stood at the door of the house, where was given him a sixpence, a loaf of bread, anda wooden bowl of beer or milk. And as the coffin passed out, he ate the bread and swallowed the draught, and in so doing took upon himeelf the sins of the departed, and went his way. We are well rid of the sin-eater, who throve in the last century ; but there still linger around us customs and usages hardly less preposterous.”
+This odd term, with the explanation (quoted in Brand’s Antiquities), recently turned up in a newspaper article advocating "funeral reform":—
+
+"Our good friend the opulent cheesemonger, or our other good friend the wealthy drysalter, is interred with ceremonies befitting a baron. Says an authority on the subject :— 'The mutes who stand at the door represent the two porters of the castle, with their staves in black ; the man who heads the procession, wearing a scarf, is the herald-at-arms ; the man who carries the plume of feathers on his head is an esquire, who bears the shield and casque with its plume (of feathers) ; the pall-bearers, with batons, represent the knight companions-at-arms ; and the men walking with wands the gentlemen ushers’; and so on throughout the rest of the performance. There are, however, distinct indications of revolt against this absurdity, and much beside that pertains to the burial of the dead. We have won the right of being buried with or without Church sanction in consecrated or unconsecrated ground, and with entire liberty as to the sort of service to be adopted on the occasion. Those who desire it can have the attendance of a priest at the grave, but he is no more indispensable than a sin-eater. 'And what,' the reader asks, 'is a sin-eater?' Well, he is not a person easy to find in these days, but followed an indispensable occupation in the past. He was generally an old man, the Pariah of a village, who, before every funeral, went and stood at the door of the house, where was given him a sixpence, a loaf of bread, and a wooden bowl of beer or milk. And as the coffin passed out, he ate the bread and swallowed the draught, and in so doing took upon himeelf the sins of the departed, and went his way. We are well rid of the sin-eater, who throve in the last century ; but there still linger around us customs and usages hardly less preposterous."
+
 G. E. Watson.
 St. George's Place, Dublin.
+
+[Reference can be found as https://www.britishnewspaperarchive.co.uk/viewer/bl/0000213/18761014/006/0002, South London Press, Saturday 14 October 1876, p2, Funeral Rites and Wrongs.]
 
 ---
 
@@ -180,9 +184,9 @@ Publication date 1877-01-06
 
 p14
 
-Tne Six-Eater (5th S. vi. 505.)—
+Tne Sin-Eater (5th S. vi. 505.)—
 
-Mr. Watson may perhaps not be aware of very curious or almost identical parallel to this Yorkshire religious ceremony, superstition, or whatever it may be called, in the book on Turkistan recently published by Mr. Schuyler. He found it, if I remeber right, among the Mussulmans of Khokand as a regular part of their religious observances.
+Mr. Watson may perhaps not be aware of very curious or almost identical parallel to this Yorkshire religious ceremony, superstition, or whatever it may be called, in the book on Turkistan recently published by Mr. Schuyler. He found it, if I remember right, among the Mussulmans of Khokand as a regular part of their religious observances.
 
 A. C. B. | [See "N. & Q.," 1st S. vi. 390, 541.]
 
