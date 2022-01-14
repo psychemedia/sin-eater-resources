@@ -262,10 +262,11 @@ Publication date 1882-08-19
 
 p146
 
-Old Yorkshire Customs,—A few days ago I received a letter from a friend, who holds the office of coroner in the North Riding, which is worth
-quoting. He says: "I held an inquest the other day at —— on a man who hanged himself; on the breast of the corpse was a plate of salt— a thing rarely seen now. The object is to scare away evil spirits." Brand mentions the custom as being common in his day in Northumberland, and gives a quotation from Moresin’s *Depravatae Religionis Origo*, 1594, "Salem abhorrere constat Diabolum," &c., which bears out my correspondent’s statement as to the motive with which the act was done in this case. Such a survival, in the nineteenth century, of an old custom is curious and deserves placing on record in "N. & Q."
+Old Yorkshire Customs,—
 
-Jonny H. Cuarmay, F.S.A. Lincoln's Inn.
+A few days ago I received a letter from a friend, who holds the office of coroner in the North Riding, which is worth quoting. He says: "I held an inquest the other day at —— on a man who hanged himself; on the breast of the corpse was a plate of salt— a thing rarely seen now. The object is to scare away evil spirits." Brand mentions the custom as being common in his day in Northumberland, and gives a quotation from Moresin’s *Depravatae Religionis Origo*, 1594, "Salem abhorrere constat Diabolum," &c., which bears out my correspondent's statement as to the motive with which the act was done in this case. Such a survival, in the nineteenth century, of an old custom is curious and deserves placing on record in "N. & Q."
+
+John H. Chapman, F.S.A. Lincoln's Inn.
 
 ---
 
@@ -278,9 +279,11 @@ Notes and Queries 1882-09-30: Vol 6 Iss 144
 
 p273
 
-Old Yorkshire Customs (6th S. vi. 146). — The practice of placing a plate of salt on the breast of a corpse is a general one among the labouring classes of Dudley and that district, though there it is done not with the object indicated by Mr. Chapman, but with the idea that it acts as a disinfectant and purifies the apartment. B. R.
+Old Yorkshire Customs (6th S. vi. 146).
 
-The custom to which my firend Mr. Chapman refers is perhaps more common than he supposes. It was followed in my own house some years ago (without my previous knowledge or sanction), but I found that in addition to the plate of salt on the breast there was a larger vessel of salt under the bed on which the corpse was laid. I have always heard that the reason for placing the plate of salt on the breast was that given by Mr. Chapman's correspondent, who is, if I may guess at his identity, well acquainted with North Yorkshire tradition. C. G. C.
+The practice of placing a plate of salt on the breast of a corpse is a general one among the labouring classes of Dudley and that district, though there it is done not with the object indicated by Mr. Chapman, but with the idea that it acts as a disinfectant and purifies the apartment. B. R.
+
+The custom to which my friend Mr. Chapman refers is perhaps more common than he supposes. It was followed in my own house some years ago (without my previous knowledge or sanction), but I found that in addition to the plate of salt on the breast there was a larger vessel of salt under the bed on which the corpse was laid. I have always heard that the reason for placing the plate of salt on the breast was that given by Mr. Chapman's correspondent, who is, if I may guess at his identity, well acquainted with North Yorkshire traditions. C. G. C.
 Richmond, Yorkshire.
 
 I remember seeing a corpse some twenty years since at Lower Heyford, Oxfordshire, on the breast of which was placed a pewter plate containing salt. On inquiring for what purpose it was placed there the female in attendance said it was to prevent the corpse swelling. G. J. Dew.
@@ -301,7 +304,9 @@ Notes and Queries 1883-01-13: Vol 7 Iss 159
 
 p25
 
-Welsh Folk-lore: tHe Sin-Eater.— The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
+Welsh Folk-lore: tHe Sin-Eater.
+
+The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
 
 "The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire. The meaning of this most singular in-stitution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person; he then uttered an incantation over the bread, after which he proceeded to eat it— thereby eating the sins of the dead person; this done, he received a fee of two-and-sixpence—which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious superstition was everywhere prevalent."
 
