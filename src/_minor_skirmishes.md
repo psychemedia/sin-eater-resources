@@ -31,6 +31,29 @@ https://en.wikipedia.org/wiki/Verney_family_of_Middle_Claydon
 
 ```
 
+An article in the *South London Press* of [Saturday 14 October 1876](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000213/18761014/006/0002), p2, on *"Funeral Rites and Wrongs"*, describing funeral formalities made brief mention of the sin-eater ritual, although the implication is that the beleif may not be regarded as "common knowledge". The relevant part of the article is quoted at length in *Notes & Queries*, [December 23rd, 1876, Vol 6 Iss 156](https://archive.org/details/sim_notes-and-queries_1876-12-23_6_156/page/504/mode/2up), p505:
+
+> The Sin-Eater.—
+> 
+>This odd term, with the explanation (quoted in Brand’s Antiquities), recently turned up in a newspaper article advocating "funeral reform":—
+>
+> "Our good friend the opulent cheesemonger, or our other good friend the wealthy drysalter, is interred with ceremonies befitting a baron. Says an authority on the subject :— 'The mutes who stand at the door represent the two porters of the castle, with their staves in black ; the man who heads the procession, wearing a scarf, is the herald-at-arms ; the man who carries the plume of feathers on his head is an esquire, who bears the shield and casque with its plume (of feathers) ; the pall-bearers, with batons, represent the knight companions-at-arms ; and the men walking with wands the gentlemen ushers’; and so on throughout the rest of the performance. There are, however, distinct indications of revolt against this absurdity, and much beside that pertains to the burial of the dead. We have won the right of being buried with or without Church sanction in consecrated or unconsecrated ground, and with entire liberty as to the sort of service to be adopted on the occasion. Those who desire it can have the attendance of a priest at the grave, but he is no more indispensable than a sin-eater. 'And what,' the reader asks, 'is a sin-eater?' Well, he is not a person easy to find in these days, but followed an indispensable occupation in the past. He was generally an old man, the Pariah of a village, who, before every funeral, went and stood at the door of the house, where was given him a sixpence, a loaf of bread, and a wooden bowl of beer or milk. And as the coffin passed out, he ate the bread and swallowed the draught, and in so doing took upon himeelf the sins of the departed, and went his way. We are well rid of the sin-eater, who throve in the last century ; but there still linger around us customs and usages hardly less preposterous."
+>
+> G. E. Watson.
+> St. George's Place, Dublin.
+
+The correspondent appears unaware of previous mentions of the sin-eater in earlier volumes of *Notes & Queries*, although a reply in the [January 6th, 1877, Vol 7 Iss 158])(https://archive.org/details/sim_notes-and-queries_1877-01-06_7_158/page/n15/mode/2up) issue, p14, is annotated with earlier references. The reply itself draws parallels with a Yorkshire tradition
+
+> Tne Sin-Eater (5th S. vi. 505.)—
+>
+> Mr. Watson may perhaps not be aware of very curious or almost identical parallel to this Yorkshire religious ceremony, superstition, or whatever it may be called, in the book on Turkistan recently published by Mr. Schuyler. He found it, if I remember right, among the Mussulmans of Khokand as a regular part of their religious observances.
+>
+> A. C. B. 
+>
+> [See "N. & Q.," 1st S. vi. 390, 541.]
+
+The work referred to is Eugene Schuyler's [*Turkistan*](https://archive.org/details/turkistannotesa01schugoog, published in 1877. We will review the related item elsewhere.
+
 In Notes and Queries, [Vol 9 Iss 212, dated January 19th, 1878](https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up), p48, a query on the matter of customs surrounding "bread and salt" appears:
 
 > Bread and Salt.
@@ -215,12 +238,12 @@ Several examples are then give of "popist" traditions, including a notable Twelf
 
 > Among those which the author considers to be of Papal origin, but which have now no moral significance is the following :—
 > 
-> Among Twelfth Night customs none is more celebrated than that called Mary Lwyd. It prevails in various parts of Wales, notably in Lower Glamorganshire. The skeleton of a horse's head is procured by the young men or boys of a village, and adorned with "favour" of pink, blue, yellow, &c. These are generally borrowed from the girls, as it is not considered necessary the silken fillets and rosettes should be new, and such finery costs money. The bottoms of two black bottles are inserted in the sockets of the skeleton head to serve as eyes, and a substitute for ears is also contrived. On Twelfth Night they carry this object about from house to house, with shouts and songs, and a general cultivation of noise and racket. Sometimes a duet is sung in Welsh, outside a door, the singers begging to be invited in; if the door be not opened they tap on it, and there is frequently quite a series of *awen* sung, the parties within denying the outsiders admission, and the outsiders urging the same. At last the door is opened, when in bounces the merry crowd, them the Mary Lwyd, borne by oue personating a horse, who is led by another personating the groom. The horse chases the girls around the room, capering and neighing, while the groom cries, "So ho, my boy—gently, poor fellow:" and the girls, of course, scream with merriment. A dance follows — a reel, performed by three young men, tricked out with ribbons. The company is then regaled with cakes and ale, and the revellers depart, pausing outside the door to sing a parting song of thanks and good wishes to their entertainers.
+> Among Twelfth Night customs none is more celebrated than that called Mary Lwyd. It prevails in various parts of Wales, notably in Lower Glamorganshire. The skeleton of a horse's head is procured by the young men or boys of a village, and adorned with "favour" of pink, blue, yellow, &c. These are generally borrowed from the girls, as it is not considered necessary the silken fillets and rosettes should be new, and such finery costs money. The bottoms of two black bottles are inserted in the sockets of the skeleton head to serve as eyes, and a substitute for ears is also contrived. On Twelfth Night they carry this object about from house to house, with shouts and songs, and a general cultivation of noise and racket. Sometimes a duet is sung in Welsh, outside a door, the singers begging to be invited in; if the door be not opened they tap on it, and there is frequently quite a series of *awen* sung, the parties within denying the outsiders admission, and the outsiders urging the same. At last the door is opened, when in bounces the merry crowd, them the Mary Lwyd, borne by one personating a horse, who is led by another personating the groom. The horse chases the girls around the room, capering and neighing, while the groom cries, "So ho, my boy—gently, poor fellow:" and the girls, of course, scream with merriment. A dance follows — a reel, performed by three young men, tricked out with ribbons. The company is then regaled with cakes and ale, and the revellers depart, pausing outside the door to sing a parting song of thanks and good wishes to their entertainers.
 
 ```{admonition} Mari Lwyd in *A tour through part of North Wales in the year 1798*
 :class: dropdown
 
-From [A tour through part of North Wales in the year 1798](https://archive.org/details/b22036118/page/402/mode/2up?q=horse), by John Evans, 1800, p403:
+The *Mari Lwyd* custom is also described in [A tour through part of North Wales in the year 1798](https://archive.org/details/b22036118/page/402/mode/2up?q=horse), by John Evans, 1800, p403, although the name of the tradition is not given:
 
 > Another very singular custom, I never could learn the *rationale* of is, that of a man on new year's day, dressing himself in blankets and other trappings, with a factitious head like a horse, and a party attending him, knocking for admittance, this obtained, he runs about the room with an uncommon frightful noise, which the company quit in real or pretended fright ; they soon recover, and by reciting a verse of some ancient cowydd, or, in default, paying a small gratuity, they gain admission. A similar custom is prevalent in the Highlands ; (*Vid. Johnson*) and, from Du Cange, we find it was a practice of Heathenism. `[Ludi profani apud Ethnicos & Paganos solchant in Kalendis Januarii ; belluarum, pecudum, & Vetularum, assumptis formis, huc.]`
 
