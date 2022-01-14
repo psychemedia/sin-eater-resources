@@ -202,7 +202,11 @@ p65
 
 THe CORPSE CANDLE
 
-The belief in the appearance ...
+The belief in the appearance of the corpse candle in Wales has not yet died out. Having occasion to visit this part of Wales, which, by the way, is in many particulars one of the most interesting spots in Caermarthenshire, I found a valuable "subject" for folklore study – one who cannot speak half-a-dozen words of English. My informant is an aged widow lady. I asked her today if she had ever seen the corpse candle, and she positively assured me that she saw it on the night her husband died, and, further, that at the railway station at this place there is to be seen sometimes, late at night, after every one has left, a candle burning in the office, which is a portent of some evil. With all the persuasive powers at my command, I entirely failed in disabusing her mind of this superstitious belief. It is curious to note that the old corpse candle should find an abiding place in the reailyway station.
+
+J. JEREMIAH
+
+Trehelig, Llangadock, Caermarthenshire
 
 
 
@@ -314,7 +318,9 @@ Publication date 1895-10-12
 
 p288
 
-SIN_EATERS.— Recently this old custom has been referred to in a local paper ; but the rather contradictory illustrations given call for an explanation, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case, put bread, cheese, and beer on the breast of the
+SIN_EATERS.—
+
+Recently this old custom has been referred to in a local paper ; but the rather contradictory illustrations given call for an explanation, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case, put bread, cheese, and beer on the breast of the
 dead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himeelf the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; if so, where. The old custom referred to in Leland's 'Collections' was sin-eating pure and simple. Alfred Chas. Jonas, F.R.Hist.S.
 Pairfield, Poundfald, near Swansea.
 
