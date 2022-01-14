@@ -1,6 +1,6 @@
 # Following the First Controversy
 
-In the months following the flurry of correspondence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the pages fell largely silent on the matter, although topics on folklore and various customs continued to be popular.
+In the months following the flurry of correspondence that constituted the first sin-eater controversy at the end of 1875 and start of 1876, the correspondence pages then largely fell silent on the matter. However, more general discussion of folklore and traditional customs continued to be popular, with the publication of several books on the subject and, in 1877, the launch of *The Folk-Lore Society*.
 
 ## Around and About
 
@@ -56,6 +56,23 @@ Sitting-up with the body and watching over the corpse was also common:
 As to the rationale for the custom?
 
 > The reasons given for watching the corpse differed in different localities. The practice is still observed, I believe, in some places ; but probably now it is more the result of habit — a custom followed without any basis of definite belief, and merely as a mark of respect for the dead ; but in former times, and within this century, it was firmly held that if the corpse were not watched, the devil would carry off the body, and many stories were current of such an awful result having happened One such story was told me by a person who had received the story from a person who was present at the wake where the occurrence happened. I thus got it at second hand. The story ran as follows ; — The corpse was laid out in a room, and the watchers had retired to another apartment to partake of refreshments, having shut the door of the room where the corpse lay. While they were eating there was heard a great noise, as of a struggle between two persons, proceeding from the room where the corpse lay. None of the party would venture into the room, and in this emergency they sent for the minister, who came, and, with the open Bible in his hand, entered the room and shut the door. The noise then ceased, and in about ten minutes he came out, lifted the tongs from the fireplace, and again re-entered the room. When he came out again, he brought out with the tongs a glove, which was seen to be bloody, and this he put into the fire. He refused, however, to tell either what he had seen or heard; but on the watchers returning to their post, the corpse lay as formerly, and as quiet and unruffled as if nothing had taken place, whereat they were all surprised.
+
+Slightly tangential to the immediate theme, but relevant in the wider context, it is perhaps also worth remarking on the foundation of the *The Folk-Lore Society*, in 1877.
+
+```{admonition} *The Folk-Lore Society*, 1877
+:class: dropdown seealso
+
+In a letter to the Athenaeum written under the pseudonym *Ambrose Merton*, [issue 982, August 22nd, 1846](https://babel.hathitrust.org/cgi/pt?id=uc1.c3470610&view=1up&seq=621&skin=2021), pp.
+862-3, William Thoms, a recently appointed clerk in the House of Lords, coined the phrase *folk-lore*. Thoms went on to coin the motto, and become founding editor of, the nascent *Notes & Queries* magazine in 1849,in which notes and queries appertaining to "folk-lore" frequently appear. 
+
+In the pages of *Notes & Queries* of 1876 and 1877, several contributors corresponded on the need for a specialist society to study such matters. A prospectus was duly raised to propose the society in 1877.
+
+As the *Graphic* of [Saturday, December 8th, 1877](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000057/18771208/008/0007), p7 described in its *Scraps* column:
+
+> A FOLK-LORE SOCIETY, the formation of which has been under discussion for some time past in Notes and Queries, is now definitely proposed by Mr. William J. Thoms, who suggests the following points as a basis. – That the headquarters of the Society must be in London, and that there should be a yearly subscription of 1l. 1s. Regarding the first suggestion, Mr. Thoms writes: "I insist on this because the Folk Lore Society must not only have a local habitation and a name, but that habitation must be central and permanent," and as to the second he very naturally says that from the very motives of the Society the incidental expenses will be large, apart from the paper and printing ; and paper and print are luxuries which must be paid for. Mr. Thoms proposes that one of the duties of the Society will be to gather in the various local journals which indulge in folk-lore columns, and to mount and preserve these columns for future use, and, next to gathering together the relics of our folk-lore, the collecting of analogous folk-lore of other countries. The more important items of their researches would be published in an annual volume. Mr. G. Laurence Gomme, whose name is familiar to readers of Notes and Queuries, has consented to act as Honorary Searetary, and any lady or gentleman (for, remarks Mr. Thom, the Folk-Lore Society is one which may be greatly promoted by ladies) who may be disposed, is requested to communicate his orher intentions to that gentleman, at 26, Merthyr Terrace, Castelnau, Barnes, S. W.
+
+The history of the origins of the Folk-Lore Society based on the *Notes & Queries* correspondence will appear at a future date as an appendix to this current work.
+```
 
 ## A Minor Skirmish, Eddowe's Journal, 1878-9
 
