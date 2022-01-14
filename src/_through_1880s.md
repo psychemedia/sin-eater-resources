@@ -1,10 +1,8 @@
-# Through the 1880s
+# Through the 1880s, Part I
 
-Throughout the 1880s, occasional references to the sin-eater occur in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
+Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
 
-also paxton hood, aubrey gentilisme
-
----
+Two publications stand out in particular: Paxton Hood's *Cristmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
 
 ## *The Antiquities of Laugharne, Pendine*, Mary Curtis, 1880
 
@@ -195,7 +193,7 @@ The more complete reference, with which we are familiar, comes at [pp.35-6](http
 
 At last, then, general access to a copy of Aubrey's writings had been made available. But it is perhaps noteable that the publication of the book, and the mention of the Sinne-Eater it contained, did not direclty lead to a a flurry of indigant correspondence around the topic.
 
-# Paxton Hood's *Christmas Evans : the preacher of Wild Wales*, 1881
+## Paxton Hood's *Christmas Evans : the preacher of Wild Wales*, 1881
 
 Although Aubrey's edited manuscripts perhaps had a rather limited appeal, and a limited ability to generate controversy, another book was published in 1881 that *did* generate interest in the sin-eater topic.
 
@@ -240,7 +238,7 @@ In the third edition of 1888 - https://archive.org/details/christmasevansp00hood
 
 An eagle-eyed correspondent to *Notes and Queries*, [Vol 7 Iss 159, January 13th, 1883](https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin), p25, picked up on the reference and provided a new note on the matter, perhaps unaware of previous mentions of the tradition in earlier volumes.
 
-> Welsh Folk-lore: tHe Sin-Eater.— The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
+> Welsh Folk-lore: The Sin-Eater.— The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
 >
 > "The superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire. The meaning of this most singular in-stitution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person; he then uttered an incantation over the bread, after which he proceeded to eat it— thereby eating the sins of the dead person; this done, he received a fee of two-and-sixpence—which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious superstition was everywhere prevalent."
 >
@@ -297,8 +295,7 @@ A plea, of a sort, is then made, for Welsh correspondents to provide further evi
 
 It would be useful to know what sort of contributor *Tal-a-hên* was to know whether this plea is entirely serious!
 
-
-# *Popish Ceremonies Existing in Wales*, Bye-Gones, 1882
+## *Popish Ceremonies Existing in Wales*, Bye-Gones, 1882
 
 A series of articles over several issues of Bye-Gones ([May 13th, 1882, p64-5](https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800), [June 7th, 1882](https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235), [July 5th, 1882](https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801), [July 12th, 1882](https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639)) describes various Catholic rituals.
 
