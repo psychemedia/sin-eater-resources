@@ -107,7 +107,7 @@ poor people, who were to take upon them all the sinnes of the party deceased. On
 
 See Juvenal Satyr, vi. [519-521,] where he speakes of throwing purple thread into ye river to carry away ones sinne.
 
-In North-Wales, the Sinne-eaters are frequently made use of; but there, insted of a Bowie of Beere, they have a bowle of Milke.
+In North-Wales, the Sinne-eaters are frequently made use of; but there, insted of a Bowle of Beere, they have a bowle of Milke.
 
 Methinkes, Doles to Poore people with money at Funeralls have some resemblance of that of ye Sinne-eater. Doles at Funeralls were continued at Gentlemens funeralls in the West of England till the Civil-warre. And so in Germany at rich mens funerals Doles are in use, and to every one a quart of strong and good Beer. — Cramer.
 

@@ -17,7 +17,7 @@ This MS. of Aubrey's, of which Bagford speaks, is, most probably, that now prese
 
 'See *Juvenal*, Satyr vi. (5 19-521) where he speaks of throwing purple thread into the river to carry away one's sinnes.
 
-'In North Wales the Sinne-eaters are frequently made use of ; but there, instead of a Bowie of Beere, they have a bowle of Milke.
+'In North Wales the Sinne-eaters are frequently made use of ; but there, instead of a Bowle of Beere, they have a bowle of Milke.
 
 'Methinkes, Doles to Poore people with money at Funeralls have some resemblance to that of ye Sinne-eater. Doles at Funeralls were continued at gentlemen’s funerals in the West of England till the Civil-warre. And so in Germany at rich men’s funerals Doles are in use, and to everyone a quart of strong and good beer.'
 

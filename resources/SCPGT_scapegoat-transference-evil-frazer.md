@@ -66,7 +66,7 @@ Gwin the minister about 1640 could no hinder ye performing
 of this ancient custome. I believe this custom was hereto- 
 fore used over all Wales. ... In North Wales the Sinne- 
 eaters are frequently made use of; but there, instead of a 
-Bowie of Beere, they have a bowle of Milke.” 2 According 
+Bowle of Beere, they have a bowle of Milke.” 2 According 
 
 1 Rev. S. Mateer, Native Life 2 J. Aubrey, Remaines of Gentilisme 
 in Travancore (London, 1883), p. and Judaisme (Folk-lore Society, Lon- 
