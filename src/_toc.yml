@@ -15,7 +15,9 @@ parts:
   - file: _first_trigger
   - file: _first_controversy
   - file: _aftermath_first_debate
+-caption: Interim, to 1876-1890
   - file: _minor_skirmishes
+  - file: _through_1880s
 - caption: What Next?
   chapters:
   - file: _forthcoming
