@@ -1,5 +1,4 @@
-
-## Mazar Wood and the Mazard Bowl
+# Mazar Wood and the Mazard Bowl
 
 In issue no. 74 of *Notes & Queries*, dated March 29th, 1851, the following query appeared on [page 239](https://archive.org/details/notesqueriesmedi03note/page/239/mode/2up?q=mazer+wood):
 
