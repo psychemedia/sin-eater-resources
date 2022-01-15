@@ -1,3 +1,16 @@
+---
+jupytext:
+  formats: ipynb,md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.11.5
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
 # Through the 1880s, Part I
 
 Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
