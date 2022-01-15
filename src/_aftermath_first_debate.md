@@ -139,7 +139,7 @@ The [April, 1883, edition, vol. III, no. 4](https://journals.library.wales/view/
 ```{admonition} The "March Note" in the *Red Dragon*, 1883
 :class: seealso
 
-The *March "note" anent the Carmarthenshire superstition of "the Sin Eater"* is a reference to a mention of the tradition in a book by the Reverend Paxcton Hood, as discussed elsewhere.
+The *March "note" anent the Carmarthenshire superstition of "the Sin Eater"* is a reference to a mention of the tradition in a book by the Reverend Paxton Hood, as discussed elsewhere.
 
 ```
 
@@ -191,7 +191,7 @@ He next observes how the final word in the debate between the two correpsondents
 
 > In all this the *Blackwood* writer gives no further "authority;" — for the editor of the *Hand-book* could scarcely be accounted one — and Mr. Evans, in reply, observes that "Mr. Moggridge, and apparently the writer of the article, assume all along that the plate and salt are necessary remnants of the alleged Sin Eating practice ; and finding these articles employed in certain cases, they take it for granted that 'the more odious part of the custom has been removed,' which amounts to begging the whole question." He considers "it is very kind, but slightly superfluous, on the part of the writer to 'refresh' his memory respecting 'the vicarious sin-bearing of the Levitical scape-goat;'" and concludes by refusing to give credit to any statement on the authority of "so credulous a person as Aubrey, in any case in which superstition plays a part." Here the discussion ended, as far as the principals were concerned.
 
-Writing as he is in 1883, a year before his death, Askew Roberts is also able to draw on additional references to the sin-eater tradition that appeared in the years following the first controversy in late 1875 and early 1876. The following gives a taste of some of what is come, which we will review in the next chaprter, although in 1883, we still predate the second controversy of 1895.
+Writing as he is in 1883, a year before his death, Askew Roberts is also able to draw on additional references to the sin-eater tradition that appeared in the years following the first controversy in late 1875 and early 1876. The following gives a taste of some of what is come, which we will review in the next chapter, although in 1883, we still predate the second controversy of 1895.
 
 > Another discussion was carried on in the "Shreds and Patches" column of the *Shrewsbury Journal* a year or two later ; and on more than one occasion the superstition has been referred to in the "Bye-gones" column of the *Oswestry Advertiser*. Mr. Wirt Sykes goes very fully into the question in his *British Goblins* and comes to the conclusion that "no other writer of Aubrey's time, either English or Welsh, appears to have made any reference to the Sin Eater in Wales; and equal silence prevails throughout the writings of previous centuries." And as to later "authorities," Mr. Sykes failed to discover one who wrote in the Welsh language, "a singular omission if there ever was such a custom, for concerning every other superstitious practice commonly ascribed to Wales, the Welsh have written freely."
 
@@ -201,7 +201,15 @@ Roberts closes where he began: with reference to the recent work (at the time) f
 >
 > Oswestry. Askew Roberts.
 
-We will pick up the tale again in the next chapter by reviewing these three new additions to the published canon regarding the sin-eater: the discussion in the *Shrewsbury Journal* and Wirt Sykes' *British Goblins*, and later, by Paxton Hood's work on Christmas Evans.
+Over in the *Weekly Mail*, where the editor had promissed to keep readers appraised of activities in the Red Dragon, we have the following remark picking on on Askew Robort's article in the edition of [May 5th, 1883](https://newspapers.library.wales/view/3372638/3372642/77/), p4
+
+> THE RED DRAGON [1] In fulfilment of the promise we gave last week to notice at greater length the contents of the number of the National Magazine of Wales, ...
+>
+> The Sin Eater is a capital little paper by Mr. Askew Roberts, Oswestry, in which the personage in question, much though he has been exercising the minds of English writers, is shown after all to be a myth.
+>
+> [1] *The Red Dragon*, the National Magazine of Wales. Edited by Charles Wilkins. Cardiff: Daniel Ower and Company. London: Kent and Company, Paternoster-row.
+
+We will pick up the tale again in the next chapter by reviewing these three new additions to the published canon regarding the sin-eater referenced by Askew Roberts: the discussion in the *Shrewsbury Journal* and Wirt Sykes' *British Goblins*, and later, by Paxton Hood's work on Christmas Evans.
 
 But first, a slight aside..
 
