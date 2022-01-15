@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 page_*
 *.pdf
+_build
