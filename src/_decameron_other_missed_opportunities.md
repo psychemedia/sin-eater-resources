@@ -295,10 +295,6 @@ At this point, let us take a little break an observe the following advert, ident
 ## A Lady Tourist, 1838
 
 In the *Inverness Courier* of [Wednesday, February 28th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18380228/034/0003), comments on a new publication, [*Hill And Valley*](https://archive.org/details/dli.bengal.10689.7591), 1838, by Catherine Sinclair.
- 
-Publication date 1838 
-pp. 336-337
-
 
 > A LADY TOURIST — ANECDOTES
 >
@@ -322,7 +318,7 @@ The review also speaks of the good lady's tours in Wales:
 
 > The fair tourist's ramble among the "hills and valleys" of Wales does not appear to have furnished forth many adventures. She was delighted with the country-rich in all the magnificent and beautiful features of nature, and filled with simple and happy people. The Welsh language sounded to her nearly similar to the Gaelic that she often felt inclined to give the common Highland salutation in passing along the road, especially seeing the landscape around exactly on a similar pattern. "We hurried on from mountain to mountain in splendid succession ; and but for the women wearing their little hats like men's, instead of the graceful plaid, might have supposed ourselves in Ross-shire."
 
-As an example of one of the rare stories from Wales, we hear (from [p336-7]() of the original)[https://archive.org/details/dli.bengal.10689.7591/page/n347/mode/2up]:
+As an example of one of the rare stories from Wales, we hear (from [p336-7](https://archive.org/details/dli.bengal.10689.7591/page/n347/mode/2up) of the original work):
 
 > ... Like all mountaineers, the Welsh are still tinged with superstition, but the following one is of the most earthy of those beliefs we have heard of—
 >
