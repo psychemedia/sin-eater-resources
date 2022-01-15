@@ -2,7 +2,53 @@
 
 Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
 
-Two publications stand out in particular: Paxton Hood's *Cristmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
+In Salopian Shreds and Patches in Eddowe's Journal of [May 12th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18800512/132/0006), p6, Bagford's observations on Aubrey are noted and comment is passed on no mention of salt, whilst the *Shrewsbury Chronicle* of [October 8th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000401/18801008/138/0005), p5, reprinted Aubrey's text, quoting *Kennet's Parochial Antiquities*, albeit whilst making an error in the name of the minister Gwin, misnaming him *Govin*.
+
+```{admonition} *Eddowe's Journal*, May 12th, 1880
+:class: dropdown
+> SALOPIAN SHREDS AND PATCHES.
+>
+> THE SIN EATER (Feb. 19,1879).
+>
+> A story never loses in the repetition. Bagford (1714), who copied from Aubrey's Collections, says, "Within the memory of our Fathers in Shropshire, in those Villages adjoining to Wales, when a Person dyed there was notice given to old sire, for so they called him, who presently repar’d to the Place where the deceased lay and stood before the Door of the House, where some of the Family came out and furnished him with Cricket [a low stool] on which he sat down facing the Door. Then they gave him a Groat, which he put in his pocket, a Crust of Bread, which eat, and a full bowle of ale, which he drank off at a draught. After this he got up from the cricket and pronounced with composed Gesture, 'The ease and rest of the soul departed, for which would pawn his soul'" —(Leland’s Collect., I., lxxvi). There is not a syllable about salt, and the custom may have been derived from the Welsh, as it prevailed only in the marches. The Pardon bowl was in use in some the larger monasteries, K. Witlaf left his horn for the monks of Croyland to quaff his health on his anniversary, and the citizens of Chichester drink wine round the city cross, and the cathedral choristers at his tomb partook of a bowl of milk pleasantly seasoned by the will of Bishop Shirborne. A relic of the custom survives in drinking the memory of the Dead.
+>
+> Mackenzie E. C. Walcott.
+```
+
+`````{admonition} *Shrewsbury Chronicle*, October 8th, 1880
+:class: dropdown
+```{code-cell}
+# Load in token level side-by-side differencer
+from jb_utils.diffsidebyside import show_diffs
+x1='''"SIN-EATER."— In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sins of the party deceased, and ware called "sin-eaters." One of them, I remember, lived in a cottage on Rosse highway. The manner was thus: "When the corps was brought out of the house, and laid on the biere, a loaf of bread was delivered to the sinne eater over the oorpe, as allso a mazar bowle (a gossips bowl of maple) full of beer which he was to drink up, and six pence in mony, in consideration whereof be took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne-eaters are frequently made use of; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest time of the presbyterian government. As at Dyndar *volens nolens* the parson of the parish, the relations of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the City of Hereford in those times, where a woman kept many years before her death, a mazar bowl for the sinne-eater ; and in other places in the county, as allso at Brecon, at Llangors, where Mr. Govin, the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs, ; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer." (Aubrey of Gentilisme, M. S.) — *Kennet's Parochial Antiquities.*'''
+
+x2='''In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sinns of the party deceased, and were called sin-eaters. One of them I remember liv'd in a cottage on Rosse high-way. The manner was thus : when the corps was brought out of the hous, and laid on the biere, a loaf of bread was delivered to the sinne eater over the corps, as allso a mazar bowle (a gossips bowl of maple) full of beer, which he was to drink up, and six pence in mony, in consideration whereof he took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne eaters are frequently made use of; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest time of the presbyterian government. As at Dyndar, *volens nolens* the parson of the parish, the relation of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar bowl for the sinne-eater; and in other places in this county, as allso at Brecon, at Llangors, where Mr. Gwin the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs ; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer. Aubrey of Gentilisme, MS.'''
+show_diffs(x1.replace('.',''),
+           'Excerpt from Paxton Hood, *Christmas Evans*',
+           'Excerpt from John Murray, *Handbook for Travellers in South Wales*', True)
+```
+
+`````
+
+Two publications perhaps stand out in particular: Paxton Hood's *Cristmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
+
+
+
+https://archive.org/details/sim_antiquary-a-magazine-devoted-to-the-study-of-the-past_1880-10_2/page/174/mode/2up?q=Leland+%22sinne-eater%22
+
+The Antiquary  1880-10: Vol 2
+
+1880-10-13
+
+p174-5
+
+> "SIN-EATERS."
+>
+> In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sins of the party deceased, and were called "sin-eaters." One of them, I remember, liv'd in a cottage on Rosse highway. The manner was thus: "When the corps was brought out of the hous, and laid on the biere, a loaf of bread was delivered to the sinne eater over the corps, as allso a mazar bowle (a gossips bowl of maple) full of beer, which he was to drink up, and six pence in mony, in consideration whereof he took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne eaters are frequently made use of ; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people ob- served even in the strictest time of the presbyterian government. As at Dyndar *volens nolens* the parson of the parish, the relations of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the City of Hereford in those times, where a woman kept, many years before her death, a mazar bowl for the sinne-eater ; and in other places in the county, as allso at Brecon, at Llangors, where Mr. Govin, the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer." (Aubrey of Gentilisme, MS.)— *Kennett's Parochial Antiquities*.
+
+---
+
+
 
 ## *The Antiquities of Laugharne, Pendine*, Mary Curtis, 1880
 
