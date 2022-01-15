@@ -4,7 +4,7 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 
 Wednesday 10 December 1862
 
-p?
+p2
 
 A Welsh Superstition.— While on the subject of deaths, I must mention singular superstitious custom which lingered, not very long ago, in some of the secluded mountain-vales of Carmarthenshire. When person died his friends sent for the sin-eater of the district, who, for the small sum of half a crown, actually took upon himself the sins of the deceased, by the simple process of eating them. The plan of operation was this :— A loaf of bread was provided, which the sin-eater first placed upon the dead person's chest, then muttered some incantations over it, finally eating it. Will it be credited that he was believed to have taken from the defunct the heavy weight of his sins, and to appropriate them to himself, for which act of kindness he was regarded by everybody as a tabooed outcast? Indeed, immediately after the ceremony was finished, and bad received his pay, he vanished in double quick time, it being usual custom for the friends to belabour him with sticks-if they could catch him.— *Once a Week*.
 
@@ -16,7 +16,7 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 
 Wednesday 14 August 1878
 
-p?
+p6
 
 SIN EATERS. An usage called sin eating (see Hosea iv. 8) undoubtedly arose in Roman Catholic times, and, however it may have been limited to the clergy in early ages, was afterwards continued, and practised as profession, certain persons called sin eaters. In letter from John Bagford, dated 1715, printed in *Leland's Collectanea*, there is the following account of sin eater:— "Within the memory of our fathers, in Shropshire in those villages adjoining to Wales when a person died, there was notice given to an old 'sire' (for so they called him) who presently repaired to the place where the deceased lay and stood before the door of the house, when some of the family came out and furnished him with cricket (or stool) on which he sat down facing the door. Then they gave him groat which he put in his pocket; a crust of bread which ate; and a full bowl of ale which drank off at a draught. After this he got from the cricket, and pronounced with a composed gesture, "the ease and rest of the soul departed for which he would pawn his own soul." Among the Lansdowne MSS. in the British Museum are statements, in Aubrey's own handwriting, to the same purport.
 
@@ -53,7 +53,7 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 
 Wednesday 01 January 1879
 
-p?
+p6
 
 SALOPIAN SHREDS AND PASTURES
 
@@ -69,7 +69,7 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 
 Wednesday 29 January 1879
 
-p?
+p6
 
 SALOPIAN SHREDS AND PASTURES
 
@@ -91,7 +91,7 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 
 Wednesday 05 February 1879
 
-p?
+p6
 
 SALOPIAN SHREDS AND PASTURES
 
@@ -129,11 +129,11 @@ Eddowes's Journal, and General Advertiser for Shropshire, and the Principality o
 
 Wednesday 09 May 1888
 
-p?
+p4
 
 SIN EATING
 
-In a letter dated 1715, printed in Leland's collection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given an old sire or village patriarch, who straightway repaired to the house of monrning and sat down on "a cricket or stool, facing the fire; then one of the family of the deceased gave the sin eater a groat which he put his pocket, a crust bread which he ate, and full bowl of ale which he drank off at a draught. Finally he rose from the cricket, and with confused gesture pronounced the ease and the rest of the soul departed for which would pawn his own soul". In Hereford, according to Aubrey, "The sin eater ate his bread and drank his bowl of beer over the corpse, and his fee was 4d. instead of 4d. Bishop Kennet, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered the beginning of the eighteenth century in the pariah of Amersham, in the county of Bucks.
+In a letter dated 1715, printed in Leland's collection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given an old sire or village patriarch, who straightway repaired to the house of monrning and sat down on "a cricket or stool, facing the fire; then one of the family of the deceased gave the sin eater a groat which he put his pocket, a crust bread which he ate, and full bowl of ale which he drank off at a draught. Finally he rose from the cricket, and with confused gesture pronounced the ease and the rest of the soul departed for which would pawn his own soul". In Hereford, according to Aubrey, "The sin eater ate his bread and drank his bowl of beer over the corpse, and his fee was 6d. instead of 4d. Bishop Kennet, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks.
 
 *In Praise of Ale. By W. T. Marchant.*
 
