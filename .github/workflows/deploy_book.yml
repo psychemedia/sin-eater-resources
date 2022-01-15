@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter-book
+        pip install jupyter-book ou-jupyter-book-tools
     # Build the book
     - name: Build the book
       run: |
