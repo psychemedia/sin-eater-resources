@@ -1,0 +1,42 @@
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/site-packages/jupyter_cache/executors/utils.py", line 51, in single_nb_execution
+    executenb(
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/site-packages/nbclient/client.py", line 1085, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/site-packages/nbclient/util.py", line 84, in wrapped
+    return just_run(coro(*args, **kwargs))
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/site-packages/nbclient/util.py", line 62, in just_run
+    return loop.run_until_complete(coro)
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/site-packages/nbclient/client.py", line 551, in async_execute
+    await self.async_execute_cell(
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/site-packages/nbclient/client.py", line 846, in async_execute_cell
+    self._check_raise_for_error(cell, exec_reply)
+  File "/opt/hostedtoolcache/Python/3.9.9/x64/lib/python3.9/site-packages/nbclient/client.py", line 748, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+x6="""In a letter dated 1715, printed in Leland's collection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given an old sire or village patriarch, who straightway repaired to the house of monrning and sat down on "a cricket or stool, facing the fire; then one of the family of the deceased gave the sin eater a groat which he put his pocket, a crust bread which he ate, and full bowl of ale which he drank off at a draught. Finally he rose from the cricket, and with confused gesture pronounced the ease and the rest of the soul departed for which would pawn his own soul". In Hereford, according to Aubrey, "The sin eater ate his bread and drank his bowl of beer over the corpse, and his fee was 6d. instead of 4d. Bishop Kennet, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks."""
+
+x5="""Probably the most peculiar of the many quaint customs which our ancestors kept up was the funeral one of sin eating. In a letter dated 1715, printed in Leland's Collection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given to an old "sire" or village patriarch, who straightway repaired to the house of mourning and sat down on a "cricket," or stool, facing the door ; then one of the family of the deceased gave the sin-eater a groat, which he put in his pocket, a crust of bread which he ate, and a full bowl of ale which he drank off at a draught. Finally, he rose from the cricket, and with a composed gesture pronounced "the ease and rest of the soul departed, for which he would pawn his own soul". In Hereford, according to Aubrey, the sin-eater ate his bread and drank his bowl of beer over the corpse, and his fee was sixpence instead of fourpence. Bishop Kennett, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered at the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks. There, at the burial of every corpse, a cake and a flagon of ale were brought to the clergyman in the porch ; but this refection was not served until after the interment."""
+
+from jb_utils.diff_match_patch import diff_match_patch
+from IPython.display import HTML
+differ = diff_match_patch()
+diff = differ.diff_main(x5.replace('.',''),x6.replace('.',''))
+display(HTML(differ.diff_prettyHtml(diff)))
+------------------
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mModuleNotFoundError[0m                       Traceback (most recent call last)
+Input [0;32mIn [3][0m, in [0;36m<module>[0;34m[0m
+[1;32m      1[0m x6[38;5;241m=[39m[38;5;124m"""[39m[38;5;124mIn a letter dated 1715, printed in Leland[39m[38;5;124m'[39m[38;5;124ms collection, it is stated that, within the memory of the writer[39m[38;5;124m'[39m[38;5;124ms father, in those villages adjoining Wales, when a person died notice was given an old sire or village patriarch, who straightway repaired to the house of monrning and sat down on [39m[38;5;124m"[39m[38;5;124ma cricket or stool, facing the fire; then one of the family of the deceased gave the sin eater a groat which he put his pocket, a crust bread which he ate, and full bowl of ale which he drank off at a draught. Finally he rose from the cricket, and with confused gesture pronounced the ease and the rest of the soul departed for which would pawn his own soul[39m[38;5;124m"[39m[38;5;124m. In Hereford, according to Aubrey, [39m[38;5;124m"[39m[38;5;124mThe sin eater ate his bread and drank his bowl of beer over the corpse, and his fee was 6d. instead of 4d. Bishop Kennet, to whom Aubrey[39m[38;5;124m'[39m[38;5;124ms manuscripts passed, added to them a note that a remainder of this custom lingered the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks.[39m[38;5;124m"""[39m
+[1;32m      3[0m x5[38;5;241m=[39m[38;5;124m"""[39m[38;5;124mProbably the most peculiar of the many quaint customs which our ancestors kept up was the funeral one of sin eating. In a letter dated 1715, printed in Leland[39m[38;5;124m'[39m[38;5;124ms Collection, it is stated that, within the memory of the writer[39m[38;5;124m'[39m[38;5;124ms father, in those villages adjoining Wales, when a person died notice was given to an old [39m[38;5;124m"[39m[38;5;124msire[39m[38;5;124m"[39m[38;5;124m or village patriarch, who straightway repaired to the house of mourning and sat down on a [39m[38;5;124m"[39m[38;5;124mcricket,[39m[38;5;124m"[39m[38;5;124m or stool, facing the door ; then one of the family of the deceased gave the sin-eater a groat, which he put in his pocket, a crust of bread which he ate, and a full bowl of ale which he drank off at a draught. Finally, he rose from the cricket, and with a composed gesture pronounced [39m[38;5;124m"[39m[38;5;124mthe ease and rest of the soul departed, for which he would pawn his own soul[39m[38;5;124m"[39m[38;5;124m. In Hereford, according to Aubrey, the sin-eater ate his bread and drank his bowl of beer over the corpse, and his fee was sixpence instead of fourpence. Bishop Kennett, to whom Aubrey[39m[38;5;124m'[39m[38;5;124ms manuscripts passed, added to them a note that a remainder of this custom lingered at the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks. There, at the burial of every corpse, a cake and a flagon of ale were brought to the clergyman in the porch ; but this refection was not served until after the interment.[39m[38;5;124m"""[39m
+[0;32m----> 5[0m [38;5;28;01mfrom[39;00m [38;5;21;01mjb_utils[39;00m[38;5;21;01m.[39;00m[38;5;21;01mdiff_match_patch[39;00m [38;5;28;01mimport[39;00m diff_match_patch
+[1;32m      6[0m [38;5;28;01mfrom[39;00m [38;5;21;01mIPython[39;00m[38;5;21;01m.[39;00m[38;5;21;01mdisplay[39;00m [38;5;28;01mimport[39;00m HTML
+[1;32m      7[0m differ [38;5;241m=[39m diff_match_patch()
+
+[0;31mModuleNotFoundError[0m: No module named 'jb_utils.diff_match_patch'
+ModuleNotFoundError: No module named 'jb_utils.diff_match_patch'
+
