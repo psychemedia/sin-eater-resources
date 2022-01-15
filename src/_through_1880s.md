@@ -77,7 +77,7 @@ Secondly, we note that the *"__composed__ gesture"* has become a *"__confused__ 
 
 To try to track down the point at which the change occurred, we can then compare the text from *Eddowes Journal* with that of the the original *In Praise of Ale* text.
 
-*Red deletions are deltions from the original text in `In Praise of Ale`. Green additions are changes added in the Eddowes quotation.*
+*Red deletions are deltions from the original text in __In Praise of Ale__. Green additions are changes added in the __Eddowes' Journal__ quotation.*
 
 ```{code-cell}
 :tags: [remove-input]
@@ -115,7 +115,7 @@ But eben by the 1880s, these traditions were lapsing:
 
 > No more remains of these customs in Laugharne, except the presents of candles, etc., which friends do bring.
 
-The gtahering for the funeral procession involved an element of hosptiality, and once again t is easy to see how the over-zealous fan of the sin-eating tradition might claim elements of this behaviour as a relic of that ritual:
+The gathering for the funeral procession involved an element of hospitality, and once again it is easy to see how the over-zealous fan of the sin-eating tradition might claim elements of this behaviour as a relic of that ritual:
 
 > A large number of people followed the deceased to the church. They assembled outside the house ; cake and mulled beer were offered to all ; four chairs were placed outside to rest the coffin on ; the clerk of the church gave out two or three verses of a hymn, and all sang ; as they passed to the church they sang the remainder. This custom prevailed to within 50 or 60 years. I remember, in 1871, an old inhabitant, at the funeral of his niece, having cake and mulled beer for the company assembled before his house.
 
@@ -286,13 +286,13 @@ At last, then, general access to a copy of Aubrey's writings had been made avail
 
 Although Aubrey's edited manuscripts perhaps had a rather limited appeal, and a limited ability to generate controversy, another book was published in 1881 that *did* generate interest in the sin-eater topic.
 
-The Reverend Edwin Paxton Hood was a non-conformist minister and prolific author. Several of his works took the form of biographies of other non-conformists. One such character, Christmas Evans, who presumbaly took his name from his birthdate, 25th December, 1766 – was a noted Welsh minister with a gift for preaching. He was the subject of his 1881 book *Christmas Evans : the preacher of Wild Wales, his country, his times and his contemporaries*](https://archive.org/details/christmasevanspr00hood/page/22/mode/2up?q=sin-eater).
+The Reverend Edwin Paxton Hood was a non-conformist minister and prolific author. Several of his works took the form of biographies of other non-conformists. One such character, Christmas Evans, who presumbaly took his name from his birthdate, 25th December, 1766 – was a noted Welsh minister with a gift for preaching. He was the subject of his 1881 book [*Christmas Evans : the preacher of Wild Wales, his country, his times and his contemporaries*](https://archive.org/details/christmasevanspr00hood/page/22/mode/2up?q=sin-eater).
 
 In the chapter on *Characterisitics of Welsh Preaching*, p22-24, Paxton Hood has cause to comment on the tradition of the sin-eater as surviving despite the activities of a wave of great Christian preachers in the first half of the 19th century:
 
 > In a word, it is impossible, knowing Wales as we know it in our own day, to form any very distinct idea of the country as it was when these great preachers arose ; and, when the tides of a new spiritual life rolled over the Principality, the singular relics of even heathenish superstition were loitering still among the secluded valleys and mountains of the land. No doubt, the proclamation of the Gospel, and the elevated faith which its great truths bring in its train, broke the fascination, the charm, and power of many of these ; but they lingered even until within the last forty or fifty years, — indeed, the superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire.
 
-Paxton Hood's description of the tradition appears to owe, originally at least, to John Murray’s 1860 work, *A handbook for travellers in South Wales and its borders*, with its mention of the fee of 2s 6d and the "fact" that was hounded out after performing the ceremony *"with blows and kicks"*.
+Paxton Hood's description of the tradition appears to owe, originally at least, to John Murray’s 1860 work, [*A handbook for travellers in South Wales and its borders*](https://archive.org/details/ahandbookfortra07firgoog/page/n30/mode/2up?q=sin), with its mention of the fee of 2s 6d and the "fact" that was hounded out after performing the ceremony *"with blows and kicks"*.
 
 > The meaning of this most singular institution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person ; he then uttered an incantation over the bread, after which, he proceeded to eat it, — thereby eating the sins of the dead person ; this done, he received a fee of two-and-sixpence, — which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious superstition was everywhere prevalent.
 
@@ -311,13 +311,17 @@ If we display a side-by-side view to inspect the difference between the texts, w
 </p><p>the superstition of the sin-eater is said to linger even now in the secluded vale of <span style="background: #69E2FB;">cwm amman</span> in <span style="background: #69E2FB;">carmarthenshire</span> when a person died, the friends sent for the sin-eater of the district, <span style="background: #69E2FB;">who</span> on his <span style="background: #69E2FB;">arrival</span> placed a plate of salt on the breast of the <span style="background: #69E2FB;">deceased, and on the salt a piece of bread</span> he then <span style="background: #69E2FB;">muttered</span> an incantation over the bread, <span style="background: #69E2FB;">which</span> he <span style="background: #69E2FB;">finally eat,</span> thereby eating the sins of the dead person this done, he received <span style="background: #69E2FB;">the</span> fee of <span style="background: #69E2FB;">2s 6d,</span> and vanished as <span style="background: #69E2FB;">quickly</span> as <span style="background: #69E2FB;">he could,</span> the friends <span style="background: #69E2FB;">helping his departure by the aid</span> of <span style="background: #69E2FB;">sundry</span> blows and kicks, <span style="background: #69E2FB;">if they could catch him ; for as it was believed that he took upon himself the sins</span> of the <span style="background: #69E2FB;">defunct,</span> he <span style="background: #69E2FB;">was looked upon as</span> a <span style="background: #69E2FB;">social pariah for whom nothing</span> was <span style="background: #69E2FB;">too bad</span> </p>
 ````
 
+The Paxton Hood vesion offers nothing new and no significant corruptions, perhaps other than representing the original *muttering* of the curse as *uttering*:
+
 `````
 
 As well as referrring to the sin-eater tradition, Paxton Hood also makes passing reference to a "horse's head" tradition that is used to castigate a "social delinquent":
 
 > Another odd custom was the manner in which public opinion expressed itself on account of any domestic or social delinquency. A large crowd assembled before the house of the delinquent, one of whom was dressed up in what seemed to be a horse's head ; the crowd then burst forth into strong vituperative abuse, accompanying the execrations with the rough music of old kettles, marrow-bones, and cleavers ; finally, the effigy of the sinner was burnt before the house, and the sacred wrath of the multitude appeased. The majesty of outraged opinion being vindicated, they dispersed.
 
-This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a far more light hearted and celebratory affair.
+This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a far more light hearted and celebratory affair, but closes resembles the *Cefyl Pren* tradition identified in Murry's Handbook for travellers in South Wales*, specifically:
+
+> Another curious custom is still in existence — that of the Cefyl Pren, which occurs in cases where popular indignation is excited by any gross infringement of domestic rights or proprieties. A large crowd, one of whom is dressed up with a horse's head, assembles before the door of the delinquent, who, after undergoing an immense amount of vituperation and a hideous noise of old kettles and cleavers, is at length burnt in effigy, by which the sacred wrath of the people is at length appeased.
 
 In the [third edition](https://archive.org/details/christmasevansp00hooduoft/page/22/mode/2up?q=sin+eater), published in 1888, there is an additional footnote referring the sin-eater which directs to the reader to *"See Note at end of Chapter, page 39."*, which then proceeds as follows:
 
@@ -325,7 +329,11 @@ In the [third edition](https://archive.org/details/christmasevansp00hooduoft/pag
 > 
 > Dr. Thos. Rees, in a letter to the Editor of the *Dysgedydd*, Rev. Herber Evans, says, "That although bred and born within ten miles of Cwm-Aman, he had never heard of this ridiculous superstition."
 
-An eagle-eyed correspondent to *Notes and Queries*, [Vol 7 Iss 159, January 13th, 1883](https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin), p25, picked up on the reference and provided a new note on the matter, perhaps unaware of previous mentions of the tradition in earlier volumes.
+When the book came to the attention of the editor in *Bye-Gones* of [February 15th, 1882](https://journals.library.wales/view/2092910/2094771/9#?xywh=-1532%2C-191%2C5763%2C3801), p18, it was almost  as if they were keeping a look out for such references. The resulting note can quite easily be read as mocking.
+
+> Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
+
+A couple of years later, a tardy, if eagle-eyed, correspondent to *Notes and Queries*, [Vol 7 Iss 159, January 13th, 1883](https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin), p25, also picked up on the reference and provided a new note on the matter, direclty quoting Paxton Hood and perhaps unaware of previous mentions of the tradition in earlier volumes of *Notes a& Queries*, although cognisant of similar other traditions reported elsewhere.
 
 > Welsh Folk-lore: The Sin-Eater.— The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder & Stoughton, 1881) :—
 >
@@ -338,7 +346,6 @@ An eagle-eyed correspondent to *Notes and Queries*, [Vol 7 Iss 159, January 13th
 ```{admonition} Old Yorkshire Customs, *Notes and Queries*, 1882
 :class: dropdown
 The other notetes referred to are *Notes & Queries* [6th S. Vol 6 Iss 138, August 9th, 1882](https://archive.org/details/sim_notes-and-queries_1882-08-19_6_138/page/146/mode/2up), p146:
-
 
 > Old Yorkshire Customs,—
 >
@@ -362,9 +369,9 @@ Lower Heyford, Oxon.
 
 ```
 
-When the book came to the attention of the editor in *Bye-Gones* of [February 15th, 1882](https://journals.library.wales/view/2092910/2094771/9#?xywh=-1532%2C-191%2C5763%2C3801), p18, it was almost  as if they were keeping a look out for such references. The resulting note can quite easily be read as mocking.
+The *Notes & Queries* correspondence was also noted in the January 19th, 1883](https://newspapers.library.wales/view/3336622/3336627/24/), edition of *The Cambrian*, where on p5, a correspondent direclty quoted the correspondence:
 
-> Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
+> Frederick E. Sawyer calls attention in Notes and Queries to the following folk-lore, which occurs in the Rev. Paxton Hood's book on Christmas Evans, the Preacher of Wild Wales: —"The superstition of the Sin-Eater ...
 
 In the [March, 1883 edition, p282](https://archive.org/details/reddragonnation00wilkgoog/page/282/mode/2up?q=sin), of the Red Dragon, Paxton Hood's sin-eater reference is also discussed:
 
@@ -383,6 +390,42 @@ A plea, of a sort, is then made, for Welsh correspondents to provide further evi
 > Contributions having for their subject any scrap of curious old Welsh customs or folk lore will be always welcome to the editor of the National Magazine. Perhaps in this matter of the "Sin-Eater," of which we should like to obtain other and more authentic information than the Rev. Paxton Hood can give, some correspondent, like "Tal-a-hên," may come to our rescue.
 
 It would be useful to know what sort of contributor *Tal-a-hên* was to know whether this plea is entirely serious!
+
+The article was remarked upon in *Bye-Gones* of [March 14th, 1883](https://archive.org/details/byegonesrelating1882unse/page/204/mode/2up?q=sin), p205:
+
+> Current Notes
+>
+> Dr. Ollivant, the late Bishop of Llandaff, forms the subject of the memoir and portrait in the Red Dragon for March. ... That disreputable old fellow, "The Sin Eater," who we thought was killed long ago, has, it seems, only been scotched, for he crops up again in the number before us !
+
+### Bye-Gones, Spring, 1883
+
+Sometimes you just have to wonder about the pronesity to just "retweet" based on recent exposure to a topic that has been covered repeatedly, and described in various indices, but of which certain correspondents are unaware. And so it is that in *Bye-gones* of [April 25th, 1883](https://archive.org/details/byegonesrelating1882unse/page/222/mode/2up?q=sin), p223, we get the following query:
+
+> THE SIN EATER. — You have more than once referred to the practice of Sin-Eating in Wales and the Borders, as resting only on the authority of Aubrey, and totally discredited by modern Welshmen. In an article I recently referred to as appearing in the *Oswestry Advertizer* for Sep. 22, 1858, something akin to the custom is mentioned, by an intelligent correspondent, who describes the custom as ancient. He says "Previous to a funeral, it was customary when the corpse was brought out of the house, and laid upon the elor, or bier, for the next of kin, be it widow, mother, sister, or daughter (for it must be a female) to give over the coffin a number of white loaves, in a great dish, and sometimes a well-made Welsh cheese, with a piece of money stuck in it, to certain poor persons. After that they presented in the same manner a cup of drink, and required the person to drink a little of it immediately. When that was done all knelt down, and the Minister, if present, repeated the Lord’s Prayer." Any reader who could quote his father or grandfather as an actual witness of a ceremony such as this, or even an approach to it, would confer a boon on Welsh Archaeology !
+>
+> H. B.
+
+TO DO - oswestry advertiser
+
+---
+
+
+
+https://archive.org/details/byegonesrelating1882unse/page/232/mode/2up?q=sin
+
+Bye-gones, relating to Wales and the border counties.
+
+1883-05-13
+
+p233-4
+
+> REPLIES.
+>
+> THE SIN EATER IN WALES (April 25, 1883.) The question has been asked in Bye-gones if some of the funeral customs within the memory of those now living do not point to a more pronounced ceremony on the part of our forefathers ? One writer states — but only on hearsay — that last century it was usual, when the corpse was brought out of the house, and laid upon the *Elor*, or bier, for the next of kin of the feminine gender "to give over the coffin a number of white loaves, in a great dish, and sometimes a Welsh cheese with a piece of money stuck in it, to certain poor persons. After which a cup of drink was presented also over the coffin, of which a little was to be drunk immediately. When this was done the minister knelt down and said the Lord’s Prayer." No one has corroborated this from the definite information of father or grandfather ; but they have spoken of a more modified form of, perhaps, the same ceremony, within their own recollection. Less than half a century ago it was usual at every 'respectable' funeral to have made up into packets, a couple of bits of cake — one of rich plum, and the other plain — wrapped in black-edged paper and sealed with black wax. One of these was presented to each of the invited guests, who took it home unopened. At funerals of less pretention a "large round biscuit, the size and form of an ordinary tea-saucer, inverted, took the place of the packet of cake. These were 'served' to each of the parties attending the funeral (by one of the most respectable men present) on a tray called the 'Hand-board,' or 'Server.' The ceremony was gone through just before 'Raising the Body.' After this the 'Tankard' of hot-spiced ale was offered to each person present. This was made of pewter, and had a lid : everyone was expected to take a sip." In narrating this in Bye-gones of May 17, 1882, the writer also called attention to a note in the history of the parish of Llanfechain, published in *Mont : Coll :* in 1872. He became rector in 1851, and found it was usual to allow one of the sacramental vessels a silver flagon presented to the parish in 1691) to be used in place of the customary tankard — a custom he at once denounced, to the no small chagrin of the parishioners ! How far these customs form a lingering remnant of the Sin Eater, your readers must judge for themselves.
+>
+> R. Rosse Tewk, B.A.
+
+---
 
 ## *Popish Ceremonies Existing in Wales*, Bye-Gones, 1882
 
@@ -437,3 +480,27 @@ TO DO
 
 p143 Popular antiq, 1849 edition https://archive.org/details/b29328561_0002/page/142/mode/2up?q=bride+ale
 ```
+
+## *Tours in Wales*, John Rhys, 1883
+
+We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the [Sir John Rhys Memorial Lectures](https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/), first delivered in 1925, which are still predsented to this day, by way of his two volume work * "Celtic Folklore: Welsh and Manx"* in 1901.
+
+```{admonition} Sir John Rhys
+:class: seealso dropdown
+
+https://en.wikipedia.org/wiki/John_Rhys
+https://en.wikipedia.org/wiki/Jesus_Professor_of_Celtic
+
+```
+
+Rhys also published several other works, including [*Tours in Wales with notes, preface, and copious index*](https://archive.org/details/toursinwales03penn/page/150/mode/2up?q=funeral) of 1883.
+
+One section, at pp150-1, reviewed religious customs, perhaps notably *without* reference to the sin-eater tradition:
+
+> Previous to a funeral, it was customary, when the corpse was brought out of the house and laid upon the bier, for the next of kin, be it widow, mother, sister, or daughter (for it must be a female) to give, over the coffin, a quantity of white loaves, in a great dish, and sometimes a cheese, with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it immediately. When that was done, they kneeled down; and the minister, if present, said the Lord's Prayer: after which, they proceeded with the corpse; and at every cross-way, between the house and the church, they layed down the bier, knelt, and again repeated the Lord's Prayer; and did the same when they first entered the church-yard. It is also customary, in many places, to sing psalms on the way; by which the stillness of rural life is often broken into, in a manner finely productive of religious reflections.
+>
+> To this hour, the bier is carried by the next of kin; a custom considered as the highest respect that filial piety can pay to the deceased. This was a usage frequent among the *Romans* of high rank; and it was thought a great continuance of the good fortune which had attended *Metellus Macedonicus* through his whole being, that when he had, in the fulness of years, passed out of life by a gentle decay, amidst the kisses and embraces of his nearest connections, he was carried to the funeral pile on the shoulders of his four sons [*Valer. Max. lib. vii. c. i.*]; and, let me add, that each of them had enjoyed the greatest offices of the commonwealth [*Pliaii, Hist. Nat. lib. vii. c. 74.*].
+>
+> Among the *Welsh* it was reckoned fortunate for the deceased if it should rain while they were carrying him to church, that his bier might be wet with the dew of heaven.
+>
+> In some places it was customary for the friends of the dead to kneel, and say the Lord's Prayer over the grave, for several *Sundays* after the interment; and then to dress the grave with flowers.
