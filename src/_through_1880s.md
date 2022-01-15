@@ -11,12 +11,15 @@ kernelspec:
   language: python
   name: python3
 ---
-# Through the 1880s, Part I
+# Through the 1880s
 
 Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
 
-In Salopian Shreds and Patches in Eddowe's Journal of [May 12th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18800512/132/0006), p6, Bagford's observations on Aubrey are noted and comment is passed on no mention of salt, whilst the *Shrewsbury Chronicle* of [October 8th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000401/18801008/138/0005), p5, reprinted Aubrey's text, quoting te 1818 edition *Kennet's Parochial Antiquities*, albeit whilst making an error in the name of the minister Gwin, misnaming him *Govin*. Exactly the same text as the *Shrewsbury Chronicle* text, along with the misnaming of *Govin*, appears in volume 2 of *The Antiquary* of [October, 1880](https://archive.org/details/sim_antiquary-a-magazine-devoted-to-the-study-of-the-past_1880-10_2/page/174/mode/2up?q=Leland+%22sinne-eater%22), p174-5.
+Of these full length works, two publications perhaps stand out in particular: Paxton Hood's *Cristmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
 
+## Around and About
+
+In Salopian Shreds and Patches in Eddowe's Journal of [May 12th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18800512/132/0006), p6, Bagford's observations on Aubrey are noted and comment is passed on no mention of salt.
 
 ```{admonition} *Eddowe's Journal*, May 12th, 1880
 :class: dropdown
@@ -29,19 +32,66 @@ In Salopian Shreds and Patches in Eddowe's Journal of [May 12th, 1880](https://w
 > Mackenzie E. C. Walcott.
 ```
 
+Over in the *Shrewsbury Chronicle* of [October 8th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000401/18801008/138/0005), p5,  Aubrey's text was reprinted, quoting the 1818 edition *Kennet's Parochial Antiquities*, albeit whilst making an error in the name of the minister Gwin, misnaming him *Govin*. Exactly the same text as the *Shrewsbury Chronicle* text, along with the misnaming of *Govin*, appears in volume 2 of *The Antiquary* of [October, 1880](https://archive.org/details/sim_antiquary-a-magazine-devoted-to-the-study-of-the-past_1880-10_2/page/174/mode/2up?q=Leland+%22sinne-eater%22), p174-5.
+
 ```{code-cell}
 :tags: [remove-input]
 # Load in token level side-by-side differencer
 from jb_utils.diffsidebyside import show_diffs
 x1='''"In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sins of the party deceased, and were called "sin-eaters." One of them, I remember, liv'd in a cottage on Rosse highway. The manner was thus: "When the corps was brought out of the hous, and laid on the biere, a loaf of bread was delivered to the sinne eater over the corps, as allso a mazar bowle (a gossips bowl of maple) full of beer, which he was to drink up, and six pence in mony, in consideration whereof he took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne eaters are frequently made use of ; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest time of the presbyterian government. As at Dyndar *volens nolens* the parson of the parish, the relations of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the City of Hereford in those times, where a woman kept, many years before her death, a mazar bowl for the sinne-eater ; and in other places in the county, as allso at Brecon, at Llangors, where Mr. Govin, the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs ; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer." (Aubrey of Gentilisme, M.S.) — *Kennet's Parochial Antiquities.*'''
 
-x2='''In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sinns of the party deceased, and were called sin-eaters. One of them I remember liv'd in a cottage on Rosse high-way. The manner was thus : when the corps was brought out of the hous, and laid on the biere, a loaf of bread was delivered to the sinne eater over the corps, as allso a mazar bowle (a gossips bowl of maple) full of beer, which he was to drink up, and six pence in mony, in consideration whereof he took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne eaters are frequently made use of; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest time of the presbyterian government. As at Dyndar, *volens nolens* the parson of the parish, the relations of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar bowl for the sinne-eater ; and in other places in this county, as allso at Brecon, at Llangors, where Mr. Gwin the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs ; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer. Aubrey of Gentilisme, MS.'''
+x2='''In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sinns of the party deceased, and were called sin-eaters. One of them I remember liv'd in a cottage on Rosse high-way. The manner was thus : when the corps was brought out of the hous, and laid on the biere, a loaf of bread was delivered to the sinne eater over the corps, as allso a mazar bowle (a gossips bowl of maple) full of beer, which he was to drink up, and six pence in mony, in consideration whereof he took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne eaters are frequently made use of ; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest time of the presbyterian government. As at Dyndar, *volens nolens* the parson of the parish, the relations of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar bowl for the sinne-eater ; and in other places in this county, as allso at Brecon, at Llangors, where Mr. Gwin the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs ; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer. Aubrey of Gentilisme, MS.'''
 show_diffs(x1.replace('.',''),x2.replace('.',''),
            "Excerpt from *Shrewsbury Chronicle*",
-           "Excerpt from , Kennet's *Parochial Anqtiquities*")
+           "Excerpt from Kennet's *Parochial Antiquities*")
 ```
 
-Two publications perhaps stand out in particular: Paxton Hood's *Cristmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
+In [May 9th, 1888](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001504/18880509/121/0004) edition of Eddowes' Journal, p4, an excerpt from  [*In Praise of Ale*](https://archive.org/details/inpraisealewith00marcgoog/page/92/mode/2up?q=sin+eater), 1888, p93-4, by W. T. Marchant, quotes the letter in Leland's *Popular Antiquities* as described in Hone’s *Year Book* of 1832.
+
+```{admonition} Eddowes' Journal, May 9th, 1888, Quoting *In Praise of Ale*, Quoting *Hone's Year Book*, Quoting Leland's *Collectanea*
+:class: dropdown
+SIN EATING
+
+In a letter dated 1715, printed in Leland's collection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given an old sire or village patriarch, who straightway repaired to the house of monrning and sat down on "a cricket or stool, facing the fire; then one of the family of the deceased gave the sin eater a groat which he put his pocket, a crust bread which he ate, and full bowl of ale which he drank off at a draught. Finally he rose from the cricket, and with confused gesture pronounced the ease and the rest of the soul departed for which would pawn his own soul". In Hereford, according to Aubrey, "The sin eater ate his bread and drank his bowl of beer over the corpse, and his fee was 6d. instead of 4d. Bishop Kennet, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks.
+
+*In Praise of Ale. By W. T. Marchant.*
+```
+
+Comparing the text to Hone's text, we see a couple of notable difference amongst some minor ones (including the typographical error *monrning* rather than *mourning*) that arise from a surface rewriting the text:
+
+```{code-cell}
+:tags: [remove-input]
+x3="""a cricket or stool, facing the fire; then one of the family of the deceased gave the sin eater a groat which he put his pocket, a crust bread which he ate, and full bowl of ale which he drank off at a draught. Finally he rose from the cricket, and with confused gesture pronounced the ease and the rest of the soul departed for which would pawn his own soul"""
+
+x4="""a cricket (or stool), on which he sat down facing the door. Then they gave him a groat, which he put in his pocket; a crust of bread, which he ate; and a full bowl of ale, which he drank off at a draught." After this, he got up from the cricket, and pronounced, with a composed gesture, 'the ease and rest of the soul departed, for which he would pawn his own soul.'
+"""
+
+show_diffs(x3.replace('.',''),x4.replace('.',''),
+           "Excerpt from *Eddowes / Praise of Ale*",
+           "Excerpt from Hone's *Year Book*")
+```
+
+Firstly, we note the that Eddowes has the sin-eater facing the *fire* rather than the *door*.
+
+Secondly, we note that the *"__composed__ gesture"* has become a *"__confused__ gesture"* . This is *not* and OCR error: the difference is between the actual publised texts.
+
+To try to track down the point at which the change occurred, we can then compare the text from *Eddowes Journal* with that of the the original *In Praise of Ale* text.
+
+*Red deletions are deltions from the original text in `In Praise of Ale`. Green additions are changes added in the Eddowes quotation.*
+
+```{code-cell}
+:tags: [remove-input]
+x6="""In a letter dated 1715, printed in Leland's collection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given an old sire or village patriarch, who straightway repaired to the house of monrning and sat down on "a cricket or stool, facing the fire; then one of the family of the deceased gave the sin eater a groat which he put his pocket, a crust bread which he ate, and full bowl of ale which he drank off at a draught. Finally he rose from the cricket, and with confused gesture pronounced the ease and the rest of the soul departed for which would pawn his own soul". In Hereford, according to Aubrey, "The sin eater ate his bread and drank his bowl of beer over the corpse, and his fee was 6d. instead of 4d. Bishop Kennet, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks."""
+
+x5="""Probably the most peculiar of the many quaint customs which our ancestors kept up was the funeral one of sin eating. In a letter dated 1715, printed in Leland's Collection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given to an old "sire" or village patriarch, who straightway repaired to the house of mourning and sat down on a "cricket," or stool, facing the door ; then one of the family of the deceased gave the sin-eater a groat, which he put in his pocket, a crust of bread which he ate, and a full bowl of ale which he drank off at a draught. Finally, he rose from the cricket, and with a composed gesture pronounced "the ease and rest of the soul departed, for which he would pawn his own soul". In Hereford, according to Aubrey, the sin-eater ate his bread and drank his bowl of beer over the corpse, and his fee was sixpence instead of fourpence. Bishop Kennett, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered at the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks. There, at the burial of every corpse, a cake and a flagon of ale were brought to the clergyman in the porch ; but this refection was not served until after the interment."""
+
+from jb_utils.diff_match_patch import diff_match_patch
+from IPython.display import HTML
+differ = diff_match_patch()
+diff = differ.diff_main(x5.replace('.',''),x6.replace('.',''))
+display(HTML(differ.diff_prettyHtml(diff)))
+
+```
 
 ## *The Antiquities of Laugharne, Pendine*, Mary Curtis, 1880
 
@@ -269,7 +319,7 @@ As well as referrring to the sin-eater tradition, Paxton Hood also makes passing
 
 This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a far more light hearted and celebratory affair.
 
-In the third edition of 1888 - https://archive.org/details/christmasevansp00hooduoft/page/22/mode/2up?q=sin+eater -there is an additional footnote referring the sin-eater which directs to the reader to "See Note at end of Chapter, page 39.", which then proceeds as follows:
+In the [third edition](https://archive.org/details/christmasevansp00hooduoft/page/22/mode/2up?q=sin+eater), published in 1888, there is an additional footnote referring the sin-eater which directs to the reader to *"See Note at end of Chapter, page 39."*, which then proceeds as follows:
 
 > *Note to "Cwm-Aman" page 23.*
 > 
