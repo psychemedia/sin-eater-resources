@@ -22,3 +22,6 @@ parts:
 - caption: What Next?
   chapters:
   - file: _forthcoming
+- caption: Endnotes
+  chapters:
+  - file: _glossary
