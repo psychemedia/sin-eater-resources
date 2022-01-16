@@ -10,5 +10,5 @@ QUERIES.
 
 THE WELSH "SIN EATER.
 
-"—I have been told that this old custom used to obtain in some parts of Breconshire. Didn't one of the Awbreys (possibly John, the antiquary) write something about the "Sin Eaters?" What did it all mean, and where did it take place ? Llangobse Eel. 
+"—I have been told that this old custom used to obtain in some parts of Breconshire. Didn't one of the Awbreys (possibly John, the antiquary) write something about the "Sin Eaters?" What did it all mean, and where did it take place ?  LLANGORSE EEL.
 
