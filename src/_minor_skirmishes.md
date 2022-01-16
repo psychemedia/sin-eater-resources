@@ -372,9 +372,9 @@ The chapter categories several other funeral customs, which are included here fo
 
 ```
 
-*Another funeral procession story is worth noting here, that of the "funeral rehearsal", e.g. as told in Joyn Rhys' "Celtic Folklore: Welsh and Manx", Volume I, p.271-3, retelling a tale published (anoynously?) Silvan Evans.*
+*Another funeral procession story is worth noting here, that of the "funeral rehearsal", e.g. as told in John Rhys' "Celtic Folklore: Welsh and Manx", [Volume I, 1901](https://archive.org/details/celticfolklorewe01rhys/page/270/mode/2up?q=funeral), p.271-3, retelling a tale published (anonymously?) by D. Silvan Evans.*
 
-```{admonition} *The Funeral Rehearsal*, collectd by D. Silvan Evans
+```{admonition} *The Funeral Rehearsal*, collected by D. Silvan Evans, in John Rhys, *Celtic Folklore*,
 :class: dropdown seealso
 
 From John Rhys, [Celtic Folklore: Welsh and Manx, Volume I](https://archive.org/details/celticfolklorewe01rhys/page/270/mode/2up?q=funeral), 1901, p271-3, *"so charmingly told by Silvan Evans, which he got from the mouths of the farmer and his wife, whom he considered highly honest and truth- ful persons, as well as comparatively free from superstition. The last time they talked to him about the incident they were very advanced in years, and both died within a few weeks of one another early in the year 1852."* 
