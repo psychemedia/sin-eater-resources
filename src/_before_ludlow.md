@@ -290,8 +290,14 @@ https://en.wikipedia.org/wiki/Henry_Ellis_(librarian)
 
 ```
 
-Although not directly related to the sin-eating custom, we also learn, via  *Pennant* (though I have been unable to find the exact manuscript source so far), on p140 of the 1813 edition, (elsewhere in other editions), a custom involving watching over the dead the night before a funeral:
+Although not directly related to the sin-eating custom, we also learn, via  *Pennant*, on p140 of the 1813 edition, (elsewhere in other editions), a custom involving watching over the dead ({term}`Wyl nos`) the night before a funeral:
 
 > "In North Wales," says Mr. Pennant's MS. to often quoted in the former Volume of this Work, (speaking of the Manners of the eighteenth Century,) "the Night before a dead body is to be interred, the friends and neighbours of the deceased resort to the House the corpse is in, each bringing with him some small present of Bread, Meat, Drink, (if the family be something poor ;) but more especially Candles, whatever the Family be : and this Night is called *wyl nôs*, whereby the country people seem to mean a Watching Night. Their going to such a House, they say is, *i wilior corph*, i. e. to watch the corpse ; but *wylo* signifies to weep and lament, and so wyl nôs may be a night of lamentation : while they stay together on that night they are either singing Psalms, or reading some part of the Holy Scriptures.
 >
 > "Whenever any body comes into a Room where a dead Body lies, especially the wyl nôs and the day of its Interment, the first thing he does, he falls on his knees by the Corps, and says the Lord's Prayer."
+
+```{admonition} *"Mr Pennant's MS."*
+:class: seealso
+
+The manuscript referred to *"Mr Pennant's MS."* is perhaps the one that was eventually published in the Rhyl Journal of November 22nd, 1884, and republished in *Archaeologia Cambrensis* [Vol 2 Iss 6, April 1885](https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/152/mode/2up), p152-5. Extracts from it will be considered in a later chapter.
+```
