@@ -65,8 +65,8 @@ Askew Roberts, you might recall, was the original editor of Bye-Gones, launched 
 
 We also get a first hint here that Askew Roberts, at least, has a good idea about whom the author of the article might be.
 
-```{admonition} Askew Roberts, the Oswestry Advertizer, and Bye-Gones
-:class: seealso dropdown
+`````{admonition} Askew Roberts, the Oswestry Advertizer, and Bye-Gones
+:class: dropdown
 
 The history of Bye-Gones, and Robert Askew's stewardship of it, is given in an obituary piece that appeared in *Bye-Gones* of [December 17th, 1884](https://journals.library.wales/view/2092910/2095293/4#), p146-8:
 
@@ -96,13 +96,34 @@ A report in *Bye-Gones*, of [June 25th, 1890](https://journals.library.wales/vie
 
 > believed Mr Askew Roberts was the originator of these local "Notes and Queries," and that *Bye-Gones* was the first periodical of the kind, perhaps, in all England, and his memory, if for nothing else than this, deserved to be perpetuated. They were all aware of the interest, he might say the passionate interest, with which he regarded his native town, and therefore it was fitting that his memory should be commemorated by the inhabitants of the town he loved so well.
 
-He had also been an active Freemason:
+
+```{admonition} Askew Roberts Memorial at Oswestry, 1890
+:class: dropdown note
+A report on the Askew Roberts Memorial, Oswestry, in *Bye-Gones*, [June 25th, 1890](https://journals.library.wales/view/2092910/2096798/17#?xywh=-371%2C1552%2C3382%2C2231), p392-3
+
+> THE ASKEW ROBERTS MEMORIAL AT OSWESTRY.
+> 
+> The ceremony of handing over the Askew Roberts Memorial Clock to the town of Oswestry was performed at a quarter to five yesterday afternoon, when the Mayor and Corporation attended at the Post Office to receive it. There were several prominent ratepayers present, in addition to the Mayor, Mr W. H. Spaull (secretary to the Memorial Fund), and the Town Clerk, Mr J. Parry-Jones, The proceedings were opened by Mr Spaull, who said they were met together to ask the Mayor to accept from the subscribers, for the use of the inhabitants of the borough of Oswestry, the clock which was placed by public subscription outside the Post Office, and which was to be removed wherever the Post Office was removed to. The clock was put up as a memorial to a late townsman, Mr Askew Roberts, who was a man of some little note in the literary world, but the Town Clerk would no doubt refer to Mr Roberts's qualities at greater length. He had received a letter from the Post Office authorities, accepting the responsibility of the care and repair of the clock. He also held in his hand a letter from the local postmaster, stating that the clock put up by Messrs Joyce of Whitchurch was at the time in good order and keeping very regular time, varying not more than half a minute in a fortnight. He begged to ask the Mayor, as the representative of the Town Council and of the burgesses of the borough, to accept the clock on behalf of the inhabitants. (Hear, hear, and applause.)
+>
+> Mr J. Parry-Jones said as executor to the late Mr Askew Roberts he had been asked to be present, and had very great pleasure in representing the family. It was with great pleasure they saw that the townspeople and the inhabitants of the place Mr Roberts loved so well were still desirous of perpetuating his memory. Oswestry had not connected with it the names of a great many memorable persons and it was desirable that the memory of a man like Mr Askew Roberts, who had done so much for his native town, should not pass away without recognition. He was the author of the "Gossiping Guide to Wales," which had created so much interest in North Wales, and which her Majesty the Queen was so much pleased to receive on her visit to Wales, and the originator of *Bye-Gones*, which had done so much to create an interest in the subject of folk-lore and antiquarian research in local matters. He believed Mr Askew Roberts was the originator of these local "Notes and Queries," and that *Bye-Gones* was the first periodical of the kind, perhaps, in all England, and his memory, if for nothing else than this, deserved to be perpetuated. They were all aware of the interest, he might say the passionate interest, with which he regarded his native town, and therefore it was fitting that his memory should be commemorated by the inhabitants of the town he loved so well. (Applause.)
+>
+> The Mayor, who was received with applause, said as Mayor, as a ratepayer of the town, and as one first came into Oswestry while the late Mr Askew Roberts was still taking an active interest in the town, he had great pleasure in accepting the clock, to be held in trust for the town and as the property thereof. It would remain on the site of the present Post-office, and be removed to wherever the Post-office might be removed in the course of events. (Hear, hear.) It was not only most useful, but it would commemorate the memory oi one who did his very best for the town while he lived in it and whose memory would linger long in the places where he worked so well. (Hear, hear.) There was an old inscription in the purlieus of the Temple, over the sun dial, which he remembered having seen, "Shadows we are and like shadows depart." Thinking of those lines they might remember that those who had gone before them, and done a good work, not only deserved to have their memories regarded by those who remained, but they should endeavour to follow in the footsteps which they had planted before them. (Applause.) The clock would now be in the safe keeping of the Mayors who would succeed him, and he hoped all would profit by the good time which they were told it kept. (Loud cheers.)
+```
+
+```{admonition} Askew Roberts, Freemason
+:class: dropdown
+
+It seems as if Askew Roberts ahd been an active Freemason:
 
 > At one time Mr Roberts was an active member of the Order of Free Masons. He was initiated into the Welshpool Lodge, No. 998, of Antient Free and Accepted Masons of England on March 30, 1864, and continued a member of that Lodge till December, 1867. In 1866 a petition was addressed to the Grand Master for a Lodge to be held at Oswestry, to be called the St. Oswald Lodge, and Mr Roberts was one of the ten petitioners, of whom only four are now alive. When the Lodge was consecrated, in October, 1866, Mr Roberts was chosen Secretary, and he continued to hold that office till October, 1870, when he became a Warden of the Lodge. On the 5th December, 1870, Sir Watkin Williams Wynn, the R.W.P.G.M., appointed Mr Roberts a Steward of the Provincial Grand Lodge of North Wales and Shropshire.
+```
 
+```{admonition} Askew Roberts, Workaholic?!
+:class: dropdown note
 Despite his many pursuits, it seems that Askew Roberts did not enjoy the best of health:
 
 > For some years Mr Roberts had not mixed much in public life, but in his younger days, when health and strength permitted, he took an active part in promoting the welfare of the town. He was a warm supporter of successive literary institutes, and he gave valuable help, years ago, in laying the foundation of the present Town Library. In 1865 he entered the Council, tying with another candidate at the head of the poll; but, believing perhaps that the position was not entirely compatible with his more important functions as a journalist and a critic, he retired in 1868. In the beginning of 1872 he was placed on the Commission of the Peace by Lord Chancellor Hatherley, and he devoted himself diligently to the duties of his office until he was incapacitated by illness.
+```
 
 The actual statement of his death, which appeared at the start of the obituary, described the manner of his passing:
 
@@ -112,6 +133,8 @@ It appears, though, that he may have been something of a workaholic:
 
 > For awhile the publication of the column of *Bye-Gones* edited by him in this paper was suspended, but as soon as the severity of the first attack passed away, Mr Roberts resumed the work in which he took so much delight, and he continued it to the close of his days, the last instalment, containing a contribution of his own, having appeared only last week. Indeed, his indomitable spirit so far triumphed over physical weakness that he was actively engaged in other literary work during his long illness, and the proofs of his final, and most interesting, contribution to the Transactions of the Shropshire Archaeological Society, a paper on the "Gateways of Oswestry," passed through the press, under his careful revision, in the month of November. On the Sunday before his death he was as well as he had been for some time, and was able to enjoy the society of his friends, and although on Monday a change came, it did not seem to those about him to betoken any immediate danger. He still kept up his interest in passing events, and even on Wednesday morning there was no sign that life was so near its close; but at noon he passed quietly and very peacefully away, in the presence of his wife.
 
+```{admonition} Funeral
+:class: dropdown note
 His funeral seems to have been a well attended one:
 
 > The remains of the deceased gentleman were interred in the Cemetry on Saturday afternoon. At two o'clock a large number of friends assembled at Croeswylan, and shortly afterwards the funeral procession was formed. The body, which was enclosed in a beautifully polished oak coffin, with brass furniture, was borne by employe's at the Caxon Press, and on the coffin were placed several beautiful wreaths, including one sent as a tribute of regard from the staff of the Caxton Press.
@@ -119,23 +142,42 @@ His funeral seems to have been a well attended one:
 >The service, both in the chapel and at the grave, was conducted by the Rev. J. J. Poynter. Letters were received from friends in Welshpool, and other places, expressing their great regret that they were unable to ba present at the funeral. The shutters were up on many shops, and the blinds drawn down at many private houses in the town.
 
 *The obituary gives a long list of names of townsfolk who made up the funeral procession.*
+```
 
-The Bye-Gones obituary also describes the sentiments expressed in leading colun of the *Oswestry Advertizer*:
+```{admonition} Leader, *Oswestry Advertizer*
+:class: dropdown note
+The Bye-Gones obituary also describes the sentiments expressed in leading column of the *Oswestry Advertizer*:
 
 > Many of our readers on both sides of the Border will have heard with regret of the death of Mr. Askew Roberts, who conducted this paper for nearly twenty years, and in his retirement became the editor of *Bye-Gones*, Brief records of Mr. Roberts's life have appeared in many of the daily and weekly papers, and we give a longer sketch of his career in another column. Mr. Roberts will be remembered in Wales not only for his political services, which were considerable, but as the author of one of the most successful guides to the northern half of the country, and a writer who helped in many ways to preserve and illustrate the legends and records of the Principality. Mr. Roberts's public duties in his native town have been principally confined in later years to the discharge of magisterial duties, but he wrote so many authentic chapters of local history that, although he was not spared to weave them together, he may be justly called the historian of Oswestry.
 >
 > The London Welsh correspondent of the *Oswestry Advertizer* makes the following references in his letter, to the death of Mr. Askew Roberts:— At the Executive Committee of the National Eisteddfod Association on Thursday evening, Mr J. H. Puleston, M.P., in the chair, deep regret was expressed by several of the members at the death of Mr Askew Roberts, who, since the formation of the Association, had been a member of the Executive, and who, in many ways, had largely contributed to its deliberations.
 >
 > The announcement of Mr Askew Roberts's death has caused great sorrow amongst the London group of "Old Oswestrians." In many ways, notably in connection with the establishment of the pleasant Reunion of recent years, Mr Roberts had taken a warm and appreciative interest in their welfare. To not a few of them he had ever been a kind mentor and a wise friend, and his loss will be severely felt by them for many years to come. As the editor of "Bye-Gones" he was known to a much wider circle here. His faithfulness to the work he had taken up cannot be better illustrated than by the fact that only a few days before his death he wrote a long letter to Mr W. Charles Evans concerning the shield and arms of the Holbeach family, which Mr Evans had come across in Rochester Cathedral.
+```
+
+```{admonition} A Funny Tale of Shrewsbury
+:class: dropdown
+> https://archive.org/details/gossipingguidet01woodgoog/page/n50/mode/2up?q=legend Shrewsbury - Turning past the new Post Office, close to the site of the old High Cross, where the Welsh Prince, Dafydd ap Gruffydd, brother to Llewelyn, is said to have been hungand quartered, we descend Pride Hill, with a turreted market hall before ns. The first turn to the left leads up the quaint street called the Double Butcher Row ; the next, a little further down the Hill, takes us past some fine half-timbered buildings (" Ireland's Mansion " on the right) to The Square, with the picturesque Market House of the 16th century, one of the finest buildings of the kind to be seen in the country.    It Is said that at one time the hall was rented by the Company of Drapers, who there bought flannel which had been brought to the town by Welsh weavers, and, according to a local legend, the mode of purchase was novel— and profitable. "A drum revolving on an axle was used for measuring the flannel. This drum, exactly a yard in circumference, was turned by a handle, and each revolution of the handle was counted as a yard, without any consideration for the gradual Increase in the diameter of the drum by the successive folds of the article measured thereon " According to the story, the Welshmen were not astute enough to discover the fraud for some time, but when they found it out they deserted Shrewsbury market, and so It came to pass thtt the tfadt tn Welsh flannel was extinguished)
+```
 
 TO DO - see also:
 
+
+> Gossiping guide to wales  https://archive.org/details/gossipingguidet01woodgoog
 
 https://biography.wales/article/s-ROBE-ASK-1826
 
 http://onlinebooks.library.upenn.edu/webbin/serial?id=byegoneswales
 
-```
+> Also: https://www.oswestrygenealogy.org.uk/photos/osw-nm-o-5-59-18-john-askew-roberts-plaque/
+>
+> OSW-NM-O-5-59-18 – John Askew Roberts Plaque
+>
+> Posted on March 3, 2018
+>
+> Owners Of Caxton Press Mr W W ROBERTS, founder  Mr S ROBERTS 1st Proprietor – this and picture 17 came from the newspaper but we have no date.
+
+`````
 
 In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/2092910/2093552/11#?xywh=-1479%2C531%2C5791%2C3820), p329-30, we have a note that '[t]he following letter has appeared in the *Academy*. "Llanymawddwy Rectory, Merioneth: November 8th, 1875. ...' that quotes Silvan Evans' letter to the November 13th edition of the *Academy* along with Roberts' own reply from the November 20th edition, as well as an excerpt of several paragraphs from that work.
 
