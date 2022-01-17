@@ -510,3 +510,69 @@ One section, at pp150-1, reviewed religious customs, perhaps notably *without* r
 > Among the *Welsh* it was reckoned fortunate for the deceased if it should rain while they were carrying him to church, that his bier might be wet with the dew of heaven.
 >
 > In some places it was customary for the friends of the dead to kneel, and say the Lord's Prayer over the grave, for several *Sundays* after the interment; and then to dress the grave with flowers.
+
+## Shropshire Folk-lore, 1883-1885
+
+With a [first part](https://archive.org/details/shropshirefolkl00burngoog/page/n20/mode/2up) published in 1883, a [second part](https://archive.org/details/shropshirefolkl00jackgoog/page/n150/mode/2up?q=sin-eater) in 1885, and a third part](https://archive.org/details/shropshirefolkl01jackgoog/page/n14/mode/2up) in 1886, *Shropshire Folk-Lore – A Sheaf of Gleanings* was an edited work by Charlotte S. Burne based on the collections of Georgina Frederica Jackson, compiler of the [Shropshire word-book](https://archive.org/details/shropshirewordb01jackgoog), *"a glossary of archaic and provincial words, etc., used in the county"* in 1879.
+
+In Part II, p306, various death customs are described, including various food rituals:
+
+> This distribution of 'cakes and ale' at funerals is often alluded to in old writings.
+> 
+> 'Deal on, deal on, ye merry men all,  
+> Deal on your cake and your wine ;  
+> Whatever is dealt at her funeral to-day  
+> Shall be dealt to-morrow at mine.'
+> 
+> *Fair Margaret and Sweet William*; PERCY, Reliques.
+
+```{admonition} Thomas Percy, *Reliques of ancient English poetry*, 1765
+:class: seealso dropdown
+Thomas Percy's *Reliques of ancient English poetry: consisting of old heroic ballads, songs, and other pieces of our earlier poets, (chiefly of the lyric kind.) Together with some few of later date* was a three volume work originally published in 1765 ([volume 1](https://archive.org/details/reliquesancient06percgoog/page/n8/mode/2up), [volume 2](https://archive.org/details/reliquesancient00dodsgoog), [volume 3](https://archive.org/details/reliquesancient35percgoog/page/n7/mode/2up)), and republished in several editions in the years thereafter.
+
+A folio manuscript edition, s *Bishop Percy's folio manuscript. Ballads and romances*, edited by John W. Hales, M.A. and Frederick J. Furnivall, M.A., was published in 1867 in three volumes ([volume 1](https://archive.org/details/bishoppercysfol03percgoog/page/n10/mode/2up), [](https://archive.org/details/bishoppercysfol00percgoog/page/n10/mode/2up), [third volume](https://archive.org/details/bishoppercysfol01percgoog/page/n10/mode/2up)).
+```
+
+Burne observes that many of the customs may have taken the form of doles:
+
+> Anciently, the food and drink were 'dealt' not so much by way of a refreshment for the mourners, as of a gift to the poor to purchase their prayers for the departed soul. At other times the dole consisted of money, collected from all the attendants at the funeral, and afterwards bestowed upon the poor. This custom prevailed in Shropshire as late as 1723. In that year Sir John Wolryche of Dudmaston (Sheriff of Shropshire in 1716) was drowned in the Severn near his own house. The amount of the 'dole-money' collected at his burial was unusually large, and so grateful was it to his mother's feelings, as an expression of respect to her son's memory and sympathy with herself, that while she gave an equal sum to the poor, she preserved the actual coins given at the burial, laid upon the broad dish on which they had been offered, by her bedside to the day of her death, in 1765, forty-two years after the death of her son, and sixty-four after that of her husband. `[Blakeway, Sheriffs of Shropshire (1831), p. 170. Mr. Blakeway says these offerings were still customary in North Wales when he wrote, but they seem (see Brand, *Antiquities*, II. 208) to have there been made rather for the benefit of the parson than of the poor. No doubt they were once intended to purchase masses for the repose of the soul of the deceased.]`
+
+The practice of the sin-eater is represented as a particularly gruesome variant of this tradition, and is accepted, on trust, from Aubrey:
+
+> One very curious and repulsive outgrowth from the custom of funeral doles must here be noticed, as by some it has been set down as a Shropshire practice. I mean the well-known account of the Sin-eater, taken from Aubrey's *Remains*, in which, let me point out, there is no reference made to Shropshire at all, I will quote the passage in full.
+
+The *Sinne Eaters* section of *Remaines of Gentilisme*, presumably taken from Britten's edited 1881 edition, is then reprinteds.
+
+```{admonition} *Shropshore folk-tales*, quoting Aubrey, *Remaines of Gentilisme*
+:class: dropdown
+> SINNE-EATERS.
+> 
+> 'In the County of Hereford was an old Custome at funeralls to (hire) have poor people, who were to take upon them all the sinnes of the party deceased. One of them I remember lived in a cottage on Rosse high-way. (He was long, leane, ugly, lamentable poor raskel.) The manner was that when the Corps was brought out of the house and layd on the Biere, a Loafe of bread was brought out, and delivered to the Sinne-eater over the corps, as also a Mazer-bowle of maple (Gossips bowle) full of beer, whch he was to drinke up, and sixpence in money, in consideration whereof he tooke upon him (*ipso facto*) all the Sinnes of the Defunct, and freed him (or her) from walking after they were dead. This custome alludes (methinkes) something to the Scapegoate in ye old Lawe.  Leviticus, cap. xvi. verse 21. 22. ... This Custome (though rarely used in our dayes) yet by some people was (observed) continued even in the strictest time of ye Presbyterian government : as at Dynder, volcns nolens the Parson of ye Parish, the (kinred) relations of a woman deceased there had this ceremonie punctually performed according to her Will : and also the like was donne at ye City of Hereford in these times, when a woman kept many yeares before her death a Mazard-bowle for the Siune-eater ; and the like in other places in this Countie; as also in Brecon, e. g. at Llangors, where Mr. Gwin the minister about 1640 could no hinder ye performing of this ancient customme. I believe this customme was heretofore used over all Wales.
+> 
+> 'See Juvenal Satyr. VI. (519 — 521), where he speakes of throwing purple thread into ye river to carry away ones sinne. In North Wales, the sinne eaters are frequently made use of ; but there, insted of a Bowle of Beere, they have a bowle of Milke. Methinkes, Doles to Poore people with money at Funeralls have some resemblance of that of ye Sinne-eater. Doles at Funeralls were continued at Grentlemens funeralls in the West of England till the Civil-warre. And so in Germany at rich mens funeralls Doles are in use, and to every one a quart of strong and good Beer. — Cramer.' `[Aubrey, *Remains of Gentilisme and Judaisme* (F. L. S.), p. 35.]`
+```
+
+The identification of the tradition with *Shropshire* is laid squarely at the hands of Bagford:
+
+> The connection of this custom with Shropshire rests on the authority of John Bagford, whose letter on the subject is dated Feb. 1st, 1714 — 15. He says, 'Within the memory of our Fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire (for so they called him) who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket ; a Crust of Bread, which he eat ; and a full bowle of Ale, which he drank off at a draught. After this, he got up from the Cricket and pronounced, with a composed gesture, *the ease and rest of the Soul departed, for which he would pawn his own Soul*. This I had from the ingenious John Aubrey, Esq., who made a Collection of curious Observations, which I have seen, and is now remaining in the hands of Mr. Churchill, the bookseller.' `[Leland's *Collectanea*, ed. Hearne, p. lxxvi. QUoted in BRAND, *Antiquities*, II. 198.]`
+
+However, doubt is raised as to the veracity of the claim:
+
+> It will be seen that Bagford is therefore but a second-hand authority, whose account was committed to writing some thirty years after Aubrey's own. It is singular, to say the least of it, that no other writer has ever even alluded to such a practice. `[But in 1852 Mr. Matthew Moggridge of Swansea asserted at the Cambrian Archaeological Society's Annual Meeting, that the custom had then been recently practised in the parish of Llandebie, Caermarthenshire. See Wirt Sikes, *British Goblins*, p. 826.]` Aubrey has always been noted for his romance and credulity, yet it seems hardly possible that he could have misunderstood a matter which he relates so circumstantially and apparently from personal knowledge. It is easier to believe that in some wild and remote places the custom of giving doles to the poor was kept up after the precise nature of the benefit to the soul of the dead man (expected in pre-Reformation days) had been forgotten, and that among ignorant people it was corrupted into the debasing superstition which Aubrey describes. But Salopians will be slow to believe that his story concerns their county until further evidence be forthcoming.
+
+The commentary then proceeds to other, more recent instances, of funeral dole traditions:
+
+> Much later than Aubrey's time, the funeral dole survived in North Wales in its more primitive and innocent form. Pennant in his *History of Whiteford* describes the nearest female relative of the dead giving bread, cheese, ale, and money to the poor over the coffin, and Mr. Wirt Sikes reproduces a curious 18th-century print of such a scene. `[Brand, Antiquities, II. 211 ; *British Goblins*, 323.]`
+
+The citation of Pennant's'*History of Whiteford* as the source of the tradition for the nearest female relative providing the gift is incorrect. The reference actually appears in Pennant's *Tours in Wales*.
+
+```{figure} ../resources/images/British_goblins_food_over_coffin_p323.png
+---
+name: British_goblins_food_over_coffin_p323
+---
+"Giving food over the coffin", in *British Goblins, Wirt Sikes, 1880, p323.
+```
+
+Still existent variants of the tradition in the region were then identified, along wth a pleas for "further research needed":
+
+> The funeral sponge-cakes of North Shropshire are still, or were recently, in use in Wales also`[*Ibid.*, p324]`. It is much to be wished that the subject of the ceremonial use of cakes could be farther investigated.`[E. g. we have Wedding, or, as it used to be called, Bride Cake, Christening Cake, Yule Cake, Twelfth Cake, Simnel Cakes, Soul Cakes, etc. : to say nothing of the divinations and magical remedies in which the baking of specially compounded cakes (as the Dumb Cake) plays a part.]` One cannot but suspect that the funeral cakes were in their first origin not a dole to purchase prayers, but a part of the ceremonial of the pagan burial-feasts; of which we really seem to retain other traces in Shropshire, to judge from the following passage in a letter addressed by the Rev. G. L. Wasey to Miss Jackson in 1873. He speaks of course of the neighbourhood of Bridgnorth.
