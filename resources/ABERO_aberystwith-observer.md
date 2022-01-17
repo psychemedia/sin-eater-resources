@@ -153,6 +153,21 @@ Sir.— I have been much interested by the letters which have appeared in your c
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003437/18841206/037/0004
+
+Aberystwyth Observer
+
+Saturday 06 December 1884
+p??
+
+New Welsh-English Dictionary
+
+All Welshmen students of the Welsh language will learn with pleasure that the Rev Professor Silvan Evans' Welsh-English Dictionary is now in the press, the first two sheets already been printed. The work will be published by Mr Spurrell, Carmarthen. Mr Evans English-Welsh Dictionary, published at Denbigh, was issued from the press nearly thirty years ago. The present work will be far superior to anything of the kind over attempted, and will largely supplement the previous great works.
+
+
+
+---
+
 
 
 https://newspapers.library.wales/view/3047421/3047423/4/
@@ -175,19 +190,6 @@ p??
 CANON SILVAN EVANS' DICTIONARY. A MONUMENTAL WELSH WORK.
 
 The third part of the Great "Dietionary the Welsh Language," prepared by the Rev. Canon Silvan Evans, of Llanwrin, has reeontly been published by Messrs Spurrell & Son. of Carmarthen. This part, which deals alone with the letter C. completes the first volume of this monumental work. Great and deserved praise has been accorded to Dr Murray for his immense labour on the English dictionary. Without in any way seeking to minimise that praise, I venture to say that when one considers the army of assistants who render service to the English Lexicographer, the work of his Welsh compeer, carried on through years and years of hard and constant labour, with the assistance alone of Harry Silvan Evans, M.A., will fully bear the test of the closest comparison. Wales and its language already owe much to the untiring efforts of the rector of Llanwrin ; this work, when completed, will increase the obligation a hundredfold. In the "New Welsh Dictionary" minute attention has been paid to the meaning and etymology of the words, and a great many common phrases and expressions are given with copious extracts from Welsh classical authors to illustrate their use. For instanee tbe use of the word "bardd" is illustrated by lines from the writings of Aneurin, Taliesin, Cynddelw, and Goronwy Owain, and its various significations, such as bardd telu, bardd cadeiriog, bardd gorssedog, &c., are explained by quotations from Cyfreithiau Cymru, Cyfrinach y Beirdd, Bardas, and the Iolo mss. To students of the development of the language, and to Celtic students generally, the book will simply be invaluable. It is admirably arranged, and excellently printted by Mesars Spurrell.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0003437/18841206/037/0004
-
-Aberystwyth Observer
-
-Saturday 06 December 1884
-p??
-
-New Welsh-English Dictionary
-
-All Welshmen students of the Welsh language will learn with pleasure that the Rev Professor Silvan Evans' Welsh-Englisb Dictionary is now in the press, the first two sheets already been printed. The work will be published by Mr Spurrell, Carmarthen. Mr Evans English-Welsh Dictionary, published at Denbigh, was issued from the press nearly thirty years ago. Thu present work will be far superior to anything of the kind over attempted. and will largely supplement the previous great works.
 
 ---
 
