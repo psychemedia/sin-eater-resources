@@ -94,7 +94,7 @@ Vol VI, No. 5
 
 November 1884
 
-p477 
+p477
 
 Notes and Queries
 
@@ -104,3 +104,74 @@ In the Red Dragon vol. iii., p. 450, appears a paper by Mr. Askew Roberts, J.P.,
 
 Cardiff. Black-letter Folio.
 
+---
+
+https://journals.library.wales/view/2062893/2066723/102#?xywh=-743%2C345%2C3517%2C2320
+
+Red Dragon, vol VII
+January 1885
+
+p89
+
+The Sin Eater (vi.—477).—
+
+"Black Letter Folio" will find reference to this custom in a book entitled The *Remaines of Gentilisme and Judaisme*, by John Aubrey, 1686-87 (London, 1881, 8vo.) On page 35 of this work the author mentions the practice as existing in Hereford in his time where he saw the Sin-Eater, who was "a long, leane, ugly, lamentable poor raskal." This custom, "though rarely used in our dayes, yet by some people was observed / continued even in the strictest time of ye Presbyterian government." He also states it was practised at Llangorse, in Brecon, where "Mr. Gwin, the minister, about 1640, could not hinder ye performing of it. I believe this custome was heretofore used all over Wales. This custom (methinks) alludes something to the scape-goat of ye old lawe. See Lev., chap, xvi., verse 21, 22."
+
+*London.* AP IFAN
+
+---
+https://journals.library.wales/view/2062893/2067842/110#?cv=110&m=53&h=sin-eater
+
+Red Dragon
+
+November 1885
+
+p511
+
+REPLIES.
+
+The Sin Eater (vi.—477; vii.—89).—
+
+Had "Blackletter Folio" referred to Brand, he would have found there all the information needed. Bagford's letter relative to the antiquities of London, printed in Leland's Collectanea, vol. I., and dated February 15th, 1714, has the following :— "Within the memory of our fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket; a crust of Bread, which he eat; and a full howle of Ale, which he drank at a draught. After this he got up from the cricket, and pronounced with a composed gesture *the ease and rest of the Soul departed, for which he would pawn his own Soul*. This I had from the ingenious John Aubrey, Esq., who made a collection of curious Observations, which I have seen and is now remaining in the hands of Mr. Churchill, bookseller. How can a man think otherwise of this, than that it proceeded from the ancient Heathens ?" Brand then gives the passage from *The Remains of Gentilism and Judaism* to which allusion is made at the latter reference by "Ap Ifan," and which, complete, reads as follows :—
+
+" In the County of Hereford was an old Custome at Funeralls to hire poor People, who were to take upon them the Sinnes of the Party deceased. One of them (he was a long, leane, ugly, lamentable poor Raskal) I remember lived in a Cottage on Rosse high-way. The manner was, that when the Corps was brought °ut of the House, and laid on the Biere, a Loaf of Bread was brought out and delivered to the Sinne Eater, over the Corps, as also a Mazar Bowie, of Maple, full of Beer (which he was to drink up), and Sixpence in money; in consideration whereof he took upon him, *ipso facto*, all the Sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the Scape-Goat in the old lawe, Levit. chap, xvi., 21, 22. 'And Aaron shall lay both his hands on the head of the live Goate, and confesse over him all the iniquities of the Children of Israel, and all their transgressions in all their sins, putting them upon the head of the Goate, and shall send him away by the hand of a fit man into the Wilderness. And the Goat shall bear upon him all their iniquities unto a Land not inhabited ; and he shall let the Goat goe into the Wilderness.'
+
+"This Custome (though rarely used in our days) yet by some people was observed even in the strictest time of the Presbyterian Government, as at Dynder (*volens molens* the parson of the Parish) the kindred of a Woman deceased there had this Ceremonie punctually performed, according to her Will; and also *he like was done at the City of Hereford in those times, where a Woman kepte lriany years before her death a Mazard Bowie for the Sinne Eater ; and the like in °ther places in this Countie ; as also in Brecon ; e.g., at Llanggors, where Mr. Gwin, the Minister, about 1640, could not hinder the performance of this ancient Custome. I believe this Custom was used heretofore all over Wales."
+
+*Oswestry.* Geo. H. Brierley.
+
+---
+
+https://journals.library.wales/view/2062893/2067949/112#
+
+The Red Dragon,
+
+December 1885
+
+p617
+
+The Sin Eater (vi.—477 ; vii.—89 ; viii.—511).—
+
+Some time ago (I have lost the reference) there was a "Note" in the Red Dragon on the curious old custom of sin eating. The subject, if I recollect, was not very fully discussed, and perhaps the following remarks may be not without interest. They are taken from a curious book called *Agriconensia, or Archaeological Sketches of Ross*, by a Herefordshire antiquary named Fosbroke. It is a small volume, written apparently as a companion to Gilpin's *Wye Tour*, with which, in the copy I picked up the other day at a bookstall, it is bound. After mentioning various customs, he says, " It appears that so late as the 17th century there was in the villages adjoining to Wales an old man called the 'Sin Eater ;' and his office was, for a trifling compensation, to pawn his own soul for the ease and rest of the soul departed." Ellis, the editor of the Popular Antiquities, has extracted the following curious passage from the Lansdowne Manuscripts concerning a "Sin Eater" who "lived in a cottage on Rosse highway." "In the county of Hereford was an old custom at funerals to hire poor people who were to take upon them the sinnes of the party deceased. One of them (he was a long, leane, ugly, lamentable poor Rascal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corps was brought out of the house, and layd on the Biere, a loaf of bread was brought out and delivered to the Sinne-Eater, over the corps, as also a mazar bowl of maple, full of beer, which he was to drink up, and six-pence in money, in consideration whereof he took upon him, *ipso facto*, all the sinnes of the defunct and freed him or her from walking after they were dead. This custom alludes, methinks, something to the Scape Goat in the old Lawe, Leviticus, chap, xvi., v. 21, 22."
+
+*Cambridge.* W.A.
+
+NOTE: The reference is actually Ariconensia
+
+
+---
+
+
+https://journals.library.wales/view/2062893/2068170/113#?xywh=-781%2C52%2C3517%2C2320
+
+The Red Dragon, Vol. IX, No. 1,
+
+January 1886
+p98
+
+REPLIES
+The Sin Eater (vi.—477 ; vii.—89 ; viii.—511).—
+
+I wish some of your correspondents would either drop all personalities, or make sure of their ground before indulging in them. In your November number Mr. Geo. H. Brierley (Oswestry),replying to a question of mine on this subject, begins by saying that "had 'Blackletter Folio' referred to Brand he would have found there all the information needed.". It is bad enough to impute ignorance of Brand to a man when he really deserves it, as I, on this occasion at any rate, most certainly do not, for I say in the very query to which Mr. Brierley replies (vi.—477), that "Brand in his Popular Antiquities quotes Aubrey. . . . but does not (at least not in my copy) give a reference."
+
+*Cardiff* Blackletter Folio.
