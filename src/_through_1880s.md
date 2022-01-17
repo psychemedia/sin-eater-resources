@@ -482,9 +482,10 @@ It is perhaps also worth noting here the tradition of "bride ale".
 ```{admonition} Bride Ale
 :class: seealso
 
-TO DO
+For example, Brand's [*Popular antiquities*](https://archive.org/details/b29328561_0002/page/142/mode/2up?q=bride+ale), 1849 edition, p143
 
-p143 Popular antiq, 1849 edition https://archive.org/details/b29328561_0002/page/142/mode/2up?q=bride+ale
+> Bride-ale, bride-bush, and bride-stake are nearly synonymous terms, and all derived from the  circumstance  of the bride's selling ale on the wedding-day, for which she received, by way of contribution, whatever handsome price the friends assembled on the occasion chose to pay her for it. The expense of a bride-ale was probably defrayed by the relations and friends of a happy pair, who were not in circumstances to bear the charges of a wedding-dinner.
+
 ```
 
 ## *Tours in Wales*, John Rhys, 1883
