@@ -217,7 +217,7 @@ Also: https://archive.org/details/byegonesrelating1882unse/page/64/mode/2up?q=si
 
 Bye-gones, relating to Wales and the border counties.
 
-May 1882
+May 17, 1882
 
 p64-5
 
@@ -319,7 +319,7 @@ https://archive.org/details/byegonesrelating1882unse/page/232/mode/2up?q=sin
 
 Bye-gones, relating to Wales and the border counties.
 
-May 1883
+May 9, 1883
 
 p233-4
 
