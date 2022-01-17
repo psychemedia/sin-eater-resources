@@ -46,6 +46,72 @@ show_diffs(x1.replace('.',''),x2.replace('.',''),
            "Excerpt from Kennet's *Parochial Antiquities*")
 ```
 
+### *Red Dragon*, 1884-6
+
+In the Red Dragon of[November, 1884](https://archive.org/details/reddragon01wilkgoog/page/476/mode/2up?q=sin), p477, one curious reader picking up on the major review article on the sin-eater by Askew Roberts thay had appeared May, 1883, volume III edition, enquiring about the actual reference in Aubrey to the sin-eater:
+
+> Notes and Queries
+>
+> The Sin Eater. —
+>
+> In the Red Dragon vol. iii., p. 450, appears a paper by Mr. Askew Roberts, J.P., Oswestry, on "The Sin Eater," in which it is stated that "John Aubrey, who flourished between 1626 and 1700, is the man to whom all later 'historians' are indebted for the prevalence of the custom" [Sin Eating]. Can anyone give me a reference to that part of Aubrey wherein this custom is dealt with? Brand, in his *Popular Antiquities*, quotes Aubrey, or professes to quote him in substance, but does not (at least not in my copy) give a reference. I possess a first edition of the Miscellanies ("collected by J. Aubrey, Esq.; London, printed for Edward Castle, next Scotland Yard Gate, by Whitehall, 1696"), but I have not been able to find a single word in them relative to the custom in question.
+>
+> Cardiff. Black-letter Folio.
+
+A response appeared in the [vol VII, January 1885](https://journals.library.wales/view/2062893/2066723/102#?xywh=-743%2C345%2C3517%2C2320) edition, p89:
+
+> The Sin Eater (vi.—477).—
+> 
+> "Black Letter Folio" will find reference to this custom in a book entitled The Remaines of Gentilisme and Judaisme, by John Aubrey, 1686-87 (London, 1881, 8vo.) On page 35 of this work the author mentions the practice as existing in Hereford in his time where he saw the Sin-Eater, who was "a long, leane, ugly, lamentable poor raskal." This custom, "though rarely used in our dayes, yet by some people was observed / continued even in the strictest time of ye Presbyterian government." He also states it was practised at Llangorse, in Brecon, where "Mr. Gwin, the minister, about 1640, could not hinder ye performing of it. I believe this custome was heretofore used all over Wales. This custom (methinks) alludes something to the scape-goat of ye old lawe. See Lev., chap, xvi., verse 21, 22."
+> 
+> *London.* AP IFAN
+
+A year on from the November, 1884, query in the [November, 1885](https://journals.library.wales/view/2062893/2067842/110#?cv=110&m=53&h=sin-eater) edition, was a "do your homework" reply, p511:
+
+> REPLIES.
+> 
+> The Sin Eater (vi.—477; vii.—89).—
+> 
+> Had "Blackletter Folio" referred to Brand, he would have found there all the information needed. Bagford's letter relative to the antiquities of London, printed in Leland's Collectanea, vol. I., and dated February 15th, 1714, has the following :— 
+> ...
+> *Oswestry.* Geo. H. Brierley.
+
+The Bagford letter, as well as Aubrey, quoted in Brand, are included in the letter, along with a more extensive quote from Brand than the one provided by the previous correespondent in the chain, Ap Ifan.
+
+```{admonition} Bagford and Brand, reprinted in *Red Dragon*, November, 1885
+:class: dropdown
+
+> "Within the memory of our fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket; a crust of Bread, which he eat; and a full howle of Ale, which he drank at a draught. After this he got up from the cricket, and pronounced with a composed gesture *the ease and rest of the Soul departed, for which he would pawn his own Soul*. This I had from the ingenious John Aubrey, Esq., who made a collection of curious Observations, which I have seen and is now remaining in the hands of Mr. Churchill, bookseller. How can a man think otherwise of this, than that it proceeded from the ancient Heathens ?" Brand then gives the passage from *The Remains of Gentilism and Judaism* to which allusion is made at the latter reference by "Ap Ifan," and which, complete, reads as follows :—
+> 
+> " In the County of Hereford was an old Custome at Funeralls to hire poor People, who were to take upon them the Sinnes of the Party deceased. One of them (he was a long, leane, ugly, lamentable poor Raskal) I remember lived in a Cottage on Rosse high-way. The manner was, that when the Corps was brought °ut of the House, and laid on the Biere, a Loaf of Bread was brought out and delivered to the Sinne Eater, over the Corps, as also a Mazar Bowie, of Maple, full of Beer (which he was to drink up), and Sixpence in money; in consideration whereof he took upon him, *ipso facto*, all the Sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the Scape-Goat in the old lawe, Levit. chap, xvi., 21, 22. 'And Aaron shall lay both his hands on the head of the live Goate, and confesse over him all the iniquities of the Children of Israel, and all their transgressions in all their sins, putting them upon the head of the Goate, and shall send him away by the hand of a fit man into the Wilderness. And the Goat shall bear upon him all their iniquities unto a Land not inhabited ; and he shall let the Goat goe into the Wilderness.'
+> 
+> "This Custome (though rarely used in our days) yet by some people was observed even in the strictest time of the Presbyterian Government, as at Dynder (*volens molens* the parson of the Parish) the kindred of a Woman deceased there had this Ceremonie punctually performed, according to her Will; and also *he like was done at the City of Hereford in those times, where a Woman kepte lriany years before her death a Mazard Bowie for the Sinne Eater ; and the like in °ther places in this Countie ; as also in Brecon ; e.g., at Llanggors, where Mr. Gwin, the Minister, about 1640, could not hinder the performance of this ancient Custome. I believe this Custom was used heretofore all over Wales."
+```
+
+With several of the steps in the documented evidence chain recalled, a correspondent in the next edition of [December, 1885](https://journals.library.wales/view/2062893/2067949/112#), p617, also brings in a reference to Fosbroke's *Agriconensia* of 1821:
+
+> The Sin Eater (vi.—477 ; vii.—89 ; viii.—511).—
+> 
+> Some time ago (I have lost the reference) there was a "Note" in the Red Dragon on the curious old custom of sin eating. The subject, if I recollect, was not very fully discussed, and perhaps the following remarks may be not without interest. They are taken from a curious book called *Agriconensia, or Archaeological Sketches of Ross*, by a Herefordshire antiquary named Fosbroke. It is a small volume, written apparently as a companion to Gilpin's *Wye Tour*, with which, in the copy I picked up the other day at a bookstall, it is bound. After mentioning various customs, he says, " It appears that so late as the 17th century there was in the villages adjoining to Wales an old man called the 'Sin Eater ;' and his office was, for a trifling compensation, to pawn his own soul for the ease and rest of the soul departed." Ellis, the editor of the Popular Antiquities, has extracted the following curious passage from the Lansdowne Manuscripts concerning a "Sin Eater" who "lived in a cottage on Rosse highway."
+> ...
+> *Cambridge.* W.A.
+
+For some reason, the *"In the county of Hereford ...  This custom alludes, methinks, something to the Scape Goat in the old Lawe, Leviticus, chap, xvi., v. 21, 22."* is also reprited.
+
+Note also that the provided reference to *"Agriconensia"* should correclty be given as *"Ariconensia"*.
+
+Finally, we note that the letter of  November, 1885, also prompted a reply in the [Vol. IX, No. 1, January, 1886](https://journals.library.wales/view/2062893/2068170/113#?xywh=-781%2C52%2C3517%2C2320)edition, p98:
+
+> REPLIES
+> 
+> The Sin Eater (vi.—477 ; vii.—89 ; viii.—511).—
+> 
+> I wish some of your correspondents would either drop all personalities, or make sure of their ground before indulging in them. In your November number Mr. Geo. H. Brierley (Oswestry),replying to a question of mine on this subject, begins by saying that "had 'Blackletter Folio' referred to Brand he would have found there all the information needed.". It is bad enough to impute ignorance of Brand to a man when he really deserves it, as I, on this occasion at any rate, most certainly do not, for I say in the very query to which Mr. Brierley replies (vi.—477), that "Brand in his Popular Antiquities quotes Aubrey. . . . but does not (at least not in my copy) give a reference."
+> 
+> *Cardiff* Blackletter Folio.
+
+### Eddowes' Journal, 1888
+
 In [May 9th, 1888](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001504/18880509/121/0004) edition of Eddowes' Journal, p4, an excerpt from  [*In Praise of Ale*](https://archive.org/details/inpraisealewith00marcgoog/page/92/mode/2up?q=sin+eater), 1888, p93-4, by W. T. Marchant, quotes the letter in Leland's *Popular Antiquities* as described in Hone’s *Year Book* of 1832.
 
 ```{admonition} Eddowes' Journal, May 9th, 1888, Quoting *In Praise of Ale*, Quoting *Hone's Year Book*, Quoting Leland's *Collectanea*
@@ -333,7 +399,7 @@ When the book came to the attention of the editor in *Bye-Gones* of [February 15
 
 > Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
 
-### Notes & Queries, 1883
+### Notes & Queries, 1883
 
 A couple of years later, an eagle-eyed, if tardy, correspondent to *Notes and Queries*, [Vol 7 Iss 159, January 13th, 1883](https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin), p25, also picked up on the reference and provided a new note on the matter, direclty quoting Paxton Hood and perhaps unaware of previous mentions of the tradition in earlier volumes of *Notes a& Queries*, although cognisant of similar other traditions reported elsewhere.
 
@@ -399,43 +465,9 @@ The article was remarked upon in *Bye-Gones* of [March 14th, 1883](https://archi
 >
 > Dr. Ollivant, the late Bishop of Llandaff, forms the subject of the memoir and portrait in the Red Dragon for March. ... That disreputable old fellow, "The Sin Eater," who we thought was killed long ago, has, it seems, only been scotched, for he crops up again in the number before us !
 
-### Bye-Gones, Spring, 1883
+### Bye-Gones, 1882-3
 
-Sometimes you just have to wonder about the propensity to just "retweet" based on recent exposure to a topic, either contemporary or historical, that has been covered repeatedly, and described in various indices, but of which certain correspondents are unaware. And so it is that in *Bye-gones* of [April 25th, 1883](https://archive.org/details/byegonesrelating1882unse/page/222/mode/2up?q=sin), p223, we get the following query:
-
-> THE SIN EATER.
-> 
-> You have more than once referred to the practice of Sin-Eating in Wales and the Borders, as resting only on the authority of Aubrey, and totally discredited by modern Welshmen. In an article I recently referred to as appearing in the *Oswestry Advertizer* for Sep. 22, 1858, something akin to the custom is mentioned, by an intelligent correspondent, who describes the custom as ancient. He says "Previous to a funeral, it was customary when the corpse was brought out of the house, and laid upon the elor, or bier, for the next of kin, be it widow, mother, sister, or daughter (for it must be a female) to give over the coffin a number of white loaves, in a great dish, and sometimes a well-made Welsh cheese, with a piece of money stuck in it, to certain poor persons. After that they presented in the same manner a cup of drink, and required the person to drink a little of it immediately. When that was done all knelt down, and the Minister, if present, repeated the Lord’s Prayer." Any reader who could quote his father or grandfather as an actual witness of a ceremony such as this, or even an approach to it, would confer a boon on Welsh Archaeology !
->
-> H. B.
-
-TO DO - oswestry advertiser
-
----
-
-
-
-https://archive.org/details/byegonesrelating1882unse/page/232/mode/2up?q=sin
-
-Bye-gones, relating to Wales and the border counties.
-
-1883-05-13
-
-p233-4
-
-> REPLIES.
->
-> THE SIN EATER IN WALES (April 25, 1883.)
->
-> The question has been asked in Bye-gones if some of the funeral customs within the memory of those now living do not point to a more pronounced ceremony on the part of our forefathers ? One writer states — but only on hearsay — that last century it was usual, when the corpse was brought out of the house, and laid upon the *Elor*, or bier, for the next of kin of the feminine gender "to give over the coffin a number of white loaves, in a great dish, and sometimes a Welsh cheese with a piece of money stuck in it, to certain poor persons. After which a cup of drink was presented also over the coffin, of which a little was to be drunk immediately. When this was done the minister knelt down and said the Lord’s Prayer." No one has corroborated this from the definite information of father or grandfather ; but they have spoken of a more modified form of, perhaps, the same ceremony, within their own recollection. Less than half a century ago it was usual at every 'respectable' funeral to have made up into packets, a couple of bits of cake — one of rich plum, and the other plain — wrapped in black-edged paper and sealed with black wax. One of these was presented to each of the invited guests, who took it home unopened. At funerals of less pretention a "large round biscuit, the size and form of an ordinary tea-saucer, inverted, took the place of the packet of cake. These were 'served' to each of the parties attending the funeral (by one of the most respectable men present) on a tray called the 'Hand-board,' or 'Server.' The ceremony was gone through just before 'Raising the Body.' After this the 'Tankard' of hot-spiced ale was offered to each person present. This was made of pewter, and had a lid : everyone was expected to take a sip." In narrating this in Bye-gones of May 17, 1882, the writer also called attention to a note in the history of the parish of Llanfechain, published in *Mont : Coll :* in 1872. He became rector in 1851, and found it was usual to allow one of the sacramental vessels a silver flagon presented to the parish in 1691) to be used in place of the customary tankard — a custom he at once denounced, to the no small chagrin of the parishioners ! How far these customs form a lingering remnant of the Sin Eater, your readers must judge for themselves.
->
-> R. Rosse Tewk, B.A.
-
----
-
-## *Popish Ceremonies Existing in Wales*, Bye-Gones, 1882
-
-A series of articles over several issues of Bye-Gones ([May 13th, 1882, p64-5](https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800), [June 7th, 1882](https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235), [July 5th, 1882](https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801), [July 12th, 1882](https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639)) describes various Catholic rituals.
+A series of articles on *Popish Ceremonies Existing in Wales*, over several issues of Bye-Gones ([May 17th, 1882, p64-5](https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800), [June 7th, 1882](https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235), [July 5th, 1882](https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801), [July 12th, 1882](https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639)) describes various Catholic rituals.
 
 The first installment opens with claim of the continued practice of Catholic ceremonies, and goes on to offer a consideration of death and burial rites:
 
@@ -488,6 +520,39 @@ For example, Brand's [*Popular antiquities*](https://archive.org/details/b293285
 
 ```
 
+Sometimes you just have to wonder about the propensity to just "retweet" based on recent exposure to a topic, either contemporary or historical, that has been covered repeatedly, and described in various indices, but of which certain correspondents are unaware. And so it is that in *Bye-gones* of [April 25th, 1883](https://archive.org/details/byegonesrelating1882unse/page/222/mode/2up?q=sin), p223, we get the following query:
+
+> THE SIN EATER.
+> 
+> You have more than once referred to the practice of Sin-Eating in Wales and the Borders, as resting only on the authority of Aubrey, and totally discredited by modern Welshmen. In an article I recently referred to as appearing in the *Oswestry Advertizer* for Sep. 22, 1858, something akin to the custom is mentioned, by an intelligent correspondent, who describes the custom as ancient. He says "Previous to a funeral, it was customary when the corpse was brought out of the house, and laid upon the elor, or bier, for the next of kin, be it widow, mother, sister, or daughter (for it must be a female) to give over the coffin a number of white loaves, in a great dish, and sometimes a well-made Welsh cheese, with a piece of money stuck in it, to certain poor persons. After that they presented in the same manner a cup of drink, and required the person to drink a little of it immediately. When that was done all knelt down, and the Minister, if present, repeated the Lord’s Prayer." Any reader who could quote his father or grandfather as an actual witness of a ceremony such as this, or even an approach to it, would confer a boon on Welsh Archaeology !
+>
+> H. B.
+
+*There do not appear to be any archived copies of the Oswestry Avertiser available for 1858 un the British Newspaper Archive.*
+
+Correspondence then continued in the May 9th, 1883 issue](https://archive.org/details/byegonesrelating1882unse/page/232/mode/2up?q=sin), pp233-4
+
+> REPLIES.
+>
+> THE SIN EATER IN WALES (April 25, 1883.)
+>
+> The question has been asked in Bye-gones if some of the funeral customs within the memory of those now living do not point to a more pronounced ceremony on the part of our forefathers ? One writer states — but only on hearsay — that last century it was usual, when the corpse was brought out of the house, and laid upon the *Elor*, or bier, for the next of kin of the feminine gender "to give over the coffin a number of white loaves, in a great dish, and sometimes a Welsh cheese with a piece of money stuck in it, to certain poor persons. After which a cup of drink was presented also over the coffin, of which a little was to be drunk immediately. When this was done the minister knelt down and said the Lord’s Prayer." No one has corroborated this from the definite information of father or grandfather ; but they have spoken of a more modified form of, perhaps, the same ceremony, within their own recollection. Less than half a century ago it was usual at every 'respectable' funeral to have made up into packets, a couple of bits of cake — one of rich plum, and the other plain — wrapped in black-edged paper and sealed with black wax. One of these was presented to each of the invited guests, who took it home unopened. At funerals of less pretention a "large round biscuit, the size and form of an ordinary tea-saucer, inverted, took the place of the packet of cake. These were 'served' to each of the parties attending the funeral (by one of the most respectable men present) on a tray called the 'Hand-board,' or 'Server.' The ceremony was gone through just before 'Raising the Body.' After this the 'Tankard' of hot-spiced ale was offered to each person present. This was made of pewter, and had a lid : everyone was expected to take a sip." In narrating this in Bye-gones of May 17, 1882, the writer also called attention to a note in the history of the parish of Llanfechain, published in *Mont : Coll :* in 1872. He became rector in 1851, and found it was usual to allow one of the sacramental vessels a silver flagon presented to the parish in 1691) to be used in place of the customary tankard — a custom he at once denounced, to the no small chagrin of the parishioners ! How far these customs form a lingering remnant of the Sin Eater, your readers must judge for themselves.
+>
+> R. Rosse Tewk, B.A.
+
+```{admonition} Revd. Maddock Williams in *Montgomershire Collections* ("Mont: Coll: vol v."), 1872
+:class: dropdown
+
+https://books.google.co.uk/books?id=zMNAAQAAMAAJ&pg=PA235#v=onepage&q&f=false
+
+Placing the quote by Revd. Maddock Williams in its full context in volume V of the Pwys Land Clu b *Collections historical & archaeological relating to Montgomeryshire and its borders* published by the Powys-Land Club* of 1872, we refer to the article
+*"A Slight Historical and Topographical Sketch of The Parish of Llanfechain, in the County of Montgomery", p234-5:
+
+> The sacramental vessels belonging to the church are of a better order than are generally to be found in old parishes. They consist of (1) a handsome and massive silver flagon, calculated to contain about three pints, with an appropriate lid. It is inscribed "Ex on Oweni Lyod, Rectoris de Llanfechen, 1691;" (2) a good silver chalice with a cover, constituting a convenient paten. It has the following inscription on it:– "The gif of Mary Kynaston, the daughter of Humphrey Kynaston, of Bryngwyn, Esq.;" (3) a fair sized silver plate given by Mrs. Mary Roberts, and inscribed, "Ex dono M.R., 1682;" and (4) a small silver chalice, inscribed "The Cup of Llanfechain." This last has been much battered, the injuries having in all probability been occasioned by its conveyance to and fro for the adminisatration of the Holy Communion to the sick and aged. Whether this was the chalice enumerated in the terrier returned in A.D. 1705, and represented as having a *covering to it*, cannot now be ascertained. All account of such a chalice is wanting in the terrier, A.D> 1774; but it was found here, such as it is, by the present rector, but without any *covering*.
+> 
+> A curious fact connected with the large flagon must be here adverted to. It had long been the custom to permit it (the large flagon) to be used at funerals in the parish, for the purpose of handing out to each of the attendants on the occasion the spiced drink, wine or ale, as the case may be. Such a desecration of the sacred vessel was peremptorily resisted by the present Rector at his entrance upon the incumbency, but not without his incurring much obloquy, and giving much offence."
+```
+
 ## *Tours in Wales*, John Rhys, 1883
 
 We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the [Sir John Rhys Memorial Lectures](https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/), first delivered in 1925, which are still predsented to this day, by way of his two volume work * "Celtic Folklore: Welsh and Manx"* in 1901.
@@ -516,7 +581,27 @@ One section, at pp150-1, reviewed religious customs, perhaps notably *without* r
 
 With a [first part](https://archive.org/details/shropshirefolkl00burngoog/page/n20/mode/2up) published in 1883, a [second part](https://archive.org/details/shropshirefolkl00jackgoog/page/n150/mode/2up?q=sin-eater) in 1885, and a third part](https://archive.org/details/shropshirefolkl01jackgoog/page/n14/mode/2up) in 1886, *Shropshire Folk-Lore – A Sheaf of Gleanings* was an edited work by Charlotte S. Burne based on the collections of Georgina Frederica Jackson, compiler of the [Shropshire word-book](https://archive.org/details/shropshirewordb01jackgoog), *"a glossary of archaic and provincial words, etc., used in the county"* in 1879.
 
-In Part II, p306, various death customs are described, including various food rituals:
+A review from the *Saturday Review* of Part II of the work was rerprinted in the [April 29th, 1885](https://journals.library.wales/view/2092910/2095345/17#?xywh=59%2C1879%2C2588%2C1707) edition of Bye-gones, p209-11:
+
+> SHROPSHIRE FOLK-LORE.
+> 
+> The following interesting review of Part II. of Miss Burne's "Shropshire Folk-Lore" has appeared in the Saturday Review :— Inexperienced people might suppose that, the necessary materials being given, it would be easy to write an entertaining book on folk-lore ; but this is far from being the case. It is almost as difficult to make a book of folk-lore readable as a book of anecdotes or a book of jokes, and, at best, the folk-lore book is more useful as furnishing materials for historians, novelists, and poets, than as a book to be read at first hand by those who wish to be entertained. It is interesting enough to read of a local superstition, but a superstition with variations soon becomes wearisome. Yet the faithful compiler of a work on folk-lore is obliged to explain that in one part of the country it is considered unlucky to see one magpie, while in another it is unlucky to see two ; that in some places three, and in others four, foretell the birth of a boy ; that four augur a wedding, according to certain authorities, and a death according to others, and that it is a question whether all these prognostications are not upset by a wise saying which begins "One for anger, two for luck," and so on. Furthermore he has to state that there are experts who consider the superstitions about magpies equally applicable to crows. Of this sort of reading it is possible to have too much ; but the unlucky folk-lore-monger is bound to produce every variety of his wares, unless he wishes to hear his work called incomplete. The merciful critic is inclined, therefore, to take up a book of folk-lore with feelings of charitable pity for its author. He would be even more sorry for himself if he thought he were going to read it through; but of doing this he rarely has any intention, as a book of folk-lore is easily reviewed by a little dipping and a good deal of skipping. The author of the specimen before us, however, has done her work so well that she has no need to ask mercy from her critics, and her reviewer who comes to skip will stay to read.
+>
+> ...
+>
+> [p210-11]
+>
+> Miss Burne observes that Shropshire people still have a superstition that the croaking of a raven portends death, particularly if the raven flies over a house. She would have been confirmed in her opinion if she had heard an old Shropshire servant consoling her invalid master, with whom she was sitting up one night, by informing him that he would soon be in heaven because on the previous day she had heard a raven crying "corpse, corpse," as it flew over the house. The greater part of the folk-lore collected in this volume is connected with deaths, diseases, and weddings. With regard to the former, there is certainly no exaggeration in the remark that "thirty or forty years ago it was no very uncommon thing among the more ignorant folk to take the pillow from under a sick person's head (after the fashion of Mrs Gamp) 'to make him die the easier.'" The thirty or forty years might have been left out, and, unless we have been greatly misinformed, the pillow has not only been taken from under a sick Salopian's head, but held tightly over it afterwards, with the laudable intention of "helping him to die." Those who have had much to do with the Shropshire poor will not be altogether disinclined to believe a story given in a foot-note which might try the credulity of the inhabitants of other counties. "An old man at Baschurch," we are told, had been " very ill, but in no immediate danger of death." The curate was, therefore, rather surprised one day at finding the patient dead ; but his affectionate widow volunteered the following account of his demise :— "He tried so hard, but he couldna die ; he tried an' tried, but he couldna, so I got a piece o' tape an' put it roun' his neck an' drawed it tight, an' he went off like a lamb." A Shropshire rector once told us that he had called on a dying parishioner, and had scarcely begun a conversation with him when his wife begged him to talk to her instead, saying to her husband, " Now don't you waste your time talking ; you get on with your dying."
+>
+> ...
+>
+> Miss Burne's book on the folk-lore of Shropshire would not have been complete if she had made no mention of the tradition of the Sin-eater— a poor man who, for a small consideration, is said to have been ready to take upon himself the responsibility of all the sins of any dead person; but she very properly adds that the authorities in support of this tradition are somewhat questionable. Shropshire and Welsh archaeologists have fiercely contested the question whether any such custom ever existed, and antiquaries must be content to leave the matter open.
+>
+> Miss Burne very often quotes and refers to a work called *Bye-Gones*, which was edited by Mr Askew Roberts, "than whom," she tells us, "few men could be more respected in life or regretted in death." This book consists simply of reprints from a column devoted to notes, queries, and replies about folk-lore in the *Oswestry Advertizer*, a cleverly edited Liberal newspaper, well known in Shropshire and North Wales. The example set in this respect by the *Oswestry Advertizer* is well worthy of imitation by other local newspapers, for *Bye-Gones*, of which there are now many volumes, is itself a very valuable book of folk-lore, and if in every county in England the editor of a newspaper would employ somebody on a work of this kind, an immense amount of interesting and valuable information might be amassed. There are other books besides *Bye-Gones* and her other quoted authorities which we think Miss Burne might have found useful and so many local customs owe their origin to religious rites and uses of pre-Reformation periods that she would have done well to have had by her a good work on ecclesiastical customs and popular religious practices, subjects with which she does not seem familiar. We wish, too, that she had had the opportunities—opportunities hard to get—of learning the private ghost-stories of the Shropshire country houses; for the county is rich in such legends, but its inhabitants are very reticent in communicating them to strangers.
+>
+> Much of the folk-lore attributed here to Shropshire is common to other counties ; but it would be impossible to sift out what is exclusively Salopian. Such customs as the giving back of a small sum on a purchase for luck, pinching for new clothes, decorating churches, and the observance of May Day, are equally well known in other parts of England, and many of the superstitions noticed in this volume must be familiar to every body; but upon the whole this second part of Miss Burne's work is written with great ability; it ought to find a place in every library in Shropshire, whether public or private, and an inhabitant of any English county would be hard to please if he could not find a good deal in it both to amuse and interest him. A third part has yet to be published treating of several important subjects connected with folk-lore. We are also promised some addenda and corrigenda, and, best of all, an index— a most important matter in a work of this kind. Miss Burne apologizes for the delay in the appearance of the second part; but, as she herself admits, "the work has gained thereby," for when a well-disposed antiquary reads a book about the folk-lore of his own neighbourhood, he is tempted to send some additional information to the writer, and he generally yields to this temptation. Our advice, therefore, to the author of *Shropshire Folk-lore* is not to be in a hurry about publishing the third part.
+
+Referring to the text of Part II, we see that various death customs are described, including various food rituals p306:
 
 > This distribution of 'cakes and ale' at funerals is often alluded to in old writings.
 > 
