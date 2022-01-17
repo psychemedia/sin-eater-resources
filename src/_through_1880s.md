@@ -46,6 +46,13 @@ show_diffs(x1.replace('.',''),x2.replace('.',''),
            "Excerpt from Kennet's *Parochial Antiquities*")
 ```
 
+
+In passing, we might also note the announcement of a new Welsh-English dictionary by D. Silvan Evans, as noted by the *Aberystwyth Observer* of [December 6th, 1884](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003437/18841206/037/0004)
+
+> New Welsh-English Dictionary
+>
+> All Welshmen students of the Welsh language will learn with pleasure that the Rev Professor Silvan Evans' Welsh-English Dictionary is now in the press, the first two sheets already been printed. The work will be published by Mr Spurrell, Carmarthen. Mr Evans English-Welsh Dictionary, published at Denbigh, was issued from the press nearly thirty years ago. The present work will be far superior to anything of the kind over attempted, and will largely supplement the previous great works.
+
 ### *Red Dragon*, 1884-6
 
 In the Red Dragon of[November, 1884](https://archive.org/details/reddragon01wilkgoog/page/476/mode/2up?q=sin), p477, one curious reader picking up on the major review article on the sin-eater by Askew Roberts thay had appeared May, 1883, volume III edition, enquiring about the actual reference in Aubrey to the sin-eater:
@@ -334,7 +341,7 @@ The mention directly follows a description of offertory customs at funerals:
 The more complete reference, with which we are familiar, comes at [pp.35-6](https://archive.org/details/remainesgentili01aubrgoog/page/n50/mode/2up):
 
 ```{admonition} Aubrey on *Sinne-Eaters*,  *Remaines of Gentilisme*, ed. J. Britten, 1881
-:class: note
+:class: note dropdown
 > Sinne-eaters. [See pp. 18, 22]
 >
 > In the County of Hereford was an old Custome at funeralls to hire/have poor people, who were to take upon them all the sinnes of the party deceased. One of them I remember lived in a cottage on Rosse-high way. (He was a long, leane, ugly, lamentable poor raskal.) The manner was that when the Corps was brought out of the house and layd on the Biere ; a Loafe of bread was brought out, and delivered to the Sinne-eater over the corps, as also a Mazar-bowle of maple (Gossips bowle) full of beer, which he was to drinke up, and sixpence in money, in consideration whereof he tooke upon him (ipso facto) all the Sinnes of the Defunct, and freed him (or her) from walking after they were dead. This custome alludes (methinkes) something to the Scape-goate in ye old Lawe. Leviticus, cap. xvi. verse 21, 22. "And Aaron shall lay both his hands on the head of the live goate and confesse over him all yw iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fitt man into the wildernesse. And the goat shall bear upon him all their iniquities, unto a land not inhabited : and he shall let the goat goe into the wildernesse." This Custome (though rarely used in our dayes) yet by some people was observed/continued even on the strictest time of ye Presbyterian goverment: as at Dynder, volens nolens the Parson of ye Parish, the kinred/relations of a woman deceased there had this ceremonie punctually performed according to her Will : and also the like was donne at ye City of Hereford in these times, when a woman kept many yeares before her death a Mazard-bowle for the Sinne-eater ; and the like in other places in this Countie ; as also in Brecon, e, g. at Llangors, where Mr. Gwin the minister about 1640 could no hinder ye performing of this ancient custome. I believe this custome was heretofore used over all Wales.
@@ -399,7 +406,7 @@ When the book came to the attention of the editor in *Bye-Gones* of [February 15
 
 > Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
 
-### Notes & Queries, 1883
+## Notes & Queries, 1883
 
 A couple of years later, an eagle-eyed, if tardy, correspondent to *Notes and Queries*, [Vol 7 Iss 159, January 13th, 1883](https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin), p25, also picked up on the reference and provided a new note on the matter, direclty quoting Paxton Hood and perhaps unaware of previous mentions of the tradition in earlier volumes of *Notes a& Queries*, although cognisant of similar other traditions reported elsewhere.
 
@@ -465,7 +472,7 @@ The article was remarked upon in *Bye-Gones* of [March 14th, 1883](https://archi
 >
 > Dr. Ollivant, the late Bishop of Llandaff, forms the subject of the memoir and portrait in the Red Dragon for March. ... That disreputable old fellow, "The Sin Eater," who we thought was killed long ago, has, it seems, only been scotched, for he crops up again in the number before us !
 
-### Bye-Gones, 1882-3
+## Bye-Gones, 1882-3
 
 A series of articles on *Popish Ceremonies Existing in Wales*, over several issues of Bye-Gones ([May 17th, 1882, p64-5](https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800), [June 7th, 1882](https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235), [July 5th, 1882](https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801), [July 12th, 1882](https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639)) describes various Catholic rituals.
 
