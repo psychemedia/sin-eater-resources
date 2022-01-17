@@ -200,26 +200,44 @@ The Association then proceeded to private business, ...
 ---
 
 
-https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/150/mode/2up
+https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/152/mode/2up
 
 Archaeologia Cambrensis  1885-04: Vol 2 Iss 6
 Publication date 1885-04
 
-p152-5
+p151-5
 
 EXTRACTS FROM A MS. OF ANCIENT DATE,
 GIVING SOME. CUSTOMS AND USAGES IN NORTH WALES.
 
-The night before a dead body is to be interred the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with them some small piece of meat, bread, or drink (if the family be something poor); but more especially candles, whatever the family is; and this night is called Wy] Nos, whereby the country people seem to mean a Watching Night ; their going to such a house they say is “i wilio’r corph”, z.e., to watch the corpse. But “ wylo” signifies to weep and lament, aud so “wyl nos” may be a night of lamentations. While they stay together on these nights they are either singing psalms or reading some part of the holy scriptures. TElnayell
-Whenever anybody comes into the room where a dead corpse lyes, especially the wyl nos and the day of its interment, the first thing he does, he falls upon his knees by the corpse, and saith the Lord’s Prayer. [Llanycil custom. ]
-Pence and half-pence (in lieu of little rolls of bread, which heretofore generally, and by some still are given on these occasions) are now distributed to the poor who flock in great numbers to the house of the deceased before the corpse is brought out. [Ysceifiog custom. |
-When the corpse is brought out of the house, laid upon the bier, and covered before it be taken up, the next of kin to the deceased— widow, mother, daughter, or cosin (never done by a man)—gives across over the corpse to one of the poorest neighbors two or three little loaves of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink (all which things are brought upon a large dish and reached over the corpse to the poor body, who returns thanks for them, and blesses God for the happiness of the soul of his friend or neighbour departed), [ Llan- gollen|, which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s Prayer, and then they get forward toward church. [Llanycil. |
+...
+
+The night before a dead body is to be interred the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with them some small piece of meat, bread, or drink (if the family be something poor); but more especially candles, whatever the family is; and this night is called Wyl Nos, whereby the country people seem to mean a Watching Night ; their going to such a house they say is “i wilio'r corph”, *i.e.*, to watch the corpse. But "wylo" signifies to weep and lament, aud so "wyl nos" may be a night of lamentations. While they stay together on these nights they are either singing psalms or reading some part of the holy scriptures. [Llanyeil.]
+
+Whenever anybody comes into the room where a dead corpse lyes, especially the wyl nos and the day of its interment, the first thing he does, he falls upon his knees by the corpse, and saith the Lord’s Prayer. [Llanycil custom.]
+
+Pence and half-pence (in lieu of little rolls of bread, which heretofore generally, and by some still are given on these occasions) are now distributed to the poor who flock in great numbers to the house of the deceased before the corpse is brought out. [Ysceifiog custom.]
+
+When the corpse is brought out of the house, laid upon the bier, and covered before it be taken up, the next of kin to the deceased— widow, mother, daughter, or cousin (never done by a man)— gives across over the corpse to one of the poorest neighbors two or three little loaves of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink (all which things are brought upon a large dish and reached over the corpse to the poor body, who returns thanks for them, and blesses God for the happiness of the soul of his friend or neighbour departed), [ Llangollen], which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s Prayer, and then they get forward toward church. [Llanycil.]
+
 And all along from the house to ye churchyard, at every cross way, the bier is laid down and the Lord’s Prayer rehearsed ; and so, when they come first into the churchyard, before any of the verses appointed in the service be said. [Yskeifiog.]
 
+Some particular places were called "Resting Places". - At church nothing is done but as directed by the Rubric, besides that Evening Service is read with the office of the Buriall. [Llanycil.]
+
+At those words, "we commit this body to the ground", the minister holds the spade and throws in the earth first.
+
+At Dimeirchion there is a Custum of ringing a little bell before the corpse from the house to ye churchyard.
+
+When a corpse is carried to church from any part of the town, the bearers take care to carry it so that the cross may be on their right hand, though the way be hester (nearer) and it be less trouble to go on the other side ; nor will they bring the corpse to the churchyard any other way but through the south gate, singing psalms on the way as the corpse is entered into the church. The minister goes to the altar and there saith the Lord's Prayer, with one of the prayers appointed to be read at the grave, after which the congregation offer upon the altar, or on a little board for that purpose fixed to the rails of the altar, their benevolence to the officiating minister. A friend of the deceased is appointed to stand at the altar, observing who gives and how much. When all have given, he tells the money with the minister, and signifies the sum to the congregation, thanking them all for their goodwill.
+
+The people kneel and say the Lord’s Prayer on the graves of their lately deceased friends for some Sundays after their interment, and this is done generally upon their first coming into y® church, and after that they dress the grave with flowers. [Llanvechan.]
+
+In the church there is a general spitting; they usually spit at the name of the Devil or any of his synonime, and smite their breasts at the name of Judas.
+
+NOTITIA.
+
+We have reprinted the above "Extracts" from the Rhyl Journal for Nov. 22nd, 1884, because they comprise a highly interesting list of old customs, some of which, indeed, still linger among us. From the localities named it is evident that they relate to the diocese of St. Asaph, and they look as if they were taken from the Returns of Rural Deans on some of the ecclesiastical uses of their parishes. The probable date may be the earlier half of the last century. Many of the customs are very curious, for different reasons.
+
 ...
 
-We have reprinted the above “ Extracts” from the Rhyl Journal for Nov. 22nd, 1884, because they com- prise a highly interesting list of old customs, some of which, indeed, still linger among us. From the locali- ties named it is evident that they relate to the diocese of St. Asaph, and they look as if they were taken from the Returns of Rural Deans on some of the ecclesias- tical uses of their parishes. The probable date may be the earlier half of the last century. Many of the customs are very curious, for different reasons.
-
-...
-
-The funeral customs were, all of them, expressive. The distribution of rolls of bread and of pence and half- pence at the house, was very likely symbolical of the obligation of charity, and the need to make friends of the mammon of unrighteousness. 
+"Smiting the breast", at the mention Judas, falls under the same category, so does "spitting at the names of Satan" ; though we by no means imply that the custom was limited to that one occasion. The funeral customs were, all of them, expressive. The distribution of rolls of bread and of pence and half-pence at the house, was very likely symbolical of the obligation of charity, and the need to make friends of the mammon of unrighteousness.
