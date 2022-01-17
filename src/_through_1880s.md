@@ -46,7 +46,6 @@ show_diffs(x1.replace('.',''),x2.replace('.',''),
            "Excerpt from Kennet's *Parochial Antiquities*")
 ```
 
-
 In passing, we might also note the announcement of a new Welsh-English dictionary by D. Silvan Evans, as noted by the *Aberystwyth Observer* of [December 6th, 1884](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003437/18841206/037/0004)
 
 > New Welsh-English Dictionary
@@ -164,6 +163,56 @@ differ = diff_match_patch()
 diff = differ.diff_main(x5.replace('.',''),x6.replace('.',''))
 display(HTML(differ.diff_prettyHtml(diff)))
 
+```
+
+### *Cardiff Times*, 1885
+
+In late spring and early summer of 1885, there was a brief flurry of correspondence on the topic of the sin-eater in the *Cardiff Times*, initiated by a reader who saw mention of it in the  *Newcastle Weekly Chronicle* and wrote as follows in the edition of  [May 16th, 1885](https://newspapers.library.wales/view/3422645/3422650/74/), p5:
+
+> Questions
+> 
+> In a late issue of the *Newcastle Weekly Chronicle* (which paper, by the way devotes an entire page to Notes and Queries) I read an account of a superstition, which, it was alleged, used to be prevalent in parts of Wales; that is, that after a death occurred in a house, a professional, known as the "sin-eater," for a certain fee, agreed to take off all the deceased person's sins, by placing on his corpse a loaf of bread which he (the sin-eater) afterwards devoured ; the finale being that the operator was hunted from the house by the bereaved family, after the manner of the scapegoat of the Bible. I have since seen an article in which the alleged Welsh custom of sin-eating is discredited, and it is therein stated that no instance of the kind has ever been verified. Some of the many thousands of your readers who belong to the principality may be able to give some clue to the origin of the myth or, if not a myth, some  cases in which the custom was practised.
+> 
+> J. Stroud, Gloucester.
+
+A response appeared in the [June 6th, 1885](https://newspapers.library.wales/view/3422672/3422677/86/) edition, p5, signed off by *EDITOR*, referring the question to Wirt Sikes' *British Goblins*, and quoting freely from it.
+
+```{admonition} Wirt Sikes, *British Goblins*, quoted in *Cardiff Times*, June, 1885
+:class: dropdown
+
+> Local Notes and Queries
+>
+> AN EXTRAORDINARY WELSH SUPERSTITION.' —
+> 
+> For a good account of Welsh superstitions, I would refer "J., Stroud," to Wirt Sykes's British Goblins."  Referring to the "Sin-eater," he says :—" Well-informed Welshmen have denied that any such custom as that of the Sin-eater ever existed in Wales at any time, or in the border shires; and it must not be assertej that they are wrong, unless we have convincing proof to support the assertion. The existing evidence in support of the belief that there were ones Sin- eaters in Wales I have carefully collated, and (excluding hearsay and second-hand accounts), it is here reproduced. The first reference to the Sin-eater anywhere to be found is in the Lansdowne MSS. in the British Museum, in the handwriting of John Aubrey, the author. It runs thus:— 'In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway. The manner was that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the Sin-eater over the corpse, and also a mazard bowl of maple, full of beer [which he was to drink up), and sixpence in money, in consideration whereof he took upon him, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead.' Aubrey adds, 'and this custom, though rarely used iu our days, yet by some people was observed in the strictest time of the Presbyterian Government; as at Dynder (*nolens volens* the parson of the parish), the kindred of the woman deceased there, had this ceremony punctually performed, according to-her will: and also the like was done at the city of Hereford, in those times, where a woman kept many years before her death a mazard bowl for the Sin-eater; and the like in other places in this country as also in Brecon, e.g., at Llangors, where Mr Gwin, the minister, about 1640, could not hinder the performance of this custom. I believe,' says Aubrey, 'this custom was heretofore used all over Wales.' He states further,—' A.D. 1686: This custom is used to this day in North Wales.' Upon this Bishop White Kennet made this comment:—' It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford, where, at the burial of every corpse, one cake, and one flaggon of ale, just after the interment, were brought to the minister in the church porch. No other writer of Aubrey's time, either English or Welsh, appears to have made any reference to the Sin-eater in Wales; and equal silence prevails throughout the writings of all previous centuries. Since Aubrey, many references to it have been made, but never, so far as I can discover, by any writer in the Welsh language— a singular omission, if there ever was such a custom; for, concerning every other superstitious practice commonly ascribed to Wales, the Welsh have written freely." EDITOR.
+
+```
+
+A further response in the edition of July, 25th, 1885](https://newspapers.library.wales/view/3422735/3422740/122/), p5, attempted to develop the scapegoat idea a little further. The answer includes evidence from *"a trusted authority"* that appears to be the *Once a Week* quotation used in *Eddowes' Journal* of  [December 12th, 1862](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001467/18621210/017/0002):
+
+> ANSWERS.
+>
+> AN EXTRAORDINARY WELSH SUPERSTITION.
+> 
+> The great majority of your readers will have read the account of the "scapegoat" ceremony recorded in the Sacred Volume. Some, too, will remember a striking parallel custom (or, to put it more correctly, a parallel custom with a disparity) observed by the North American Indians. From goat to dog, and from dog to man, are remarkable bounds; but here is an account of a human "scapegoat" from a trustworthy authority :— 
+>
+>...
+> 
+> H., Newport, Monmouthshire.
+
+Here's how the text ascribed to the *trustwrothy authority* compares:
+
+```{code-cell}
+:tags: [remove-input]
+x7="""In a certain county in Wales, some years ago when a person died, his friends sent for the 'sin-eater' of the district, who, for half-a-crown, *took upon himself the sins of the deceased*, by the simple process of eating them. A loaf of bread was provided, which the 'sin-eater' first placed upon the dead man's chest, then muttered some incantations over it, finally eating it. By this he was believed to have taken from the deceased the heavy weight of his sins, appropriating them to himself, for which act of kindness he was regarded by everybody as an outcast. After the ceremony was finished, and he had received his pay, the 'sin-devourer' vanished in double-quick time, it being the usual custom for the bereaved friends to belabour him with sticks.
+"""
+
+x8="""While on the subject of deaths, I must mention singular superstitious custom which lingered, not very long ago, in some of the secluded mountain-vales of Carmarthenshire. When person died his friends sent for the sin-eater of the district, who, for the small sum of half a crown, actually took upon himself the sins of the deceased, by the simple process of eating them. The plan of operation was this :— A loaf of bread was provided, which the sin-eater first placed upon the dead person's chest, then muttered some incantations over it, finally eating it. Will it be credited that he was believed to have taken from the defunct the heavy weight of his sins, and to appropriate them to himself, for which act of kindness he was regarded by everybody as a tabooed outcast? Indeed, immediately after the ceremony was finished, and bad received his pay, he vanished in double quick time, it being usual custom for the friends to belabour him with sticks-if they could catch him.
+"""
+
+show_diffs(x1.replace('.',''),x2.replace('.',''),
+           "Excerpt from *Cardiff Times*",
+           "Excerpt from *Once A Week* / *Eddowes' Journal*")
 ```
 
 ## *The Antiquities of Laugharne, Pendine*, Mary Curtis, 1880
