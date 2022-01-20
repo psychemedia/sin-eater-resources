@@ -153,6 +153,15 @@ In Whitby and Doddridge there is a note on 1 Cor. iv. 13. which gives some infor
 
 E. B.
 
+---
+https://archive.org/details/sim_notes-and-queries_1870-11-12_6_150/page/430/mode/2up?q=sin+eater
+Notes and Queries  1870-11-12: Vol 6 Iss 150
+Publication date 1870-11-12
+p430
+
+Notices to Correspondents
+
+T.T. DYER *The origin og the sin-eater is supposed tohave been taken from the scape-goat in Leviticus, xvi. 21, 22.*Consult Brand's* Antiquities, ii, 217, edit. 1849. Gent. Mag. xcii. (i.) 22; and "N. & Q." 1st S. iv. 211: vi. 390, 541.
 
 ---
 
@@ -190,6 +199,8 @@ Mr. Watson may perhaps not be aware of very curious or almost identical parallel
 
 A. C. B. | [See "N. & Q.," 1st S. vi. 390, 541.]
 
+---
+
 
 ---
 
@@ -208,6 +219,8 @@ J. JEREMIAH
 
 Trehelig, Llangadock, Caermarthenshire
 
+
+--
 
 
 
@@ -316,6 +329,44 @@ Frederick E, Sawyer. Brighton,
 
 ----
 
+https://archive.org/details/sim_notes-and-queries_1883-04-28_7_174/page/334/mode/2up
+Notes and Queries  1883-04-28: Vol 7 Iss 174
+Publication date 1883-04-28
+
+p334
+
+Welsh Folk-Lore : the Sin-Eater (6th S., vii. 25).— I have just stumbled on the following passage in Leland’s *Collectanea*, vol.i. p. lxxvi (ed. 1774), *à propos* of this matter :—
+
+"Within the memories of our fathers in Shropshire in thore villages adjoyning Wales, when a Person dyed, there was notice given to an old Sire (for so they call'd him) who presently repair'd to the place where the deceased lay and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket on which he sat facing the Door. Then they gave him a Groat which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket and pronounced with a composed gesture, 'The ease and rest of the Soul departed, for which he would pawn his own Soul.' This I had from the ingenious John Aubrey, Esq.; who made a collection of curious Observations, which I have seen, and is now remaining in the Hands of Mr. Churchill the Bookseller."
+
+I have since looked through Aubrey's Miscellanies, but find no mention of the subject.
+W. B. N.
+
+
+---
+https://archive.org/details/sim_notes-and-queries_1883-09-29_8_196/page/254/mode/2up
+Notes and Queries  1883-09-29: Vol 8 Iss 196
+Publication date 1883-09-29
+p255
+
+Welsh Foik-Lore: the Sin-Eater (6th S., vii. 25, 334).—See Hone’s *Year Book*, col. 858, where the passage from Leland’s *Collectanea* quoted by W. B. N. is given as forming part of a letter from John Bagford, dated 1715; and where the reader is also referred to the Lansdowne MSS. in the British Museum for statements concerning sin-eating in Aubrey's own handwriting. The subject was briefly discussed in "N. & Q.," 1st S. iv. 211, a correspondent being referred by the editor to Ellis's edition of Brand's *Popular Antiquities*, vol. ii. p. 155, for information under this head. The custom has, I suspect, been passed over intentionally by the Rev. Peter Roberts in his Cambrian Popular Antiquities, 8vo, 1815; but an aquatint illustration at p. 177 of that work presents us with the ceremony of dispensing food and drink over the coffin to a man who, receives ate kneeling upon one knee. Pennant says that
+
+"it was customary when the corpse was brought out of the house and laid upon the bier for the next-of-kin, be it widow, mother, sister, or daughter (for it must be a female), to give, over the coffin, a quantity of white loaves in a great dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After
+that they presented in the same manner a coup of drink, and required the person to drink a little of it imme-
+diately."
+
+This seems to indicate a form of "sin-eating."
+
+ALFRED WALLIS.
+
+John Aubrey has three passages concerning sin-eaters in his *Remaines of Gentilisme and Judaisme*, which was edited and most excellently annotated by Mr. James Britten for the Folk-lore Society in 1881. The passages occur at pp. 19, 24, 35.
+
+Edward Peacock.  
+Bottesford Manor, Brigg.
+
+
+---
+
 https://archive.org/details/sim_notes-and-queries_1895-10-12_8_198/page/288/mode/2up
 
 Notes and Queries  1895-10-12: Vol 8 Iss 198
@@ -351,9 +402,7 @@ Notes and Queries
 1896-02-08
 Vol 9 Iss 215
 
-p109-111 Feb 8, 1896
-
-
+p109-111
 
 SIN-EATER.
 (8th S. viii. 288, 332.)
@@ -417,7 +466,6 @@ Notes and Queries
 1896-02-29
 Vol 9 Iss 218
 
-Feb 29, 1896
 p169-170
 
 SIN - EATER, 
