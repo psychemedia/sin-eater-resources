@@ -539,6 +539,34 @@ The article was remarked upon in *Bye-Gones* of [March 14th, 1883](https://archi
 >
 > Dr. Ollivant, the late Bishop of Llandaff, forms the subject of the memoir and portrait in the Red Dragon for March. ... That disreputable old fellow, "The Sin Eater," who we thought was killed long ago, has, it seems, only been scotched, for he crops up again in the number before us !
 
+In the [Vol 7 Iss 174, April 28th, 1883](https://archive.org/details/sim_notes-and-queries_1883-04-28_7_174/page/334/mode/2up) edition of *Notes & Queries*, p334, in a contribution relating to *"Welsh Folk-Lore"*, and indexed as such, guides readers to Leland's *Collectanea*:
+
+> Welsh Folk-Lore : the Sin-Eater (6th S., vii. 25).—I have just stumbled on the following passage in Leland’s *Collectanea*, vol.i. p. lxxvi (ed. 1774), *à propos* of this matter :—
+> 
+> "Within the memories of our fathers in Shropshire in thore villages adjoyning Wales, when a Person dyed, there was notice given to an old Sire (for so they call'd him) who presently repair'd to the place where the deceased lay and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket on which he sat facing the Door. Then they gave him a Groat which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket and pronounced with a composed gesture, 'The ease and rest of the Soul departed, for which he would pawn his own Soul.' This I had from the ingenious John Aubrey, Esq.; who made a collection of curious Observations, which I have seen, and is now remaining in the Hands of Mr. Churchill the Bookseller."
+> 
+> I have since looked through Aubrey's Miscellanies, but find no mention of the subject.
+> W. B. N.
+
+This correpondence is picked up on in note from [Vol 8 Iss 196, September 29th, 1883](https://archive.org/details/sim_notes-and-queries_1883-09-29_8_196/page/254/mode/2up), p255, which provides further references already familiar to us, along with a reference to a possibly relevant illustration, although I have not, as yet, been able to find a scanned version of that illustration:
+
+> Welsh Foik-Lore: the Sin-Eater (6th S., vii. 25, 334).—See Hone’s *Year Book*, col. 858, where the passage from Leland’s *Collectanea* quoted by W. B. N. is given as forming part of a letter from John Bagford, dated 1715; and where the reader is also referred to the Lansdowne MSS. in the British Museum for statements concerning sin-eating in Aubrey's own handwriting. The subject was briefly discussed in "N. & Q.," 1st S. iv. 211, a correspondent being referred by the editor to Ellis's edition of Brand's *Popular Antiquities*, vol. ii. p. 155, for information under this head. The custom has, I suspect, been passed over intentionally by the Rev. Peter Roberts in his Cambrian Popular Antiquities, 8vo, 1815; but an aquatint illustration at p. 177 of that work presents us with the ceremony of dispensing food and drink over the coffin to a man who, receives ate kneeling upon one knee. Pennant says that
+>
+> "it was customary when the corpse was brought out of the house and laid upon the bier for the next-of-kin, be it widow, mother, sister, or daughter (for it must be a female), to give, over the coffin, a quantity of white loaves in a great dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After
+that they presented in the same manner a coup of drink, and required the person to drink a little of it imme-
+diately."
+>
+> This seems to indicate a form of "sin-eating."
+>
+> ALFRED WALLIS.
+
+A second piece of correspondence under the same header refereces Aubrey:
+
+> John Aubrey has three passages concerning sin-eaters in his *Remaines of Gentilisme and Judaisme*, which was edited and most excellently annotated by Mr. James Britten for the Folk-lore Society in 1881. The passages occur at pp. 19, 24, 35.
+> 
+> Edward Peacock.  
+> Bottesford Manor, Brigg.
+
 ## Bye-Gones, 1882-3
 
 A series of articles on *Popish Ceremonies Existing in Wales*, over several issues of Bye-Gones ([May 17th, 1882, p64-5](https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800), [June 7th, 1882](https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235), [July 5th, 1882](https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801), [July 12th, 1882](https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639)) describes various Catholic rituals.
@@ -653,7 +681,7 @@ One section, at pp150-1, reviewed religious customs, perhaps notably *without* r
 
 ## Shropshire Folk-lore, 1883-1885
 
-With a [first part](https://archive.org/details/shropshirefolkl00burngoog/page/n20/mode/2up) published in 1883, a [second part](https://archive.org/details/shropshirefolkl00jackgoog/page/n150/mode/2up?q=sin-eater) in 1885, and a third part](https://archive.org/details/shropshirefolkl01jackgoog/page/n14/mode/2up) in 1886, *Shropshire Folk-Lore – A Sheaf of Gleanings* was an edited work by Charlotte S. Burne based on the collections of Georgina Frederica Jackson, compiler of the [Shropshire word-book](https://archive.org/details/shropshirewordb01jackgoog), *"a glossary of archaic and provincial words, etc., used in the county"* in 1879.
+With a [first part](https://archive.org/details/shropshirefolkl00burngoog/page/n20/mode/2up) published in 1883, a [second part](https://archive.org/details/shropshirefolkl00jackgoog/page/n150/mode/2up?q=sin-eater) in 1885, and a [third part](https://archive.org/details/shropshirefolkl01jackgoog/page/n14/mode/2up) in 1886, *Shropshire Folk-Lore – A Sheaf of Gleanings* was an edited work by Charlotte S. Burne based on the collections of Georgina Frederica Jackson, compiler of the [Shropshire word-book](https://archive.org/details/shropshirewordb01jackgoog), *"a glossary of archaic and provincial words, etc., used in the county"* in 1879.
 
 A review from the *Saturday Review* of Part II of the work was rerprinted in the [April 29th, 1885](https://journals.library.wales/view/2092910/2095345/17#?xywh=59%2C1879%2C2588%2C1707) edition of Bye-gones, p209-11:
 
