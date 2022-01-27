@@ -26,3 +26,4 @@ parts:
 - caption: Endnotes
   chapters:
   - file: _glossary
+  - file: genindex
