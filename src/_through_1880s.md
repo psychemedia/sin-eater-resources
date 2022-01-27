@@ -319,7 +319,7 @@ We might also note that sometimes, such traditions may offer something of a surp
 
 > On one occasion, in the village of Stranton, near West Hartlepool, the vicar was standing at the churchyard gate, awaiting the arrival of the funeral procession, when, much to his surprise, the entire group, who had come within a few yards of him, suddenly turned back and marched round the churchyard wall, thus traversing its west, north, and east boundaries. On inquiring the reason of this extraordinary procedure, one of the mourners quickly replied, "Why, ye wad no hae them carry the dead again the sun ; the dead maun ay go wi' the sun."
 
-A similar custom appears to hail from Wales, althoiugh I havenlt yet tracked down the original Pennant reference:
+A similar custom appears to hail from Wales, although I haven't yet tracked down the original Pennant reference:
 
 > This is not unlike a Welsh custom mentioned by Pennant, who tells us that when a corpse was conveyed to the churchyard from any part of the town, great care was always taken that it should be carried the whole distance on the right-hand side of the road.
 
@@ -511,7 +511,7 @@ Lower Heyford, Oxon.
 
 ```
 
-The *Notes & Queries* correspondence was also noted in the January 19th, 1883](https://newspapers.library.wales/view/3336622/3336627/24/), edition of *The Cambrian*, where on p5, a correspondent direclty quoted the correspondence:
+The *Notes & Queries* correspondence was also noted in the [January 19th, 1883](https://newspapers.library.wales/view/3336622/3336627/24/), edition of *The Cambrian*, where on p5, a correspondent direclty quoted the correspondence:
 
 > Frederick E. Sawyer calls attention in Notes and Queries to the following folk-lore, which occurs in the Rev. Paxton Hood's book on Christmas Evans, the Preacher of Wild Wales: —"The superstition of the Sin-Eater ...
 
@@ -553,8 +553,7 @@ This correpondence is picked up on in note from [Vol 8 Iss 196, September 29th, 
 > Welsh Foik-Lore: the Sin-Eater (6th S., vii. 25, 334).—See Hone’s *Year Book*, col. 858, where the passage from Leland’s *Collectanea* quoted by W. B. N. is given as forming part of a letter from John Bagford, dated 1715; and where the reader is also referred to the Lansdowne MSS. in the British Museum for statements concerning sin-eating in Aubrey's own handwriting. The subject was briefly discussed in "N. & Q.," 1st S. iv. 211, a correspondent being referred by the editor to Ellis's edition of Brand's *Popular Antiquities*, vol. ii. p. 155, for information under this head. The custom has, I suspect, been passed over intentionally by the Rev. Peter Roberts in his Cambrian Popular Antiquities, 8vo, 1815; but an aquatint illustration at p. 177 of that work presents us with the ceremony of dispensing food and drink over the coffin to a man who, receives ate kneeling upon one knee. Pennant says that
 >
 > "it was customary when the corpse was brought out of the house and laid upon the bier for the next-of-kin, be it widow, mother, sister, or daughter (for it must be a female), to give, over the coffin, a quantity of white loaves in a great dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After
-that they presented in the same manner a coup of drink, and required the person to drink a little of it imme-
-diately."
+that they presented in the same manner a coup of drink, and required the person to drink a little of it immediately."
 >
 > This seems to indicate a form of "sin-eating."
 >
@@ -630,7 +629,7 @@ Sometimes you just have to wonder about the propensity to just "retweet" based o
 >
 > H. B.
 
-*There do not appear to be any archived copies of the Oswestry Avertiser available for 1858 un the British Newspaper Archive.*
+*There do not appear to be any archived copies of the Oswestry Avertiser available for 1858 in the British Newspaper Archive.*
 
 Correspondence then continued in the May 9th, 1883 issue](https://archive.org/details/byegonesrelating1882unse/page/232/mode/2up?q=sin), pp233-4
 
@@ -657,7 +656,7 @@ Placing the quote by Revd. Maddock Williams in its full context in volume V of t
 
 ## *Tours in Wales*, John Rhys, 1883
 
-We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the [Sir John Rhys Memorial Lectures](https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/), first delivered in 1925, which are still predsented to this day, by way of his two volume work * "Celtic Folklore: Welsh and Manx"* in 1901.
+We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the [Sir John Rhys Memorial Lectures](https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/), first delivered in 1925, which are still predsented to this day, by way of his two volume work *"Celtic Folklore: Welsh and Manx"* in 1901.
 
 ```{admonition} Sir John Rhys
 :class: seealso dropdown
@@ -686,7 +685,7 @@ With a [first part](https://archive.org/details/shropshirefolkl00burngoog/page/n
 A review from the *Saturday Review* of Part II of the work was rerprinted in the [April 29th, 1885](https://journals.library.wales/view/2092910/2095345/17#?xywh=59%2C1879%2C2588%2C1707) edition of Bye-gones, p209-11:
 
 > SHROPSHIRE FOLK-LORE.
-> 
+>
 > The following interesting review of Part II. of Miss Burne's "Shropshire Folk-Lore" has appeared in the Saturday Review :— Inexperienced people might suppose that, the necessary materials being given, it would be easy to write an entertaining book on folk-lore ; but this is far from being the case. It is almost as difficult to make a book of folk-lore readable as a book of anecdotes or a book of jokes, and, at best, the folk-lore book is more useful as furnishing materials for historians, novelists, and poets, than as a book to be read at first hand by those who wish to be entertained. It is interesting enough to read of a local superstition, but a superstition with variations soon becomes wearisome. Yet the faithful compiler of a work on folk-lore is obliged to explain that in one part of the country it is considered unlucky to see one magpie, while in another it is unlucky to see two ; that in some places three, and in others four, foretell the birth of a boy ; that four augur a wedding, according to certain authorities, and a death according to others, and that it is a question whether all these prognostications are not upset by a wise saying which begins "One for anger, two for luck," and so on. Furthermore he has to state that there are experts who consider the superstitions about magpies equally applicable to crows. Of this sort of reading it is possible to have too much ; but the unlucky folk-lore-monger is bound to produce every variety of his wares, unless he wishes to hear his work called incomplete. The merciful critic is inclined, therefore, to take up a book of folk-lore with feelings of charitable pity for its author. He would be even more sorry for himself if he thought he were going to read it through; but of doing this he rarely has any intention, as a book of folk-lore is easily reviewed by a little dipping and a good deal of skipping. The author of the specimen before us, however, has done her work so well that she has no need to ask mercy from her critics, and her reviewer who comes to skip will stay to read.
 >
 > ...
@@ -706,12 +705,12 @@ A review from the *Saturday Review* of Part II of the work was rerprinted in the
 Referring to the text of Part II, we see that various death customs are described, including various food rituals p306:
 
 > This distribution of 'cakes and ale' at funerals is often alluded to in old writings.
-> 
+>
 > 'Deal on, deal on, ye merry men all,  
 > Deal on your cake and your wine ;  
 > Whatever is dealt at her funeral to-day  
 > Shall be dealt to-morrow at mine.'
-> 
+>
 > *Fair Margaret and Sweet William*; PERCY, Reliques.
 
 ```{admonition} Thomas Percy, *Reliques of ancient English poetry*, 1765
@@ -742,7 +741,7 @@ The *Sinne Eaters* section of *Remaines of Gentilisme*, presumably taken from Br
 
 The identification of the tradition with *Shropshire* is laid squarely at the hands of Bagford:
 
-> The connection of this custom with Shropshire rests on the authority of John Bagford, whose letter on the subject is dated Feb. 1st, 1714 — 15. He says, 'Within the memory of our Fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire (for so they called him) who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket ; a Crust of Bread, which he eat ; and a full bowle of Ale, which he drank off at a draught. After this, he got up from the Cricket and pronounced, with a composed gesture, *the ease and rest of the Soul departed, for which he would pawn his own Soul*. This I had from the ingenious John Aubrey, Esq., who made a Collection of curious Observations, which I have seen, and is now remaining in the hands of Mr. Churchill, the bookseller.' `[Leland's *Collectanea*, ed. Hearne, p. lxxvi. QUoted in BRAND, *Antiquities*, II. 198.]`
+> The connection of this custom with Shropshire rests on the authority of John Bagford, whose letter on the subject is dated Feb. 1st, 1714 — 15. He says, 'Within the memory of our Fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire (for so they called him) who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket ; a Crust of Bread, which he eat ; and a full bowle of Ale, which he drank off at a draught. After this, he got up from the Cricket and pronounced, with a composed gesture, *the ease and rest of the Soul departed, for which he would pawn his own Soul*. This I had from the ingenious John Aubrey, Esq., who made a Collection of curious Observations, which I have seen, and is now remaining in the hands of Mr. Churchill, the bookseller.' `[Leland's *Collectanea*, ed. Hearne, p. lxxvi. Quoted in BRAND, *Antiquities*, II. 198.]`
 
 However, doubt is raised as to the veracity of the claim:
 
@@ -752,7 +751,7 @@ The commentary then proceeds to other, more recent instances, of funeral dole tr
 
 > Much later than Aubrey's time, the funeral dole survived in North Wales in its more primitive and innocent form. Pennant in his *History of Whiteford* describes the nearest female relative of the dead giving bread, cheese, ale, and money to the poor over the coffin, and Mr. Wirt Sikes reproduces a curious 18th-century print of such a scene. `[Brand, Antiquities, II. 211 ; *British Goblins*, 323.]`
 
-The citation of Pennant's'*History of Whiteford* as the source of the tradition for the nearest female relative providing the gift is incorrect. The reference actually appears in Pennant's *Tours in Wales*.
+The citation of Pennant's'*History of Whiteford* as the source of the tradition for the nearest female relative providing the gift is incorrect. The reference actually appears in {ref}`TIWPN`.
 
 ```{figure} ../resources/images/British_goblins_food_over_coffin_p323.png
 ---
@@ -774,9 +773,9 @@ In [Vol 2 Iss 6, April, 1885](https://archive.org/details/sim_archaeologia-cambr
 > The night before a dead body is to be interred the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with them some small piece of meat, bread, or drink (if the family be something poor); but more especially candles, whatever the family is; and this night is called Wyl Nos, whereby the country people seem to mean a Watching Night ; their going to such a house they say is "i wilio'r corph", *i.e.*, to watch the corpse. But "wylo" signifies to weep and lament, aud so "wyl nos" may be a night of lamentations. While they stay together on these nights they are either singing psalms or reading some part of the holy scriptures. [Llanyeil.]
 > 
 > Whenever anybody comes into the room where a dead corpse lyes, especially the wyl nos and the day of its interment, the first thing he does, he falls upon his knees by the corpse, and saith the Lord’s Prayer. [Llanycil custom.]
-> 
+>
 > Pence and half-pence (in lieu of little rolls of bread, which heretofore generally, and by some still are given on these occasions) are now distributed to the poor who flock in great numbers to the house of the deceased before the corpse is brought out. [Ysceifiog custom.]
-> 
+>
 > When the corpse is brought out of the house, laid upon the bier, and covered before it be taken up, the next of kin to the deceased— widow, mother, daughter, or cousin (never done by a man)— gives across over the corpse to one of the poorest neighbors two or three little loaves of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink (all which things are brought upon a large dish and reached over the corpse to the poor body, who returns thanks for them, and blesses God for the happiness of the soul of his friend or neighbour departed), [Llangollen], which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord’s Prayer, and then they get forward toward church. [Llanycil.]
 
 ```{danger}
@@ -796,15 +795,15 @@ The excerpts from the manuscript then continue:
 > At Dimeirchion there is a Custum of ringing a little bell before the corpse from the house to ye churchyard.
 > 
 > When a corpse is carried to church from any part of the town, the bearers take care to carry it so that the cross may be on their right hand, though the way be hester (nearer) and it be less trouble to go on the other side ; nor will they bring the corpse to the churchyard any other way but through the south gate, singing psalms on the way as the corpse is entered into the church. The minister goes to the altar and there saith the Lord's Prayer, with one of the prayers appointed to be read at the grave, after which the congregation offer upon the altar, or on a little board for that purpose fixed to the rails of the altar, their benevolence to the officiating minister. A friend of the deceased is appointed to stand at the altar, observing who gives and how much. When all have given, he tells the money with the minister, and signifies the sum to the congregation, thanking them all for their goodwill.
-> 
+>
 > The people kneel and say the Lord’s Prayer on the graves of their lately deceased friends for some Sundays after their interment, and this is done generally upon their first coming into y® church, and after that they dress the grave with flowers. [Llanvechan.]
-> 
+>
 > In the church there is a general spitting; they usually spit at the name of the Devil or any of his synonime, and smite their breasts at the name of Judas.
-> 
+>
 > NOTITIA.
-> 
+>
 > We have reprinted the above "Extracts" from the Rhyl Journal for Nov. 22nd, 1884, because they comprise a highly interesting list of old customs, some of which, indeed, still linger among us. From the localities named it is evident that they relate to the diocese of St. Asaph, and they look as if they were taken from the Returns of Rural Deans on some of the ecclesiastical uses of their parishes. The probable date may be the earlier half of the last century. Many of the customs are very curious, for different reasons.
-> 
+>
 > ...
 >
 > "Smiting the breast", at the mention Judas, falls under the same category, so does "spitting at the names of Satan" ; though we by no means imply that the custom was limited to that one occasion. The funeral customs were, all of them, expressive. The distribution of rolls of bread and of pence and half-pence at the house, was very likely symbolical of the obligation of charity, and the need to make friends of the mammon of unrighteousness.
