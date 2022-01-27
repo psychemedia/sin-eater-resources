@@ -65,7 +65,11 @@ Askew Roberts, you might recall, was the original editor of Bye-Gones, launched 
 
 We also get a first hint here that Askew Roberts, at least, has a good idea about whom the author of the article might be.
 
-`````{admonition} Askew Roberts, the Oswestry Advertizer, and Bye-Gones
+```{index} single: Roberts, Askew ; obituary
+:name: AskewRoberts
+```
+
+`````{admonition} Askew Roberts: biography, the Oswestry Advertizer, and Bye-Gones
 :class: dropdown
 
 The history of Bye-Gones, and Robert Askew's stewardship of it, is given in an obituary piece that appeared in *Bye-Gones* of [December 17th, 1884](https://journals.library.wales/view/2092910/2095293/4#), p146-8:
@@ -96,9 +100,9 @@ A report in *Bye-Gones*, of [June 25th, 1890](https://journals.library.wales/vie
 
 > believed Mr Askew Roberts was the originator of these local "Notes and Queries," and that *Bye-Gones* was the first periodical of the kind, perhaps, in all England, and his memory, if for nothing else than this, deserved to be perpetuated. They were all aware of the interest, he might say the passionate interest, with which he regarded his native town, and therefore it was fitting that his memory should be commemorated by the inhabitants of the town he loved so well.
 
-
 ```{admonition} Askew Roberts Memorial at Oswestry, 1890
 :class: dropdown note
+
 A report on the Askew Roberts Memorial, Oswestry, in *Bye-Gones*, [June 25th, 1890](https://journals.library.wales/view/2092910/2096798/17#?xywh=-371%2C1552%2C3382%2C2231), p392-3
 
 > THE ASKEW ROBERTS MEMORIAL AT OSWESTRY.
@@ -161,7 +165,6 @@ The Bye-Gones obituary also describes the sentiments expressed in leading column
 ```
 
 TO DO - see also:
-
 
 > Gossiping guide to wales  https://archive.org/details/gossipingguidet01woodgoog
 
