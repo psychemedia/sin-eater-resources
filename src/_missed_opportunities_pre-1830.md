@@ -6,6 +6,7 @@ These references include Hone's Year Book, 1831-32, the second edition of Leland
 
 In this chapter, we'll see whether there were any other popular, or at least, published sources that Moggridge might have overlooked, or been unaware of, that were published prior to his talk in September, 1852.
 
+(TIWPN)=
 ## Pennant's *Tours in Wales*, 1783
 
 The first item worthy of note is [part 2](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.002/K105973.002.html?sequence=5&isAllowed=y) of *A Tour in Wales* by Thomas Pennant, first published in 1783 but recalling a tour from several years previously. (See also: [part 1](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.001/K105973.001.html?sequence=5&isAllowed=y) and [*A Tour in Scotland*](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K112026.000/K112026.000.html?sequence=5&isAllowed=y)) The "Advertisement" at the front of the book is signed off by Downing on March 1st, 1781.
@@ -91,6 +92,7 @@ A monetary offering made to a presiding minister is also described:
 
 > After the general thanksgiving, the minister goes to the communion-table, where he reads the two prayers which are usually, in other places, read at the grave; and then concludes with the prayer of St. Chrysostom and the Valete Grace. This done, he remains at the table till the nearest relation of the deceased comes up and deposits an Obituary Offering. If it be a person of consequence, the sum is a guinea or more ; if a farmer or tradesman, a crown; if a poor man, six-pence : the next of kin then follow the example, offering sometimes as much, and sometimes less than the first : the rest of the congregation, who intend to offer silver, follow, when a solemn pause ensues ; and the rest of the congregation offer pence : but pence are never offered at genteel funerals. The offerings on these occasions frequently amount to eight or ten pounds.`[Those of Caernarvon amount to little short of one hundred pounds per annum.]` This is certainly a relict of Popery, and was no doubt formerly intended as an acknowledgement to the priest for praying for the welfare of the departed soul ; as a composition for a short residence in purgatory; or perhaps for any failure in the payment of tythes and oblations, and is termed *Arian Rhiew*. Though still continued, it is now only considered as a small tribute of esteem to the memory of the deceased, and as a mark of attention to the resident clergy.
 
+(NWBNG)=
 ## Bingley's *North Wales*, 1804
 
 Next up comes William Bingley's *North Wales; including its scenery, antiquities, customs, and some sketches of its natural history, delineated from two excursions through all the interesting parts of that country, during the summers of 1798 and 1801.*, and published, in two volumes, in 1804.
@@ -140,7 +142,7 @@ A little further on, on p. 285-6, we see some more ingredients that resemble the
 
 > A custom prevails in this country of each individual of the congregation making some *offering* in money on these occasions, which, if done in the church, is paid as a mark of respect to the clergyman. This custom, which is at present confined to North Wales, has doubtless been retained from the Romish religion, where the money was intended as a recompence to the priests for their trouble in singing mass for the soul of the deceased. In some cases, where the clergyman is not respected by his parishioners, the *offerings* are made on the coffin at the door of the house where the deceased resided, and are distributed amongst the poor relatives.
 
-The tradition is associated with *North* Wales, and involves a payment supposedly made to a priest recalling payments made to "Romish" priests for services rendered in saying mass for a departed soul. However, where the disliked, the offering may be given to the poor, although again there seems to be no expectation of them taken the sins of the departed upon themselves. 
+The tradition is associated with *North* Wales, and involves a payment supposedly made to a priest recalling payments made to "Romish" priests for services rendered in saying mass for a departed soul. However, where the disliked, the offering may be given to the poor, although again there seems to be no expectation of them taken the sins of the departed upon themselves.
 
 On the following pages, p287-8, we hear of another North Walian tradition:
 
@@ -173,6 +175,7 @@ The account then describes the funeral procession and interment:
 
 > This being finished, six men took up the corps and carried it on their shoulders to the church ; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough; the other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where having placed the body on tressels and taken off the cloth from the coffin, which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chafed in the manner of a buffet. The minister then ascended his pulpit, and every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of the Holy Scripture concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation ; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaus in the earth with which the corps was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester, and having passed over a large desart plain, I reached Addar, Morton, and a Castle. The country here is barren ; passed a river near a windmill ; from thence to Pries and Vitechurch on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns all alone ; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.
 
+(ARICO)=
 ## Fosbroke's *Ariconensia / Archaeological sketches of Ross and Archenfield*, 1821
 
 If there is further evidence or anecdotes surrounding the existence of the sin-eater on the "Rosse highway", then an 1821 work entitled *Ariconensia, or, Archaeological sketches of Ross and Archenfield : illustrative of the campaigns of Caractacus, the station Ariconium, &c, with other matters never before published* by Thomas Dudley Fosbroke, is perhaps a good place to look, particularly if it includes *"other matters never before published"*.
@@ -217,7 +220,7 @@ See for example this [seventh and last edition](https://archive.org/details/work
 https://daily.jstor.org/sir-thomas-brownes-vulgar-errors/
 ```
 
-However, the observations actually appear to come from Ellis' edited version of *Popular Antiquities*, the full titleof which we may recall is *Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's __Antiquitates Vulgares__ *.
+However, the observations actually appear to come from Ellis' edited version of *Popular Antiquities*, the full titleof which we may recall is *Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's __Antiquitates Vulgares__*.
 
 > The "Vulgar Errors" of Browne, with the interesting notes and additions of Mr. Ellis, recently published, furnish us with a curious detail of the various customs formerly observed at deaths, and several of which are yet retained in different parts of England. The article, as given in the work, is prolix, and contains some extraneous matter, which we think might have been omitted with advantage. In the following extracts we have selected only the parts most entertaining: they are ranged under several heads, as— "The Passing-Bell," "Watching The Dead," "Setting Salt or Candles on the Body," "The carrying of Torches and Lights," "Funeral Sermons," &c.
 
@@ -276,7 +279,6 @@ The extract also includes Aubrey's (now familiar to us) description of the sin-e
 Finally, we have a rather humourous story of the elegy given to an apparently renouned procuress, *Mother Creswell* in the mid-seventeenth century:
 
 > FUNERAL SERMONS.— Speaking of the frequency of these formerly, and their present disuse :— "Even such a character as the infamous Mother *Creswell*, the procuress in the reign of Charles II," our author observes, "must have her Funeral Sermon." She, according to Granger, desired by will to have a sermon preached at her funeral, for which the preacher was to have 10l., but upon the express condition that he only spoke well of her. A preacher was with some difficulty found, who undertook the task. He, after a sermon preached on the general subject of morality, and the good uses to be made of it, concluded by saying— 'By the will of the deceased, it is expected I should mention her, and say nothing but what is *well* of her. All I shall say of her, therefore, is this :— she was born well, she lived well, and she died well, for she was born with the name of Creswell, she lived in Clerkenwell, and she died in Bridewell."
-
 
 ```{admonition} Elizabeth Cresswell ("Mother Creswell", "Madam Cresswell of Clerkenwell")
 :class: seealso dropdown
