@@ -132,6 +132,9 @@ In an obituary for the Rev. James Davies, M.A., Prebendary of Hereford, appearin
 
 ```
 
+```{index} single: Red Dragon; sin-eater review
+```
+
 The [April, 1883, edition, vol. III, no. 4](https://journals.library.wales/view/2062893/2064485/92#) of the *Red Dragon* trailed the promised article on the sin-eater a little more:
 
 > Our March "note" anent the Carmarthenshire superstition of "the Sin Eater" appears to have excited the liveliest curiosity. Letters asking for further information upon the subject have reached us from all quarters, including one from "an American Reader." We have much pleasure in announcing that the Red Dragon for May will contain a paper, by a well-known Welsh antiquarian, explanatory of the extraordinary custom.
