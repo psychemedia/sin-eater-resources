@@ -18,4 +18,10 @@ Letter from John Bagford
 
 Within the memory of our Fathers in Shropshire, in those Villages adjoyning to Wales when a Person dyed, there was notice given to an old Sire, (for so they call'd him,) who prefently repair'd to the Place where the deceased lay, and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the Door. Then they gave him a Groat, which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket, and pronounced with a composed Gesture, *The safe and rest of the Soul departed, for which he would pawn his own Soul". This I had from the ingenious John Aubrey Esq; who made a Collectìon of curious Observations, which I bave seen, and is now remaining in the Hands of Mr. Churchill the Bookseller. How can a man think otherwise of this, than that it proceeded from the ancient Heathens?
 
+p. LXXXVI
+
+> I wish you a long Life, vigorous course of Health, and all imaginable encouragement of your learned and indefatigable Studies, (which I am glad have been so generously and so publickly taken notice of by the University of Oxford) and am, Sir,
+> Your very humble servant
+> Charter-House Feb, 1714|15. John Bagford.
+
 ---
