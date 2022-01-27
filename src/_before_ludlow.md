@@ -10,8 +10,7 @@ So in our attempt to track down the origins of the story of the *sin-eater*, let
 
 [*The year book of daily recreation and information*](https://archive.org/details/cu31924029752791) by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in February, 1832.
 
-The publication of an Edinburgh edition was announced in *The Scotsman* on 
-[Saturday 18 February 1832](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18320218/015/0001)
+The publication of an Edinburgh edition was announced in *The Scotsman* on [Saturday 18 February 1832](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18320218/015/0001)
 
 > MR HONE'S YEAR BOOK COMPLETE.
 >
@@ -29,7 +28,7 @@ The publication of an Edinburgh edition was announced in *The Scotsman* on
 >
 > N.B. Persons wishing for Odd Numbers to complete the YEAR BOOK will make immediate applicationto R. GRIFFIN & CO., as some of the numbers are getting scarece.
 >
->64, Hutcheson Street, Feb. 11, 1832 
+>64, Hutcheson Street, Feb. 11, 1832
 
 The full title of the book is more correctly recorded as *The year book of daily recreation and information concerning remarkable men and manners, times and seasons, solemnities and merry-makings, antiquities and novelties: on the plan of the Every-Day Book and Table Book, or everlasting calendar of popular amusements, sports, pastimes, ceremonies, customs, and events incident to each of the three hundered and sixty-five days in past and present times; forming a complete history of the year; and a perpetual key to the Almanac; with 114 engravings.*
 
@@ -119,6 +118,7 @@ A footnote to the [1818 edition](https://archive.org/details/parochialantiqui02k
 > This giving of doles is now observed in most country funerals in cake to all the better part, and bread to all the poor people.
 ```
 
+(CLCTN)=
 ## Leland's *Collectanea*, 1774
 
 Regarding the "letter from John Bagford" in *Leland's Collectanea*, it first seems to appear in the second edition of [*Joannis Lelandi antiquarii De rebvs britannicis collectanea*](https://archive.org/details/joannislelandia06lelagoog/page/n89/mode/2up), edited by Thomas Hearne, and published in 1774, as "A Letter to the Publisher, written by the ingenious Mr. John Bagford, in which are many curious Remarks relating to the City of London and somme things about Leland, p. LVIII-LXXXVI.
@@ -139,7 +139,7 @@ On p. LXXVI, we have the comment regarding the "old Sire":
 
 The letter is signed off as follows:
 
-> I wish you a long Life, vigorous course of Health, and als imaginable encouragement of your learned and indefatigable Studies, (which I am glad have been so generously and so publickly taken notice of by the University of Oxfordd) and am, Sir,
+> I wish you a long Life, vigorous course of Health, and all imaginable encouragement of your learned and indefatigable Studies, (which I am glad have been so generously and so publickly taken notice of by the University of Oxfordd) and am, Sir,
 > Your very humble servant
 > Charter-House Feb, 1714|15. John Bagford.
 
@@ -270,7 +270,7 @@ The following appears on [pp. 246-8](https://archive.org/details/b29328561_0002/
 > The following is extracted from Bagford's letter relating to the antiquities of London, printed in Leland’s Collectanea, i. 76. It is dated February 1, 1714-5:
 >
 > "Within the memory of our fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old sire (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket, on which he sat down facing the door. Then they gave him a groat, which he put in his pocket ; a crust of bread, which he eat ; and a full bowle of ale, which he drank off at a draught. After this he got up from the cricket and pronounced, with a composed gesture, the ease and rest of the soul departed for which he would pawn his own soul. This I had from the ingenious John Aubrey, Esq., who made a collection of curious observations, which I have seen, and is now remaining in the hands of Mr. Churchill, the bookseller. How can a man think otherwise of this, than that it proceeded from the ancient heathens ?"
-
+>
 > Aubrey's collection, here mentioned, was most probably the *Remaines of Gentilisme and Judaism*, still preserved among the Lansdowne MSS., whence the following remarks on this subject, in Mr. Aubrey’s own hand, have been extracted :
 >
 > "In the county of Hereford was an old custome at funeralls to hire poor people, who were to take upon them the sinnes of the party deceased. One of them (he was a long, leane, ugly, lamentable poor raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out and delivered to the sinne eater, over the corpse, as also a mazar bowle, of maple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. 'And Aaron shall lay both his hands on the head of the live goate, and confesse over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness. And the goat shall bear upon him all their iniquities unto a land not inhabited ; and he shall let the goat goe into the wilderness.'
