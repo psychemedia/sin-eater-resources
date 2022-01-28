@@ -19,6 +19,9 @@ Of these full length works, two publications perhaps stand out in particular: Pa
 
 ## Around and About
 
+```{index} Eddowe's Journal
+```
+
 In Salopian Shreds and Patches in Eddowe's Journal of [May 12th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18800512/132/0006), p6, Bagford's observations on Aubrey are noted and comment is passed on no mention of salt.
 
 ```{admonition} *Eddowe's Journal*, May 12th, 1880
@@ -60,6 +63,8 @@ Elsewhere, in *"A column of Antiquarian chit-chat relating to the county of Brec
 >
 > "I have been told that this old custom used to obtain in some parts of Breconshire. Didn't one of the Awbreys (possibly John, the antiquary) write something about the "Sin Eaters?" What did it all mean, and where did it take place ? LLANGORSE EEL.
 
+```{index} single: Red Dragon ; Aubrey
+```
 ### *Red Dragon*, 1884-6
 
 In the Red Dragon of[November, 1884](https://archive.org/details/reddragon01wilkgoog/page/476/mode/2up?q=sin), p477, one curious reader picking up on the major review article on the sin-eater by Askew Roberts thay had appeared May, 1883, volume III edition, enquiring about the actual reference in Aubrey to the sin-eater:
