@@ -10,11 +10,11 @@ Folklore
 
 p. 145-157
 
-Vol. III.] JUNE, 1892. [No. II. 
+Vol. III. JUNE, 1892. No. II.
 
 THE SIN-EATER.
 
-THE earliest mention of the curious custom of the Sin-eater, formerly observed in Wales and the Welsh Marches at funerals, is found in *The* Remaines of Gentilisme and Judaisme*, work of John Aubrey, which remained in manuscript for two hundred years, until it was for the first time issued by the Folk-lore Society ten or twelve years ago. The passages in question run as follows :
+THE earliest mention of the curious custom of the Sin-eater, formerly observed in Wales and the Welsh Marches at funerals, is found in *The Remaines of Gentilisme and Judaisme*, work of John Aubrey, which remained in manuscript for two hundred years, until it was for the first time issued by the Folk-lore Society ten or twelve years ago. The passages in question run as follows :
 
 > *Offertories at funeralls.*
 > 
