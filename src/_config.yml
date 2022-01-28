@@ -9,7 +9,11 @@ execute:
 parse:
   myst_dmath_double_inline: true
 
+bibtex_bibfiles:
+    - _references_books.bib
+
 sphinx:
   config:
     html_copy_source: false
+    bibtex_reference_style: author_year
   extra_extensions:
