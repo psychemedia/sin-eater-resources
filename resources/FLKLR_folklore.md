@@ -6,7 +6,7 @@
 https://archive.org/details/folklore03folkuoft/page/144/mode/2up?q=sin-eater
 
 Folklore
-1892
+June 1892
 
 p. 145-157
 
@@ -86,8 +86,9 @@ E. Sidney Hartland.
 
 https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments
 
-Folklore Vol III
-1892
+Folklore Vol III, No. IV
+December 1892
+
 p546-9
 
 MR. HARTLAND'S "SIN-EATER", AND PRIMITIVE SACRAMENTS.
@@ -126,9 +127,9 @@ G. M. GODDEN.
 
 https://archive.org/details/folklore04folkuoft/page/106/mode/2up?q=SACRAMENTS
 
-Folklore vol 4
+Folklore vol 4, no. 1
 
-1892
+March 1893
 p. 106
 
 CORRESPONDENCE.
@@ -145,9 +146,10 @@ E. Sidney Hartland.
 
 https://archive.org/details/folklore04folkuoft/page/120/mode/2up?q=Aynsley
 
-Folklore vol 4
+vol 4, no. 1
 
-1892
+March 1893
+
 p. 120
 
 An Evening Meeting was held at 22, Albemarle Street, on Wednesday, December 21st, 1892 ; the President (Mr. G. L. Gomme) in the chair.
@@ -168,7 +170,9 @@ https://archive.org/details/folklore04folkuoft/page/398/mode/2up?q=hartland
 
 Folk-Lore
 
-1892
+Volume IV No. III
+September 1893
+
 p398-399
 
 
@@ -197,8 +201,9 @@ H. G. M. Murray-Aynsley.
 
 https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER
 
-Folklore vol 4 , 
-1893
+
+Volume IV No. III
+September 1893
 
 p. 392-3
 
