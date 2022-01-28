@@ -63,11 +63,11 @@ Elsewhere, in *"A column of Antiquarian chit-chat relating to the county of Brec
 >
 > "I have been told that this old custom used to obtain in some parts of Breconshire. Didn't one of the Awbreys (possibly John, the antiquary) write something about the "Sin Eaters?" What did it all mean, and where did it take place ? LLANGORSE EEL.
 
-```{index} single: Red Dragon ; Aubrey
+```{index} single: Red Dragon ; querying Roberts' Aubrey reference, 1884
 ```
 ### *Red Dragon*, 1884-6
 
-In the Red Dragon of[November, 1884](https://archive.org/details/reddragon01wilkgoog/page/476/mode/2up?q=sin), p477, one curious reader picking up on the major review article on the sin-eater by Askew Roberts thay had appeared May, 1883, volume III edition, enquiring about the actual reference in Aubrey to the sin-eater:
+In the Red Dragon of [November, 1884](https://archive.org/details/reddragon01wilkgoog/page/476/mode/2up?q=sin), p477, one curious reader picking up on the major review article on the sin-eater by Askew Roberts thay had appeared May, 1883, volume III edition, enquiring about the actual reference in Aubrey to the sin-eater:
 
 > Notes and Queries
 >
@@ -228,9 +228,10 @@ show_diffs(x1.replace('.',''),x2.replace('.',''),
            "Excerpt from *Once A Week* / *Eddowes' Journal*")
 ```
 
+(ANTQS)=
 ## *The Antiquities of Laugharne, Pendine*, Mary Curtis, 1880
 
-In a self-published work on *The antiquities of Laugharne, Pendine, and their neighbourhood, Carmarthenshire, Amroth, Sandersfoot, Cilgetty, Pembrokeshire, South Wales*](https://archive.org/details/antiquitiesoflau00curt/page/206/mode/2up?q=funeral), published in second edition at least in 1880, Mary Curtis describes the following custom All Hallows custom in which parishioners might learn the names of who was to die in the folloming year (p206-7)
+In a self-published work on [*The antiquities of Laugharne, Pendine, and their neighbourhood, Carmarthenshire, Amroth, Sandersfoot, Cilgetty, Pembrokeshire, South Wales*](https://archive.org/details/antiquitiesoflau00curt/page/206/mode/2up?q=funeral), published in second edition at least in 1880, Mary Curtis describes the following custom All Hallows custom in which parishioners might learn the names of who was to die in the folloming year (p206-7)
 
 > They had this very remarkable custom : — I was informed by a respectable farmer of Eglwyscummin parish, who died in old age in 1875, that his father told him that there was a person appointed to every church, whose office was to go to the church on All Hallows Eve to hear the names of those who would die the next year, called. An old woman of this town, dead now sixty years, is remembered by some old people as going on this eve to Laugharne church to stand by the chancel window, where they say she distinctly heard the names pronounced. She said that, as she had been once to hear the names called, she was bound to go at every future eve. I was told by one of the most respectable and esteemed old inhabitants of this town, that in his presence some one said to her, that a lady then dangerously ill, and given over, would die. She said, "No ; for her name was not called." She did recover and live many years. And another time she foretold that a funeral of a person would take place shortly in Laugharne church, which it did. In Cardiganshire, on All Hallows Eve, it was the custom to sit in the porch of the church to see those pass through who should die that year. I am not quite sure that this was not on St. John's day, 24th June. I give no opinion, though I would not declare them falsehoods, or the results of imagination. Which is the worst to believe — too much or too little ? Some people, deeming themselves very wise and superior to such credulity, with a wonderfully wise look, condemn these as mere superstitions.
 
@@ -246,7 +247,7 @@ But even in death, so might traditions of youthful life might also be observed:
 
 > During the night, in presence of the departed, a number of men and women, she said, played different games. One was called "Trounsing;" it was like blind-man's buff. If the young man who was blindfolded caught a young woman, she was his sweetheart for that year.
 
-But eben by the 1880s, these traditions were lapsing:
+But even by the 1880s, these traditions were lapsing:
 
 > No more remains of these customs in Laugharne, except the presents of candles, etc., which friends do bring.
 
