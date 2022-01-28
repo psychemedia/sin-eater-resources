@@ -64,7 +64,10 @@ In Notes and Queries, [Vol 9 Iss 212, dated January 19th, 1878](https://archive.
 
 Although this does not directly relate to the ritual that was often described in a sin-eater context, I wonder if we might not co-opt this story to create a fictional sin-eater tale of our own involving a priest who takes various sincs unto himself, but then passes them on to his unkowing parishioners!
 
-And in full length work by James Napier published in 1879, [Folk lore: or, superstitious beliefs in the west of Scotland within this century](https://archive.org/details/folkloreorsuper00napigoog/page/n70/mode/2up), p60-62, several *Scottish* death customs were described:
+(FLWSN)=
+### James Napier on *Folk-lore of the West of Scotland*, 1879
+
+In full length work by James Napier published in 1879, [Folk lore: or, superstitious beliefs in the west of Scotland within this century](https://archive.org/details/folkloreorsuper00napigoog/page/n70/mode/2up), p60-62, several *Scottish* death customs were described:
 
 > After death there came a new class of superstitious fears and practices. The clock was stopped, the looking- glass was covered with a cloth, and all domestic animals were removed from the house until after the funeral These things were done, however, by many from old custom, and without their knowing the reason why such things were done. Originally the reason for the exclusion of dogs and cats arose from the belief that, if either of these animals should chance to leap over the corpse, and be afterwards permitted to live, the devil would gain power over the dead person.
 
