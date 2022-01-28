@@ -15,7 +15,7 @@ kernelspec:
 
 Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
 
-Of these full length works, two publications perhaps stand out in particular: Paxton Hood's *Cristmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
+Of these full length works, two publications perhaps stand out in particular: Paxton Hood's *Christmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
 
 ## Around and About
 
@@ -518,7 +518,7 @@ Lower Heyford, Oxon.
 
 The *Notes & Queries* correspondence was also noted in the [January 19th, 1883](https://newspapers.library.wales/view/3336622/3336627/24/), edition of *The Cambrian*, where on p5, a correspondent direclty quoted the correspondence:
 
-> Frederick E. Sawyer calls attention in Notes and Queries to the following folk-lore, which occurs in the Rev. Paxton Hood's book on Christmas Evans, the Preacher of Wild Wales: —"The superstition of the Sin-Eater ...
+> Frederick E. Sawyer calls attention in *Notes and Queries* to the following folk-lore, which occurs in the Rev. Paxton Hood's book on "Christmas Evans, the Preacher of Wild Wales":— "The superstition of the Sin-Eater ...
 
 In the [March, 1883 edition, p282](https://archive.org/details/reddragonnation00wilkgoog/page/282/mode/2up?q=sin), of the Red Dragon, Paxton Hood's sin-eater reference is also discussed:
 
@@ -570,6 +570,26 @@ A second piece of correspondence under the same header refereces Aubrey:
 > 
 > Edward Peacock.  
 > Bottesford Manor, Brigg.
+
+
+References to Paxton Hoods work continued to have echoes into the 1890s. In a somewhat hotch-potch letter to the editor of *The Cambrian* dated [October 16th, 1891](https://newspapers.library.wales/view/3339249/3339256/62/), p7, correspondent *H.* wrote in the *Welsh Notes From Notees and queries* section:
+
+> ...
+>
+> ... E. L. Blenkinsopp remembers that he read of an Englishman who went into a church in Wales, where, during the sermon, whenever the devil was named the people spat, as expressing abhorrence. Paxton Hood, in his book on Christmas Evans, gives an account of the Sin-Eater, a superstition which is said "to linger even now in the secluded vale of Cwm-Aman, in Carmarthenshire." The district has (or better, perhaps, had) a Sin-Eater, who, on the death of a person, was sent for, and be, on his arrival, placed a plate of salt and bread on the breast of the deceased. He then uttered an incantation over the plate, and afterwards proceeded to eat the bread, and this done, he was supposed to have eaten the sins of the dead person. After receiving a fee of two-and-sixpence for his services, be hurriedly departed, aided by the cuffs and kicks of those in the house. This curious custom was formerly observed in Yorkshire and elsewhere.
+> ...
+>
+> H.
+
+A correspondent from London replied in the edition of [October 30th, 1891](https://newspapers.library.wales/view/3339267/3339270/19/), p3, recalled another tradtional tale:
+
+> OLD-WORLD SUPERSTITIONS.
+>
+> TO THE EDITOR OF "THE CAMBRIAN."
+>
+> Sir,- The remarks made by "H," in his letter referring to the sin-eater," spoken of by Paxton Hood in his book on Christmas Evans, clear up a mystery which has puzzled me for years, whenever my mind has reverted to it. It would probably be twenty years ago, I cannot remember the exact date, but no doubt many in Swansea will remember the circumstance, that Mrs. Hopkins, an old Swansea resident, and mother of the late Mr. Thomas Hopkins, at the time a member of the Swansea Town Council, died suddenly at her residence in High-street - her husband kept a small public-house there, the name of which I also forget. I was one of the first to enter the dwelling after the sad event, and my first view of the corpse, was to find the deceased, fully dressed (just as she was carried upstairs from the bar where she died) lying on her back in bed, on her breast being placed a plate, pewter I think it was, and on the plate were sprinkled crumbs of bread and some salt. The deceased could scarcely have been dead a quarter of an hour when I saw this, and I could never understand why the plate and its contents were placed where I saw them. I subsequently sat on the inquest, and intended to make inquiries into what struck me as curious, but fearing to pry unnecessarily into domestic susceptibilities, I refrained from doing so. I now find, from the letter of "H." in last week's Cambrian, what I never knew before, that the circumstance of the plate, salt, and bread had reference to the old Welsh superstition spoken of by Paxton Hood in his book already referred to, and fully explained in the interesting letter to which I now allude. If my memory serves me, I think the Hopkinses were a Cardigan family, but of this I am not quite certain.-Yours, &c.
+>
+> J. C. MANNING. London.
 
 ## Bye-Gones, 1882-3
 
