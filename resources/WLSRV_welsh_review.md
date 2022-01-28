@@ -1,6 +1,6 @@
 https://journals.library.wales/view/2010283/2010723/86#
 
-The Welsh review
+The Welsh Review
 
 Vol I No.5
 
