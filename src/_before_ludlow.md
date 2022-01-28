@@ -108,7 +108,7 @@ A reference is then made to what appears to be a commentary on, or attached to, 
 
 > Bishop White Kennet, who appears to have possessed Aubrey's MS., has added this note. "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford ; where, at the burial of every corpse, one cake and one flaggon of ale, just after the interment, were brought to the minister in the church porch."
 
-```{index} Kennet, White (Bishop) ; biography
+```{index} single: Kennett, White (Bishop) ; biography
 :name: WhiteKennet
 ```
 ```{admonition} Bishop White Kennet
