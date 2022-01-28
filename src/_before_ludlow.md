@@ -6,9 +6,13 @@ A query raised following the meeting by one of those in attendance, Mr. Jelinger
 
 So in our attempt to track down the origins of the story of the *sin-eater*, let us begin with those two sources before broadening our search to other possible references to the tradition in the years prior to 1852.
 
+```{index} single: Hone, William ;  Year Book, 1832
+:name: YBECH
+```
+
 ## Hone's Year Book, 1832
 
-[*The year book of daily recreation and information*](https://archive.org/details/cu31924029752791) by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in February, 1832.
+[*The year book of daily recreation and information*](https://archive.org/details/cu31924029752791) by William Hone, originally published weekly from January 1831 to January 1832, in 52 numbers was published in a single volume in February, 1832 {cite}`hone1832yearbook`.
 
 The publication of an Edinburgh edition was announced in *The Scotsman* on [Saturday 18 February 1832](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18320218/015/0001)
 
@@ -16,7 +20,7 @@ The publication of an Edinburgh edition was announced in *The Scotsman* on [Satu
 >
 > This day is published.
 >
-> By _RICHARD GRIFFIN & CO. Glasgow,
+> By RICHARD GRIFFIN & CO. Glasgow,
 >
 > And STILLIES, BROTHERS, 140, High Street, Edinburgh.
 >
@@ -54,6 +58,8 @@ See for example this edition of [1878](https://archive.org/details/everydaybooko
 The address mentions a variety of topics to be covered by the work including *corpse candles* and *sin eaters*. However, no mention of the sin-eater appears in the work as published.
 ```
 
+```{index} single: Hone, William ;  Table Book, 1827
+```
 ```{admonition} Hone's Table Book
 :class: dropdown
 [*The Table Book*](https://archive.org/details/cu31924103708214), by William Hone, was originally published weekly, from January 1827 to January 1828 (55 no., including indexes), introduced by Hone in the following terms:
@@ -72,6 +78,9 @@ We then get a more direct statement regarding the folkloric character we are pur
 > In a letter from John Bagford, dated 1715, printed in "Leland's Collectanea," there is the following account of a sin-eater. — "Within the memory of our fathers, in Shropshire, in those villages adjoining to Wales, when a person died, there was notice given to an old 'sire' (for so they called him,) who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket (or stool), on which he sat down facing the door. Then they gave him a groat, which he put in his pocket; a crust of bread, which he ate; and a full bowl of ale, which he drank off at a draught." After this, he got up from the cricket, and pronounced, with a composed gesture, 'the ease and rest of the soul departed, for which he would pawn his own soul.' This" says Bagford, "I had from the ingenious John Aubrey, esq., who made a collection of curious observations, which I have seen."
 
 Here, then, it would appear that we have another description of a visiting fellow in the Shropshire area in the last quarter of the 17th century ("within memory of our fathers", from a basis in 1715) who arrives when a death is announced; who is paid groat (four pence); who sits on a small stool facing the door, eats some bread and drinks a "full bowl" of ale in one go; and who then stands, and with a particular gesture (though what sort of gesture we don't know), makes a ritual pronouncement. Bagford claims this account comes from Aubrey, perhaps as a personal communication, who was collecting and writing in the latter quarter of the seventeenth century, or perhaps from Aubrey's writings. But in either case: *from Aubrey*.
+
+```{index} single: Bagford, John ;  biography
+```
 
 ```{admonition} John Bagford
 :class: dropdown seealso
@@ -99,6 +108,9 @@ A reference is then made to what appears to be a commentary on, or attached to, 
 
 > Bishop White Kennet, who appears to have possessed Aubrey's MS., has added this note. "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford ; where, at the burial of every corpse, one cake and one flaggon of ale, just after the interment, were brought to the minister in the church porch."
 
+```{index} Kennet, White (Bishop) ; biography
+:name: WhiteKennet
+```
 ```{admonition} Bishop White Kennet
 :class: dropdown
 [Bishop White Kennet](https://en.wikipedia.org/wiki/White_Kennett) (10 August 1660 – 19 December 1728), vicar of Ambrosden, Oxfordshire, afterwards Bishop of Peterborough, and antiquarian who lived at the end of the 17th and start of the 18th century. He appears to have held possession of Aubrey's papers relating to the sin-eater that now form part of the Lansdowne manuscripts.
