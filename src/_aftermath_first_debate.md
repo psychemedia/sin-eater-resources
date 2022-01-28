@@ -118,6 +118,8 @@ In an obituary for the Rev. James Davies, M.A., Prebendary of Hereford, appearin
 
 ```{index} single: Davies, James (Prebendary) ; obituary
 ```
+```{index} see: Prebendary Davies ; Davies, James (Prebendary)
+```
 ```{admonition} Prebendary James Davies, M.A., (Full Obituary)
 :class: dropdown
 > The late Prebendary Davies.
