@@ -810,7 +810,7 @@ N. W. THOMAS
 
 https://archive.org/details/sim_academy-and-literature_1896-03-21_49_1246/page/240/mode/2up?q=%22sin-eating%22
 
-The Academy  1896-03-21: Vol 49 Iss 1246
+The Academy  Vol 49 Iss 1246
 
 1896-03-21
 p241-242
@@ -833,9 +833,7 @@ E. SIDNEY HARTLAND.
 
 https://archive.org/details/sim_academy-and-literature_1896-03-28_49_1247/page/264/mode/2up?q=sin
 
-The Academy
-
-1896-03-28: Vol 49 Iss 1247
+The Academy, Vol 49 Iss 1247
 
 1896-03-28
 
@@ -859,7 +857,8 @@ N. W. Thomas.
 
 https://archive.org/details/sim_academy-and-literature_1896-04-25_49_1251/page/346/mode/2up?q=sin+eater
 
-The Academy  1896-04-25: Vol 49 Iss 1251
+The Academy
+Vol 49 Iss 1251
 Publication date 1896-04-25
 
 p346
