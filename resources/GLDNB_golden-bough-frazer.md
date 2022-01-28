@@ -6,7 +6,7 @@ https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t6640976f&view=1up&seq=16
 
 The golden bough :
 a study in comparative religion /
-by J. G. Frazer. 
+by J. G. Frazer.
 1890
 p154-7
 
