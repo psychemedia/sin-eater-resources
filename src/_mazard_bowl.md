@@ -1,4 +1,4 @@
-# Mazar Wood and the Mazard Bowl
+# Mazer Wood and the Mazard Bowl
 
 In issue no. 74 of *Notes & Queries*, dated March 29th, 1851, the following query appeared on [page 239](https://archive.org/details/notesqueriesmedi03note/page/239/mode/2up?q=mazer+wood):
 
@@ -37,7 +37,6 @@ A few weeks later, in the edition of June 7, 1851, [no. 84, p466](https://archiv
 > Mazer Wood (Vol. iii., pp. 239. 288 ). — Your Querist asks, "Has the word Mazer any signification in itself?" It signifies *Maple*, being a corruption of the Welsh word *Masarn* — the maple-tree. Probably, therefore, the use of the wood of the maple tor bowls and drinking-cups prevailed in this country many centuries before the times of Spenser and Chaucer, in whose works they are mentioned. In Devonshire the black cherry-tree, which grows to a large size in that county, is called the mazer-tree. From this circumstance I conjecture that this wood has been used there in former times for bowls and drinking-cups as a substitute for maple. That the original word, mazer, should have been retained, is not to be wondered at. It is known that when the *mazer* bowl was made of silver, the old name was retained. The name of the maple-tree, in the Irish language, is *crann-mhalpais*; therefore the name of the Irish wooden drinking-cup *maedher* cannot be derived from it.
 >
 > S. S. S.
-
 
 Another three months on, and in edition of September 20th, 1851, [volume 4, Issue 99](https://archive.org/details/sim_notes-and-queries_1851-09-20_4_99/page/210/mode/2up?q=%22sin-eating%22), p211, we get another reply which mentions the tradition from the Rosse highway, providing the now all too familiar quote, *to us*, from Aubrey:
 
