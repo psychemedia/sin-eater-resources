@@ -109,7 +109,7 @@ A reference is then made to what appears to be a commentary on, or attached to, 
 > Bishop White Kennet, who appears to have possessed Aubrey's MS., has added this note. "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford ; where, at the burial of every corpse, one cake and one flaggon of ale, just after the interment, were brought to the minister in the church porch."
 
 ```{index} single: Kennett, White (Bishop) ; biography
-:name: WhiteKennet
+:name: biog:WhiteKennet
 ```
 ```{admonition} Bishop White Kennet
 :class: dropdown
@@ -159,6 +159,10 @@ So we can date this observation back at least to c. 1714.
 
 We also note that the letter has a little more detail regarding the current whereabouts of Aubrey's papers – *and is now remaining in the Hands of Mr. Churchill the Bookseller* – as well as a comment regarding the deeper history of the story: *How can a man think otherwise of this, than that it proceeded from the ancient Heathens?*
 
+
+```{index} single: Leland, John (antiqury) ; biography
+:name: biog:JohnLeland
+```
 ```{admonition} John Leland
 :class: dropdown seealso
 
@@ -220,6 +224,9 @@ One possibility is that he learned of it from "Brand's Antiquities", which we sa
 
 We know that Hone was familiar with an earlier edition of Brand's work, citing from it liberally right from the very start of his *Every-Day Book* of 1826. For example, even on [January 1st, column 6,](https://archive.org/details/b29326072_0001/page/3/mode/2up?q=brand) *"The  late Rev. John Brand, in his 'Popular Antiquities' edited by Mr. Ellis, observes..."*
 
+```{index} single: Brand, John  ; Observations on Popular Antiquities, 1777
+:name: book:brand:popantiq:1777
+```
 ## Brand's *Observations on Popular Antiquities*, 1777
 
 *Observations on the popular antiquities of Great Britain: Including the Whole of Mr. Bourne's Antiquitates Vulgares* — often referred to as *Popular Antiquities* — by John Brand, was first published in [1777](https://archive.org/details/observationsonp00bourgoog/page/n46/mode/2up) and reprinted again in [1810](https://archive.org/details/observationsonpo00bran/page/20/mode/2up?q=watching). These editions contains no explicit reference to a "sin eater", although Chapter II of Bourne's work, and Brand's observation on it, do cover traditions *Of Watching with the Dead*
@@ -271,6 +278,12 @@ Another contemporary custom is also described as part of Brand's oberservations,
 
 > It is customary at this Day in Northumberland, to set a Pewter *Plate*, containing a little *Salt* `[Salem abhorrere constat Diabolu, et ratione optima nititur, quia Salr aeternitatis est et immortatalitatis signum, neque putredeine neque corruptione infestatur unquam, sed ipse ab his omnia vendicat. Depriv. Rel. &c. p154. Confided in reference to this symbolical Explication, how beuatiful is that Expression, "Ye are the Salt of the Earth."]` upon the Corps; as also a Candle in some Places. — The learned Moresin tells us, "That *Salt* is the Emblem of Eternity and Immortality : It is not liable to Putrefaction itself, and it preserves Things that are seasoned with it from Decay." — He gives us also his Conjecture on the Use of a *Candle* `[Lucerna, feu Candela mortuis cadaveribus semper apponitur in domibus et templis, quamdiu fspra terram sunt— aa hinc ducto more, oculo, vel Lucerna incensa veteres AEgyptii vitam significabant, unde veteres foliti sunt lucernas ardentes sepulchris imponere, hac saltem ratione significantes se mortuorum quamdiu possent vitas producturos. Deprav. Rel. Orig. p. 89.]` on this Occasion: "It was an Egyptian Hieroglyphic for Life, meant to express the ardent Desire of having had the life of the Deceased prolonged."
 
+```{index} single: Ellis, Henry  ; editor, Observations on Popular Antiquities, 1813
+:name: editor:ellis:popantiq:1813
+```
+```{index} single: Brand, John  ; Observations on Popular Antiquities, ed. Henry Ellis, 1813
+:name: book:brand:popantiq:1813
+```
 ## Brand's *Popular Antiquities*, edited by Ellis, 1813
 
 A new edited edition of *Popular Antiquities*, in two volumes, was first published in 1813, with extensive additional notes by the editor, Henry Ellis. This edition went on to be republished many times, including the 1849 edition as cited in *Notes and Queries*.
