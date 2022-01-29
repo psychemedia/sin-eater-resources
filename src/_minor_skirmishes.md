@@ -52,7 +52,7 @@ The correspondent appears unaware of previous mentions of the sin-eater in earli
 >
 > [See "N. & Q.," 1st S. vi. 390, 541.]
 
-The work referred to is Eugene Schuyler's [*Turkistan*](https://archive.org/details/turkistannotesa01schugoog, published in 1877. We will review the related item elsewhere.
+The work referred to is Eugene Schuyler's [*Turkistan*](https://archive.org/details/turkistannotesa01schugoog), published in 1877. We will review the related item elsewhere.
 
 In Notes and Queries, [Vol 9 Iss 212, dated January 19th, 1878](https://archive.org/details/sim_notes-and-queries_1878-01-19_9_212/page/3/mode/2up), p48, a query on the matter of customs surrounding "bread and salt" appears:
 
