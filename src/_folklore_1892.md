@@ -140,6 +140,13 @@ And the "reason" for the tradition claimed in the following terms:
 
 As previously reported, "corpse cakes" are seen to be a Bavarian tradition:
 
+```{index} see: Leichen-nudeln ; corpse cake ; Bavaria
+```
+```{index} seealso: corpse cake ; funeral biscuit
+```
+```{index} single: corpse cake ; Bavaria
+:name: tradition:corpsecake:bavaria
+```
 > In the Highlands of Bavaria we are told that when the corpse is placed upon the bier the room is carefully washed out and cleaned. It was formerly the custom for the housewife then to prepare the *Leichen-nudeln*, which I may perhaps freely translate as Corpse-cakes. Having kneaded the dough, she placed it to rise on the dead body, which lay there enswathed in a linen shroud. When the dough had risen the cakes were baked for the expected guests. To the cakes so prepared the belief attached that they contained the virtues and advantages (*Vortheile*) of the departed, and that thus the living strength of the deceased passed over by means of the corpse-cakes into the kinsmen who consumed them, and so was retained within the kindred. [Dr. M. Hoefler of Toelz, in *Am Urquell*, ii, 101]
 
 And claims are made, as reported, regarding food-related funeral customs:
@@ -369,6 +376,9 @@ So it seems that more evidence has recently come to hand, although what that evi
 
 In the meantime, additional evidence was to find its own way into the pages of *Folklore*. Just over a year after Hartland's paper was published, in [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
 
+```{index} single: funeral biscuit ; Market Drayton
+:name: custom:funeralbiscuit:marketdrayton)
+```
 ```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Hope, Gertrude
 :name: FLKLR:correspondence:1892:hope)
 ```
