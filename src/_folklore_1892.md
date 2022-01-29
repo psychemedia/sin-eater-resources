@@ -208,7 +208,7 @@ Hartland fianlly attempts to draw all the stands together in the context of the 
 
 ```{index} single: Folklore (journal) ; correspondence, 1892-3
 ```
-(FLKLR:correspondence:1892)
+(FLKLR:correspondence:1892)=
 ### Responses to the Paper
 
 An article in *The Cardiff Times* dated [June 11th, 1892, p4](https://newspapers.library.wales/view/3429440/3429444/77/), acknowledges the publication of the paper, picking up on Harltand's conclusion that many surviving customs hint back to a common, cannibailistic tradition:
@@ -227,9 +227,12 @@ The publication of the paper was also noted by a correspondent to the *Oswestry 
 
 The same corresponded also quoted from another item in the same volume of *Folk-Lore*. Whilst not directly relevant to the sin-eater tale, it might prove of passing interest and could perhaps be used to weave in elements of possession into "creative" sin-eater tales.
 
-```{admonition}
+```{index} single: exorcim ; account in Wales
+:name: folklore:exorcism
+```
+```{admonition} Exorcism in Wales
 :class: dropdown
-> From "Exorcism in Wales," in Miscellanea, we take , the following :—
+> From "Exorcism in Wales," in Miscellanea, we take the following :—
 
 This is taken from Folklore, 1892, [Part II, Vol. iii, p274-5](https://archive.org/details/folklore03folkuoft/page/274/mode/2up?q=exorcism).
 
@@ -252,7 +255,9 @@ Holloways Pills—
 Weak stomachs. The wisest I cannot enumerate one quarter of the distressing symptons arising from enfeebled digestion, all of which might be readily dispelled by these admirable Pills. They remove all unpleasant tastes from the mouth, flatulency and constipation. Holloway's Pills rouse the stomach, liver, and every other organ, helping digestion to that healthy tone which fully enables it to convert all we eat and drink to the nourishment of our bodies. Hence these Pills are the surest strengtheners and the safest restoratives in nervousness, wanting and chronic debility. Holloway's Pills are infallible remedies for impaired appetite, eructations, and a multitude of other disagreeable symptoms, which render miserable the lives of thousands. These Pills are approved by all classes.
 ```
 
-An arguably more formal response to Hartland's published paper appeared in *Folklore*, [Vol III, No. IV, p546-9](https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments)) of December, 1892:
+An arguably more formal response to Hartland's published paper appeared in *Folklore*, [Vol III, No. IV, p546-9](https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments)) of December, 1892.
+
+In particular, the correspondent asks Hartland to explain the reasoning behind why the presence of distinct traditions at one point in time might derive from a common precursor rite:
 
 ```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Godden, Miss G. M.
 :name: FLKLR:correspondence:1892:godden
@@ -262,32 +267,42 @@ An arguably more formal response to Hartland's published paper appeared in *Folk
 > To the Editor of FOLK-LORE.
 >
 > Sir, — Will you allow me to ask Mr. Hartland how the very interesting funeral rites which we owe to his paper on the "Sin-Eater", in the current journal, can be considered as the outcome of *one* belief, in various stages ?
->
+
+The correspondent then sets out a possible interpretation of Hartland's reasoning:
+
 > I gather that he would treat as acts expressing a common idea the "sin-eating" of old English custom, where the whole gist of the usage, as celebrated by the "folk", lies in the cathartic significance, and where the celebrant has no kinship with the deceased ; the Bavarian usage, where the ritual cake is eaten by the kindred, that they may therewith receive the "virtues and advantages" of the dead kinsman, on or beside whose body the cake has lain ; the Scotch watchers' rite of placing their hands in the empty dishes and *afterwards* eating ; and the breaking and eating over the grave of the Turkish cakes.
->
+
+But the correspondent doesn't seem to be convinced:
+
 > The customs of which these seem to be typical examples are classed together as expressions of one belief; and this belief is explained as the survival of a primitive cannibalism induced by the widely-spread primitive idea that, by eating the flesh, the qualities of the man or creature may be received. How does Mr. Hartland prove that all the instances he gives, where the reception of the qualities of the dead is in no way mentioned, can be treated as resting on this special cause ; and not on that universal article of primitive creeds — perhaps one of the most necessary and sacred of all faiths to the savage mind — the renewal of the tribal kinship by the tribal sacrament of commensal eating? Most of Mr. Hartland's instances seem to point to this as their cause, and to be examples of the universal custom of offering food to the disembodied tribesman, and of preserving the tie between the dead and living by eating together in the sacrament of the common meal.
->
+
+In fact, they seem to take a contrary position:
+
 > I do not like to trespass on your space by giving the full evidence which would, I think, justify me in venturing to differ from Mr. Hartland. But the importance of any point touching on primitive sacraments, and of the kind of intercourse which the undeveloped reason conceives to be possible between tribal spirits ("ghosts of worship" often) and tribesmen still in the flesh, will, I think, excuse my troubling you with these brief references, not as accumulative evidence, but as examples.
->
+
+Additional citations are then provided:
+
 > Bishop Callaway (pp. 141-44) gives ample evidence, from direct native sources, of the desire of tribesmen to "recall" — renew the bond of intercourse with — the soul of the dead tribesman. [Callaway, *Amazulu*, pp. 141-44. ] Dr. Tylor, *Primitive Culture*, ii, p. 16, refers to a commensal meal between the spirits and the tribe in yearly ritual ; and on p. 40 *seq.* he gives Mexican, Hindoo, Chinese, and Slavonic examples. [*Primiive Culture*, vol. ii, pp. 36-40 *seq.*] Dr. Codrington deals with the question of the "common participation" in the death-meal (p. 272) ; the eating of the meal by the grave (*ibid.*) ; and he quotes one case (p. 281) where the rite of placing the common food upon the body is transferred to that of placing the kinsman himself thereon. Could the kin-bond be expressed with more physical and primitive directness ? [Dr. Codrington, Melanesians*, pp. 272, 281, 283-85, etc. *]
->
-> I think it is worth noting that in Dr. Codrington's account of the details of Melanesian beliefs and practices concerning the body and soul after death, there is only one mention of the cannibalistic usages Mr. Hartland quotes (except an incidental reference on p. 28.4) ; and that in this one case the rite is performed by women, who would scarcely be selected (unless with a view to their descendants) as recipients by this means of the dead tribes- man's good qualities. No mention of such design is here made, and the act in this case looks like a form of the primitive taboo, which forbids any holy thing (such, e.g., as the tribesman's blood) to fall to the ground.
->
+
+Some commentary on at least one of those accounts then follows, using it to cast doubt on cannibalistic origins :
+
+> I think it is worth noting that in Dr. Codrington's account of the details of Melanesian beliefs and practices concerning the body and soul after death, there is only one mention of the cannibalistic usages Mr. Hartland quotes (except an incidental reference on p. 28.4) ; and that in this one case the rite is performed by women, who would scarcely be selected (unless with a view to their descendants) as recipients by this means of the dead tribesman's good qualities. No mention of such design is here made, and the act in this case looks like a form of the primitive taboo, which forbids any holy thing (such, e.g., as the tribesman's blood) to fall to the ground.
+
+The correspondent then critiques some of Hartland's own examples:
+
 > The commensal meal, shared between the spirit of the dead kinsman and the survivors, seems clearly betrayed in the elapse of an hour in the Dyak rite quoted by Mr. Hartland. The Amazulu may again serve as an example of the primitive form of sacrifice, which, according to express native statement, consists in leaving the offering for an interval, *during which* the deity receives the invisible, and *after which* the worshippers eat the visible, portion. [Callaway, *op. cit.*, p. 11.] (Cf. the ghostly meal, "tamani", leaving the visible food intact upon the grave, in Melanesia, Dr. Codrington, *op. cit.*, p. 283.)
 >
 > Whether the cathartic rite of "Sin Eating" has any essential connection with this tribal sacrament would seem to be a most interesting point, and would perhaps touch the question of the ethical element in savage religion ; but all that I would ask here is whether Mr. Hartland is justified in treating all the customs and rites he collects, as essentially related, and therefore as evidence for a common cause ; and whether the cause of some of these rites is not a far deeper and more significant one, than the idea which he suggests ?
->
-> Ritual celebrated among many peoples, by the kinsmen, at the death of a member of the kin, in survival or *in situ*, such as Mr. Hartland quotes, seems to me to demand a cause lying nearer to the principles of primitive tribal life, and to the primitive religious need of the individual tribes- man, than a device occasionally resorted to for increasing physical or mental acquirements. Moreover, is the usage restricted to the cases of powerful or respected members of the kindred? Since Mr. Hartland finds in this usage the origin of practices which are identical in every detail with the sacramental meals participated in by the spirits of dead kinsmen and their surviving kindred, these his argument must also claim to have explained. What would Professor Robertson Smith say to this theory of the origin of the primitive sacramental meal?
->
-> If the cases quoted by Mr. Hartland of the consumption
->
-> of the body of the kinsman are essentially related to the
->
-> rites he seeks to explain, is it not only as the accidental
->
-> condition which the universal ritual of the primitive tribal
->
-> sacrament sometimes assumes?
+
+They also suggest the need for an alternative interpretation to the one Hartland offered:
+
+> Ritual celebrated among many peoples, by the kinsmen, at the death of a member of the kin, in survival or *in situ*, such as Mr. Hartland quotes, seems to me to demand a cause lying nearer to the principles of primitive tribal life, and to the primitive religious need of the individual tribesman, than a device occasionally resorted to for increasing physical or mental acquirements. Moreover, is the usage restricted to the cases of powerful or respected members of the kindred? Since Mr. Hartland finds in this usage the origin of practices which are identical in every detail with the sacramental meals participated in by the spirits of dead kinsmen and their surviving kindred, these his argument must also claim to have explained. What would Professor Robertson Smith say to this theory of the origin of the primitive sacramental meal?
+
+I don't know if Professor Robertson Smith took up the bait and responded to this appeal...
+
+The correspondent signs off with their own simpler explanation for a common origin:
+
+> If the cases quoted by Mr. Hartland of the consumption of the body of the kinsman are essentially related to the rites he seeks to explain, is it not only as the accidental condition which the universal ritual of the primitive tribal sacrament sometimes assumes?
 >
 > [SOME GREEK SCRIPT]
 >
@@ -307,15 +322,21 @@ It seems from a report in the the next edition of *Folklore*, of March, 1893, [V
 >
 > The Secretary read a short paper by Mrs. Murray Aynsley on "The Sin Eater", and a discussion followed, in which the Rev. C. Swynnerton and Mr. E. S. Hartland took part.
 
-As to what the topic of the paper might have been, or as to why Mrs. Murrary Aynsley was not present or able to read the paper at the meeting herself, a letter apparently dated in July 1892, but not published until the September, 1893, issue of *Folklore*, [Volume IV, No. III, p398-399](https://archive.org/details/folklore04folkuoft/page/398/mode/2up?q=hartland), from one *"H. G. M. Murray-Aynsley"* of *"Srinagar, Kashmir"*, appears to be claiming that several traditions spanning the Mediterranean to Central Asia all bear some thematic relationship to that of the sin-eater tradition:
+As to what the topic of the paper might have been, or as to why Mrs. Murray Aynsley was not present or able to read the paper at the meeting herself, a letter apparently dated in July 1892, but not published until the September, 1893, issue of *Folklore*, [Volume IV, No. III, p398-399](https://archive.org/details/folklore04folkuoft/page/398/mode/2up?q=hartland), from one *"H. G. M. Murray-Aynsley"* of *"Srinagar, Kashmir"*, might provide some clues.
+
+In it, Mrs. Murray-Aynsley appears to be claiming that several traditions spanning the Mediterranean to Central Asia all bear some thematic relationship to that of the sin-eater tradition.
+
+She begins by quoting Dr Schuyler, whose *Turkistan* we have seen mentioned briefly, several times before in our journey in the context of the *iskachi*.
 
 ```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Murray-Aynsley,  H. G. M.
 :name: FLKLR:correspondence:1892:aynsley
 ```
-> The Sin-Eater. —
+> The Sin-Eater.
 >
-> In his work on Turkestan, [Vol. ii, p. 28.] Dr. Schuyler speaks of a custom existing in that country which is worth noting in connection with Mr. Sidney Hartland's paper on this subject in the June number of FOLK-LORE, 1892. "Life in Ach Kûrgân", Dr. S. says, "was rather dull, amusement there was none, all games being strictly forbidden. Such things as jugglery, dancing, and comic performances are, I am told, forbidden in the Kanate, the licentious Khan having seen the error of his ways, and having put on, for his people at least, the semblance of virtue. Of praying there was very little ; occasion- ally in the afternoon at sunset some few pious individuals would spread out a rug and make their supplications to Allah. One poor old man, however, I noticed, who seemed constantly engaged in prayer. On calling attention to him, I was told that he was an *iskachi*, a person who makes his living by taking upon himself the sins of the dead, and thenceforward devoting his life to prayer for their souls. He corresponds to the sin-eater of the Welsh border."
->
+> In his work on Turkestan, [Vol. ii, p. 28.] Dr. Schuyler speaks of a custom existing in that country which is worth noting in connection with Mr. Sidney Hartland's paper on this subject in the June number of FOLK-LORE, 1892. "Life in Ach Kûrgân", Dr. S. says, "was rather dull, amusement there was none, all games being strictly forbidden. Such things as jugglery, dancing, and comic performances are, I am told, forbidden in the Kanate, the licentious Khan having seen the error of his ways, and having put on, for his people at least, the semblance of virtue. Of praying there was very little ; occasionally in the afternoon at sunset some few pious individuals would spread out a rug and make their supplications to Allah. One poor old man, however, I noticed, who seemed constantly engaged in prayer. On calling attention to him, I was told that he was an *iskachi*, a person who makes his living by taking upon himself the sins of the dead, and thenceforward devoting his life to prayer for their souls. He corresponds to the sin-eater of the Welsh border."
+
+ Mrs. Murray-Aynsley then describes a variety of India behaviours she has apparently observerd that relate in some way to "sin processing":
+
 > In Kashmir, on the borders of Central Asia, where the present writer now is, it is the *living*, apparently, who need a *sin-eater*.
 >
 > We have just passed through a terrible visitation of cholera ; when the outbreak was at its worst, the deaths in the native city rose to nearly three hundred daily. An order then came from the Maharaja (who was at Jamu, his second capital [The chief town of a fief belonging to the Maharaja of Kashmir's progenitors for two or more generations before Kashmir was given over to that family]) that a couple or more bulls were to be bought, and driven for some hours round and about the streets and the lanes of the city, and then turned out loose to wander at will, in order to remove the pestilence.
@@ -323,12 +344,14 @@ As to what the topic of the paper might have been, or as to why Mrs. Murrary Ayn
 > It was accordingly done, and the effect this would seem to have had on the minds of the people was something marvellous ; the seizures diminished, and the death-rate suddenly declined in a most marked manner. It would appear that the Kashmiris believed either that these animals bore away the disease, or the sins and shortcomings which had brought this scourge upon them.
 >
 > At Jamu itself, some years ago, the writer saw numerous ownerless cattle wandering about the native city and its environs, and was then told that these were animals which, by a particular ceremony, had had the sins of certain persons laid upon them; they looked sleek and well-fed, living most probably upon the charity of the general public.
->
-> The notion regarding the *sin*-eater in Southern Italy becomes even more directly personal, as the following anecdote serves to show. The writer had it from a Roman lady who had then resided some years in Naples, she knew one of the parties concerned, and spoke of it as a singular piece of superstition. A family of her acquaintance had settled themselves down in an apartment in that city ; not long afterwards another flat in the same house was taken by a lady whom the first-comers believed possessed the *Mal' Occhio*= — the Evil Eye. They were in despair, and, in order to avert any bad consequences which might result to themselves, they caused a bull to be brought to the house, and had it driven through the entrance archway, and led round and round the courtyard for some hours. There seems a remarkable connection between the sin-eater of Central Asia and of the Welsh border, the bull of Kashmir, and the Neapolitan custom.
+
+She also claims witnessing hearsay of the sin-eater tradition in Italy:
+
+> The notion regarding the *sin*-eater in Southern Italy becomes even more directly personal, as the following anecdote serves to show. The writer had it from a Roman lady who had then resided some years in Naples, she knew one of the parties concerned, and spoke of it as a singular piece of superstition. A family of her acquaintance had settled themselves down in an apartment in that city ; not long afterwards another flat in the same house was taken by a lady whom the first-comers believed possessed the *Mal Occhio* — the Evil Eye. They were in despair, and, in order to avert any bad consequences which might result to themselves, they caused a bull to be brought to the house, and had it driven through the entrance archway, and led round and round the courtyard for some hours. There seems a remarkable connection between the sin-eater of Central Asia and of the Welsh border, the bull of Kashmir, and the Neapolitan custom.
 >
 > H. G. M. Murray-Aynsley.
 >
-> *Srinagar, Kashmir, July 28, 1892.* 
+> *Srinagar, Kashmir, July 28, 1892.*
 
 Returning back to 1892/3, Hartland's response to Godden's letter in the December, 1892, issue also appeared in *Folklore* [Vol IV, no. I, p106](https://archive.org/details/folklore04folkuoft/page/106/mode/2up?q=SACRAMENTS), dated March, 1893, and is brief and to the point:
 
@@ -342,17 +365,9 @@ Returning back to 1892/3, Hartland's response to Godden's letter in the December
 >
 > E. Sidney Hartland.
 
-A second piece of related correspondence appers on the same page, directly following Hartland's letter:
+So it seems that more evidence has recently come to hand, although what that evidence is not revealed. Instead, it appears to be something we must wait for...
 
-> MR. HARTLAND'S "SIN-EATER", AND PRIMITIVE SACRAMENTS.
->
-> To the Editor of FOLK-LORE.
->
-> Sir, — Miss Godden's wide reading and rapid induction have anticipated a conclusion which, when I wrote the paper on "The Sin-Eater", had definitely formed itself in my mind, but which I did not feel justified in enunciating for want of evidence. The evidence, however, is accumulating, and I hope to deal with it ere long. Meantime, it Miss Godden would be good enough to direct my attention to any facts of special interest in this connection she would be conferring a favour upon me.
->
-> E. Sidney Hartland.
-
-Just over a year after Hartland's paper was published, in *Folklore* [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
+In the meantime, additional evidence was to find its own way into the pages of *Folklore*. Just over a year after Hartland's paper was published, in [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
 
 ```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Hope, Gertrude
 :name: FLKLR:correspondence:1892:hope)
@@ -369,9 +384,13 @@ Just over a year after Hartland's paper was published, in *Folklore* [Volume IV 
 > The lady, who gave ms the particulars, arrived rather early, and found the bearers enjoying a good lunch in the only downstairs room. Shortly afterwards the coffin was brought down and placed on two chairs in the centre of the room, and the mourners having gathered round it the service proceeded. Directly the minister ended, the woman in charge of the arrangements poured out four glasses of wine and handed one to each bearer present across the coffin, with a biscuit called a "funeral biscuit".
 >
 > One of the bearers being absent at the moment, the fourth glass of wine and biscuit were offered to the eldest son of the deceased woman, who, however, refused to take them, and was not obliged to do so.
->
-> The biscuits were ordinary sponge biscuits, usually- called "sponge fingers" or "lady's fingers". They are, however, also known in the shops of Market Drayton as "funeral biscuits".
->
+
+The nature of the biscuits is then commented upon:
+
+> The biscuits were ordinary sponge biscuits, usually called "sponge fingers" or "lady's fingers". They are, however, also known in the shops of Market Drayton as "funeral biscuits".
+
+A link to Wales, and related Welsh traditions, is noted in closing:
+
 > The minister, who had lately come from Pembrokeshire, remarked to my informant that he was sorry to see that pagan custom still observed. He had been able to put an end to it in the Pembrokeshire village where he had formerly been.
 >
 > July 27, 1893.
