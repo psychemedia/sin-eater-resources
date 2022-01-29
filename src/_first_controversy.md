@@ -1,10 +1,16 @@
 
+```{index} ! double: First Controversy ; sin eater
+:name: firstcontrov:1875
+```
 # The First Controversy, 1875
 
 The response to the article in *Blackwood's Magazine*, and in particular the mention of "the sin-eater", begins with the *Vol 8 Iss 182* edition of *The Academy*, dated [November 6th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-06_8_182/page/478/mode/2up?q=legends), p. 478:
 
 > AMONG curious customs and superstitions noticed in an article in *Blackwood* on the "Legends and Folk-lore of North Wales" there is one the singularity of which is heightened by the statement that it still survives in North and South Wales and the Border. At a funeral, "a hireling who lives by such services has handed over to him a loaf of bread, a maple bowl full of beer or milk, and a sixpence, in consideration of which he takes upon him all the sins of the defunct, and frees him or her from walking after death." The scapegoat is currently called a "Sin-eater."
 
+```{index} ! triple: First Controversy ; Silvan Evans, D. ; responses, initial
+:name: firstcontrov:SilvanEvans:1875-11-13
+```
 ## An Initial Response, Silvan Evans, 1875-11-13
 
 In the following issue ([Vol 8 Iss 183, November 13th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-13_8_183/page/504/mode/2up?q=legends)), the first piece of correspondence appears, from a certain *D. SILVAN EVANS*, on p.506. Silvan Evans had presumably picked up notice of the item in the previous edition of the *Academy*:
@@ -68,7 +74,6 @@ We also get a first hint here that Askew Roberts, at least, has a good idea abou
 ```{index} single: Roberts, Askew ; obituary
 :name: AskewRoberts
 ```
-
 `````{admonition} Askew Roberts: biography, the Oswestry Advertizer, and Bye-Gones
 :class: dropdown
 
@@ -159,6 +164,7 @@ The Bye-Gones obituary also describes the sentiments expressed in leading column
 > The announcement of Mr Askew Roberts's death has caused great sorrow amongst the London group of "Old Oswestrians." In many ways, notably in connection with the establishment of the pleasant Reunion of recent years, Mr Roberts had taken a warm and appreciative interest in their welfare. To not a few of them he had ever been a kind mentor and a wise friend, and his loss will be severely felt by them for many years to come. As the editor of "Bye-Gones" he was known to a much wider circle here. His faithfulness to the work he had taken up cannot be better illustrated than by the fact that only a few days before his death he wrote a long letter to Mr W. Charles Evans concerning the shield and arms of the Holbeach family, which Mr Evans had come across in Rochester Cathedral.
 ```
 
+(FunnyTaleShrewsbury)=
 ```{admonition} A Funny Tale of Shrewsbury
 :class: dropdown
 > https://archive.org/details/gossipingguidet01woodgoog/page/n50/mode/2up?q=legend Shrewsbury - Turning past the new Post Office, close to the site of the old High Cross, where the Welsh Prince, Dafydd ap Gruffydd, brother to Llewelyn, is said to have been hungand quartered, we descend Pride Hill, with a turreted market hall before ns. The first turn to the left leads up the quaint street called the Double Butcher Row ; the next, a little further down the Hill, takes us past some fine half-timbered buildings (" Ireland's Mansion " on the right) to The Square, with the picturesque Market House of the 16th century, one of the finest buildings of the kind to be seen in the country.    It Is said that at one time the hall was rented by the Company of Drapers, who there bought flannel which had been brought to the town by Welsh weavers, and, according to a local legend, the mode of purchase was novel— and profitable. "A drum revolving on an axle was used for measuring the flannel. This drum, exactly a yard in circumference, was turned by a handle, and each revolution of the handle was counted as a yard, without any consideration for the gradual Increase in the diameter of the drum by the successive folds of the article measured thereon " According to the story, the Welshmen were not astute enough to discover the fraud for some time, but when they found it out they deserted Shrewsbury market, and so It came to pass thtt the tfadt tn Welsh flannel was extinguished)
@@ -196,6 +202,9 @@ In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/209291
 
 Askew Roberts' letter to the *Academy* is also republished in *The Cambrian News and Merionethshire Standard*, published on [November 26th, 1875](https://newspapers.library.wales/view/3307690/3307699/76/sin-eater), p9, along with the elaboration of the reference in Hone's *Year Book*.
 
+```{index} ! triple: First Controversy ; Blackwood Author ; responses, initial
+:name: firstcontrov:blackwoodauthor:1875-11-21
+```
 ## The Blackwood Author Replies, 1875-11-27
 
 A week after the first response to Silvan Evans' letter in the Academy, and two weeks after that letter appeared, in *Vol 8 Iss 185* dated [November 27th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-27_8_185/page/554/mode/2up?q=sin+eater), p555, the anonymous *Blackwood* author goes on the defensive in their response – their *retort* - to the Reverend, addressing him almost as if he were a poorly read schoolboy who hadn't done his prep:
@@ -346,6 +355,9 @@ Several other remarks appear then to have been made — *"Mr Edkins and the Pres
 
 This appears to have been Mr Jeremiah's only contribution to the sin-eater debate unless he appears elsewhere under a pseudonym.
 
+```{index} ! triple: First Controversy ; Silvan Evans, D. ; responses, further
+:name: firstcontrov:SilvanEvans:1876-02-05
+```
 ## Silvan Evans Responds to the Evidence, 1876-02-05
 
 After a short break in correspondence, presumably as he attempted his researches,  Silvan Evans wrote again to the *Academy* a month into the new year with a missive that appears in [*Vol 9 Iss 196*](https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+) published February 2nd, 1876, p125-6.
@@ -430,6 +442,13 @@ As Silvan Evans points out,
 
 These letters, by *"Rheidiol"*, are presumably by that same Mr. John Rowlands.
 
+```{index} see: Rheidiol ; Rowlands, John
+```
+```{index} see: Giraldus ; Rowlands, John
+```
+```{index} single: Rowlands, John ; biography
+:name: biog:JohnRowlands
+```
 `````{admonition} John Rowlands, aka. *Rheidiol*, aka. *Giraldus*
 :class: seealos dropdown
 
@@ -444,6 +463,9 @@ John Rowlands (Giraldus), 21 February 1894, Evening Express, Lee Brothers, Cardi
 
 On suffering from a stroke in 1884, friends and colleagues rallied around to crreate a testimonial for him as reported in the *Western Mail* of [June 19th, 1884](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000104/18840619/006/0002). The report does not mention his role in the first sin-eater controversy, although it does note that he "wrote a good deal about ancient welsh marriage and funeral customs".
 
+```{index} single: Rowlands, John ; Giraldus testimonial
+:name: biog:JohnRowlands:testimonial
+```
 > THE GIRALDUS TESTIMONIAL
 >
 > On Wednesday afternoon a public meeting was held at the Town-hall, Cardiff, to consider measures for raising a testimonial to the well known writer "Giraldus" (Mr. John Rowlands).
@@ -550,6 +572,9 @@ Over in *Bye-gones*, the running commentary continued in the [February 9th, 1876
 
 The same review appeared in *Cambrian News and Merionethshire Standard* dated [February 18th, 1876](https://newspapers.library.wales/view/3307811/3307818/66/sin%20eater), p7.
 
+```{index} triple: First Controversy ; Blackwood Author ; responses, further
+:name: firstcontrov:BlackwoodAuthor:1876-02-12
+```
 ## The Blackwood Author Snaps Back, 1876-02-12
 
 In the *Academy*, Vol 9 Iss 197, published February 12th, 1876, p144, a passing mention to Lady Verney's article:
@@ -632,6 +657,9 @@ As a postscript, the *Blackwood* author appears to give authority to Aubrey in W
 
 At this point, you might imagine some readers imploring Silvan Evans "don't feed the troll", whilst others were anticipating how withering, or weary, his response might be.
 
+```{index} triple: First Controversy ; Silvan Evans, D. ; responses, further
+:name: firstcontrov:BlackwoodAuthor:1876-02-26
+```
 ## Silvan Evans Restates His Position, 1876-02-26
 
 Having held off replying for one week, Silvan Evans picked up his pen to respond, yet again, in the *Academy* of [February 26th, 1876](https://archive.org/details/sim_academy-and-literature_1876-02-26_9_199/page/196/mode/2up?q=sin+eater), p197-8.
@@ -810,7 +838,7 @@ The barrister looks around the court in wondering fashion, arms outstretched, pa
 
 > More to the point is the admission that, notwithstanding his frequent travels "over most of the Principality" he has "failed to acquire its language,"
 
-Then staes directly into the eyes of the defendant, putting it forcefully to him that even with that heritage, he knows nothing of the language? Nothing of its customs?
+Then stares directly into the eyes of the defendant, putting it forcefully to him that even with that heritage, he knows nothing of the language? Nothing of its customs?
 
 > that language being the very key to its customs, legends, and folk-lore. His travels, therefore, must resemble those of a blind man in quest of the beautiful.
 
