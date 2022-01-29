@@ -136,7 +136,8 @@ In an obituary for the Rev. James Davies, M.A., Prebendary of Hereford, appearin
 
 ```
 
-```{index} single: Red Dragon; sin-eater review, 1883
+```{index} ! triple: Roberts, Askew ; Red Dragon; sin-eater review
+:name: RDDGN:sineaterreview:1883-III-4
 ```
 
 The [April, 1883, edition, vol. III, no. 4](https://journals.library.wales/view/2062893/2064485/92#) of the *Red Dragon* trailed the promised article on the sin-eater a little more:
@@ -228,6 +229,9 @@ In the [May 22nd, 1883](https://newspapers.library.wales/view/4481726/4481729/31
 >
 > In one of the literary and art notes of the *Red Dragon* for March reference was made to an extraordinary old Welsh custom, said by the Rev. Paxton Hood in his book on "Christmas Evans," to bo observed even now in tho secluded Vale of Cwmaman, in Carmarthenshire. In the May issue of the magazine Mr. Askew Roberts, the editor of the *Oswestry Advertiser*, an accomplished antiquarian, has an admirable paper on the subject, we take tho liberty of reproducing. It has been appropriately entitled, The Sin Eater. `[The complete article was then reprinted.]`
 
+```{index} triple:  Roberts, Askew ; Red Dragon; sin-eater review
+:name: RDDGN:sineaterreview:1883-III-6
+```
 Back in the *Red Dragon*, in the [Vol III No. 6, June, 1883](https://journals.library.wales/view/2062893/2064683/92#?xywh=-1146%2C-471%2C4503%2C2970) edition, p563, Askew Roberts provides some further clarification of certain points:
 
 > Since the publication of our last number Mr. Askew Roberts writes as follows: — The question has been asked if some of the funeral customs within the memory of those now living do not point to a more pronounced ceremony on the part of our forefathers ? One writer states —but only on hearsay —that last century it was usual, when the corpse was brought out of the house, and laid upon the Elor, or bier, for the next of kin of the feminine gender "to give over the coffin a number of white loaves, in a great dish, and sometimes a Welsh cheese with a piece of money stuck in it, to certain poor persons, after which a cup of drink was presented, also over the coffin, of which a little was to be drunk immediately. When this was done the minister knelt down and said the Lord's Prayer." No one has corroborated this from the definite information of father or grandfather; but they have spoken of a more modified form of, perhaps, the same ceremony, within their own recollection. Less than half a century ago it was usual at every "respectable" funeral to have made up into packets a couple of bits of cake—one of rich plum, and the other plain—wrapped in black-edged paper and sealed with black wax. One of these was presented to each of the invited guests, who took it home unopened. At funerals of less pretensions a "large round biscuit, of the size and form of an ordinary tea-saucer inverted, took the place of the packet of cake. These were 'served' to each of the parties attending the funeral (by one of the most respectable men present) on a tray called the 'Hand-board,' or 'Server.' The ceremony was gone through just before 'Raising the Body.' After this the 'Tankard' of hot-spiced ale was offered to each person present. This was made of pewter, and had a lid: everyone was expected to take a sip." In narrating this in Bye-gones of May 17, 1882, the writer also called attention to a note in the history of the parish of Llanfechain, published in *Mont: Coll:* by the Rev. Maddock Williams in 1872. He became rector in 1851, and found it was usual to allow one of the sacramental vessels (a silver flagon presented to the parish in 1691) to be used in place of the customary tankard— a custom he at once denounced, to the no small chagrin of the parishioners. How far these customs form a lingering remnant of the Sin Eater, your readers must judge for themselves.
