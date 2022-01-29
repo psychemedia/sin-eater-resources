@@ -2,9 +2,15 @@
 
 Following the publication of Moggridge's comments in 1852, and the immediate response to it, I have found few mentions of the tradition until the 1870s.
 
-In Thomas Roscoe's [*Wanderings and excursions in South Wales, with the scenery of the River Wye*](https://archive.org/details/wanderingsandex01roscgoog/page/n80/mode/2up?q=obsolete) of 1854, we find at p48-51 a referernce to the tradition of corpse candles, the *Cwn Annwn* and the *Cyoewraeth*:
+In Thomas Roscoe's [*Wanderings and excursions in South Wales, with the scenery of the River Wye*](https://archive.org/details/wanderingsandex01roscgoog/page/n80/mode/2up?q=obsolete) of 1854, we find at p48-51 a referernce to the tradition of corpse candles (*Canwyll Corph*), the *Cwn Annwn* and the *Cyoewraeth*:
 
-```{admonition} Corpse Candles (Roscoe citing *Mountain Decameron*)
+```{index} see: Canwyll Corph ; Corpse Candle
+```
+```{index} seealso: Corpse Candle ; Canwyll Corph
+```
+```{index} single: Corpse Candle ; manifestation
+```
+```{admonition} Corpse Candles (Roscoe, 1854)
 :class: dropdown
 
 > We are apt to marvel at accounts of odd ceremonies and customs in other lands, without knowing half the peculiar habits and ancient rites still practised within the boundaries of our own country ; many of which, especially among the Welsh, may be traced to the highest antiquity.
@@ -12,10 +18,16 @@ In Thomas Roscoe's [*Wanderings and excursions in South Wales, with the scenery 
 > The familiar superstitions of Wales are becoming gradually fainter and fainter ; but it is notorious that in this county they were more rife than in almost any other in Wales, and that not only amongst the uneducated portion of its inhabitants, but including those who, from their rank in society, might have been considered superior to the delusions of their age. John Lewis, Esq., a magistrate, residing near Aberystwith, writing, in the year 1656, to a clergyman, relates several stories of apparitions, and the *Canwyll Corph*, or corpse candles, with a minuteness and simplicity which show his entire belief in his narratives. The Rev. John Davis, a minister, in Cardiganshire, has written down the order which seems to regulate this superstition : — "We call them" saith he, "corpse candles, not that we see anything besides the light, but yet it resembles a material candlelight, as much as eggs do eggs, only they sometimes appear and instantly disappear : for, if one comes near them, or on the way against them, unto him they vanish ; but presently appear behind him, and hold on their course. If it be a little candle, pale and bluish, then follows the corpse of an abortive, or some infant. If a big one, then the corpse of some one come to age. If two, three, or more, great and little, be seen together, then so many and such corpse will follow together. If two candles come from divers places, and be seen to meet, the corpse will do the like. If any of these candles seem to turn out of the way or path that leads to the church, the following corpse will be found to turn in some place, for the avoiding some dirty lane, plash, &c."
 ```
 
+```{index} single: Cwn Annwn ; manifestation
+```
+
 ```{admonition} *Cwn Annwn* (Roscoe citing *Mountain Decameron*)
 :class: dropdown
 
 > The author of the *Mountain Decameron* gives some graphic descriptions of several other popular superstitions, which I shall transcribe. "The superstitions of Wales form no part of the popular *poetry* of our age; yet there exist many grandly imaginative. How few know anything about our *Cwn Annwn,* [*Annwn*— the *bottomless abyss ; Hell*, in the ancient sense, as the "bourn" of all spirits.] that is, 'Dogs of the sky,' but which their office, as assigned, would warrant us to call the *Bloodhounds of Souls!* by earthly analogy. Sudden fires trail along the heavens at the moment of a dying person's body and soul taking leave, and that light is no other than that fire which each of that terrible pack always has following after like a chain ; and sounds, like the yellings of an earthly hunt, may be heard in the dumbness of midnight, and which hunting is no less than the chase of the parting soul by these fiends of the sky, as it flies towards heaven's gate before them, — the flight for nothing less than *eternal* life or death! What superstition affecting *mortal* life and its brevity, and its briefer pains, can compare in terror, in wildness, or sublimity with this ? With these howlings and huntings for immortal souls, these wildfires trailed by demon bloodhounds, across all the deep-blue *chase* of the midnight heavens, and the issue of this dread hunting never revealed to the mourner, upgazing from the gate of the house of mourning ?
+```
+
+```{index} single: Cyoewraeth ; manifestation
 ```
 
 ```{admonition} *Cyoewraeth* (Roscoe citing *Mountain Decameron*)
@@ -93,6 +105,9 @@ https://en.wikipedia.org/wiki/Once_a_Week_(magazine)
 
 The same tale, similarly credited, also appears on page 3 of *The Welshman* of [December 12th, 1862](https://newspapers.library.wales/view/4351919/4351922/10/), and in the *Hereford Journal* on the same date as the *Eddowes' Journal piece*.
 
+```{index} single: Bye-Gones ; launch, October 4th, 1871
+:name: BYGNS:launch
+```
 ## Introducing *Bye-Gones*, October 4th, 1871
 
 A new column, which we might reasonably turn to in search of for further stories, appeared in the Oswestry Advertiser, as well as under its own banner, *Bye-Gones*, on [October 4th, 1871](https://journals.library.wales/view/2092910/2092920/#?xywh=-22%2C192%2C2833%2C1868). It was initially edited by one John Askew Roberts.
