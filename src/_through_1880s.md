@@ -19,9 +19,6 @@ Of these full length works, two publications perhaps stand out in particular: Pa
 
 ## Around and About
 
-```{index} Eddowe's Journal
-```
-
 In Salopian Shreds and Patches in Eddowe's Journal of [May 12th, 1880](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18800512/132/0006), p6, Bagford's observations on Aubrey are noted and comment is passed on no mention of salt.
 
 ```{admonition} *Eddowe's Journal*, May 12th, 1880
@@ -201,7 +198,7 @@ A response appeared in the [June 6th, 1885](https://newspapers.library.wales/vie
 
 ```
 
-A further response in the edition of July, 25th, 1885](https://newspapers.library.wales/view/3422735/3422740/122/), p5, attempted to develop the scapegoat idea a little further. The answer includes evidence from *"a trusted authority"* that appears to be the *Once a Week* quotation used in *Eddowes' Journal* of  [December 12th, 1862](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001467/18621210/017/0002):
+A further response in the edition of [July, 25th, 1885](https://newspapers.library.wales/view/3422735/3422740/122/), p5, attempted to develop the scapegoat idea a little further. The answer includes evidence from *"a trusted authority"* that appears to be the *Once a Week* quotation used in *Eddowes' Journal* of  [December 12th, 1862](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001467/18621210/017/0002):
 
 > ANSWERS.
 >
@@ -299,6 +296,9 @@ For Curtis, the belief still appeared to be a contemporary one, around the 1880s
 
 > An old woman of Laugharne said to me that she continually saw those lights. It seems from all I hear that they are seen as much as ever. I must give this singular one : A gentleman belonging to a county family of Pembrokeshire, was some years ago returning in his carriage to his home in Tenby from the railway. He was inside. With the coachman sat a tenant of the lady from whom I had this story. Between Narberth and Templeton, they perceived through the darkness of the evening a black mass moving towards them. As it approached they saw it was a funeral. The horses now plunged and reared ; the carriage was overturned ; the coachman and the tenant thrown over the hedge into the field, much bruised ; the gentleman escaped without injury. My friend who related this had it from her tenant himself.
 
+```{index} single: Thiselton Dyer, T. F. ; Domestic Folk-lore, 1881
+```
+(DFKLD)=
 ## *Domestic Folk-lore*, T. F. Thiselton Dyer, 1881
 
 In [*Domestic Folk-lore*](https://archive.org/details/b24884558/page/n4/mode/2up?q=sin-eater), 1881, the rather splendidly named Revered Thomas Firminger Thiselton Dyer also describes several traditions relating to death and burial, including the traditional use of salt (p59-63):
@@ -337,11 +337,16 @@ Finally, a traditional belief, the echoes of which may provide us with routes in
 
 > From time immemorial there has been a popular prejudice among the inhabitants of rural villages against "burial without the sanctuary." This does not imply in unconsecrated ground, but on the north side of the church, or in a remote corner of the church-yard. The origin of this repugnance is said to have been the notion that the northern part was that which was appropriated to the interment of unbaptised infants, excommunicated persons, or such as had laid violent hands upon themselves. Hence it was generally known as "the wrong side of the church." In many parishes, therefore, this spot remained unoccupied while the remaining portion of the churchyard was crowded. White, in his "History of Selborne," alluding to this superstition, says that as most people wished to be buried on the south side of the churchyard, it became such a mass of mortality that no person could be interred "without disturbing or displacing the bones of his ancestors." A clergyman of a rural parish in Norfolk says : — "If I were on any occasion to urge a parishioner to inter a deceased relative on the north side of the church, he would answer me with some expression of surprise, if not of offence, at the proposal, 'No, sir, it is not in the sanctuary.'"
 
+```{index} single: Britten, James ; editor, Remaines of Gentilisme, 1881
+```
+```{index} single: Aubrey, John ; Remaines of Gentilisme, ed. J. Britten, 1881
+```
+(AUBGT)=
 ## John Aubrey, *Remaines of Gentilisme*, 1881
 
 A long time in the coming, 1881 also saw the publication by *The Folk-Lore Society* of [*Remaines of Gentilisme and Judaisme*](https://archive.org/details/remainesgentili01aubrgoog/page/n12/mode/2up) by John Aubrey, "Printed from Lansdowne manuscript 231 in the British Museum", and edited by James Britten.
 
-Some of Aubrey's "observations" on occult and supernatual matters had been previously published as [*Miscellanies, Collected by J. Aubrey, Esq.](https://archive.org/details/miscellanies00aubr/page/n1/mode/2up), "printed for Edward Castle, next Scotland Yard Gate, by Whitehall", in 1696, but that collection had made no mention of that lamentable fellow from the Rosse highway. This collection undoubtedly contributed to later opinions of him regarding his credulity.
+Some of Aubrey's "observations" on occult and supernatual matters had been previously published as [*Miscellanies*, Collected by J. Aubrey, Esq.](https://archive.org/details/miscellanies00aubr/page/n1/mode/2up), "printed for Edward Castle, next Scotland Yard Gate, by Whitehall", in 1696, but that collection had made no mention of that lamentable fellow from the Rosse highway. This collection undoubtedly contributed to later opinions of him regarding his credulity.
 
 But now for the first time we have a collection that provides us us a relatively direct form access to Aubrey's text without having to visit the British Library and view the original manuscript.
 
@@ -479,6 +484,9 @@ Included in the work, at the end of Chapter VII., p181-2, on *"Pre-Celtic Ethnol
 >
 > Our last example of these abnormal usages shall be taken from the superstition of the Sin-eater, which certainly prevailed in Herefordshire, though it may be doubtful whether it extended to the neighbouring parts of Wales. "In the County of Hereford," said Aubrey, "it was an old custom at funerals to hire poor people who were to take upon them the sins of the person deceased. The manner was that, when the corpse was brought out of the house and laid upon the bier, a loaf of bread was brought out and delivered to the Sin-eater over the corpse, as also a Mazard-bowl of maple-wood full of beer which he was to drink up, and sixpence in money, in consideration whereof he took upon him *ipso facto* all the sins of the defunct and freed him or her from walking after they were dead." [Aubrey, in the "Remains of Gentilisme," published by the Folk-lore Society; Sikes, British Goblins, 325; Hone, Year-book, 858. "I remember," says Aubrey, "one of these Sin-eaters, he was a long, lean, ugly, lamentable poor rascal, and lived in a cottage on Ross highway. This ceremony, though rarely used in our days, yet by some people was observed in the strictest days of the Presbyterian government."] Mr. Wirt Sikes in his work upon Welsh Folklore, cited an apposite passage from Schuyler's Travels in Turkestan [Turkestan, ii. 28.]: "One poor old man seemed constantly engaged in prayer. On calling attention to him, I was told that he was an '*iskatchi*' a person who gets his living by taking on himself the sins of the dead, and thenceforth devoting himself to prayer for their souls : he corresponds to the Sin-eater of the Welsh border."
 
+```{index} single: Notes & Queries ; correspondence, 1883
+:name: NANDQ:1883
+```
 ## Notes & Queries, 1883
 
 A couple of years after *Christmas Evans* was first pubished, an eagle-eyed, if tardy, correspondent to *Notes and Queries*, [Vol 7 Iss 159, January 13th, 1883](https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin), p25, also picked up on the reference and provided a new note on the matter, direclty quoting Paxton Hood and perhaps unaware of previous mentions of the tradition in earlier volumes of *Notes a& Queries*, although cognisant of similar other traditions reported elsewhere.
@@ -592,8 +600,14 @@ A correspondent from London replied in the edition of [October 30th, 1891](https
 >
 > J. C. MANNING. London.
 
+```{index} single: Bye-Gones ; articles, 1882-3
+:name: BYGNS:1882-3
+```
 ## Bye-Gones, 1882-3
 
+```{index} single: Bye-Gones ; Popish Ceremonies Existing in Wales
+:name: BYGNS:popish
+```
 A series of articles on *Popish Ceremonies Existing in Wales*, over several issues of Bye-Gones ([May 17th, 1882, p64-5](https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800), [June 7th, 1882](https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235), [July 5th, 1882](https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801), [July 12th, 1882](https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639)) describes various Catholic rituals.
 
 The first installment opens with claim of the continued practice of Catholic ceremonies, and goes on to offer a consideration of death and burial rites:
@@ -657,7 +671,7 @@ Sometimes you just have to wonder about the propensity to just "retweet" based o
 
 *There do not appear to be any archived copies of the Oswestry Avertiser available for 1858 in the British Newspaper Archive.*
 
-Correspondence then continued in the May 9th, 1883 issue](https://archive.org/details/byegonesrelating1882unse/page/232/mode/2up?q=sin), pp233-4
+Correspondence then continued in the [May 9th, 1883 issue](https://archive.org/details/byegonesrelating1882unse/page/232/mode/2up?q=sin), pp233-4
 
 > REPLIES.
 >
@@ -667,7 +681,7 @@ Correspondence then continued in the May 9th, 1883 issue](https://archive.org/de
 >
 > R. Rosse Tewk, B.A.
 
-```{admonition} Revd. Maddock Williams in *Montgomershire Collections* ("Mont: Coll: vol v."), 1872
+```{admonition} Revd. Maddock Williams in *Montgomeryshire Collections* ("Mont: Coll: vol v."), 1872
 :class: dropdown
 
 https://books.google.co.uk/books?id=zMNAAQAAMAAJ&pg=PA235#v=onepage&q&f=false
@@ -680,7 +694,10 @@ Placing the quote by Revd. Maddock Williams in its full context in volume V of t
 > A curious fact connected with the large flagon must be here adverted to. It had long been the custom to permit it (the large flagon) to be used at funerals in the parish, for the purpose of handing out to each of the attendants on the occasion the spiced drink, wine or ale, as the case may be. Such a desecration of the sacred vessel was peremptorily resisted by the present Rector at his entrance upon the incumbency, but not without his incurring much obloquy, and giving much offence."
 ```
 
-## *Tours in Wales*, John Rhys, 1883
+```{index} single: Rhys, John ; editor, Tours in Wales, 1883
+```
+(TIWPN:1883)=
+## Peannant's *Tours in Wales*, Edited by John Rhys, 1883
 
 We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the [Sir John Rhys Memorial Lectures](https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/), first delivered in 1925, which are still predsented to this day, by way of his two volume work *"Celtic Folklore: Welsh and Manx"* in 1901.
 
@@ -692,7 +709,7 @@ https://en.wikipedia.org/wiki/Jesus_Professor_of_Celtic
 
 ```
 
-Rhys also published several other works, including [*Tours in Wales with notes, preface, and copious index*](https://archive.org/details/toursinwales03penn/page/150/mode/2up?q=funeral) of 1883.
+Rhys also published several other works, including an edited version of Pennant's [*Tours in Wales with notes, preface, and copious index*](https://archive.org/details/toursinwales03penn/page/150/mode/2up?q=funeral) of 1883.
 
 One section, at pp150-1, reviewed religious customs, perhaps notably *without* reference to the sin-eater tradition:
 
@@ -704,6 +721,9 @@ One section, at pp150-1, reviewed religious customs, perhaps notably *without* r
 >
 > In some places it was customary for the friends of the dead to kneel, and say the Lord's Prayer over the grave, for several *Sundays* after the interment; and then to dress the grave with flowers.
 
+```{index} single: Burne, Charlotte S. ; editor, Shropshire Folk-lore, 1883-5
+:name: SHFLK
+```
 ## Shropshire Folk-lore, 1883-1885
 
 With a [first part](https://archive.org/details/shropshirefolkl00burngoog/page/n20/mode/2up) published in 1883, a [second part](https://archive.org/details/shropshirefolkl00jackgoog/page/n150/mode/2up?q=sin-eater) in 1885, and a [third part](https://archive.org/details/shropshirefolkl01jackgoog/page/n14/mode/2up) in 1886, *Shropshire Folk-Lore – A Sheaf of Gleanings* was an edited work by Charlotte S. Burne based on the collections of Georgina Frederica Jackson, compiler of the [Shropshire word-book](https://archive.org/details/shropshirewordb01jackgoog), *"a glossary of archaic and provincial words, etc., used in the county"* in 1879.
@@ -777,7 +797,7 @@ The commentary then proceeds to other, more recent instances, of funeral dole tr
 
 > Much later than Aubrey's time, the funeral dole survived in North Wales in its more primitive and innocent form. Pennant in his *History of Whiteford* describes the nearest female relative of the dead giving bread, cheese, ale, and money to the poor over the coffin, and Mr. Wirt Sikes reproduces a curious 18th-century print of such a scene. `[Brand, Antiquities, II. 211 ; *British Goblins*, 323.]`
 
-The citation of Pennant's'*History of Whiteford* as the source of the tradition for the nearest female relative providing the gift is incorrect. The reference actually appears in {ref}`TIWPN`.
+The citation of Pennant's'*History of Whiteford* as the source of the tradition for the nearest female relative providing the gift is incorrect. The reference actually appears in {ref}`TIWPN:1783`.
 
 ```{figure} ../resources/images/British_goblins_food_over_coffin_p323.png
 ---
