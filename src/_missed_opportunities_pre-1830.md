@@ -6,7 +6,7 @@ These references include Hone's Year Book, 1831-32, the second edition of Leland
 
 In this chapter, we'll see whether there were any other popular, or at least, published sources that Moggridge might have overlooked, or been unaware of, that were published prior to his talk in September, 1852.
 
-(TIWPN)=
+(TIWPN:1783)=
 ## Pennant's *Tours in Wales*, 1783
 
 The first item worthy of note is [part 2](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.002/K105973.002.html?sequence=5&isAllowed=y) of *A Tour in Wales* by Thomas Pennant, first published in 1783 but recalling a tour from several years previously. (See also: [part 1](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.001/K105973.001.html?sequence=5&isAllowed=y) and [*A Tour in Scotland*](https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K112026.000/K112026.000.html?sequence=5&isAllowed=y)) The "Advertisement" at the front of the book is signed off by Downing on March 1st, 1781.
@@ -276,10 +276,16 @@ The extract also includes Aubrey's (now familiar to us) description of the sin-e
 
 > Aubrey, in some miscellanies of his, among the Lansdown MSS., at the British Museum, mentions a very curious custom at deaths, observed in a degree until his time (reign of Charles II), which he describes - under the name of *Sin-Eaters*. "In the County of Hereford," says he, "was an old custome at Funeralls, to hire poor people, who were to take upon-them the sinnes of the party deceased. One of theme (he was a long lean ugly lumentable raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layed on the biere, a loafe of bread was brought out and delivered to the sinne eater over the corpse, as also a mazar bowl, of maple, full of beere (which lie was to drink up), and sixpence in money : in consideration he took upon him, *ipso facto*, all the the sinnes of defunct, and freed him or her from walking after they were dead." This custom, he supposes, had some allusion to the scape-goat under the Mosaical law.
 
+```{index} double: Mother Creswell ; eulogy
+:name: eulogy:creswell
+```
 Finally, we have a rather humourous story of the elegy given to an apparently renouned procuress, *Mother Creswell* in the mid-seventeenth century:
 
 > FUNERAL SERMONS.— Speaking of the frequency of these formerly, and their present disuse :— "Even such a character as the infamous Mother *Creswell*, the procuress in the reign of Charles II," our author observes, "must have her Funeral Sermon." She, according to Granger, desired by will to have a sermon preached at her funeral, for which the preacher was to have 10l., but upon the express condition that he only spoke well of her. A preacher was with some difficulty found, who undertook the task. He, after a sermon preached on the general subject of morality, and the good uses to be made of it, concluded by saying— 'By the will of the deceased, it is expected I should mention her, and say nothing but what is *well* of her. All I shall say of her, therefore, is this :— she was born well, she lived well, and she died well, for she was born with the name of Creswell, she lived in Clerkenwell, and she died in Bridewell."
 
+```{index} single: Mother Creswell ; biography
+:name: biography:creswell
+```
 ```{admonition} Elizabeth Cresswell ("Mother Creswell", "Madam Cresswell of Clerkenwell")
 :class: seealso dropdown
 
@@ -291,7 +297,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Cresswell
 
 If we look up the reference to Madam Cresswell in *Popular Antiquities*, the paragraph following the original statement of that paragraph, in a footnote on [p.184-5](https://archive.org/details/observationsonpo02branuoft/page/184/mode/2up?q=cresswell) of the 1813 edition, we have a further commentary on sermons preached for unpopular characters (ones who might perhaps be in most need of the sin-eater's ministrations!):
 
-> "Dr. Fuller, in his Appeal of injured Innocence, (Part iii. p. 75.) tells us, that "When one was to preach the Funeral Sermon of a most vicious and generally hated person, all wondered what he would say in his praise ; the preacher's friends fearing, his foes hoping that, for his fee, he would force his conscience to flattery. For one thing, said the minister, this man is to be spoken well of by all ; and, for another thing, he is to be spoken ill of by none. The first is because God made him} the second, because lie is dead." Granger's Biogr. Hist. of England, 8vo- Lond. 1775. vol. iv. p. 218.
+> "Dr. Fuller, in his Appeal of injured Innocence, (Part iii. p. 75.) tells us, that "When one was to preach the Funeral Sermon of a most vicious and generally hated person, all wondered what he would say in his praise ; the preacher's friends fearing, his foes hoping that, for his fee, he would force his conscience to flattery. For one thing, said the minister, this man is to be spoken well of by all ; and, for another thing, he is to be spoken ill of by none. The first is because God made him, the second, because he is dead." Granger's Biogr. Hist. of England, 8vo- Lond. 1775. vol. iv. p. 218.
 
 ```{admonition} Madam Cresswell, According to Granger
 :class: dropdown
@@ -317,6 +323,9 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 
 ```
 
+```{index} single: The Spectator ; Extending Sympathy to Whores
+:name:  SPCTR:sympathy-whores
+```
 ```{admonition} The Spectator, Issue 266, "Extending Sympathy to Whores"
 :class: dropdown
 
@@ -329,7 +338,7 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 >
 > Ter. Eun. Act. 5, Sc. 4.
 >
->No Vice or Wickedness which People fall into from Indulgence to Desires which are natural to all, ought to place them below the Compassion of the virtuous Part of the World; which indeed often makes me a little apt to suspect the Sincerity of their Virtue, who are too warmly provoked at other Peoples personal Sins. The unlawful Commerce of the Sexes is of all other the hardest to avoid; and yet there is no one which you shall hear the rigider Part of Womankind speak of with so little Mercy. It is very certain that a modest Woman cannot abhor the Breach of Chastity too much; but pray let her hate it for her self, and only pity it in others. Will. Honeycomb calls these over-offended Ladies, the Outragiously Virtuous.
+> No Vice or Wickedness which People fall into from Indulgence to Desires which are natural to all, ought to place them below the Compassion of the virtuous Part of the World; which indeed often makes me a little apt to suspect the Sincerity of their Virtue, who are too warmly provoked at other Peoples personal Sins. The unlawful Commerce of the Sexes is of all other the hardest to avoid; and yet there is no one which you shall hear the rigider Part of Womankind speak of with so little Mercy. It is very certain that a modest Woman cannot abhor the Breach of Chastity too much; but pray let her hate it for her self, and only pity it in others. Will. Honeycomb calls these over-offended Ladies, the Outragiously Virtuous.
 >
 > I do not design to fall upon Failures in general, with relation to the Gift of Chastity, but at present only enter upon that large Field, and begin with the Consideration of poor and publick Whores. The other Evening passing along near Covent-Garden, I was jogged on the Elbow as I turned into the Piazza, on the right Hand coming out of James-street, by a slim young Girl of about Seventeen, who with a pert Air asked me if I was for a Pint of Wine. I do not know but I should have indulged my Curiosity in having some Chat with her, but that I am informed the Man of the Bumper knows me; and it would have made a Story for him not very agreeable to some Part of my Writings, though I have in others so frequently said that I am wholly unconcerned in any Scene I am in, but meerly as a Spectator. This Impediment being in my Way, we stood under one of the Arches by Twilight; and there I could observe as exact Features as I had ever seen, the most agreeable Shape, the finest Neck and Bosom, in a Word, the whole Person of a Woman exquisitely Beautiful. She affected to allure me with a forced Wantonness in her Look and Air; but I saw it checked with Hunger and Cold: Her Eyes were wan and eager, her Dress thin and tawdry, her Mein genteel and childish. This strange Figure gave me much Anguish of Heart, and to avoid being seen with her I went away, but could not forbear giving her a Crown. The poor thing sighed, curtisied, and with a Blessing, expressed with the utmost Vehemence, turned from me. This Creature is what they call newly come upon the Town, but who, I suppose, falling into cruel Hands was left in the first Month from her Dishonour, and exposed to pass through the Hands and Discipline of one of those Hags of Hell whom we call Bawds. But lest I should grow too suddenly grave on this Subject, and be my self outragiously good, I shall turn to a Scene in one of Fletcher’s Plays, where this Character is drawn, and the Œconomy of Whoredom most admirably described. The Passage I would point to is in the third Scene of the second Act of The Humorous Lieutenant. Leucippe who is Agent for the King’s Lust, and bawds at the same time for the whole Court, is very pleasantly introduced, reading her Minutes as a Person of Business, with two Maids, her Under-Secretaries, taking Instructions at a Table before her. Her Women, both those under her present Tutelage, and those which she is laying wait for, are alphabetically set down in her Book; and as she is looking over the Letter C, in a muttering Voice, as if between Soliloquy and speaking out, she says,
 >
@@ -362,6 +371,9 @@ On a second attempt, I find [The Tatler, Vol 1., Numb. 84](https://archive.org/d
 
 Just as another aside, there is an unpleasant tale that makes a passing reference to the famed Mother Cresswell, in [*"The Somers Collection of Tracts"*](https://archive.org/details/collectionofscar07someuoft/page/126/mode/2up?q=%22Mother+Cresswell%22+procuress) (*A collection of scarce and valuable tracts, on the most interesting and entertaining subjects : but chiefly such as relate to the history and constitution of these Kingdoms, selected from an infinite number in print and manuscript, in the Royal, Cotton, Sion, and other public, ans well as private libraries, particularly that of the late Lord Somers. 2d ed.,*) by John Somers, second edition, revised and augmented by Walter Scott, Esq., 1812, relating to Lord Warristone ("Wareston").
 
+```{index} single: Somers Collection of Tracts ; The Salacious Seer Wareston
+:name: SMRCT:seer-wareston
+```
 ```{admonition} The Salacious Seer Wareston
 :class: dropdown
 
