@@ -4,9 +4,12 @@ In November, 1875, an article, author unknown, appeared in *Blackwood's Magazine
 
 But before we introduce the article that spawned the "first sin-eater controversy", let us first review an earlier article in *Blackwood's* magazine from 1818 "*On Some Popular Superstitions in Wales"*.
 
+```{index} double: Blackwood's Magazine  ; On Some Popular Superstitions in Wales
+:name: BLKWD:pop-superstition-wales
+```
 ## Blackwood's Magazine, 1818
 
-Over eight or so pages (p188-196), the article entitled "On Some Popular Superstitions in Wales" by *T. P. C.* of Bristol, provides various reported personal stories and reminiscences collected in Wales presumably during the early years of the 19th century. 
+Over eight or so pages (p188-196), the article entitled "On Some Popular Superstitions in Wales" by *T. P. C.* of Bristol, provides various reported personal stories and reminiscences collected in Wales presumably during the early years of the 19th century.
 
 The article opens with reflection on the relative recognition of Scottish and Welsh folklore, before introducing a previously little known Welsh work as a possible prompt for more serious studies into the collection of Welsh traditions.
 
@@ -18,6 +21,9 @@ The article opens with reflection on the relative recognition of Scottish and We
 
 The stories then appear in the following sections: *I. Witch Stories. II. Stories of Ghosts, Evil Spirits, Demons, &c. III. Stories of Fairies. IV. Dogs of Hell. V. Corpse Candles. VI. The Kyhirraeth.*
 
+```{index} triple: Blackwood's Magazine ; Corpse Candle ; personal accounts
+:name: BLKWD:corpse-candle
+```
 ```{admonition} *Corpse Candles*, in *Blackwood*, 1818
 :class: dropdown
 
@@ -64,6 +70,9 @@ TO DO
 
 ```
 
+```{index} single: Blackwood's Magazine ; Legends and Folk-lore of North Wales
+:name: BLKWD:1875
+```
 ## Blackwood's Magazine, November, 1875
 
 In the November edition of *Blackwood's Magazine*, [volume 118, pages 590-607](https://babel.hathitrust.org/cgi/pt?id=chi.55222270&view=1up&seq=602&skin=2021&q1=north%20wales), an unnamed author provided an article on the *Legends and Folk-lore of North Wales*.
@@ -99,11 +108,16 @@ TO DO - pigeon's feathers, and the Bible and key or sieve spell to find'a thief
 
 But then we reach the paragraph that was to trigger a whole series of letters regarding the actual existence, or otherwise, of one very particular tradition: that of the "sin-eater".
 
-```{admonition} The First Trigger
+```{index} triple: sin eater ;  First Controversy ; trigger
+:name: firstcontrov:trigger
+```
+`````{admonition} The First Trigger
 :class: warning
+```{index} single: Blackwood's Magazine ; The First Trigger
+```
 
 > It is a darker and narrower superstition, still surviving in North and South Wales, and the Border, which at a funeral hands over to a hireling, who lives by such services, a loaf of bread, a maple bowl full of beer or milk, and a sixpence, in consideration of which he takes upon him all the sins of the defunct, and frees him or her from *walking* after death. It is hard to say which is most degraded, the employers or the employed, in such a transaction. The scapegoat in this case is currently called a "Sin-eater." Of such it would be no stretch of imagination to believe that, like Sion-y-Cint, the Welsh Faust, they had sold themselves to the devil.
-```
+`````
 
 This all seems innocuous enough, restating the tradition as we have heard it described before, albeit without any provenance. That the tradition is claimed to be *"still surviving"* might perhaps pique the interest of the curious reader, as might the claim that either, or both, the "*the employers or the employed"* might be *"degraded"*. And then there is an appeal to that ultimate sense of jeopardy, that it is not hard imagining that the sin-eater might have *"sold themselves to the devil"*.
 
