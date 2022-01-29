@@ -21,7 +21,7 @@ The review begins with a mention of certain notable attendees:
 
 > Amongst others present there were :— Mr Henry Owen, F.S.A., Mr G. Lawrence Gomme, Mr Alfred Nutt, Mr T. Marchant Williams, Mr Edward Clodd, Dr Karl Blind, Dr Gaster, Mr Sydenham Jones, Mr D. McRitchie, Mr F. A. Milne (secretary to the Folk-Lore Society), Mr E. Vincent Evans (secretary to the Cymmrodorion Society),&c, &c.
 
-Then the review of the presented paper begins, which begis with a review of Aubrey:
+Then the review of the presented paper begins, which begins with a review of Aubrey:
 
 > The Chairman, after a brief reference to Mr Hartland's contributions to the study of folk-lore, called upon him to read his paper on "The Sin- Eater."— The earliest mention of the curious custom of the Sin-Eater, formerly observed in Wales and the Welsh Marches at funerals, is to be found, according to Mr Hartland, in "The Remains of Gentilisme and Judaisme," a work of John Aubrey, (1686-7) which remained in MS. for 200 years, until it was for the first time issued by the Folk-Lore Society in 1881. The passage in question (p. 23-4) runs as follows :— "*Offertories at Funeralls.*— These are mentioned in the Rubrick of ye ch. of Engl. Common-Prayer-booke : but I never sawe it used, but once, at Beaumaris, in Anglesey; but it is used over all the Counties of North-Wales. But before when the Corps is brought out of Doores, there is Cake and Cheese, and a new Bowle of Beere, and another of Milke with ye Anno Dni ingravred on it, and ye parties name deceased, w'ch one accepts of on the other side of ye Corps; and this Custome is used to this day, 1686, in North Wales." On this there is the following note by Bishop Kennett:—" where a small tablet or board is fixt near the Altar, upon w'ch the friends of ye defunct lay their offerings in mony according to their own ability and the quality of the person deceased.... *Sinne-Eaters*.— It seems a remainder of this custom w'ch lately obtained at Amersden `[(1) Ambrosden (near Bicester, Oxon.), of which parish Kennett was vicar 1684-1691]` in the county of Oxford, where at the burial of every corps one cake and one flaggon of Ale just after the interrment were brought to the minister in the Ch, porch." Aubrey also has (p. 35-6) the following note on "Sinne-Eaters:— In the County of Hereford was an old Custome at funeralls to { hire | have } poor people, who were to take upon them all the sinnes of the party deceased. One of them I remember lived in a cottage on Rosse high way. (He was a long, leane, ugly, lamentable poor raskal.) The manner was that when the Corps was brought out of the house and layd on the Biere; a Loafe of bread was brought out and delivered to the Sinne-eater over the corps, as also a Mazar-bowle of maple (Gossips bowle) full of beer, w'ch he was to drinke up, and sixpence in money, in consideration whereof he tooke upon him (ipso facto) all the Sinnes of the Defunct, and freed him (or her) from walking after they were dead. This custome alludes (me-thinkes) something to the Scape-goate in ye old Lawe... This custome (though rarely used in our dayes) yet by some people was { observed | continued } even in the strictest time of ye Presbyterian government : as at Dynder, volens nolens the Parson of ye Parish,the { kinred | relations} of a woman deceased there had this ceremonie punctually performed according to her Will : and also the like was donne at ye City of Hereford in these times, when a woman kept many yeares before her death a Mazard-bowle for the Sinne-eater; and the like in other places in this Countie ; as also in Brecon, e.g., at Llangors, where Mr. Gwin the minister about 1640 could no hinder ye performing of this ancient custome. I believe this custome was heretofore used over all Wales..... In North-Wales, the Sinne-eaters are frequently made use of ; but there, insted of a Bowle of Beere, they have a bowle of Milke. Methinkes, Doles to Poore people with money at Funeralls have some resemblance of that of ye Sinne-eater. Doles at Funeralls were continued at Gentlemens funeralls in the West of England till the Civil-warre. And so in Germany at rich mens funerals Doles are in use, and to every one a quart of strong and good Beer.—Cramer."
 
@@ -79,9 +79,9 @@ A further report of the meeting in the [March, 1892](https://journals.library.wa
 
 The paper, or perhaps even an extended or revised version of it, was published in the June, 1892, volume of *Folklore*.
 
-## E. Sidney Hartland, *The Sin_Eater*, Folklore, June 1892
+## E. Sidney Hartland, *The Sin-Eater*, Folklore, June 1892
 
-Edwin Sidney Harland's paper to the Foklore Society appeared in full in the [Vol. III, No. II.](https://archive.org/details/folklore03folkuoft/page/144/mode/2up?q=sin-eater) edition of *Folklore* in June 1892, p145-157. Not surprisingly, the sections relating to sin-eater closely follow the earlier report of the presented paper, starting with the earliest mention found to date, as provided by John Aubrey:
+Edwin Sidney Harland's paper to the Foklore Society appeared in full in the [Vol. III, No. II, p145-157](https://archive.org/details/folklore03folkuoft/page/144/mode/2up?q=sin-eater) edition of *Folklore* in June 1892. Not surprisingly, the sections relating to sin-eater closely follow the earlier report of the presented paper, starting with the earliest mention found to date, as provided by John Aubrey:
 
 > THE SIN-EATER.
 >
@@ -126,7 +126,7 @@ In the full paper, the comparison with other traditions is justtified as providi
 
 > I propose briefly to compare it with one or two other customs in this country and abroad, for the purpose if possible of tracing its origin. In doing so I will ask you to assume that, as is usual in traditional rites which have continued to modern times, we have in the custom described only a mutilated form of the original ceremony. If that ceremony was in ancient times at all widely distributed we shall probably find its remains in places far apart ; but we must not expect to find them all exactly alike. The portion of the ceremony, or the interpretation of it, which most forcibly strikes the popular imagination, and is consequently held most tenaciously in the popular memory, in one place is not always precisely that which is to be recognized at first sight elsewhere. We shall have to piece together the relics we find, first in order to show that they relate to the same rite, that they are in fact portions of the same pattern, though perhaps distorted or half obliterated, and secondly to discover what the original pattern was. Fortunately in the present case the pattern is simple, and the fragments, though few, are unmistakable in their characteristics.
 
-And the "reason" for the tradtion claimed in the following terms:
+And the "reason" for the tradition claimed in the following terms:
 
 > At present we will note that the rite has to do with the disposal of the dead, that the eating of food placed upon the coffin, or rather upon the body itself, is the substance of the rite, and that the belief connected with it is that by the act of eating some properties of the dead are taken over by the eater. With this general idea in our minds we may look for analogues.
 >
@@ -172,9 +172,12 @@ And the "reason" for the tradtion claimed in the following terms:
 >
 > E. Sidney Hartland.
 
+```{index} single: Folklore (journal) ; correspondence, 1892-3
+```
+(FLKLR:correspondence:1892)
 ### Responses to the Paper
 
-An article in *The Cardiff Times* dated [June 11th, 1892](https://newspapers.library.wales/view/3429440/3429444/77/), p4, acknowledges the publication of the paper, and comments on how knowledge of many Welsh traditions had died out in recent years:
+An article in *The Cardiff Times* dated [June 11th, 1892, p4](https://newspapers.library.wales/view/3429440/3429444/77/), acknowledges the publication of the paper, and comments on how knowledge of many Welsh traditions had died out in recent years:
 
 > WELSH ECHOES FROM LONDON
 >
@@ -195,21 +198,26 @@ The publication of the paper was also noted by a correspondent to the *Oswestry 
 > Bryncynallt, Bangor, N. Wales.
 >
 
-Rather amusingly, an advert immedediately following the letter advertised something that might perhaps have eased the digestion of the sin-eater!
+Rather amusingly, an advert immediately following the letter advertised something that might perhaps have eased the digestion of the sin-eater!
 
-> Holloways Pills—
->
-> Weak stomachs. The wisest I cannot enumerate one quarter of the distressing symptons arising from enfeebled digestion, all of which might be readily dispelled by these admirable Pills. They remove all unpleasant tastes from the mouth, flatulency and constipation. Holloway's Pills rouse the stomach, liver, and every other organ, helping digestion to that healthy tone which fully enables it to convert all we eat and drink to the nourishment of our bodies. Hence these Pills are the surest strengtheners and the safest restoratives in nervousness, wanting and chronic debility. Holloway's Pills are infallible remedies for impaired appetite, eructations, and a multitude of other disagreeable symptoms, which render miserable the lives of thousands. These Pills are approved by all classes.
+```{admonition} Advert: "Holloways Pills for Weak Stomachs"
+Holloways Pills—
 
-An arguably more formal response to Hartland's published paper appeared in *Folklore*, [Vol III, No. IV](https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments)) of December, 1892, p546-9
+Weak stomachs. The wisest I cannot enumerate one quarter of the distressing symptons arising from enfeebled digestion, all of which might be readily dispelled by these admirable Pills. They remove all unpleasant tastes from the mouth, flatulency and constipation. Holloway's Pills rouse the stomach, liver, and every other organ, helping digestion to that healthy tone which fully enables it to convert all we eat and drink to the nourishment of our bodies. Hence these Pills are the surest strengtheners and the safest restoratives in nervousness, wanting and chronic debility. Holloway's Pills are infallible remedies for impaired appetite, eructations, and a multitude of other disagreeable symptoms, which render miserable the lives of thousands. These Pills are approved by all classes.
+```
 
+An arguably more formal response to Hartland's published paper appeared in *Folklore*, [Vol III, No. IV, p546-9](https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments)) of December, 1892:
+
+```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Godden, Miss G. M.
+:name: FLKLR:correspondence:1892:godden
+```
 > MR. HARTLAND'S "SIN-EATER", AND PRIMITIVE SACRAMENTS.
 >
 > To the Editor of FOLK-LORE.
 >
 > Sir, — Will you allow me to ask Mr. Hartland how the very interesting funeral rites which we owe to his paper on the "Sin-Eater", in the current journal, can be considered as the outcome of *one* belief, in various stages ?
 >
-> I gather that he would treat as acts expressing a common idea the "sin-eating" of old English custom, where the whole gist of the usage, as celebrated by the "folk", lies in the cathartic significance, and where the celebrant has no kinship with the deceased ; the Bavarian usage, where the ritual cake is eaten by the kindred, that they may there- with receive the "virtues and advantages" of the dead kinsman, on or beside whose body the cake has lain ; the Scotch watchers' rite of placing their hands in the empty dishes and *afterwards* eating ; and the breaking and eating over the grave of the Turkish cakes.
+> I gather that he would treat as acts expressing a common idea the "sin-eating" of old English custom, where the whole gist of the usage, as celebrated by the "folk", lies in the cathartic significance, and where the celebrant has no kinship with the deceased ; the Bavarian usage, where the ritual cake is eaten by the kindred, that they may therewith receive the "virtues and advantages" of the dead kinsman, on or beside whose body the cake has lain ; the Scotch watchers' rite of placing their hands in the empty dishes and *afterwards* eating ; and the breaking and eating over the grave of the Turkish cakes.
 >
 > The customs of which these seem to be typical examples are classed together as expressions of one belief; and this belief is explained as the survival of a primitive cannibalism induced by the widely-spread primitive idea that, by eating the flesh, the qualities of the man or creature may be received. How does Mr. Hartland prove that all the instances he gives, where the reception of the qualities of the dead is in no way mentioned, can be treated as resting on this special cause ; and not on that universal article of primitive creeds — perhaps one of the most necessary and sacred of all faiths to the savage mind — the renewal of the tribal kinship by the tribal sacrament of commensal eating? Most of Mr. Hartland's instances seem to point to this as their cause, and to be examples of the universal custom of offering food to the disembodied tribesman, and of preserving the tie between the dead and living by eating together in the sacrament of the common meal.
 >
@@ -239,7 +247,7 @@ An arguably more formal response to Hartland's published paper appeared in *Folk
 >
 > G. M. GODDEN.
 
-It seems from a report in the the next edition of *Folklore*, of March, 1893, [Vol. IV, No. I](https://archive.org/details/folklore04folkuoft/page/120/mode/2up?q=Aynsley), p120, that a meeting of the Folklore Society on Wednesday, December 21st, 1892, another paper on the subject of the sin-eater was read by Mrs. Murray Aynsleythat provoked a discussion involving one Rev. C. Swynnerton and E. Sidney Hartland: 
+It seems from a report in the the next edition of *Folklore*, of March, 1893, [Vol. IV, No. I, p120](https://archive.org/details/folklore04folkuoft/page/120/mode/2up?q=Aynsley), that a meeting of the Folklore Society on Wednesday, December 21st, 1892, another paper on the subject of the sin-eater was read by Mrs. Murray Aynsleythat provoked a discussion involving one Rev. C. Swynnerton and E. Sidney Hartland:
 
 > An Evening Meeting was held at 22, Albemarle Street, on Wednesday, December 21st, 1892 ; the President (Mr. G. L. Gomme) in the chair.
 >
@@ -253,8 +261,11 @@ It seems from a report in the the next edition of *Folklore*, of March, 1893, [V
 >
 > The Secretary read a short paper by Mrs. Murray Aynsley on "The Sin Eater", and a discussion followed, in which the Rev. C. Swynnerton and Mr. E. S. Hartland took part.
 
-As to what the topic of the paper might have been, or as to why Mrs. Murrary Aynsley was not present or able to read the paper at the meeting herself, a letter apparently dated in July 1892, but not published until the September, 1893, issue of *Folklore*, [Volume IV, No. III](https://archive.org/details/folklore04folkuoft/page/398/mode/2up?q=hartland), p398-399, from one *"H. G. M. Murray-Aynsley"* of *"Srinagar, Kashmir"*, appears to be claiming that several traditions spanning the Mediterranean to Central Asia all bear some thematic relationship to that of the sin-eater tradition:
+As to what the topic of the paper might have been, or as to why Mrs. Murrary Aynsley was not present or able to read the paper at the meeting herself, a letter apparently dated in July 1892, but not published until the September, 1893, issue of *Folklore*, [Volume IV, No. III, p398-399](https://archive.org/details/folklore04folkuoft/page/398/mode/2up?q=hartland), from one *"H. G. M. Murray-Aynsley"* of *"Srinagar, Kashmir"*, appears to be claiming that several traditions spanning the Mediterranean to Central Asia all bear some thematic relationship to that of the sin-eater tradition:
 
+```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Murray-Aynsley,  H. G. M.
+:name: FLKLR:correspondence:1892:aynsley
+```
 > The Sin-Eater. —
 >
 > In his work on Turkestan, [Vol. ii, p. 28.] Dr. Schuyler speaks of a custom existing in that country which is worth noting in connection with Mr. Sidney Hartland's paper on this subject in the June number of FOLK-LORE, 1892. "Life in Ach Kûrgân", Dr. S. says, "was rather dull, amusement there was none, all games being strictly forbidden. Such things as jugglery, dancing, and comic performances are, I am told, forbidden in the Kanate, the licentious Khan having seen the error of his ways, and having put on, for his people at least, the semblance of virtue. Of praying there was very little ; occasion- ally in the afternoon at sunset some few pious individuals would spread out a rug and make their supplications to Allah. One poor old man, however, I noticed, who seemed constantly engaged in prayer. On calling attention to him, I was told that he was an *iskachi*, a person who makes his living by taking upon himself the sins of the dead, and thenceforward devoting his life to prayer for their souls. He corresponds to the sin-eater of the Welsh border."
@@ -273,7 +284,7 @@ As to what the topic of the paper might have been, or as to why Mrs. Murrary Ayn
 >
 > *Srinagar, Kashmir, July 28, 1892.* 
 
-Returning back to 1892/3, Hartland's response to Godden's letter in the December, 1892, issue also appeared in *Folklore* [Vol IV, no. I](https://archive.org/details/folklore04folkuoft/page/106/mode/2up?q=SACRAMENTS), p106, dated March, 1893, and is brief and to the point:
+Returning back to 1892/3, Hartland's response to Godden's letter in the December, 1892, issue also appeared in *Folklore* [Vol IV, no. I, p106](https://archive.org/details/folklore04folkuoft/page/106/mode/2up?q=SACRAMENTS), dated March, 1893, and is brief and to the point:
 
 > CORRESPONDENCE.
 >
@@ -297,9 +308,12 @@ A second piece of related correspondence appers on the same page, directly follo
 
 Just over a year after Hartland's paper was published, in *Folklore* [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
 
+```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Hope, Gertrude
+:name: FLKLR:correspondence:1892:hope)
+```
 > "THE SIN-EATER."
 > To the Editor of FOLK-LORE.
-> 
+>
 > Sir, — In connection with Mr. Hartland's article on "The Sin-Eater" in Folk-Lore for June 1892, the following occurrence at a funeral near Market Drayton in Shropshire may interest you.
 >
 > The funeral took place on the first of this present month.
@@ -318,11 +332,9 @@ Just over a year after Hartland's paper was published, in *Folklore* [Volume IV 
 >
 > Gertrude Hope.
 
-That letter was picked up by *Bye-gones* of October 11th, 1893](https://journals.library.wales/view/2092910/2097790/2), p191, and reprinted in full.
+That letter was picked up by *Bye-gones* of [October 11th, 1893](https://journals.library.wales/view/2092910/2097790/2), p191, and reprinted in full.
 
-> FUNERAL CUSTOM IN SHROPSHIRE.— The current number of Folk-Lore contains the following letter signed 
->
-> Gertrude Hope, and dated July 27, 1893:—" In connection with Mr Hartland's article on 'The Sin-Eater' in Folk-Lore for June, 1892, the following occurrence at a funeral near Market Drayton in Shropshire may interest you. The funeral took place on the first of this present month. The minister of the chapel where the deceased woman had been a regular attendant held a short service in the cottage before the coffin was removed. The lady, who gave me the particulars, arrived rather early, and found the bearers enjoying a good lunch in the only downstairs room. Shortly afterwards the cofBn was brought down and placed on two chairs in the centre of the room, and the mourners having gathered round it the service proceeded. Directly the minister ended, the woman in charge of the arrangements poured out four glasses of wine and handed one to each bearer present across the coffia, with a biscuit called a 'funeral biscuit.' One of the bearers being absent at the moment, the fourth glass of wine and biscuit were offered to the eldest son of the deceased woman, who, however, refused to take them, and was not obliged to do so. The biscuits were ordinary sponge biscuits, usually called "sponge fingers" or "lady's fingers." They are, however, also known in the shops of Market Drayton as "funeral biscuits." The minister, who had lately come from Pembrokeshire, remarked to my informant that he was sorry to see that pagan custom still observed. He had been able to put an end to it in the Pembrokeshire village where he had formerly been." Ed.
+> FUNERAL CUSTOM IN SHROPSHIRE.— The current number of Folk-Lore contains the following letter signed Gertrude Hope, and dated July 27, 1893:— "In connection with Mr Hartland's article on 'The Sin-Eater' in Folk-Lore for June, 1892, the following occurrence at a funeral near Market Drayton in Shropshire may interest you. The funeral took place on the first of this present month. The minister of the chapel where the deceased woman had been a regular attendant held a short service in the cottage before the coffin was removed. The lady, who gave me the particulars, arrived rather early, and found the bearers enjoying a good lunch in the only downstairs room. Shortly afterwards the cofBn was brought down and placed on two chairs in the centre of the room, and the mourners having gathered round it the service proceeded. Directly the minister ended, the woman in charge of the arrangements poured out four glasses of wine and handed one to each bearer present across the coffia, with a biscuit called a 'funeral biscuit.' One of the bearers being absent at the moment, the fourth glass of wine and biscuit were offered to the eldest son of the deceased woman, who, however, refused to take them, and was not obliged to do so. The biscuits were ordinary sponge biscuits, usually called "sponge fingers" or "lady's fingers." They are, however, also known in the shops of Market Drayton as "funeral biscuits." The minister, who had lately come from Pembrokeshire, remarked to my informant that he was sorry to see that pagan custom still observed. He had been able to put an end to it in the Pembrokeshire village where he had formerly been." Ed.
 
 And here this correpsondence chain was to end.
 
