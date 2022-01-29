@@ -145,6 +145,10 @@ I, for one, can't help thinking that the launch of the *Archaeologia Cambrensis*
 
 But that is perhaps best left for another day, and another possible investigation; because for now, we must return to our hunt for the history of the sin-eater.
 
+
+```{index} single: Cambrian Archaeological Association; Fifth Meeting, Tenby, 1851
+:name: CAMBARCH:5th
+```
 ## The Fifth Meeting, at Tenby, 1851
 
 At the fifth meeting of the Cambrian Archaeological Association in Tenby, at the end of August 1851, at the evening meeting on Monday, August 25th, Matthew Moggridge, Esq., read the following observations *"On the Preservation of Local Traditions"* as described in [*Archaeologia Cambrensis*, 1851-10: Vol 2 Iss 8](https://archive.org/details/sim_archaeologia-cambrensis_1851-10_2_8/page/326/mode/2up?q=moggridge), p. 326:
@@ -163,6 +167,9 @@ Moggridge's observations then concluded with some examples of the subject matter
 
 > "In conclusion, I would quote, as exemplifying the object I have in view, one or two passages from a paper read before the Literary and Philosophical Society at Swansea."—Mr. Moggridge then made a few extracts from the paper in question, and, in particular, mentioned as the origin of those "slangs" of land which are so often found in South Wales, mixed up with the estate of a distinct proprietor, the fact that it was at one time usual to gamble for small pieces of land.— "A similar custom to the last prevailed near St. Clear's; but there it partook more of the character of wager of battle, the doughty champions being snails, who were to climb up a pole, the owner of the one who reached the summit first receiving the stakes."
 
+```{index} single: Cambrian Archaeological Association; Sixth Meeting, Ludlow, 1852
+:name: CAMBARCH:6th
+```
 ## The Sixth Meeting, at Ludlow, 1852
 
 As eight o’clock struck on the evening of Monday, August 23rd, 1852, in the New Buildings at Ludlow, the Vice President of the Cambrian Archaeological Association, W. W. E. Wynne, Esq., M.P., called the sixth annual meeting of that learned association to order.
