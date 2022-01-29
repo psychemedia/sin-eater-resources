@@ -320,11 +320,10 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 > Though the daughters were much more numerous than the mothers of iniquity, I have met with only the names of three of those who were contemporaries with Mrs. Creswell ; viz. Mrs. Russel, Mrs. Foster, and Betty Morrice `[The two last are mentioned in "A Letter from Artemisia in *the Town, to Chloe in the Country," by lord Rochester]`. Oblivion is entailed on the obscene practices of these creatures, as well as rottenness on their bones. Their whole biography is contained in the sixth prints published by Mr. Hogarth. *Few and evil* are the *days*, or to speak with precision, the *nights* of harlots. These harpies in borrowed plumes are birds of darkness, and appear at the same time with bats and owls. They were dispersed through every quarter of the town; but Moor-Fields, Whetstone's Park, Lukener's Lane, and Dog and Bitch Yard, were their capital feraglios `[Manuscript State Poems, written in this reign, in the possession of the dutchess dowager of Portland,]`.
 
 *Note also: __mortality__ not __morality__ in the eulogy for Madam Cresswell.*
-
 ```
 
 ```{index} single: The Spectator ; Extending Sympathy to Whores
-:name:  SPCTR:sympathy-whores
+:name: SPCTR:sympathy-whores
 ```
 ```{admonition} The Spectator, Issue 266, "Extending Sympathy to Whores"
 :class: dropdown
