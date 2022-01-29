@@ -1,4 +1,4 @@
-# Scientific Folklore View, 1890-92
+# The Scientific Folklore View, 1890-92
 
 As the years rolled into the final decade of the 19th century, further interest started to develop in a comparative , scientific" approach to studies folklore, as well as framing traditions within a context of history.
 
@@ -28,18 +28,6 @@ But then the author falls back to quoting the support of Moggridge:
 Where *The Golden Bough* might be thought capable of adding something to the discussion is through a comparative analysis with traditions elsewhere:
 
 > Aubrey's statement is supported by the analogy of similar customs in India. When the Rajah of Tanjore died in 1801, some of his bones and the bones of the two wives, who were burned with his corpse, were ground to powder and eaten, mixed with boiled rice, by twelve Brahmans. It was believed that the sins of the deceased passed into the bodies of the Brahmans, who were paid for the service.[Dubois, *Moeurs des Peuples de l'Inde*, ii. 32.] A Brahman, resident in a village near Raipur, stated that he had eaten food (rice and milk) out of the hand of the dead Rajah of Bildspur, and that in consequence he had been placed on the throne for the space of a year. At the end of the year he had been given presents and then turned out of the territory and forbidden apparently to return. He was an outcast among his fellows for having eaten out of a dead man's hand. [R. Richardson, in *Panjab Notes and Queries*, i. No. 674.] A similar custom is believed to obtain among the hill states about Kángrá, and to have given rise to a caste of " outcaste " Brahmans. At the funeral of a Rání of Chambá rice and *ghí* were eaten out of the hands of the corpse by a Brahman paid for the purpose. Afterwards a stranger, who had been caught outside the Chambá territory, was given the costly wrappings of the corpse, then told to depart and never show his face in the country again.[*Panjab Notes and Queries*, i. No. 674; ii. No. 559. Some of these customs have been already referred to in a different connection. See above, vol. i. p. 232.] In Oude when an infant was killed it used to be buried in the room in which it had been born. On the thirteenth day afterwards the priest had to cook and eat his food in that room. By doing so he was supposed to take the whole sin upon himself and to cleanse the family from it. [Op. cit. iii. No. 745.] At Utch Kurgan in Turkistan Mr. Schuyler saw an old man who was said to get his living by taking on himself the sins of the dead and thenceforth devoting his life to prayer for their souls. [E. Schuyler, *Turkistan*, ii. 28]
-
-```{index} single: Hartland, Edwin Sidney ;  biography
-:name: ESHartland
-```
-
-```{admonition} E. (Edwin) Sidney Hartland
-:class: seealso dropdown
-
-https://en.wikipedia.org/wiki/Edwin_Sidney_Hartland
-
-Note - this may be worth chasing elsewhere...: "contributor Folk-Lore; earlier contributions included a dispute with Andrew Lang."
-```
 
 ```{index} single: Hartland, Edwin Sidney ;  Welsh Folklore, 1892
 ```
@@ -110,4 +98,18 @@ From the examples, Hartland attempts to draw general conclusions as well as seek
 
 > The reason here expressly assigned for the custom is neither more nor less than that given by the Highlanders of Bavaria for making and eating the corpse-cakes. It is a general belief in the lower culture that food communicates its qualities to the eater. Thus, the flesh of tigers transmits courage and strength ; that of stags, speed ; that of hares, timidity. The same order of thought leads the savage tribes of the Uaupes to try to retain within the kindred, the good qualities of a departed member, by consuming his body powdered in drink. The Bavarian peasant could not tolerate the coarse directness of this expedient. He tried to achieve the same result by the symbolical act of eating cakes baked of dough which had been put upon the breast of the dead man, to rise, and had in rising absorbed his virtues. In the Sin-eater, the same act is put to another, but strictly analogous, use in the absorption of the sins of the deceased. Why it was supposed that in the one case good, and in the other evil, properties were communicated I cannot tell you. Some variation in the view taken of the matter by the clergy may have led to the rite's being considered disgraceful in Wales, and so may have rendered those who persisted in it the objects of persecution. Payment to undertake the odium, the consequent degradation, as well of the rite as of the person who performed it, and the influence of the Biblical account of the Hebrew scape-goat may have done the rest. `[The foregoing attempt to explain the Sin-eater is condensed from my paper on the subject read to the Folklore Society, and published in iii Folklore, 145, to which the reader is referred for further details.]`
 
-So what did the complete article have to say?
+As wwe shall see, E. Sidney Hartland will come to play an important role in the second sin-eater controversy, but his influence in framing the debate leading up to that should not be underestimated. So if you would like to read a little more about him, and perhaps attempt to get a measure of the man, now's your chance.
+
+```{index} single: Hartland, Edwin Sidney ;  biography
+:name: ESHartland
+```
+
+```{admonition} E. (Edwin) Sidney Hartland
+:class: seealso dropdown
+
+https://en.wikipedia.org/wiki/Edwin_Sidney_Hartland
+
+Note - this may be worth chasing elsewhere...: "contributor Folk-Lore; earlier contributions included a dispute with Andrew Lang."
+```
+
+But if you'd rather proceed with story, move straight on to the next chapter, to see what Hartland's paper said first-hand, how it came to appear, and how it was received.
