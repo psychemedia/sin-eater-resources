@@ -3,7 +3,7 @@ Report of The Sixty-fifth Meeting of The British Association FOR THE ADVANCEMENT
 
 https://books.google.co.uk/books?id=BgtLAAAAYAAJ&pg=PA5&dq=Report+of+The+Sixty-fifth+Meeting+of+The+British+ASSOCIATION+FOR+THE+ADVANCEMENT+OF+SCIENCE&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj7j-msxpv0AhWVnVwKHbjMCm0Q6AF6BAgKEAI#v=onepage&q=Report%20of%20The%20Sixty-fifth%20Meeting%20of%20The%20British%20ASSOCIATION%20FOR%20THE%20ADVANCEMENT%20OF%20SCIENCE&f=false
 
-1895
+October 1895
 
 p829-830
 On Cannibalism By Captain S. L Hinde
@@ -35,9 +35,6 @@ Nature volume 52, pages370–371 (1895)Cite this article
 
 p?
 
-75 Accesses
-
-Metricsdetails
 
 Abstract
 THE arrangements for the meeting of the British Association at Ipswich this autumn are making rapid progress. The General Election somewhat interrupted the preparations of the local secretaries, but the excitement being now over, general attention in the locality is again centred on the coming visit of the Association, and great efforts are being made in the town and neighbourhood to ensure the success of the meeting. The chief public buildings in the town are just emerging from the hands of the painter and decorator. The reception room will be located in the Town Hall, the council chamber being the room actually set apart for the purpose, whilst the library will be the writing room. The President's address and the evening discourses will be delivered in the public hall, as will also the lecture to working men. In the matter of Section rooms, the Local Committee will be able to offer the Association very good accommodation, as there are fortunately a number of suitable rooms and halls in the town within a very short distance of each other, and all are close to the reception room. The two halls at the Girls' High School, which were formerly the New Assembly Rooms, and were used for the reception room and for Section E on the occasion of the Ipswich meeting in 1851, will be allotted to Section A (Mathematical and Physical Science) and Section B (Chemistry). About two hundred yards distant is the Co-operative Hall, in which Section G (Mechanical Science) will meet. Section C (Geology) will be accommodated in the Art Gallery adjoining the Museum. Section D (Zoology) and the new Section K (Botany) will have, respectively, the banquet room and the lodge room at the Masonic Hall. The Lecture Hall, adjoining the Ipswich Institute, will be given over to Section E (Geography), whilst across the street, the Working Men's College (formerly known as the Old Assembly Rooms) will be set apart for Section H (Anthropology).
