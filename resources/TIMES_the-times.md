@@ -1,5 +1,39 @@
 
 
+---
+
+https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=20&searchType=BasicSearchForm&currentPosition=1&docId=GALE%7CCS202158179&docType=Article&sort=Pub+Date+Forward+Chron&contentSegment=ZTMA-MOD1&prodId=TTDA&pageNum=1&contentSet=GALE%7CCS202158179&searchId=R1&userGroupName=tou&inPS=true
+
+The Times
+
+Monday,  Mar. 3, 1873
+
+p12
+
+UNIVERSITY ININTELLIGENCE.
+OXFORD. FEB. 28.
+
+The Oxford Local Examination wvill be held this year at Oxford, and also at the places named below.
+
+The examination will commence in each place on Monday, the 2d of June, at 2 o'clock p.m.
+
+The printed formns may he obtained by candidates wisbing to be examined at Oxford from the Rev. S. Edwardes, Merton College, Oxford. Candidates wishing to be examined at any of the other places may obtain thenm from the local secretarv for the place.
+
+These forms, duly filled up, must be returned to the respective secretaries on or before Saturday, the 19th of April. No candidate's name will be received at any place after that day.
+
+The fees - namely, 1l. 10s. for each senior candidate. 1l. for each junior- must he paid on or before Saturday,the 19th of April. The fees, if sent by post, must be paid by check or by Post Office order, and not in coin or stamps. No fee can he returned under any circumstances.
+
+The places of examination and the local secretaries are:–
+
+...
+
+Swansea.- Mr. E. Sidney Hartland, 98, Mansel-street, Swansea.
+
+...
+
+
+---
+
 https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=6&searchType=BasicSearchForm&currentPosition=3&docId=GALE%7CCS67296560&docType=Article&sort=Pub+Date+Forward+Chron&contentSegment=ZTMA-MOD1&prodId=TTDA&pageNum=1&contentSet=GALE%7CCS67296560&searchId=R2&userGroupName=tou&inPS=true
 
 (Event to take place in Ipswich..)
@@ -31,7 +65,7 @@ The British Association.
 Monday, Sept. 16, 1895
 
 Issue: 34683
-p?
+p4
 THE BRITISH ASSOCIATION, Ipswich, Sept 15th
 
 The engineers dealt with a short and varied programme. The Anthropologists had their meeting-place crowded during a discussion on cannibalism, in which there was apparently an under-current of feeling not quite in accord with popular sentiment.
@@ -58,11 +92,14 @@ Mr. SCOTT ELLIOTT gave details of the habits of the human "leopard" cannibals of
 
 CAPTAIN HINDE regretted that it should have been inferred from his paper that he had any intention of attacking missionaries; such was not the case in the least.
 
+
 ---
 
+https://go-gale-com.libezproxy.open.ac.uk/ps/dispBasicSearch.do?userGroupName=tou&prodId=TTDA
+
 The Times Wednesday 
-8 Sept., 1895,
-p?
+18 Sept., 1895,
+p5
 Mr. N. W. Thomas, of Oswestry
 
 THE SIN EATER IN WALES.
@@ -93,11 +130,11 @@ SANDOWN PIER,ISLB OF WIGHT.-The Attorney General and bliss Webster yesterday per
 
 The Times
 Friday,  Sept. 20, 1895
-p?
+p7
 
 SMOKING IN CHURCH.
 
-Mr. Elton B. Ede writes to us from Edenhurst, Heene, Worthing :-" Though the sin-eater in Wales may not have existed, the mention of him recalls an old practice -viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. 'the Communion-table stood in the aisle, and the farmers were in the habit of putting their hats upon it, and when the sermon began they lit their pipes and smoked, but without any idea of irreverance. I have not seen this practice mentioned in any book, and though it is not desirable that it abould be revived, it seems a pity that it should be forgotten."
+Mr. Elton B. Ede writes to us from Edenhurst, Heene, Worthing :-" Though the sin-eater in Wales may not have existed, the mention of him recalls an old practice -viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. "The Communion-table stood in the aisle, and the farmers were in the habit of putting their hats upon it, and when the sermon began they lit their pipes and smoked, but without any idea of irreverance. I have not seen this practice mentioned in any book, and though it is not desirable that it abould be revived, it seems a pity that it should be forgotten."
 
 ---
 
@@ -105,7 +142,7 @@ The Times (London, England)
 Tuesday,  Sept. 24, 1895
 
 Issue: 34690
-p?
+p4
 
 The Sin-Eater.
 Author: E. SIDNEY HARTLAND
@@ -129,14 +166,14 @@ To The Editor Of The Times
 Author: Z.
 
 Issue: 34690
-p?
+p4
 
 TO THE EDITOR OF THE TIMES.
 
 Sir,
 -With reference to the Welsh superstition of the sin-eater, the existence of which is doubted by Mr. Ede, those interested in the question may like to know that a full account of the superstition is given in " The Mountain Decameron," by Joseph Downes, a now very rare book, published by Bentley in 1836, in three volumes.
 
-On page 232 of vol. 3 there is the following heading -" The Last Sin-Eater of Wales, a Sketch," &c.
+On page 232 of vol. 3 there is the following heading - "The Last Sin-Eater of Wales, a Sketch," &c.
 
 The chapter that follows is most interesting and minute, and seemns to be a literal transcript of fact. It is not strange, however, that the oldest inhabitant now living should not have heard of " the sin-eater," since Joseph Downe, writing in 1836, himself says in the sentence introductory to his sketch, " So late an the earlier part of the last century that strange character of a stranger superstition known by the name of 'the sin-eater ' was not unknown in Wales."
 
@@ -144,12 +181,13 @@ What follows is an aecount in quotation marks of "what is believed to be the las
 Z.
 
 ----
+
 The Times (London, England)
 Monday,  Oct. 14, 1895
 The Sin-Eater In Wales.
 Author: E. SIDNEY HARTLAND.
 Issue: 34707
-p?
+p4
 
 
 THE SIN EATER IN WALES. TO THE; EDITOR OF THE TIMES.
@@ -173,11 +211,11 @@ Now, what is the negative evidence ? It amounts to this :-
 
 None of these denials can outweigh the positive statements already cited. The custom certainly existed entire in the 17th century at Llangors. Shorn of the ritual words, it maintained itself into the 18th century in North Wales, and down to a few years ago in Pembrokeshire. We may be sure it did not maintain itself ony in these places, especially having regard to the practices in Market Drayton and in Derbyshire. It is unfortunate that Canon Silvan Evans's inquiries at Llandebie were not set on foot until more than a quarter of a century after the alleged event. The lapse of time must affect the value of his negative results. More than this, however. His inquiries were made through the clergyman and the schoolmaster. The latter, indeel, was, we are told, an old resident; but the clergyman had only been vicar for 14 years, though he described himself as having known the neighbourhood well for 25 years, which may mean much or little. We have no means of knowing in what form these gentlemen in turn put their questions. That may make all the difference. In any case they are precisely the persons who would not be likely to discover the superstition, if it existed. The Rev. Elias Owen, Diocesan Inspector of Schools and one of the chief authorities om Welsh folklore, relates that once, being in a certain parish for the purpose of examining the school, he took the opportunity of asking the clergyman concerning the superstitions of the place, when he was met by the dignified repulse " Our people are not superstitious, I am glad to say." His inspection over, he asked the first class " Now, children, can you tell me of any place where there is a buggan (ghost or bogey) to be seen, or of any one who has seen one ? ' Instantly every hand was stretched out, and every child had a story to tell. The fact is the people hide their superstitions from aU such representatives of modern culture as clergymen and schoolmasters ; and it is by no means an uncommon experience that the existence of matters of the kind perfectly well known to the peasant is stoutly denied by that same peasant to the clergyman when he asks about them. The Roman Catholic priest, who has in the confessional a weapon much more powerful than the Anglican, is often baffled by his flock. The testimony of the Rev. C. F. Ryan, curate of Drangan, when before the magistrates on the Clonmel " witch-burning" case, is express, and is of the greatest weight on this point. The reason of the concealment comes out in his evidence. It is founded on the known hostility of such personages as the priest or the minister to the ancient superstitions.
 
-On the whole, then, with all respect to Canon Silvan Evans (whose services to Welsh learning are recognized by every one),his denials and the results of his inquiries do not countervail the positive evidence of the existence of the sin-eater in Wales - and the same remark applies with even greater force to the Rev. Eynon Davies, whose inquiries were made later still. I have confined myself to the bare question of fact, and have given little more than an outline of the arguments which I could adduce if I had space for them. The rite is discussed at length in the second volume of my "Legend of Perseus," just published by Mr. David Nutt. Could I have advanced here the considerations there brought forward, I venture to think they would have strongly supported my conclusion. I fear that, consciously or unconsciously, the denial has its roots in a mistaken national or local patriotism, which perhaps peeps forth in Mr. Thomas's vehemence and in his allusion to the " Celtic fringe." We are accustomed to this sort of thing among the Irish, who so greatly resent Giraldus Cambrensis's account of their forefathers (in the main, I believe, perfectly true) that they call any daring lie "a Giraldus.' It is fair, however, to Canon Silvan Evans to say that he entirely disclaims this very natural feeling, putting the question purely as one of alleged matter of fact. My own numerous Welsh friends will not suspect me of any antipathy to their nation. or any desire to wound their susceptibilities in declining to accept Mr. Thomas's verdict. I regard the sin-eater only as an interesting relic of immemorial antiquity ; and the last thing I should dream of would be to malke its possession the basis of any imputation against Wales or the Welsh.
+On the whole, then, with all respect to Canon Silvan Evans (whose services to Welsh learning are recognized by every one),his denials and the results of his inquiries do not countervail the positive evidence of the existence of the sin-eater in Wales - and the same remark applies with even greater force to the Rev. Eynon Davies, whose inquiries were made later still. I have confined myself to the bare question of fact, and have given little more than an outline of the arguments which I could adduce if I had space for them. The rite is discussed at length in the second volume of my "Legend of Perseus," just published by Mr. David Nutt. Could I have advanced here the considerations there brought forward, I venture to think they would have strongly supported my conclusion. I fear that, consciously or unconsciously, the denial has its roots in a mistaken national or local patriotism, which perhaps peeps forth in Mr. Thomas's vehemence and in his allusion to the "Celtic fringe." We are accustomed to this sort of thing among the Irish, who so greatly resent Giraldus Cambrensis's account of their forefathers (in the main, I believe, perfectly true) that they call any daring lie "a Giraldus." It is fair, however, to Canon Silvan Evans to say that he entirely disclaims this very natural feeling, putting the question purely as one of alleged matter of fact. My own numerous Welsh friends will not suspect me of any antipathy to their nation. or any desire to wound their susceptibilities in declining to accept Mr. Thomas's verdict. I regard the sin-eater only as an interesting relic of immemorial antiquity ; and the last thing I should dream of would be to malke its possession the basis of any imputation against Wales or the Welsh.
 
 I have written without reference to the account in The Mountain Decameron mentiuned by your correspondent "Z," because I have not seen that book. It is probably the nameless authority recently cited by a contributor to the Western Mail. If so,and if the account be authentic (as to which I can offer no opinion), the performance of the ceremony at night, as there described, would explain why the custom in some places eluded clerical notice.
 
- I am. &c..,R. SIDNEY HARTLAND.,Highgarth, Gloucester.
+ I am, &c., E. SIDNEY HARTLAND., Highgarth, Gloucester.
 
 ---
 
@@ -185,10 +223,10 @@ The Times (London, England)
 
 Friday, Oct. 18, 1895
 Issue: 34711
-p?
-THE SIN-EATER IN WALES.-Writing under
+p2
+THE SIN-EATER IN WALES.
 
-TiH SIN-EATER IN WALES_ Writing under date October 15 from Haverfordwest with reference to the letter on this subject by Mr. E. Sidney Hartland which appeared in The Times on Monday last, and in the last paragraph of which the writer suggested that the authoritis for the statements in certain contributions on this subject which had recently appeared in the Western Mail had not been given, Mr. Frederick J. Warren (Gwynfardd Dyfed) says that in the contribution to the Western Mail of September 18 last he quoted portions of certain works not therein named. On September 25 a letter appeared in the same Paper from Mr. Hartland asking him if he would furaish all the necessary particulars of the authorities cited. On the 8th of the present month he supplied this information through the same medium, and, as it would seem that Mr. Hartland did not see this second contribution containiug the authentications asked for, he now gives them as follows :-"1 Wanderings and Excursions in South Wales : With the Scenery of the River Wye," by Thomas Roscoe, Esq., published in 1854 by Mr. Henry G. Bohn, York--street, Covent-. garden ; also " Cymru Fu-Notes and Queries relating to the Past History of Wales and the Bor-der Counties ,publishd in 1888 by Messrs Daniel Owen and Co. (Limited), of St. Mary-street, Cardiff. In the notes in "Cymru Fu", the writers on this subject in turn draw their information from Paxton Hood's Christmas Evans" and from "Blackwood" November. 1875).
+Writing under date October 15 from Haverfordwest with reference to the letter on this subject by Mr. E. Sidney Hartland which appeared in *The Times* on Monday last, and in the last paragraph of which the writer suggested that the authorities for the statements in certain contributions on this subject which had recently appeared in the *Western Mail* had not been given, Mr. Frederick J. Warren (Gwynfardd Dyfed) says that in the contribution to the *Western Mail* of September 18 last he quoted portions of certain works not therein named. On September 25 a letter appeared in the same paper from Mr. Hartland asking him if he would furnish all the necessary particulars of the authorities cited. On the 8th of the present month he supplied this information through the same medium, and, as it would seem that Mr. Hartland did not see this second contribution containiug the authentications asked for, he now gives them as follows :- "Wanderings and Excursions in South Wales : With the Scenery of the River Wye," by Thomas Roscoe, Esq., published in 1854 by Mr. Henry G. Bohn, York-street, Covent-garden ; also "Cymru Fu-Notes and Queries relating to the Past History of Wales and the Border Counties, publishd in 1888 by Messrs Daniel Owen and Co. (Limited), of St. Mary-street, Cardiff. In the notes in "Cymru Fu", the writers on this subject in turn draw their information from Paxton Hood's Christmas Evans" and from "Blackwood" November. 1875).
 
 ---
 
@@ -198,7 +236,7 @@ Monday,  Oct. 28, 1895
 
 Author: N. W. THOMAS. 
 Issue: 34719
-p?
+p4
 The Sin-Eater In Wales.
 
 THE SIN-EATER IN WALES.,TO THE EDITOR OF TUE TIMES.,Sir,-Mr. Hartland's letter raises several very interesting points which would require to be discussed at some length. I must, however, confine myself to the question mainly raised by my first letter-the evidence for the recent existence of the sin-eater.
@@ -207,12 +245,52 @@ As I should explain, did space permit, I do not regard analogical evidence as ve
 
 Against this we have the evidence of the vicar, the schoolmaster, and the Nonconformist minister-no doubt such a conjunction is enoagh to damn any cause; but we must remember that the schoolmaster was no tyro at folklore, he had collected legends and customs for Sir Thomas Phillipps. Even a clergyman and a diocesan inspector can elicit ghost stories in a strange parish. Much more can a local schoolmaster find a sin-eater.
 
-Secondly, no Welsh writer bas ever mentioned the sin-eater, and no Welsh word for the name is known.
+Secondly, no Welsh writer has ever mentioned the sin-eater, and no Welsh word for the name is known.
 
 Thirdly, no one has ever been produced who saw a sin-eater or heard of him in the localities where he was said to have lived.
 
 Even if I accepted Mr. Hartland's canon of evidence I should not think that probability lay on his side. Holding that folklore requires stricter evidence of customs, which an eye-witness might readily misinterpret, I hold to my position that the sin-eater has not existed in Wales in recent times.,
 
-I am, &C..,N. W. THOMAS.,New College, Eastbourne.
+I am, &C.., N. W. THOMAS.,New College, Eastbourne.
 
 
+---
+
+https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=20&searchType=BasicSearchForm&currentPosition=2&docId=GALE%7CCS235059980&docType=Advertisement&sort=Pub+Date+Forward+Chron&contentSegment=ZTMA-MOD1&prodId=TTDA&pageNum=1&contentSet=GALE%7CCS235059980&searchId=R1&userGroupName=tou&inPS=true
+
+The Times
+Monday,  Aug. 12, 1878
+
+p14
+
+
+PURSUANT to an Order of the High Court of Justice, Chancery Diviason, made in an Action in the Matter of the Estate of William Harris Roberts deceased Williams and others aginst Davies and another 1878, R. 83 The CREDITORS of WILLIAM HARRiS ROBERTS late of 21 Singleton Terrace, Swansea in the county of Glamorgan. Gentleman, who died in or about the month of July 1875 are on or before the first day of October 1878 to send by pest Prepaid to Mr. Edwin Sidney Hartland of Swansea, aforesaid a member of the firm of Hartland Davies and Isaac the Solicitors of the Defendants Thomas Davies and David Shepherd the executors of the said Willam Harris Roberts deceased their Christian and Surnames, addresses and descriptions; the full particulars of their Claims; a statement of their Accounts and the nature of the Securities, (if any) held by them ; Or in default thereof they will be peremptorily excluded from the benefit of the said order. Every Creditor holding any security is to produce the same before the Master of  the Rolls at his Chambers situated in the Rolls Yard, Chancery Lane, Middlesex, on Monday the 28th day of October 1878, att 11 o'clock in the forenoon being the time appointed for adjudicating on the claims. — Datesd this 24th day of July, 1878.
+
+DAWSON BRYAN & DAWSON 10 Hart Street Bloomsbury Square W. C. Middlesex
+
+
+---
+
+https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=20&searchType=BasicSearchForm&currentPosition=5&docId=GALE%7CCS201905475&docType=Article&sort=Pub+Date+Forward+Chron&contentSegment=ZTMA-MOD1&prodId=TTDA&pageNum=1&contentSet=GALE%7CCS201905475&searchId=R1&userGroupName=tou&inPS=true
+
+The Times
+
+Saturday,  Oct. 3, 1891
+
+p12
+
+Report on International Folk-Lore Congress.
+
+---
+
+https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=20&searchType=BasicSearchForm&currentPosition=6&docId=GALE%7CCS134534470&docType=Article&sort=Pub+Date+Forward+Chron&contentSegment=ZTMA-MOD1&prodId=TTDA&pageNum=1&contentSet=GALE%7CCS134534470&searchId=R1&userGroupName=tou&inPS=true
+
+The Times
+
+p8
+
+Tuesday,  Oct. 6, 1891
+
+Report on International Folk-Lore Congress.
+
+---
