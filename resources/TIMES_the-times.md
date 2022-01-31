@@ -47,9 +47,11 @@ The programme of proceedings in section H [Anthropology] is a pretty full one...
 On Monday there will be papers on Cannibalism by Captain Hinde
 
 ---
+https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=21&searchType=AdvancedSearchForm&currentPosition=12&docId=GALE%7CCS67296556&docType=Article&sort=Pub+Date+Forward+Chron&contentSegment=ZTMA-MOD1&prodId=TTDA&pageNum=1&contentSet=GALE%7CCS67296556&searchId=R6&userGroupName=tou&inPS=true
+
 The Times (London, England)
-Sept. 11, 1895
-p?
+Sept. 12, 1895
+p4
 
 THE BRITISH ASSOCIATION.,IPSWICH, Sept. 11. (Wednesday)
 The annual meeting of the British Association was opened to-day under circumstances which augur favourably for a week of useful activity, sustained by sufficient, but not overwhelming, numbers. Up to this evening nearly 1,200 tickets had been issued. The weather is cooler than it was three days ago and is broken by sharp showers, too short to cause much inconvenience.
@@ -123,7 +125,7 @@ In addition to this, in February, 1882, the Rev. T. Eynon Davies published a let
 If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the " sin-eater " in modern times, stamped originally with the imprimatur of the Cambrian Archemological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.,I am, &c.,
 N. W. THOMAS.,Oswestry.
 
-SANDOWN PIER,ISLB OF WIGHT.-The Attorney General and bliss Webster yesterday performed the ceremony of opening the pier and pier navilion in Sandown Bay. The pier has been lengthened  by 545ft., with a pier-head 107ft. by 93ft., and a pavilion has been built capable of accommodating 400 people, at a total cost of abouit £12,809. 'the pier and pavilion were il1uminated in the evening
+SANDOWN PIER,ISLB OF WIGHT.-The Attorney General and bliss Webster yesterday performed the ceremony of opening the pier and pier navilion in Sandown Bay. The pier has been lengthened  by 545ft., with a pier-head 107ft. by 93ft., and a pavilion has been built capable of accommodating 400 people, at a total cost of about £12,809. The pier and pavilion were illuminated in the evening.
 
 ---
 
@@ -146,7 +148,7 @@ p4
 The Sin-Eater.
 Author: E. SIDNEY HARTLAND
 
-THE SIN-EATER,TO THE EDITOR OF THE TIMES.
+THE SIN-EATER, TO THE EDITOR OF THE TIMES.
 
 Sir,
 
