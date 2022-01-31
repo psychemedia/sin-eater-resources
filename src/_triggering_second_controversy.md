@@ -94,21 +94,31 @@ A more contemporaneous report of how the session went was reported in *The Times
 > This section assembled in the morning at the Working Men's College, under the presidency of Professor Flinders Petrie There was a crowded attendance to hear Captain Hinde's papers on cannibalism and the pigmy tribes in the Congo region.
 >
 > The CHAIRMAN, in introducing Captain Hinde, said that we had been accustomed to look upon cannibalism as something extremely unnatural; but it had not at all been so regarded by a large number of the rest of mankind. We should endeavour to cast aside a little insular prejudice in listening to the paper.
->
+
+A report of Captain Hinde's paper was then provided:
+
 > CAPTAIN S. L. HINDE, who has been travelling and fighting for some years in the Congo basin, said that almost all the races in the Congo basin practise cannibalism, and, though in some parts it is prevented by the presence of white civilization, in others it seems to be on the increase. An extensive traffic in human flesh prevails in many districts, slaves being kept and sold as an article of food. The different tribes have various and horrible methods of preparing the flesh for eating; in some instances, before the death of the victim, certain tribes of the Bangala race themselves acknowledge that they break the arms and legs of the victim, and place the body thus mutilated and still living in water for two or three days, on the supposition that this pre-mortem treatment renders the flesh more palatable. There are also distinct tribal preferences for various parts of the body, and it is remarkable that, contrary to an ignorant yet very generally accepted theory, the negro man-eater never eats flesh raw, and certainly takes human flesh as food purely and simply, and not from any religions or superstitious reasons. In the country of the Balétéla one saw neither gray-haired persons, halt, maimed, nor blind. Even parents were eaten by their children on the approach of the least sign of old age. Under such circumstances the Balétéla were a splendid race. After a fight the native camp-followers of his expedition invariably ate up all the dead, leaving absolutely nothing for the jackals. In this way they undoubtedly saved the expedition from many an epidemic. With regard to the pygmies, he said their average height was under 4ft., and it was as difficult to detect their presence in the forest as it would be to find a mouse in a cornfield. 'hey were a nomadic race, and, being hunters, followed the game in its migration through the forest according to the season. They were courageous, pugnacious, and had an intimate knowledge of poisons. Death succeeded in from three to ten minutes after a scratch was made by one of their tiny poisoned arrows.
->
+
+This was followed by some discussion:
+
 > Mr. ELWORTHY said he appeared in the character of "devil's advocate" and thought there was something to be said in favour of cannibalism. Underlying it was the primeval idea that the body imbibed the properties of that which it ate. Upon that idea – and with all possible reverence he said it – was founded one of the most solemn of our Christian rites. In one part of France even now tbe last of the harvest corn was baked into a loaf made in the form of a human figure. This was supposed to represent the spirit of the corn – the spirit of vegetation, reproduction, fertility – and was broken up, distributed among the villagers, and eaten.
 >
 > Mr. ROUSE, speaking on the authority of Mrs. M'Kittrick, wife of Mr. M'Kittrick, of the Congo Ballolo (Baptist) Mission, who remained to carry on missionary work after her husband's death, said that under the influenee of Gospel teaching the practice of cannibalism in that region had almost wholly ceased. What was the derivation of the wvord cannibal?
 >
 > Mr. DARNELL DAVIS, of British Guiana, said it was derived from the Caribs, or Carribals, who ate the bodies of their enemies under the impression that they would thereby absorb the courage of the latter. A French writer had described the Caribs as such anthropophagic epicures that they could detect the different flavour of a Frenchman, a Spaniard, and an Englishman, and they liked the French flavour best. In regard to Captain Hinde's "sly dig" at the missionaries, speaking as an unprejudiced Government official, he thought missionaries were hampered in their work by the fact that other white men, as a rule, practised the very opposite of what the missionaries preached.
->
+
+And then a report of a comment from a name we might recognise:
+
 > Mr. E. S. HARTLAND said that in all probability the earliest form of cannibalism was that of the eating of deceased relatives. This practice extended over bhe greater part of the world, and many people would be surprised to learn that traces of it were to be found, not merely in Europe, but in our own islands. Not very long ago in Upper Bavaria, when a man died and had been laid out, a cake was made of ordinary flour. The corpse was placad before the fire, and this cake, called the corpse cake, was put upon its breast to rise. The dough, in rising, was believed to absorb all the virtues of the deceased, and the cake was afterwards eaten by his nearest relatives. In the Balkan Peniusula an edible image of the dead was carried in the funeral procession. When the body was buried the mourners ate this image above the grave, saying as they did so, "God rest him." In Wales the practice of employing a "sin-eater" had only ceased within the memory of men still living. It was the custom for the nearest relative, usually a woman, to hand across the bier, or place upon the breast of the corpse, bread, cheese, and beer, which were eaten by the sin-eater, who pronounced everlasting rest to the departed. It was believed that the sin-eater by this means appropriated to himself all the sins which the deceased had committed during his lifetime.
->
+
+Followed by a couple more comments:
+
 > Mr. STEPHEN BOURNE testified to the value of missionary effort in the spread of civilization, humanity, and religion.
 >
 > Mr. SCOTT ELLIOTT gave details of the habits of the human "leopard" cannibals of the West Coast of Africa, and said that had it not been for Captain Hinde's expedition he himself would have been killed and eaten. He had noticed that cannibalism in Africa seemed to be confined to the region of the dark forests.
->
+
+And regret from the good Captain Hinder if any of his comments had been misconstrued as being disrespectful to missionaries:
+
 > CAPTAIN HINDE regretted that it should have been inferred from his paper that he had any intention of attacking missionaries; such was not the case in the least.
 
-And there it was, the trigger: E. Sidney Hartland adding to the discussion to Captain Hinde's paper on cannibalism with the reported comment that *"[i]n Wales the practice of employing a "sin-eater" had only ceased within the memory of men still living.*
+So there it was, the trigger: E. Sidney Hartland adding to the discussion to Captain Hinde's paper on cannibalism with the reported comment that *"[i]n Wales the practice of employing a "sin-eater" had only ceased within the memory of men still living.*
