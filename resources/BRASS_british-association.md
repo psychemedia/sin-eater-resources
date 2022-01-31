@@ -1,11 +1,13 @@
 
 Report of The Sixty-fifth Meeting of The British Association FOR THE ADVANCEMENT OF SCIENCE; HELD AT IPSWICH IN SEPTEMBER 1895
 
-https://books.google.co.uk/books?id=BgtLAAAAYAAJ&pg=PA5&dq=Report+of+The+Sixty-fifth+Meeting+of+The+British+ASSOCIATION+FOR+THE+ADVANCEMENT+OF+SCIENCE&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwj7j-msxpv0AhWVnVwKHbjMCm0Q6AF6BAgKEAI#v=onepage&q=Report%20of%20The%20Sixty-fifth%20Meeting%20of%20The%20British%20ASSOCIATION%20FOR%20THE%20ADVANCEMENT%20OF%20SCIENCE&f=false
+https://archive.org/details/reportofbritisha95brit/page/828/mode/2up
 
 October 1895
 
 p829-830
+
+Report for Saturday, September 14th, 1895
 On Cannibalism By Captain S. L Hinde
 
 Captain Hinde, who has been travelling and fighting for some years in the Congo basin, and has therefore had many almost unprecedented opportunities of observing the natives, gave  the following information with regard to cannibalism —
