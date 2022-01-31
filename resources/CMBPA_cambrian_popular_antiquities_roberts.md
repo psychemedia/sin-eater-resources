@@ -23,7 +23,7 @@ On such an occasion the customs of different nations have varied much, according
 " certain poor persons. After that, they  
 " presented, in the same manner, a cup  
 " of drink, and required the person to  
-" drink a little of it imniediately. When  
+" drink a little of it immediately. When  
 " that was done, they kneeled down ; and  
 " the minister, if present, said the Lord's  
 " prayer; after which, they proceeded  
@@ -39,7 +39,7 @@ On such an occasion the customs of different nations have varied much, according
 " tive of religious reflections. To this  
 " hour the bier is carried by the next of  
 " kin, a custom considered as the highest  
-respect that filial piety can pay to the  
+" respect that filial piety can pay to the  
 " deceased. Among the Welsh it was  
 " reckoned fortunate, if it should rain  
 " while they were carrying him to church,  
