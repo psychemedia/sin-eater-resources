@@ -51,7 +51,7 @@ Hartland then attempts to further strengthen claims as to the long history of su
 
 > That this identification is substantially correct will be seen not only from the instances already given, but also from Pennant's statement (*Tours in Wales*, ed. 1883, iii, 150-1) that in Wales, previously to a funeral, it was customary when the corpse was brought out of the house, for the next of kin (a female) to give over the coffin a quantity of white loaves, and sometimes a cheese with a piece of money stuck in it, to certain poor people. After that they presented in like manner a cup of drink, and required the person to drink a little of it immediately; then the minister repeated the Lord's prayer, after which they proceeded with the corpse. To this hour, Pennant adds, the bier is carried by the next of kin, a custom considered as the highest respect that filial piety can pay to the deceased. It is not at all uncommon, as folk-lore students are aware, for tribal, communal, and other feasts in the last stage of their decadence to come to be represented by gifts of food to the poor. The significance of the custom as related by Pennant is that the food and drink are given *across the coffin by the next of kin*,* and that if the recipients are not required to eat the bread on the spot they have at least to drink of the liquor offered them. Mr Hartland cited many variants of this custom in this and other countries. When these traditional observances are set side by side, their meaning, he observed, is transparent.
 
-The tradition of consuming food or drink placed near the body is seen as a key element, which harltand appears to claim is a relic of a more savage behaviour:
+The tradition of consuming food or drink placed near the body is seen as a key element, which Hartland appears to claim is a relic of a more savage behaviour:
 
 > The partaking of food and drink which have been placed upon or near the body or the coffin of the deceased, or are delivered over the coffin to be consumed— an act, in the most elaborate of these rites, distinctly believed to convey to the persons who partake some, at all events, of the properties of the dead— can only be a relic of a savage feast where the meat consumed was the very body of the deceased kinsman.
 
@@ -116,11 +116,11 @@ The quotation is almost certainly taken from the Folk-Lore Society published edi
 
 There is no, more explict, reference to "Cramer", but the text appears to be a quote of page 35 of the Folklore Society edition of {cite}`aubrey1881remaines`.
 
-As we have already heard, Bagford's letter was also inroduced:
+As we have already heard, Bagford's letter was also introduced:
 
-> Ellis, who quotes Aubrey from the MS., also reprints from Leland's *Collectanea* a letter from a Mr, Bagford giving a slightly varied account, also professedly derived from Aubrey. The letter is dated ist Feb. 17 14-5, and runs thus :
+> Ellis, who quotes Aubrey from the MS., also reprints from Leland's *Collectanea* a letter from a Mr, Bagford giving a slightly varied account, also professedly derived from Aubrey. The letter is dated 1st Feb. 1714-15, and runs thus :
 >
-> " "Within the memory of our Fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire, (for so they called him,) who pre- sently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket ; a Crust of Bread, which he eat ; and a full bowle of Ale, which he drank off at a draught. After this, he got up from the Cricket and pronounced, wdth a composed gesture, *the ease and rest of the Soul departed, for which he would pawn his own Soul*." [Brand and Ellis, Observations on Pop. Antiquities, 11, 155.]
+> "Within the memory of our Fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire, (for so they called him,) who pre- sently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket ; a Crust of Bread, which he eat ; and a full bowle of Ale, which he drank off at a draught. After this, he got up from the Cricket and pronounced, wdth a composed gesture, *the ease and rest of the Soul departed, for which he would pawn his own Soul*." [Brand and Ellis, Observations on Pop. Antiquities, 11, 155.]
 
 And Moggridge's contributions to the meeting at Ludlow:
 
@@ -218,7 +218,7 @@ Hartland fianlly attempts to draw all the stands together in the context of the 
 (FLKLR:correspondence:1892)=
 ### Responses to the Paper
 
-An article in *The Cardiff Times* dated [June 11th, 1892, p4](https://newspapers.library.wales/view/3429440/3429444/77/), acknowledges the publication of the paper, picking up on Harltand's conclusion that many surviving customs hint back to a common, cannibailistic tradition:
+An article in *The Cardiff Times* dated [June 11th, 1892, p4](https://newspapers.library.wales/view/3429440/3429444/77/), acknowledges the publication of the paper, picking up on Hartland's conclusion that many surviving customs hint back to a common, cannibailistic tradition:
 
 > WELSH ECHOES FROM LONDON
 >
