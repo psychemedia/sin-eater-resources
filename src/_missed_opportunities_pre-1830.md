@@ -48,8 +48,8 @@ The author then cites Pennant.
 >" certain poor persons. After that, they  
 >" presented, in the same manner, a cup  
 >" of drink, and required the person to  
->" drink a little of it imniediately. When  
->>" that was done, they kneeled down ; and  
+>" drink a little of it immediately. When  
+>" that was done, they kneeled down ; and  
 >" the minister, if present, said the Lord's  
 >" prayer; after which, they proceeded  
 >" with the corpse, and, at every cross-way  
@@ -64,7 +64,7 @@ The author then cites Pennant.
 >" tive of religious reflections. To this  
 >" hour the bier is carried by the next of  
 >" kin, a custom considered as the highest  
->respect that filial piety can pay to the  
+>" respect that filial piety can pay to the  
 >" deceased. Among the Welsh it was  
 >" reckoned fortunate, if it should rain  
 >" while they were carrying him to church,  
@@ -198,7 +198,7 @@ The quotation appears at [p72-4](https://archive.org/details/cu31924104094986/pa
 
 ```
 
-The fragment regarding sin-eating also appears on pp.222-3 of [*The Gentleman's Magazine* 1822-03: Vol 92](https://archive.org/details/sim_gentlemans-magazine_1822-03_92/page/222/mode/2up), in a column on *Popular Customs and Superstitions in Herefordshore. [From Mr. Fosbroke's "Ariconensia."]*, p220-223, continued from earlier in that volume.
+The fragment regarding sin-eating also appears on pp.222-3 of [*The Gentleman's Magazine* 1822-03: Vol 92](https://archive.org/details/sim_gentlemans-magazine_1822-03_92/page/222/mode/2up), in a column on *Popular Customs and Superstitions in Herefordshire. [From Mr. Fosbroke's "Ariconensia."]*, p220-223, continued from earlier in that volume.
 
 Although probably relevant to our story, there is also mention, again via Popular Antiquities, of a custom involving the casting of half-eater bread in the path of wedding party by a "deserted female":
 
