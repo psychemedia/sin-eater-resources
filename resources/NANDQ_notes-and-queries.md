@@ -374,10 +374,11 @@ Publication date 1895-10-12
 
 p288
 
-SIN_EATERS.—
+SIN-EATERS.
 
-Recently this old custom has been referred to in a local paper ; but the rather contradictory illustrations given call for an explanation, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case, put bread, cheese, and beer on the breast of the
-dead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himself the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; if so, where. The old custom referred to in Leland's 'Collections' was sin-eating pure and simple. Alfred Chas. Jonas, F.R.Hist.S.
+Recently this old custom has been referred to in a local paper ; but the rather contradictory illustrations given call for an explanation, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case, put bread, cheese, and beer on the breast of the dead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himself the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; if so, where. The old custom referred to in Leland's 'Collections' was sin-eating pure and simple.
+
+Alfred Chas. Jonas, F.R.Hist.S.
 Pairfield, Poundfald, near Swansea.
 
 ---
