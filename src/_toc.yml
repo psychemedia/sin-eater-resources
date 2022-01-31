@@ -21,6 +21,9 @@ parts:
   - file: _through_1880s
   - file: _scientific_folklore
   - file: _folklore_1892
+- caption: The Second Controversy, 1895
+  chapters:
+  - file: _triggering_second_controversy.md
 - caption: What Next?
   chapters:
   - file: _forthcoming
