@@ -31,7 +31,7 @@ THE earliest mention of the curious custom of the Sin-eater, formerly observed i
 > 
 > Methinkes, Doles to Poore people with money at Funeralls have some resemblance to that of ye Sinne-eater. Doles at Funeralls were continued at Gentlemens funeralls in the West of England till the Civil-warre. And so in Germany at rich mens funerals Doles are in use, and to every one a Quart of strong and good Beer. — Cramer. [P. 35.]
 
-Ellis, who quotes Aubrey from the MS., also reprints from Leland's *Collectanea* a letter from a Mr, Bagford giving a slightly varied account, also professedly derived from Aubrey. The letter is dated ist Feb. 17 14-5, and runs thus :
+Ellis, who quotes Aubrey from the MS., also reprints from Leland's *Collectanea* a letter from a Mr, Bagford giving a slightly varied account, also professedly derived from Aubrey. The letter is dated 1st Feb. 1714-5, and runs thus :
 
 > "Within the memory of our Fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old Sire, (for so they called him,) who pre- sently repaired to the place where the deceased lay, and stood before the door of the house, when some of the Family came out and furnished him with a Cricket, on which he sat down facing the door. Then they gave him a Groat, which he put in his pocket ; a Crust of Bread, which he eat ; and a full bowle of Ale, which he drank off at a draught. After this, he got up from the Cricket and pronounced, wdth a composed gesture, *the ease and rest of the Soul departed, for which he would pawn his own Soul*." [Brand and Ellis, Observations on Pop. Antiquities, 11, 155.]
 
