@@ -22,9 +22,9 @@ The North Wales Express
 4th October 1895
 p8
 
-Correspondence?
+Correspondence
 
-Though the sin-eater in Wales may not have existed," writes a correspondent of the London "Echo," "the mention of him recalls an old practice-viz., smoking in church, which I remem- ber my mother telling me she saw in* Wales about 1850. The communion table stood in the aisle, and the farmers were in the habit of putting their hats upon it, and when the sermon begun they lit their pipes and smoked, but without any idea of irreverence. I have not seen this practice mentioned in any book, and though it is not desirable that it should be revived, it seems a pity that it should be forgotten." ■"
+"Though the sin-eater in Wales may not have existed," writes a correspondent of the London "Echo," "the mention of him recalls an old practice-viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. The communion table stood in the aisle, and the farmers were in the habit of putting their hats upon it, and when the sermon begun they lit their pipes and smoked, but without any idea of irreverence. I have not seen this practice mentioned in any book, and though it is not desirable that it should be revived, it seems a pity that it should be forgotten."
 
 
 ---
