@@ -37,10 +37,22 @@ https://newspapers.library.wales/view/3452525/3452531/28/
 Y Cymro
 25th March 1897
 p6
-By the Way. 
+By the Way.
+
 ...
-Did the ancient custom of sin-eatiug obtain in Wales within living memory ? It was a most un- canny rite. A piece of bread, sprinkled over with salt, was placed on the bared breast of the dead person the sin-eater, who was paid for the job, ate the bread, washing it down with a mug of beer; the sins of the dead were thus transferred irtl- the eaber, who was consequently looked upon with a feeling of loathing and horror. For was he not selling his soul for a price ? Miss Fiona Macleod, in her Sin-Eater and Other Tales, recently published by Patrick Geddes, de. scribes the custom as it prevailed in the Highlands of Scotland, The scale of pay seems to have been higher there than in Wales. Perhaps the p-ty was regulated by a kind of sliding scale, and varied ac- cording to the amount of sin to be eaten in each case. At all events, the Welsh sin-eater generaily got only a groat, whereas the Gaelic-eater received sometimes as mnch as five shillings. That speaks highly either of the better moral character of our ancestors, or the more developed commercial acute- ness of the Scotch Celts. If the reader has not made the acquaintance of Fiona Macleod's Gaelic stories, let him hasten to do so. There a.e bhree of bhem—" The Pharais,'j u The Mountain Lovers," and "The Sin Eater.' He will fiud them intensely fascinating. Item, showing affinity of thought between Cym- ro and Gael: the Cymro used to call the east wind gwynt traed y meirw (Cymnt fu, p. 409) the Gael, the wind that blows on the feet of the dead." To rebarn to our subject, if anybody can give in- formation about sin eating in Wales, particularly as regards the time when the custom ceased to ex- ist, he will be conferring a favour on your readers, myself included, and providing you, sir, with very acceptable copy." I may say that the leading recent authority on the subject is Mr. Sidney Hart- land, though his services, like the bread in the cns. tom, should be taken with a pinch of salt. Older authorities are Aubrey and others quoted in Hone's Year Book.
+
+Did the ancient custom of sin-eating obtain in Wales within living memory ? It was a most uncanny rite. A piece of bread, sprinkled over with salt, was placed on the bared breast of the dead person the sin-eater, who was paid for the job, ate the bread, washing it down with a mug of beer; the sins of the dead were thus transferred into the eater, who was consequently looked upon with a feeling of loathing and horror. For was he not selling his soul for a price ?
+
+Miss Fiona Macleod, in her *Sin-Eater and Other Tales*, recently published by Patrick Geddes, describes the custom as it prevailed in the Highlands of Scotland. The scale of pay seems to have been higher there than in Wales. Perhaps the pay was regulated by a kind of sliding scale, and varied according to the amount of sin to be eaten in each case. At all events, the Welsh sin-eater generally got only a groat, whereas the Gaelic-eater received sometimes as mnch as five shillings. That speaks highly either of the better moral character of our ancestors, or the more developed commercial acuteness of the Scotch Celts.
+
+If the reader has not made the acquaintance of Fiona Macleod's Gaelic stories, let him hasten to do so. There are three of them— "The Pharais," "The Mountain Lovers," and "The Sin Eater.' He will find them intensely fascinating.
+
+Item, showing affinity of thought between Cymro and Gael: the Cymro used to call the east wind "gwynt traed y meirw" (*Cymru Fu*, p. 409); the Gael, "the wind that blows on the feet of the dead."
+
+To returrn to our subject, if anybody can give information about sin eating in Wales, particularly as regards the time when the custom ceased to exist, he will be conferring a favour on your readers, myself included, and providing you, sir, with very acceptable "copy." I may say that the leading recent authority on the subject is Mr. Sidney Hartland, though his services, like the bread in the custom, should be taken with a pinch of salt. Older authorities are Aubrey and others quoted in Hone's "Year Book."
+
 ...
+
 
 
 
