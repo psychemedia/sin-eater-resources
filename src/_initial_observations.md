@@ -8,6 +8,9 @@ Writing in Chapter 53, *"Antiquarianism and History"*, p. 516, of *A Companion t
 
 > By using the adjective "antiquarian" to discuss several forms of the study of the past as it was practiced in antiquity, we highlight implicitly the existence of a certain affinity between these forms and a major trend in European culture of the fifteenth to eighteenth centuries, namely research by *antiquarii* ("antiquarians"). Early modern antiquarians studied the *antiquitates* ("antiquities") of the ancient world (pagan and Christian) and of the Middle Ages. By the term antiquitates they meant surviving ancient or medieval artefacts (vestiges of architecture, sculpture, coins, inscriptions, manuscripts, utensils) or institutions, customs, laws, beliefs, ancient or medieval technology – or both categories simultaneously.
 
+```{index} single: Cambrian Archaeological Association ; founding
+:name: CAMBARCH:founding
+```
 ## The Founding of the Cambrian Archaeological Association, 1846-7
 
 In the first part of the 19th century, the new kid on the block was *archaeology*. The British Archaeological Association (BAA) was founded in December, 1843, shortly followed by the formation of the *Archaeological Institute*. (There is probably a story in there somewhere about whether this was a set up by a disenchanted splinter group.)
@@ -15,6 +18,10 @@ In the first part of the 19th century, the new kid on the block was *archaeology
 In January 1846, two Welsh clergyman, the Rev. Harry Longueville Jones and the Rev John Williams launched a richly illustrated journal of their own, *Archaeologia Cambrensis* (*Arch. Camb.*) ([original issue, volume I, issue I](https://archive.org/details/sim_archaeologia-cambrensis_1846-01_1_1)).
 
 > In sending forth to the world this first number of the *Archaeologia Cambrensis*, we are desirous of making known to our numerous antiquarian friends and correspondents the deep sense we entertain of their spontaneous kindness, and, we may add, of the enthusiastic feeling with which they have participated in our arduous undertaking. We hope that we have struck a chord in the hearts of Welsh antiquaries that will resound not harshly in the ears of the Welsh public; and that, by describing and illustrating the antiquities of our dear native land, we shall meet with the lasting support and sympathy of all, who love those venerable and delightful associations connected with the very name of Wales. The many acts of courtesy which we have received from gentlemen, whom we have the honour of knowing only by name, are evidences of the interest with which the study of antiquities is pursued by all men of intelligent and cultivated minds; and they are to us auguries of good for the future.
+
+```{margin}
+Proceedings of the *Cambrian Archaeological Association* can be found in the Internet Archive collection `pub_archaeologia-cambrensis`.
+```
 
 The first article in the issue, authored by *H. L. J.* — which is to say, Harry Longueville Jones – provided context for the aims of the journal: *"On the Study and Preservation of National Antiquities"*. Other articles in that first issue included *An Account of the Civil War in North Wales* and papers on *Heraldry* and *Holy Wells* and many pages of correspondence.
 
@@ -121,7 +128,7 @@ Having been proposed as the mediators of communication for the new society, the 
 
 From the proposed adoption of the *"laws and regulations of the Archaeological Institute of Great Britain and Ireland"*, is the *Cambrian Archaeological Association* perhaps another jibe at the *British Archaeological Association* from antiquarians in Wales?
 
-As to it's situatedness, the proposal also suggests that the society becomes an "ambulatory body" that holds meetings around the Principality, again similar in form to the Archaeological Institute:
+As to its situatedness, the proposal also suggests that the society becomes an "ambulatory body" that holds meetings around the Principality, again similar in form to the Archaeological Institute:
 
 > As Wales does not possess any metropolitan city where the Association could have a permanent locality, it must of necessity become an ambulatory body, and must hold meetings at fixed periods in various places. We should be inclined to recommend that it should hold an annual meeting — something like that of the Archaeological Institute — at one or other of the chief towns of the Principality and the four bordering counties; and, to prevent local rivalries, that the county towns of those shires should be taken in succession, as places of assembling. As an act of courtesy to all the members at the starting of such a body, it would be desirable to choose some central town for the *first* place of meeting, where the members might congregate, appoint their officers, and transact their business. We do not, however, think that an annual meeting can be attended without some expense, and therefore, we should suppose that all members attending such meetings, would find it necessary to subscribe to some common fund for local purposes, —but not to any other than an inconsiderable amount. Local secretaries should also be appointed for each county, who might attend to the interests of the Association in their several districts.
 
