@@ -83,7 +83,14 @@ The abstract for the paper can be seen in the Report of The Sixty-fifth Meeting 
 >
 > The different tribes have various and horrible methods of preparing the flesh for eating; in some instances, before the death of the victim, certain tribes of the Bangala race themselves acknowledge that they break the arms and legs of the victom, and place the body, thus mutliated and still living, in water for two or three days, on the supposition that this pre-mortem treatment renders the flesh more palatable. There are also distinct tribal preferences fotr various parts of the body, and it is remarkable that, contrary to an ignorant yet very generally accepted theory, the negro man-eater never eats flesh raw, and certainly takes human flesh as food purely and simply, and not from any religious or superstitious reasons.
 
-A more contemporaneous report of how the session went was reported in *The Times* of September 16th, 1895:
+The opening of the meeting was reported in *The Times* of September 12, 1895, followed by a review of the Prseident's address and the first day's sessions:
+
+> THE BRITISH ASSOCIATION., IPSWICH, Sept. 11. (Wednesday)
+>
+> The annual meeting of the British Association was opened to-day under circumstances which augur favourably for a week of useful activity, sustained by sufficient, but not overwhelming, numbers. Up to this evening nearly 1,200 tickets had been issued. The weather is cooler than it was three days ago and is broken by sharp showers, too short to cause much inconvenience.
+> ...
+
+ *The Times* of September 16th, 1895, reported on Captain Hinde's presentation:
 
 > THE BRITISH ASSOCIATION, Ipswich, Sept 15th
 >
@@ -121,4 +128,13 @@ And regret from the good Captain Hinder if any of his comments had been misconst
 
 > CAPTAIN HINDE regretted that it should have been inferred from his paper that he had any intention of attacking missionaries; such was not the case in the least.
 
-So there it was, the trigger: E. Sidney Hartland adding to the discussion to Captain Hinde's paper on cannibalism with the reported comment that *"[i]n Wales the practice of employing a "sin-eater" had only ceased within the memory of men still living.*
+
+A briefer report also featured in *The South Wales Daily Post* of [September 16th, 1895, p4](https://newspapers.library.wales/view/3353669/3353673/66/), describing to Welsh readers those same comments raised by Harltand:
+
+> CURIOUS WELSH CUSTOM.
+>
+> TRACES OF CANNIBALISM IN WALES. "SIN-EATING" IN THE NEIGHBOURHOOD OF SWANSEA.
+>
+> In the course of the discussion raised by the reading of Captain S. L. Hinde's paper on cannibalism at the Anthropological Section of the British Association at Ipswich on Saturday, an interesting feature connected with old Welsh social life was referred to by Mr. E. S. Hartland, of Gloucester. He said that there were traces of the olid custom eating the dead to be found, not merely in Europe, but in our own country. In Upper Bavaria, when a dead man was laid out, the first thing was to bake a corpse-cake of ordinary flour. The cake was put on the breast of the dead "to rise." It was afterwards eaten by the nearest relatives. In the Balkan Peninsula an image of the dead was carried in the procession, and was eaten at the tomb, the relatives praying "God rest him!". In our own country there were traces of these customs. In Wales there was within the recollection of men still living, the "sin-eater". John Aubrey, who lived at the time of Charles II., and was a celebrated antiquary, witnessed this ceremony at Ross, in the county of Hereford. Aubrey described the man, who was a paid "sin- eater," as "a long, lean, lamentably poor rascal." It was the practice for a relative, usually a woman, to put on the breast of the dead a. quantity of bread, cheese, and beer. The "sin-eater" was expected to consume these things, and then to pronounce the everlasting rest of the departed. It was believed that in doing this he absolutely ate and appropriated to himself the sins of the deceased. The "sin-eater' was given six- pence for his trouble, and took care to get out of people's sight as soon as he oould. This practice was said to have existed in the neighbourhood of Swansea as recently as 1851, but the "sin-eater's" price had then risen to half-a-crown. Probably the greater part of the human race had passed through this phase of cannibalism. and it was, perhaps, a necessary phase of the evolution of human civilisation.
+
+That may have been the end of the matter for the readers of *The South Wales Daily Post*, but for a certain reader of *The Times*, Hartland's reported comments were to be rather more provocative.
