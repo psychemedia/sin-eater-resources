@@ -10,10 +10,10 @@ Monday,  Mar. 3, 1873
 
 p12
 
-UNIVERSITY ININTELLIGENCE.
+UNIVERSITY INTELLIGENCE.
 OXFORD. FEB. 28.
 
-The Oxford Local Examination wvill be held this year at Oxford, and also at the places named below.
+The Oxford Local Examination will be held this year at Oxford, and also at the places named below.
 
 The examination will commence in each place on Monday, the 2d of June, at 2 o'clock p.m.
 
@@ -36,9 +36,8 @@ Swansea.- Mr. E. Sidney Hartland, 98, Mansel-street, Swansea.
 
 https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=6&searchType=BasicSearchForm&currentPosition=3&docId=GALE%7CCS67296560&docType=Article&sort=Pub+Date+Forward+Chron&contentSegment=ZTMA-MOD1&prodId=TTDA&pageNum=1&contentSet=GALE%7CCS67296560&searchId=R2&userGroupName=tou&inPS=true
 
-(Event to take place in Ipswich..)
+The Times
 
-THE BRITISH ASSOCIATION.-The programme of
 Wednesday, Sept. 4, 1895
 Publication: The Times (London, England)
 Issue: 34673
