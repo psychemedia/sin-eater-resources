@@ -94,7 +94,7 @@ The Year Book then quotes a written description of the sin-eater as provided by 
 
 > Among the Lansdowne MSS., in the British Museum, are statements in Aubrey's own hand writing, to this purport. — "In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway.
 
-Which "Rosse highway" is not clear: is it the road out to Hereford, or to Monmouth? (See for example this [(map of Herefordshore by Morden, c.1700](https://maps-prints.com/16848/antique-map-of-herefordshire-by-morden-c1700.jpg).)
+Which "Rosse highway" is not clear: is it the road out to Hereford, or to Monmouth? (See for example this [(map of Herefordshire by Morden, c.1700](https://maps-prints.com/16848/antique-map-of-herefordshire-by-morden-c1700.jpg).)
 
 Aubrey then describes the ritual:
 
@@ -160,7 +160,7 @@ So we can date this observation back at least to c. 1714.
 We also note that the letter has a little more detail regarding the current whereabouts of Aubrey's papers – *and is now remaining in the Hands of Mr. Churchill the Bookseller* – as well as a comment regarding the deeper history of the story: *How can a man think otherwise of this, than that it proceeded from the ancient Heathens?*
 
 
-```{index} single: Leland, John (antiqury) ; biography
+```{index} single: Leland, John (antiquary) ; biography
 :name: biog:JohnLeland
 ```
 ```{admonition} John Leland
