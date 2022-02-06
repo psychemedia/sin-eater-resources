@@ -90,7 +90,7 @@ The opening of the meeting was reported in *The Times* of September 12, 1895, fo
 > The annual meeting of the British Association was opened to-day under circumstances which augur favourably for a week of useful activity, sustained by sufficient, but not overwhelming, numbers. Up to this evening nearly 1,200 tickets had been issued. The weather is cooler than it was three days ago and is broken by sharp showers, too short to cause much inconvenience.
 > ...
 
- *The Times* of September 16th, 1895, reported on Captain Hinde's presentation:
+ *The Times* of Monday, September 16th, 1895, reported on Captain Hinde's presentation:
 
 > THE BRITISH ASSOCIATION, Ipswich, Sept 15th
 >
@@ -128,7 +128,7 @@ And regret from the good Captain Hinde if any of his comments had been misconstr
 
 > CAPTAIN HINDE regretted that it should have been inferred from his paper that he had any intention of attacking missionaries; such was not the case in the least.
 
-A briefer report also featured in *The South Wales Daily Post* of [September 16th, 1895, p4](https://newspapers.library.wales/view/3353669/3353673/66/), describing to Welsh readers those same comments raised by Harltand:
+A briefer report printed in both [*The South Wales Daily Post*](https://newspapers.library.wales/view/3353669/3353673/66/), p4, and the [*Western Mail*](https://newspapers.library.wales/view/4333142/4333146), p4, on that same Monday, September 16th, 1895, described to Welsh readers those same comments raised by Hartland:
 
 > CURIOUS WELSH CUSTOM.
 >
@@ -136,7 +136,7 @@ A briefer report also featured in *The South Wales Daily Post* of [September 16t
 >
 > In the course of the discussion raised by the reading of Captain S. L. Hinde's paper on cannibalism at the Anthropological Section of the British Association at Ipswich on Saturday, an interesting feature connected with old Welsh social life was referred to by Mr. E. S. Hartland, of Gloucester. He said that there were traces of the olid custom eating the dead to be found, not merely in Europe, but in our own country. In Upper Bavaria, when a dead man was laid out, the first thing was to bake a corpse-cake of ordinary flour. The cake was put on the breast of the dead "to rise." It was afterwards eaten by the nearest relatives. In the Balkan Peninsula an image of the dead was carried in the procession, and was eaten at the tomb, the relatives praying "God rest him!". In our own country there were traces of these customs. In Wales there was within the recollection of men still living, the "sin-eater". John Aubrey, who lived at the time of Charles II., and was a celebrated antiquary, witnessed this ceremony at Ross, in the county of Hereford. Aubrey described the man, who was a paid "sin- eater," as "a long, lean, lamentably poor rascal." It was the practice for a relative, usually a woman, to put on the breast of the dead a. quantity of bread, cheese, and beer. The "sin-eater" was expected to consume these things, and then to pronounce the everlasting rest of the departed. It was believed that in doing this he absolutely ate and appropriated to himself the sins of the deceased. The "sin-eater' was given six- pence for his trouble, and took care to get out of people's sight as soon as he oould. This practice was said to have existed in the neighbourhood of Swansea as recently as 1851, but the "sin-eater's" price had then risen to half-a-crown. Probably the greater part of the human race had passed through this phase of cannibalism. and it was, perhaps, a necessary phase of the evolution of human civilisation.
 
-In the *Western Mail*, also dated [*September 16th, 1895](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000104/18950916/009/0004) similarly reviewed Hartland's comments:
+An editorial comment in the *Western Mail* on that same date, [*September 16th, 1895](https://newspapers.library.wales/view/4333142/4333146) (indeed, on the very same page, p4) similarly reviewed Hartland's comments:
 
 > The interesting discussion which followed Captain Hinde's paper on cannibalism before the anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in the course of his comments to an old custom which obtained in Wales in times gone by, and which was called "sin-eating." As late as 1851 traces of it still survived in the Swainsea Valley, and it would he worthwhile inquiring whether they have completely disappeared. The "sin-eater" was the individual who literally "took the cake" at the death of a neighbour, and in consumling it was supposed to "eat" the sins of the deceased.
 
@@ -154,7 +154,27 @@ The *Daily Telegraph* author then describes their confusion as to what the sin-e
 
 > Such an arrangement would obviously leave nothing to be desired on one side, but how it worked on the other side we are not told. What was supposed to be the condition of the spiritual undertaker after the ceremony was concluded? Did in "appropriation" of the dead man's sins imply a sort of moral assimilation of them answering to his physical assimilation of the bread and cheese. The question would obviously be one of some importance to a sin-eater in large practice. If the responsibilities of his profession were as great as they would appear to have been on this hypothesis, he would need to retire from it early, and to devote a considerable portion to his closing years to repentance and good works. Again, it is natural to ask what happened at the decease of a popular "fashionable" sin-eater. Would any one among his professional brethren undertake to eat his sins, even in the first flush of satisfaction produced by stepping into his shoes? If so, then indeed has the epithet of "gallant" been rightly bestowed upon little Wales.
 
-Reporrs were also to appear in various pages over the next few days, under various titles.
+A couple of days later, on [Wednesday, September 18th,  1895](https://newspapers.library.wales/view/4333160/4333166), p6, a correspondent to the *Western Mail* appeared to provide several further pieces of evidence relating to the sin-eater tradition, although they are more than familiar to us already:
+
+> CURIOUS WELSH CUSTOM.
+>
+> MORE ABOUT THE "SIN-EATER"
+>
+> LAST OF THE RACE IN WALES.
+>
+> Referring to the paragraph about the "Sin-eater" in Wales, and your comments in a leaderette, both in Monday's issue (writes "Gwynfardd Dyfed"), it is interesting to learn that the superstition of the "Sin-eater" is said to have lingered even till 1881 int the secluded val of Cwmamman, in Carmarthenshire. When a person died the friends sent for the "sin-eater" of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person; he would then utter an incantation over the bread, after which he proceeded to eat it, thereby eating the sins of the dead person; when this was finished he would receive a fee of 2s. 6d., after which he would leave the place as expeditiously as possible, all the friends ansd relatives of the departed aiding his exit with blows and sticks.
+
+So that's Moggridge's account, essentially.
+
+Then follows what looks like the paraphrasing of an extract from the Vol 8 Iss 182 edition of The Academy, dated November 6th, 1875, p. 478, as noted during the [first controversy](firstcontrov:1875):
+
+> In 1875 the custom was extent in North and South Wales and the borders. The "sin-eater," who gained his living by his services was usually hired when a funeral took place, and was given a loaf of bread and a maple bowl of beer or milk, anad a sixpence, for which he bore away all the sins of the deceased, and prevented him or her walking after death. In Pembrokeshire a relic of this barbaric custom seems still to survive, for upon the breasts of nine out of every ten corpses the plate of silt is still placed. The bread and beer, the "sin-eater" and his sixpenee have all vanished, but the plate of salt reniains. Even the placing of the plate of salt on the breast of the dead body seems to have lost its superstitious character, the act being now performed, so it is alleged, to keep down the swelling which takes place after death.
+
+The correspondent also appears to be familiar with the *Mountain Decameron*, driectly quoting the mention to both Fosbroke as well as the fictional "last sin-eater of Wales":
+
+> A Mr. Fosbroke, in his account of the town of Ross, quotes a letter which speaks of a "sin-eater" who lived by Ross highway, and is described as a gaunt, ghastly, lean, miserable poor rascal. A gentleman who lived a little before the time of this dark superstition becoming, obsolete gives us this brief account of what is believed to have been the last "sin-eater" of Wales: "I got lost," says he, "near nightfall, after being landed by the ferry-boat from the Aber-of-Dovey, on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was cautioned to ride far around this pitchy bog, for no horse ever ventured among the peat-pits, the whoe being a quaking morass. In truth, its look was enough under a black evening to keep me off even without peril of being swallowed, man and horse. At last, thanks to my starts, the good, hard rock of a rouch road rung to my horse's hoof, and I saw a cottage taper, as ghastly as the "Canwyll Corph," at a distance. The house was on a high point and turn of road, overlooking all those many acres of hollow ground. Just as I came, hoping lodging, I heard sounds of wailing within, and soon a woman came out into the dead night, late as it was, and cried a name to the top-pitch of her wild voice, that seemed like the one I had heard weeping indoors. When I looked in there lay a corpse of a man, with a plate of salt, holding a bit of bread, placed on its breast. The woman was shouting to the 'sin eater' to come and do his office; that is to eat the bread, lay his hand on the dead breast, place the dead man's on his own, after making the sign of the cross, and then praying for a transfer of all pains or penances from that pardeoned dead man for ever. At last, what seemed a foggy meteor moved towards the cottage, and, after waiting long, the traveller caught a far-out shout in reply to the woman's long unanswered, till she kindled on the high road's point the straw of her husband's late bed– the usual sign of a death in the house. The 'sin-eater,' it was said, lived alone in a hovel made of sea wreck, and nails of such, between the sea-marsh, and the bog, where few could approach by day, and where none dare go by night.
+
+Reports were also to appear in various pages over the next few days, under various titles.
 
 ```{admonition} The Cambrian, "Cannibalism in Wales", Sept. 20th, 1895
 :class: dropdown
