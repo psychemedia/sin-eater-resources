@@ -2,7 +2,7 @@
 
 Following the publication of Moggridge's comments in 1852, and the immediate response to it, I have found few mentions of the tradition until the 1870s.
 
-In Thomas Roscoe's [*Wanderings and excursions in South Wales, with the scenery of the River Wye*](https://archive.org/details/wanderingsandex01roscgoog/page/n80/mode/2up?q=obsolete) of 1854, we find at p48-51 a referernce to the tradition of corpse candles (*Canwyll Corph*), the *Cwn Annwn* and the *Cyoewraeth*:
+In Thomas Roscoe's [*Wanderings and excursions in South Wales, with the scenery of the River Wye*](https://archive.org/details/wanderingsandex01roscgoog/page/n80/mode/2up?q=obsolete) of 1854, we find at p48-51 a reference to the tradition of corpse candles (*Canwyll Corph*), the *Cwn Annwn* and the *Cyoewraeth*:
 
 ```{index} see: Canwyll Corph ; Corpse Candle
 ```
