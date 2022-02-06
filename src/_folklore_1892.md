@@ -55,13 +55,17 @@ The tradition of consuming food or drink placed near the body is seen as a key e
 
 > The partaking of food and drink which have been placed upon or near the body or the coffin of the deceased, or are delivered over the coffin to be consumed— an act, in the most elaborate of these rites, distinctly believed to convey to the persons who partake some, at all events, of the properties of the dead— can only be a relic of a savage feast where the meat consumed was the very body of the deceased kinsman.
 
-Attention then turns to *cannibalism* as a feature of "savage" funeral rituals:
+This appears to be the first time that cannibalistic practices are explicitly associated with the sin-eater rite or its pre-cursor traditions, and seems to represent a huge leap of imagination in associating the one with the other.
+
+```{index} cannibalism, funeral ritual
+```
+Hartland's identificstion of *cannibalism* as a feature of "savage" funeral rituals is then justified:
 
 > The eating of the dead, however repulsive to us, is known by the testimony of ancient writers to have been the practice of many barbarous tribes, and travellers have found it among modern savages. In particular Strabo records it of the ancient Irish. The inference that the cannibalism related of them was once common to those peoples among whom similar modern practices, like those of the Sin-Eater, &c, have been found, is well within the limits of induction. The reason for the custom is doubtless to be found in the belief that the qualities of the food are communicated to the eater.
 
-A relic of such cannibalistic practice is then claimed to be seen as carried over to corpse cake rituals...:
+A relic of such cannibalistic practice is then claimed to be seen as carried over to corpse cake rituals:
 
-> The same reason which induces the wild South American warrior to love the flesh of tigers, &c, because from it courage passes into those who eat thereof, leads the Bavarian peasant to retain within the kindred the good qualities of a departed member by means of the symbolical act of eating "corpse-cakes."
+> The same reason which induces the wild South American warrior to love the flesh of tigers, &c., because from it courage passes into those who eat thereof, leads the Bavarian peasant to retain within the kindred the good qualities of a departed member by means of the symbolical act of eating "corpse-cakes."
 
 ...as well into the sin-eater tradition:
 
@@ -234,7 +238,7 @@ The publication of the paper was also noted by a correspondent to the *Oswestry 
 
 The same corresponded also quoted from another item in the same volume of *Folk-Lore*. Whilst not directly relevant to the sin-eater tale, it might prove of passing interest and could perhaps be used to weave in elements of possession into "creative" sin-eater tales.
 
-```{index} single: exorcim ; account in Wales
+```{index} single: exorcism ; account in Wales
 :name: folklore:exorcism
 ```
 ```{admonition} Exorcism in Wales
