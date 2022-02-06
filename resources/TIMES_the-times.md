@@ -85,7 +85,7 @@ Mr. ROUSE, speaking on the authority of Mrs. M'Kittrick, wife of Mr. M'Kittrick,
 
 Mr. DARNELL DAVIS, of British Guiana, said it was derived from the Caribs, or Carribals, who ate the bodies of their enemies under the impression that they would thereby absorb the courage of the latter. A French writer had described the Caribs as such anthropophagic epicures that they could detect the different flavour of a Frenchman, a Spaniard, and an Englishman, and they liked the French flavour best. In regard to Captain Hinde's "sly dig" at the missionaries, speaking as an unprejudiced Government official, he thought missionaries were hampered in their work by the fact that other white men, as a rule, practised the very opposite of what the missionaries preached.
 
-Mr. E. S. HARTLAND said that in all probability the earliest form of cannibalism was that of the eating of deceased relatives. This practice extended over bhe greater part of the world, and many people would be surprised to learn that traces of it were to be found, not merely in Europe, but in our own islands. Not very long ago in Upper Bavaria, when a man died and had been laid out, a cake was made of ordinary flour. The corpse was placad before the fire, and this cake, called the corpse cake, was put upon its breast to rise. The dough, in rising, was believed to absorb all the virtues of the deceased, and the cake was afterwards eaten by his nearest relatives. In the Balkan Peniusula an edible image of the dead was carried in the funeral procession. When the body was buried the mourners ate this image above the grave, saying as they did so, "God resthim." In Wales the practice of employing a "sin-eater" had only ceased within the memory of men still living. It was the custom for the nearest relative, usually a woman, to hand across the bier, or place upon the breast of the corpse, bread, cheese, and beer, which were eaten by the sin-eater, who pronounced everlasting rest to the departed. It was believed that the sin-eater by this means appropriated to himself all the sins which the deceased had committed during his lifetime.
+Mr. E. S. HARTLAND said that in all probability the earliest form of cannibalism was that of the eating of deceased relatives. This practice extended over bhe greater part of the world, and many people would be surprised to learn that traces of it were to be found, not merely in Europe, but in our own islands. Not very long ago in Upper Bavaria, when a man died and had been laid out, a cake was made of ordinary flour. The corpse was placed before the fire, and this cake, called the corpse cake, was put upon its breast to rise. The dough, in rising, was believed to absorb all the virtues of the deceased, and the cake was afterwards eaten by his nearest relatives. In the Balkan Peniusula an edible image of the dead was carried in the funeral procession. When the body was buried the mourners ate this image above the grave, saying as they did so, "God resthim." In Wales the practice of employing a "sin-eater" had only ceased within the memory of men still living. It was the custom for the nearest relative, usually a woman, to hand across the bier, or place upon the breast of the corpse, bread, cheese, and beer, which were eaten by the sin-eater, who pronounced everlasting rest to the departed. It was believed that the sin-eater by this means appropriated to himself all the sins which the deceased had committed during his lifetime.
 
 Mr. STEPHEN BOURNE testified to the value of missionary effort in the spread of civilization, humanity, and religion.
 
@@ -98,8 +98,8 @@ CAPTAIN HINDE regretted that it should have been inferred from his paper that he
 
 https://go-gale-com.libezproxy.open.ac.uk/ps/dispBasicSearch.do?userGroupName=tou&prodId=TTDA
 
-The Times Wednesday 
-18 Sept., 1895,
+The Times
+Wednesday 18 Sept., 1895,
 p5
 Mr. N. W. Thomas, of Oswestry
 
@@ -114,7 +114,7 @@ If, as I imagine, Mr. Hartland's evidence for this survival is presented to us i
 
 This evidence is originally at best second hand; it is unfortunate that Mr. Hartland has emphasized its value; in the article in Folklore, Mr. Moggridge's evidence has the appearance of beiug the result of personal observation. Thuw at the outset Mr. Hartland's evidence is weakened.
 
-But to any one who has considered the discussion in the Academy in the winter of 1870-76 it seems quite incredible that Mr. Moggridge's evidence should be quoted at all. Canon Silvan Evans collected the evidence on the question. Among others, the vicar of the parish and the schoolmaster testified to the non-existence of the superstition. 'The vicar quoted an intelligent old man, an octogenarian, whose ancestors had lived from time immemorial in the parish. He said that such a custorm, in his opinion, could not have appeared for the last 200 years, or he would have heard of it from his father or grandfather, who lived to a great age. The vicar concluded that the statements which were made by Mr. Moggridge could not be substantiated by any reliable evidence.
+But to any one who has considered the discussion in the Academy in the winter of 1870-76 it seems quite incredible that Mr. Moggridge's evidence should be quoted at all. Canon Silvan Evans collected the evidence on the question. Among others, the vicar of the parish and the schoolmaster testified to the non-existence of the superstition. The vicar quoted an intelligent old man, an octogenarian, whose ancestors had lived from time immemorial in the parish. He said that such a custorm, in his opinion, could not have appeared for the last 200 years, or he would have heard of it from his father or grandfather, who lived to a great age. The vicar concluded that the statements which were made by Mr. Moggridge could not be substantiated by any reliable evidence.
 
 The schoolmaster, Mr. John Rowland, who lived in Llandebie in 1852, when Mr. Moggridge spoke, was equally emphatic. He said he knew all the parishioners and the history of the parish, its customs, legends, and traditions, and during the time he was there he attended many funerals, but never heard of a sin-eater ; in fact, people never gave cakes at funerals in Llandebie.
 
@@ -122,10 +122,11 @@ Is it possible that Mr. Hartland has never seen this discussion, or has he ignor
 
 In addition to this, in February, 1882, the Rev. T. Eynon Davies published a letter in the Christian World a propos of Paxton Hood's " Christmas Evans." Mr. Davies was Congregational minister in Cwmannan, near Llandebie, and said, " Some octogenarians whom I have questioned have never seen a sin-eater, neither have they heard their parents nor their grandparents refer to this custom." There is, in fact, no evidence that he ever existed in Wales at all. All the stories go back to Aubrey's " lean, long, ugly, lamentable,poor Raskel "; and he was at Ross, in Herefordshire, if we believe Aubrey, none too strong a witness.
 
-If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the " sin-eater " in modern times, stamped originally with the imprimatur of the Cambrian Archemological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.,I am, &c.,
+If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the " sin-eater " in modern times, stamped originally with the imprimatur of the Cambrian Archaeological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.,I am, &c.,
 N. W. THOMAS.,Oswestry.
 
-SANDOWN PIER,ISLB OF WIGHT.-The Attorney General and bliss Webster yesterday performed the ceremony of opening the pier and pier navilion in Sandown Bay. The pier has been lengthened  by 545ft., with a pier-head 107ft. by 93ft., and a pavilion has been built capable of accommodating 400 people, at a total cost of about £12,809. The pier and pavilion were illuminated in the evening.
+SANDOWN PIER, ISLE OF WIGHT.
+The Attorney General and Miss Webster yesterday performed the ceremony of opening the pier and pier pavilion in Sandown Bay. The pier has been lengthened by 545ft., with a pier-head 107ft. by 93ft., and a pavilion has been built capable of accommodating 400 people, at a total cost of about £12,800. The pier and pavilion were illuminated in the evening.
 
 ---
 
@@ -152,9 +153,9 @@ THE SIN-EATER, TO THE EDITOR OF THE TIMES.
 
 Sir,
 
-Amid the hurry of the concluding meetings of the British 'Assciation I did not see Mr. Thomas's letter in your issue of Wednesday last; and it is only to-day that I have had an opportunity of reading it. I am much obliged to him for calling my attention to the fact that the existence of the sin-eater in Wales has been questioned. I gather that he is a reader of Folklore. Had he challenged the statements in my article when it was published there, I should have been doubly grateful, since my only object is to elicit and preserve the truth; assuredly not to cast any imputation upon Welshmen I have never seen the discussion in the Academy, nor Mr. Eynon Davies's letter in the Christian World to which Mr. Thomas refers; nor have I, until now, heard of any doubt being thrown upon the matter.
+Amid the hurry of the concluding meetings of the British Association I did not see Mr. Thomas's letter in your issue of Wednesday last; and it is only to-day that I have had an opportunity of reading it. I am much obliged to him for calling my attention to the fact that the existence of the sin-eater in Wales has been questioned. I gather that he is a reader of Folklore. Had he challenged the statements in my article when it was published there, I should have been doubly grateful, since my only object is to elicit and preserve the truth; assuredly not to cast any imputation upon Welshmen I have never seen the discussion in the Academy, nor Mr. Eynon Davies's letter in the Christian World to which Mr. Thomas refers; nor have I, until now, heard of any doubt being thrown upon the matter.
 
-Unfortunately, I have no access here to the old numbers of the Academy Will Mr. Thomas kindly add to my obligation by lending me those containing the discussion on the sin-eater, if he have copies of them? Meantime, I reserve all observations upon the evidence until I have seen them. I am. &eC.,
+Unfortunately, I have no access here to the old numbers of the Academy. Will Mr. Thomas kindly add to my obligation by lending me those containing the discussion on the sin-eater, if he have copies of them? Meantime, I reserve all observations upon the evidence until I have seen them. I am. &eC.,
 E. SIDNEY HARTLAND.,
 Highgarth, Gloucester, Sept. 20.
 
@@ -178,7 +179,7 @@ On page 232 of vol. 3 there is the following heading - "The Last Sin-Eater of Wa
 
 The chapter that follows is most interesting and minute, and seemns to be a literal transcript of fact. It is not strange, however, that the oldest inhabitant now living should not have heard of " the sin-eater," since Joseph Downe, writing in 1836, himself says in the sentence introductory to his sketch, " So late an the earlier part of the last century that strange character of a stranger superstition known by the name of 'the sin-eater ' was not unknown in Wales."
 
-What follows is an aecount in quotation marks of "what is believed to be the last sin-eater in Wales," taken apparently from the printed work of some taveller whom Downes does not name. It is too long for quotation, but should be read by any one interested in the subject, as details of place and incident are so vivid that the traveller's experience can scarcely be doubted. I am, Sir, yours obedientlv.,
+What follows is an account in quotation marks of "what is believed to be the last sin-eater in Wales," taken apparently from the printed work of some traveller whom Downes does not name. It is too long for quotation, but should be read by any one interested in the subject, as details of place and incident are so vivid that the traveller's experience can scarcely be doubted. I am, Sir, yours obediently,
 Z.
 
 ----
