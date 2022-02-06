@@ -116,7 +116,7 @@ For some reason, the *"In the county of Hereford ...  This custom alludes, methi
 
 Note also that the provided reference to *"Agriconensia"* should correclty be given as *"Ariconensia"*.
 
-Finally, we note that the letter of  November, 1885, also prompted a reply in the [Vol. IX, No. 1, January, 1886](https://journals.library.wales/view/2062893/2068170/113#?xywh=-781%2C52%2C3517%2C2320)edition, p98:
+Finally, we note that the letter of  November, 1885, also prompted a reply in the [Vol. IX, No. 1, January, 1886](https://journals.library.wales/view/2062893/2068170/113#?xywh=-781%2C52%2C3517%2C2320) edition, p98:
 
 > REPLIES
 > 
