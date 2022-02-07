@@ -95,7 +95,7 @@ In Chambers's "Pocket Miscellany" (v., 1852) there is an interesting paper on "L
 https://newspapers.library.wales/view/3370518/3370529/207/sin%20eater
 Weekly Mail
 19th October 1895
-p??
+p11
 THE SIN-EATER IN WALES.
 
 Å column of the Times" of Monday was occupied with a letter from Mr. E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent, Mr. N. W. Thomas, who denied the existence of the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years ago and of the Rev. T. Eynon Davies in the "Christian World of February, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
