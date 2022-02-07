@@ -9,7 +9,7 @@ p4
 
 Welsh Gossip
 
-Mr N. W. Thomas, New College, Eastbourne, writes to the Times pomting out that no Welsh writer has ever mentioned the sin-eater, and no Welsh word for the name is known. That no one has ever been produced who saw a sin-eater or heard of him in the localities where he was said to have lived. 
+Mr N. W. Thomas, New College, Eastbourne, writes to the Times pointing out that no Welsh writer has ever mentioned the sin-eater, and no Welsh word for the name is known. That no one has ever been produced who saw a sin-eater or heard of him in the localities where he was said to have lived. 
 
 Also in:
 
