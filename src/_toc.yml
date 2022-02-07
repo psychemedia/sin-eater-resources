@@ -23,7 +23,8 @@ parts:
   - file: _folklore_1892
 - caption: The Second Controversy, 1895
   chapters:
-  - file: _triggering_second_controversy.md
+  - file: _triggering_second_controversy
+  - file: _second_controversy_pt_i
 - caption: What Next?
   chapters:
   - file: _forthcoming
