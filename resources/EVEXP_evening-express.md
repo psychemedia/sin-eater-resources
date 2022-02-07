@@ -50,7 +50,7 @@ Evening Express
 p4
 Gathered from Gwalia
 ...
-Apropos to the discussion on the sin-eater, the following from "Brewer's Dictionary of Phrase and Fable" may not be without inte- rest:—"Sin-eaters— Persons hired at funerals in ancient times to take upon themselves the sins of the deceased that the soul might be delivered from purgatory. Notice was given tc. an old sire before the door of the house, when some of the family came out and furnished him with a cricket [low stool], on which he sat down facing the door; then they gave him a groat, which he put in his pocket; a crust of bread, which he ate, and a bowl of ale, which ho drank off at a draught. After this he got up from the cricket and pronounced the ease and rest of the soul departed, for which he would pawn his own soul."
+Apropos to the discussion on the sin-eater, the following from "Brewer's Dictionary of Phrase and Fable" may not be without interest:— "Sin-eaters— Persons hired at funerals in ancient times to take upon themselves the sins of the deceased that the soul might be delivered from purgatory. Notice was given tc. an old sire before the door of the house, when some of the family came out and furnished him with a cricket [low stool], on which he sat down facing the door; then they gave him a groat, which he put in his pocket; a crust of bread, which he ate, and a bowl of ale, which ho drank off at a draught. After this he got up from the cricket and pronounced the ease and rest of the soul departed, for which he would pawn his own soul."
 
 
 ---
