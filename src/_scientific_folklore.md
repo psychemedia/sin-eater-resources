@@ -80,7 +80,9 @@ There is then a sleight of hand: when "other accounts" are mentioned, we might a
 
 > Other accounts of the Sin-eater have reached us ; but it is only necessary to quote what, there can be little doubt, is a varying form of the same custom mentioned by Pennant, in whose time "previous to a funeral, it was customary, when the corpse was brought out of the house and laid upon the bier, for the next of kin, be it widow, mother, sister, or daughter (for it must be a female), to give, over the coffin, a quantity of white loaves, in a great dish, and sometimes a cheese, with a piece of money stuck in it, to certain poor persons. After that they present, in the same manner, a cup of drink, and require the person to drink a little of it immediately. When that is done, all present kneel down, and the minister, if present, says the Lord's Prayer ; after which they proceed with the corpse."
 
-In terms of following "the scientific approach", Hartland now turns to the possible origins of the tradition, tiresome though that discoery process may be:
+Perhaps surprisingly, no reference is given to the debate that played out in the pages of the *Academy* in the course of the first sin-eater controversy in 1875. Hartland may have been taking a *scientific* approach, but it wasn't necessarily a *scholarly* one.
+
+In terms of following "the scientific approach", Hartland now turns to the possible origins of the tradition, tiresome though that discovery process may be:
 
 > It would be tiresome to go through all the steps of the enquiry into the origin and meaning of this remarkable rite. A few of the most important will exhibit to you the process of the reasoning and the result arrived at. Let us first note that the rite has to do with the disposal of the dead, that the consumption of food and drink placed upon the coffin, or rather upon the the body itself, or handed across it by the next of kin, is the substance of the rite, and that the belief connected with it is, that by the act of eating, some properties of the dead are taken over by the eater.
 
