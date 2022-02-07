@@ -2,6 +2,8 @@
 
 *"On the morning of September the 27th, 1831, the Theatre of the Yorkshire Museum was filled by an assemblage of more than three hundred persons, `[The number of Tickets issued, was three hundred and fifty-three.]` including many distinguished members of learned and scientific bodies in different parts of the united kingdoms, who were collected together in consequence of a general invitation to the friends of science, which had been issued by the Yorkshire Philosophical Society."* [`First report, Brit. Assoc. Adv. Sci., 1832`](https://archive.org/details/b28040144/page/n19/mode/2up)
 
+## The Founding of the British Association for the Advancement of Science, York, 1832
+
 Following an opening address by Viscount Milton, the President of the Society, *"the Rev. William Vernon Harcourt, Vice-President of the Yorkshire Philosophical Society, and Chairman of the Committee of Management, then addressed the Meeting"*:
 
 > "Gentlemen,
@@ -69,7 +71,7 @@ A fortnight later, on September 29th, 1895, [52, pp. 415–417](https://www.natu
 
 > IN our last article we gave a general outline of the local arrangements for the Meeting. The programme, as a whole, is now fairly complete. A slight alteration has been made with reference to the soirées; the first will be given by the Ipswich Scientific Society and the Suffolk Institute of Archæology jointly, and the second by the Mayor of Ipswich (Mr. J. H. Bartlet,). The fitting up of the Section Rooms is proceeding rapidly, and arrangements are being made for the darkening of those in which a lantern will be used. In the case of Sections A and B, which meet in the same building, only the room allotted to Section B will be fitted up with dark blinds and a lantern screen, and the Sections will be asked to exchange rooms on days when papers requiring lantern illustration are read in Section A. The same arrangement will be made as to Sections D and K, which meet in the two rooms at the Masonic Hall. For the President's address in these Sections, the Lyceum Theatre, which is a short distance off, will be placed at the disposal of the Sectional Committees, as the Masonic Hall rooms may be hardly large enough to contain all those who would probably wish to be present on these particular occasions. For a similar reason, Section G, which meets in the Co-operative Hall, will be asked to allow the President's addresses in Sections A and B to be delivered there. A spacious room adjoining the main street, and within two minutes' walk of the reception room, will be set apart for a ladies club-room.
 
-In *The Times* of Spetember 4th, 1895, a program of events was listed, including the following mention of a paper to be presented in section H (*Anthropology*)
+In *The Times* of September 4th, 1895, a program of events was listed, including the following mention of a paper to be presented in section H (*Anthropology*)
 
 > On Monday there will be papers on Cannibalism by Captain Hinde ...
 
@@ -90,7 +92,9 @@ The opening of the meeting was reported in *The Times* of September 12, 1895, fo
 > The annual meeting of the British Association was opened to-day under circumstances which augur favourably for a week of useful activity, sustained by sufficient, but not overwhelming, numbers. Up to this evening nearly 1,200 tickets had been issued. The weather is cooler than it was three days ago and is broken by sharp showers, too short to cause much inconvenience.
 > ...
 
- *The Times* of Monday, September 16th, 1895, reported on Captain Hinde's presentation:
+## Captain Hinde's Presentation "On Cannibalism"
+
+*The Times* of Monday, September 16th, 1895, reported on Captain Hinde's presentation:
 
 > THE BRITISH ASSOCIATION, Ipswich, Sept 15th
 >
@@ -130,6 +134,8 @@ And regret from the good Captain Hinde if any of his comments had been misconstr
 
 A briefer report printed in both [*The South Wales Daily Post*](https://newspapers.library.wales/view/3353669/3353673/66/), p4, and the [*Western Mail*](https://newspapers.library.wales/view/4333142/4333146), p4, on that same Monday, September 16th, 1895, described to Welsh readers those same comments raised by Hartland:
 
+## First Reports
+
 > CURIOUS WELSH CUSTOM.
 >
 > TRACES OF CANNIBALISM IN WALES. "SIN-EATING" IN THE NEIGHBOURHOOD OF SWANSEA.
@@ -156,6 +162,9 @@ The *Daily Telegraph* author then describes their confusion as to what the sin-e
 
 A couple of days later, on [Wednesday, September 18th,  1895](https://newspapers.library.wales/view/4333160/4333166), p6, a correspondent to the *Western Mail* appeared to provide several further pieces of evidence relating to the sin-eater tradition, although they are more than familiar to us already:
 
+```{margin}
+"Gwynfardd Dyfed" is a pseudonymn, invoking Gwynfardd, Prince of Dyfed (11th century)
+```
 > CURIOUS WELSH CUSTOM.
 >
 > MORE ABOUT THE "SIN-EATER"
