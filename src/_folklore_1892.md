@@ -57,7 +57,7 @@ The tradition of consuming food or drink placed near the body is seen as a key e
 
 This appears to be the first time that cannibalistic practices are explicitly associated with the sin-eater rite or its pre-cursor traditions, and seems to represent a huge leap of imagination in associating the one with the other.
 
-```{index} cannibalism, funeral ritual
+```{index} cannibalism ; funeral ritual
 ```
 Hartland's identificstion of *cannibalism* as a feature of "savage" funeral rituals is then justified:
 
@@ -433,7 +433,7 @@ But before we get to that, we should take note of many of Hartland's ideas were 
 
 ## E. Sidney Hartland, *The Legend of Perseus*, 1894
 
-In the chapter on *Funeral Rites* in volume II of [*The legend of Perseus: a study of tradition in story custom and belief*](https://archive.org/details/cu31924027041502/page/n303/mode/2up), 1894, E. Sidney Hartland reviews various cannibalistic practices amongst "savages" and tribes around the world. He then goes on to consider how certain ritual elements might persist as representations of original traditional practices that have died out, p287-299,, as for example in the case of the sin eater:
+In the chapter on *Funeral Rites* in volume II of [*The legend of Perseus: a study of tradition in story custom and belief*](https://archive.org/details/cu31924027041502/page/n303/mode/2up), 1894, E. Sidney Hartland really gets his teeth into the idea of cannibalism as reviews various cannibalistic practices amongst "savages" and tribes around the world. He then goes on to consider how certain ritual elements might persist as representations of original traditional practices that have died out, p287-299,, as for example in the case of the sin eater:
 
 > Speaking generally, the practice of eating a dead kinsman, which is probably the earliest form of cannibalism, is also the earliest form to be abandoned. In the South Sea Islands, for example, where the custom of eating strangers has continued until recent years, the flesh of one's own tribesmen is rejected, save in rare instances, such as that of Hawaii. In the Banks' Islands it is occasionally eaten, in order to establish communion with a dead man for magical purposes : a practice likewise known in Australia.`[Codrington, 221 ; y.. Journ. Anthr. Inst., 285 ; F. Bonney, in xiii. ibid., 135 ; A. W. Howilt, in xvi. ibid., 30, 35. The Koniaga practice also perhaps has its basis in magic.]` But though the custom changes, the sacramental idea underlying it is retained ; and the problem would be how to effect the necessary union between the dead and the living with- out partaking of the body. On the island of Vate, in the New Hebrides, the aged were put to death by burying them alive. A hole was dug, and the victim placed within it in a sitting posture, a hve pig tied to each arm. Before closing the grave, the cords were cut; and the pigs were afterwards killed and served up at the funeral feast. `[ Fratherman, Papuo. Mel., 74.]` In this way they seem to be identified with the corpse.
 
