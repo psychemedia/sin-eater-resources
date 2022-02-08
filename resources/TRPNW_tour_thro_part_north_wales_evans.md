@@ -3,7 +3,7 @@ https://archive.org/details/b22036118/page/362/mode/2up?q=corpse
 
 A tour through part of North Wales in the year 1798
 
-Evans, J
+Evans, John
 
 1800
 
