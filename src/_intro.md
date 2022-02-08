@@ -24,4 +24,4 @@ The exposition proceeds in a largely chronological way, not least because this w
 
 So we shall begin at the beginning, at least at *my* beginning of this strange story, with the introduction tale I heard Ceri Phillips tell. It sets the scene, in a *storyteller's* way, that we will then try to track down in the archives. In doing so, we will perhaps also reveal some of the conceits and tricks of the trade that a *storyteller*, rather and a scholar, might employ in the pursuit of constructing a good *story* as opposed to a historical account...
 
-*Isle of Wight, December 2021-January 2022.*
+*Isle of Wight, December 2021-February 2022.*
