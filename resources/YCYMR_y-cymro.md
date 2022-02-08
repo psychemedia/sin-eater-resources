@@ -200,7 +200,7 @@ If the reader has not made the acquaintance of Fiona Macleod's Gaelic stories, l
 
 Item, showing affinity of thought between Cymro and Gael: the Cymro used to call the east wind "gwynt traed y meirw" (*Cymru Fu*, p. 409); the Gael, "the wind that blows on the feet of the dead."
 
-To returrn to our subject, if anybody can give information about sin eating in Wales, particularly as regards the time when the custom ceased to exist, he will be conferring a favour on your readers, myself included, and providing you, sir, with very acceptable "copy." I may say that the leading recent authority on the subject is Mr. Sidney Hartland, though his services, like the bread in the custom, should be taken with a pinch of salt. Older authorities are Aubrey and others quoted in Hone's "Year Book."
+To return to our subject, if anybody can give information about sin eating in Wales, particularly as regards the time when the custom ceased to exist, he will be conferring a favour on your readers, myself included, and providing you, sir, with very acceptable "copy." I may say that the leading recent authority on the subject is Mr. Sidney Hartland, though his services, like the bread in the custom, should be taken with a pinch of salt. Older authorities are Aubrey and others quoted in Hone's "Year Book."
 
 ...
 
