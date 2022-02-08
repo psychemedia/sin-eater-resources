@@ -551,7 +551,7 @@ p214-5
 
 THE SIN-EATER IN WALES.
 
-The following letter appeared in the Times of October 28. 
+The following letter appeared in the Times of October 28.
 
 Sir,— Mr Hartland's letter raises several very interesting points which would require to be discussed at some length. I must, however, confine myself to the question mainly raised by my first letter— the evidence for the recent existence of the sin-eater.
 
