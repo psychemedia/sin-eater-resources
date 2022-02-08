@@ -438,7 +438,8 @@ I do not think that such an institution as "sin eating" had much chance of flour
 
 The old custom of struggling for the bride still survived. The bridegroom would take with him some rhymers as *guiders* (*sic*); and on reaching the bride's home they would find the door closed, and a great force of hostile bards ready for them inside. The verbal contest would take place through the closed door. [See also: Mari Lwyd, Christmas Custom] If the rhymers happened to be poor hands at "poetry," the struggle would soon be over, and the young woman be allowed to reach the church before twelve o'clock. But, woe worth the day, if a good supply of doggrel should be forthcoming, the wedding would inevitably have to be postponed!
 
-Here is a sample of the verses used on such occasions : 
+Here is a sample of the verses used on such occasions :
+
 "Dafydd (a *guider*, outside) *loquitur* :  'At Cana's feast in Galilee  The first of marriages we see;  At Ystrad here, I dare to say,  The next takes place this very day.'
 
 "Richard (inside) *respondet* :  'If Cana's feast in Galilee  The first of marriages did see,  Come, tell me (and my mind relieve)  *What* was our good old mother Eve ?'"
