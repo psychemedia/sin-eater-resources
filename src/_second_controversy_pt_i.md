@@ -328,7 +328,7 @@ And with that, he signs off:
 
 ## Ripples...
 
-The following day, [Tuesday, October 15th, 1895](https://newspapers.library.wales/view/4333367/4333373/114/sin%20eater), p6, a comment appeared in the *Western Mail*, and was reprinted later that day in the *Evening Express*](https://newspapers.library.wales/view/3256559/3256562/52/sin%20eater), p3, noting Hartland's letter of response to Thomas, in *The Times*:
+The following day, [Tuesday, October 15th, 1895](https://newspapers.library.wales/view/4333367/4333373/114/sin%20eater), p6, a comment appeared in the *Western Mail*, and was reprinted later that day in the *Evening Express*, [p3](https://newspapers.library.wales/view/3256559/3256562/52/sin%20eater), noting Hartland's letter of response to Thomas, in *The Times*:
 
 ```{margin}
 Comment, *The Western Mail*, Tuesday, October 15th, 1895
@@ -477,7 +477,7 @@ That weekend, a short column in the *Weekly Mail* of [Saturday, October 19th](ht
 ```
 ## Mr. Thomas Responds
 
-The following week was a quiet one as far as correspondence goes, but it seems that Mr. Thomas, now writing from Eastbourne, was penning a response that was to appear in *the Times* of Monday, October 28th, 1895, p4.
+The following week was a quiet one as far as correspondence goes, but it seems that Mr. Thomas, now writing from Eastbourne, was penning a response that was to appear in *The Times* of Monday, October 28th, 1895, p4.
 
 The letter opens in a courteous enough manner, with Thomas explaining that his response will be focussed on one specific matter:
 
@@ -514,7 +514,7 @@ On the balance of probability then, Thomas suggests that even if Hartland's clai
 >
 > I am, &C., N. W. THOMAS., New College, Eastbourne.
 
-This letter was later reprinted in the *Carnarvon and Denbigh Herald and North and South Wales Independent* of [November 1st, 1895](https://newspapers.library.wales/view/3602634/3602641/100/sin%20eater), p7, as well as in *Bye-Gones* of Novermber 6th, 1895](https://journals.library.wales/view/2092910/2098365/4#?xywh=-609%2C259%2C4041%2C2665), p214-15, the latter also ending the reference with the following statement:
+This letter was later reprinted in the *Carnarvon and Denbigh Herald and North and South Wales Independent* of [November 1st, 1895](https://newspapers.library.wales/view/3602634/3602641/100/sin%20eater), p7, as well as in *Bye-Gones* of [November 6th, 1895](https://journals.library.wales/view/2092910/2098365/4#?xywh=-609%2C259%2C4041%2C2665), p214-15, the latter also ending the reference with the following statement:
 
 > [The *Times* declined to publish a fuller reply to Mr Hartland, on the ground that the subject was not of sufficient general interest. –Ed.]
 
