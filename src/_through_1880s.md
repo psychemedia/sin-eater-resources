@@ -832,6 +832,9 @@ Still existent variants of the tradition in the region were then identified, alo
 
 > The funeral sponge-cakes of North Shropshire are still, or were recently, in use in Wales also`[*Ibid.*, p324]`. It is much to be wished that the subject of the ceremonial use of cakes could be farther investigated.`[E. g. we have Wedding, or, as it used to be called, Bride Cake, Christening Cake, Yule Cake, Twelfth Cake, Simnel Cakes, Soul Cakes, etc. : to say nothing of the divinations and magical remedies in which the baking of specially compounded cakes (as the Dumb Cake) plays a part.]` One cannot but suspect that the funeral cakes were in their first origin not a dole to purchase prayers, but a part of the ceremonial of the pagan burial-feasts; of which we really seem to retain other traces in Shropshire, to judge from the following passage in a letter addressed by the Rev. G. L. Wasey to Miss Jackson in 1873. He speaks of course of the neighbourhood of Bridgnorth.
 
+```{index} single: Archaeologia Cambrensis ; extracts from a MS. of an ancient date
+```
+(ARCHC:manuscript)=
 ## *Archaeologia Cambrensis*, "Manuscript"
 
 In [Vol 2 Iss 6, April, 1885](https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/152/mode/2up), p151-5, we find an article entitled *"Extracts from a MS. of an ancient date giving some customs and usages in North Wales"* that is reminiscent of material appearing in Pennant. It closes with the mention that the contents "relate to the diocese of St. Asaph", so is this perhaps the "MS, book of a Bp. of St. Asaph, written about a century ago" that was mentioned in The British magazine article on *Ancient Usages and Customs in North Wales* of 1835?
