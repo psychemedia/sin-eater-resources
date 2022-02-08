@@ -72,6 +72,8 @@ Over in the *John Bull* magazine, on [Sunday 12 June 1836](https://www.britishne
 
 The same column mentions, without further comment, "and The Mountain Decameron, by Mr. Downes, of Builth" in the list of publications too numerous have yet digested.
 
+```{index} double: Downes, Joseph ; Mountain Decameron, The
+```
 ## Joseph Downes' "The Mountain Decameron", 1836
 
 In Volume 1 of [*The Mountain Decameron*, 1836](https://archive.org/details/mountaindecamero01down/page/18/mode/2up), Joseph Downes sets the scene in his long preface to the work, but not before making a withering comment on the state of reading in the Principality:
