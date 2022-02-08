@@ -202,7 +202,11 @@ He also contributes personal experience:
 
 ## Hartland's First Defence, The Times, October 14th, 1895
 
-Another week later, on Monday, October 14th, 1895, p4, E. Sidney Hartland was to respond in the pages of the *Times* to Mr. Thomas' original criticisms of September 18th, 1895. Since his earlier letter, he seems to have obtained copies of the arguments raised in the earlier controversy :
+Another week later, on Monday, October 14th, 1895, p4, E. Sidney Hartland was to respond in the pages of the *Times* to Mr. Thomas' original criticisms of September 18th, 1895.
+
+*Harland also penned a letter on Octor 14th, 1895, to The Academy, but it was not to appear in print there until November 11th, 1895. We will hold off discussing that letter until it appears in the publicly available chronology.*
+
+Since his earlier letter, he seems to have obtained copies of the arguments raised in the earlier controversy :
 
 ```{margin}
 Letter to the Editor, *The Times*, E. S. Hartland, Monday, October 14th, 1895
@@ -274,6 +278,8 @@ And suggests that the people doing the investigating would undoubtedly have been
 
 > In any case they are precisely the persons who would not be likely to discover the superstition, if it existed. The Rev. Elias Owen, Diocesan Inspector of Schools and one of the chief authorities on Welsh folklore, relates that once, being in a certain parish for the purpose of examining the school, he took the opportunity of asking the clergyman concerning the superstitions of the place, when he was met by the dignified repulse " Our people are not superstitious, I am glad to say." His inspection over, he asked the first class " Now, children, can you tell me of any place where there is a buggan (ghost or bogey) to be seen, or of any one who has seen one ? " Instantly every hand was stretched out, and every child had a story to tell. The fact is the people hide their superstitions from aU such representatives of modern culture as clergymen and schoolmasters ; and it is by no means an uncommon experience that the existence of matters of the kind perfectly well known to the peasant is stoutly denied by that same peasant to the clergyman when he asks about them. The Roman Catholic priest, who has in the confessional a weapon much more powerful than the Anglican, is often baffled by his flock. The testimony of the Rev. C. F. Ryan, curate of Drangan, when before the magistrates on the Clonmel "witch-burning" case, is express, and is of the greatest weight on this point. The reason of the concealment comes out in his evidence. It is founded on the known hostility of such personages as the priest or the minister to the ancient superstitions.
 
+```{index} triple: witch burning ; Clonmel, Ireland ; Cleary, Bridget
+```
 ```{admonition}  Bridget Cleary and The Clonmel Witch Burning Case, 1895
 :class: seealso dropdown
 Bridget Cleary, burned to death by her husband, who feared she was a fairy changeling, in Clonmel, Ireland, 1895.
@@ -342,7 +348,7 @@ The editor, perhaps a little more circumspect, responded by way of an editorial 
 >
 > Quite a serious controversy has been waged in our columns, as well as those of the "Times," on the subject of the "Sin-eater" in Wales. The function of this individual is alleged to have been to attend funerals and consume the sins of the defunct with cakes, washed down with nut-brown ale. It is alleged that sin-eating took place as late as 1852 at the village of Llandebie, in Carmarthenshire. The matter was investigated by Silvan Evans, the lexicographer, as well as the late "Giraldus" (who was resident there at the very time), and who but failed to discover any foundation for the story. Still, the evidence for the "Sin-eater" is not thus wholly got rid of, and equally extraordinary superstitions are to be met with in England and in other countries, so that no stone can reasonably be thrown at the Celt even if he did indulge these barbarous exercises, relics as they are of a dark and credulous age.
 
-In the *Llangollen Advertiser Denbighshire Merionethshire and North Wales Journal* of October 18th, 1895](https://newspapers.library.wales/view/3173530/3173537/28/sin%20eater), p7, the sentiments raised by the issue are acknowledged:
+In the *Llangollen Advertiser Denbighshire Merionethshire and North Wales Journal* of [October 18th, 1895](https://newspapers.library.wales/view/3173530/3173537/28/sin%20eater), p7, the sentiments raised by the issue are acknowledged:
 
 > JOTTINGS AND GLEANINGS
 >
