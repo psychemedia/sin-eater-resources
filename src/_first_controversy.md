@@ -2,13 +2,15 @@
 ```{index} ! double: First Controversy ; sin eater
 :name: firstcontrov:1875
 ```
+```{index} seealso: Times, The ; correspondence, Times
+```
 # The First Controversy, 1875
 
 The response to the article in *Blackwood's Magazine*, and in particular the mention of "the sin-eater", begins with the *Vol 8 Iss 182* edition of *The Academy*, dated [November 6th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-06_8_182/page/478/mode/2up?q=legends), p. 478:
 
 > AMONG curious customs and superstitions noticed in an article in *Blackwood* on the "Legends and Folk-lore of North Wales" there is one the singularity of which is heightened by the statement that it still survives in North and South Wales and the Border. At a funeral, "a hireling who lives by such services has handed over to him a loaf of bread, a maple bowl full of beer or milk, and a sixpence, in consideration of which he takes upon him all the sins of the defunct, and frees him or her from walking after death." The scapegoat is currently called a "Sin-eater."
 
-```{index} ! triple: First Controversy ; responses, Academy ; Silvan Evans, D.
+```{index} ! triple: First Controversy ; correspondence, Academy ; Silvan Evans, D.
 :name: firstcontrov:SilvanEvans:1875-11-13
 ```
 ## An Initial Response, Silvan Evans, 1875-11-13
@@ -202,7 +204,7 @@ In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/209291
 
 Askew Roberts' letter to the *Academy* is also republished in *The Cambrian News and Merionethshire Standard*, published on [November 26th, 1875](https://newspapers.library.wales/view/3307690/3307699/76/sin-eater), p9, along with the elaboration of the reference in Hone's *Year Book*.
 
-```{index} ! triple: First Controversy ; responses, Academy ; Blackwood Author
+```{index} ! triple: First Controversy ; correspondence, Academy ; Blackwood Author
 :name: firstcontrov:blackwoodauthor:1875-11-21
 ```
 ## The Blackwood Author Replies, 1875-11-27
@@ -355,7 +357,7 @@ Several other remarks appear then to have been made — *"Mr Edkins and the Pres
 
 This appears to have been Mr Jeremiah's only contribution to the sin-eater debate unless he appears elsewhere under a pseudonym.
 
-```{index} ! triple: First Controversy ; responses, Academy ; Silvan Evans, D.
+```{index} ! triple: First Controversy ; correspondence, Academy ; Silvan Evans, D.
 :name: firstcontrov:SilvanEvans:1876-02-05
 ```
 ## Silvan Evans Responds to the Evidence, 1876-02-05
@@ -657,7 +659,7 @@ As a postscript, the *Blackwood* author appears to give authority to Aubrey in W
 
 At this point, you might imagine some readers imploring Silvan Evans "don't feed the troll", whilst others were anticipating how withering, or weary, his response might be.
 
-```{index} triple: First Controversy ; responses, Academy; Silvan Evans, D. 
+```{index} triple: First Controversy ; correspondence, Academy; Silvan Evans, D. 
 :name: firstcontrov:BlackwoodAuthor:1876-02-26
 ```
 ## Silvan Evans Restates His Position, 1876-02-26
