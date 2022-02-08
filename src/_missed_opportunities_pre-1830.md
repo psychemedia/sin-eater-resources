@@ -101,7 +101,7 @@ A monetary offering made to a presiding minister is also described:
 (NWBNG)=
 ## Bingley's *North Wales*, 1804
 
-Next up comes William Bingley's *North Wales; including its scenery, antiquities, customs, and some sketches of its natural history, delineated from two excursions through all the interesting parts of that country, during the summers of 1798 and 1801.*, and published, in two volumes, in 1804.
+Next up comes William Bingley's *North Wales; including its scenery, antiquities, customs, and some sketches of its natural history, delineated from two excursions through all the interesting parts of that country, during the summers of 1798 and 1801*, and published, in two volumes, in 1804.
 
 In the [second volume](https://archive.org/details/northwalesinclud02bing/page/278/mode/2up), p279, as part of a section on the *The Manners and Customs of the Welsh*, Bingley also picks up on the ritual identified by Pennant of a wronged person calling on St Aeilian to curse someone who has wronged them:
 
