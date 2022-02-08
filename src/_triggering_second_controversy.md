@@ -92,6 +92,10 @@ The opening of the meeting was reported in *The Times* of September 12, 1895, fo
 > The annual meeting of the British Association was opened to-day under circumstances which augur favourably for a week of useful activity, sustained by sufficient, but not overwhelming, numbers. Up to this evening nearly 1,200 tickets had been issued. The weather is cooler than it was three days ago and is broken by sharp showers, too short to cause much inconvenience.
 > ...
 
+
+```{index} triple: sin eater ;  Second Controversy ; trigger
+:name: secondcontrov:trigger
+```
 ## Captain Hinde's Presentation "On Cannibalism"
 
 *The Times* of Monday, September 16th, 1895, reported on Captain Hinde's presentation:
@@ -131,10 +135,9 @@ Followed by a couple more comments:
 And regret from the good Captain Hinde if any of his comments had been misconstrued as being disrespectful to missionaries:
 
 > CAPTAIN HINDE regretted that it should have been inferred from his paper that he had any intention of attacking missionaries; such was not the case in the least.
+## Other Reports
 
 A briefer report printed in both [*The South Wales Daily Post*](https://newspapers.library.wales/view/3353669/3353673/66/), p4, and the [*Western Mail*](https://newspapers.library.wales/view/4333142/4333146), p4, on that same Monday, September 16th, 1895, described to Welsh readers those same comments raised by Hartland:
-
-## First Reports
 
 > CURIOUS WELSH CUSTOM.
 >
