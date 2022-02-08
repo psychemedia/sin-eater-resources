@@ -6,6 +6,8 @@ These references include Hone's Year Book, 1831-32, the second edition of Leland
 
 In this chapter, we'll see whether there were any other popular, or at least, published sources that Moggridge might have overlooked, or been unaware of, that were published prior to his talk in September, 1852.
 
+```{index} double: Pennant, Thomas ; A Tour in Wales
+```
 (TIWPN:1783)=
 ## Pennant's *Tours in Wales*, 1783
 
@@ -23,6 +25,8 @@ On the previous page, page 337, is another custom that is worthy of remark:
 
 In this case, it seems that prayers at to a holy well associated with St Aelian can be used to call forth a curse on one who has wronged the person uttering the imprecation. It's not clear what the process for "discovering thieves" is, but I am intrigued to find out.
 
+```{index} double: Roberts, Peter ; Cambrian Popular Antiquities
+```
 ## Channeling Pennant - Roberts' *Cambrian Popular Antiquities*, 1815
 
 Potentially a source of confusion in the naming, Peter Roberts' 1815 work [*"The Cambrian Popular Antiquities"*](https://archive.org/details/cambrianpopular00robegoog/page/n196/mode/2up), or to give it it's full name, *The Cambrian Popular Antiquities, or, an account of some traditions, customs, and superstitions of Wales, with observations as to their origins*, includes a section on *Burials*, p173-8. This makes *no mention* at all of the sin-eater tradition, which suggests either "censorship", or that Roberts' was not failialr with the tradition in the Welsh context at least:
@@ -78,9 +82,11 @@ Roberts own commentary then continues:
 > After that the corpse has been brought into the church, and the lesson has been read, it is the custom, in some parts of North Wales, that a psalm is. sung, and the clergyman being at the altar, while the psalm is singing, those who attend the funeral as friends of the deceased, approach the altar in succession, and lay
 on a small bracket (which is provided for the purpose) an offering of money, according to the wealth of the oflferer, and the respect for the deceased. This offering has been considered, as originally intended to pay for masses for the soul of the deceased ; but, I believe, it was originally an offering for the support of the clergy- man, as the custom is not, that I have been able to learn, known in England ; and the clergy of the ancient British church were supported chiefly by voluntary offerings on the public occasions. In other respects, the funeral is conducted generally as in England ; but when the service is over, the friends who have attended it do, in many places, kneel down at the grave, and say the Lord's prayer before they depart from it, and for several succeeding Sundays they repair to the grave, and do the same. In many parts, and especially in South Wales, the friends of the deceased take much and laudable pains to deck the grave with flowers. A bordering of slates or stones, is nicely run around it, and the top bound in by stones laid with taste, in a tesselated manner, which has an ornamental effect, whist it remains a monument of a pious affection, gratified in paying its last tribute to a beloved or revered object.
 
-## Evans' *A tour through part of North Wales in the year 1798*, 1800
+```{index} double: Evans, John ; A tour through part of North Wales
+```
+## John Evans' *A tour through part of North Wales in the year 1798*, 1800
 
-In this work collating a series of letters, of which the following ias an exceprt from letter XIII, on pp 362-5, the following description of funeral customs is described:
+John Evans' [*A tour through part of North Wales in the year 1798*](https://archive.org/details/b22036118/page/n11/mode/2up?q=corpse), published in 1800, collates a series of letters describing his travels of a couple of years previoulsy. The following is an excerpt from letter XIII, on pp 362-5, in which various funeral customs are described:
 
 > Previous to a funeral it is usual for the friends of the deceased to meet in the apartment where the corpse is placed ; some of them, generally the female part, kneel round it, and weeping bitterly, lament and bewail the loss of their departed friend. When it is brought to the door, one of the relations gives bread and cheese and beer over the coffin to some poor persons of the same sex, and nearly of the same age with the dead, for collecting herbs and flowers to put into the coffin with the body ; some-times a loaf, with a piece of money stuck in it, is added. This done, all present kneel down, and the minister, if present, repeats the Lord’s Prayer. At every cross-way they stop, and the same ceremony is repeated, till they arrive at the church. Frequently the intervals are filled up by singing of psalms and hymns, which amidst the stillness of rural life, and the echo from the hills, produces a melancholy effect ; and adds to the sombre solemnity of the occasion.
 
@@ -156,9 +162,11 @@ The custom identified by Pennant then makes an appearance:
 
 What we should take away from this, perhaps, is the word *Diodlys* as somehow referencing or describing elements of this tradition; and the apparent confusion over whether this tradition is to be found in North or South Wales.
 
+```{index} single: Jorevin, Monsieur
+```
 ## Jorevin's "Description of England and Ireland" in *The Antiquarian Repertory*, 1775
 
-In [Volume II](https://archive.org/details/antiquarianreper02gros/page/n321/mode/2up?q=jorevin) of a "new edition" of *The Antiquarian repertory : a miscellaneous assemblage of topography, history, biography, customs, and manners ; intended to illustrate and preserve several valuable remains of old times* by Francis Grose and Thomas Astle, published in 1775, the authors quote widely from an account Mosnsieur Jorevin de Rocheford's 17th century travels in England, Ireland and Scotland.
+In [Volume II](https://archive.org/details/antiquarianreper02gros/page/n321/mode/2up?q=jorevin) of a "new edition" of *The Antiquarian repertory : a miscellaneous assemblage of topography, history, biography, customs, and manners ; intended to illustrate and preserve several valuable remains of old times* by Francis Grose and Thomas Astle, published in 1775, the authors quote widely from an account Monsieur Jorevin de Rocheford's 17th century travels in England, Ireland and Scotland.
 
 On [p100-102](https://archive.org/details/antiquarianreper02gros/page/102/mode/2up?q=SCHROSBERY), Jorevin describes his travels through Shrewsbury, which includes an account of a funeral there. The account opens with a description of his initial thoughts on entering Shrewsbury:
 
@@ -175,14 +183,16 @@ The account then describes the funeral procession and interment:
 
 > This being finished, six men took up the corps and carried it on their shoulders to the church ; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough; the other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where having placed the body on tressels and taken off the cloth from the coffin, which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chafed in the manner of a buffet. The minister then ascended his pulpit, and every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of the Holy Scripture concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation ; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaus in the earth with which the corps was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester, and having passed over a large desart plain, I reached Addar, Morton, and a Castle. The country here is barren ; passed a river near a windmill ; from thence to Pries and Vitechurch on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns all alone ; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.
 
+```{index} double: Fosbroke, Thomas Dudley ; Ariconensia / Archaeological sketches of Ross and Archenfield
+```
 (ARICO)=
 ## Fosbroke's *Ariconensia / Archaeological sketches of Ross and Archenfield*, 1821
 
-If there is further evidence or anecdotes surrounding the existence of the sin-eater on the "Rosse highway", then an 1821 work entitled *Ariconensia, or, Archaeological sketches of Ross and Archenfield : illustrative of the campaigns of Caractacus, the station Ariconium, &c, with other matters never before published* by Thomas Dudley Fosbroke, is perhaps a good place to look, particularly if it includes *"other matters never before published"*.
+If there is further evidence or anecdotes surrounding the existence of the sin-eater on the "Rosse highway", then an 1821 work by Thomas Dudley Fosbroke entitled [*Ariconensia, or, Archaeological sketches of Ross and Archenfield*](https://archive.org/details/cu31924104094986/page/n89/mode/2up?q=singular), "illustrative of the campaigns of Caractacus, the station Ariconium, &c, with other matters never before published", is perhaps a good place to look, particularly if it includes *"other matters never before published"*.
 
 Unfortunately, there is no new information, just a restatement of Aubrey's comments from the Lansdowne manuscripts via Brand's *Popular Antiquities*.
 
-```{admonition} Aubrey Quoted via *Popular Antiq.* in *Archaological Sketches*
+```{admonition} Aubrey Quoted via *Popular Antiq.* in *Archaeological Sketches*
 :class: dropdown
 The quotation appears at [p72-4](https://archive.org/details/cu31924104094986/page/n89/mode/2up?q=singular).
 
@@ -322,7 +332,7 @@ On [pp.218-220](https://archive.org/details/biographicalhist177904gran/page/218/
 *Note also: __mortality__ not __morality__ in the eulogy for Madam Cresswell.*
 ```
 
-```{index} single: The Spectator ; Extending Sympathy to Whores
+```{index} single: Spectator, The ; Extending Sympathy to Whores
 :name: SPCTR:sympathy-whores
 ```
 ```{admonition} The Spectator, Issue 266, "Extending Sympathy to Whores"
