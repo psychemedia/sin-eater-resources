@@ -535,7 +535,7 @@ The "expanded and corrected" twelfth edition at least, of Brewer's *Dictionary o
 
 Perhaps of greater concern was that a Welsh work on Welsh traditions, *Hynafion Cymreig*, published in Carmarthen in 1823, just a few short miles from the supposed loction where the sin-eater tradition was claimed to be practised, also had no name for the traditiona and made no mention of. That food rituals were evident around funerals was not challenged. That they did take place should not be considered as surprising, helping mediate expressions of sympathy at a family funeral, just as food surely played a role in mediating the spread of joy at a wedding.
 
-````{panels}
+```{panels}
 
 Y BWYTAWR PECHOD
 ^^^
