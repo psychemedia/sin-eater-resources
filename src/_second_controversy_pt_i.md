@@ -1,3 +1,7 @@
+```{index} ! triple: Second Controversy ; Times, The ; sin eater
+```
+```{index} seealso: Times, The ; Second Controversy
+```
 # Second Controversy, 1895, Part I
 
 Following the report in *The Times* of Captain Hinde's paper "On Cannibalism" presented to *Section H - Anthropology* at the *Sixty-fifth Meeting of The British Association* at Ipswich, September, 1895, a letter to the editor appeared in the issue of Wednesday, September 18th, 1895, from a certain Mr. N. W. Thomas, of Oswestry, taking issue the remarks made by E. Sidney Hartland reported therefrom.
@@ -16,7 +20,7 @@ So what did Mr Thomas have to say in response to that in his later published Sep
 ```{margin}
 Letter to the Editor, *The Times*, N. W. Thomas, Oswestry, Wednesday, September 18th, 1895
 ```
-```{index} triple: Second Controversy ; responses, initial ; Thomas, N. W.
+```{index} ! triple: Second Controversy ; responses, Times ; Thomas, N. W.
 ```
 > THE SIN EATER IN WALES.
 >
@@ -108,7 +112,7 @@ Meanwhile, Sidney Hartland was penning his initial response in a letter appearin
 ```{margin}
 Letter to the Editor, *The Times*, E. S. Hartland, Gloucester, Tuesday, September 24th, 1895
 ```
-```{index} triple: Second Controversy ; responses, initial ; Hartland, Edwin Sidney
+```{index} ! triple: Second Controversy ; responses, Times ; Hartland, Edwin Sidney
 ```
 > THE SIN-EATER, TO THE EDITOR OF THE TIMES.
 >
@@ -127,6 +131,8 @@ As to the controversy in the pages of the *Academy*, it seems that Hartland *was
 > E. SIDNEY HARTLAND.,
 > Highgarth, Gloucester, Sept. 20.
 
+```{index} double: Second Controversy ; Mountain Decameron, The
+```
 ## Muddying the Waters — "The Mountain Decameron"
 
 Also in the *Times* of September 24th, 1895, p4, correspondent *Z.* pickes up on Ede's briefly stated concerns and refers him to the mention of the sin-eater in *The Mountain Decameron*, apparently unaware that the description was a fiction:
@@ -152,6 +158,8 @@ During the original controversry, the readers of *Bye-Gones* were kept informed 
 
 > The subject was dealt with in *Bye-Gones* for 1874-5 and 1876-7, where much of the correspondence in the *Academy* was reproduced.
 
+```{index} triple: Second Controversy ; responses, Times ; Hartland, Edwin Sidney
+```
 ## Hartland Incubates His First Fill Response
 
 In the *Western Mail* of [Wednesday, September 25th, 1895](https://newspapers.library.wales/view/4333214/4333221), p7, E. Sidney Hartland also replied to the correpsondence received from Gwynfardd Dyfed that included the extended Moggridge references and quote from the *Mopuntain Decameron*:
@@ -200,6 +208,8 @@ He also contributes personal experience:
 
 > I have talked to several old Pembrokeshire folk about the practice, but they appear to know nothing of such a custom; they, however, tell me that the plate of salt is still used in a great many eases. This, too, has come within my own personal experience. It is a pewter plate that is mostly used, if one such can be got. One old lady, now deceased, used to keep a pewter plate which she was in the habit of lending out for the purpose. It was also customary in the same county to place coins upon the eyelids of oorpses to keep their eyes closed. Are the coins and the plate of salt all mere relies of the sin-eating custom, or does their use possess any real efficacy? This important question is one which the medical man could assist the antiquary by answering."
 
+```{index} triple: Second Controversy ; responses, Times ; Hartland, Edwin Sidney
+```
 ## Hartland's First Defence, The Times, October 14th, 1895
 
 Another week later, on Monday, October 14th, 1895, p4, E. Sidney Hartland was to respond in the pages of the *Times* to Mr. Thomas' original criticisms of September 18th, 1895.
@@ -461,6 +471,8 @@ That weekend, a short column in the *Weekly Mail* of [Saturday, October 19th](ht
 >
 > A column of the "Times" of Monday was occupied with a letter from Mr. E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent, Mr. N. W. Thomas, who denied the existence of the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years ago and of the Rev. T. Eynon Davies in the "Christian World of February, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
 
+```{index} triple: Second Controversy ; responses, Times ; Thomas, N. W.
+```
 ## Mr. Thomas Responds
 
 The following week was a quiet one as far as correspondence goes, but it seems that Mr. Thomas, now writing from Eastbourne, was penning a response that was to appear in *the Times* of Monday, October 28th, 1895, p4.
