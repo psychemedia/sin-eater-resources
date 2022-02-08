@@ -219,7 +219,7 @@ Hartland fianlly attempts to draw all the stands together in the context of the 
 
 As with Hartland's earlier presentation, there is still no mention of the correspondence debate that played out across several issues of the *Academy* in 1875. Even if we accept that his scholarship had failed to unearth it when preparing the original paper, that no-one then raised it to his attention suggests that the relatively recent historical treatment of the sin-eater was not a widely appreciated one. With the paper now published in the journal of the Folk-Lore Society, the membership of that particular society should surely have the requisite knowledge among them to bring the fruits of that earlier round of  criticism to bear, or at least, a collective memory deep enough to reference it?
 
-```{index} single: Folklore (journal) ; correspondence, 1892-3
+```{index} seealso: Folklore (journal) ; correspondence, Folklore
 ```
 (FLKLR:correspondence:1892)=
 ### Responses to the Paper
@@ -272,7 +272,7 @@ An arguably more formal response to Hartland's published paper appeared in *Folk
 
 In particular, the correspondent asks Hartland to explain the reasoning behind why the presence of distinct traditions at one point in time might derive from a common precursor rite:
 
-```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Godden, Miss G. M.
+```{index} double: correspondence, Folklore ; Godden, Miss G. M.
 :name: FLKLR:correspondence:1892:godden
 ```
 > MR. HARTLAND'S "SIN-EATER", AND PRIMITIVE SACRAMENTS.
@@ -341,7 +341,7 @@ In it, Mrs. Murray-Aynsley appears to be claiming that several traditions spanni
 
 She begins by quoting Dr Schuyler, whose *Turkistan* we have seen mentioned briefly, several times before in our journey in the context of the *iskachi*.
 
-```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Murray-Aynsley,  H. G. M.
+```{index} double: correspondence, Folklore ; Murray-Aynsley,  H. G. M.
 :name: FLKLR:correspondence:1892:aynsley
 ```
 > The Sin-Eater.
@@ -385,7 +385,7 @@ In the meantime, additional evidence was to find its own way into the pages of *
 ```{index} single: funeral biscuit ; Market Drayton
 :name: custom:funeralbiscuit:marketdrayton)
 ```
-```{index} triple: Folklore (journal) ; correspondence, 1892-3 ; Hope, Gertrude
+```{index} double: correspondence, Folklore ; Hope, Gertrude
 :name: FLKLR:correspondence:1892:hope)
 ```
 > "THE SIN-EATER."
