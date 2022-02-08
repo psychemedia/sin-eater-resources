@@ -94,7 +94,7 @@ The Year Book then quotes a written description of the sin-eater as provided by 
 
 > Among the Lansdowne MSS., in the British Museum, are statements in Aubrey's own hand writing, to this purport. — "In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway.
 
-Which "Rosse highway" is not clear: is it the road out to Hereford, or to Monmouth? (See for example this [(map of Herefordshire by Morden, c.1700](https://maps-prints.com/16848/antique-map-of-herefordshire-by-morden-c1700.jpg).)
+Which "Rosse highway" is not clear: is it the road out to Hereford, or to Monmouth? (See for example this [map of Herefordshire by Morden, c.1700](https://maps-prints.com/16848/antique-map-of-herefordshire-by-morden-c1700.jpg).)
 
 Aubrey then describes the ritual:
 
@@ -158,7 +158,6 @@ The letter is signed off as follows:
 So we can date this observation back at least to c. 1714.
 
 We also note that the letter has a little more detail regarding the current whereabouts of Aubrey's papers – *and is now remaining in the Hands of Mr. Churchill the Bookseller* – as well as a comment regarding the deeper history of the story: *How can a man think otherwise of this, than that it proceeded from the ancient Heathens?*
-
 
 ```{index} single: Leland, John (antiquary) ; biography
 :name: biog:JohnLeland
@@ -235,7 +234,7 @@ Here's what Mr Bourne has to say, in Chapter II:
 
 > Of Watching the Dead
 >
-> Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica `[Psaltenum arripuit Euodius, & cantare caepit psalmum, cui respondebamus omnes domus : Miserecordiam & judicium cantabo tibi Domine. Aug. Lib. 9. Confes C. 12.]` Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, `[Ad ecclesiam antelueana hora qua defunctus est, corpus ipsius portatum est : Ibique eadem suit nocte, quam vigtlaviamus in pascba. G?g. Turon. de Gloria; Confes. C. 104.]` That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.
+> Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica `[Psaltenum arripuit Euodius, & cantare caepit psalmum, cui respondebamus omnes domus : Miserecordiam & judicium cantabo tibi Domine. Aug. Lib. 9. Confes C. 12.]` Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, `[Ad ecclesiam antelueana hora qua defunctus est, corpus ipsius portatum est : ibique eadem suit nocte, quam vigilaviamus in pascha. Gmg. Turon. de Gloria; Confes. C. 104.]` That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.
 >
 > How unlike to this antient Custom of watching is the modern one, of locking up the Corps in a Room, and leaving It there alone ? How unlike to this decent Manner of watching, is that watching of the Vulgar, which is a Scene of Sport and Drinking and Lewdness? Watching at that Time with a dear Friend, is the las Kindness and Respect we can shew him ; and how unfriendly is it, to change it into Negligence and too great Resignation? How unchristian, instead of a becoming Sorrow and decent Gravity, to put on an unbecoming Joy and undecent Pastime,
 
