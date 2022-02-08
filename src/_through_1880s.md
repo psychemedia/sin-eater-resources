@@ -834,12 +834,12 @@ Still existent variants of the tradition in the region were then identified, alo
 
 ## *Archaeologia Cambrensis*, "Manuscript"
 
-In [Vol 2 Iss 6, April, 1885](https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/152/mode/2up), p151-5, and article entitled *"Extracts from a MS. of an ancient date giving some customs and usages in North Wales"*
+In [Vol 2 Iss 6, April, 1885](https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/152/mode/2up), p151-5, we find an article entitled *"Extracts from a MS. of an ancient date giving some customs and usages in North Wales"* that is reminiscent of material appearing in Pennant. It closes with the mention that the contents "relate to the diocese of St. Asaph", so is this perhaps the "MS, book of a Bp. of St. Asaph, written about a century ago" that was mentioned in The British magazine article on *Ancient Usages and Customs in North Wales* of 1835?
 
 > ...
-> 
+>
 > The night before a dead body is to be interred the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with them some small piece of meat, bread, or drink (if the family be something poor); but more especially candles, whatever the family is; and this night is called Wyl Nos, whereby the country people seem to mean a Watching Night ; their going to such a house they say is "i wilio'r corph", *i.e.*, to watch the corpse. But "wylo" signifies to weep and lament, aud so "wyl nos" may be a night of lamentations. While they stay together on these nights they are either singing psalms or reading some part of the holy scriptures. [Llanyeil.]
-> 
+>
 > Whenever anybody comes into the room where a dead corpse lyes, especially the wyl nos and the day of its interment, the first thing he does, he falls upon his knees by the corpse, and saith the Lord’s Prayer. [Llanycil custom.]
 >
 > Pence and half-pence (in lieu of little rolls of bread, which heretofore generally, and by some still are given on these occasions) are now distributed to the poor who flock in great numbers to the house of the deceased before the corpse is brought out. [Ysceifiog custom.]
@@ -855,13 +855,13 @@ The preceding paragraph closely resembles Pennant's *Tours in Wales*, 1783, p338
 The excerpts from the manuscript then continue:
 
 > And all along from the house to ye churchyard, at every cross way, the bier is laid down and the Lord’s Prayer rehearsed ; and so, when they come first into the churchyard, before any of the verses appointed in the service be said. [Yskeifiog.]
-> 
+>
 > Some particular places were called "Resting Places". - At church nothing is done but as directed by the Rubric, besides that Evening Service is read with the office of the Buriall. [Llanycil.]
-> 
+>
 > At those words, "we commit this body to the ground", the minister holds the spade and throws in the earth first.
-> 
+>
 > At Dimeirchion there is a Custum of ringing a little bell before the corpse from the house to ye churchyard.
-> 
+>
 > When a corpse is carried to church from any part of the town, the bearers take care to carry it so that the cross may be on their right hand, though the way be hester (nearer) and it be less trouble to go on the other side ; nor will they bring the corpse to the churchyard any other way but through the south gate, singing psalms on the way as the corpse is entered into the church. The minister goes to the altar and there saith the Lord's Prayer, with one of the prayers appointed to be read at the grave, after which the congregation offer upon the altar, or on a little board for that purpose fixed to the rails of the altar, their benevolence to the officiating minister. A friend of the deceased is appointed to stand at the altar, observing who gives and how much. When all have given, he tells the money with the minister, and signifies the sum to the congregation, thanking them all for their goodwill.
 >
 > The people kneel and say the Lord’s Prayer on the graves of their lately deceased friends for some Sundays after their interment, and this is done generally upon their first coming into y® church, and after that they dress the grave with flowers. [Llanvechan.]
