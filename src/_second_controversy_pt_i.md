@@ -685,4 +685,3 @@ No space or time allowed me to elaborate on this daily topic. Suffice it to say 
 ```
 
 At this point, let take a brief interlude from the correspondence, and see what Fiona Macleod's fictional short story of a sin-eater in the Highlands has to say. We shall then moving on to a new forum for the correspondence debate, for as the *Bye-Gones* editor had suggested, *The Times* had tired of these provincial mutterings, even if the correspondents had not. For it had returned to the home of the original debate, in the pages of *The Academy*.
-
