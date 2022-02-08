@@ -2,6 +2,8 @@
 ```
 ```{index} seealso: Times, The ; Second Controversy
 ```
+```{index} seealso: Academy, The ; correspondence, Academy
+```
 # Second Controversy, 1895, Part I
 
 Following the report in *The Times* of Captain Hinde's paper "On Cannibalism" presented to *Section H - Anthropology* at the *Sixty-fifth Meeting of The British Association* at Ipswich, September, 1895, a letter to the editor appeared in the issue of Wednesday, September 18th, 1895, from a certain Mr. N. W. Thomas, of Oswestry, taking issue the remarks made by E. Sidney Hartland reported therefrom.
@@ -20,7 +22,7 @@ So what did Mr Thomas have to say in response to that in his later published Sep
 ```{margin}
 Letter to the Editor, *The Times*, N. W. Thomas, Oswestry, Wednesday, September 18th, 1895
 ```
-```{index} ! triple: Second Controversy ; responses, Times ; Thomas, N. W.
+```{index} ! triple: Second Controversy ; correspondence, Times ; Thomas, N. W.
 ```
 > THE SIN EATER IN WALES.
 >
@@ -112,7 +114,7 @@ Meanwhile, Sidney Hartland was penning his initial response in a letter appearin
 ```{margin}
 Letter to the Editor, *The Times*, E. S. Hartland, Gloucester, Tuesday, September 24th, 1895
 ```
-```{index} ! triple: Second Controversy ; responses, Times ; Hartland, Edwin Sidney
+```{index} ! triple: Second Controversy ; correspondence, Times ; Hartland, Edwin Sidney
 ```
 > THE SIN-EATER, TO THE EDITOR OF THE TIMES.
 >
@@ -158,7 +160,7 @@ During the original controversry, the readers of *Bye-Gones* were kept informed 
 
 > The subject was dealt with in *Bye-Gones* for 1874-5 and 1876-7, where much of the correspondence in the *Academy* was reproduced.
 
-```{index} triple: Second Controversy ; responses, Times ; Hartland, Edwin Sidney
+```{index} triple: Second Controversy ; correspondence, Times ; Hartland, Edwin Sidney
 ```
 ## Hartland Incubates His First Fill Response
 
@@ -208,7 +210,7 @@ He also contributes personal experience:
 
 > I have talked to several old Pembrokeshire folk about the practice, but they appear to know nothing of such a custom; they, however, tell me that the plate of salt is still used in a great many eases. This, too, has come within my own personal experience. It is a pewter plate that is mostly used, if one such can be got. One old lady, now deceased, used to keep a pewter plate which she was in the habit of lending out for the purpose. It was also customary in the same county to place coins upon the eyelids of oorpses to keep their eyes closed. Are the coins and the plate of salt all mere relies of the sin-eating custom, or does their use possess any real efficacy? This important question is one which the medical man could assist the antiquary by answering."
 
-```{index} triple: Second Controversy ; responses, Times ; Hartland, Edwin Sidney
+```{index} triple: Second Controversy ; correspondence, Times ; Hartland, Edwin Sidney
 ```
 ## Hartland's First Defence, The Times, October 14th, 1895
 
@@ -471,7 +473,7 @@ That weekend, a short column in the *Weekly Mail* of [Saturday, October 19th](ht
 >
 > A column of the "Times" of Monday was occupied with a letter from Mr. E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent, Mr. N. W. Thomas, who denied the existence of the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years ago and of the Rev. T. Eynon Davies in the "Christian World of February, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
 
-```{index} triple: Second Controversy ; responses, Times ; Thomas, N. W.
+```{index} triple: Second Controversy ; correspondence, Times ; Thomas, N. W.
 ```
 ## Mr. Thomas Responds
 
@@ -631,4 +633,56 @@ Immediately following the article, on [p5](https://newspapers.library.wales/view
 
 > Miss Fiona Macleod's new book, The Sin-eater, published this week, doubtless contains curious and interesting facts about this practice in the Celtic portions of northern Scotland. At any rate, her former books, "The Mountain Lovers" and Pharais," deal with cognate subjects, and throw much valuable light on the daily life, characteristics, and superstitions of our kinsmen, the Gaels of the Scotch Highlands.
 
-So let us take a brief interlude, and see what that short story has to say, before moving on with the debate. For as the *Bye-Gones* editor had suggested, *The Times* had tired of this provincial debate, but the correspondents had not. And finding that *The Times* was no longer willing to mediate the debate, they turned to another forum in which to continue their correspondence: the pages of *The Academy*.
+A couple of days later, in the *Evening Express* of [November 13th, 1895](https://newspapers.library.wales/view/3257259/3257261/28/), p2 noted a report in a "Birmingham newspaper" (I haven't yet identified which one) summarising the debate occurring elsewhere:
+
+> The Sin-Eater in Wales controversy is summarised by a Birmingham paper, which remarks :— As a preliminary we may explain that sin-eaters, according to certain antiquarians, were a class of men who attended funerals in ancient times, and partook of bread and ale placed on the bier, and so symbolically took on themselves the sins of the deceased. It was believed that whenever this ceremony was performed that the spirit of the dead sinner would be saved from walking the earth in troubled state.
+>
+> The denial of sin-eating in Wales by Mr. Thomas, of Oswestry, has called forth a mass of evidence in proof of the contrary from Mr. Sidney Hartland, one of the most learned of Midland antiquarians, which is printed in the current number of the "Academy." Mr. Hartland relies mainly on old-time writers for his information. Aubrey mentions the custom, as performed by a "long, leane, ugly, lamentable, poor raskal" in Herefordshire. When the body was placed on the bier, "a Loafe of Bread was brought out, and delivered to the sinne-eater over the corps, as also a mazar-bowle of maple full of beer, which he was to drink up, and sixpence in money, in consideration whereof he tooke upon him (ipso facto) all the sinnes of the Defunct, and freed him (or her) from walking after death."
+
+Meanwhile, a letter in *Y Cymro* of [November 14th, 1895, p5](https://newspapers.library.wales/view/3451886/3451891/29/) introduces  the Welsh terms "diodles" and "diodlas", which perhaps remind us of the *Diodlys* tradition described in Bingley's review of *North Wales* from 1804. The correspondent provides a description of the *diodles*/*diodlas* tradition taken from a Welsh work published in 1820, *Drych yr Amseroedd* ["Mirror of the Times"].
+
+```{panels}
+Gohebiaethau.
+^^^
+
+Y BWYTAWR PECHOD.
+
+SYR,— Darllenais eich nodiadau arweiniol ar y pwnc uchod yn *Y Cymro* am Hydref 31ain, gyda dyddordeb mawr. Gwyddwn fy mod wedi clywed son am y ddefod wrth gasglu llafar gwlad, neu fy mod wedi darllen am dani mewn llenyddiaeth Gymreig. Wedi chwilio a chwalu hen gofnodion llafar gwlad, cefais hyd i nodyn yn cyfeirio ati yn union fel y tybiwn, ac yr wyf yn sicr y bydd o ddyddordeb i chwi ac eraill a ymchwilient i'r hen arferion Cymreig, gael hyd i'r cofnodion hyn gan awdwr Cymreig glan gloyw. "Diodlas" neu "Diodles" y gelwid hi yn Nghymru. Ceir hanes am dani yn *Drych yr Amseroedd*, (argraphiad Trefriw, 1820, sydd yn fy meddiant i). Yn tud. 42 dywed-
+
+*Ymofynydd*.— Galarus meddwl mor anystyriol oedd agwedd ein owlad yn y dyddiau tywyll hyny ; yn enwedig yn wyneb amgylchiad mor sobr a gweled un o flaen eu llygaid wedi myned drwy borth angeu i'r farn a thragwyddoldeb, a hwythau eu hunain ar syrthio dros y geulan.- Mae'n gof genyf glywed fy nhaid yn son am rywbeth a elwid Dïodlas neu Dïodles. A gaf fi glywed genyeh pa beth oadd hwnw ?
+
+*Sylivedydd*.- Pan ddigwyddai i ryw un farw mewn teulu, byddai rhywun tlawd a ddewisai y teulu yn cael y ffafr o dderbyn y gardod ddedwydd hono, sef y Ddiodles. Y dull i'w rhoddi i'r tlawd oedd fel hyn ; anfonai y teulu gwpan at wneuthurwr yr arch, i'w lliwio yr un lliw a'r arch ; dau liw arferid ar eirch y pryd hyny, lliw du ar eirch rhai wedi bod yn briod, a lliw gwyn ar eirch rhai sengl, a phan ddeuai dydd y claddedigaeth, wedi dodi y corph ar elor, cyflwynai penaeth y ty yr elusen goel-grefyddol i'r tlawd, sef torth fawr o fara da, a darn helaeth o gaws, a dryll arian yn blanedig yn y caws, a llonaid y gwpan liwiedig o gwrw, os byddai, neu o laeth, gan eu hestyn dros y corph i'r tlawd ; yntau a fendithiai, ac a weddiai ya ddwys a difrifol gydag enaid y marw. Arferai yr holl deulu, y Sul cyntaf ar ol claddu, fyned ar eu gliniau ar y bedd, pob un i ddweyd ei bader. Ac ni choffäent am neb o'u teulu na'u perthynasau, wedi eu marw, heb ddywedyd yn ddefosiynol iawn, "Nefoedd iddo.
+
+Teifl yr hen ddefodau hyn gryn oleuni ar gyftwr gwlad, ac y mae Mr Hartland ac eraill yn gwneud gwasanaeth mawr drwy eu hymdrechion i gael at eu gwraidd. Fel y gwyddoch, mae cryn amrywiaeth yn nulliau y cerid y ddefod allan, ac y mae cofnodion Robert Jones yn amrywio cryn lawer ar adroddiad Mr Matthew Moggridge, ac ychydig ar Leland. Ymddengys adroddiad awdwr y *Drych* i mi yn fwy goleu na'r un a ddyfynir genych chwi. Yn *Hone's Year Book*, dywedir gan Aubrey:
+
+The manner was, that when the corpse was brought out of the house and laid on a bier, a loaf of bread was brought out and delivered to the Sin Eater, over the corpse, as also a mazard-bowl, of maple, full of beer, which he was to drink up, and sixpence in money in consideration whereof he took upon himself, *ipse facto*, all the sins of the defunct, and freed him or her from walking after they were dead. (July 19).
+
+Dywed Laurence Howell yn ei *History of the Pontificate* fod yr arferiad wedi dechreu drwy gamddeongliad o Hosea iv. 8. "Bwyta y maent bechod fy mhobl, ac at eu hanwiredd hwynt y maent yn dyrchafu eu calon."
+
+Ni chaniata gofod nac amser i mi ymhelaethu ar y testyn dyddorol hwn. Digon yw dweyd fod rhai o'r hen ddefion hyn yn cylymu a rhwymo ein hanes â bore oes y byd. Y maent oll yn sylfaenedig ar resymau dyfnach nag a gydnabyddir yn gyffredin. Unwaith, ac am oesoedd, yn hanes ein cyndadau, y maent wedi bod yn fynegiad gonest, ac yn attegiad grymus i ffydd oedd, os yn llai goleuedig, yn gyfartal, os nad yn rhagorach, mewn symlrwydd a chynesrwydd i ffydd yr oes oleu hon. Yn y gwylnosau, yn yr arferiad o dori ychydig o wallt y marw, ac yn aberth y blodau ar Sul neillduol, yr hyn sydd yn gwaghau'r trefydd ac yn llanw'r claddfeydd yn Neheudir Cymru y blynyddoedd hyn, yr ydym yn canfod yr un seremoniau a arferid mewn amrywiol ddulliau yn Syria ac Arabia dair fil o flynyddau yn ol. Pwy yn gydnabyddus a'i Feibl a erys wrth Orsedd Beirdd ein Heisteddfodau heb i adgofion llawer mil o flynyddoedd dd'od i'w feddwl ? Adgofion Gilgal, a'r "deuddeg careg hyny," adgofion deuddeg careg allor Elias, &c., olion ein hen gyfathrach ynt, lawer ohonynt.
+
+*Wheatville, Rhyl.* T. SHANKLAND.
+
+---
+
+Correspondence
+^^^
+Sir, - I read your guidance notes on the above topic in *Y Cymro* for October 31st, with great humility. I knew that I had heard talk of the ritual during a country's oral gathering, or that I had read about it in Welsh literature. Having searched and broken down old country oral records, I found a note referring to it exactly as we think it is, and I am sure that you and others who researched the old Welsh customs will find it strange to find the records this by a bright-eyed Welsh author. It was called "Diodlas" or Diodies in Wales. There is a story about her in *Drych yr Amseroedd* ["Mirror of the Times"], (Trefriw print, 1820, in my possession). In pg. 42 states-
+
+*Inquirer* .— It is lamentable to think how mindless our country was in those dark days; especially in the face of such a sobering circumstance that one could see before their eyes having passed through a portal of death to judgment and eternity, and they themselves were falling over the hollow.- I remember hearing my grandfather talk about something and it was called Dïodlas or Dïodles. Can I hear what that is?
+
+*Observer* .- When it happens that some person dies in a family, a poor person of their choice would receive the favor of that happy guard, the Godhead. The method of giving to the poor was thus; the family would send a cup to the coffin maker, to color it the same color as the coffin; two colors used on coffins at that time, black on the coffins of some who were married, and white on the coffins of single ones, and when the day of the burial came, the body was laid on baptism, the head of the house presented the religious charity to the poor, a large loaf of good bread, and a large piece of cheese, and a silver gun embedded in the cheese, and the full color of a cup of beer, if it were, or of milk, stretching it over the body to ' the poor; he who blessed, and prayed intensely and severely with the soul of the dead. All the family, the first Sunday after burial, used to kneel on the grave, all to wave their flag. And they remembered no one of their family, or of their relations, dead, without saying very devoutly, "Heaven be unto him.
+
+These ancient rituals cast a great deal of light on the state of the countryside, and Mr Hartland and others do a great service through their efforts to get to their roots. As you know, there is considerable variation in the manner in which the ritual was conducted, and Robert Jones' records vary considerably on Mr Matthew Moggridge's report, and Leland's. The *Drych* author's report to me seems more enlightening than the one you are quoted. In *Hone's Year Book*, Aubrey states:
+
+The manner was, that when the corpse was brought out of the house and laid on a bier, a loaf of bread was brought out and delivered to the Sin Eater, over the corpse, as also a mazard-bowl, of maple, full of beer, which he was to drink up, and sixpence in money in consideration whereof he took upon himself, *ipse facto*, all the sins of the defunct, and freed him or her from walking after they were dead. (July 19).
+
+Laurence Howell states in his *History of the Pontificate* that the custom began with a misinterpretation of Hosea iv. 8. "They eat the sin of my people; and to their iniquity do they exalt their heart."
+
+No space or time allowed me to elaborate on this daily topic. Suffice it to say that some of these ancient deities fasten and bind our history with the dawn of the world. They are all based on deeper reasons than is commonly acknowledged. Once, and for ages, in the history of our forefathers, they have been an honest expression, and a powerful attestation to a faith that was, if less enlightened, equal, if not superior, in simplicity and warmth to the faith of this light age. In the vigils, in the habit of cutting some of the hair of the dead, and in the sacrifice of the flowers on a particular Sunday, which empty the towns and fill the burial grounds in Southern Wales all these years, we find the one ceremonies used in various ways in Syria and Arabia three thousand years ago. Who knows his Bible that stands by the Gorsedd of the Bards of our eisteddfodau without the recollections of many a thousand years? The recollections of Gilgal, and the "twelve stones thereof," the recollections of the twelve stones of the altar of Elias, & c., The remains of our old intercourse, many of them.
+
+*Wheatville, Rhyl.* T. SHANKLAND.
+```
+
+At this point, let take a brief interlude from the correspondence, and see what Fiona Macleod's fictional short story of a sin-eater in the Highlands has to say. We shall then moving on to a new forum for the correspondence debate, for as the *Bye-Gones* editor had suggested, *The Times* had tired of these provincial mutterings, even if the correspondents had not. For it had returned to the home of the original debate, in the pages of *The Academy*.
+
