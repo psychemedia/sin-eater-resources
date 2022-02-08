@@ -627,7 +627,7 @@ A correspondent from London replied in the edition of [October 30th, 1891](https
 ```
 ## Bye-Gones, 1882-3
 
-```{index} single: Bye-Gones ; Popish Ceremonies Existing in Wales
+```{index} double: Bye-Gones ; Popish Ceremonies Existing in Wales
 :name: BYGNS:popish
 ```
 A series of articles on *Popish Ceremonies Existing in Wales*, over several issues of Bye-Gones ([May 17th, 1882, p64-5](https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800), [June 7th, 1882](https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235), [July 5th, 1882](https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801), [July 12th, 1882](https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639)) describes various Catholic rituals.
