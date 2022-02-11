@@ -31,7 +31,7 @@ At the time of writing, Daniel Silvan Evans was an ordained priest and scholar, 
 
 The letter expresses a certain amount of doubt as to the veracity of the "alleged" tradition, based on the author having lived for a quarter of a century in the principality in an occupation that *"often brings me in contact with funerals"* and having *"never found a trace of such a custom"*.
 
-Silvan Evans then goes on to request further information on sources and locations and offers to visit the location to pursue further investigations. He also asks for the " *Welsh equivalent of "Sin-eater"'* as one *"interested in Welsh words as well as in Welsh customs and legends"*.
+Silvan Evans then goes on to request further information on sources and locations and offers to visit the location to pursue further investigations. He also asks for the '*Welsh equivalent of "Sin-eater"'* as one *"interested in Welsh words as well as in Welsh customs and legends"*.
 
 A reprinted version of Silvan Evans letter to the *Academy* also appeared *The Cambrian News and Merionethshire Standard*, published on [November 19th, 1875](https://newspapers.library.wales/view/3307679/3307686/41/sin-eater), p7, introduced as:
 
@@ -165,7 +165,7 @@ His funeral seems to have been a well attended one:
 *The obituary gives a long list of names of townsfolk who made up the funeral procession.*
 ```
 
-```{admonition} Leader, *Oswestry Advertizer*, on Askew Robert's Death
+```{admonition} Leader, *Oswestry Advertizer*, on Askew Roberts' Death
 :class: dropdown note
 The Bye-Gones obituary also describes the sentiments expressed in leading column of the *Oswestry Advertizer*:
 
