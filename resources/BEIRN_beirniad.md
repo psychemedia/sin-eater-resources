@@ -3,7 +3,9 @@ https://journals.library.wales/view/2179996/2181214/59#?xywh=-1477%2C-4%2C5109%2
 
 Y Beirniad
 1862
-p.?
+p.204-220
+
+
 
 A man once told Twm o'rNant, "You Thom Edwards gets a lot of money for making wicked men who have done evil in this country." "Yes," he said, "but Jy? am I getting a lot of money for not making songs? absolutely, in the days before. They were not familiar with the solicitors 'and lawyers' offices, just called their own counsel, and had one of the old ministers there. One of these courts sat recently and fifty-one hundred and forty-five years ago
 in the case of the former Bali Sion Aubrey, who was accused of removing poles 9 gates and gates, for his own use. A crowd gathered together one day, whether guilty or not guilty; WILLIAM REES the weaver there was a poet, and witness to the cause of Pali, the true boy, though he was a boy at that time; he is resilient. He said that aroundPali: -
