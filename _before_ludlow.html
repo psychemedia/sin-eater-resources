@@ -37,9 +37,12 @@
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
-    <script src="_static/togglebutton.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
@@ -201,6 +204,11 @@
  <li class="toctree-l1">
   <a class="reference internal" href="_sin_eater_story_macleod.html">
    Interlude – “The Sin-Eater”, Fiona Macleod
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_second_controversy_pt_ii.html">
+   Second Controversy, 1895, Part II
   </a>
  </li>
 </ul>
@@ -475,7 +483,7 @@
 <blockquote>
 <div><p>Among the Lansdowne MSS., in the British Museum, are statements in Aubrey’s own hand writing, to this purport. — “In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway.</p>
 </div></blockquote>
-<p>Which “Rosse highway” is not clear: is it the road out to Hereford, or to Monmouth? (See for example this <a class="reference external" href="https://maps-prints.com/16848/antique-map-of-herefordshire-by-morden-c1700.jpg">(map of Herefordshire by Morden, c.1700</a>.)</p>
+<p>Which “Rosse highway” is not clear: is it the road out to Hereford, or to Monmouth? (See for example this <a class="reference external" href="https://maps-prints.com/16848/antique-map-of-herefordshire-by-morden-c1700.jpg">map of Herefordshire by Morden, c.1700</a>.)</p>
 <p>Aubrey then describes the ritual:</p>
 <blockquote>
 <div><p>The manner was, that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the sin-eater, over the corpse, as also a mazard bowl, of maple, full of beer (which he was to drink up), and sixpence in money : in consideration whereof he took upon him, ipso facto, all the sins of the defunct, and freed him or her from walking after they were dead.”</p>
@@ -573,7 +581,7 @@ British Library: Western Manuscripts Lansdowne MS 231/3
 <p>Here’s what Mr Bourne has to say, in Chapter II:</p>
 <blockquote>
 <div><p>Of Watching the Dead</p>
-<p>Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica <code class="docutils literal notranslate"><span class="pre">[Psaltenum</span> <span class="pre">arripuit</span> <span class="pre">Euodius,</span> <span class="pre">&amp;</span> <span class="pre">cantare</span> <span class="pre">caepit</span> <span class="pre">psalmum,</span> <span class="pre">cui</span> <span class="pre">respondebamus</span> <span class="pre">omnes</span> <span class="pre">domus</span> <span class="pre">:</span> <span class="pre">Miserecordiam</span> <span class="pre">&amp;</span> <span class="pre">judicium</span> <span class="pre">cantabo</span> <span class="pre">tibi</span> <span class="pre">Domine.</span> <span class="pre">Aug.</span> <span class="pre">Lib.</span> <span class="pre">9.</span> <span class="pre">Confes</span> <span class="pre">C.</span> <span class="pre">12.]</span></code> Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, <code class="docutils literal notranslate"><span class="pre">[Ad</span> <span class="pre">ecclesiam</span> <span class="pre">antelueana</span> <span class="pre">hora</span> <span class="pre">qua</span> <span class="pre">defunctus</span> <span class="pre">est,</span> <span class="pre">corpus</span> <span class="pre">ipsius</span> <span class="pre">portatum</span> <span class="pre">est</span> <span class="pre">:</span> <span class="pre">Ibique</span> <span class="pre">eadem</span> <span class="pre">suit</span> <span class="pre">nocte,</span> <span class="pre">quam</span> <span class="pre">vigtlaviamus</span> <span class="pre">in</span> <span class="pre">pascba.</span> <span class="pre">G?g.</span> <span class="pre">Turon.</span> <span class="pre">de</span> <span class="pre">Gloria;</span> <span class="pre">Confes.</span> <span class="pre">C.</span> <span class="pre">104.]</span></code> That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.</p>
+<p>Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica <code class="docutils literal notranslate"><span class="pre">[Psaltenum</span> <span class="pre">arripuit</span> <span class="pre">Euodius,</span> <span class="pre">&amp;</span> <span class="pre">cantare</span> <span class="pre">caepit</span> <span class="pre">psalmum,</span> <span class="pre">cui</span> <span class="pre">respondebamus</span> <span class="pre">omnes</span> <span class="pre">domus</span> <span class="pre">:</span> <span class="pre">Miserecordiam</span> <span class="pre">&amp;</span> <span class="pre">judicium</span> <span class="pre">cantabo</span> <span class="pre">tibi</span> <span class="pre">Domine.</span> <span class="pre">Aug.</span> <span class="pre">Lib.</span> <span class="pre">9.</span> <span class="pre">Confes</span> <span class="pre">C.</span> <span class="pre">12.]</span></code> Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, <code class="docutils literal notranslate"><span class="pre">[Ad</span> <span class="pre">ecclesiam</span> <span class="pre">antelueana</span> <span class="pre">hora</span> <span class="pre">qua</span> <span class="pre">defunctus</span> <span class="pre">est,</span> <span class="pre">corpus</span> <span class="pre">ipsius</span> <span class="pre">portatum</span> <span class="pre">est</span> <span class="pre">:</span> <span class="pre">ibique</span> <span class="pre">eadem</span> <span class="pre">suit</span> <span class="pre">nocte,</span> <span class="pre">quam</span> <span class="pre">vigilaviamus</span> <span class="pre">in</span> <span class="pre">pascha.</span> <span class="pre">Gmg.</span> <span class="pre">Turon.</span> <span class="pre">de</span> <span class="pre">Gloria;</span> <span class="pre">Confes.</span> <span class="pre">C.</span> <span class="pre">104.]</span></code> That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.</p>
 <p>How unlike to this antient Custom of watching is the modern one, of locking up the Corps in a Room, and leaving It there alone ? How unlike to this decent Manner of watching, is that watching of the Vulgar, which is a Scene of Sport and Drinking and Lewdness? Watching at that Time with a dear Friend, is the las Kindness and Respect we can shew him ; and how unfriendly is it, to change it into Negligence and too great Resignation? How unchristian, instead of a becoming Sorrow and decent Gravity, to put on an unbecoming Joy and undecent Pastime,</p>
 </div></blockquote>
 <p>Brand commented as follows:</p>
