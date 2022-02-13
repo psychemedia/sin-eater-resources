@@ -434,7 +434,10 @@ Of quite a different kind is the paper on the "Old Rhymesters [*Prydyddion*] of 
 
 I have said in my previous note that the Independents were the most important religious body in the valley. Between these and their older established Presbyterian (i.e, Unitarian) rivals, whose chapel was (and is) at Gellionen, there were smart debates on the deep things of theology. Here is a stanza taken at random from a long ballad which is quoted in full in the article:
 
-"I know that Death's opinion of Jesus on the Rood  Was simply the Sccinian's—that but a Man there stood ;  But at the third day's dawning he found himself mista'en—  'Twas Jesus rose in triumph, *Death* wore the captive’s chain."
+"I know that Death's opinion of Jesus on the Rood  
+Was simply the Sccinian's — that but a Man there stood ;  
+But at the third day's dawning he found himself mista'en—  
+'Twas Jesus rose in triumph, *Death* wore the captive’s chain."
 
 I do not think that such an institution as "sin eating" had much chance of flourishing in that soil; for it must be borne in mind that these rhymesters were not ministers, preachers, or "poets" with Eisteddfodic fancy names, but plain yokels—masons, millers, weavers, blacksmiths, and small farmers.
 
@@ -442,21 +445,38 @@ The old custom of struggling for the bride still survived. The bridegroom would 
 
 Here is a sample of the verses used on such occasions :
 
-"Dafydd (a *guider*, outside) *loquitur* :  'At Cana's feast in Galilee  The first of marriages we see;  At Ystrad here, I dare to say,  The next takes place this very day.'
+"Dafydd (a *guider*, outside) *loquitur* :  
+'At Cana's feast in Galilee  
+The first of marriages we see;  
+At Ystrad here, I dare to say,  
+The next takes place this very day.'
 
-"Richard (inside) *respondet* :  'If Cana's feast in Galilee  The first of marriages did see,  Come, tell me (and my mind relieve)  *What* was our good old mother Eve ?'"
+"Richard (inside) *respondet* :  
+'If Cana's feast in Galilee  
+The first of marriages did see,  
+Come, tell me (and my mind relieve)  
+*What* was our good old mother Eve ?'"
 
 There is one curious paragraph which may afford a clue to the mystery of the Moggridge story. There are indications (such as the use of *cwbl*, meaning "whole," where "dole" seems to be required by the context) that it is taken from an English source. It seems that a report had spread afar that the old inhabitants of Cwmamman were awfully bad people (*dynion drwg ofnadwy*), and shameful thieves (*lladron cywilyddus*); but we are assured that there was no foundation for that old fable (*yr hen chwedl hono*). It originated in the fact that Shön Holi the beggar man (*Sion Holi y cardotyn*) had taken offence "because they had not given the whole to him" (*am na roddasent y ewbl iddo ef*), and that he had spitefully cried out :
 
-"Cwmamman men, both great and small,  The devil owns you, one and all ;  And if your sins you do not rue,  He'll come and fetch you, two by two."
+"Cwmamman men, both great and small,  
+The devil owns you, one and all ;  
+And if your sins you do not rue,  
+He'll come and fetch you, two by two."
 
 But Cwmamman had yet another curious institution. The inhabitants did not go to law; but their rhymesters settled all disputes and punished all offences. An instance is given. An old woman is cited before the rhyming court, and William Rees, the weaver, testifies :
 
-"I know (but ’tis from hearsay)  That Pali stole the stake away  I'd in the thorn-fence fixed with skill,  To guard the meadow of the mill."
+"I know (but ’tis from hearsay)  
+That Pali stole the stake away  
+I'd in the thorn-fence fixed with skill,  
+To guard the meadow of the mill."
 
 Hearsay, however, would not do, so William goes on:
 
-"I'll prove that she where’er she goes  Is to the hedges worst of foes ;  There's not a stake in all the lands—  She steals them all for fire-brands!"
+"I'll prove that she where’er she goes  
+Is to the hedges worst of foes ;  
+There's not a stake in all the lands—  
+She steals them all for fire-brands!"
 
 The court finds Pali guilty; and home she goes, begging that "no more poetry may be made on her, and promising that, as far as she have rest for the future."
 
@@ -483,7 +503,7 @@ The writer had previously mentioned that "Tenby was of Flemish origin." In all t
 
 The old Catholic rites, therefore, trailed along the ground, and kept their roots in the soil, with none to attend to them and none to preserve them, by reverent explanation, from degenerating into superstition that was actually indistinguishable from heathenism.
 
-In a succeeding letter (if Iam permitted to write another) I shall enter, in fuller detail, into the North-Walian funeral customs and their real significance.
+In a succeeding letter (if I am permitted to write another) I shall enter, in fuller detail, into the North-Walian funeral customs and their real significance.
 
 J. P. OWEN.
 
