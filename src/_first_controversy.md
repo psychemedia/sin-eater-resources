@@ -460,11 +460,11 @@ These letters, by *"Rheidiol"*, are presumably by that same Mr. John Rowlands.
 ```
 ```{index} see: Giraldus ; Rowlands, John
 ```
-```{index} single: Rowlands, John ; biography
-:name: biog:JohnRowlands
+```{index} single: Rowlands, John ; Giraldus testimonial
+:name: biog:JohnRowlands:testimonial
 ```
-`````{admonition} John Rowlands, aka. *Rheidiol*, aka. *Giraldus*
-:class: seealos dropdown
+````{admonition} John Rowlands, aka. *Rheidiol*, aka. *Giraldus*
+:class: seealso dropdown
 
 Assuming schoolmaster John Rowlands to be "Rheidiol", it is also worth remarking that he more notably used the *nom de plume* "Giraldus".
 
@@ -477,9 +477,6 @@ John Rowlands (Giraldus), 21 February 1894, Evening Express, Lee Brothers, Cardi
 
 On suffering from a stroke in 1884, friends and colleagues rallied around to crreate a testimonial for him as reported in the *Western Mail* of [June 19th, 1884](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000104/18840619/006/0002). The report does not mention his role in the first sin-eater controversy, although it does note that he "wrote a good deal about ancient welsh marriage and funeral customs".
 
-```{index} single: Rowlands, John ; Giraldus testimonial
-:name: biog:JohnRowlands:testimonial
-```
 > THE GIRALDUS TESTIMONIAL
 >
 > On Wednesday afternoon a public meeting was held at the Town-hall, Cardiff, to consider measures for raising a testimonial to the well known writer "Giraldus" (Mr. John Rowlands).
@@ -507,7 +504,7 @@ See also:
 https://en.wikipedia.org/wiki/John_Rowlands_(Giraldus)
 https://www.biography.wales/article/s-ROWL-JOH-1824
 
-`````
+````
 
 Silvan Evans also received correspondence from the current vicar of Llandebie:
 
