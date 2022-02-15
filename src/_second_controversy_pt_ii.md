@@ -656,3 +656,146 @@ It is one thing for Aubrey to have been a credible old fool when it came to beli
 > J. P. OWEN.
 
 With Mr Owen having finished making his case, how was Mr Hartland to respond?
+
+
+```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+:name: secondcontrov:academy:hartland:firstreply
+```
+## Hartland Responds to Owens, January, 1896
+
+Writing on January 6th, Hartland opened his response in [Vol 49 Iss 1236, p37](https://archive.org/details/sim_academy-and-literature_1896-01-11_49_1236/page/36/mode/2up?q=%22sin-eating%22) of the *Academy*, dated January 11th, 1896, with perhaps a weary tone as he seeks to correct several matters of fact regarding his own position:
+
+> THE SIN-EATER IN WALES.
+>
+> Highgarth, Gloucester : Jan. 6, 1896.
+>
+> I will not venture to emulate Mr. Owen by asserting that *he* has committed blunders; but I would point out: (1) That I read no paper before the British Association— as my letter in the ACADEMY of November 9 shows, I simply spoke in the course of a discussion on cannibalism ; (2) that I have not attempted to prove that the custom of Sin-eating is Celtic, but that there was a custom of the kind in Wales; and (3) that I have not attempted to prove, either in what I said at the British Association or in my letters to the *Times* and the ACADEMY, that the Welsh funeral custom of the *Diodles* "is a mutilated survival of a cannibalistic savage rite formerly practised by the Celts, the central feature of which was eating the corpse." My paper in *Folklore*, published more than three and a half years ago, indeed gave an outline of an argument to this effect, which I have since much amplified and strengthened in the book referred to in the last of my three previous letters to the ACADEMY. My letters to the *Times* and the ACADEMY were merely directed to answering the arguments of Mr. N. W. Thomas and Canon Silvan Evans, to the effect that Sin-eating had never been practised in Wales; and I submit that Mr. Owen has not seriously attempted to controvert my position.
+
+He then mentions the unpublished correspondence with Mr Owen in which he assums he must have privately addressed one the charges that Owen publicly made against him:
+
+> I have forgotten what I admitted in a private letter to Mr. Owen three months ago; but the context of his letter in the ACADEMY of December 7 appears to show that it had reference to the absence of the word "Sin-eater" in Welsh. Now, as this was one of the very arguments of Canon Silvan Evans which I was endeavouring to meet, it is manifest that I did not commit the blunder Mr. Owen alleges of withholding that evidence.
+
+Hartland than comments on the rambling nature of Owen's letters, and whilst not wanting to follow him down the garden path, seems to feel obliged to put Owen right:
+
+> He is to be congratulated on his capacity for talking round a subject. I shall not follow him in his interesting but discursive remarks, but shall content myself with observations on one or two points. He complains that I have absolutely ignored Christian rites. Quite so ; I was not dealing with the origin, but merely with the fact.
+
+He is also happy to have a sensible dicussion with Owen, but Owen needs to make substantive and supported comments if he expects a response:
+
+> When, however, he has mastered in its fuller shape my argument, as to the origin and meaning of the ceremony of Sin-eating, and is prepared to produce in detail the evidence that the Welsh and other customs are part of any Christian ritual, I shall be happy to discuss the question with him at the proper time and place. Meanwhile, I should like to draw his attention to the fact that the customs described by Robert Jones, by Aubrey, and by Pennant, are not apparently connected with any ecclesiastical ritual or Christian doctrine. It is true that they are described in Welsh books written under the influence of the Methodist Revival as relics of Popery. But Robert Jones and his compeers were not scientific students of custom. They simply lumped together as Popish all old customs which they thought to savour of heathenism. Is Mr. Owen a belated follower of that school of thought?
+
+Hartland then turns to the question of *Diodles* as described in Jones' *Drych*:
+
+> It may be conceded that some of the customs described in the *Drych* and else-where were relics of Roman Catholicism. Such is the practice mentioned by Robert Jones, which Mr. Owen censures me for omitting: namely, that of going to the grave on the first Sunday after the funeral, and saying the Paternoster. The reason why I broke off my quotation from the *Drych* was that the subject of the *Diodles* ended where I ended the quotation; and if Mr. Owen will look at the book again he will see that the custom of saying the Paternoster, which he quotes, was practised on a different day (the Sunday after the funeral), at a different place (the grave), and, in short, has nothing to do with the *Diodles*. So much for his charge of shearing off the ritual words.
+
+In picking up questions regarding the reliability of Aubrey, Hartland suggests that Aubrey's credibility on some matters is perhaps recognised, but it is not clear from certain correspondence on what specific matters that correspondence relates to:
+
+> The condition of Cwmamman, described in Mr. Owen's second letter, is just the condition in which I should expect to find such an institution as Sin-eating. I need not pursue his surmises as to how Mr. Moggridge obtained his information, nor any of his other controversial conjectures. I can tranquilly wait until he has something better to offer. The same remark applies to his various ebullitions of argumentative astonishment. His one point of any importance is that Aubrey's friend, Ray, the naturalist, told him, in a letter which Mr. Owen quotes, that he was "a little too inclinable to credit strange relations." I am not aware whether we have Aubrey's letter to which this is a reply. From the context, however, we may gather that Ray was reproving Aubrey for attaching credit, not to reports of strange customs, but to prodigies of a different kind. Anybody who reads Aubrey's *Miscellanies* will see that the author was (like most of the men of his day) credulous of prodigies, apparitions, and portents; and it is to such as these that Ray, who was a student of nature, referred. But I have yet to learn that that is any reason for discrediting Aubrey when he relates things of a totally different character, wherein the miraculous is no element. In connexion with this, I am glad to find that Mr. Owen agrees with me in thinking that Aubrey actually witnessed the ceremony at Beaumaris; so that there, at all events, his credulity is beside the question.
+
+Hartland closes by mentioning that his own researches regarding first-hand testimony continue and that the record needs correcting:
+
+> Before I close, it is right that I should say, with regard to the funeral at Market Drayton (or, rather, at Wollerton, near that town), that, by the kindness of Miss Hope, I have been in communication with her informant, who was present on the occasion, and with the minister. There has been some misapprehension about the incident, and it now seems certain that the wine and biscuits were not handed *across* the coffin, but only given to the bearers and others *in the presence* of the coffin; and that this is the custom in that part of Shropshire. The minister's words also would appear only to have had reference to the general custom of eating and drinking at funerals. But even if the Market Drayton incident and the observation of the minister be erased entirely, the evidence is still abundant for the existence of the practice of Sin-eating and kindred observances in Wales and the Marches during the last two hundred and fifty years.
+>
+> E. SIDNEY HARTLAND.
+
+```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+```
+### Owen Replies Post-haste
+
+With the publication of Hartland's response, immediately put pen to paper when he receieved the *Academy* on January 11th, 1896, his letter appearing on January 18th, 1896 in [Vol 49 Iss 1237, p56-7](https://archive.org/details/sim_academy-and-literature_1896-01-18_49_1237/page/56/mode/2up?q=owen).
+
+He opens by suggesting that his approach is one of open-nindedness and that wider reading might prove instructive:
+
+> CORRESPONDENCE.
+>
+> THE SIN-EATER IN WALES.
+>
+> London: Jan. 11, 1896.
+>
+> Mr. Sidney Hartland's doubt as to what "school of thought" I follow may, at any rate, be taken as an indication that I have not thrust my own prejudices and prepossessions into this controversy. That I have "talked round" the subject is a charge that I willingly acknowledge to be true. After reading the previous discussions of the question (including Mr. Elton’s remarks in his *Origins of English History*)— discussions which seemed to me to bring the matter to no satisfactory conclusion, I thought that a few sidelights might probably be an improvement.
+
+He also believes he has managed to move the discussion forward somewhat, not least by getting Hartland to concede several points:
+
+> I am quite satistied with the results obtained so far. I trust that I shall not appear immodest if I avow my belief that the controversy is no longer where it was when Mr. Hartland's letter appeared in the *Times* some few months ago. That gentleman has now denied and conceded quite as much as could fairly be expected of an author who was entirely absorbed in "strengthening" a very untenable theory.
+
+That said, he seems to think that Hartland is, at times, being rather petty:
+
+> But really he is somewhat exacting. After I had presented him with *cwpan y meirw, diodlys*, Robert Jones, Owen Pughe, and Sion Holi the beggarman, he is still waiting "until I have something better to offer."
+
+Anyway...
+
+> Well, I will not treat him as the workhouse authorities treated Oliver Twist, but will meekly comply with his request.
+>
+> In one of the volumes of Miscellanies edited by Canon Raines for the Chetham Society is to be found an account of "The State, Civil and Ecclesiastical, of the County of Lancaster, about the year 1590," part of which is as follows :
+>
+> "XV. Manifolde popishe Superstitions used in the Buriall of the dead.
+>
+> "1. Som use the popishe Rites of Buriall towardse the dead Corps at home, as it wer burying it, befor it com to the Churche.
+>
+> "2. After that they sett forthe the Corse in theire houses all garnished with Crosses, and sett rownde abowte with Tapers and Candelics burninge night and day till it be carried to the Churche. All whiche time ye neighbors use to visit the Corse, and there everie one to saye (a Pater noster, or De profundis) for the Sole; the Belles (all the while) beinge ronge many a solemn Peale. After which, they are made partakers of the ded manse dowle or Banquet of Charitie.
+>
+> "3. Thus all thinges beinge accomplished in right Popishe order at home, at length they carie the Corse towardse the Churche all garnished with Crosses, which they sett downe by the way at everie Crosse, and there all of them devowtly on theire knees make prayers for the dead.
+>
+> "., And when in this superstitious sorte they have brought the Corse to the Churche, som with hast prevent the minister, and burie the Corse them selves, becawse they will not be partakers of the service saide at the Buriall ; som, overtreate the minister to omitt the Service, and som times obtagne theire purporse ; and when the minister is redie to accomplishe the order of Service appointed for the Buriall, mavy of these that com with the Corpes will departe ; ffor, Recusantes refuse not to bring it to ye Churche, thoughe they will not partake of the Service of the Churche.
+>
+> "5. Then, concerninge those that remain with the Corse till it be buried, when they have sett downe the Corse in the Church, they bende themselves to theire privat prayer with Crossinge and knockinge themselves, All knelinge rownde the Corre neglectinge the publique Service then in hand. And, when the Corse is redie to be putt into the grave ; som, by kissinge the ded Corpes ; other, by wailinge the dead with more than Heathenishe owtcries ; other, with open invocations for the dead; and another sorte with Janglinge the Belles, so disturb the whole action, that the minister is ofte compelled to lett passe that parte of Service appointed for the Buriall of the dead, and to withdrawe him selfe from their tumultuowse Assembly.
+>
+> "6. After which Buriall, at theire Banquet in the Alehouse they often times have a 'Pater noster' for the dead.
+>
+> "7. All the day and night they use to have excessive ringinge for ye dead, as also at the twelve monethes day after, which they call a minninge day. All which time of Ringinge, theire use is to have theire privat devotions at home for the soule of the dead. ..."
+
+What more evidence could you need, what more indeed?
+
+> *Quid plura?* It would be insulting the intelligence and abusing the patience of the readers of the ACADEMY to lay before them any more evidence of that kind.
+>
+> Dogmatism as to the *diodles* having "nothing to do" with the *clul coffa* is surely somewhat premature. Has Mr. Hartland read what Bingley, our earliest authority for the term so far, says about it ?
+
+Owen now reuses a trick he has used before, suggesting Hartland of quoting things out of context, or, at least, of cutting them short:
+
+> I have not yet dealt with "M. Jorevin, apparently a Frenchman travelling in England." The writer in question was a M. Jorevin de Rocheford, whose travels were published at Paris in 1672 in three duodecimo volumes. The book does not seem to be at the British Museum ; but the part dealing with the British Isles was translated and given in full in Astle’s *Antiquarian Repertory*, iv., pp. 549-631 (1809). From that translation Owen and Blakeway in their History of Shrewsbury extracted the portion having reference to that town. Mr. Hartland has quoted as a complete sentence what is a mere fragment of one, and has "shorn off" the really "significant" portion. Here follows the complete sentence as printed in the *Antiquarian Repertory*. I have italicised the part omitted by Mr. Hartland :
+>
+> "It is to be remarked that during this oration there stood upon the coffin a large pot of wine, out of which every one drank to the health of the deceased, *hoping that he might surmount the difficulties he had to encounter in his road to Paradise, where by the mercy of God he was about to enter ; on which mercy they founded all their hope, without considering their evil life, their wicked religion, and that God is just."
+
+Owen suggests that if Hartland were not so hasty in lifting partial quotes, he would have a better understanding of what the original authors were actually saying:
+
+> M. de Rocheford’s meaning is now plain. He scornfully ridicules the employment by heretics of a rite which had no significance except for those who believed in purgatory and the efficacy of prayers for the dead. Really the portentous gravity with which poor Bagford is dragged in here, and the solemn reference to "an upper stratum of society" are very diverting. I hope that kind of thing is not the prevalent mode among "scientific students of custom."
+
+He closes with another dig at Hartland's reliability when it comes to quoting original sources, not just in correspondence, but also in his formally published works:
+
+> One word in conclusion in reference to Strabo and Irish cannibalism. Mr. Hartland says (ACADEMY, November 23) that Strabo expressly ascribes to the Irish the custom of eating their dead parents. That statement is wrong, but it is not likely to mislead the readers of the ACADEMY. It is made in a far more misleading manner in the *Legend of Perseus* (ii., p. 281). There it is said that Strabo "admits fairly enough that his authority for the statement is not decisive." What Strabo expressly says is, that his authority for certain specified customs, including the one mentioned above, is not trustworthy. He implies that, as regards cannibalism, he is inclined to believe the tale. But on what grounds? Because, for one thing, it is said to be a Scythian custom also, and because many other nations are said to have practised it amid the rigours of a siege. If Mr. Hartland had consulted the original Greek he could not possibly have so mistaken his author's meaning, for the paragraph is very plain and easy. I am therefore driven to suspect that he has depended on a translation; but an unscholarly translator from Greek is very apt to neglect the force of particles, and (above all) of participial clauses. In fact,
+>
+> "A participle by the story's brim
+> A simple participle is to him,
+> And it is nothing more ! "
+>
+> J. P. OWEN.
+
+```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+:name: secondcontrov:academy:hartland:secondreply
+```
+## The Spat Continues: Hartland Responds, January, 1896
+
+On reading Owen's retort, Hartland wastes no time in responding in like manner, flame war-like, Victorian style, although who is trolling whom?!
+
+Writing on January 18th, 1896, Hartland's comeback appears in the January 25th edition of the *Academy*, [Vol 49 Iss 1238, p78-9](https://archive.org/details/sim_academy-and-literature_1896-01-25_49_1238/page/78/mode/2up?q=%22sin-eating%22) with an opening salvo that suggests Owen just keeps moving the goalposts:
+
+> THE SIN-EATER IN WALES.
+>
+> Highgarth, Gloucester: Jan. 18, 1896.
+>
+> One difficulty in arguing with Mr. J. P. Owen arises from the fact that he declines to stick to the point at issue: nay, after being expressly told, he still seems to be unaware what the point is. Let me tell him once more. The question is, whether sin-eating was in effect a Welsh funeral practice. I have shown that the evidence does not rest only on Aubrey's authority, but that customs apparently identical are described by other writers in English and Welsh. And I repeat that Mr. Owen has not seriously attempted to controvert my position. Instead, he wanders away to wedding customs, to the Brig o' Dread, to St. Elian's Well, to pennillion-singing, and to fifty other irrelevant matters. He is so full of throwing "a few sidelights" that he forgets to focus them on the object, and leaves us to grope our way as best we can to his meaning. And then he takes credit that he has "not thrust his own a prejudices and prepossessions into this controversy."
+>
+> What he appears to mean is that the practices (which he admits took place) were "relics of Popery" — in other words, that they were Christian, and not heathen practices. What then? Does he attempt to distinguish them from the practice, with which we set out, described by Aubrey? Not at all. He contents himself with surmises as to how Mr. Moggridge came by his information, complaints that I have ignored Christian rites, and "simple astonishment"—poor fellow !— at finding the custom in North Wales "described as that of sin-eating shorn of the ritual words." When I try to recall him to the question, he gives a long and interesting quotation from "The State, Civil and Ecclesiastical, of the County of Lancaster, about the year 1590," and says: "It would be insulting the intelligence and abusing to the readers of the ACADEMY to lay before them any more evidence of that kind." I agree all the more heartily because he gives us no hint how the evidence applies to Wales.
+
+Regarding the charge of cutting quotations short:
+
+> In answer to Mr. Owen's complaint that I had broken off a quotation from Robert Jones at a certain point, I adduced in my last letter reasons to show that the subject of the Diodles ended where I ended my quotation. All he replies is: "Dogmatism as to the *Diodles* having nothing to do with the *clul coffa* is surely premature." Surely it is— but then neither Robert Jones nor I had referred to the *clul coffa*, or memorial knell, which is dragged in by Mr. Owen himself from the *Golewad Cymru*, for what purpose he has yet to show.
+>
+> Mr. Owen accuses me of omitting a portion of M. Jorevin's account of a funeral at Shrewsbury. I quoted all that was given by Brand and Ellis; for, unfortunately, I had no more access to the original than Mr. Owen himself. But what difference to the argument the rest of the sentence, as he now gives it, would make, he carefully avoids informing us. He seems to think the blessed word "portentous" settles everything— as well it may where "simple astonishment" is reckoned a valid argument.
+
+Hartland closes with a deflection that whether or not he misrepresented Strabo, it was an irrelevant aside anyway to the matter at hand - the question of the sin-eater in Wales:
+
+> Lastly, in wandering round the subject, he comes upon my reference to Strabo, and complains that in The Legend of Perseus I have misinterpreted the geographer's expressions. This is an excellent sample of Mr. Owen's "red herring" style of controversy. It may be a very heinous crime to misinterpret Strabo, and I may or may not have been guilty of it. I could easily defend myself if it were necessary to do so here. But my reference to Strabo in the columns of the ACADEMY was a purely incidental one; and I am not going to gratify my friend by running away from the historical question of of sin-eating, and practices identical therewith, in Wales and the Marches to a discussion of cannibalism at large, or even of Irish cannibalism. To discuss these subjects with such a disputant as Mr. Owen would be very entertaining; but it would occupy the rest of my natural life.
+>
+> E. SIDNEY HARTLAND.
+
+At this point, there is a break in the correspondence in the *Academy*.
