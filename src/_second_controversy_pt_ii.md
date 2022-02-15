@@ -336,7 +336,7 @@ Mr Owen then proposes his own explanation for the goings on in Llandebie, wjich 
 >
 > J. P. OWEN.
 
-That the debate triggered by the *Times* correspondence had reappeared in the pages of the *Academy* was noted in a brief mention in the *Western Mail* on December 16th, 1895, p5](https://newspapers.library.wales/view/4333844/4333849/68/) noting the publication of Fiona Macleod's collection of short stories:
+That the debate triggered by the *Times* correspondence had reappeared in the pages of the *Academy* was noted in a brief mention in the *Western Mail* on [December 16th, 1895, p5](https://newspapers.library.wales/view/4333844/4333849/68/) noting the publication of Fiona Macleod's collection of short stories:
 
 > Wales Day By Day
 >
