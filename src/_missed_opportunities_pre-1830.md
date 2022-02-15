@@ -286,6 +286,8 @@ The extract also includes Aubrey's (now familiar to us) description of the sin-e
 
 > Aubrey, in some miscellanies of his, among the Lansdown MSS., at the British Museum, mentions a very curious custom at deaths, observed in a degree until his time (reign of Charles II), which he describes - under the name of *Sin-Eaters*. "In the County of Hereford," says he, "was an old custome at Funeralls, to hire poor people, who were to take upon-them the sinnes of the party deceased. One of theme (he was a long lean ugly lumentable raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layed on the biere, a loafe of bread was brought out and delivered to the sinne eater over the corpse, as also a mazar bowl, of maple, full of beere (which lie was to drink up), and sixpence in money : in consideration he took upon him, *ipso facto*, all the the sinnes of defunct, and freed him or her from walking after they were dead." This custom, he supposes, had some allusion to the scape-goat under the Mosaical law.
 
+```{index} single: procuress ; Mother Creswell
+```
 ```{index} double: Mother Creswell ; eulogy
 :name: eulogy:creswell
 ```
