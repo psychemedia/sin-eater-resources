@@ -549,7 +549,7 @@ He then goes off on another tangent:
 
 > The Church has always found it a hard task to keep "the most diligent bishop in all England," as Latimer calls a certain personage, from sowing tares ameng Christian wheat. On this point I beg leave to extract the tenth article of Archbishop Stratford's Constitutions (A.D. 1343). I take it as translated in Johnson of Cranbrook's *Collections* :
 
-```{admonition} Cranbrook's "Collections"
+```{admonition} Johnson's Cranbrook "Collections"
 :class: seealso
 Is this perhaps a reference to the *Thirty-nine sermons or discourses by the Rev. John Johnson of Cranbrook* MS. located in the Bodeleian Libray?
 
