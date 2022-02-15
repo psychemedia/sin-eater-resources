@@ -156,7 +156,7 @@ Letter to the Editor, *The Times*, Z., Tuesday, September 24th, 1895
 >
 > Z.
 
-During the original controversry, the readers of *Bye-Gones* were kept informed about the debate as it progressed, and with the opening salvos fired, it seems that a similar editorial line kicked in again. In the issue of *Bye-Gones* dated [September 25, 1895](https://journals.library.wales/view/2092910/2098314/14#?xywh=-1536%2C158%2C5820%2C3838), p177-8, a column appeared introducing this latest appearance of the sin-eater under the title *THE STORY OF THE SIN-EATER IN WALES*. The column reprinted the review in *The Times* of Mr Hartland's comments made during the discussion following Captain Hinde's paper, Mr Thomas' letter taking issue with those comments, and Mr Hartand's reply. Mr Thomas' letter was followed by the following comment:
+During the original controversy, the readers of *Bye-Gones* were kept informed about the debate as it progressed, and with the opening salvos fired, it seems that a similar editorial line kicked in again. In the issue of *Bye-Gones* dated [September 25, 1895](https://journals.library.wales/view/2092910/2098314/14#?xywh=-1536%2C158%2C5820%2C3838), p177-8, a column appeared introducing this latest appearance of the sin-eater under the title *THE STORY OF THE SIN-EATER IN WALES*. The column reprinted the review in *The Times* of Mr Hartland's comments made during the discussion following Captain Hinde's paper, Mr Thomas' letter taking issue with those comments, and Mr Hartand's reply. Mr Thomas' letter was followed by the following comment:
 
 > The subject was dealt with in *Bye-Gones* for 1874-5 and 1876-7, where much of the correspondence in the *Academy* was reproduced.
 
