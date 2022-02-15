@@ -657,7 +657,6 @@ It is one thing for Aubrey to have been a credible old fool when it came to beli
 
 With Mr Owen having finished making his case, how was Mr Hartland to respond?
 
-
 ```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
 :name: secondcontrov:academy:hartland:firstreply
 ```
@@ -697,11 +696,11 @@ Hartland closes by mentioning that his own researches regarding first-hand testi
 >
 > E. SIDNEY HARTLAND.
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+```{index} triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
 ```
-### Owen Replies Post-haste
+## Owen Replies Post-haste
 
-With the publication of Hartland's response, immediately put pen to paper when he receieved the *Academy* on January 11th, 1896, his letter appearing on January 18th, 1896 in [Vol 49 Iss 1237, p56-7](https://archive.org/details/sim_academy-and-literature_1896-01-18_49_1237/page/56/mode/2up?q=owen).
+With the publication of Hartland's response, immediately put pen to paper when he received the *Academy* on January 11th, 1896, his letter appearing on January 18th, 1896 in [Vol 49 Iss 1237, p56-7](https://archive.org/details/sim_academy-and-literature_1896-01-18_49_1237/page/56/mode/2up?q=owen).
 
 He opens by suggesting that his approach is one of open-nindedness and that wider reading might prove instructive:
 
