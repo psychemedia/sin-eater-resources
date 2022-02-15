@@ -1,4 +1,4 @@
-# Second Controversy, 1895, Part II
+# Second Controversy, 1895-6, Part II
 
 With the editor of *The Times* apparently tiring of the sin-eater correspondence  by the end of October, it was perhaps "fortunate" that Mr Hartland had written to *The Academy* on October 14th, 1895, since it meant that when the letter appeared in edition dated [November 11th, 1895](https://archive.org/details/sim_academy-and-literature_1895-11-09_48_1227/page/386/mode/2up?q=sin), p387-8, it would keep the debate alive.
 
@@ -550,7 +550,7 @@ He then goes off on another tangent:
 > The Church has always found it a hard task to keep "the most diligent bishop in all England," as Latimer calls a certain personage, from sowing tares ameng Christian wheat. On this point I beg leave to extract the tenth article of Archbishop Stratford's Constitutions (A.D. 1343). I take it as translated in Johnson of Cranbrook's *Collections* :
 
 ```{admonition} Johnson's Cranbrook "Collections"
-:class: seealso
+:class: seealso dropdown
 Is this perhaps a reference to the *Thirty-nine sermons or discourses by the Rev. John Johnson of Cranbrook* MS. located in the Bodeleian Libray?
 
 https://archives.bodleian.ox.ac.uk/repositories/2/resources/9337
