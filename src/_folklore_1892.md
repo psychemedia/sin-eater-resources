@@ -272,15 +272,15 @@ Weak stomachs. The wisest I cannot enumerate one quarter of the distressing symp
 
 Following Hartland's article in Folklore, several items of correspondence appeared relating to the matter.
 
+```{index} double: correspondence, Folklore ; Godden, Miss G. M.
+:name: FLKLR:correspondence:1892:godden
+```
 ### Godden's Response to Hartland's Paper
 
 The first formal response to Hartland's published paper appeared in *Folklore*, [Vol III, No. IV, p546-9](https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments)) of December, 1892.
 
 In particular, the correspondent asks Hartland to explain the reasoning behind why the presence of distinct traditions at one point in time might derive from a common precursor rite:
 
-```{index} double: correspondence, Folklore ; Godden, Miss G. M.
-:name: FLKLR:correspondence:1892:godden
-```
 > MR. HARTLAND'S "SIN-EATER", AND PRIMITIVE SACRAMENTS.
 >
 > To the Editor of FOLK-LORE.
@@ -390,15 +390,15 @@ Returning back to 1892/3, Hartland's response to Godden's letter in the December
 
 So it seems that more evidence has recently come to hand, although what that evidence is not revealed. Instead, it appears to be something we must wait for...
 
+```{index} double: correspondence, Folklore ; Hope, Gertrude
+:name: FLKLR:correspondence:1892:hope)
+```
 ### Gertrude Hope's New Evidence
 
 In the meantime, additional evidence was to find its own way into the pages of *Folklore*. Just over a year after Hartland's paper was published, in [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
 
 ```{index} single: funeral biscuit ; Market Drayton
 :name: custom:funeralbiscuit:marketdrayton)
-```
-```{index} double: correspondence, Folklore ; Hope, Gertrude
-:name: FLKLR:correspondence:1892:hope)
 ```
 > "THE SIN-EATER."
 > To the Editor of FOLK-LORE.
