@@ -268,7 +268,13 @@ Holloways Pills—
 Weak stomachs. The wisest I cannot enumerate one quarter of the distressing symptons arising from enfeebled digestion, all of which might be readily dispelled by these admirable Pills. They remove all unpleasant tastes from the mouth, flatulency and constipation. Holloway's Pills rouse the stomach, liver, and every other organ, helping digestion to that healthy tone which fully enables it to convert all we eat and drink to the nourishment of our bodies. Hence these Pills are the surest strengtheners and the safest restoratives in nervousness, wanting and chronic debility. Holloway's Pills are infallible remedies for impaired appetite, eructations, and a multitude of other disagreeable symptoms, which render miserable the lives of thousands. These Pills are approved by all classes.
 ```
 
-An arguably more formal response to Hartland's published paper appeared in *Folklore*, [Vol III, No. IV, p546-9](https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments)) of December, 1892.
+## Correspondence in Folklore
+
+Following Hartland's article in Folklore, several items of correspondence appeared relating to the matter.
+
+### Godden's Response to Hartland's Paper
+
+The first formal response to Hartland's published paper appeared in *Folklore*, [Vol III, No. IV, p546-9](https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments)) of December, 1892.
 
 In particular, the correspondent asks Hartland to explain the reasoning behind why the presence of distinct traditions at one point in time might derive from a common precursor rite:
 
@@ -321,6 +327,8 @@ The correspondent signs off with their own simpler explanation for a common orig
 >
 > G. M. GODDEN.
 
+### Aynsley's Paper on the Sin-Eater
+
 It seems from a report in the the next edition of *Folklore*, of March, 1893, [Vol. IV, No. I, p120](https://archive.org/details/folklore04folkuoft/page/120/mode/2up?q=Aynsley), that a meeting of the Folklore Society on Wednesday, December 21st, 1892, another paper on the subject of the sin-eater was read by Mrs. Murray Aynsleythat provoked a discussion involving one Rev. C. Swynnerton and E. Sidney Hartland:
 
 > An Evening Meeting was held at 22, Albemarle Street, on Wednesday, December 21st, 1892 ; the President (Mr. G. L. Gomme) in the chair.
@@ -366,6 +374,8 @@ She also claims witnessing hearsay of the sin-eater tradition in Italy:
 >
 > *Srinagar, Kashmir, July 28, 1892.*
 
+### Hartland Responds to Godden
+
 Returning back to 1892/3, Hartland's response to Godden's letter in the December, 1892, issue also appeared in *Folklore* [Vol IV, no. I, p106](https://archive.org/details/folklore04folkuoft/page/106/mode/2up?q=SACRAMENTS), dated March, 1893, and is brief and to the point:
 
 > CORRESPONDENCE.
@@ -379,6 +389,8 @@ Returning back to 1892/3, Hartland's response to Godden's letter in the December
 > E. Sidney Hartland.
 
 So it seems that more evidence has recently come to hand, although what that evidence is not revealed. Instead, it appears to be something we must wait for...
+
+### Gertrude Hope's New Evidence
 
 In the meantime, additional evidence was to find its own way into the pages of *Folklore*. Just over a year after Hartland's paper was published, in [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
 
@@ -398,7 +410,11 @@ In the meantime, additional evidence was to find its own way into the pages of *
 > The minister of the chapel where the deceased woman had been a regular attendant held a short service in the cottage before the coffin was removed.
 >
 > The lady, who gave ms the particulars, arrived rather early, and found the bearers enjoying a good lunch in the only downstairs room. Shortly afterwards the coffin was brought down and placed on two chairs in the centre of the room, and the mourners having gathered round it the service proceeded. Directly the minister ended, the woman in charge of the arrangements poured out four glasses of wine and handed one to each bearer present across the coffin, with a biscuit called a "funeral biscuit".
->
+
+```{danger}
+In chasing this further, Hartland discovered that in fact the wine and biscuits weere *not* passed across the coffin (see Hartland's correspondence in the *Academy*  [January 11th, 1896 ; Vol 49 Iss 1236, p37](secondcontrov:academy:hartland:firstreply)).
+```
+
 > One of the bearers being absent at the moment, the fourth glass of wine and biscuit were offered to the eldest son of the deceased woman, who, however, refused to take them, and was not obliged to do so.
 
 The nature of the biscuits is then commented upon:
