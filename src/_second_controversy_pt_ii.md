@@ -68,11 +68,11 @@ A long history of drinking traditions is then described, and a character Hartlan
 ```
 > Returning to Shropshire, we find a drinking custom recorded by an eye-witness in the reign of Charles II. M. Jorevin, apparently a Frenchman travelling in England, relates that he was present at a nobleman's funeral at Shrewsbury. The minister made a funeral oration to the assembled friends and relatives in the chamber where the body lay. "During the oration there stood upon the coffin a large Pot of Wine, out of which every one drank to the health of the deceased." When this was finished the funeral proceeded. (Brand and Ellis, vol. ii., p. 153.) It is true that there is no special Sin-eater here, nor any words indicating the assumption by the survivors of the sins of the dead. But it will be observed that the health of the deceased can mean only "the ease and rest of the soul departed," which is exactly the expression placed in the Sin-eater's mouth by Mr. Bagford. The ceremony, in fact, looks uncommonly like that of Sin-eating transplanted to an upper stratum of society, and accompanied by modifications such as that transplantation would in course of time evolve.
 
-Harltand then provides contemporary evidence of the tradition as provided to him by Gertrude Hope a couple of years previously:
+Hartland then provides contemporary evidence of the tradition as provided to him by Gertrude Hope a couple of years previously:
 
 > The same custom was still practised at Market Drayton as lately as July 1, 1893. Miss Gertrude Hope, writing in Folklore (vol. iv., p. 392), gives the particulars as related to her by an eye-witness. After the bearers had lunched, "the coffin was brought down and placed on two chairs in the centre of the room, and, the mourners having gathered round it," a short service was then and there conducted by the Nonconformist minister, as is frequently done, before setting out for the grave. "Directly the minister ended the woman in charge of the arrangements poured out four glasses of wine and handed one to each bearer present across the coffin, with a biscuit called a 'funeral biscuit.'" Mark what follows. "The minister, who had lately come from Pembrokeshire, remarked to my informant that he was sorry to see that pagan custom still observed. He had been able to put an end to it.in the Pembrokeshire village where he had formerly been." Here the food and drink were handed across the coffin to the bearers—the same officials who in Derbyshire first partake in a formal manner of the drink which is believed to have the effect of taking away the sins of the deceased. The relation of the ceremony to that of the Sin-eater is apparent. The evidence, if not literally at first hand, is such as cannot be doubted.
 
-Reading the following paragraph today, we might read Harltand as admitting that Aubrey's claims are "merely" circumstantial, but Hartland is arguing perhaps that they are "substantively" circumstantial?
+Reading the following paragraph today, we might read Hartland as admitting that Aubrey's claims are "merely" circumstantial, but Hartland is arguing perhaps that they are "substantively" circumstantial?
 
 > If, fortified by this evidence from Derbyshire and the Marches, we turn to Wales, we find Aubrey’s statements of a very circumstantial character ; and that not merely in the case of Llangors referred to just now.
 
@@ -179,7 +179,7 @@ Before that letter was to appear, however, another report of another, possibly r
 ```
 ## Hartland's Third Letter to The Academy, November, 1895: The Lack of Mentions in Welsh Literature
 
-Harltand's third contribution to the *Academy*, dated November 4th, 1895, appeared in [Vol 48 Iss 1229, p435](https://archive.org/details/sim_academy-and-literature_1895-11-23_48_1229/mode/2up?q=sin+eater), published on November 23rd, 1895.
+Hartland's third contribution to the *Academy*, dated November 4th, 1895, appeared in [Vol 48 Iss 1229, p435](https://archive.org/details/sim_academy-and-literature_1895-11-23_48_1229/mode/2up?q=sin+eater), published on November 23rd, 1895.
 
 > CORRESPONDENCE. THE SIN-EATER IN WALES.
 >
@@ -396,7 +396,7 @@ p.204-220
 
 ```
 
-Owens then goes on to quote from the article at length, including an amusing insight into the operation of the rhyming court, but it's not really relevant to the case of the sin-eater:
+Owen then goes on to quote from the article at length, including an amusing insight into the operation of the rhyming court, but it's not really relevant to the case of the sin-eater:
 
 ```{admonition} Owen referencing Y Beirniad
 :class: dropdown
@@ -505,7 +505,7 @@ Owen then comments on this description of the tradition:
 >
 > The old Catholic rites, therefore, trailed along the ground, and kept their roots in the soil, with none to attend to them and none to preserve them, by reverent explanation, from degenerating into superstition that was actually indistinguishable from heathenism.
 
-Owens then signs off in hope of being allowed to submit a third part to his epistle:
+Mr. Owen then signs off in hope of being allowed to submit a third part to his epistle:
 
 > In a succeeding letter (if I am permitted to write another) I shall enter, in fuller detail, into the North-Walian funeral customs and their real significance.
 >
@@ -515,7 +515,7 @@ Owens then signs off in hope of being allowed to submit a third part to his epis
 ```
 ## Owen's Third Letter to The Academy, December-January, 1896
 
-The editor of  *The Academy* indeed seemed happy to accept another instalment, and Mr. Owens' third etter, dated December 18th, 1895, appeared there on January 4th, 1896, in [Vol 49 Iss 1235, p14-15](https://archive.org/details/sim_academy-and-literature_1896-01-04_49_1235/page/14/mode/2up?q=%22sin-eating%22).
+The editor of  *The Academy* indeed seemed happy to accept another instalment, and Mr. Owen's third letter, dated December 18th, 1895, appeared there on January 4th, 1896, in [Vol 49 Iss 1235, p14-15](https://archive.org/details/sim_academy-and-literature_1896-01-04_49_1235/page/14/mode/2up?q=%22sin-eating%22).
 
 He opens with an attack on Hartland's apparent lack of interest in considering the effect that Christian rituals might have had on Welsh funeral traditions:
 
@@ -542,7 +542,7 @@ He opens with an attack on Hartland's apparent lack of interest in considering t
 > But further, there is the unimpeachable evidence of the laws and canons of the Anglo-Saxon Church. From the days of Wihired of Kent to those of the Norman Conquest we find, for example, references to "diviners and sooth-sayers," "offering to devils," "lyblac," [*Lyb-maleficium, la e-donum*] "lustrations of pagan rites, worshipping idols or heathen gods, the sun, the moon, the fire, [Of. what Mr. Elton (*Origins of English History*) says of the ceremony of passing the "funeral-ale" cup through the fire], rivers, fountains, the elder tree," "the practice of witchcraft," and "exorcism."
 ```
 
-Owens is clear that many heathen practices could be found in England just as they could in Wales, if not more so:
+Owen is clear that many heathen practices could be found in England just as they could in Wales, if not more so:
 
 > I do not think that Mr. Hartland can find evidence of Welsh heathenism, to anything like the same extent, in the pre-Norman annals of the British Church.
 
@@ -573,7 +573,7 @@ From a storytelling point of view, we get some interesting colour regarding what
 >
 > "light, thin, and mostly quite black, which sets off the rim and mounting of silver, oftentimes gilt, extremely well. ... Of the several mazer-bowls still in existence, though only a few are indulgenced, all show in the inscription running round the edge a something that speaks of religion. In the vestry of York Cathedral there is a fine one unto which Archbishop Scrope and another bishop had each granted an indulgence of xl. days."
 
-Having picked up on the theme of bowls, Owens is not going to give up on it:
+Having picked up on the theme of bowls, Owen is not going to give up on it:
 
 ```{index} double: healing cup ; Nanteos
 ```
@@ -581,7 +581,7 @@ Having picked up on the theme of bowls, Owens is not going to give up on it:
 >
 > "November 24th, 1887. The Nanteos healing cup was lent on the above date to Charles Eiwards for the use of his daughter, Mary Edwards. One pound left. Returned 13th December, 1887. *A wonderful cure*." The italics are not mine.
 
-From cures, Owens pivots to wells:
+From cures, Owen pivots to wells:
 
 > Mr. Elton, in his *Origins of English History*, is mistaken when he says that Wirt Sikes had given a full description of the ceremonies connected with the notorious cursing-well of St. Elian, near Denbigh. Wirt Sikes says nothing of the cup.
 >
@@ -615,7 +615,7 @@ Finally, it seems, maybe something relevant?
 >
 > "About this time [1658] I went to visit some young men ... two or three of them were convinced ... When we came to the number of four... we determined to meet upon a hill in a common as near as we could, for the convenience of each other. ... There we met in silence, to the wonder of the country. ... We were not free to go into any neighbour's enclosures, for they were so blind, dark, and ignorant that they looked upon us as witches, and would go away from us, some crossing themselves with their hands about their foreheads and faces."
 
-At this point, Owens resurfaces and ponders why there is a dearth of Welsh literature that might be expected to describe Welsh traditions:
+At this point, Owen resurfaces and ponders why there is a dearth of Welsh literature that might be expected to describe Welsh traditions:
 
 > It is only within the last hundred years or so that, broadly speaking, there has been any demand for non-devotional Welsh literature, for it is only within that period that Welshmen who could not read English have been able to read at all. It is rather difficult, therefore, to find any eighteenth century Welsh accounts of Welsh customs. Even during the first half of this century, such reading was looked upon by rigid Methodists as profane, and on the same level as whistling on Sundays or singing *maswedd* (a term applied to all non-spiritual songs, such as the "Men of Harlech" and "Dafydd y Garreg Wen.") And so, almost down to our own day, vernacular accounts of native customs are not common, and when met with they generally turn out to be simply translations from English. The only Welsh account, for instance, of Welsh funerals which Mr. Hartland did not find in my letter to Prof. Rhys—I mean his extract from *Cymru Fu*— has been translated from the Rev. John Evans's *Tour in North Wales* (1804).
 >
@@ -636,13 +636,13 @@ At this point, Owens resurfaces and ponders why there is a dearth of Welsh liter
 
 *The reference to Robert Jones relates to the Welsh language "Drych yr Amseroedd".*
 
-Owens then turns to a couple of other, more familiar sources:
+Owen then turns to a couple of other, more familiar sources:
 
 > I should like to quote the Rev. W. Bingley's two accounts of the North Wales custom in question— the traditional one as supplied to him most probably by his friend, the Rev. Peter Williams, Vicar of Llanberis; and the actual one as observed and most graphically described by himself. I dare not, however, lay such a burden on the Editor's patience, but must content myself, on my way to Aubrey, with the following :
 >
 > "When we came to the church we found the place nearly full of people waiting our arrival. The service was read in Welsh in a most impressive manner, and the coffin was let down into the grave by four of the female mourners. A more solemn office I had never witnessed, and the circumstance of the body being committed to the bosom of the earth by the hands of relatives or friends was altogether new to me. A few rushes were strewed upon the coffin, and I shall never forget the stifled shriek that was uttered when, in Welsh, the solemn words, 'We commit her body to the ground,' &c., were read. ... The ceremony being over, the grave was filled up, and planted with slips of box and some other evergreens. The offerings in the church amounted to near two pounds, of which more than thirty shillings were in silver."
 
-Owens then starts to critique Aubrey's contributions, and Hartland's reading of them:
+Owen then starts to critique Aubrey's contributions, and Hartland's reading of them:
 
 > Mr. Hartland has not pointed out in plain terms, as I submit he ought to have done, that only on a single occasion did Aubrey witness personally the funeral ceremonies he describes. That was at Beaumaris, in North Wales. On that occasion the ceremony reminded Aubrey, not of his "own invention" the Sin-eater, but of church funeral offertories or "mortuaries." This custom of mortuaries, once universal in the Church, was kept up in many parts of North Wales until almost the other day. Indeed, no small portion of the North Walian clergy's income used to be derived from that source. But that the custom was a thoroughly English one can be proved at once from the name—"Soulscot," which it bore in the Anglo-Saxon Church. The proper place for its payment, according to the laws of that Church, was "at the open grave."
 >
@@ -656,4 +656,4 @@ It is one thing for Aubrey to have been a credible old fool when it came to beli
 >
 > J. P. OWEN.
 
-With Mr Owens now having finished making his case, how was Mr hartland to respond?
+With Mr Owen having finished making his case, how was Mr Hartland to respond?
