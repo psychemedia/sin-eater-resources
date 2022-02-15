@@ -431,7 +431,7 @@ Although Aubrey's edited manuscripts perhaps had a rather limited appeal, and a 
 
 The Reverend Edwin Paxton Hood was a non-conformist minister and prolific author. Several of his works took the form of biographies of other non-conformists. One such character, Christmas Evans, who presumbaly took his name from his birthdate, 25th December, 1766 – was a noted Welsh minister with a gift for preaching. He was the subject of his 1881 book [*Christmas Evans : the preacher of Wild Wales, his country, his times and his contemporaries*](https://archive.org/details/christmasevanspr00hood/page/22/mode/2up?q=sin-eater).
 
-In the chapter on *Characterisitics of Welsh Preaching*, p22-24, Paxton Hood has cause to comment on the tradition of the sin-eater as surviving despite the activities of a wave of great Christian preachers in the first half of the 19th century:
+In the chapter on *Characteristics of Welsh Preaching*, p22-24, Paxton Hood has cause to comment on the tradition of the sin-eater as surviving despite the activities of a wave of great Christian preachers in the first half of the 19th century:
 
 > In a word, it is impossible, knowing Wales as we know it in our own day, to form any very distinct idea of the country as it was when these great preachers arose ; and, when the tides of a new spiritual life rolled over the Principality, the singular relics of even heathenish superstition were loitering still among the secluded valleys and mountains of the land. No doubt, the proclamation of the Gospel, and the elevated faith which its great truths bring in its train, broke the fascination, the charm, and power of many of these ; but they lingered even until within the last forty or fifty years, — indeed, the superstition of the Sin-Eater is said to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire.
 
@@ -454,7 +454,7 @@ If we display a side-by-side view to inspect the difference between the texts, w
 </p><p>the superstition of the sin-eater is said to linger even now in the secluded vale of <span style="background: #69E2FB;">cwm amman</span> in <span style="background: #69E2FB;">carmarthenshire</span> when a person died, the friends sent for the sin-eater of the district, <span style="background: #69E2FB;">who</span> on his <span style="background: #69E2FB;">arrival</span> placed a plate of salt on the breast of the <span style="background: #69E2FB;">deceased, and on the salt a piece of bread</span> he then <span style="background: #69E2FB;">muttered</span> an incantation over the bread, <span style="background: #69E2FB;">which</span> he <span style="background: #69E2FB;">finally eat,</span> thereby eating the sins of the dead person this done, he received <span style="background: #69E2FB;">the</span> fee of <span style="background: #69E2FB;">2s 6d,</span> and vanished as <span style="background: #69E2FB;">quickly</span> as <span style="background: #69E2FB;">he could,</span> the friends <span style="background: #69E2FB;">helping his departure by the aid</span> of <span style="background: #69E2FB;">sundry</span> blows and kicks, <span style="background: #69E2FB;">if they could catch him ; for as it was believed that he took upon himself the sins</span> of the <span style="background: #69E2FB;">defunct,</span> he <span style="background: #69E2FB;">was looked upon as</span> a <span style="background: #69E2FB;">social pariah for whom nothing</span> was <span style="background: #69E2FB;">too bad</span> </p>
 ````
 
-The Paxton Hood vesion offers nothing new and no significant corruptions, perhaps other than representing the original *muttering* of the curse as *uttering*:
+The Paxton Hood version offers nothing new and no significant corruptions, perhaps other than representing the original *muttering* of the curse as *uttering*:
 
 `````
 
@@ -547,7 +547,7 @@ Lower Heyford, Oxon.
 
 ```
 
-The *Notes & Queries* correspondence was also noted in the [January 19th, 1883](https://newspapers.library.wales/view/3336622/3336627/24/), edition of *The Cambrian*, where on p5, a correspondent direclty quoted the correspondence:
+The *Notes & Queries* correspondence was also noted in the [January 19th, 1883](https://newspapers.library.wales/view/3336622/3336627/24/), edition of *The Cambrian*, where on p5, a correspondent directly quoted the correspondence:
 
 > Frederick E. Sawyer calls attention in *Notes and Queries* to the following folk-lore, which occurs in the Rev. Paxton Hood's book on "Christmas Evans, the Preacher of Wild Wales":— "The superstition of the Sin-Eater ...
 
@@ -595,7 +595,7 @@ that they presented in the same manner a coup of drink, and required the person 
 >
 > ALFRED WALLIS.
 
-A second piece of correspondence under the same header refereces Aubrey:
+A second piece of correspondence under the same header references Aubrey:
 
 > John Aubrey has three passages concerning sin-eaters in his *Remaines of Gentilisme and Judaisme*, which was edited and most excellently annotated by Mr. James Britten for the Folk-lore Society in 1881. The passages occur at pp. 19, 24, 35.
 > 
@@ -612,7 +612,7 @@ References to Paxton Hoods work continued to have echoes into the 1890s. In a so
 >
 > H.
 
-A correspondent from London replied in the edition of [October 30th, 1891](https://newspapers.library.wales/view/3339267/3339270/19/), p3, recalled another tradtional tale:
+A correspondent from London replied in the edition of [October 30th, 1891](https://newspapers.library.wales/view/3339267/3339270/19/), p3, recalled another traditional tale:
 
 > OLD-WORLD SUPERSTITIONS.
 >

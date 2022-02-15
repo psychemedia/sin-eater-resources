@@ -357,7 +357,7 @@ From this, Mr Jeremiah appears to be suggesting that there is a Welsh word for a
 
 > It appears, then, that the custom means simply a "gift of ale or beer," and not *sin-eating*.
 
-Mr Jeremiah also refered Pennant's *Tours in Wales*, which once again is the first citation I have found of this work in the context of discussions around the sin-eater:
+Mr Jeremiah also referred to Pennant's *Tours in Wales*, which is the first citation I have found of this work in the context of discussions around the sin-eater:
 
 > Pennant’s (in his "Tours in Wales," vol. iii. p. 159, edition 1810) account is slightly different. He says: "Previous to a funeral it was customary, when the corpse was brought out of the house and laid upon the bier, for the next-of-kin, be it widow, mother, sister, or daughter—for it must be a female—to give, over the coffin, a quantity of white loaves in a great dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented, in the same manner, a cup of drink, and required the person to drink a little of it *immediately*. When that was done they kneeled down, and the minister, if present, said the Lord’s Prayer, after which they proceeded with the corpse, and at every crossway between the house and the church they laid down the bier and knelt, and again repeated the Lord's Prayer, and did the same when they first entered the churchyard."
 
@@ -634,7 +634,7 @@ The author then cites another contemporary source, Lady Verney's column on *Old 
 
 > Lady Verney, in the current number of the *Contemporary*, refers to the same superstition,
 
-an account which, we have seen, is probbaly based on her reading of *Archaeologia Cambrensis*, or a report closely based on it,
+an account which, we have seen, is probably based on her reading of *Archaeologia Cambrensis*, or a report closely based on it,
 
 > and if the whole story does really trace back to Aubrey,
 

@@ -324,7 +324,7 @@ To answer at least one of those questions, we need to look to another report of 
 
 ## Other News Reports
 
-As well as the Shrewsbury Chronicle, reports of the "The Cambrian Archaelogical Association at Ludlow" also appeared in the [Hereford Journal of Wednesday, September 1st, 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002) and
+As well as the Shrewsbury Chronicle, reports of the "The Cambrian Archaeological Association at Ludlow" also appeared in the [Hereford Journal of Wednesday, September 1st, 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002) and
 
 The *Hereford Journal* description of the first part of Friday evening's meeting introduces the notion that the age of Christian enlightment was extinguishing the practise of sin-eating
 
@@ -390,7 +390,7 @@ So how did Mr. Moggridge quote "Aubrey"?
 
 > "In the county of Hereford," he says, "was an old custom at funerals to hire poor people who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal) I remember lived in a cottage on Rosse highway. The manner was that, when the corpse was brought out of the house, and laid upon the bier, a loaf of bread was brought out, and delivered to the sin-eater over the corpse, as also a mazard bowl of maple full of beer (which he was to drink up), and sixpence in money ; in consideration whereof he took upon him *ipso facto* all the sins of the defunct, and freed him or her from walking after they were dead."
 
-Despite being only a short paragraph, this brings in much new evidence that is also often called upon in the later controversies. In the first case, we have the personage of an actual sin-eater descrbed as *"a long, lean, ugly, lamentable poor rascal"*. We also have an adddress, of sorts: *"a cottage on Rosse highway"*. The process of the ritual is described, along with some of the implements: *"a mazard bowl of maple"*, and a first mention of *beer*, which we recall from Phillips' story framing. The sin-eater's fee is also reduced, to *sixpence*. And finally, a rather strange line: that the sin eater's actions *freed him or her ["the defunct"] from __walking__ after they were dead*. Does this invoke some other belief, that after death souls "walk" the Earth, as ghosts perhaps? Or does it relate to some sort of purgatory? To understand this better, we perhaps need to know a little more about "Aubrey", and the times in which he was writing...
+Despite being only a short paragraph, this brings in much new evidence that is also often called upon in the later controversies. In the first case, we have the personage of an actual sin-eater descrbed as *"a long, lean, ugly, lamentable poor rascal"*. We also have an address, of sorts: *"a cottage on Rosse highway"*. The process of the ritual is described, along with some of the implements: *"a mazard bowl of maple"*, and a first mention of *beer*, which we recall from Phillips' story framing. The sin-eater's fee is also reduced, to *sixpence*. And finally, a rather strange line: that the sin eater's actions *freed him or her ["the defunct"] from __walking__ after they were dead*. Does this invoke some other belief, that after death souls "walk" the Earth, as ghosts perhaps? Or does it relate to some sort of purgatory? To understand this better, we perhaps need to know a little more about "Aubrey", and the times in which he was writing...
 
 Some of Mr. Moggridge's observations upon this quotation then follow:
 

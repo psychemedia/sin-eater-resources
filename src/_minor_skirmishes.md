@@ -31,7 +31,7 @@ https://en.wikipedia.org/wiki/Verney_family_of_Middle_Claydon
 
 ```
 
-An article in the *South London Press* of [Saturday 14 October 1876](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000213/18761014/006/0002), p2, on *"Funeral Rites and Wrongs"*, describing funeral formalities made brief mention of the sin-eater ritual, although the implication is that the beleif may not be regarded as "common knowledge". The relevant part of the article is quoted at length in *Notes & Queries*, [December 23rd, 1876, Vol 6 Iss 156](https://archive.org/details/sim_notes-and-queries_1876-12-23_6_156/page/504/mode/2up), p505:
+An article in the *South London Press* of [Saturday 14 October 1876](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000213/18761014/006/0002), p2, on *"Funeral Rites and Wrongs"*, describing funeral formalities made brief mention of the sin-eater ritual, although the implication is that the belief may not be regarded as "common knowledge". The relevant part of the article is quoted at length in *Notes & Queries*, [December 23rd, 1876, Vol 6 Iss 156](https://archive.org/details/sim_notes-and-queries_1876-12-23_6_156/page/504/mode/2up), p505:
 
 > The Sin-Eater.—
 > 

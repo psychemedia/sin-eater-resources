@@ -103,7 +103,7 @@ The logic of this argument is rather perverse:
 - there is a sin-eater tradition, as defined by Aubrey;
 - Aubrey described certain ritual behaviours;
 - Pennant described certain ritual behaviour;
-- contemporary ritual behavious have been observed;
+- contemporary ritual behaviours have been observed;
 - they're all the same;
 - they are claimed to be remnants of sin-eating;
 - therefore, sin-eating exists.
@@ -159,7 +159,7 @@ The next point did not appear in the *Times* letter:
 >
 > "No, I do not. The priest is very often the last to hear of things like that—generally, I should say... I had no suspicion of foul play or witchcraft, and if I had 1 should have at once absolutely refused to say mass in the house, and have given information to the police at once."
 
-But then we rejoin the orginal letter:
+But then we rejoin the original letter:
 
 > The reason of the concealment from the priest or the minister comes out here. It is founded on the known hostility of such personages to the ancient superstitions.
 
@@ -298,9 +298,9 @@ A few days later, the *South Wales Daily News* of [November 27th 1895, p4](https
 
 ```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
 ```
-## Owen's First Letter to The Academy, Novemeber-December, 1895
+## Owen's First Letter to The Academy, November-December, 1895
 
-At this point, we might have expected some response from Mr Thomas, although it is possible that he was unaware, at the time, of Mr Hartland's moving of the location of the debate. But the mantle against Hartland was taken up nonetheless by a new correspondent, a Mr J. P. Owen of London, who was to similarly lay aout his arguments across three letters to the *Academy*.
+At this point, we might have expected some response from Mr Thomas, although it is possible that he was unaware, at the time, of Mr Hartland's moving of the location of the debate. But the mantle against Hartland was taken up nonetheless by a new correspondent, a Mr J. P. Owen of London, who was to similarly lay out his arguments across three letters to the *Academy*.
 
 The first letter appeared in the *Academy*, [Vol 48 Iss 1231, p484](https://archive.org/details/sim_academy-and-literature_1895-12-07_48_1231/page/484/mode/2up?q=hartland), on December 12th, 1895 although it was dated just over two weeks previously, on November 25th, 185, a couple of days after hartland's third letter appeared.
 

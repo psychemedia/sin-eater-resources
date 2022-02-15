@@ -59,7 +59,7 @@ The importance of local representatives coming together at a national level for 
 ```
 ## The Sixty-fifth Meeting of The British Association, Ipswich, September, 1895
 
-An article in *Nature*, [52, pp. 370–371, August 15th, 1895](https://www.nature.com/articles/052370a0), decribed the progress of arrangements for the fortchoming sixty-fixth meeting of the Bitish Association:
+An article in *Nature*, [52, pp. 370–371, August 15th, 1895](https://www.nature.com/articles/052370a0), described the progress of arrangements for the fortchoming sixty-fixth meeting of the Bitish Association:
 
 > THE arrangements for the meeting of the British Association at Ipswich this autumn are making rapid progress. The General Election somewhat interrupted the preparations of the local secretaries, but the excitement being now over, general attention in the locality is again centred on the coming visit of the Association, and great efforts are being made in the town and neighbourhood to ensure the success of the meeting.
 
@@ -116,7 +116,7 @@ A report of Captain Hinde's paper was then provided:
 
 This was followed by some discussion:
 
-> Mr. ELWORTHY said he appeared in the character of "devil's advocate" and thought there was something to be said in favour of cannibalism. Underlying it was the primeval idea that the body imbibed the properties of that which it ate. Upon that idea – and with all possible reverence he said it – was founded one of the most solemn of our Christian rites. In one part of France even now tbe last of the harvest corn was baked into a loaf made in the form of a human figure. This was supposed to represent the spirit of the corn – the spirit of vegetation, reproduction, fertility – and was broken up, distributed among the villagers, and eaten.
+> Mr. ELWORTHY said he appeared in the character of "devil's advocate" and thought there was something to be said in favour of cannibalism. Underlying it was the primeval idea that the body imbibed the properties of that which it ate. Upon that idea – and with all possible reverence he said it – was founded one of the most solemn of our Christian rites. In one part of France even now the last of the harvest corn was baked into a loaf made in the form of a human figure. This was supposed to represent the spirit of the corn – the spirit of vegetation, reproduction, fertility – and was broken up, distributed among the villagers, and eaten.
 >
 > Mr. ROUSE, speaking on the authority of Mrs. M'Kittrick, wife of Mr. M'Kittrick, of the Congo Ballolo (Baptist) Mission, who remained to carry on missionary work after her husband's death, said that under the influenee of Gospel teaching the practice of cannibalism in that region had almost wholly ceased. What was the derivation of the wvord cannibal?
 >
