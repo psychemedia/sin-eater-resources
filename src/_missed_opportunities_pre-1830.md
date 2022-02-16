@@ -208,6 +208,7 @@ The quotation appears at [p72-4](https://archive.org/details/cu31924104094986/pa
 
 ```
 
+(GNLMN:sin-eater)=
 The fragment regarding sin-eating also appears on pp.222-3 of [*The Gentleman's Magazine* 1822-03: Vol 92](https://archive.org/details/sim_gentlemans-magazine_1822-03_92/page/222/mode/2up), in a column on *Popular Customs and Superstitions in Herefordshire. [From Mr. Fosbroke's "Ariconensia."]*, p220-223, continued from earlier in that volume.
 
 Although probably relevant to our story, there is also mention, again via Popular Antiquities, of a custom involving the casting of half-eater bread in the path of wedding party by a "deserted female":
