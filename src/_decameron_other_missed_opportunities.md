@@ -12,13 +12,19 @@ The British Magazine and Monthly Register of Religious and Ecclesiastical Inform
 >
 >(From a MS, book of a Bp. of St. Asaph, written about a century ago.)
 
-This attribution is an odd on: a list of [Bishops_of_St_Asaph](https://en.wikipedia.org/wiki/Bishop_of_St_Asaph#List_of_the_Bishops_of_St_Asaph) turns up no names I recognise, but the first quote below appears to come more or less directly from the manuscript ascribed to Pennant in *Popular Antiquities*:
+This attribution is an odd one: a list of [Bishops_of_St_Asaph](https://en.wikipedia.org/wiki/Bishop_of_St_Asaph#List_of_the_Bishops_of_St_Asaph) turns up no names I recognise, but the first quote below appears to come more or less directly from the manuscript ascribed to Pennant in *Popular Antiquities*:
 
 > The night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with him some small present of meat, bread, or drink, (if the family be something poor,) but more especially candles, whatever the family is; and this night is called a *wyl nos*, whereby the country people seem to mean a *watching night*. Their going to such a house they say is *i wilio corph*, i.e., to watch the corpse; but *wylo* signifies to weep and lament, and so *wyl nos* may be a night of lamentation. While they stay together on these nights, they are either singing psalms or reading some part of scripture.
 >
 > Whenever anybody comes into the room where a dead corpse lies, especially the *wyl nos*, and the day of its interment, the first thing he does he falls upon his knees by the corpse and saith the Lord's prayer.
 
 Was there, perhaps, an earlier manuscript, by the said Bishop of Asaph, that Pennant drew upon, unattributed (as far as I have found) by him? Or is this a misattribution by the authors of the British Magazine article?
+
+```{admonition} The Bishop of Asaph's Manuscript
+:class: seealso
+
+A manuscript that is possibly the one referred to here later appeared in *Archaeologia Cambrensis* [Vol 2 Iss 6, April, 1885, p151-5](ARCHC:manuscript), under the title *"Extracts from a MS. of an ancient date giving some customs and usages in North Wales"*.
+```
 
 The next fragment is more directly familiar to us from Pennant's own *Tour In Wales (Part 2)*:
 
