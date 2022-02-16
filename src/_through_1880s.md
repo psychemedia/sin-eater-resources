@@ -496,6 +496,7 @@ Three months later, in the issue dated [May 5th, 1888](https://journals.library.
 >
 > M. E. C. F.
 
+(OEHEL)=
 ## Charles Elton's *Origins of English history*, 1882
 
 Charles Elton's [*Origins of English history*](https://archive.org/details/originsofenglish00elto/page/176/mode/2up?q=sin), first published in 1882, with a second edition in 1890, was a broad raninging work that amongst other things sought to place various traditions in the context of wider history starting with prehistoric times, and then progressing through the classical period and thence to the "English conquest".
