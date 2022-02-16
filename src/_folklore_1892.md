@@ -91,6 +91,7 @@ A further report of the meeting in the [March, 1892](https://journals.library.wa
 
 The paper, or perhaps even an extended or revised version of it, was published in the June, 1892, volume of *Folklore*.
 
+(FLKLR:hartland-paper)=
 ## E. Sidney Hartland, *The Sin-Eater*, Folklore, June 1892
 
 Edwin Sidney Harland's paper to the Foklore Society appeared in full in the [Vol. III, No. II, p145-157](https://archive.org/details/folklore03folkuoft/page/144/mode/2up?q=sin-eater) edition of *Folklore* in June 1892. Not surprisingly, the sections relating to sin-eater closely follow the earlier report of the presented paper, starting with the earliest mention found to date, as provided by John Aubrey:
@@ -391,7 +392,7 @@ Returning back to 1892/3, Hartland's response to Godden's letter in the December
 So it seems that more evidence has recently come to hand, although what that evidence is not revealed. Instead, it appears to be something we must wait for...
 
 ```{index} double: correspondence, Folklore ; Hope, Gertrude
-:name: FLKLR:correspondence:1892:hope)
+:name: FLKLR:correspondence:1892:hope
 ```
 ### Gertrude Hope's New Evidence
 
