@@ -641,6 +641,9 @@ A couple of days later, in the *Evening Express* of [November 13th, 1895](https:
 
 Meanwhile, a letter in *Y Cymro* of [November 14th, 1895, p5](https://newspapers.library.wales/view/3451886/3451891/29/) introduces  the Welsh terms "diodles" and "diodlas", which perhaps remind us of the *Diodlys* tradition described in Bingley's review of *North Wales* from 1804. The correspondent provides a description of the *diodles*/*diodlas* tradition taken from a Welsh work published in 1820, *Drych yr Amseroedd* ["Mirror of the Times"].
 
+```{index} double: Drcyh yr Amseroedd ; Y Cymro
+:name: drych:y-cymro:diodles
+```
 ```{panels}
 Gohebiaethau.
 ^^^
