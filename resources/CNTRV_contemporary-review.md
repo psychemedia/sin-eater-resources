@@ -4,7 +4,7 @@ Old Welsh Legends and Poetry
 
 https://babel.hathitrust.org/cgi/pt?id=chi.15561341&view=1up&seq=408&skin=2021&q1=verney
 
-February 1896
+February 1876
 
 p403
 
