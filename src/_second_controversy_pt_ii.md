@@ -115,6 +115,7 @@ Whatever the case, Hartland considered his case in support of his claims complet
 > E. SIDNEY HARTLAND
 
 ```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+:name: secondcontrov:hartland:2ndletter
 ```
 ## Hartland's Second Letter to The Academy, October-November, 1895: The Negative Evidence
 
@@ -131,6 +132,13 @@ The letter opens with a reference to the "a MS. book of a Bisop of St. Asaph", w
 > Before I examine the negative evidence, let me revert for a moment to Pennant’s statement cited in my previous letter. I am indebted to Mr. J. P. Owen, who, writing lately to Prof. Rhys, has pointed out that this statement is derived from the same source as an account of "Ancient Usages and Customs in North Wales," contained in the *British Magazine* for April, 1835 (vol. vii., p. 399), and there said to be "from a MS. book of a Bishop of St. Asaph, written about a century ago." The British Magazine is now lying before me, and the passage runs as follows:
 >
 > "When the corpse is brought out of the house, and laid upon the bier, and covered before it be taken up, the next of kin to the deceased —widow, mother, daughter, or cousin (never done by a man)— gives cross over the corpse to one of the poorest neighbours two or three white loaves of bread and a cheese with a piece of money stuck in it, and then a new wooden cup of drink, which some will require the poor body that receives it immediately to drink a little of. When this is done, the minister (if present) saith the Lord's prayer, and then they set forward towards church."
+
+```{admonition} Mr J. P. Owen's letter, via Prof. Rhys
+:class: seealso
+A copy of Owen's letter can be found in *Notes & Queries* of February 8th, 1896, [Vol 9 Iss 215 ; 8th. S. ix, p109-111](NANDQ:owen-oct95-letter).
+
+As we shall see, Mr. Owen was also to enter into the debate in a more public way in the pages of the *Academy*.
+```
 
 Hartland obviously regards this as a manuscript that Pennant referenced, rather than a manuscript of Pennant's own work:
 
@@ -223,7 +231,7 @@ Hartland does not, however, feel the need to rely on so recent a text as *Cymru 
 
 > Scepticism, however, may deny the authority of so modern a compilation as *Cymru Fu*. Let me, therefore, turn to an account of the same custom, written at least forty years earlier. It occurs in a little book called *Drych y Amseroedd* [Wikipedia](https://cy.wikipedia.org/wiki/Drych_yr_Amseroedd) [book](https://viewer.library.wales/4794349). The purport of the book is described in the title-page, which may be rendered : "Mirror of the Times; comprising a little of the history of the most remarkable things that have happened, chiefly in Gwynedd, during the last two centuries in relation to religion. In the form of a conversation between Inquisitive and Observer."
 
-Hartland brings the attention of the predominantly English speaking *Academy* audience to the same exceprt from that work in the following way:
+Hartland brings the attention of the predominantly English speaking *Academy* audience to the same excerpt from that work in the following way:
 
 > Its author was a Calvinistic Methodist minister, named Robert Jones, of Capel y Dinas, previously of Rhoslan; and it was published at Llanrwst, presumably in 1820, for that is the date of the preface, though there is none on the title-page to the second edition, to which alone I have access. In the course of the conversation, Inquisitive says (p. 50) :—
 >
@@ -330,7 +338,7 @@ Owen then considers the character of the place where the tradition was claimed t
 
 *The Beirniad reference is perhaps a reference to a Welsh language article entitled "Hen Brydyddion Cwmaman A LLangiwg" (Google translate: "Former Brethren of Cwmamman and Llangiwg") in Y Beirniad, Autumn 1862, [p.204-220](https://journals.library.wales/view/2179996/2181214/59#?xywh=-1477%2C-4%2C5109%2C3370).*
 
-Mr Owen then proposes his own explanation for the goings on in Llandebie, wjich appears to be that Moggridge must have been exposed to the term "diodles* and it's translation of sin-eater but not fully appreciated the context:
+Mr Owen then proposes his own explanation for the goings on in Llandebie, which appears to be that Moggridge must have been exposed to the term "diodles" and its translation as "sin-eater" but not fully appreciated the context:
 
 > And now for my suggestion. I think it is beyond a doubt that Mr. Moggridge had some foundation for his assertion, and that it reached him somehow or other from Llandebie. The vicar of Llandebie, as also of the neighbouring parish of Bettws, from 1804 to 1850, was the Rev. John Williams. The road from Llandebie to Bettws runs right across the opening of Cwmamman. Well, after the old vicar's death, my father bought at the vicarage sale a quantity of Welsh books and periodicals. Among them was Robert Jones of Rhoslan’s *Drych*, which was a great favourite of mine when a boy. It must be borne in mind that that is a North Walian work, and that *diodles*, or *diodlys*, is a North Walian term. In the Welsh-English Dictionary by "T. Lewis and others," published at Carmarthen in 1805, there is no mention of *diodlys, cwpan y meirw, clul coffa, bwyd cenad meirw, bara rhan,* or *cacen gwyl y meirw*. The term, therefore, most probably heard by Mr. Moggridge was the term applied to the North Walian custom described by Robert Jones; and that it came either directly or indirectly from the vicar of Llandebie is very possible. This may appear to an Englishman a very minute point to attach importance to; but it must be remembered that in Welsh Wales (in Llandebie at any rate) there is not a field, nor a clump of trees, nor a rivulet, nor a custom, that has not its own appropriate name. In a succeeding letter I propose to deal with Aubrey, with Miss Hope's Pembrokeshire minister, and with each item of the North Walian custom described by Pennant and others.
 >
@@ -342,7 +350,9 @@ That the debate triggered by the *Times* correspondence had reappeared in the pa
 >
 > The sin-eater controversy did not end when it disappeared from these columns. The "Times", the "Academy," and one of the Birmingham papers opened their columns to the discussion, and now a volume has appeared, entitled, "The Sin-Eater, and Other Stories," by Miss Fiona Macleod. of which a reviewer says "she (the authoress) has caught in no small degree the spirit of the Celt, with its gloom and superstition, its fixity of purpose, it harshness and nobility."
 
-The "Birmigham paper" is perhaps *Bye-Gones*, which reprinted some of the *Times* correspondence?
+The same remarks appeared in the *"Gathered from Gwalia"* column of the *Evening Express* on the same date, [p4](https://newspapers.library.wales/view/3258109/3258113/104/).
+
+The "Birmingham paper" is perhaps *Bye-Gones*, which reprinted some of the *Times* correspondence?
 
 ```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
 ```
