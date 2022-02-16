@@ -27,9 +27,13 @@ parts:
   - file: _second_controversy_pt_i
   - file: _sin_eater_story_macleod
   - file: _second_controversy_pt_ii
+  - file: _second_controversy_pt_iii
 - caption: What Next?
   chapters:
   - file: _forthcoming
+- caption: Appendices
+  chapters:
+  - file: _methodology
 - caption: Endnotes
   chapters:
   - file: _glossary
