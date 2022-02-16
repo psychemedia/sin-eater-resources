@@ -35,7 +35,7 @@ p5
 
 BY THE WAY.
 ...
-The controversy about the Sin-eater in Wales is still going on merrily in the columns of the Academy. In tho last number Mr. Hartland, metaphorically speaking, pulls Mr. J. P. Owen to pieces.
+The controversy about the Sin-eater in Wales is still going on merrily in the columns of the Academy. In the last number Mr. Hartland, metaphorically speaking, pulls Mr. J. P. Owen to pieces.
 
 ...
 
