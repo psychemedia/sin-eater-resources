@@ -1,8 +1,41 @@
 # Triggering the Second Controversy, 1895
 
-*"On the morning of September the 27th, 1831, the Theatre of the Yorkshire Museum was filled by an assemblage of more than three hundred persons, `[The number of Tickets issued, was three hundred and fifty-three.]` including many distinguished members of learned and scientific bodies in different parts of the united kingdoms, who were collected together in consequence of a general invitation to the friends of science, which had been issued by the Yorkshire Philosophical Society."* [`First report, Brit. Assoc. Adv. Sci., 1832`](https://archive.org/details/b28040144/page/n19/mode/2up)
+At the start of 1895, Sidney Addy published [*Household Tales*](https://archive.org/details/householdtaleswi00addyuoft/page/n161/mode/2up?q=funeral), a collection of tales *"with other traditional remains, collected in The Counties of York, Lincoln, Derby, and Nottingham".
 
-## The Founding of the British Association for the Advancement of Science, York, 1832
+(HHTLA)=
+In a chapter on *Traditional Remains*, at p123-5, he notes:
+
+> TRADITIONAL REMAINS
+>
+> ...
+>
+> At Eckington, in the same county [Derbyshire], when a corpse was laid out food was placed upon a table within reach of the body. This practice was invariably adhered to.
+>
+> ...
+>
+> At a funeral in Derbyshire wine is first offered to the bearers who carry the corpse. This custom is strictly maintained, the guests not receiving any wine until the funeral party has returned from church.
+>
+> ...
+>
+> When a dying man has "something on his mind" he cannot die until he has divulged it.
+>
+> ...
+
+Of particular interest to us, perhaps, is the observatio that:
+
+> When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man's sins and bear them yourself.
+
+Funeral cakes, and alms, are also described:
+
+> At all funerals in Eyam cakes were given to the mourners, and each mourner carried his cake to church wrapped up in a handkerchief. The cakes were always three-cornered or triangular, and were usually spiced with currants. The mourners also partook of spiced ale, which was known as "burnt drink". It was a dark-looking liquid, with a strongly aromatic smell, and consisted of ale spiced with cloves, nutmeg, ginger and mace. It was drunk out of a large tankard, which was handed round to the mourners at the door of the house, when the funeral procession was about to start for the church. At the same time the three-cornered cakes were handed round to the mourners in a large round willow basket. The same tankard and basket were used at all funerals. The mourners walked before the corpse, and sang all the way to church.
+>
+> At the funeral of one Lydia Brushfield every child in the village received a twopenny-piece and a cake.
+
+But no mention of a sin-eater role borne by a single unfortunate individual is made.
+
+## The Founding of the British Association for the Advancement of Science, 1831-2
+
+*"On the morning of September the 27th, 1831, the Theatre of the Yorkshire Museum was filled by an assemblage of more than three hundred persons, `[The number of Tickets issued, was three hundred and fifty-three.]` including many distinguished members of learned and scientific bodies in different parts of the united kingdoms, who were collected together in consequence of a general invitation to the friends of science, which had been issued by the Yorkshire Philosophical Society."* [`First report, Brit. Assoc. Adv. Sci., 1832`](https://archive.org/details/b28040144/page/n19/mode/2up)
 
 Following an opening address by Viscount Milton, the President of the Society, *"the Rev. William Vernon Harcourt, Vice-President of the Yorkshire Philosophical Society, and Chairman of the Committee of Management, then addressed the Meeting"*:
 
@@ -215,12 +248,21 @@ The audience of *The Montgomery County Times and Shropshire and Mid-Wales Advert
 > In the anthropological section of the British Association, which held its meetings at Ipswich last week, Captain L. S. Hinde on Saturday gave a description of some cannibals in the Congo district and their customs. In the discussion which followed Mr. E. S. Hartland (Gloucester) thought there were traces of the old custom of eating the dead to be found, not merely in Europe, but in our own country. In Upper Bavaria when a dead man was laid out, the first thing was to bake a corpse cake of ordinary flour. The. cake was put on the breast of the dead "to rise," and was supposed to absorb the virtues of the deceased. It was afterwards eaten by the nearest relatives. In the Balkan Peninsula an image of the dead was carried in the procession, and was eaten at the tomb, the relatives praying "God rest him!" In our own country there were traces of these customs. In Wales there was within the recollection of men still living the sin eater." John Aubrey, who lived at the time of Charles II., and was a celebrated antiquary, witnessed this ceremony at Ross, in the county of Hereford. Aubrey described the man, who was a paid sin-eater," as a long, lean, lamentably poor rascal." It was the practice for a relative, usually a woman, to put on the breast of the dead a quantity of bread, cheese, and beer. The" sin-eater" was expected to consume these things, and then pronounce the everlasting rest of the departed. It was believed that in doing this he absolutely ate and appropriated to himself the sins of the deceased. The "sin-eater" was given sixpence for his trouble, and took care to get out of people's sight as soon as he could. This practice was said to have existedlin the neighbourhood of Swansea as recently as 1851, but the sin-eater's price had then risen to half a crown. Probably the greater part of the human race had passed through this phase of cannibalism, and it was perhaps a necessary phase of the evolution of human civilisation.
 ```
 
+(NANDQ:oct95)=
 A correspondent of *Notes & Queries* also made passing mention to the tradition, in the [Vol 8 Iss 198](https://archive.org/details/sim_notes-and-queries_1895-10-12_8_198/page/288/mode/2up) edition of October 10th, 1895, p288, piqued by interest in their own local paper (though we do not know which one):
 
 > SIN-EATERS.
 >
-> Recently this old custom has been referred to in a local paper ; but the rather contradictory illustrations given call for an explanation, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case, put bread, cheese, and beer on the breast of the dead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himself the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; if so, where. The old custom referred to in Leland's 'Collections' was sin-eating pure and simple. Alfred Chas. Jonas, F.R.Hist.S.
+> Recently this old custom has been referred to in a local paper ; but the rather contradictory illustrations given call for an explanation, which doubtless some reader will be able to give. It is said that in Upper Bavaria, when a dead person is laid out, a cake of ordinary flour is put on his breast, which is to absorb the virtues of the deceased, the cake afterwards being eaten by the nearest relatives. In Wales, we are told, there was, within the recollection of persons living, the sin-eater. The relatives, in this case, put bread, cheese, and beer on the breast of the dead, and the sin-eater disposed of the lot, and pronounced the everlasting rest of the dead. Here the sin-eater was supposed to take upon himself the sins of the departed. This practice is said to have existed in this neighbourhood in 1851. It will be interesting to learn if these customs still exist ; if so, where. The old custom referred to in Leland's 'Collections' was sin-eating pure and simple.
+>
+> Alfred Chas. Jonas, F.R.Hist.S.
 >
 > Pairfield, Poundfald, near Swansea.
+
+A response in [Vol 8 Iss 200, p332 ;  8th S, viii. 332](https://archive.org/details/sim_notes-and-queries_1895-10-26_8_200/page/332/mode/2up) dated October 26th, 1895, referred readers to previous mentions of the topic in earlier editions of *Notes & Queries*.
+
+> Sin-eaters (8th S, viii. 288).
+> 
+> —See 'N. & Q.,' 1st S. iv. 211; vi. 390, 541, and the references there given. W. C. B.
 
 For many readers around the country, that might have been the end of the matter; but for readers of the Western Mail for its review of the meeting, and for a certain reader of *The Times*, Hartland's comments, as reported therein, were to be rather more provocative.
