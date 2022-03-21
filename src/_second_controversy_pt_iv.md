@@ -25,7 +25,7 @@ So what has he managed to discover?
 ```{admonition} Anna Beale's "The Vale of Towey", 1844
 :class: warning
 
-The original work can be viewed via an exhibit published by the National Library of Wales [here]](https://www.library.wales/digital-exhibitions-space/digital-exhibitions/europeana-rise-of-literacy/prose-and-novels/the-vale-of-the-towey-or-sketches-in-south-wales/).
+The original work can be viewed via an exhibit published by the National Library of Wales [here](https://www.library.wales/digital-exhibitions-space/digital-exhibitions/europeana-rise-of-literacy/prose-and-novels/the-vale-of-the-towey-or-sketches-in-south-wales/).
 
 The following description of the work from the [National Library of Wales](https://www.library.wales/digital-exhibitions-space/digital-exhibitions/europeana-rise-of-literacy/prose-and-novels/the-vale-of-the-towey-or-sketches-in-south-wales/) is provided there:
 
