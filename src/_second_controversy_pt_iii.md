@@ -1,4 +1,4 @@
-# Second Controversy, 1896, Part III
+# Second Controversy, Feb-April, 1896, Part III
 
 As 1895 rolled into 1896, Peter Ditchfield published a work on [Old English customs extant at the present time; an account of local observances](https://archive.org/details/studentshistoryo00gardrich/page/202/mode/2up?q=%22sin+eater%22). At p202, he described various burial customs, such as some of those that could be found in the county of Yorkshire:
 
@@ -23,13 +23,15 @@ At the end of January, in the *Merthyr Times and Dowlais Times and Aberdare Echo
 
 ## The Correspondence Moves to Notes & Queries
 
-The correspondents in the *Academy* now appeared to take a break, perhaps as a result of Owen licking his wounds following Hartland's response in the second half of January, 1896. However, what at first looks like a new front of attack then opened up in *Notes & Queries*. A question had been raised back in the [October 10th, 1895](NANDQ:oct95) issue by a certain Mr Jonas, presumably in response to reports of the British Association meeting, but there had been no response at the time, other than an answer referring interested readers to earlier mentions in *Notes & Queries*, until the issue of February 8th, 1896, [Vol 9 Iss 215 ; 8th. S. ix, p109-111](https://archive.org/details/sim_notes-and-queries_1896-02-08_9_215/page/108/mode/2up?q=sin+eater).
+The correspondents in the *Academy* now appeared to take a break, perhaps as a result of Owen licking his wounds following Hartland's response in the second half of January, 1896. However, what at first looks like a new front of attack then opened up in *Notes & Queries*. A question had been raised back in the [October 10th, 1895](NANDQ:oct95) issue by a certain Mr Jonas, presumably in response to reports of the British Association meeting, but there had been no response at the time, other than an answer referring interested readers to earlier mentions in *Notes & Queries*. At least, that is, until February, 1896.
 
 ```{index} ! triple: Second Controversy ; correspondence, Notes & Queries ; Owen, J. P.
 ```
 ### Owen's Early Letter to Notes & Queries
 
-However, several other replies appear to have been languishing in the in-tray for some time, the most comprehensive of which was penned by a familiar name, Mr. J. P. Owen. A postscript to the answer notes that the letter had been *"sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895."*. Hartland had also referred to it in his [second letter](secondcontrov:hartland:2ndletter) to the *Academy*.
+For the [Vol 9 Iss 215 ; 8th. S. ix, p109-111](https://archive.org/details/sim_notes-and-queries_1896-02-08_9_215/page/108/mode/2up?q=sin+eater) of *Notes & Queries*, published on February 8th, 1896, someone must have been tidying up the in-tray, as several responses that had apparently been languishing there for some time duly appeared in print.
+
+The most comprehensive of them was penned by a familiar name, Mr. J. P. Owen. A postscript to the answer notes that the letter had been *"sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895."*. Hartland had also referred to it in his [second letter](secondcontrov:hartland:2ndletter) to the *Academy*.
 
 (NANDQ:owen-oct95-letter)=
 > SIN-EATER.
@@ -92,7 +94,7 @@ The correspondent then delves further into the etymology of possibly related ter
 
 ### Other Responses to the Query of October, 1895
 
-Several other answers also appeared in the same issue of *Notes & Queries*. The first makes a general comment regarding the supposed transferrance of various personal charactersistics from the deceased following their death:
+Several other answers also appeared in the same issue of *Notes & Queries* (Vol 9 Iss 215 ; 8th. S. ix). The first makes a general comment regarding the supposed transferrance of various personal charactersistics from the deceased following their death:
 
 > The two customs mentioned under the above heading are, in reality, quite reconcilable. According to a widely disseminated folk-belief, when a man dies his essential principles, moral or otherwise, may be taken over by some one else, the matter being managed in various ways in different parts of the world. Thus, among certain savage peoples a successful warrior banquets on the body of the enemy he has killed, in order to absorb his bravery and his other enviable characteristics. It is said that in ancient Mexico the captor was under obligation to offer up his captive at one of the solemn sacrificial feasts— an important reason for the custom being, probably, that the prisoner's virtues as a man should be transmitted to the conqueror, though, from another point of view, no doubt the unfortunate sufferer was an earthly representative of the god to whom he was sacrificed.
 >
@@ -128,7 +130,7 @@ And [Brand](book:brand:popantiq:1813) and the [*Gentleman's Magazine*](GNLMN:sin
 ```
 ### Mr Thomas Rejoins the Debate He Originally Started
 
-Three weeks later, in the edition of February 29th, 1896, [Vol 9 Iss 218 ; 8th S. IX, p169-170](https://archive.org/details/sim_notes-and-queries_1896-02-29_9_218/page/168/mode/2up?q=sin-eater), Mr Thomas, whose letter in *The Times* several months previously had triggered the controversy, and whose name had been invoked throughout the debate, now felt the need to explain his position further:
+Three weeks later, in *Notes & Queries* dated February 29th, 1896, [Vol 9 Iss 218 ; 8th S. IX, p169-170](https://archive.org/details/sim_notes-and-queries_1896-02-29_9_218/page/168/mode/2up?q=sin-eater), Mr Thomas, whose letter in *The Times* several months previously had triggered the controversy, and whose name had been invoked throughout the debate, now felt the need to explain his position further:
 
 > SIN - EATER,
 >
@@ -346,7 +348,7 @@ Hartland then signs off in a way that suggests he has tired with the constant to
 >
 > E. SIDNEY HARTLAND.
 
-### The Return of J.P Owen
+### Owen Responds to Addy in Notes & Queries
 
 As Mr Hartland was attempting to lay the matter to rest in the correspondence pages of *The Academy*, in *Notes & Queries*
 [8th Series, Vol 9 Iss 221](https://archive.org/details/sim_notes-and-queries_1896-03-21_9_221/page/236/mode/2up), p236-7, also on March 21st, 1896, Mr J. P. Owen, who it might be recalled authored the [first letter](secondcontrov:owen:1stletter) to appear on the matter in the pages of *The Academy*, was defending what he had written therein to Mr Addy:
@@ -393,3 +395,20 @@ It's not clear in the final sentence whether he is bitterly muttering to himself
 > I base my suggestion that some at least of the customs are independent survivals partly on the fact that we find in some cases *all* the guests expected to partake.
 >
 > N. W. Thomas.
+
+```{index} ! triple: Second Controversy ; correspondence, Notes & Queries ; Addy, S. O.
+```
+### Addy Responds to Owen 
+
+To finish off the current round of exchanges, Mr Addy penned a response to Owen in *Notes & Queries*, [Vol 9 Iss 224](https://archive.org/details/sim_notes-and-queries_1896-04-11_9_224/page/296/mode/2up), p296, of April 11th, 1896.
+
+Briefly, and to the point, he addressed each of the three questions raised by Mr Owen in turn, identifying as he did so, the source of his information regarding the observation he went on to indirectly refer to as "sin-drinking":
+
+> 8th S. IX
+>
+> Sin-Eater (8th S. viii, 288, 332; ix. 109, 169, 236).
+> —Mr. Owen has put three questions to me, which I answer specifically. (1) The term "sin-drinking" was not employed by my informant, nor does it occur in the text of my book. I used it in the index as the most convenient word for reference. (2) I do not know whether my informant was a Churchwoman or a Dissenter. (3) The name of my informant was Miss Alice Halifax, the daughter of a farmer, formerly living near Dronfield, in Derbyshire, afterwards at Ompton, in Nottinghamshire, and now, I believe, near Newark. Miss Halifax collected folk-lore for me, and I wrote it down from her dictation. I am not aware that any ritual is now practised. S. O. Addy.
+>
+> 3, Westbourne Road, Sheffield.
+
+And here ends this phase of the deabte. But there was a final chapter to come, as Mr J. P. Owen returned to the pages of *The Academy*.
