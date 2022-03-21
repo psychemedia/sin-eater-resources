@@ -234,14 +234,14 @@ And once again, the extraordinary situation regarding the lack of first-hand tes
 >
 > N. W. THOMAS.
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```{index} triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
 ```
 ### Hartland Focusses His Defence
 
 Hartland responded promptly with a letter written on March 2nd, 1896, that appeared a week later, in [Vol 49 Iss 1244](https://archive.org/details/sim_academy-and-literature_1896-03-07_49_1244/page/200/mode/2up?q=%22sin-eating%22), p200-201, of *the Academy, dated March 7th, 1896.
 
 ```{margin} Local Places for Local People...
-Speaking from personal experience of living on the Isle of Wight, the thought of some islanders travelling even half-way across the island (which is barely more than 20 miles across even at the widest point) would be as likely as them travelling to Llandebie, which is nearer 200 miles away, and hardly the first destination you might think of.
+Speaking from personal experience of living on the Isle of Wight, the thought of some islanders travelling even half-way across the island (which is barely more than 20 miles across even at the widest point) would be as likely as them travelling to Llandebie, which is nearer 200 miles away, and hardly the first destination you might think of going to on the mainland.
 ```
 
 He opens by denying the relevance of Rowland's negative testimony regarding the eating of cakes, based on the geography of the areas concerned, and the attitudes of the inhabitants thereof regarding their knowledge and direct experience of certain other locations:
@@ -277,3 +277,119 @@ Hartland closes with a comment regarding the lack of "on the ground" research re
 > E. SIDNEY HARTLAND.
 
 So how did Thomas now respond...?
+
+```{index} triple: Second Controversy ; correspondence, Academy ; Thomas, N. W.
+```
+### Thomas Promptly Responds to Hartland
+
+By return of post, it seems, Mr Hartland wasted no time in compiling his repsonse to Mr hartland, which appeared in the next ossue *The Academy*, [Vol 49 Iss 1245](https://archive.org/details/sim_academy-and-literature_1896-03-14_49_1245/page/222/mode/2up?q=%22sin-eating%22), p222-3, dated March 14th, 1896.
+
+The first point he offers is a defence of Mr Rowlands, the schoolmaster:
+
+> THE SIN-EATER IN WALES.
+>
+> New College, Eastbourne: March 7, 1896.
+>
+> With regard to my first point, as Mr. Hartland questions the competence of the schoolmaster, Rowlands, to give satisfactory evidence, it will be convenient if I state what I believe to be the facts with regard to his position. I am obliged, unfortunately, to speak from memory, so I trust Mr. Hartland will be merciful if he finds me tripping. Mr. Rowlands's own statements are: (1) that he became schoolmaster at Llandebie in 1852, the year of the Ludlow meeting—if, as I suppose, he was schoolmaster there when Canon Evans wrote, Mr. Owen's recollection seems to be at fault ; (2) that he was in the habit of attending funerals; (3) that he collected for Sir Thomas Phillipps the traditions and customs of the district. He has also, I believe, published a pamphlet on some Welsh archaeological question. He was therefore, before Canon Evans applied to him, taking an interest in matters of this sort.
+
+As to the likelihood that Rowlands would have knowledge of any traditions outside his own village:
+
+> Of course, if he had no acquaintance with a larger area than the immediate surroundings of Llandebie, his evidence is only valuable for that area ; but Mr. Hartland (ACADEMY, November 9) stated that the ritual was in use "at Llandebie." I admit that if Mr. Hartland's assumption as to the extent of Mr. Rowlands's knowledge be correct, the value I attach to his evidence is unwarranted ; but Mr. Hartland must also admit that it is his change of ground which renders it so. If, however, he was employed by Sir Thomas Phillipps for the purpose stated, I infer that his knowledge extended to more than the immediate surroundings of Llandebie.
+
+On the matter of "feasts" and his comments on the evolution of certain traditions, Mr Thomas then clarifies his position, attempting this time to lay out his arguments as clearly as an ABC:
+
+> I offer apologies for not having stated my second point more clearly. It is this. Mr. Hartland regards Sin-eating as a survival of a specific feast of the kin ; he regards as survivals of Sin-eating customs of eating and drinking at funerals where we find no Sin-eater and no special virtue attributed to the dole. I suggest that these customs are allied to Sin-eating in virtue of a common descent from the feast of the kindred, not by direct descent from Sin-eating itself. I suppose that the feast of the kindred is now represented by various practices— A, B, C. Evidence shows that these were occasionally associated with or replaced by D. No amount of evidence that A, B, and C were, or are, generally practised will lead to the conclusion that D was prevalent in the area in question.
+
+Mr Thomas appears weilling to concede certain points, but not the argument:
+
+> I contend that we find certain customs involving the giving of food at funerals. There is evidence that these customs sometimes took the form of Sin-eating, but we cannot infer the existence of Sin-eating wherever we find these offertories at funerals. And be it noted in this connexion that Aubrey himself does not connect the offertories with the Sin-eater.
+
+Finally, on the matter of seeking out corroborative testimony, Mr Thomas holds his ground, and recalls the article that started the whole debate:
+
+> As to the third point, I do not agree with Mr, Hartland that no one was concerned to take up the challenge. The ACADEMY controversy arose out of an article in *Blackwood*. The writer (Prebendary Davies of Hereford, according to a good authority) professed to be well acquainted with Wales, and having taken up the challenge, was certainly interested in the matter, and, I think, in a position to investigate.
+>
+> N. W. THOMAS
+
+```{index} triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```
+### Hartland's Similarly Prompt Response
+
+As with Mr Thomas, it seems that Mr Hartland is no less prompt in his ability to compose to a reply as a direct response to that day's *Academy*, with his letter dated *March 14 1896* appearing in the following edition of *The Academy*, [Vol 49 Iss 1246](https://archive.org/details/sim_academy-and-literature_1896-03-21_49_1246/page/240/mode/2up?q=%22sin-eating%22), p241-242, dated March 21st, 1896.
+
+He opens with a comment regarding where he thinks the goalposts now appear to have moved to realting to Moggridge and Rowlands:
+
+> THE SIN-EATER IN WALES.
+>
+> Highgarth, Gloucester: March 14, 1896.
+>
+> I must plead guilty to having given Mr. Thomas some reason for charging me with changing my ground. Mr. Moggridge, it seems, did not specify the exact place where the custom of Sin-eating had been performed within recent years. He described it as a mountain valley near Llandebie.
+
+In mounting his defence, he is careful to state that he is working from notes, and an incomplete set of evidence:
+
+> Writing without having the *Archaeologia Cumbrensis* before me, but only notes of its contents, I referred to the scene in general terms as "at Llandebie." Nor have I there the letter containing Mr. Rowlands's statements. But, assuming Mr. Thomas's account of them to be correct, I see nothing in them to alter my opinion. It was, at all events, some years after the event signalised by Mr. Moggridge that Mr. Rowlands came to the village of Lilandebie; and, granting that Cwmamman was where the custom was alleged to have been practised, it appears to me that Mr. Rowland's denials so many years later cannot outweigh Mr. Moggridge's affirmation. However, I am unable to carry the evidence further, and there for the present it must rest.
+
+As to the evolution of tradition, Hartland notes that Thomas appears to be happy that sin-eating really did exist, and that the depite the question of exact lineage being hard to prove, Thomas actually appears to be largely in agreement with him.
+
+> If I now understand Mr. Thomas's second point —that the customs of North Wales described by Pennant, Robert Jones, and Aubrey himself were not survivals of Sin-eating, but merely independent survivals of the same feast, of which the custom of Sin-eating was also a survival—he admits that the custom of Sin-eating was practised somewhere. It is, of course, extremely difficult, if not impossible, to say with certainty whether these North Welsh customs were lineally descended from that of Sin-eating, or were only variant or related forms of it, independently derived from a common original. In my view the whole evidence presented in this correspondence—not forgetting the Lancashire custom of "The ded manse dowle or Banquet of Charitie," brought to light by Mr. Owen—points to a widespread, and probably Celtic, custom of Sin-eating, gradually disappearing with the growth of civilisation, and surviving here and there in more or less complete forms, which were naturally not all precisely alike. The difference between us is, after all, no very great one, and the scientific inferences as to the meaning of the customs remain undisturbed.
+
+Regarding the Blackwood's article, Hartland suggests it was an opinion piece designed to spark controversy, which it undoubtedly did, rather than provide a basis for an investigation into a matter in which the original author was seriously interested:
+
+> Whoever the writer of the article in Blackwood's may have been, what evidence is there that Canon Silvan Evans's letters in the ACADEMY were brought to his knowledge? In any case, the article was most likely nothing more than a pot-boiler, in which, having served its office, the author had no further concern.
+
+He also suggests that Owen has already demonstrated how he is well accustomed with such tactics, as for example demonstrated by his [rambling second letter](secondcontrov:academy:owen:2ndletter) to *The Academy*:
+
+> The manners and customs of the tribe of magazine article-writers are well known. Mr. Owen gave an amusing and instructive example in his letter which appeared in the ACADEMY of December 21. Everybody who has made it his business to inquire seriously into any subject could easily add others quite as amusing and almost as instructive.
+
+Hartland then signs off in a way that suggests he has tired with the constant to-ing and fro-ing and that there is little more that can be said:
+
+> Here, so far as I am concerned, I must bring the correspondence to a close. The subject, I think, has been pretty well threshed out. In thanking the Editor of the ACADEMY for allowing the statements of fact and exchange of opinions in his columns, I may venture to express the hope that, if his correspondents have not succeeded in converting one another, they have at least provided some material not without value for the solution of the questions involved.
+>
+> E. SIDNEY HARTLAND.
+
+### The Return of J.P Owen
+
+As Mr Hartland was attempting to lay the matter to rest in the correspondence pages of *The Academy*, in *Notes & Queries*
+[8th Series, Vol 9 Iss 221](https://archive.org/details/sim_notes-and-queries_1896-03-21_9_221/page/236/mode/2up), p236-7, also on March 21st, 1896, Mr J. P. Owen, who it might be recalled authored the [first letter](secondcontrov:owen:1stletter) to appear on the matter in the pages of *The Academy*, was defending what he had written therein to Mr Addy:
+
+> SIN-EATER (8th S. viii, 288, 332 ; ix. 109, 169). — Mr. Addy's reference to my note in 'N. & Q.' is not quite accurate. I did not "forget to say" that Mr. Thomas's letters to the *Times* were an "attack" on Mr. Hartland, for the simple reason that the latter gentleman had assured me his sole object was to get at the truth, and that he would welcome light from whatever quarter it came. The only thing in the shape of an "attack" that I have seen was Mr. Hartland's criticism on the supposed shortcomings of the venerable Welsh scholar Canon Silvan Evans.
+
+He also claims "no hard feelings" in the way the correspondence had played out there:
+
+> So far as I was personally concerned, I thoroughly enjoyed the way in which my own humble contributions to the controversy were handled, though that handling did not tend to enhance my respect for "authority" in matters of folk-lore, nor to deepen my confidence in the dovetailing method of working up accounts of custom and myth. Indeed, Mr. Hartland's efforts
+>
+> varias inducere plumas  
+> Undique collatis membris ut turpiter atrum  
+> Pingeret avépopphagow (Fe-fi-fo-fum Auberiensem),
+>
+> furnish a lesson that will not, I hope, be thrown away on the guileless reader of the pronouncements of folk-lore "authorities."
+
+As to the omission regarding Addy's observations:
+
+> The only modern instance of so-called "sin-eating" adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Addy’s book. Aubrey and Pennant, Moggeridge and the Pembrokeshire minister were all found to be other than Mr. Hartland’s fancy painted them. I was unable to find a copy of Mr. Addy's work in the British Museum, but
+
+having seen now, for himself, what Addy has to say, he observes that
+
+> that gentleman's own communication to 'N. & Q.' induces me to ask him (1) if the term "sin-drinking" was employed by his informant ; (2) if his informant was a Churchman or a Dissenter; and (3) if he can see his way to publish the name of the locality where the "ritual" described to and by him is practised.
+
+Mr Owen then stands up straight and congratulates himself for having helped move understanding about the sin-eater tradition along, such as in the case of the Market Drayton account, which Owen had previously suggested that *'the mysterious and “significant” remark of the Pembrokeshire minister was of no historical or scientific value whatever'*:
+
+> It was only, I believe, through my public avowal of scepticism as to the "significance," from a sin-eating point of view, of the Pembrokeshire minister's remarks at the Market Drayton funeral that Mr. Hartland was induced to sift that tale. The result of his investigation was, if I may borrow Mr. Addy's expression, "effectual" enough. The Market Drayton evidence— "evidence," to quote Mr. Hartland's words in the *Academy* for 9 Nov., "such as could not be doubted" — had become two months later (*Academy*, 11.Jan.) an "incident about which there had been some misapprehension"; while the minister's words "would appear only to have had reference to the general custom of eating and drinking at funerals." I did not attempt to argue with Mr. Hartland. Indeed, there was no need, for the above is only a sample of the "effectual" way in which his own arguments destroyed either themselves or one another.
+>
+> J. P. Owen.
+> 48, Comeragh Road, W.
+
+```{index} triple: Second Controversy ; correspondence, Academy ; Thomas, N. W.
+```
+### Thomas Seeks the Last Word
+
+Back in *The Academy*, Mr Thomas seems reluctant to allow Mr Hartland have the last say in the public correspondence between them, despite appearing to appeal to the contrary. Writing in [ Vol 49 Iss 1247](https://archive.org/details/sim_academy-and-literature_1896-03-28_49_1247/page/264/mode/2up?q=sin), p265, of *The Academy*, dated March 28th, 1896, he signs off by suggesting that Hartland appeared to concede another point to Thomas (and should presumably have had the grace to give in completely?!) and then makes a confusing statement regarding Silvan Evans (I'm not actually sure what point he *is* trying to make?).
+
+> THE SIN-EATER IN WALES.
+>
+> New College, Eastbourne: March 91, 1896. I should not offer any remarks on Mr. Hartland's last letter, if it were not that he has admitted the importance of my point, that no direct evidence was produced in reply to Canon Silvan Evans's challenge, and at the same time misunderstood my statement that the *Blackwood* writer took up the challenge. He was actually one of the correspondents in the ACADEMY; so of course, Mr. Hartland's remarks have no bearing on the point at issue. If most articles are potboilers, and of no further concern to the writers, this was certainly not the case on the occasion under discussion.
+
+It's not clear in the final sentence whether he is bitterly muttering to himself.
+
+> I base my suggestion that some at least of the customs are independent survivals partly on the fact that we find in some cases *all* the guests expected to partake.
+>
+> N. W. Thomas.
