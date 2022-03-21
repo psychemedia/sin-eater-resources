@@ -305,6 +305,7 @@ A few days later, the *South Wales Daily News* of [November 27th 1895, p4](https
 > The alleged existence of the sin-eater in Wales has occasioned an interesting discussion in the *Academy*, to which Mr E. Sidney Hartland has just contributed a series of three articles dealing with the positive and negative evidence on the question. Canon Silvan Evans, the eminent Welsh lexicographer, declares he has failed to trace the sin-eater either in Welsh folklore or in Welsh literature. Mr Sidney Hartland this week, however, quotes interesting extracts from *Cymru Fu* and *Drych yr Amseroedd* in support of his view that "there is abundant ground for believing in the existence of the custom of sin-eating in Wales;" and in concluding his article he thus sums up :— "I have shown it in the Marches down to the year 1893 I have shown it in Brecknockshire in the seventeenth century I have shown it in Pembrokeshire down to recent years I have shown it in Powisland in the eighteenth century I have shown that in Gwynedd, or the western part of North Wales, it had not died out of memory in the year 1820, though probably it was no longer practised... Where Canon Silvan Evans has failed to find evidence lying upon the surface of Welsh literature— nay, in his very path as a philologist— it is not impossible that careful inquiry may discover further references to the custom. Even as the matter stands, however, it is amply proved." Mr Hartland believes the custom to be an interesting relic of immemorial antiquity, originating probably in the custom, expressly ascribed by Strabo to the Irish, of the eating of dead parents; but he adds a grain of comfort in the conjecture that, after all, the custom properly belongs rather to the Goidelic than to the Cymric branch of the Celtic race.
 
 ```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+:name: secondcontrov:owen:1stletter
 ```
 ## Owen's First Letter to The Academy, November-December, 1895
 
@@ -355,6 +356,7 @@ The same remarks appeared in the *"Gathered from Gwalia"* column of the *Evening
 The "Birmingham paper" is perhaps *Bye-Gones*, which reprinted some of the *Times* correspondence?
 
 ```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+:name: secondcontrov:academy:owen:2ndletter
 ```
 ## Owen's Second Letter to The Academy, December, 1895
 
@@ -490,7 +492,7 @@ To give it its full title, the referenced work [*Celtic Researches*](https://arc
 >
 > In a footnote he adds: "Here is an opportunity for a triumph against the Celt, as Mr. Pinkerton may argue that the Welsh were not only savages but cannibals."
 
-Owens picks up on the lack of descriptions of Welsh funeral customs providing a couple of references, one of which is not available to him (Mary Curtis' *Antiquities of Laugharne, Pendine* from 1880), but one which is, and which is also a new addition to our trail:
+Owen picks up on the lack of descriptions of Welsh funeral customs providing a couple of references, one of which is not available to him (Mary Curtis' *Antiquities of Laugharne, Pendine* from 1880), but one which is, and which is also a new addition to our trail:
 
 ```{index} single: Cymru Fu ; Travelling in Wales in 1820
 ```
