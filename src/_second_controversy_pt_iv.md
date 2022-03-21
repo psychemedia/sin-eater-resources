@@ -18,7 +18,7 @@ So what has he managed to discover?
 
 > In 1844, Miss Anne Beale, the well-known writer of numerous tales and novels depicting various phases of life in Wales, published a small volume of sketches under the name of *The Vale of the Towey*. At that date Miss Beale was governess to the daughters of Mr. Williams, vicar of Llandefeisant, a small parish almost entirely swallowed up by Dynevor Park, where the church is situated. Practically, Llandefeisant may be looked upon as belonging to the parish of Llandilo; and, in the early forties, the southern end of that huge parish included a great portion of the "lawless mountain valley" of Cwmamman.
 
-Owen sees no problem in accepting this as an authentic, original source:
+Owen sees no problem in accepting this work as an authentic, original source:
 
 > The sketches of Welsh manners and customs to be found in *The Vale of the Towey* are drawn from life, a little idealised, no doubt, but, apart from the slender thread of fiction on which they are strung, absolutely trustworthy. They were republished, I should add, by the Religious Tract Society in 1886, with the title altered into *Seven Years for Rachel*.
 
