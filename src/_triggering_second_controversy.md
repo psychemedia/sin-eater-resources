@@ -5,6 +5,8 @@ At the start of 1895, Sidney Addy published [*Household Tales*](https://archive.
 (HHTLA)=
 In a chapter on *Traditional Remains*, at p123-5, he notes:
 
+```{index} double: Addy, S. O. ; "Household Tales", 1895
+```
 > TRADITIONAL REMAINS
 >
 > ...
