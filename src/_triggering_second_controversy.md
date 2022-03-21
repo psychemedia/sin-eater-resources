@@ -21,7 +21,7 @@ In a chapter on *Traditional Remains*, at p123-5, he notes:
 >
 > ...
 
-Of particular interest to us, perhaps, is the observatio that:
+Of particular interest to us, perhaps, is the observation that:
 
 > When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man's sins and bear them yourself.
 
