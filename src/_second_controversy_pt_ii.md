@@ -50,7 +50,7 @@ To reassert his support for Aubrey, Hartland quotes him again, arguing that Aubr
 
 Hartland then argues, as he has before, that the tradition is well established, and traces of it are spread widely:
 
-> Leaving for the moment what he says about Llangors, I pass to Derbyshire, a district where the Britons long maintained their independence, and the population of which is probably still to a great extent of Celtic ancestry. Recent inquiries by Mr. S. O. Addy have shown that
+> Leaving for the moment what he says about Llangors, I pass to Derbyshire, a district where the Britons long maintained their independence, and the population of which is probably still to a great extent of Celtic ancestry. Recent inquiries by Mr. S. O. Addy have shown that:
 >
 > "at a funeral in Derbyshire wine is first offered to the bearers who carry the corpse. This custom is strictly maintained, the guests not receiving any wive until the funeral party has returned from church... . When you drink wine at a funeral, every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man's sins and bear them yourself" (*Household Tales, with other Traditional Remains, collected in the Counties of York, Lincoln, Derby, and Nottingham*, 1895, pp. 123, 124).
 
