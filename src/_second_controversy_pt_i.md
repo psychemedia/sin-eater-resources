@@ -60,6 +60,8 @@ Mr Thomas then refers to a letter from a *Rev. T. Eynon Davies* in 1882 to *Chri
 
 We then have a phrase very evocative of our own times — "false news" — lamenting that it may be understandable in the press, but not in the pages of an amateru (which is to say, professional) society.
 
+```{index} single: False news
+```
 > If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the " sin-eater " in modern times, stamped originally with the imprimatur of the Cambrian Archaeological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.,I am, &c.,
 >
 > N. W. THOMAS., Oswestry.
