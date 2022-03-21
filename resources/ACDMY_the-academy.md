@@ -950,7 +950,7 @@ Permit me to correct an error into which Mr. W. Eilir Evans has fallen, in his l
 He there states that "it is somewhat strange that Chancellor Silvan-Evans has not included it (*byl*) in his great work." The word is included in the dictionary referred to, and will be found, together with the phrase "llawn hyd y fyl," in its alphabetical order on p. 600.  
 HENRY SILVAN-EVANS.
 
-[In justice to Mr. Silvan-Evans, we ought to say that the assertion he contradicts seems to have arisen from a misunderstanding. It was a former correspondent (Mr. J. P. Owen, in the ACADEMY of April 25) who affirmed that the (anglicised) Welsh word *abeilon* was not to be found in Silvan-Evans's Welsh Dictionary. Mr. W. Eilir Evans, while supplying tbe real Welsh form *byl*, appear to have supposed that Mr. Owen’s assertion extended likewise to that.—Ed. ACADEMY.
+[In justice to Mr. Silvan-Evans, we ought to say that the assertion he contradicts seems to have arisen from a misunderstanding. It was a former correspondent (Mr. J. P. Owen, in the ACADEMY of April 25) who affirmed that the (anglicised) Welsh word *abeilon* was not to be found in Silvan-Evans's Welsh Dictionary. Mr. W. Eilir Evans, while supplying tbe real Welsh form *byl*, appear to have supposed that Mr. Owen's assertion extended likewise to that.—Ed. ACADEMY.
 
 ---
 
@@ -971,7 +971,7 @@ Owen Pughe's Dictionary, 1832:
 "Byl, sm. pl. t. au (yl), a brim or edge. *Yn llawn hyd y byl*, being full to the brim, Sil[-urian]. This word is only used in North Wales in its compound forms, *ymyl*, *cyfyl*, and the like."
 
 Silvan Evans's English - Welsh Dictionary (1858) has, under "brimless," "a heart brimful of tears," *calon lawn o ddagrau hyd y byl*." The same distinguished lexicographer's Welsh- English Dictionary has (p. 600) :
-‘Byl (¥), sm. f., a brim or edge; a rim. *Llawn hyd y fyl*, full to the brim, brimful. S[-outh] W[-ales]."
+'Byl (¥), sm. f., a brim or edge; a rim. *Llawn hyd y fyl*, full to the brim, brimful. S[-outh] W[-ales]."
 
 But Mr. Eilir Evans says that *y bylon* and *y mylon* not only mean "edges" or "margins," but also "perquisites" or "gifts." In regard to that statement I have collected the following evidence. Under "perquisite," I find in Silvan Evans's English-Welsh Dictionary, *adfael, damweinfael, dygwyddfael, rhoddfael, mael dygwydd, rhyw fael neu elw a gaffer heb law cyflog* ["some vail or profit that is got in addition to wages"), *anrheg*. Under "vails" the same work gives *gweinidfael, gweinidrodd, damweinfael, rhoddfael, ystlysfael, mael dygwydd, rhodd i weinidogion* ["gift to ministers"). Salesbury has *mael*, "avayle"; T. Richards (1753) has *mael*, "gain, profit, lucre, advantage"; T. Lewis (1805) has "*maelor*, s., a place of traffic, a mart or market. There are districts so called in the marches of Wales, which were neutral ground, where trade was carried on." It is clear, from the above quotations, that the question is not confined to *ymylon* and *y meilon*, but that *maelon* must also be taken into account. Both *mail* and *mael* will explain the diphthongal middle syllable of *abeilon*, but *ymyl* will not.
 
