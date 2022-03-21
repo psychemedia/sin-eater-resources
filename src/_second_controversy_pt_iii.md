@@ -1,6 +1,6 @@
 # Second Controversy, 1896, Part III
 
-As 1895 rolled into 1896, Peter Ditchfield published a work on [Old English customs extant at the present time; an account of local observances](https://archive.org/details/studentshistoryo00gardrich/page/202/mode/2up?q=%22sin+eater%22). At p202, he described various burial customs, such as those that could be found in the county of Yorkshire:
+As 1895 rolled into 1896, Peter Ditchfield published a work on [Old English customs extant at the present time; an account of local observances](https://archive.org/details/studentshistoryo00gardrich/page/202/mode/2up?q=%22sin+eater%22). At p202, he described various burial customs, such as some of those that could be found in the county of Yorkshire:
 
 (OECDF)=
 > Burial Customs
@@ -24,6 +24,8 @@ At the end of January, in the *Merthyr Times and Dowlais Times and Aberdare Echo
 ## The Correspondence Moves to Notes & Queries
 
 The correspondents in the *Academy* now appeared to take a break, perhaps as a result of Owen licking his wounds following Hartland's response in the second half of January, 1896. However, what at first looks like a new front of attack then opened up in *Notes & Queries*. A question had been raised back in the [October 10th, 1895](NANDQ:oct95) issue by a certain Mr Jonas, presumably in response to reports of the British Association meeting, but there had been no response at the time, other than an answer referring interested readers to earlier mentions in *Notes & Queries*, until the issue of February 8th, 1896, [Vol 9 Iss 215 ; 8th. S. ix, p109-111](https://archive.org/details/sim_notes-and-queries_1896-02-08_9_215/page/108/mode/2up?q=sin+eater).
+
+### Owen's Early Letter to Notes & Queries
 
 However, several other replies appear to have been languishing in the in-tray for some time, the most comprehensive of which was penned by a familiar name, Mr. J. P. Owen. A postscript to the answer notes that the letter had been *"sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895."*. Hartland had also referred to it in his [second letter](secondcontrov:hartland:2ndletter) to the *Academy*.
 
@@ -86,6 +88,8 @@ The correspondent then delves further into the etymology of possibly related ter
 >
 > P.S.—Perhaps I may be allowed to add that the above was sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895.
 
+### Other Responses to the Query of October, 1895
+
 Several other answers also appeared in the same issue of *Notes & Queries*. The first makes a general comment regarding the supposed transferrance of various personal charactersistics from the deceased following their death:
 
 > The two customs mentioned under the above heading are, in reality, quite reconcilable. According to a widely disseminated folk-belief, when a man dies his essential principles, moral or otherwise, may be taken over by some one else, the matter being managed in various ways in different parts of the world. Thus, among certain savage peoples a successful warrior banquets on the body of the enemy he has killed, in order to absorb his bravery and his other enviable characteristics. It is said that in ancient Mexico the captor was under obligation to offer up his captive at one of the solemn sacrificial feasts— an important reason for the custom being, probably, that the prisoner's virtues as a man should be transmitted to the conqueror, though, from another point of view, no doubt the unfortunate sufferer was an earthly representative of the god to whom he was sacrificed.
@@ -118,4 +122,148 @@ And [Brand](book:brand:popantiq:1813) and the [*Gentleman's Magazine*](GNLMN:sin
 >
 > Everard Home Coleman. 71, Brecknock Road.
 
-Three weeks later, in the edition of February 29th, 1896, [Vol 9 Iss 218 ; 8th S. IX, p169-170](https://archive.org/details/sim_notes-and-queries_1896-02-29_9_218/page/168/mode/2up?q=sin-eater), Mr Thomas, whose letter in *The Times* several months previously had triggered the controversy, and whose name had been invoked throughout the debate, now felt the need to explain his position further...
+### Mr Thomas Rejoins the Debate He Originally Started
+
+Three weeks later, in the edition of February 29th, 1896, [Vol 9 Iss 218 ; 8th S. IX, p169-170](https://archive.org/details/sim_notes-and-queries_1896-02-29_9_218/page/168/mode/2up?q=sin-eater), Mr Thomas, whose letter in *The Times* several months previously had triggered the controversy, and whose name had been invoked throughout the debate, now felt the need to explain his position further:
+
+> SIN - EATER,
+>
+> (8th S. viii, 288, 332 ; ix. 109.)
+>
+> As the question of the sin-eater has come up in 'N. & Q.,' and Mr. Owen has alluded in your issue of 8 Feb. to my letter to the *Times* in September last, I should be glad of an opportunity of making a few remarks on the subject. I should have preferred to do so in the *Academy*, but the editor, after inserting Mr. Hartland's letters, in which I was alluded to by name half a dozen times and challenged to explain various facts, published Mr. Owen's reply without a word of explanation to myself.
+
+Disgruntled? Surely not!
+
+In particular, Mr Thomas suggests that he had intended to be very specific in the question he was raising:
+
+> The original purpose of my letter to the Times was to dispute the evidence for the Llandebie case, and it was only incidentally that the general question of sin-eating was involved.
+
+```{margin} Rowland's comment on cakes at Llandebie
+> [D]uring the time I was there I attended many funerals, but never heard of the 'sin-eater;' in fact people there never give cakes at funerals.
+```
+
+> The main objection to the Llandebie story is the evidence of the schoolmaster Rowlands, who states that cakes were not given at funerals there. If this is so it is difficult to see how the sin-eater could have existed; for it is argued that this custom of giving cakes was a survival of sin-eating, and we are asked to believe that the custom of giving cakes disappeared before the central figure, the sin-eater.
+
+The strength of support for Moggridge's claims are also challenged:
+
+> The weakness of Mr. Moggridge's *ipse dixit* is so apparent that I need not enlarge on it ; for, in the absence of any statement of how he came by his information, a story on his authority is worth no more than a statement in an anonymous letter, copied and published without investigation.
+
+Mr Thomas really does sound despairing at this point:
+
+> I could not, even without the explicit denials which we have before us, attach any importance to such a story ; but when capable men, resident in the neighbourhood, not only fail to find the sin-eater, but vouch for facts actually inconsistent with the existence of the sin-eater at the spot within recent times, it seems absurd to consider the Llandebie case as coming under the head of facts for folk-lorists.
+>
+> It is singular that no one has ever been produced who has seen a sin-eater, or even spoken with any one who has seen one. If the sin-eater was in existence in 1852 or shortly before, it should be possible now (much more should it have been so in 1877) to produce one who could give testimony of this nature.
+>
+> N. W. Thomas. New College, Eastbourne.
+
+### Mr Addy Observes...
+
+In the same issue of *Notes & Queries*, a new correspondent joins the fray in the form of Mr S. O. Addy, of Sheffield, author of [*Household Tales*](HHTLA), 1895.
+
+> Mr. Owen begins his remarks by saying that "there appeared in the *Times* of 18 Sept., 1895, a very interesting letter from Mr. N. W. Thomas, of Oswestry, on the above subject." He forgets to say that Mr. Thomas's letter was an attack on Mr. Hartland, to which the latter, in the *Times* and the *Academy*, effectually replied.
+
+Mr Addy then describes his take on the tradition:
+
+```{margin} "The Sin Eater", by Megan Campisi, 2020
+In ["The Sin Eater"](https://www.megancampisi.com/sin-eater) by Megan Campisi, a fabulous, imagined tale set in a parallel Elizabethan world, and first published in 2020, a more elaborate situation is presented in which different foodstuffs are used to take away different sins.
+```
+
+> Mr. Hartland quoted a passage from my 'Household Tales and Traditional Remains,' p. 124 ; and as this has a material bearing on the subject, I will repeat it here :—
+>
+> "When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man’s sins and bear them yourself."
+
+Mr Addy then suggests he has access to a primary source for this claim:
+
+> I can produce the informant from whom this curious piece of folk-lore was obtained. It was offered to me without any questioning when I was collecting folk-lore some years ago, and it is undoubtedly genuine.
+
+Furthermore, in a sleight of hand, he extends the notion of *sin-eating* to include *sin-drinking*:
+
+> It completes what Aubrey said about sin-eating; so that English folk-lore is acquainted not only with sin-eating but also with sin-drinking. It matters not whether such terms as "sin-eating" or "sin-drinking" can be proved to have existed in recent times. It is enough to show that the customs themselves existed ; and of this we have ample evidence.
+
+From this new basis, he now provides an interpretation of the combined traditions as a ritual *mass* in the sense of a ritual feast, or *mess*:
+
+> Taking the two customs together, one cannot help seeing a resemblance between them and the *missa pro defunctis*, or mass for the dead. For what is a "mass" for the dead but a "mess" or banquet for the dead? Prof. Skeat tells us that the Low Lat. *missa* "is usually accounted for by supposing that the allusion is to the words *ite, missa est*." But this seems far-fetched and very improbable ; indeed, Prof. Skeat admits that the change of vowel from the Lat. *i* to O.E. oe, as in *moesse*, M.E. *messe*, is remarkable.
+
+Evidence for such feasts, Addy claims, is clear for all to see:
+
+> It is easy to trace the "mess," or feast for the dead, in ancient custom. We may see it in the mass of All Hallows, or All Hallows Day (1 Nov.), of which, even to this day, a reminiscence is found in Yorkshire in the "tharf cakes" eaten during the first week of November. We may see it in the funeral cakes so commonly eaten during the present century. We may see it in the enormous feasts and in the mighty brewings of ale held and made after the death of the wealthy in the Middle-English period. And, going still further back, we may see it in the broken bones, with marrow extracted, scattered throughout so many prehistoric burial mounds in England.`[Greenwell's 'British Barrows', p10.]` From evidence thus presented it appeared to Dr. Thurnam that anthropophagism once prevailed in the British Isles, and he adduced some passages from ancient writers in support of his opinion `[Greenwell, ut supro, p544.]`. These were: Diodorus Siculus, v. 32; Strabo, iv. 5, 4; Plinius, vii. 2; Hieronymus adv. Jovianum, ii.
+
+With a final leap of imagination, Addy now suggests reframing our interpretation of many ritual feasts:
+
+> If the explanation of "mass" here offered be correct, it follows that every "feast" in the calendar is a commemorative banquet. The words of the Saviour, "This do in remembrance of me," may be compared, and also the *minni*, or memorial cup, at old northern sacrifices.
+>
+> S. O. Addy. 3, Westbourne Road, Sheffield.
+
+## Back to the Academy
+
+On the same date as Mr Thomas' letter to *Notes & Queries* was published, in which he was apparently under the impression that his letters to *The Academy* were no longer welcome in that publication, Mr Thomas also had a letter published in *The Academy* that he had written the week before.
+
+Does this suggest a "missing letter" to *The Academy* from Mr Thomas written at the end of 1895 or early in 1896? Or was Mr Thomas disgruntled that no-one appears to have corresponded with him directly asking for his response on the matter?
+
+### Mr Thomas Restates His Challenge
+
+For the reader of both *Notes & Queries* __and__ *The Academy*, we can only wonder at how they might have regarded the content of p178-9 of [Vol 49 Iss 1243](https://archive.org/details/sim_academy-and-literature_1896-02-29_49_1243/page/178/mode/2up?q=%22sin-eating%22) of *The Academy*, published on February 29th, 1896, if they had read it *before* that day's issue of *Notes & Queries*, or *after*!
+
+But whatever the case, Mr Thomas had now entered the fray in that august journal, declaring his credentials from the very start:
+
+> THE SIN-EATER IN WALES.
+>
+> New College, Eastbourne: Feb. 22, 1896.
+>
+> Now that Mr. Owen has retired from the field to all appearance, you will perhaps allow me, as the person who was directly challenged by Mr. Hartland, and the initiator of the whole discussion, to say a word or two on the question.
+
+The charge Mr Thomas raises is the same one he described in his letter to *Notes & Queries*, although desecribd here with more provenance attached:
+
+> The main purpose of my letter in the *Times* was to throw doubt on the Llandebie story, and my doubts rest on a point that has not yet been mentioned in the ACADEMY. In the evidence quoted by Canon Silvan Evans in the ACADEMY in 1878, the schoolmaster of Llandebie stated that cakes were not given at Llandebie. If this is so, it seems to me impossible to suppose that the Sin-eater existed there at the close of the first half of the century, if Mr. Hartland is correct in regarding this dole as a survival and degenerate form of Sin-eating. We cannot suppose that the central rite was in full tide if those portions of the ritual which survive longest in other parts had entirely disappeared.
+
+As with the other letter, he also challenges Moggridge's authority, as well as contesting the soundness of the argument provided by Mr Hartland regarding the likely evolution of the tradition :
+
+> My second point is, that if Mr. Hartland is correct in identifying all these funeral customs with tribal feasts, he cannot adduce them all as proofs of the existence of the Sin-eater, unless he is prepared to argue that in Wales and the Borders the whole of the tribal ceremonial was swallowed up in the Sin-eating. Unless the custom of tribal feasts underwent a uniform evolution, we should find by the side of any single descendant of it in folk-custom various analogous customs bearing a resemblance more or less close; but these analogous customs cannot be brought forward as a proof of the existence of their co-descendants. We are not entitled to conclude the general practice of Sin-eating from an analogical argument, backed by a few isolated instances on the authority of a single writer, who wrote forty years after the single case which he mentions within the Welsh borders. I say a single writer advisedly, for I cannot regard Mr. Moggridge as an authority: he gives us no hint of his source: we have no certainty that he derived his account at first hand or even at second. I am not enamoured of the anonymous nwspaper correspondent as a collector of folk-lore; but he is better off than Mr. Moggridge's informant, for, if he cannot be identified, he is at least not liable to have his words distorted by transmission and final publication at third, fourth, or fifth hand. Even if we had no denials such as those given by intelligent and competent persons like Mr. Rowlands in 1871, the Llandebie story would rest on an uncertain foundation. In the face of these denials, it seems impossible to give credence to it.
+
+And once again, the extraordinary situation regarding the lack of first-hand testimony regarding direct experiences of the tradition, or memories, even, of accounts of it, is raised:
+
+> I call attention to the fact that in 1878, though the Sin-eater was said to have existed thirty years previously, no one was produced who had ever seen him, nor even one who had seen a person who had seen him. Thirty years is not so long in a rural district that old customs are forgotten. If the Sin-eater had really existed there in 1850, it would have been possible to find an eye-witness. But no eye-witness was forthcoming.
+>
+> N. W. THOMAS.
+
+### Hartland Focusses His Defence
+
+Hartland responded promptly with a letter written on March 2nd, 1896, that appeared a week later, in [Vol 49 Iss 1244](https://archive.org/details/sim_academy-and-literature_1896-03-07_49_1244/page/200/mode/2up?q=%22sin-eating%22), p200-201, of *the Academy, dated March 7th, 1896.
+
+```{margin} Local Places for Local People...
+Speaking from personal experience of living on the Isle of Wight, the thought of some islanders travelling even half-way across the island (which is barely more than 20 miles across even at the widest point) would be as likely as them travelling to Llandebie, which is nearer 200 miles away, and hardly the first destination you might think of.
+```
+
+He opens by denying the relevance of Rowland's negative testimony regarding the eating of cakes, based on the geography of the areas concerned, and the attitudes of the inhabitants thereof regarding their knowledge and direct experience of certain other locations:
+
+> THE SIN-EATER IN WALES.
+>
+> Highgarth, Gloucester: March 2, 1896
+>
+> It seems generally that the valley near Llandebie referred to by Mr. Moggridge as the scene of the custom of Sin-eating was Cwmamman. If this be so, the evidence of the schoolmaster of Llandebie (by name John Rowlands) is of little weight. The parish is a very large one. The village, containing the church and the national school, is at one end, the district bordering on Cwmamman at the other. Fifty, or even thirty, years ago the upper part of the parish (towards Cwmamman) was almost a *terra incognita* to the vicar and the schoolmaster. At least, it was beyond their influence; and probably it is so still.
+
+He also challenges the likelihood of such local legends ever being revealed to Rowlands, or the incomer local vicar.
+
+> I am informed by Mr. J. P. Owen that both the vicar of Llandebie and the schoolmaster mentioned by Canon Silvan Evans were known to him; that they were both strangers to the parish, and that neither of them stayed long enough to identify himself with it. Cwmamman is in the heart of a romantic country. Around it are spots renowned for the hunting of Twrch Trwyth by King Arthur. Across the mountains, only a few miles away, is the famous Van Pool, the dwelling-place of the mysterious lady from whom the physicians of Myddvai traced their descent, and the scene down to a few years ago of an annual summer pilgrimage when the lady herself was expected to appear. The valley was at one time sparsely inhabited. It has been described as "lawless"; it was, doubtless, the very home of superstition. But during the last fifty years a revolution has taken place. Large industries have sprung up, and a considerable population of a much more civilised character been attracted to the place. This revolution was in progress in the sixties; it was completed before Canon Evans's inquiries were set on foot. When we add to all this the fact, to which I have already drawn attention (ACADEMY, November 16, 1895), that those inquiries were not made for more than a quarter of a century after the alleged event, it is hard to see what importance can be attached to the schoolmaster's assertions. He may have been "an intelligent," but he was not a "competent mperson" to give satisfactory evidence ; and it has yet to be proved that his evidence, such as it was, related to a larger area than the village of Llandebie and its immediate surroundings— which do not come into the story at all. This is my reply to Mr. Thomas's first point.
+
+Part of the implication here seems to be that the primitive and uncivilised parishioners might somehow of been ashamed of their local tradition, and sought to hide evidence of it from these "more civilised" incomers?
+
+Hartland also expresses some confusion at Thomas' arguments relating to the evolution of the tradition in more universal terms:
+
+> His second point rests, I think, on a misapprehension. I have never identified "all these funeral customs with tribal feasts." What I have contended is, that Sin-eating is a relic of a specific feast of the kin, immediately following a death, at which feast the body of the deceased was eaten. It is therefore unnecessary "to argue that in Wales and the borders the whole of the tribal ceremonial was swallowed up in the Sin-eating." No doubt there were many tribal feasts of various kinds. I do not trace Sin-eating back to them all, nor indeed to any *tribal* feasts. A tribe is a local organisation. The tribe may have included many clans or kindreds ; and, on the other hand, many clans may have stretched far beyond the bounds of the local tribe. It seems to have been the kindred who were entitled and expected to take part in the feast in question.
+
+He then refers Thomas et al. elsewhere for a more detailed consideration of rituals elsewhere:
+
+> I cannot adequately discuss the matter here, and must be pardoned for referring once more to the chapter on Funeral Rites in the *Legend of Perseus* (vol. ii.) where I have treated the subject in connexion with parallel practices in different parts of the world.
+
+As to Moggridge's claims, Hartland suggests he has already accounted for his position on the matter:
+
+> With Mr. Moggridge's sources and opportunities of information I have already dealt (ACADEMY, November 16). I believe his statement. But, even if we leave him out of account, there is enough in Pennant, Robert Jones of Rhoslan, and the Bishop of St. Asaph's MS. to corroborate Aubrey, who besides gives evidence of having curefully inquired into the matter.
+
+Hartland closes with a comment regarding the lack of "on the ground" research regarding the collection of local testimony in what might have been a more timely fashion:
+
+> Mr. Thomas's last paragraph would be more difficult to meet if it could be shown that Canon Silvan Evans's challenge was brought under the notice of Mr. Moggridge, or anyone else who was interested in the matter and in a position to investigate. But Mr. Moggridge was then an old man; he had left Wales. Canon Evans's contention was probably popular among Welshmen—at least, they were apathetic—and nobody seems to have been concerned to take up the challenge. It is a pity it was so; but this I think we must conclude was the reason why in 1878 (or was it not 1875?) "no one was produced who had ever seen" a Sin-eater.
+>
+> E. SIDNEY HARTLAND.
+
+So how did Thomas now respond...?
