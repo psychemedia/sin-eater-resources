@@ -132,14 +132,14 @@ In closing, Owen is once again true to form and can scarcely refrain from going 
 
 Apparently not satisfied with his previous bid for glory in revealing the Beale account, such as it was, as well as the put down of his etymology of the term Beale introduced, *abeilion* for a final offertory drink, Mr Owen seems to have felt obliged to correspond on the matter of the sin-eater one last time. In *The Academy* of May 23rd, 1896, [Vol 49 Iss 1255](https://archive.org/details/sim_academy-and-literature_1896-05-23_49_1255/page/428/mode/2up?q=sin+eater), p428-9, he submitted his final offering on the matter, trying one last time to better Mr Sidney Hartland:
 
+```{margin} Excerpt from Hartland's letter to The Academy, Nov. 23rd, 1895
+> I owe this reference to Mr. Owen. Prof. Rhys has been kind enough to make a little further search. He has turned up ... what seems to be one form, if not the original and true form, of Pughes’s *Diawdlyst*, namely *Diodlifft*, ... with a reference to "Davies." The reference to Davies seems to be not to Davies's still older Welsh Dictionary, but rather to his "MS. notes."
+```
+
 > THE SIN-EATER IN WALES—A POSTSCRIPT.
 >
 > London: May 16, 1896.
-
-```{margin} Excerpt from Hartland's letter to The Academy, Nov. 23rd, 1895
-> I owe this reference to Mr. Owen. Prof. Rhys has been kind enough to make a little further search. He has turned up in Thomas Richards's *Welsh and English Dictionary* (Trefriw, 1815) what seems to be one form, if not the original and true form, of Pughes’s *Diawdlyst*, namely *Diodlifft*, explained by *Cwppan dros y meirw* (a cup for, or on behalf of, the dead), with a reference to "Davies." The reference to Davies seems to be not to Davies's still older Welsh Dictionary, but rather to his "MS. notes."
-```
-
+>
 > In the ACADEMY for November 23, 1895 (p. 485), Mr. Sidney Hartland has a remark which led me to suppose that *diodlifft* is not found in the Welsh dictionaries before the Trefriw (1815) edition of Richards' work. As a matter of fact, the word is to be found in the first edition (Bristol, 1753). Moreover, what Richards says is taken from Lluyd’s *Archaeologia Britannica* (1707). In that most excellent and valuable work, there is a division containing Welsh words, omitted in Dr. Davies of Mallwyd’s Dictionary (1632), among them being "Additions written by Dr. Davies himself in the margin of his Dictionary." One of these is "Diodlift, Kuppan dros y Meiru." These additions are the "MS. notes" to which Mr. Hartland refers. There is also a very enlightening note on *byl* in this division of Lluyd’s folio: "*Bil*, 'the mouth'; hence in Cardiganshire and elsewhere *Bil* is the mouth of a vessel. 'Kuppan laun hyd y vyl,' &c." Lower down is found "[Obsol. Welsh] *Bill*, 'a mouth,' Ir. *Bêul*, [Obsol. Ir.] *Bêl*." (I should explain that Lluyd writes *u* for *w*.)
 
 Owen then signs off in typical form, demonstrating his superior knowledge by pointing out *something else* that *someone else* was wrong about:
