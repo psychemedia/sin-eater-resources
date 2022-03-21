@@ -116,7 +116,6 @@ Notes and Queries
 
 Publication date 1852-10-23
 
-
 p390
 
 Minor Queries Answered
@@ -493,7 +492,7 @@ The weakness of Mr. Moggridge's *ipse dixit* is so apparent that I need not enla
 
 I could not, even without the explicit denials which we have before us, attach any importance to such a story ; but when capable men, resident in the neighbourhood, not only fail to find the sin-eater, but vouch for facts actually inconsistent with the existence of the sin-eater at the spot within recent times, it seems absurd to consider the Llandebie case as coming under the head of facts for folk-lorists.
 
-It is singular that no one has ever been duced who has seen a sin-eater, or even spoken with any one who has seen one. If the sin-eater was in existence in 1852 or shortly before, it should be possible now (much more should it have been so in 1877) to produce one who could give testimony of this nature. N. W. Thomas. New College, Eastbourne.
+It is singular that no one has ever been produced who has seen a sin-eater, or even spoken with any one who has seen one. If the sin-eater was in existence in 1852 or shortly before, it should be possible now (much more should it have been so in 1877) to produce one who could give testimony of this nature. N. W. Thomas. New College, Eastbourne.
 
 +++
 
@@ -501,7 +500,7 @@ Mr. Owen begins his remarks by saying that "there appeared in the *Times* of 18 
 
 Mr. Hartland quoted a passage from my 'Household Tales and Traditional Remains,' p. 124 ; and as this has a material bearing on the subject, I will repeat it here :—
 
-"When you drink wine at a funeral every drop that ou drink is s sin which the deceased has committed. You thereby take away the dead man’s sins and bear them yourself."
+"When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man’s sins and bear them yourself."
 
 I can produce the informant from whom this curious piece of folk-lore was obtained. It was offered to me without any questioning when I was collecting folk-lore some years ago, and it is undoubtedly genuine. It completes what Aubrey said about sin-eating; so that English folk-lore is acquainted not only with sin-eating but also with sin-drinking. It matters not whether such terms as "sin-eating" or "sin-drinking" can be proved to have existed in recent times. It is enough to show that the customs themselves existed ; and of this we have ample evidence.
 
