@@ -680,7 +680,9 @@ Writing on January 6th, Hartland opened his response in [Vol 49 Iss 1236, p37](h
 >
 > I will not venture to emulate Mr. Owen by asserting that *he* has committed blunders; but I would point out: (1) That I read no paper before the British Association— as my letter in the ACADEMY of November 9 shows, I simply spoke in the course of a discussion on cannibalism ; (2) that I have not attempted to prove that the custom of Sin-eating is Celtic, but that there was a custom of the kind in Wales; and (3) that I have not attempted to prove, either in what I said at the British Association or in my letters to the *Times* and the ACADEMY, that the Welsh funeral custom of the *Diodles* "is a mutilated survival of a cannibalistic savage rite formerly practised by the Celts, the central feature of which was eating the corpse." My paper in *Folklore*, published more than three and a half years ago, indeed gave an outline of an argument to this effect, which I have since much amplified and strengthened in the book referred to in the last of my three previous letters to the ACADEMY. My letters to the *Times* and the ACADEMY were merely directed to answering the arguments of Mr. N. W. Thomas and Canon Silvan Evans, to the effect that Sin-eating had never been practised in Wales; and I submit that Mr. Owen has not seriously attempted to controvert my position.
 
-He then mentions the unpublished correspondence with Mr Owen in which he assums he must have privately addressed one the charges that Owen publicly made against him:
+*At this point, it is perhaps worth remarking that despite several references to _Mr N. W. Thomas_, no correspondence appears at this point in the correspondence chain in The Academy.*
+
+Hartland then mentions the unpublished correspondence with Mr Owen in which he assums he must have privately addressed one the charges that Owen publicly made against him:
 
 > I have forgotten what I admitted in a private letter to Mr. Owen three months ago; but the context of his letter in the ACADEMY of December 7 appears to show that it had reference to the absence of the word "Sin-eater" in Welsh. Now, as this was one of the very arguments of Canon Silvan Evans which I was endeavouring to meet, it is manifest that I did not commit the blunder Mr. Owen alleges of withholding that evidence.
 
@@ -712,7 +714,7 @@ Hartland closes by mentioning that his own researches regarding first-hand testi
 
 With the publication of Hartland's response, immediately put pen to paper when he received the *Academy* on January 11th, 1896, his letter appearing on January 18th, 1896 in [Vol 49 Iss 1237, p56-7](https://archive.org/details/sim_academy-and-literature_1896-01-18_49_1237/page/56/mode/2up?q=owen).
 
-He opens by suggesting that his approach is one of open-nindedness and that wider reading might prove instructive:
+He opens by suggesting that his approach is one of open-mindedness and that wider reading might prove instructive:
 
 > CORRESPONDENCE.
 >
