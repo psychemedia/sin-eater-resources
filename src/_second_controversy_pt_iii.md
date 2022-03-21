@@ -25,6 +25,8 @@ At the end of January, in the *Merthyr Times and Dowlais Times and Aberdare Echo
 
 The correspondents in the *Academy* now appeared to take a break, perhaps as a result of Owen licking his wounds following Hartland's response in the second half of January, 1896. However, what at first looks like a new front of attack then opened up in *Notes & Queries*. A question had been raised back in the [October 10th, 1895](NANDQ:oct95) issue by a certain Mr Jonas, presumably in response to reports of the British Association meeting, but there had been no response at the time, other than an answer referring interested readers to earlier mentions in *Notes & Queries*, until the issue of February 8th, 1896, [Vol 9 Iss 215 ; 8th. S. ix, p109-111](https://archive.org/details/sim_notes-and-queries_1896-02-08_9_215/page/108/mode/2up?q=sin+eater).
 
+```{index} ! triple: Second Controversy ; correspondence, Notes & Queries ; Owen, J. P.
+```
 ### Owen's Early Letter to Notes & Queries
 
 However, several other replies appear to have been languishing in the in-tray for some time, the most comprehensive of which was penned by a familiar name, Mr. J. P. Owen. A postscript to the answer notes that the letter had been *"sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895."*. Hartland had also referred to it in his [second letter](secondcontrov:hartland:2ndletter) to the *Academy*.
@@ -122,6 +124,8 @@ And [Brand](book:brand:popantiq:1813) and the [*Gentleman's Magazine*](GNLMN:sin
 >
 > Everard Home Coleman. 71, Brecknock Road.
 
+```{index} ! triple: Second Controversy ; correspondence, Notes & Queries ; Thomas, N. W.
+```
 ### Mr Thomas Rejoins the Debate He Originally Started
 
 Three weeks later, in the edition of February 29th, 1896, [Vol 9 Iss 218 ; 8th S. IX, p169-170](https://archive.org/details/sim_notes-and-queries_1896-02-29_9_218/page/168/mode/2up?q=sin-eater), Mr Thomas, whose letter in *The Times* several months previously had triggered the controversy, and whose name had been invoked throughout the debate, now felt the need to explain his position further:
@@ -156,6 +160,8 @@ Mr Thomas really does sound despairing at this point:
 >
 > N. W. Thomas. New College, Eastbourne.
 
+```{index} ! triple: Second Controversy ; correspondence, Notes & Queries ; Addy, S. O.
+```
 ### Mr Addy Observes...
 
 In the same issue of *Notes & Queries*, a new correspondent joins the fray in the form of Mr S. O. Addy, of Sheffield, author of [*Household Tales*](HHTLA), 1895.
@@ -200,6 +206,8 @@ On the same date as Mr Thomas' letter to *Notes & Queries* was published, in whi
 
 Does this suggest a "missing letter" to *The Academy* from Mr Thomas written at the end of 1895 or early in 1896? Or was Mr Thomas disgruntled that no-one appears to have corresponded with him directly asking for his response on the matter?
 
+```{index} ! triple: Second Controversy ; correspondence, Academy ; Thomas, N. W.
+```
 ### Mr Thomas Restates His Challenge
 
 For the reader of both *Notes & Queries* __and__ *The Academy*, we can only wonder at how they might have regarded the content of p178-9 of [Vol 49 Iss 1243](https://archive.org/details/sim_academy-and-literature_1896-02-29_49_1243/page/178/mode/2up?q=%22sin-eating%22) of *The Academy*, published on February 29th, 1896, if they had read it *before* that day's issue of *Notes & Queries*, or *after*!
@@ -226,6 +234,8 @@ And once again, the extraordinary situation regarding the lack of first-hand tes
 >
 > N. W. THOMAS.
 
+```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```
 ### Hartland Focusses His Defence
 
 Hartland responded promptly with a letter written on March 2nd, 1896, that appeared a week later, in [Vol 49 Iss 1244](https://archive.org/details/sim_academy-and-literature_1896-03-07_49_1244/page/200/mode/2up?q=%22sin-eating%22), p200-201, of *the Academy, dated March 7th, 1896.
