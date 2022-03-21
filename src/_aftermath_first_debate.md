@@ -257,5 +257,7 @@ As a final aside, a letter appearing in *The Aberystwith Observer* published [Ma
 > Sir.— I have been much interested by the letters which have appeared in your columns from the pen of the Rev. Silvan Evans on the subject of that suppositious personage, the "Sin Eater;" perhaps Mr. Evans or some other reader of antiquarian tastes may be able to inform me where I can find a reliable account of funny Twm, or as others prefer to style him "Thomas Jones, Esq., of Tregaron." I am aware that a "life" of Twm has been published at Llanidloes and by a London firm, but both those books have assumed the form of Welsh novels, and it is occasionally difficult to sever the real from the imaginary. If any of your readers can help me to solve my perplexity, or assist me to genuine facts I shall be heartily obliged. I am, sir, LLIDIARDE-Y-FFYNON.
 
 ```{seealso}
-https://www.youtube.com/watch?v=pHx_HHFmGPg
+For a copy of the original book, see the exhibit [*The adventures and vagaries of Twm Shon Catti*](https://www.library.wales/digital-exhibitions-space/digital-exhibitions/europeana-rise-of-literacy/prose-and-novels/the-adventures-and-vagaries-of-twm-shon-catti) published by the National Library of Wales.
+
+For a storyteller's take, see *Time Between Times Storytelling. The Tales of Twm Sion Cati told by Owen Staton, [video](https://www.youtube.com/watch?v=pHx_HHFmGPg).
 ```
