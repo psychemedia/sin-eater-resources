@@ -348,6 +348,8 @@ Hartland then signs off in a way that suggests he has tired with the constant to
 >
 > E. SIDNEY HARTLAND.
 
+```{index} ! triple: Second Controversy ; correspondence, Notes & Queries ; Owen, J. P.
+```
 ### Owen Responds to Addy in Notes & Queries
 
 As Mr Hartland was attempting to lay the matter to rest in the correspondence pages of *The Academy*, in *Notes & Queries*
