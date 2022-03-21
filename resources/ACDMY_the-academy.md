@@ -864,7 +864,9 @@ E. SIDNEY HARTLAND.
 
 https://archive.org/details/sim_academy-and-literature_1896-03-28_49_1247/page/264/mode/2up?q=sin
 
-The Academy, Vol 49 Iss 1247
+The Academy
+
+Vol 49 Iss 1247
 
 1896-03-28
 
