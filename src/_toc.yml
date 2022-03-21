@@ -28,6 +28,7 @@ parts:
   - file: _sin_eater_story_macleod
   - file: _second_controversy_pt_ii
   - file: _second_controversy_pt_iii
+  - file: _second_controversy_pt_iv
 - caption: What Next?
   chapters:
   - file: _forthcoming
