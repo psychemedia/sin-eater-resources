@@ -132,7 +132,7 @@ In closing, Owen is once again true to form and can scarcely refrain from going 
 
 Apparently not satisfied with his previous bid for glory in revealing the Beale account, such as it was, as well as the put down of his etymology of the term Beale introduced, *abeilion* for a final offertory drink, Mr Owen seems to have felt obliged to correspond on the matter of the sin-eater one last time. In *The Academy* of May 23rd, 1896, [Vol 49 Iss 1255](https://archive.org/details/sim_academy-and-literature_1896-05-23_49_1255/page/428/mode/2up?q=sin+eater), p428-9, he submitted his final offering on the matter, trying one last time to better Mr Sidney Hartland:
 
-```{margin} Excerpt from Hartland's letter to The Academy, Nov. 23rd, 1895
+```{margin} Excerpt from Hartland's Academy letter of Nov. 23rd, 1895
 > I owe this reference to Mr. Owen. Prof. Rhys has been kind enough to make a little further search. He has turned up ... what seems to be one form, if not the original and true form, of Pughes’s *Diawdlyst*, namely *Diodlifft*, ... with a reference to "Davies." The reference to Davies seems to be not to Davies's still older Welsh Dictionary, but rather to his "MS. notes."
 ```
 
