@@ -351,7 +351,7 @@ Hartland then signs off in a way that suggests he has tired with the constant to
 ### Owen Responds to Addy in Notes & Queries
 
 As Mr Hartland was attempting to lay the matter to rest in the correspondence pages of *The Academy*, in *Notes & Queries*
-[8th Series, Vol 9 Iss 221](https://archive.org/details/sim_notes-and-queries_1896-03-21_9_221/page/236/mode/2up), p236-7, also on March 21st, 1896, Mr J. P. Owen, who it might be recalled authored the [first letter](secondcontrov:owen:1stletter) to appear on the matter in the pages of *The Academy*, was defending what he had written therein to Mr Addy:
+[8th Series, Vol 9 Iss 221](https://archive.org/details/sim_notes-and-queries_1896-03-21_9_221/page/236/mode/2up), p236-7, also on March 21st, 1896, Mr J. P. Owen, who it might be recalled authored a [rebuttal to Hartland](secondcontrov:owen:1stletter) in the pages of *The Academy* in December, 1895, was defending what he had written therein to Mr Addy:
 
 > SIN-EATER (8th S. viii, 288, 332 ; ix. 109, 169). — Mr. Addy's reference to my note in 'N. & Q.' is not quite accurate. I did not "forget to say" that Mr. Thomas's letters to the *Times* were an "attack" on Mr. Hartland, for the simple reason that the latter gentleman had assured me his sole object was to get at the truth, and that he would welcome light from whatever quarter it came. The only thing in the shape of an "attack" that I have seen was Mr. Hartland's criticism on the supposed shortcomings of the venerable Welsh scholar Canon Silvan Evans.
 
