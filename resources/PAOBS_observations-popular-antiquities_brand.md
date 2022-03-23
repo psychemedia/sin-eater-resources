@@ -138,6 +138,44 @@ In the Cambrian Register, Svo. 1796. p. 431. we read: " That, among the lower Cl
 
 ---
 
+https://archive.org/details/observationsonpo01branuoft/page/308/mode/2up?q=all+hallows
+
+Observations on popular antiquities, chiefly illustrating the origin of our vulgar customs, ceremonies and superstitions : Arranged and rev., with additions  Vol 1
+by Brand, John, 1744-1806; Ellis, Henry, Sir, 1777-1869
+
+1813
+
+pp.308-310
+
+AllHallow Even
+
+In North Wales (Mr. Pennant's MS. informs me) there is a custom upon All Saints Eve of making a great fire called CoelCoeth, when every family about an hour in the night makes a great bonfire in the most conspicuous place near the house, and when the fire is almost extinguished, every one throws a white stone into the ashes, having first marked it, then having said their prayers turning round the fire, they go to bed. In the morning, as soon as they are up, they come to search out the stones, and if any one of them is found wanting they have a notion that the person who threw it in will die before he sees another All Saints Eve.
+
+They have a custom also of distributing Soul Cakes on All Souls Day, at the receiving of which poor people pray to God to bless the next crop of wheat.
+
+There is a general observation added : " N. B. 1735. Most of the harmless old customs in this MS. are now disused."
+
+...
+
+In the Festyvall, fol. 1511, fol. 149 b. is the following passage : " We rede in olde tyme good people wolde on All haloween daye *bake brade* and dele it for all crysten soules."
+
+I find the following, which is much to my purpose, in "Festa Anglo-Romana," p. 109. All Souls Day, Nov. 2d. " The custom of *Soul Mass Cakes*, which are a kind of Oat Cakes, that some of the richer sorts of persons in Lancashire and Herefordshire (among the Papists there) use still to give the poor on this day : and they, in retribution of their charity, hold themselves obliged to say tliis old couplet :
+
+— ' God have your Saul,  
+Beens and all."
+
+...
+
+" It is worth remarking:," says Tollet, in a note in Johnson's and Stevens's Shakespeare, Two Gent, of Verona, act. ii. sc. 2. "that on All Saints Day, the poor people in Staffordshire, and perhaps in other country places, go from parish to parish *a Souling*, as they call it, i. e. begging and puling (or singing small as Bailey's Dictionary explains puling) for *Soul Cakes*, or any good thing to make them merry. This custom is mentioned by Peck, and seems a remnant of popish superstition to pray for departed souls, particularly those of friends. The Souler's Song in Staffordshire is different from that which Mr. Peck mentions, and is by no means worthy of publication."
+
+If it was not an indecent one, which it is hardly possible to imagine it was, I cannot help observing that Mr. Tollet might as well have not mentioned the custom at all, as have kept back the song.
+
+[Aubrey, in the "Remains of Gentilisme," MS. Lansd. Brit. Mus. 226, says that, in his time, in Shropshire, &c. there was set upon the board a high heap of Soul-cakes, lying one upon an- other, like the picture of the Shew-bread in the old Bibles. They were about the bigness of two- penny cakes, and every visitant that day took one. He adds, " There is an old rhyme, or saying, *'A Soule-cake, a Soule-cake, have mercy on all Christen Soules for a Soule-cake.'*"]
+
+tag: soulcake
+
+---
+
 https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse
 
 Observations on popular antiquities, chiefly illustrating the origin of our vulgar customs, ceremonies and superstitions : Arranged and rev., with additions
