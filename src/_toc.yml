@@ -10,6 +10,9 @@ parts:
   - file: _missed_opportunities_pre-1830
   - file: _decameron_other_missed_opportunities
   - file: _interim
+- caption: A Minor Diversion
+  chapters:
+  -file: _souling_and_soul_cake
 - caption: The First Controversy, 1875-6
   chapters:
   - file: _first_trigger
