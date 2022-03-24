@@ -159,7 +159,7 @@ There is a general observation added : " N. B. 1735. Most of the harmless old cu
 
 In the Festyvall, fol. 1511, fol. 149 b. is the following passage : " We rede in olde tyme good people wolde on All haloween daye *bake brade* and dele it for all crysten soules."
 
-I find the following, which is much to my purpose, in "Festa Anglo-Romana," p. 109. All Souls Day, Nov. 2d. " The custom of *Soul Mass Cakes*, which are a kind of Oat Cakes, that some of the richer sorts of persons in Lancashire and Herefordshire (among the Papists there) use still to give the poor on this day : and they, in retribution of their charity, hold themselves obliged to say tliis old couplet :
+I find the following, which is much to my purpose, in "Festa Anglo-Romana," p. 109. All Souls Day, Nov. 2d. " The custom of *Soul Mass Cakes*, which are a kind of Oat Cakes, that some of the richer sorts of persons in Lancashire and Herefordshire (among the Papists there) use still to give the poor on this day : and they, in retribution of their charity, hold themselves obliged to say this old couplet :
 
 — ' God have your Saul,  
 Beens and all."
