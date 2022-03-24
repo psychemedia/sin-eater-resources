@@ -687,3 +687,158 @@ The man said: "I was coming home late from a neighbouring village, when I sudden
 ...
 
 ... Of another old custom, "Chaining the bride and bridegroom at a wedding," we read that it is "common at all country weddings to-day." This must refer to South Wales. Do any of our readers know of its survival in the north ? A tempting subject of d:scussdon is "the sin-eater," mentioned on page 276, but we will not enter into it now. It was discussed at some length in Bye-Gones many years ago, and the question whether there ever was such a custom in Wales is a perennial one. We have said enough to show our readers that they can find much to interest them in the book before us.
+
+
+
+---
+https://journals.library.wales/view/2092910/2093021/8#?xywh=-1267%2C-6%2C5288%2C3487
+Bye-Gones / Oswestry Advertizer
+Oct. 30, 1872
+p98
+
+QUERIES. HALLOW E'EN.
+
+Pennant records that in North Wales "there is a custom upon All Saints' Eve of making a great fire called Coel Coeth, when every family about an hour in the night makes a great bonfire in the most conspicuous place near the house; and when the fire is almost extinguished, everyone throws a white stone into the ashes, having first marked it; then, having said their prayers, turning round the fire, they go to bed. In the morning, as soon as they are up, they come to search out the stones ; and if any one of them is found wanting, they have a notion that the person who threw it in will die before he sees another All Saints' Eve." They also distribute ' soul cakes' on All Souls'-day, at the receiving of which poor people pray to God to bless the next crop of wheat. Mr Owen's account of the bards, in Sir R. Hoare's *Itinerary of Archbishop Baldwin through Wales*, says, " The autumnal fire is still kindled in North Wales on the eve of the first of November, and is attended by many ceremonies ; such as running through the fire and smoke, each casting a stone into the fire, and all running off at the conclusion to escape from the black short-tailed sow; then supping upon parsnips, nuts, and apples; catching at an apple suspended by a string with the mouth alone, and the same by an apple in a tub of water ; each throwing a nut into the fire, and those that burn bright betoken prosperity to the owners through the following year, but those that burn black and crackle denote misfortune. On the following morning the stones are searched for in the fire, and if any be missing they betide ill to those that threw them in." All the foregoing, and much more, appears in Hone's Every-day Book, and many of the older of my readers will remember some of the All Saints' eve customs as here described, common on the Welsh Border. I should very much like to see, in *Bye-gones*, an account of the manner in which the festival is kept *this* year of grace, 1872, in the Borders of Wales. —Cynog.
+
+tag: soul-cake
+
+---
+
+https://journals.library.wales/view/2092910/2093039/2#?xywh=-960%2C1572%2C4896%2C3229
+Bye-Gones / Oswestry Advertizer
+
+December 11, 1872
+p108-9
+
+HALLOW E'EN (O A., Oct. 30, 1872).
+
+The extract from Hone's *Every Day Book*, containing a quotation from Pennant, must contain a misprint when it calls the autumnal fires in Wales 'Coel Coeth.' 'Coelcerth' or 'Coelcen' must be the word. Coelcerth, as in *Merionthshire*, is a proper term for any large fires, whether of gorse or heather on the hills, or bonfires lit up at rejoicings, and, as is the case every year, on the borders, on Hallow E'en. In Llanarmon district, near Oswestry, they say Coelcen, which is probably a corrupted word. By the way where does Pennant allude to these fires? I never remember such fires lighted in the border town of Oswestry, on All Saints' Eve, or the game of bobbing for apples in a tub of water, or suspended by a string ; although these amusements were common enough at our wakes. But we do, annually, hear children sing at our. doors the following ditty :— 
+
+Wissel wassel, bread and posse!,  
+Cwrw da, plas yma :  
+Apple or a pear, plum or a cherry,  
+Any good thing that will make us merry.
+
+Go down to your cellar,  and draw some beer,  
+And we won't come here till next year.
+
+Sol cakes, sol cakes,  
+I pray you good missis, a sol cake,  
+One for Peter, and two for Paul,  
+And three for the man that made us all.
+
+God bless the master of this house,  
+Likewise the mistress too,  
+And all the little children,  
+Around the table too.  
+Their pockets lined with silver,  
+Their barrels filled with beer,  
+Their pantry full of pork pies,  
+I wish I had some here.
+
+The roads are very dirty,  
+My shoes are very thin,  
+I've got a little pocket,  
+To put a penny in.  
+Up with the kettle, and down with the pan,  
+Give us an answer, and we'll be gone.
+
+I did not hear the whole of the verses sung this year, but I think we heard most of them ; and we certainly had the practical application at the end of every version, to wit, a knock at the door, and the request of a 'apenny. —Jarco.
+
+tag: soul-cake
+
+---
+
+
+
+https://journals.library.wales/view/2092910/2093290/5#?xywh=-703%2C-390%2C4342%2C2864
+
+Bye-Gones
+
+July 15th, 1874
+
+p78-9
+Singular Funeral Customs
+
+SINGULAR FUNERAL CUSTOMS.—
+
+In the parish of Darowen, Montgomeryshire, where my mother was bom. several singular customs prevailed sixty years ago, among them the following:—Funerals in those days were public, and the greater esteem in which the deceased was held, the greater the number of persons who attended the funeral. On these grand occasions the parson and the clerk received large sums of money from the "offerings." My own grandfather's funeral was one of this kind, and I was told by my mother that the clergyman on that occasion received upwards of fourteen pounds in "offerings." and „the clerk more. The " offerings," made by friends of the deceased, were only loans, in a way of speak¬ ing, as the members of the deceased's family were expected when any such melancholy event happened in the family of any of the persons who attended the funeral to attend and do the same. It was then the custom to regale all who attended the funeral, at the house of the deceased, with spiced ale, and cake, and what was more singular at Darowen, the mourners, as passing through the lich gate into the grave yard, were again served with hot spiced ale, and cake. The money to defray the cost of this second refreshment was not found by the relatives of the deceased, but by the parishioners, and it was a custom for all who attended the funeral, both male and female, if they were parishioners, to send sixpence each to the village inn, the occupant of which provided the spiced ale and cake. There were sometimes as many as four women engaged in dispensing the refreshments. One stood by the lich gate with a large tray, and many pieces of cake upon it; another stood by with a small tray enveloped in a white napkin, upon which one piece of cake was placed from the store off the large tray and handed to one of the mourners as he passed through the lich gate, and the small tray was again replenished. The other two women were engaged with the hot spiced ale, one held the tankard and poured the ale, which was always very hot, into little "tots," and these, like the pieces of cake, were handed one to each mourner, by woman number four. The residue remaining from the fund, if any was left, was spent by a few persons who generally understood these matters, at the village inn after the funeral.  
+Pearmain.
+
+tag: soul-cake
+
+---
+
+https://journals.library.wales/view/2092910/2097085/9#?cv=9&m=220&h=soul+OR+cake&c=&s=&manifest=https%3A%2F%2Fdamsssl.llgc.org.uk%2Fiiif%2F2.0%2F2092910%2Fmanifest.json&xywh=-1261%2C-1%2C5186%2C3421
+
+Bye-Gones
+
+March 25th, 1891
+
+p53
+
+HEL SOLOD.—
+
+I am informed by a native of Corwen (Mr Win. Owen, now of Dinas Mawddwy) that it was the custom at Corwen about thirty-five years ago for women and children to go from house to house on All Saints' Day (November 1) to collect cakes called " Solod." The custom was called " Hel Solod." The cake was generally made of barley-flour, without any addition of more appetising ingredients than salt and water ; and it was about one inch thick, and four inches in diameter. Souling, I am told, still prevails in Shropshire, where contributions are solicited by singing the following doggerel:—
+
+Soul! Soul! for a soul-cake ;  
+Pray, good mistress, for a soul-cake.  
+One for Peter, and two for Paul,  
+Three for them who made us all.
+
+Soul ! Soul ! for an apple or two ;  
+If you've got no apples, pears will do.  
+Up with your kettle, and down with your pan,  
+Give me a good big one, and I'll be gone.
+
+Soul! Soul! for a soul cake, etc.  
+An apple or pear, a plum or a cherry,  
+Is a very good thing to make us merry.  
+—(*The Leisure Hour, 1876, p. 730*).
+
+The lines, I think, will throw some light on the Corwen custom; and I would suggest that " Solod " is a corruption of soul with the Welsh termination- *od*=*Soul-od*. Mr Owen does not know whether the custom still survives at Corwen. But he mentioned that apples, bread and cheese, or any other articles, of diet, were given at those houses where cake had not been prepared, or had been distributed. The supplicatory doggerel at Corwen was much shorter than the English one : — 
+
+Dydd da i chwi heddyw,  
+Welwch chwi 'n dda ga' i dipyn bach o fwyd cenedl y meirw ?—Amen. 
+
+" *Cenedl* y meirw " they said ; whatever that may mean. May it not be a corruption of " Dy' gwyl y Meirw ?" I may also mention that it was customary at Dinas Mawddwy forty years ago, if not later, for children to go about on All Saints' Day to collect bread and cheese, which custom they called " Bara 'chawsa." They used to ask for it in the following form :—
+
+Bara 'chawsa, bara 'chawsa,  
+Os ca' i beth, mi neidia ;  
+Os na cha' i ddim, mi beidia.
+
+But it does not appear that the Dinas Mawddwy boys were so vulgar as to make use of rude remarks, or to mark the doors with chalk, in case of refusal, as I am told their contemporaries at Corwen used to do.  
+Glyn Trefnant.
+
+tag: soul-cake
+
+---
+
+https://journals.library.wales/view/2092910/2098365/5#?cv=5&m=279&h=sol+OR+cake&c=&s=&manifest=https%3A%2F%2Fdamsssl.llgc.org.uk%2Fiiif%2F2.0%2F2092910%2Fmanifest.json&xywh=-1245%2C-1%2C5238%2C3455
+
+Bye-Gones
+
+November 13th, 1895
+
+p215
+
+NOTES. ALL HALLOWS' EVE.—
+
+It may be well to place on record the exact words now sung on All Hallows' Eve at Oswestry. They were taken down at my door last All Hallows' Eve. The boys who sang, asked where they learnt the words, seemed to think it a curious question: the words had come to them, probably, among their earliest impressions:—
+
+Wissil wassal, bread and possal,  
+Apple or a pear, plum or a cherry,  
+Any good thing to make us merry.  
+The roads are very dirty,  
+My shoes are very thin,  
+I've got a little pocket To put a penny in.  
+If you haven't got a penny,  
+A ha'penny will do,  
+If you haven't got a ha'penny,  
+God bless you !  
+Sol cake ! sol cake !  
+One for Peter, two for Paul,  
+Three for the man that made us all.  
+W.O.
+
+tag: soul-cake
