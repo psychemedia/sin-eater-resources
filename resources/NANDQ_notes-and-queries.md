@@ -602,7 +602,7 @@ p553
 
 4th S. II Dec. 12, '68
 
-Custom on Al Souls' Day. —In two villages lying side by side in the line which marks off Staffordshire from Cheshire, and doubtless elsewhere, bands of children go from house to house, on the evening of All Souls' Day, begging for biscuits, nuts, apples, and the like—all of which they call " soul-cakes" or "sow-cakes" (pronounced "sowl-cake" or "sow"-cake”), in doggrel ballads such as these : —
+Custom on All Souls' Day. —In two villages lying side by side in the line which marks off Staffordshire from Cheshire, and doubtless elsewhere, bands of children go from house to house, on the evening of All Souls' Day, begging for biscuits, nuts, apples, and the like—all of which they call " soul-cakes" or "sow-cakes" (pronounced "sowl-cake" or "sow"-cake”), in doggrel ballads such as these : —
 
 (1.)  
 Step into your cellar—see what you can find :  
@@ -655,7 +655,7 @@ p409
 
 Hallow E’en at Oswestry.— 
 
-I don’t think Brand, Hone, or Chambers says anything of a custom that still prevails on the borders of Wales on the eve of All Saints. Numerous parties of children go round the houses, singing at the doors songs, of which the following are popular samples :—
+I don't think Brand, Hone, or Chambers says anything of a custom that still prevails on the borders of Wales on the eve of All Saints. Numerous parties of children go round the houses, singing at the doors songs, of which the following are popular samples :—
 
 "Wissel wassel, bread and possel,  
 An apple or a pair, a plum or a cherry,  
@@ -797,7 +797,7 @@ p117
 
 It is added by the editor :—
 
-"The custom of going a Souling still continues in some parts of the county, peasint girls going to farmhouses, singing:—
+"The custom of going a Souling still continues in some parts of the county, peasant girls going to farmhouses, singing:—
 
 Soul, soul, for a soul cake,  
 Pray you, good mistress, a soul cake."  
