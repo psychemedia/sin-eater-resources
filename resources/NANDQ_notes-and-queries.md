@@ -549,3 +549,264 @@ p296
 
 Sin-Eater (8th S. viii, 288, 332; ix. 109, 169, 236).— Mr. Owen has put three questions to me, which I answer specifically. (1) The term "sin-drinking" was not employed by my informant, nor does it occur in the text of my book. I used it in the index as the most convenient word for reference. (2) I do not know whether my informant was a Churchwoman or a Dissenter. (3) The name of my informant was Miss Alice Halifax, the daughter of a farmer, formerly living near Dronfield, in Derbyshire, afterwards at Ompton, in Nottinghamshire, and now, I believe, near Newark. Miss Halifax collected folk-lore for me, and I wrote it down from her dictation. I am not aware that any ritual is now practised. S. O. Addy.
 3, Westbourne Road, Sheffield.
+
+---
+
+
+https://archive.org/details/sim_notes-and-queries_1851-11-15_4_107/page/380/mode/2up?q=soul+cake
+
+Notes and Queries
+Vol 4 Iss 107
+1851-11-15
+p381
+
+Souling.
+
+On the 2nd of November, All Souls' Day, it is in Shropshire the custom for the village children to go round to all their neighbours *souling*, as they call it, collecting small contributions, and singing the following verses, which I took down from two of the children themselves : —
+
+Soul! soul! for a soul-cake ;  
+Pray, good mistress, for a soul-cake.  
+One for Peter, two for Paul,  
+Three for Them who made us all.
+
+Soul! soul! for an apple or two;  
+If you've got no apples, pears will do.  
+Up with your kettle, and down with your pan ;  
+Give me a good big one, and I'll be gone.
+
+Soul! soul! for a soul-cake ;  
+Pray, good mistress, a soul-cake, &c.
+
+An apple or pear, a plum or a cherry,  
+Is a very good thing to make us merry.  
+Soul! soul! &c.
+
+The soul-cake referred to in the verses is a sort of bun, which until lately it was an almost general custom for persons to make, and to give to one another on the 2nd of November. Perhaps some of your readers can state whether this custom prevails in other counties in England. It seems to be a remnant of the practice of collecting alms, to be applied to the benefit of the souls of the departed, for which especial masses and services
+were formerly sung on All Souls' Day.
+
+W. Fraser.
+
+
+tag: soul-cake
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1868-12-12_2_50/page/552/mode/2up?q=soul+cake
+
+Notes and Queries
+
+Vol 2 Iss 50
+1868-12-12
+
+p553
+
+4th S. II Dec. 12, '68
+
+Custom on Al Souls' Day. —In two villages lying side by side in the line which marks off Staffordshire from Cheshire, and doubtless elsewhere, bands of children go from house to house, on the evening of All Souls' Day, begging for biscuits, nuts, apples, and the like—all of which they call " soul-cakes" or "sow-cakes" (pronounced "sowl-cake" or "sow"-cake”), in doggrel ballads such as these : —
+
+(1.)  
+Step into your cellar—see what you can find :  
+If your barrels be not empty,  I hope you will prove kind.
+Ihope you will prove kind with your 'aples' and strong beer,  
+And we'll come no more ' a-souling' until this time next year."
+
+(2.)  
+"One for Peter, one for Paul,  
+One for Him as made us all!  
+Up with your kettles, and down with your pans,  
+Give us a 'sou'-cake’ and we will begone.  
+
+(1) goes to a very pretty tune; (2) is in recitative.
+
+Ricardus FREDERICI.
+
+
+tag: soul-cake
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1869-06-26_3_78/page/602/mode/2up?q=soul+cake
+Notes and Queries
+ Vol 3 Iss 78
+1869-06-26
+GRIDDLE.
+
+(4th S. iii 505.)
+
+p602
+
+*Griddle* is not gridiron, but is a circular plate of iron (or a broad and shallow pan) made on purpose for baking cakes. It is derived from |It is derived from Welsh *greidel*l*, from *greidiaw*, to heat or scorch. Gridiron is derived from Swedish-Gothic *grädda*, to bake and iron. The griddle-cake mentioned by your correspondent as being made on All-hallows Eve is, I suppose, the same as the soul-cake. ...
+
+At Ripon, in Yorkshire, the women make a cake on the Eve for every one in the family, and  it is called "cake-night." A soul-mass cake was often kept for good luck. Mr. Young, in his *History of Whitby*, says: "A lady in Whitby has a soul-mass loaf one hundred years old." Hunter, in his *Hallamshire Glossary*, says that the custom of making a peculiar kind of cake on this day is recognised in a deposition of the year 1574, given in Watson’s *History of the House of Warren* (i, 217), wherein the party deposes that his mother knew a certain castle of the Earl of Warren’s, having when a child, according to the custom of that country, gathered soul-cakes there on All Souls' Day.  
+John PIGGOTT, F.S.A.  
+Ulting Maldon.
+
+
+tag: soul-cake
+
+
+---
+https://archive.org/details/sim_notes-and-queries_1872-11-23_10_256/page/408/mode/2up
+Notes and Queries 
+Vol 10 Iss 256
+1872-11-23
+
+p409
+
+Hallow E’en at Oswestry.— 
+
+I don’t think Brand, Hone, or Chambers says anything of a custom that still prevails on the borders of Wales on the eve of All Saints. Numerous parties of children go round the houses, singing at the doors songs, of which the following are popular samples :—
+
+"Wissel wassel, bread and possel,  
+An apple or a pair, a plum or a cherry,  
+Or any good thing to make us merry.  
+One for Peter, and two for Paul,  
+And three for the good man that made us all."
+
+What the first line means perhaps some en- lightened reader will say. In some cases the verse is followed with—
+
+"Go down in your cellar and fetch us some beer,  
+And we won’t come again until next year."
+
+And generally we hear a further application :—
+
+"The streets are very dirty,  
+My shoes are very thin ;  
+I’ve got a little pocket To put a penny in."
+
+In all cases the finale is—
+
+"God bless the master of this house,  
+God bless the mistress too,  
+And all the little ladies,  
+Around the table too."
+
+The singing ended, there comes a thundering rap at the door, and you are greeted with "Pleas to giv' us a penny." To my knowledge this has been a custom in Oswestry for forty years, and I hear little voices at my door as I write.  
+A. R. Croeswylan, Oswestry
+
+[?Askew Roberts?]
+
+tag: soul-cake
+
+--
+
+https://archive.org/details/sim_notes-and-queries_1872-12-28_10_261/page/524/mode/2up
+
+Notes and Queries
+Vol 10 Iss 261
+1872-12-28
+
+4th S. X
+
+p525
+
+Hallow E'en at Oswestry (4th S. x. 409.)—
+
+I was unable to supply the full text of the doggrel sung on the borders of Wales on All Saints' Eve when I wrote, but it has since been supplied to the "Bye-gones" column of the Oswestry Advertiser, as follows :—
+
+"Wissel wassel, bread and possel,  
+Cwrw da, plas yma:  
+Apple or a pear, plum or a cherry,  
+Any good thing that would make us merry.
+
+Go down to your cellar, and draw some beer,  
+And we won’t come here till next year.
+
+Sol cakes, sol cakes,  
+I pray you good missis, a sol cake ;  
+One for Peter, and two for Paul,  
+And three for the man that made us all.
+
+God bless the master of this house,  
+Likewise the mistress too,  
+And all the little children,  
+Around the table too.  
+Their pockets lined with silver,  
+Their barrels filled with beer,  
+Their pantry full of pork pies,  
+I wish I had some here.
+
+The roads are very dirty,  
+My shoes are very thin,  
+I’ve got a little pocket,  
+To put a penny in.  
+Up with the kettle, and down with the pan,  
+Give us an answer, and we'll be gone."
+
+It would appear from this as if we had yet Christmas Carols mixed up with our Hallow E'en ditties. Ritson gives
+
+"God bless the master of this house,  
+The mistress also,  
+And all the little children
+That round the table go,"
+
+as a Christmas carol of the time of James I., and some of the other lines remind one of the carols that made their appearance after the Restoration.  
+A. R.  
+Croeswylan, Oswestry.
+
+tag: soul-cake
+
+---
+https://archive.org/details/sim_notes-and-queries_1878-11-30_10_257/page/n5/mode/2up
+
+Notes and Queries  
+Vol 10 Iss 257
+1878-11-30
+5th S. X
+p426
+
+SOUL CAKES
+
+The following, which seems worth a note in "N. & Q." comes to me in a letter from a lady dated "All Saint's Day, 1878." Church Pulverbatch is in Salop, and the letter is written at Chester:—
+
+"I knew an old Mrs. Ward of Church Pulverbatch, who was born in 1752 and died in 1853. She never had an illness in her life. On the dy she *attained her hundredth year* she was dressed in her bridal dress of yellow satin, and kept her *fête* by receivng the Holy Communionwith her friends and neighbours. I am reminded of her just now by the children who are singing their 'Souling Song' under my window; for Mrs. Ward was the last of her generation — or of any generation — in her neighbourhood, to make 'soul cakes.'"  
+A. J. M.
+
+tag: soul-cake
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1893-07-15_4_81/page/48/mode/2up 
+Notes and Queries 
+Vol 4 Iss 81
+1893-07-15
+8th S. IV
+p49
+
+"Soul-caking." A few years ago when living in Cheshre, the youths used to dress up (some in women's clothes) and go to houses on All Saint's Day. It was called "soul-caking". Was this custom the survival of a religious play ; or the asking of alms for masses for the dead, to be said on All Souls’ Day’? Very little notice was taken of Noy. 5 in that part.
+
+Wingeham. Kent.
+
+
+tag: soul-cake
+
+---
+
+https://archive.org/details/sim_notes-and-queries_1893-08-05_4_84/page/116/mode/2up
+
+Notes and Queries 
+Vol 4 Iss 84
+1893-08-05
+8th S. IV
+
+p117
+
+*Soul-caking* (8th S. iv. 49).—Your correspondent will find much information about soul- cakes in Brand's 'Popular Antiquities,' art, "All- hallow Even" (ed. Bohn, i. 390, sqq.). This includes a note by Tollett :
+
+" That on All Saints’ Day, the poor people in Staffordshire...... go from parish to parish *a souling*, as they call it, i.e., begging and puling (or singing small, as Bailey's 'Dictionary' explains puling) for *soul cakes*, or any good thing to make them merry. This custom is mentioned by Peck, and seems a remnant of Popish superstition to pray for departed souls, particularly those of friends."
+
+It is added by the editor :—
+
+"The custom of going a Souling still continues in some parts of the county, peasint girls going to farmhouses, singing:—
+
+Soul, soul, for a soul cake,  
+Pray you, good mistress, a soul cake."  
+F. ADAMS.
+
+For soul-cakes in Chester in the year 1878 see 'N. & Q.,' 5th S. x. 426. Consult also 'A Garland for the Year,' by John Timbs, p. 115; Brand's 'Popular Antiquities,' vol. i. p. 217 (notes to " All-hallow Eve"); and 'Clavis Calendaria,' vol. ii. p. 229.  
+Everard Home Coleman. 71, Brecknock Road
+
+In Austria "Halloween cakes" are still eaten on November 1; but to my knowledge there is no special custom in connexion with them. A specimen may no doubt be procured in London at either the Vienna Café in New Oxford Street, or at an Austrian confectioner’s shop towards the Shepherd's Bush end of High Street, Notting Hill. The name of the cake is "Heiligen Stritz'l."  
+L. L. K.
+
+tag: soul-cake
