@@ -210,7 +210,9 @@ p151-5
 EXTRACTS FROM A MS. OF ANCIENT DATE,
 GIVING SOME. CUSTOMS AND USAGES IN NORTH WALES.
 
-...
+The custom upon All Saints' Eve of making a great fire, called Coelcerth, when every family, about an hour in the night, make a great bonfire in the most conspicuous place near the house ; and when the fire is about quite extinguished, every one throweth a white stone into the ashes, having first marked it, and having said their prayers round the fire. In the morning as soon as they are up, they come to search out the stones ; and if either of them is found wanting, they have a notion that the person who threw it in will die before he sees another All Saints' Eve. [Llanbrynmair.]
+
+Custom of distributing seed cakes upon All Saints Day, at the receiving of which the poor pray to God to bless the next crop of wheat. [Llanasaph.]
 
 The night before a dead body is to be interred the friends and neighbours of the deceased resort to the house the corpse is in, each bringing with them some small piece of meat, bread, or drink (if the family be something poor); but more especially candles, whatever the family is; and this night is called Wyl Nos, whereby the country people seem to mean a Watching Night ; their going to such a house they say is "i wilio'r corph", *i.e.*, to watch the corpse. But "wylo" signifies to weep and lament, aud so "wyl nos" may be a night of lamentations. While they stay together on these nights they are either singing psalms or reading some part of the holy scriptures. [Llanyeil.]
 
