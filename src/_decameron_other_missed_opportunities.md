@@ -332,7 +332,7 @@ As an example of one of the rare stories from Wales, we hear (from [p336-7](http
 >
 > "A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended a professed 'sin-eater,' hired take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing apparently, like Esau, to sell their birthright for a mess of pottage.”
 
-That same fragment also appears in n the *Hereford Times* of [Saturday, May 5th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004), ascribed to the "Lady Tourist":
+That same fragment also appears in the *Hereford Times* of [Saturday, May 5th, 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18380505/014/0004), ascribed to the "Lady Tourist".
 
 ## Indecorous Customs, 1849
 
