@@ -124,7 +124,7 @@ p23-4
 
 In Salop, &c. die oïum Animarum (All-Soules-day Novemb. 2d) there is sett on the Board a high heap of Soule-cakes, lyeing one upon another like the picture of the Sew-Bread in the old Bibles. They are about the bignesse of 2d cakes, and n'ly all the visitants that day take one ; and there is an old Rhythm or saying,
 
-A Soule-cake, a Sonle-cake,  
+A Soule-cake, a Soule-cake,  
 Have mercy on all Christen soules for a Soule-cake.
 
 This custome is continued to this time. This putts me in mind of the Feralia dict, à ferendis ad tumulum epulis: id quod forant [ferunt ?] tunc epulas ad sepulchrum quibus jus ibi parentare. Feralia deiun manium dies in Febr. Had Ovid continued his Fastorum to Novemb: in probabiliiy we should have found such a kind of custome used at that time sc. Novemb: 2d.
@@ -137,5 +137,5 @@ These are mentioned in the Rubrick of ye ch. of Engl. Comon-Prayer-booke : but I
 
 *Sinne-eaters*
 
-It seems a remainder of this custom was lately obtained at Amersden, in the couniy of Oxford, where at the burial of every corps one cake and one flaggon of Ale just after the interrment were brought to the minister in the Ch. porch. W. K.
+It seems a remainder of this custom was lately obtained at Amersden, in the county of Oxford, where at the burial of every corps one cake and one flaggon of Ale just after the interrment were brought to the minister in the Ch. porch. W. K.
 
