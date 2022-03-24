@@ -111,3 +111,31 @@ In North-Wales, the Sinne-eaters are frequently made use of; but there, insted o
 
 Methinkes, Doles to Poore people with money at Funeralls have some resemblance of that of ye Sinne-eater. Doles at Funeralls were continued at Gentlemens funeralls in the West of England till the Civil-warre. And so in Germany at rich mens funerals Doles are in use, and to every one a quart of strong and good Beer. — Cramer.
 
+---
+
+https://archive.org/details/remainesgentili01aubrgoog/page/n38/mode/2up?q=soul+cake
+Remaines of Gentilisme and Judaisme
+by Aubrey, John, 1626-1697; Britten, James, 1846-1924, ed
+1881
+
+p23-4
+
+*Soule-Cakes*
+
+In Salop, &c. die oïum Animarum (All-Soules-day Novemb. 2d) there is sett on the Board a high heap of Soule-cakes, lyeing one upon another like the picture of the Sew-Bread in the old Bibles. They are about the bignesse of 2d cakes, and n'ly all the visitants that day take one ; and there is an old Rhythm or saying,
+
+A Soule-cake, a Sonle-cake,  
+Have mercy on all Christen soules for a Soule-cake.
+
+This custome is continued to this time. This putts me in mind of the Feralia dict, à ferendis ad tumulum epulis: id quod forant [ferunt ?] tunc epulas ad sepulchrum quibus jus ibi parentare. Feralia deiun manium dies in Febr. Had Ovid continued his Fastorum to Novemb: in probabiliiy we should have found such a kind of custome used at that time sc. Novemb: 2d.
+
+Mdm. Seed-cakes, for the Ploughmen, after Sowing is donne; I thinke, All-Saints' night, or Eve. Also Cakes at Home-harvest.
+
+*Offertories at funeralls.*
+
+These are mentioned in the Rubrick of ye ch. of Engl. Comon-Prayer-booke : but I never sawe it used, but once at Beaumaris, in Anglesey ; but it is used over all the Counties of North-Wales. But before when the corps is brought out of Doores, there is Cake & Cheese, and a new Bowie of Beere, and another of Milke with yw Anno Dni ingraved on it, & yw parties name deceased, wch one accepts of on the other side of ye Corps ; & this Custome is used to this day, 1686, in North Wales `[From this to the end of the paragraph is added by Dr. Kennett. — Ed.]`, where a small tablet or board is fixt near the Altar, upon whch the friends of ye defunct lay their offerings in mony according to their own ability and the quality of the person deceased. This custom proves a very happy augmentation to some of the very poor vicars, and is often the best part of their maintenance.
+
+*Sinne-eaters*
+
+It seems a remainder of this custom was lately obtained at Amersden, in the couniy of Oxford, where at the burial of every corps one cake and one flaggon of Ale just after the interrment were brought to the minister in the Ch. porch. W. K.
+
