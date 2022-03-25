@@ -773,7 +773,7 @@ Vol 4 Iss 81
 8th S. IV
 p49
 
-"Soul-caking." A few years ago when living in Cheshire, the youths used to dress up (some in women's clothes) and go to houses on All Saint's Day. It was called "soul-caking". Was this custom the survival of a religious play ; or the asking of alms for masses for the dead, to be said on All Souls’ Day’? Very little notice was taken of Noy. 5 in that part.
+"Soul-caking." A few years ago when living in Cheshire, the youths used to dress up (some in women's clothes) and go to houses on All Saint's Day. It was called "soul-caking". Was this custom the survival of a religious play ; or the asking of alms for masses for the dead, to be said on All Souls' Day’? Very little notice was taken of Nov. 5 in that part.
 
 Wingeham. Kent.
 
