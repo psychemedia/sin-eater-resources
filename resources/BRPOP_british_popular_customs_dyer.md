@@ -9,7 +9,7 @@ pp.405-410
 
 Cheshire
 
-On All Souls' Eve, both children and grown-np people go from door to door, a-souling, i.e., begging for soul cakes, or anything elso they can get. In some districts they perform a kind of play as well, but in all instances the following, or a similar song, is sung : —
+On All Souls' Eve, both children and grown-up people go from door to door, a-souling, i.e., begging for soul cakes, or anything else they can get. In some districts they perform a kind of play as well, but in all instances the following, or a similar song, is sung : —
 
 " You gentlemen of England, pray you now draw near  
 To these few lines, and you soon shall hear  
@@ -44,7 +44,7 @@ And we'll come no more a-souling until another year."
 
 Shropshire.
 
-In this county the inhabitants sot on a board a high heap of small cakos, called soul-cakes, of which they offer one to every person who comes to the house on this day, snd there is an old rhyme, which seems to have been sung by the family and guests:
+In this county the inhabitants set on a board a high heap of small cakes, called soul-cakes, of which they offer one to every person who comes to the house on this day, snd there is an old rhyme, which seems to have been sung by the family and guests:
 
 " A soul-cake, a soul-cake ; 
 Have mercy on all Christian souls for a soul-cake." 
