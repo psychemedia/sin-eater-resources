@@ -629,11 +629,12 @@ https://archive.org/details/sim_notes-and-queries_1869-06-26_3_78/page/602/mode/
 Notes and Queries
  Vol 3 Iss 78
 1869-06-26
+
+p602
+
 GRIDDLE.
 
 (4th S. iii 505.)
-
-p602
 
 *Griddle* is not gridiron, but is a circular plate of iron (or a broad and shallow pan) made on purpose for baking cakes. It is derived from |It is derived from Welsh *greidel*l*, from *greidiaw*, to heat or scorch. Gridiron is derived from Swedish-Gothic *grädda*, to bake and iron. The griddle-cake mentioned by your correspondent as being made on All-hallows Eve is, I suppose, the same as the soul-cake. ...
 
