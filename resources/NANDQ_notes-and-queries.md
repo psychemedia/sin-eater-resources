@@ -607,7 +607,7 @@ Custom on All Souls' Day. —In two villages lying side by side in the line whic
 (1.)  
 Step into your cellar—see what you can find :  
 If your barrels be not empty,  I hope you will prove kind.
-Ihope you will prove kind with your 'aples' and strong beer,  
+I hope you will prove kind with your 'aples' and strong beer,  
 And we'll come no more ' a-souling' until this time next year."
 
 (2.)  
