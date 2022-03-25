@@ -305,14 +305,15 @@ were formerly sung on All Souls' Day.
 >
 > W. Fraser.
 
-Over twenty-five years later, also in *Notes & Queries*, [Vol 10 Iss 257 (5th S. X)](https://archive.org/details/sim_notes-and-queries_1878-11-30_10_257/page/n5/mode/2up), p426, of November 30th, 1878, another correespondent recalls an old lady who had kept the tradition alive in her parish until the middle of the 19th century:
+Over twenty-five years later, also in *Notes & Queries*, [Vol 10 Iss 257 (5th S. X)](https://archive.org/details/sim_notes-and-queries_1878-11-30_10_257/page/n5/mode/2up), p426, of November 30th, 1878, another correspondent recalls an old lady who had kept the tradition alive in her parish until the middle of the 19th century:
 
 > SOUL CAKES
-
-The following, which seems worth a note in "N. & Q." comes to me in a letter from a lady dated "All Saint's Day, 1878." Church Pulverbatch is in Salop, and the letter is written at Chester:—
-
-"I knew an old Mrs. Ward of Church Pulverbatch, who was born in 1752 and died in 1853. She never had an illness in her life. On the day she *attained her hundredth year* she was dressed in her bridal dress of yellow satin, and kept her *fête* by receivng the Holy Communionwith her friends and neighbours. I am reminded of her just now by the children who are singing their 'Souling Song' under my window; for Mrs. Ward was the last of her generation — or of any generation — in her neighbourhood, to make 'soul cakes.'"  
-A. J. M.
+>
+> The following, which seems worth a note in "N. & Q." comes to me in a letter from a lady dated "All Saint's Day, 1878." Church Pulverbatch is in Salop, and the letter is written at Chester:—
+>
+> "I knew an old Mrs. Ward of Church Pulverbatch, who was born in 1752 and died in 1853. She never had an illness in her life. On the day she *attained her hundredth year* she was dressed in her bridal dress of yellow satin, and kept her *fête* by receivng the Holy Communionwith her friends and neighbours. I am reminded of her just now by the children who are singing their 'Souling Song' under my window; for Mrs. Ward was the last of her generation — or of any generation — in her neighbourhood, to make 'soul cakes.'"  
+>
+> A. J. M.
 
 That note is misrepresented as a Chester-based tradition in a reply to *Notes & Queries* appearing on August 5th, 1893, [*Vol 4 Iss 84 (8th S. IV)*](https://archive.org/details/sim_notes-and-queries_1893-08-05_4_84/page/116/mode/2up), p117:
 
