@@ -638,7 +638,7 @@ Returning to the article in *The Leisure Hour*:
 >
 >In Scotland, too, in the county of Aberdeen, we learn that baked cakes, called "Dirge-loaf," are given away on All Souls' Day to those who may chance to visit the house where they are made.
 
-Further into North Wales, on the road to Dolgellau, in south eath-east Gwynedd, lays the village of Dinas Mawddwy, which also had, during the 1850s, an All Saints' Day tradition involving a food offering, albeit this time of bread and cheeses:
+Further into North Wales, on the road to Dolgellau, in south eath-east Gwynedd, lays the village of Dinas Mawddwy, which also had, during the 1850s, an All Saints' Day tradition involving a food offering, albeit this time of bread and cheese:
 
 > I may also mention that it was customary at Dinas Mawddwy forty years ago, if not later, for children to go about on All Saints' Day to collect bread and cheese, which custom they called " Bara 'chawsa." They used to ask for it in the following form :—
 >
