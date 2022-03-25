@@ -54,6 +54,6 @@ The same custom is mentioned, and with very little variation,by Aubrey in the *R
 
 WALES.
 
-The people of North Wales have a custom of distribnting soul-cakes on All Souls' Day, at the receiving of which the poor people pray to God to bless the next crop of wheat. — *Pennant.*
+The people of North Wales have a custom of distributing soul-cakes on All Souls' Day, at the receiving of which the poor people pray to God to bless the next crop of wheat. — *Pennant.*
 
 tag: souling
