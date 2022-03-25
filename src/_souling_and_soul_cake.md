@@ -575,7 +575,7 @@ The author seems ot be of the opinion that the souling tradition continues to oc
 ```{admonition} The Leisure Hour
 :class: seealso dropdown
 
-According to *Wikipedia*, [*The Leisure Hour*]](https://en.wikipedia.org/wiki/The_Leisure_Hour), published by the *Religious Tract Society*, "was a British general-interest periodical of the Victorian era which ran weekly from 1852 to 1905".
+According to *Wikipedia*, [*The Leisure Hour*](https://en.wikipedia.org/wiki/The_Leisure_Hour), published by the *Religious Tract Society*, "was a British general-interest periodical of the Victorian era which ran weekly from 1852 to 1905".
 ```
 
 The correspondent then suggests an explanation behind the term _"Solod"_:
