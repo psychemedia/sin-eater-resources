@@ -89,7 +89,7 @@ Traces of the material feast itself, however, survive in North Shropshire perhap
 ```
 [The following notices of the use of cakes at Hallowmas occur in Brand, Antiquities, Vol II. p. 219 *et seq*, The Irish peasantry used to feast on griddle-cakes at Allhallows, and the people of St Kilda in the Hebrides used to bake a large triangular cake on All Saints* Day, which must all be eaten the same night. At Ripon, All Saints' Eve is called Cake Night, and a cake is baked in each household for every member of the family. In Cleveland the bakers send their customers ' Saumas loaves ' (= soul-mass loaves), which are kept in the house for good luck. In Warwickshire, seed-cakes used to be eaten at Allhallows, and in Northants they were sent as presents and called ' soul-cakes.' In North Wales, in Pennant's time, the poor people to whom soul-cakes were given prayed God to bless the next crop of wheat. Tusser says ( *Works*, E. D. S., p. 223), 
 
-'Whatever it cost thee, whateuer thou geve,  
+'Whatever it cost thee, whatever thou geve,  
 haue done sowing wheat before halowmas eve.'
 
 And at the end of wheat-sowing, it was customary in the Eastern Counties to give the ploughman a feast of seed-cakes, pasties, and furmety (Ibid. p. 181). ]
