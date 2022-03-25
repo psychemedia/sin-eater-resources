@@ -201,7 +201,7 @@ At Newport the children have introduced these lines into the souling ditty, corr
 ' A bouncing buck and a velvet chair ! ! ' 
 ```
 
-The object for which the apples and ale were demanded was beyond doubt to make a ' wassail bowl ' of ' lambswool/ or hot spiced ale with toast and roasted apples in it, such as the ' gossip's bowl,' in which Puck lurked ' in humble likeness of a roasted crab.' Accordingly, at Oswestry, the children (who have, as there might easily happen, imported a few words of Welsh into their ditty), sometimes begin it with the couplet,
+The object for which the apples and ale were demanded was beyond doubt to make a ' wassail bowl ' of ' lambswool' or hot spiced ale with toast and roasted apples in it, such as the ' gossip's bowl,' in which Puck lurked ' in humble likeness of a roasted crab.' Accordingly, at Oswestry, the children (who have, as there might easily happen, imported a few words of Welsh into their ditty), sometimes begin it with the couplet,
 
 ' Wissal, wassal, bread and possal, 
 Crw da, plâs yma.' `[*Crw day plâs yma* — good ale [in] this Place. Place = mansion ; cf. the 'New Place' at Stratford-on-Avon. This rhyme — given in full in *Byegones*, 11th December, 1872 — completes our list of variants of the Souling ditty. ]`
