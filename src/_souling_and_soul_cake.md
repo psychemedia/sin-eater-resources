@@ -594,9 +594,11 @@ The quotation from *The Leisure Hour* is actually just a fragment from a longer 
 
 > A very old custom prevails in the West Riding of Yorkshire of preparing against this anniversary a kind of oatmeal gingerbread, and of religiously par- taking of the same on this and subsequent days. The local name of it is Parkin, and it is usually seen in the form of massive loaves, substantial cakes, or bannocks.
 
-I remember Bonfire nights (November 5th) in Almondbury, a village on the outskirts of Huddersfield, in the 1970s, where a neigbour would share parkin around the communal bonfire held in a recreational field bordered on two sides by a modern housing estate oand on the other two sides by green belt. We used to go "chumping" for wood in the days before. October 30th was also a playful night: "mischief night", when we'd ring doorbells and run away...
+I personally remember Bonfire nights (November 5th) in Almondbury, a village on the outskirts of Huddersfield, in the 1970s, where a neigbour would share parkin around the communal bonfire held in a recreational field bordered on two sides by a modern housing estate oand on the other two sides by green belt. We used to go "chumping" for wood in the days before. October 30th was also a playful night: "mischief night", when we'd ring doorbells and run away...
+
 ```
-> ANTIQUARIAN GOSSIP ON THE MONTHS. 
+
+> ANTIQUARIAN GOSSIP ON THE MONTHS.
 >
 > BY THE AUTHOR OF "BRITISH POPULAR CUSTOMS, PAST AND PRESENT."
 >
@@ -650,16 +652,17 @@ Further into North Wales, on the road to Dolgellau, in south eath-east Gwynedd, 
 >  
 > Glyn Trefnant.
 
-
 ## All Saints' and All Souls' Traditions Shropshire, Revisited
 
-Finally, we have a rather long excerpt from [*Shropshire folk-lore*](https://archive.org/details/shropshirefolkl01jackgoog/page/n24/mode/2up?q=souling), edited by C.S. Burne, _"from the collections of G.F. Jackson"_, by Georgina Frederica Jackson"*, 1885, pp. 378-90:
+Finally, we have a rather long excerpt from [*Shropshire folk-lore*](https://archive.org/details/shropshirefolkl01jackgoog/page/n24/mode/2up?q=souling), edited by C.S. Burne, _"from the collections of G.F. Jackson"_, by Georgina Frederica Jackson"*, 1885, pp. 378-90, on a variety of All Saints' and All Souls' Day festivals.
 
-> VI. ALL SAINTS* AND ALL SOULS' DAYS.
+It opens ith a general introduction to the feast days:
+
+> VI. ALL SAINTS' AND ALL SOULS' DAYS.
 >
 > "Upon an ocean vast and dark  
 > The spirits of the dead embark  
-> 
+>
 > All voyaging to unknown coasts.  
 > Wo wave our farewells from the shore,  
 > And they depart, and come no more,  
@@ -681,29 +684,43 @@ Finally, we have a rather long excerpt from [*Shropshire folk-lore*](https://arc
 > Newman, Lyra Apostolica, clxxvi.
 >
 > It was a common practice of heathen nations to hold a yearly feast in honour of the dead. The Romans celebrated it in May, but other nations more appropriately fixed it at the beginning of the dark days of winter, when the falling leaves and dying year seem in themselves to suggest thoughts of death and momones of the past. Thus the Fathers of the Church did but consecrate an already familiar custom when they instituted the Christian festivals of All Saints' and All Souls' Days. The first hint of honour paid to the saints collectively occurs in the Western Church `[The festival had already even then been estahlished in the Eastern Church on the day on which it is still observed there, namely, the octave of Pentecost, our modem Trinity Sunday. ]` in the consecration of the Pantheon at Kome on the 12th May, 610, from being a temple of all the gods, to be a church dedicated to St. Mary and All Martyrs. In the first half of the eighth century Pope Gregory II. instituted the observance of All Saints' Day on the first of November, but it stood alone for more than a hundred years. It was not till a.d. 998 that Odilo, Abbot of Clugny, began to offer mass on the day after All Saints' for the souls of all the departed without exception ; and from this charitable practice of the monks of Clugny arose the festival of All Souls', still piously observed in Romanist countries. `[Alt, Das Kirchenjahr, p. 79.]`
->
-> Just as we should expect, we find that, beautifully as the ancient Feast of the Dead had been consecrated to Christian purposes, popular non-religious customs still cling around it, and on examination these all appear to hinge on the idea that at this time the spirits of the dead were abroad and revisited their former haunts. Thus, as every reader of Burns knows, 'Hallow e'en,' or the Eve of All Saints, was the best possible time for prying into futurity and learning those secrets which dwellers in the other world alone could reveal. The material feast of the day haply once consisted of food and drink set out for the use of the dead, but— after the manner of such offerings from the time of *Bel and the Dragon* onwards — presently consumed by the living. The bonfires still so religiously lighted in the Scottish Highlands and other places, were probably in the beginning charitably meant to give light and warmth to the poor shivering souls wandering in the cold dark night `[Compare for instance the following practices preserved by modern Christian nations. 'In Tyrol, the poor souls released from purgatory fire for the night may come and smear their burns with the melted fat of the "soul-light " on the hearth, or cakes are left for them on the table, and the room is kept warm for their comfort. Even in Paris the souls of the departed come to partake of the food of the living. In Brittany the crowd pours into the churchyard at evening, to kneel bareheaded at the gravoB of the dead kinsfolk, to fill the hollow of the tombstone with holy water, or to pour libations of milk upon it. All night the church bells clang, and sometimes a solemn procession of the clergy goes round to bless the graves. In no household that night is the cloth remoyed, for the supper must be left for the souls to come and take their part, nor must the fire be put out, where they will come to warm themselves. And at last, as the inmates retire to rest, there is heard at the door a doleful chant — it is the souls, who, borrowing the voices of the parish poor, have come to ask the prayers of the living.' Tylor, *Primitive Culture*, VoL II. p. 88. (See the whole passage, pp. 30-43, and compare Vol. I. p. 484, note, on savage customs of lighting fires for the use of ghosts. ) It will be seen that I follow authority in the statement made in the text : but inasmuch as bonfires and feasting were also customary at May, Midsummer, and Midwinter (the Yule-fire on the hearth), it seems to me that there is some ground for supposing the Feast of the Dead to have been engrafted, in pre-Christian times, on a more primitive November feast, held simply to celebrate the beginning of Winter, and corresponding to the May feast which celebrated the beginning of Summer. Old-fashioned folk, within my own knowledge, still reckon November, December, and January, as the three winter months : the ' winter quarter ' as the sexton's wife at Much Wenlock called them, speaking of the curfew, which is rung there from the 17th October (the old fair-day) to the 1st February. At Prees too the curfew begins six weeks before and ends six weeks after Christmas : i. e. from November to Candlemas. (*Byegones* for 1882, p. 149.) Country churchwardens do not allow fires to be lighted in the church before the 1st of November. Compare the account (Brand, *Antiquities*, I. 219) of the All Hallows' Eve ceremony at St. John's College, Oxford, in 1607, when a fire (evidently the first of the season) was lighted in the hall, and the whole company of students met together '*to beginne their Christmas*'. Anticipatory allusions to Christmas occur in several of our All Saints' Day ditties. By this reckoning Christmas is literally Midtrinter, which season is supposed to end at Candlemas, when the Christmas decorations are taken down. Compare the dance ' round about our coal-fire,' anciently performed by the judges and benchers of the Inns of Court on Candlemas Day. The next three months form the spring quarter (compare Canting-quarter in Shropshire Word-Book), and on the 1st of May summer begins. Old custom accorded to outgoing farm-tenants whose tenure expired at Lady Day, the right of Boosey- pasture (see *Word-Book*) till the 1st of May ; i. e, the right to pasture cattle in the meadows, which at May Day must be 'drawn,' i.e, must have the cattle withdrawn from them for haymaking. (Nowadays farmers generally ' put up'  their meadows for hay at a much earlier date.) On May Day, too, the cattle began to ' lie out ' at night, and on the 1st of November they began to ' lie up ' again. Half-yearly payments were sometimes made on May 1st and November Ist : thus, the barber engaged to shave the old men in the Hospital at Clun (an almshouse founded in 1614) is directed to be paid on the feast of All Sainto and the feast of SS. Philip and Jacob respectively : entering on his duties no doubt on  the latter day like the servants, of whom we shall say more in chap. xxxi. `]
->
+
+That supersititions should also attach to festivals was to be expected:
+
+> Just as we should expect, we find that, beautifully as the ancient Feast of the Dead had been consecrated to Christian purposes, popular non-religious customs still cling around it, and on examination these all appear to hinge on the idea that at this time the spirits of the dead were abroad and revisited their former haunts. Thus, as every reader of Burns knows, 'Hallow e'en,' or the Eve of All Saints, was the best possible time for prying into futurity and learning those secrets which dwellers in the other world alone could reveal. The material feast of the day haply once consisted of food and drink set out for the use of the dead, but— after the manner of such offerings from the time of *Bel and the Dragon* onwards — presently consumed by the living. The bonfires still so religiously lighted in the Scottish Highlands and other places, were probably in the beginning charitably meant to give light and warmth to the poor shivering souls wandering in the cold dark night `[Compare for instance the following practices preserved by modern Christian nations. 'In Tyrol, the poor souls released from purgatory fire for the night may come and smear their burns with the melted fat of the "soul-light " on the hearth, or cakes are left for them on the table, and the room is kept warm for their comfort. Even in Paris the souls of the departed come to partake of the food of the living. In Brittany the crowd pours into the churchyard at evening, to kneel bareheaded at the gravoB of the dead kinsfolk, to fill the hollow of the tombstone with holy water, or to pour libations of milk upon it. All night the church bells clang, and sometimes a solemn procession of the clergy goes round to bless the graves. In no household that night is the cloth remoyed, for the supper must be left for the souls to come and take their part, nor must the fire be put out, where they will come to warm themselves. And at last, as the inmates retire to rest, there is heard at the door a doleful chant — it is the souls, who, borrowing the voices of the parish poor, have come to ask the prayers of the living.' Tylor, *Primitive Culture*, VoL II. p. 88. (See the whole passage, pp. 30-43, and compare Vol. I. p. 484, note, on savage customs of lighting fires for the use of ghosts. ) It will be seen that I follow authority in the statement made in the text : but inasmuch as bonfires and feasting were also customary at May, Midsummer, and Midwinter (the Yule-fire on the hearth), it seems to me that there is some ground for supposing the Feast of the Dead to have been engrafted, in pre-Christian times, on a more primitive November feast, held simply to celebrate the beginning of Winter, and corresponding to the May feast which celebrated the beginning of Summer. Old-fashioned folk, within my own knowledge, still reckon November, December, and January, as the three winter months : the ' winter quarter ' as the sexton's wife at Much Wenlock called them, speaking of the curfew, which is rung there from the 17th October (the old fair-day) to the 1st February. At Prees too the curfew begins six weeks before and ends six weeks after Christmas : i. e. from November to Candlemas. (*Byegones* for 1882, p. 149.) Country churchwardens do not allow fires to be lighted in the church before the 1st of November. Compare the account (Brand, *Antiquities*, I. 219) of the All Hallows' Eve ceremony at St. John's College, Oxford, in 1607, when a fire (evidently the first of the season) was lighted in the hall, and the whole company of students met together '*to beginne their Christmas*'. Anticipatory allusions to Christmas occur in several of our All Saints' Day ditties. By this reckoning Christmas is literally Midwinter, which season is supposed to end at Candlemas, when the Christmas decorations are taken down. Compare the dance ' round about our coal-fire,' anciently performed by the judges and benchers of the Inns of Court on Candlemas Day. The next three months form the spring quarter (compare Canting-quarter in Shropshire Word-Book), and on the 1st of May summer begins. Old custom accorded to outgoing farm-tenants whose tenure expired at Lady Day, the right of Boosey- pasture (see *Word-Book*) till the 1st of May ; i. e, the right to pasture cattle in the meadows, which at May Day must be 'drawn,' i.e, must have the cattle withdrawn from them for haymaking. (Nowadays farmers generally ' put up'  their meadows for hay at a much earlier date.) On May Day, too, the cattle began to ' lie out ' at night, and on the 1st of November they began to ' lie up ' again. Half-yearly payments were sometimes made on May 1st and November Ist : thus, the barber engaged to shave the old men in the Hospital at Clun (an almshouse founded in 1614) is directed to be paid on the feast of All Sainto and the feast of SS. Philip and Jacob respectively : entering on his duties no doubt on  the latter day like the servants, of whom we shall say more in chap. xxxi. `]
+
+In many traditions, Hallowe'en is an auspicious time for divination, or "fortune telling":
+
 > Of the first class of ' Hallantid ' `[Hallantid (Pulverbateh), Alhalontid (Worthen) ; see *Word-Book*,]` customs — viz. practising divinations on All Saints' Eve — I have met with but few examples in Shropshire. One, known to have been actually tried, has been already noticed (*ante* p. 176). Another method is, to stand before a looking-glass, combing your hair with one hand and eating an apple held in the other, when the face of the man you are to marry will be seen in the glass looking over your left shoulder. `[The West Shropshire maid who mentioned this to our informant said it should be practised on St, Thomas's Eve. (Mr. Henderson says— Northern Counties p. 326 — that in county Durham, St. Thomas's Eve is the special season for ghosts.) The latter, however— herself a Shropshire woman — assigned it, like Burns, to *All Saints*' Eve. The apples begged, as we shall see, for the feast, would naturally be used in the magic rites of the season. ]`
->
+
+Whilst fortune-telling is perhaps no a major feature of Salopian Hallowe'en tradition, other elements, as we have already seen, certainly are:
+
 > Traces of the material feast itself, however, survive in North Shropshire perhaps more fully than in any part of England, except, it may be, Cheshire and North-west Staffordshire. With us. All Saints' Day is known as ' Souling Day,' and up to the present time in many places, poor children, and sometimes men, go out ' souling : ' which means that they go round to the houses of all the more well-to-do people within reach, reciting a ' ditty ' peculiar to the day, and looking for a dole of cakes, broken victuals, ale, apples, or money. The two latter are now the usual rewards, but there are few old North Salopians who cannot remember when * soul-cakes ' were made at all  the farms and ' bettermost ' houses in readiness for the day, and were given to all who came for them. We are told of liberal housewives who would provide as many as a clothes-basket full.
-> 
-> ```
-> [The following notices of the use of cakes at Hallowmas occur in Brand, Antiquities, Vol II. p. 219 *et seq*, The Irish peasantry used to feast on griddle-cakes at Allhallows, and the people of St Kilda in the Hebrides used to bake a large triangular cake on All Saints* Day, which must all be eaten the same night. At Ripon, All Saints' Eve is called Cake Night, and a cake is baked in each household for every member of the family. In Cleveland the bakers send their customers ' Saumas loaves ' (= soul-mass loaves), which are kept in the house for good luck. In Warwickshire, seed-cakes used to be eaten at Allhallows, and in Northants they were sent as presents and called ' soul-cakes.' In North Wales, in Pennant's time, the poor people to whom soul-cakes were given prayed God to bless the next crop of wheat. Tusser says ( *Works*, E. D. S., p. 223), 
-> 
+
+There is then a footnote describing other, related traditions elsewhere:
+
+> [The following notices of the use of cakes at Hallowmas occur in Brand, Antiquities, Vol II. p. 219 *et seq*, The Irish peasantry used to feast on griddle-cakes at Allhallows, and the people of St Kilda in the Hebrides used to bake a large triangular cake on All Saints' Day, which must all be eaten the same night. At Ripon, All Saints' Eve is called Cake Night, and a cake is baked in each household for every member of the family. In Cleveland the bakers send their customers ' Saumas loaves ' (= soul-mass loaves), which are kept in the house for good luck. In Warwickshire, seed-cakes used to be eaten at Allhallows, and in Northants they were sent as presents and called ' soul-cakes.' In North Wales, in Pennant's time, the poor people to whom soul-cakes were given prayed God to bless the next crop of wheat. Tusser says ( *Works*, E. D. S., p. 223),
+>
 > 'Whatever it cost thee, whatever thou geve,  
 > haue done sowing wheat before halowmas eve.'
-> 
-> And at the end of wheat-sowing, it was customary in the Eastern Counties to give the ploughman a feast of seed-cakes, pasties, and furmety (Ibid. p. 181). ]
-> ```
 >
-> It is remembered that the last person who kept up the old custom of giving soul-cakes at Pulverbatch was Mrs. Mary Ward (born Jaundrell), who died a centenarian in 1853. `[*Remains of Gentilisme and Judaisme* (ed. F. L. S. ), p. 23. ]` I am told that they were made and sold in the village of Welshampton up to 1870, or later. But the late Mrs. Gill of Hopton, near Hodnet, had soul-cakes made in her house to give away to the souling-children every year up to the time of her death in 1884. They were flat round (or sometimes oval) cakes — or rather 'buns,' a word seldom or never used by the Salopian peasantry — made of very light dough, spiced and sweetened. `[I append the ' receipt,' kindly given me by her family : ' 3lbs. Flour, 1/4lb. Butter (or 1/2b. if the cakes are to be extra rich), 1/2lb. Sugar, 2 spoonfuls of Yeast, 2 Eggs, Allspice to taste, and sufficient new milk to make it into a light paste. Put the mixture (without the sugar or spice) to rise before the fire for half an hour, then add the sugar, and allspice enough to flavour it well : make into rather flat buns, and bake.' ]` This is perhaps the last survival of a Shropshire custom which attracted the notice of observers so far back as the seventeenth century, when Aubrey wrote : ' In Salop, &c., die oium Animarum (All Soules'-day, Novemb. 2d), there is sett on the Board a high heap of Soule-cakes, lyeing one upon another like the picture of the Sew-Bread in the old Bibles. They are about the bignesse of 2d cakes, and n'ly all the visitants that day take one ; and there is an old Rhythm or saying,
+> And at the end of wheat-sowing, it was customary in the Eastern Counties to give the ploughman a feast of seed-cakes, pasties, and furmety (Ibid. p. 181). ]
+
+Back in Shropshire, an observation we met previously in *Notes & Queries* from 1878:
+
+> It is remembered that the last person who kept up the old custom of giving soul-cakes at Pulverbatch was Mrs. Mary Ward (born Jaundrell), who died a centenarian in 1853. `[*Remains of Gentilisme and Judaisme* (ed. F. L. S. ), p. 23. ]`
+
+*F. L. S. is the Folk Lore Society, on behalf of whom the book was published. The page reference is the entries on __Soule cakes__ etc., so this is perhaps a referencing error.*
+
+> I am told that they were made and sold in the village of Welshampton up to 1870, or later. But the late Mrs. Gill of Hopton, near Hodnet, had soul-cakes made in her house to give away to the souling-children every year up to the time of her death in 1884. They were flat round (or sometimes oval) cakes — or rather 'buns,' a word seldom or never used by the Salopian peasantry — made of very light dough, spiced and sweetened. `[I append the ' receipt,' kindly given me by her family : ' 3lbs. Flour, 1/4lb. Butter (or 1/2b. if the cakes are to be extra rich), 1/2lb. Sugar, 2 spoonfuls of Yeast, 2 Eggs, Allspice to taste, and sufficient new milk to make it into a light paste. Put the mixture (without the sugar or spice) to rise before the fire for half an hour, then add the sugar, and allspice enough to flavour it well : make into rather flat buns, and bake.' ]` This is perhaps the last survival of a Shropshire custom which attracted the notice of observers so far back as the seventeenth century, when Aubrey wrote : ' In Salop, &c., die oium Animarum (All Soules'-day, Novemb. 2d), there is sett on the Board a high heap of Soule-cakes, lyeing one upon another like the picture of the Sew-Bread in the old Bibles. They are about the bignesse of 2d cakes, and n'ly all the visitants that day take one ; and there is an old Rhythm or saying,
 >
 > " A Soule-cake, a Soule-cake,  
 > Have mercy on all Christen soules for a soule-cake." `[Remains of Gentilisme and Judaisme (ed. F. L. S. ), p. 23.]`
 >
 > The ' rhythm ' has lost its religious form since Aubrey's time.
->
+
+The author then goes on to provide a wide collection of souling rhymes:
+
 > I have obtained versions of souling ditties from the following places :
 >
 > Edgmond, Newport, Hodnet, Market Drayton, Ellesmere, Welshampton, Whittington, Oswestiy, tVestfelton, Kinnerley, Baschurch, Rodington, Pulverbatch, Berrington, and Wellington. `[The version quoted from *Notes and Queries* in Hazlitt's *Brand* (I. 220), comes, I feel sure, from Hordley. The curious will find my collection in the volume of *Shreds and Patches* for 1885. ]` They all vary more or less from each other, but on the whole the Market Drayton version seems the purest and oldest :
@@ -744,12 +761,16 @@ Finally, we have a rather long excerpt from [*Shropshire folk-lore*](https://arc
 >
 > And, like the Lark at Cock Robin's wedding, ' when ' they ' got unto the end, then ' they ' began again ; ' without an instant's pause, over and over untiringly and monotonously chanting their ditty, until some answer is received. Shakspeare must have had the sound of this lugubrious sing-song fresh in his ears when he made Speed reckon among the ' special marks ' of a man in love, that he had learnt ' to speak puling, like a beggar at Hallowmas.' `[*The Gentlemen qf Verona*, Act II. Sc. I ]`
 >
-> The other twelve yersions of the souling rhymes which I have before me, vary between the two main types already given ... [examples are then given, but we might not with intereest the following one:]
->
+> The other twelve yersions of the souling rhymes which I have before me, vary between the two main types already given ...
+
+Several other examples are then given, but we might note with intereest the following one in particular:
+
 > 'I hope you'll prove kind with your ale and strong beer.  
-> And well come no more a-souling till this time pezt year.'
+> And well come no more a-souling till this time next year.'
 > (*Market Drayton.*)
->
+
+Note that these are referred to as "carols":
+
 > Much of the substance of these carols reappears in the Edgmond Men's Souling Song, taken down in November 1863, from the recitation of William Porter of Edgmond, then aged thirty-nine, who said that he and his fellow-labourers had 'remembered it and put it together' to sing at their master's door some ten or twelve years before. 'They maden it, they maden it the'rsels/ said his wife, anxious to magnify his talents. ' Naw, naw, it's a vera owd sung,' said the husband ; and so it evidently is, though ' re-edited,' in fact, by the joint skill of the party. The tune cannot now be recovered, ...
 >
 > ' There's two or three hearty lads standing hard by,  
@@ -786,30 +807,36 @@ Finally, we have a rather long excerpt from [*Shropshire folk-lore*](https://arc
 > And when it is over, it's never the near ! ` 
 > Returning you thanks for your ale and strong beer,  
 > And we'll come no more a-souling till this time next year. '
-> 
-> ```
+
+The following footnote explains the sense of "near":
+
 > 'Near. . . Now used as a positive, but orig. the comparative of *nigh*.  (The form *nearer* is a double comparative.) M.E. *nerre*, adj., *ner*, adv., nigher ; AS. neár, comparative adv. from neáh, nigh.' Skeat, *Concise Etym. Dictionary*. 
-> 
+>
 > `Though ye wolde gyve a thousande more  
 > Yet were ye *never the nere.*  
 > *A Lytell Geste of Robyn Hode.*
-> 
+>
 > 'Bounce, buckram, velvet's dear !  
 > Christmas comes but once a year,  
 > And when it comes it brings good cheer.  
 > But when it's gone it's *never the near.*'
 > *Mummers' Play, quoted in Brand's Antiquities I. 268, note 2.*
-> 
-> At Newport the children have introduced these lines into the souling ditty, corrupting the first (which of course alludes to the mock finery of the players) into, 
-> 
-> ' A bouncing buck and a velvet chair ! ! ' 
-> ```
 >
+> At Newport the children have introduced these lines into the souling ditty, corrupting the first (which of course alludes to the mock finery of the players) into,
+>
+> ' A bouncing buck and a velvet chair ! ! '
+
+Back in the main text, the author suggests what the collection of apples and ale might have presaged:
+
 > The object for which the apples and ale were demanded was beyond doubt to make a ' wassail bowl ' of ' lambswool' or hot spiced ale with toast and roasted apples in it, such as the ' gossip's bowl,' in which Puck lurked ' in humble likeness of a roasted crab.' Accordingly, at Oswestry, the children (who have, as there might easily happen, imported a few words of Welsh into their ditty), sometimes begin it with the couplet,
 >
 > ' Wissal, wassal, bread and possal, 
 > Crw da, plâs yma.' `[*Crw day plâs yma* — good ale [in] this Place. Place = mansion ; cf. the 'New Place' at Stratford-on-Avon. This rhyme — given in full in *Byegones*, 11th December, 1872 — completes our list of variants of the Souling ditty. ]`
->
+
+Notably, perhaps, the author (or editor?) also remarks on the similiarity between the souling gifts and funeral offerings, as well as their roles as doles offered to the poor in exchange for prayers for the dead:
+
 > The dole of cakes and ale (the same gifts, be it observed, which were formerly bestowed at funerals) would furnish the poor with the materials for keeping the feast, in return for which they would of course be bound to pray at the All Souls' Day mass next morning for the souls of their benefactors' kindred in Purgatory. Like the funeral dole, the All Saints' Day alms would be bestowed to purchase prayers for the dead.
->
+
+Finally, the waning in popularity of the souling traditions is mentioned, with compulsory schooling suggested as one of the possible reasons for its decline:
+
 > I do not know whether men be grown virtuous in these latter days, but certain it is that there are 'no more cakes and ale.' Even the begging for apples is very much on the decline. At Berrington it was completely gme in 1869. In 1872, Bishop How wrote that it had ' all but died out ' at Whittington, though it was in full force when he first went there in 1851. The stringent enforcement of attendance at school consequent on the passing of the Education Act of 1870, gave a severe check to it at Edgmond, and must have had somewhat the same effect in other places. Only the 'little idle rascals ' now, have leisure to observe the traditions of their fathers.
