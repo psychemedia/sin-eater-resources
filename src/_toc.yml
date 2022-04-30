@@ -43,3 +43,4 @@ parts:
   - file: _glossary
   - file: _bibliography
   - file: genindex
+  - file: _biography

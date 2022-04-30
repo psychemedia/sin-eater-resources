@@ -4,7 +4,7 @@
 https://archive.org/details/notesqueries01londuoft/page/n9/mode/2up
 
 
-Notes and Queries No. 1
+Notes and Queries Vol 1 Iss 1
 
 Saturday, November 3rd, 1849
 
