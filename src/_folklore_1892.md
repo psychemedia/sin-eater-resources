@@ -394,6 +394,7 @@ So it seems that more evidence has recently come to hand, although what that evi
 ```{index} double: correspondence, Folklore ; Hope, Gertrude
 :name: FLKLR:correspondence:1892:hope
 ```
+
 ### Gertrude Hope's New Evidence
 
 In the meantime, additional evidence was to find its own way into the pages of *Folklore*. Just over a year after Hartland's paper was published, in [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
