@@ -1,4 +1,4 @@
-# The Sin-Eater of Ross
+# Interlude — The Sin-Eater of Ross
 
 Far from being introduced as a *Welsh* tradition, Aubrey's description of the sin-eater, which underpins much of the "legend", actually describes an individual in Ross-on-Wye, which lies in  the English county of *Herefordshire* rather than Welsh county of *Monmouthshire*.
 
@@ -145,7 +145,7 @@ The 1875 letter also raises a (very good) question regarding the origins of the 
 
 The source is claimed as *The Hereford Times*, 14/8/1986, but the original seems to be a story that appeared in the Ross Gazette of Thursday 16 December 1886, and reprinted again in the edition of Thursday 26 June 1913, p5-6. The author was a certain "EREGEN", who seems to be a regular contributor. For example, at the start of 1888, they author serialisation of *The Last of the Rudhalls, A Tale of the Civil Wars in Herefordshire, with Local Sketches* in that same newspaper.
 
-```{admonition} THE STORY OF " THE OLD WALK ;"
+```{admonition} EREGEN's 'THE STORY OF " THE OLD WALK ;"', December 16th, 1886
 :class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002067/18861216/144/0007
@@ -462,4 +462,4 @@ At this point, the author ups the gruesomeness level by incorporating a stake th
 >
 > What followed is too horrible to describe. But in a very few minutes, the mangled body was let down into the grave. The earth was hastily shovelled in ; and soon every one had departed from the dreadful spot. That was how the place acquired its name, Corpse-Cross; and suicides were interred there in similar fashion for a long time afterwards. *Not till 1838, did the law intervene to put an end to so odious a practice.*
 
-As I start to imagine my own tale of the sin-eater of Ross, I am tempted towards a tradition that follows on from Aubrey's sin eater, perhaps after a gap of a few years, where poor residents of the almshouses, or perhaps the workhouse, following the tradition of being given payment of food or money doles at funerals, come across the tale of the sin eaiter; and one of them starts to believe that indeed they are a sin-eater...
+*As I start to imagine my own tale of the sin-eater of Ross, I am tempted towards a tradition that follows on from Aubrey's sin eater, perhaps after a gap of a few years, where poor residents of the almshouses, or perhaps the workhouse, following the tradition of being given payment of food or money doles at funerals, come across the tale of the sin eaiter; and one of them starts to believe that indeed they are a sin-eater...*

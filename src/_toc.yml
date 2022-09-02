@@ -22,6 +22,7 @@ parts:
   chapters:
   - file: _minor_skirmishes
   - file: _through_1880s
+  - file: _ross
   - file: _scientific_folklore
   - file: _folklore_1892
 - caption: The Second Controversy, 1895
@@ -34,7 +35,6 @@ parts:
   - file: _second_controversy_pt_iv
 - caption: Finale
   chapters:
-  - file: _ross
   - file: _aftermath
 - caption: Appendices
   chapters:
