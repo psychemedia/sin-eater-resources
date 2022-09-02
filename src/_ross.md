@@ -2,7 +2,7 @@
 
 Far from being introduced as a *Welsh* tradition, Aubrey's description of the sin-eater, which underpins much of the "legend", actually describes an individual in Ross-on-Wye, which lies in  the English county of *Herefordshire* rather than Welsh county of *Monmouthshire*.
 
-> In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sinns of the party deceased, and were called sin-eaters. One of them I remember liv’d in a cottage on Rosse high-way.
+> In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway. The manner was that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the Sin-eater, over the corpse, as also a mazard bowl of maple, full of beer (which he was to drink up), and sixpence in money, in consideration whereof he took upon him, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead. `e.g. Hone's Year-Book, 1832, pp.858-9`
 
 The original manuscript is available as part of Lansdowne MS 231/3, dated 1568-1637 — although commentary by Aubrey ("Mr. Gwin, the minister [of Llanggors], about 1640") is later — sets the time at which this _"long, lean, ugly, lamentable poor rascal"_ lived as the first half of the 17th century or even earlier.
 
