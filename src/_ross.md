@@ -145,6 +145,8 @@ The 1875 letter also raises a (very good) question regarding the origins of the 
 
 The source is claimed as *The Hereford Times*, 14/8/1986, but the original seems to be a story that appeared in the Ross Gazette of Thursday 16 December 1886, and reprinted again in the edition of Thursday 26 June 1913, p5-6. The author was a certain "EREGEN", who seems to be a regular contributor. For example, at the start of 1888, they author serialisation of *The Last of the Rudhalls, A Tale of the Civil Wars in Herefordshire, with Local Sketches* in that same newspaper.
 
+Perhaps most interesting of all for *our* tale, however, is the reference in the story to "Jack the Scape", _a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater"_...
+
 ```{admonition} EREGEN's 'THE STORY OF " THE OLD WALK ;"', December 16th, 1886
 :class: dropdown
 
@@ -434,7 +436,7 @@ As the men in the pub feel pity, they feel they should summon the sin-eater:
 > 
 > "No," added Sam Morgan, the pig dealer, "and there'll be no service. Pity though, that the poor chap should be drowed in like a cannibal. We might get Old Jack the Scape to do what he could for him, though; what do'st say? "
 
-Then we have the description of the sin-eater, and his ritual, which borrows heavily from Aubrey:
+Then we have the description of the sin-eater, and his ritual, which borrows heavily from Aubrey, and whose name also invokes the idea of the scapegoat:
 
 > Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater." Such a profession was by no means uncommon in Herefordshire. In half an hour's time, old Jack was standing by the coffin in the skittle-alley. " I don't me'nd," said he; " but you ain't got no bowl made of maple-wood, and that's what I always has gi'en me, full of beer, as well as the sixpence. "
 > 
