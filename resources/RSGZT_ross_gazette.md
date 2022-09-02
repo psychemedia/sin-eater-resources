@@ -208,7 +208,7 @@ And that was his only requiem.
 
 " What be this stake for ?" inquired a boy.
 
-"Why, to drive drow him, to be sue, or else he'd walk and bite people in their beds, and then every one of 'em would walk in their turn, and a pretty time Ross would have of it ! "
+"Why, to drive drow him, to be sure, or else he'd walk and bite people in their beds, and then every one of 'em would walk in their turn, and a pretty time Ross would have of it ! "
 
 What followed is too horrible to describe. But in a very few minutes, the mangled body was let down into the grave. The earth was hastily shovelled in ; and soon every one had departed from the dreadful spot. That was how the place acquired its name, Corpse-Cross; and suicides were interred there in similar fashion for a long time afterwards. *Not till 1838, did the law intervene to put an end to so odious a practice.*
 
@@ -216,7 +216,7 @@ Two days afterwards, Mr. Markey led his daughter Clara up to the altar in Ross C
 
 " What had the gardener's death to do with any one here ?" Mr. Markey had remarked ;" he was no connection of either of the families, and there was no reason why the ceremony should be postponed on that account."
 
-" Certaimly not ! certalnly not !" chimedd his wife ; "and the dresses all made, and the cake made, and everything prepared !"
+" Certainly not ! certalnly not !" chimed his wife ; "and the dresses all made, and the cake made, and everything prepared !"
 
 It was May-day morning: and among the sightseers who thronged the churchyard was a party of Morris-dancers. These were young country fellows——most of them from Marcle who wore their best breeches, waistcoats, and hats, but no coats. Their shirt-sleeves were covered with circling rows of bits of ribbon, of every colour. Their hats were similarly covered. More ribbons were tied round their knees, with strings of little round bells that jingled as they walked. One of them carried a fiddle, another a triangle, and a third was grotesquely dreamed up in woman's clothes, with his face painted bright red, and was addressed by the name of " Molly." Another carried the long tail of a cow, with which to swing round and clear a space for the Morris-men as they danced. They had performed their uncouth gambols before several of the principal inns and houses in the town, and had already received so many presents of beer that they were looking hot and flushed.
 
