@@ -264,7 +264,7 @@ As well as the pressing consideration of whether the tradition is still extant:
 
 As in many casual asides in the correspondence of he time, the missionary zeal, and colonial outlook, of many of the discussants, is plainly evident.
 
-At this points, as befitted a society convened to study *archaeology*, and as such, relics of *the past*, the chairman felt the need to step in and remind the members of the historical focus of their discussions, whilst at the same time adding his own opinions as to *current* funeral customs into the debate:
+At this point, as befitted a society convened to study *archaeology*, and as such, relics of *the past*, the chairman felt the need to step in and remind the members of the historical focus of their discussions, whilst at the same time adding his own opinions as to *current* funeral customs into the debate:
 
 > The President hoped they were not entering into the history of present customs, but into the history of past events. It struck him that even at the present day when that melancholy event took place, the death of an individual, there was always a certain respect paid to the corpse : it was not closed in the coffin, but was left for a certain time for the inspection of friends ; the room was hung, the candles were lighted, and there was always a person in the room who remained during the time that exhibition took place. It was out of respect to the deceased that much ceremony took place, he could not regard it in any other light. It had been continued from time immemorial, and with every degree of respect he should entertain towards that custom there was nothing in it that he could exclaim against.
 
