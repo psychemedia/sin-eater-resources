@@ -32,9 +32,10 @@ parts:
   - file: _second_controversy_pt_ii
   - file: _second_controversy_pt_iii
   - file: _second_controversy_pt_iv
-- caption: What Next?
+- caption: Finale
   chapters:
-  - file: _forthcoming
+  - file: _ross
+  - file: _aftermath
 - caption: Appendices
   chapters:
   - file: _methodology
