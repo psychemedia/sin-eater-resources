@@ -365,7 +365,7 @@ The bride looked around, anxiously, helplessly.
 
 " Wilt thou have this man ?" —the parson was repeating, when, with a load scream that echoed through the aisles, Clara fell to the ground.
 
-Astonishment and comseternation were visible on every face.
+Astonishment and consternation were visible on every face.
 
 "Run for water," said the parson.
 
