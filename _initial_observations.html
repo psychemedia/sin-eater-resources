@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Initial Observations &#8212; On the Trail of the Sin-Eater</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_intro.html">
-   Introduction – Accounts and Stories
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_intro.html">
+                    Introduction – Accounts and Stories
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Initial Observations
  </span>
@@ -235,13 +250,13 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  What Next?
+  Finale
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="_forthcoming.html">
-   Forthcoming
+  <a class="reference internal" href="_ross.html">
+   The Sin-Eater of Ross
   </a>
  </li>
 </ul>
@@ -278,15 +293,25 @@ const thebe_selector_output = ".output, .cell_output"
    Index
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_biography.html">
+   Storynotes &amp; Biography
+  </a>
+ </li>
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -294,61 +319,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#the-founding-of-the-cambrian-archaeological-association-1846-7">
    The Founding of the Cambrian Archaeological Association, 1846-7
@@ -390,12 +471,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Initial Observations</h1>
@@ -453,28 +533,29 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="initial-observations">
-<h1>Initial Observations<a class="headerlink" href="#initial-observations" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="initial-observations">
+<h1>Initial Observations<a class="headerlink" href="#initial-observations" title="Permalink to this headline">#</a></h1>
 <p>Throughout the 18th century, there flourished a wide variety of “antiquarian” societies, whose members sought to recover empirical evidence of the past, from artefacts to scholarly researched and cross-referenced facts in the classical texts of antiquity, much as a naturalist might seek to collect from evidence of particular species of insect, fungus or plant in the environment from both specimens as well as much earlier writings.</p>
 <p>Remnants of the antiquarian way still exist today in the form of family history research and local history societies, where there is still some sense of trying to recover “facts” from the past (see, for example <a class="reference external" href="https://archives.history.ac.uk/makinghistory/resources/articles/antiquarianism.html"><em>Antiquarianism and history</em>, Roey Sweet, 2008</a> for an informal introduction).</p>
 <p>Writing in Chapter 53, <em>“Antiquarianism and History”</em>, p. 516, of <em>A Companion to Green And Roman Historiography, J. Marincola (Ed.), 2007</em> Benedetto Bravo identifies the role of the anitiquarian as follows:</p>
 <blockquote>
 <div><p>By using the adjective “antiquarian” to discuss several forms of the study of the past as it was practiced in antiquity, we highlight implicitly the existence of a certain affinity between these forms and a major trend in European culture of the fifteenth to eighteenth centuries, namely research by <em>antiquarii</em> (“antiquarians”). Early modern antiquarians studied the <em>antiquitates</em> (“antiquities”) of the ancient world (pagan and Christian) and of the Middle Ages. By the term antiquitates they meant surviving ancient or medieval artefacts (vestiges of architecture, sculpture, coins, inscriptions, manuscripts, utensils) or institutions, customs, laws, beliefs, ancient or medieval technology – or both categories simultaneously.</p>
 </div></blockquote>
-<div class="section" id="the-founding-of-the-cambrian-archaeological-association-1846-7">
-<span id="cambarch-founding"></span><h2>The Founding of the Cambrian Archaeological Association, 1846-7<a class="headerlink" href="#the-founding-of-the-cambrian-archaeological-association-1846-7" title="Permalink to this headline">¶</a></h2>
+<section id="the-founding-of-the-cambrian-archaeological-association-1846-7">
+<span id="cambarch-founding"></span><h2>The Founding of the Cambrian Archaeological Association, 1846-7<a class="headerlink" href="#the-founding-of-the-cambrian-archaeological-association-1846-7" title="Permalink to this headline">#</a></h2>
 <p>In the first part of the 19th century, the new kid on the block was <em>archaeology</em>. The British Archaeological Association (BAA) was founded in December, 1843, shortly followed by the formation of the <em>Archaeological Institute</em>. (There is probably a story in there somewhere about whether this was a set up by a disenchanted splinter group.)</p>
 <p>In January 1846, two Welsh clergyman, the Rev. Harry Longueville Jones and the Rev John Williams launched a richly illustrated journal of their own, <em>Archaeologia Cambrensis</em> (<em>Arch. Camb.</em>) (<a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1846-01_1_1">original issue, volume I, issue I</a>).</p>
 <blockquote>
 <div><p>In sending forth to the world this first number of the <em>Archaeologia Cambrensis</em>, we are desirous of making known to our numerous antiquarian friends and correspondents the deep sense we entertain of their spontaneous kindness, and, we may add, of the enthusiastic feeling with which they have participated in our arduous undertaking. We hope that we have struck a chord in the hearts of Welsh antiquaries that will resound not harshly in the ears of the Welsh public; and that, by describing and illustrating the antiquities of our dear native land, we shall meet with the lasting support and sympathy of all, who love those venerable and delightful associations connected with the very name of Wales. The many acts of courtesy which we have received from gentlemen, whom we have the honour of knowing only by name, are evidences of the interest with which the study of antiquities is pursued by all men of intelligent and cultivated minds; and they are to us auguries of good for the future.</p>
 </div></blockquote>
-<div class="margin sidebar">
+<aside class="margin sidebar">
 <p class="sidebar-title"></p>
 <p>Proceedings of the <em>Cambrian Archaeological Association</em> can be found in the Internet Archive collection <code class="docutils literal notranslate"><span class="pre">pub_archaeologia-cambrensis</span></code>.</p>
-</div>
+</aside>
 <p>The first article in the issue, authored by <em>H. L. J.</em> — which is to say, Harry Longueville Jones – provided context for the aims of the journal: <em>“On the Study and Preservation of National Antiquities”</em>. Other articles in that first issue included <em>An Account of the Civil War in North Wales</em> and papers on <em>Heraldry</em> and <em>Holy Wells</em> and many pages of correspondence.</p>
 <p>In issue III, published July 1846, the following <a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1846-07_1_3/page/281/mode/1up?q=correspondence">“Important Communication”</a> opened the <em>Correspondence</em> section:</p>
 <blockquote>
@@ -578,9 +659,9 @@ I remain yours faithfully,</p>
 </div></blockquote>
 <p>I, for one, can’t help thinking that the launch of the <em>Archaeologia Cambrensis</em>, followed by the “important communication” and the response of the editors, all seems a little too convenient. Was this, perhaps, a Welsh complement to the formation of the <em>Archaeological Institute</em> set up in competition to, or a reaction against, the British Archaeological Association?</p>
 <p>But that is perhaps best left for another day, and another possible investigation; because for now, we must return to our hunt for the history of the sin-eater.</p>
-</div>
-<div class="section" id="the-fifth-meeting-at-tenby-1851">
-<span id="cambarch-5th"></span><h2>The Fifth Meeting, at Tenby, 1851<a class="headerlink" href="#the-fifth-meeting-at-tenby-1851" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="the-fifth-meeting-at-tenby-1851">
+<span id="cambarch-5th"></span><h2>The Fifth Meeting, at Tenby, 1851<a class="headerlink" href="#the-fifth-meeting-at-tenby-1851" title="Permalink to this headline">#</a></h2>
 <p>At the fifth meeting of the Cambrian Archaeological Association in Tenby, at the end of August 1851, at the evening meeting on Monday, August 25th, Matthew Moggridge, Esq., read the following observations <em>“On the Preservation of Local Traditions”</em> as described in <a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1851-10_2_8/page/326/mode/2up?q=moggridge"><em>Archaeologia Cambrensis</em>, 1851-10: Vol 2 Iss 8</a>, p. 326:</p>
 <blockquote>
 <div><p>Having been engaged in the attempt to trace out ancient traditions, the origin of the names of places, and other things connected with the antiquities of the neighbourhood of Swansea, I was surprised to find how much information on these points has died out within these last few years. This process will go on in an increasing ratio. Traditions are no longer handed down from father to son, as in the olden time. Year by year we become more utilitarian; we occupy ourselves with the things not of the past, but of the present and the future. The spread of knowledge - of reading in particular— works towards the same end, and books take the place of oral communication. Let me not be understood to lament these changes, I only refer to them to show that we are living in a transition period, and that in another ten or twenty years, much of considerable interest, which may now be saved, will be lost for ever. I would therefore beg to suggest the organization of a regular plan for promoting inquiries on the above, or such other points, as to your Society may seem fit, through the medium of your members, and such other as may be disposed to employ a portion of their time in furthering this object.</p>
@@ -595,22 +676,24 @@ I remain yours faithfully,</p>
 <blockquote>
 <div><p>“In conclusion, I would quote, as exemplifying the object I have in view, one or two passages from a paper read before the Literary and Philosophical Society at Swansea.”—Mr. Moggridge then made a few extracts from the paper in question, and, in particular, mentioned as the origin of those “slangs” of land which are so often found in South Wales, mixed up with the estate of a distinct proprietor, the fact that it was at one time usual to gamble for small pieces of land.— “A similar custom to the last prevailed near St. Clear’s; but there it partook more of the character of wager of battle, the doughty champions being snails, who were to climb up a pole, the owner of the one who reached the summit first receiving the stakes.”</p>
 </div></blockquote>
-</div>
-<div class="section" id="the-sixth-meeting-at-ludlow-1852">
-<span id="cambarch-6th"></span><h2>The Sixth Meeting, at Ludlow, 1852<a class="headerlink" href="#the-sixth-meeting-at-ludlow-1852" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="the-sixth-meeting-at-ludlow-1852">
+<span id="cambarch-6th"></span><h2>The Sixth Meeting, at Ludlow, 1852<a class="headerlink" href="#the-sixth-meeting-at-ludlow-1852" title="Permalink to this headline">#</a></h2>
 <p>As eight o’clock struck on the evening of Monday, August 23rd, 1852, in the New Buildings at Ludlow, the Vice President of the Cambrian Archaeological Association, W. W. E. Wynne, Esq., M.P., called the sixth annual meeting of that learned association to order.</p>
 <p>On behalf of the absent President, the Right. Hon. the Earl Cawdor, the Vice-President resigned the chair to the President elect, the Hon. R. H. Clive, M.P., who then presented his inaugural address.</p>
 <p>The meeting as a whole was programmed through to Saturday morning, with daily excursions and meetings each evening. (The short excursion on Wednesday also allowed for a “morning” meeting starting at one o’clock that afternoon which included a paper “On the Deposit of Gold and Silver Coins in Wales” by Edward Rogers, Esq., Vice- President, who read a paper, followed by a short paper on Ludlow Church by R. Kyrke Penson, Esq.. The scene duly set, <em>“[t]he Society proceeded to the Church, where the principal architectural details were pointed out by Mr. Penson. They afterwards proceeded to the Castle, and spent some time in the examination of the magnificent ruins.”</em></p>
 <p>On the penultimate day of the meeting, the members gathered at the Feathers Inn at half-past nine in the morning for the Friday excursion. <em>The half-timbered building, a 17th century coaching inn, remains there still, with its original studded plank front door and bay windows moulded with curved mullions and transoms and cast diamond glazing. A <a class="reference external" href="https://historicengland.org.uk/listing/the-list/list-entry/1282026?section=official-listing">class 1 listed building [1282026]</a>, it is now known as the <a class="reference external" href="https://www.feathersatludlow.co.uk/">The Feathers Hotel</a> and looks well worth a visit.</em></p>
-<div class="figure align-default" id="ludlow-feathers">
+<figure class="align-default" id="ludlow-feathers">
 <img alt="https://framemark.vam.ac.uk/collections/2008BW5430/full/1400,/0/default.jpg" src="https://framemark.vam.ac.uk/collections/2008BW5430/full/1400,/0/default.jpg" />
-<p class="caption"><span class="caption-number">Fig. 1 </span><span class="caption-text">Feathers Hotel, Ludlow, c.1850-1870; Francis Frith; <a class="reference external" href="https://collections.vam.ac.uk/item/O216410/feathers-hotel-ludlow-photograph-frith-francis/feathers-hotel--ludlow-photograph-francis-frith/">V&amp;A Collections</a></span><a class="headerlink" href="#ludlow-feathers" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 1 </span><span class="caption-text">Feathers Hotel, Ludlow, c.1850-1870; Francis Frith; <a class="reference external" href="https://collections.vam.ac.uk/item/O216410/feathers-hotel-ludlow-photograph-frith-francis/feathers-hotel--ludlow-photograph-francis-frith/">V&amp;A Collections</a></span><a class="headerlink" href="#ludlow-feathers" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>Their first stop was the Priory Church at Leominster, whence they arrived shortly after eleven o’clock. This is well over a 10 mile trip, so they must have had transport of some sort.</p>
 <p>According to the <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002">Hereford Journal of Wednesday, September 1st, 1852</a>, after Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch.  The whole circular trip covered a 30 mile journey or so.</p>
-</div>
-<div class="section" id="the-sin-eater-as-according-to-moggridge">
-<h2>“The Sin-Eater”, As According to Moggridge<a class="headerlink" href="#the-sin-eater-as-according-to-moggridge" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="the-sin-eater-as-according-to-moggridge">
+<h2>“The Sin-Eater”, As According to Moggridge<a class="headerlink" href="#the-sin-eater-as-according-to-moggridge" title="Permalink to this headline">#</a></h2>
 <p>The evening programme that day convened at half-past seven o’clock, with the President, the Hon R. H. Clive, M.P., in the chair. It commenced with the reading of a paper on the <em>History of the Parish of Carno, Montgomeryshire</em> by T. O. Morgan, Esq., of Aberystwyth, and dollowing a vote of thanks to Mr. Morgan, “enthusiastically accorded by the meeting”, an apparently short discussion on <em>Municipal records of Ludlow</em>.” Matthew Moggridge, Esq., reporting on the latest of his researches in the Swansea valley alluded to in the paper he read at the fifth meeting the precious year in Tenby, on <em>“On the Preservation of Local Traditions”</em>, then proceeded to make some observations the <em>“Custom of the Sin Eater in Cwm Ammon Valley”</em>.</p>
 <div class="tip admonition">
 <p class="admonition-title">Cwm Ammon</p>
@@ -662,7 +745,7 @@ I remain yours faithfully,</p>
 <div><p>Jelinger C. Symonds, Esq. would like to know whether or not this custom of sin-eating was extinct. If not, to send missionaries abroad would be a farce, while they had customs so disgusting at home.</p>
 </div></blockquote>
 <p>As in many casual asides in the correspondence of he time, the missionary zeal, and colonial outlook, of many of the discussants, is plainly evident.</p>
-<p>At this points, as befitted a society convened to study <em>archaeology</em>, and as such, relics of <em>the past</em>, the chairman felt the need to step in and remind the members of the historical focus of their discussions, whilst at the same time adding his own opinions as to <em>current</em> funeral customs into the debate:</p>
+<p>At this point, as befitted a society convened to study <em>archaeology</em>, and as such, relics of <em>the past</em>, the chairman felt the need to step in and remind the members of the historical focus of their discussions, whilst at the same time adding his own opinions as to <em>current</em> funeral customs into the debate:</p>
 <blockquote>
 <div><p>The President hoped they were not entering into the history of present customs, but into the history of past events. It struck him that even at the present day when that melancholy event took place, the death of an individual, there was always a certain respect paid to the corpse : it was not closed in the coffin, but was left for a certain time for the inspection of friends ; the room was hung, the candles were lighted, and there was always a person in the room who remained during the time that exhibition took place. It was out of respect to the deceased that much ceremony took place, he could not regard it in any other light. It had been continued from time immemorial, and with every degree of respect he should entertain towards that custom there was nothing in it that he could exclaim against.</p>
 </div></blockquote>
@@ -715,9 +798,9 @@ I remain yours faithfully,</p>
 </div></blockquote>
 <p>And so we have it, the first part of tale. But already there are some pieces missing from that report: who were Moggridge’s clerical correspondents, what evidence did he have of sin-eating in the 1840s, and what was the account given by “Aubrey”?</p>
 <p>To answer at least one of those questions, we need to look to another report of the meeting, this time on <a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1852-10_3_12/page/332/mode/2up">Volume 3, Issue 12, page 332, of <em>Archaeologia Cambrensis</em></a>, the Cambrian Archaeological Association, dated October, 1852).</p>
-</div>
-<div class="section" id="other-news-reports">
-<h2>Other News Reports<a class="headerlink" href="#other-news-reports" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="other-news-reports">
+<h2>Other News Reports<a class="headerlink" href="#other-news-reports" title="Permalink to this headline">#</a></h2>
 <p>As well as the Shrewsbury Chronicle, reports of the “The Cambrian Archaeological Association at Ludlow” also appeared in the <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002">Hereford Journal of Wednesday, September 1st, 1852</a> and</p>
 <p>The <em>Hereford Journal</em> description of the first part of Friday evening’s meeting introduces the notion that the age of Christian enlightment was extinguishing the practise of sin-eating</p>
 <blockquote>
@@ -739,9 +822,9 @@ The President considered that the object of the inquiry was that we might unders
 <p>Mr. Wynne said believed it was used in Merionethshire to prevent decomposition of the body.</p>
 </div></blockquote>
 <p>As we later try to ascertain the development, and provenance, of the development of the sin-eater history, this additional fragments may help us identify by what source various authors came to their conclusions.</p>
-</div>
-<div class="section" id="the-official-account-according-to-archaeologia-cambrensis-1852">
-<h2>The “Official” Account According to <em>Archaeologia Cambrensis</em>, 1852<a class="headerlink" href="#the-official-account-according-to-archaeologia-cambrensis-1852" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="the-official-account-according-to-archaeologia-cambrensis-1852">
+<h2>The “Official” Account According to <em>Archaeologia Cambrensis</em>, 1852<a class="headerlink" href="#the-official-account-according-to-archaeologia-cambrensis-1852" title="Permalink to this headline">#</a></h2>
 <p>In many respects, the official record of the meeting in the journal of the Cambrian Archaeological Association follows that of Shrewsbury Chronicle, down to an exact match in some of the phrases, although it must be said, with some occasional omission.</p>
 <p>So let us retrace our steps, and see what the official record in the following month’s <a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1852-10_3_12/page/332/mode/2up"><em>Archaeologia Cambrensis</em>, October 1852, Vol 3, Issue 12, p330-332</a> has to say on the matter and return to the start of the discussion. (We shall not tend use such an exhaustive approach <em>in general</em>, but it may well prove instructive in this case.) Mr. Morgan has been enthusiastically accorded a vote of thanks by the meeting for his paper on the <em>History of the Parish of Carno, Montgomeryshire</em>, there has been a short discussion on <em>Municipal records of Ludlow</em>, and Mr. Moggridge has taken the floor.</p>
 <blockquote>
@@ -801,9 +884,9 @@ The President considered that the object of the inquiry was that we might unders
 <p>After some few observations from Henry Hodges, Esq., and W. W. E. Wynne, Esq.,</p>
 </div></blockquote>
 <p>The last point to note is that in the official report, there was no mention of the vote of thanks. Whether this was by omission, or by design on grounds of formality, we might never know…</p>
-</div>
-<div class="section" id="following-the-meeting">
-<h2>Following the Meeting<a class="headerlink" href="#following-the-meeting" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="following-the-meeting">
+<h2>Following the Meeting<a class="headerlink" href="#following-the-meeting" title="Permalink to this headline">#</a></h2>
 <p>In the aftermath of the meeting, it seems that one of the questioners at least was not satisifed with the evidence provided by Mr. Moggridge and turned to a social media site of the time, the recently launched <em>Notes and Queries</em>, for assistance.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">William Thoms and <em>Notes &amp; Queries</em></p>
@@ -844,8 +927,8 @@ Dublin.</p>
 <p>E. B.</p>
 </div></blockquote>
 <p>At this point, I suspect my classical languages will fail me if I try to pursue some of those references much further!</p>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -869,9 +952,11 @@ Dublin.</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="_beginning.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -887,24 +972,28 @@ Dublin.</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2021.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

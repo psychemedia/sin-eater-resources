@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Missed Opportunities, Prior to 1830 &#8212; On the Trail of the Sin-Eater</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_intro.html">
-   Introduction – Accounts and Stories
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_intro.html">
+                    Introduction – Accounts and Stories
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Initial Observations
  </span>
@@ -235,13 +250,13 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  What Next?
+  Finale
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="_forthcoming.html">
-   Forthcoming
+  <a class="reference internal" href="_ross.html">
+   The Sin-Eater of Ross
   </a>
  </li>
 </ul>
@@ -278,15 +293,25 @@ const thebe_selector_output = ".output, .cell_output"
    Index
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_biography.html">
+   Storynotes &amp; Biography
+  </a>
+ </li>
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -294,61 +319,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#pennant-s-tours-in-wales-1783">
    Pennant’s
@@ -413,12 +494,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Missed Opportunities, Prior to 1830</h1>
@@ -499,16 +579,17 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="missed-opportunities-prior-to-1830">
-<h1>Missed Opportunities, Prior to 1830<a class="headerlink" href="#missed-opportunities-prior-to-1830" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="missed-opportunities-prior-to-1830">
+<h1>Missed Opportunities, Prior to 1830<a class="headerlink" href="#missed-opportunities-prior-to-1830" title="Permalink to this headline">#</a></h1>
 <p>Our story to date has tracked back through the sources originally identified from Mr. Matthew Moggridge’s observations to the Cambrian Archaeological Society in 1852, as well as the reports and queries that arose directly from that event.</p>
 <p>These references include Hone’s Year Book, 1831-32, the second edition of Leland’s <em>Collectanea</em>, edited by Thomas Hearne and published in 1774, and various edition’s of Brand’s <em>Observations on the popular antiquities</em> as edited by Henry Ellis in a version dating back to 1813. All these sources draw ultimately on John Aubrey’s manuscript, as well, perhaps as conversation with him, that can be found as part of the Lansdowne manuscripts held by the British Library.</p>
 <p>In this chapter, we’ll see whether there were any other popular, or at least, published sources that Moggridge might have overlooked, or been unaware of, that were published prior to his talk in September, 1852.</p>
-<div class="section" id="pennant-s-tours-in-wales-1783">
-<span id="tiwpn-1783"></span><span id="index-0"></span><h2>Pennant’s <em>Tours in Wales</em>, 1783<a class="headerlink" href="#pennant-s-tours-in-wales-1783" title="Permalink to this headline">¶</a></h2>
+<section id="pennant-s-tours-in-wales-1783">
+<span id="tiwpn-1783"></span><span id="index-0"></span><h2>Pennant’s <em>Tours in Wales</em>, 1783<a class="headerlink" href="#pennant-s-tours-in-wales-1783" title="Permalink to this headline">#</a></h2>
 <p>The first item worthy of note is <a class="reference external" href="https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.002/K105973.002.html?sequence=5&amp;isAllowed=y">part 2</a> of <em>A Tour in Wales</em> by Thomas Pennant, first published in 1783 but recalling a tour from several years previously. (See also: <a class="reference external" href="https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K105973.001/K105973.001.html?sequence=5&amp;isAllowed=y">part 1</a> and <a class="reference external" href="https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/K112026.000/K112026.000.html?sequence=5&amp;isAllowed=y"><em>A Tour in Scotland</em></a>) The “Advertisement” at the front of the book is signed off by Downing on March 1st, 1781.</p>
 <p>On page 338, we find the following reference to a funeral custom involving a food offering, drink and a payment made to a poor visitor:</p>
 <blockquote>
@@ -520,9 +601,9 @@ const thebe_selector_output = ".output, .cell_output"
 <div><p>THE well of St. Aelian, a parish not far from Llandrillo in Caernarvonshire, has been in great repute for the cures of all diseases, by means of the intercession of the saint; who was first invoked by earnest prayers in the neighboring church. He was also applied to on less worthy occasions, and made the instrument of discovering thieves, and of recovering stolen goods. Some repair to him to imprecate their neighbors, and to request the saint to afflict with sudden death, or with some great misfortune, any persons who may have offended them. The belief in this is still strong; for three years have not elapsed since I was threatened by a fellow (who imagined I had injured him) with the vengeance of St. Aelian, and a journey to his well to curse me with effect.</p>
 </div></blockquote>
 <p>In this case, it seems that prayers at to a holy well associated with St Aelian can be used to call forth a curse on one who has wronged the person uttering the imprecation. It’s not clear what the process for “discovering thieves” is, but I am intrigued to find out.</p>
-</div>
-<div class="section" id="channeling-pennant-roberts-cambrian-popular-antiquities-1815">
-<span id="index-1"></span><h2>Channeling Pennant - Roberts’ <em>Cambrian Popular Antiquities</em>, 1815<a class="headerlink" href="#channeling-pennant-roberts-cambrian-popular-antiquities-1815" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="channeling-pennant-roberts-cambrian-popular-antiquities-1815">
+<span id="index-1"></span><h2>Channeling Pennant - Roberts’ <em>Cambrian Popular Antiquities</em>, 1815<a class="headerlink" href="#channeling-pennant-roberts-cambrian-popular-antiquities-1815" title="Permalink to this headline">#</a></h2>
 <p>Potentially a source of confusion in the naming, Peter Roberts’ 1815 work <a class="reference external" href="https://archive.org/details/cambrianpopular00robegoog/page/n196/mode/2up"><em>“The Cambrian Popular Antiquities”</em></a>, or to give it it’s full name, <em>The Cambrian Popular Antiquities, or, an account of some traditions, customs, and superstitions of Wales, with observations as to their origins</em>, includes a section on <em>Burials</em>, p173-8. This makes <em>no mention</em> at all of the sin-eater tradition, which suggests either “censorship”, or that Roberts’ was not failialr with the tradition in the Welsh context at least:</p>
 <p>The relevant chapter opens with some comments on the potential motivations for ceertain funeral customs:</p>
 <blockquote>
@@ -572,9 +653,9 @@ const thebe_selector_output = ".output, .cell_output"
 <div><p>After that the corpse has been brought into the church, and the lesson has been read, it is the custom, in some parts of North Wales, that a psalm is. sung, and the clergyman being at the altar, while the psalm is singing, those who attend the funeral as friends of the deceased, approach the altar in succession, and lay
 on a small bracket (which is provided for the purpose) an offering of money, according to the wealth of the oflferer, and the respect for the deceased. This offering has been considered, as originally intended to pay for masses for the soul of the deceased ; but, I believe, it was originally an offering for the support of the clergy- man, as the custom is not, that I have been able to learn, known in England ; and the clergy of the ancient British church were supported chiefly by voluntary offerings on the public occasions. In other respects, the funeral is conducted generally as in England ; but when the service is over, the friends who have attended it do, in many places, kneel down at the grave, and say the Lord’s prayer before they depart from it, and for several succeeding Sundays they repair to the grave, and do the same. In many parts, and especially in South Wales, the friends of the deceased take much and laudable pains to deck the grave with flowers. A bordering of slates or stones, is nicely run around it, and the top bound in by stones laid with taste, in a tesselated manner, which has an ornamental effect, whist it remains a monument of a pious affection, gratified in paying its last tribute to a beloved or revered object.</p>
 </div></blockquote>
-</div>
-<div class="section" id="john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800">
-<span id="index-2"></span><h2>John Evans’ <em>A tour through part of North Wales in the year 1798</em>, 1800<a class="headerlink" href="#john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800">
+<span id="index-2"></span><h2>John Evans’ <em>A tour through part of North Wales in the year 1798</em>, 1800<a class="headerlink" href="#john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800" title="Permalink to this headline">#</a></h2>
 <p>John Evans’ <a class="reference external" href="https://archive.org/details/b22036118/page/n11/mode/2up?q=corpse"><em>A tour through part of North Wales in the year 1798</em></a>, published in 1800, collates a series of letters describing his travels of a couple of years previoulsy. The following is an excerpt from letter XIII, on pp 362-5, in which various funeral customs are described:</p>
 <blockquote>
 <div><p>Previous to a funeral it is usual for the friends of the deceased to meet in the apartment where the corpse is placed ; some of them, generally the female part, kneel round it, and weeping bitterly, lament and bewail the loss of their departed friend. When it is brought to the door, one of the relations gives bread and cheese and beer over the coffin to some poor persons of the same sex, and nearly of the same age with the dead, for collecting herbs and flowers to put into the coffin with the body ; some-times a loaf, with a piece of money stuck in it, is added. This done, all present kneel down, and the minister, if present, repeats the Lord’s Prayer. At every cross-way they stop, and the same ceremony is repeated, till they arrive at the church. Frequently the intervals are filled up by singing of psalms and hymns, which amidst the stillness of rural life, and the echo from the hills, produces a melancholy effect ; and adds to the sombre solemnity of the occasion.</p>
@@ -587,9 +668,9 @@ on a small bracket (which is provided for the purpose) an offering of money, acc
 <blockquote>
 <div><p>After the general thanksgiving, the minister goes to the communion-table, where he reads the two prayers which are usually, in other places, read at the grave; and then concludes with the prayer of St. Chrysostom and the Valete Grace. This done, he remains at the table till the nearest relation of the deceased comes up and deposits an Obituary Offering. If it be a person of consequence, the sum is a guinea or more ; if a farmer or tradesman, a crown; if a poor man, six-pence : the next of kin then follow the example, offering sometimes as much, and sometimes less than the first : the rest of the congregation, who intend to offer silver, follow, when a solemn pause ensues ; and the rest of the congregation offer pence : but pence are never offered at genteel funerals. The offerings on these occasions frequently amount to eight or ten pounds.<code class="docutils literal notranslate"><span class="pre">[Those</span> <span class="pre">of</span> <span class="pre">Caernarvon</span> <span class="pre">amount</span> <span class="pre">to</span> <span class="pre">little</span> <span class="pre">short</span> <span class="pre">of</span> <span class="pre">one</span> <span class="pre">hundred</span> <span class="pre">pounds</span> <span class="pre">per</span> <span class="pre">annum.]</span></code> This is certainly a relict of Popery, and was no doubt formerly intended as an acknowledgement to the priest for praying for the welfare of the departed soul ; as a composition for a short residence in purgatory; or perhaps for any failure in the payment of tythes and oblations, and is termed <em>Arian Rhiew</em>. Though still continued, it is now only considered as a small tribute of esteem to the memory of the deceased, and as a mark of attention to the resident clergy.</p>
 </div></blockquote>
-</div>
-<div class="section" id="bingley-s-north-wales-1804">
-<span id="nwbng"></span><h2>Bingley’s <em>North Wales</em>, 1804<a class="headerlink" href="#bingley-s-north-wales-1804" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="bingley-s-north-wales-1804">
+<span id="nwbng"></span><h2>Bingley’s <em>North Wales</em>, 1804<a class="headerlink" href="#bingley-s-north-wales-1804" title="Permalink to this headline">#</a></h2>
 <p>Next up comes William Bingley’s <em>North Wales; including its scenery, antiquities, customs, and some sketches of its natural history, delineated from two excursions through all the interesting parts of that country, during the summers of 1798 and 1801</em>, and published, in two volumes, in 1804.</p>
 <p>In the <a class="reference external" href="https://archive.org/details/northwalesinclud02bing/page/278/mode/2up">second volume</a>, p279, as part of a section on the <em>The Manners and Customs of the Welsh</em>, Bingley also picks up on the ritual identified by Pennant of a wronged person calling on St Aeilian to curse someone who has wronged them:</p>
 <blockquote>
@@ -640,9 +721,9 @@ on a small bracket (which is provided for the purpose) an offering of money, acc
 <div><p>It had its name from the custom, which is now discontinued, of the female relative giving to the person a piece of cheese with the money stuck in it, some white bread, and afterwards a cup of ale. — When this previous ceremony is over, the clergyman, or, in his absence, the parish clerk, repeats the Lord’s prayer ; after which they proceed with the body to the church. Four of the next of kin take the bier upon their shoulders ; a custom which is considered as expressive of the highest mark that even filial piety can pay to the deceased. If the distance from the house to the church be considerable, they are relieved by some of the congregation ; but they always take it again before they arrive at the church. — I have been informed that in some parts of the country it is usual to set the bier down at every cross-way, and again when they enter the church-yard, and at each of these places to repeat the Lord’s prayer.</p>
 </div></blockquote>
 <p>What we should take away from this, perhaps, is the word <em>Diodlys</em> as somehow referencing or describing elements of this tradition; and the apparent confusion over whether this tradition is to be found in North or South Wales.</p>
-</div>
-<div class="section" id="jorevin-s-description-of-england-and-ireland-in-the-antiquarian-repertory-1775">
-<span id="index-3"></span><h2>Jorevin’s “Description of England and Ireland” in <em>The Antiquarian Repertory</em>, 1775<a class="headerlink" href="#jorevin-s-description-of-england-and-ireland-in-the-antiquarian-repertory-1775" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="jorevin-s-description-of-england-and-ireland-in-the-antiquarian-repertory-1775">
+<span id="index-3"></span><h2>Jorevin’s “Description of England and Ireland” in <em>The Antiquarian Repertory</em>, 1775<a class="headerlink" href="#jorevin-s-description-of-england-and-ireland-in-the-antiquarian-repertory-1775" title="Permalink to this headline">#</a></h2>
 <p>In <a class="reference external" href="https://archive.org/details/antiquarianreper02gros/page/n321/mode/2up?q=jorevin">Volume II</a> of a “new edition” of <em>The Antiquarian repertory : a miscellaneous assemblage of topography, history, biography, customs, and manners ; intended to illustrate and preserve several valuable remains of old times</em> by Francis Grose and Thomas Astle, published in 1775, the authors quote widely from an account Monsieur Jorevin de Rocheford’s 17th century travels in England, Ireland and Scotland.</p>
 <p>On <a class="reference external" href="https://archive.org/details/antiquarianreper02gros/page/102/mode/2up?q=SCHROSBERY">p100-102</a>, Jorevin describes his travels through Shrewsbury, which includes an account of a funeral there. The account opens with a description of his initial thoughts on entering Shrewsbury:</p>
 <blockquote>
@@ -658,9 +739,9 @@ at the entrance there is a suburb, the church of which appears to me to have for
 <blockquote>
 <div><p>This being finished, six men took up the corps and carried it on their shoulders to the church ; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough; the other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where having placed the body on tressels and taken off the cloth from the coffin, which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chafed in the manner of a buffet. The minister then ascended his pulpit, and every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of the Holy Scripture concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation ; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaus in the earth with which the corps was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester, and having passed over a large desart plain, I reached Addar, Morton, and a Castle. The country here is barren ; passed a river near a windmill ; from thence to Pries and Vitechurch on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns all alone ; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.</p>
 </div></blockquote>
-</div>
-<div class="section" id="fosbroke-s-ariconensia-archaeological-sketches-of-ross-and-archenfield-1821">
-<span id="arico"></span><span id="index-4"></span><h2>Fosbroke’s <em>Ariconensia / Archaeological sketches of Ross and Archenfield</em>, 1821<a class="headerlink" href="#fosbroke-s-ariconensia-archaeological-sketches-of-ross-and-archenfield-1821" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="fosbroke-s-ariconensia-archaeological-sketches-of-ross-and-archenfield-1821">
+<span id="arico"></span><span id="index-4"></span><h2>Fosbroke’s <em>Ariconensia / Archaeological sketches of Ross and Archenfield</em>, 1821<a class="headerlink" href="#fosbroke-s-ariconensia-archaeological-sketches-of-ross-and-archenfield-1821" title="Permalink to this headline">#</a></h2>
 <p>If there is further evidence or anecdotes surrounding the existence of the sin-eater on the “Rosse highway”, then an 1821 work by Thomas Dudley Fosbroke entitled <a class="reference external" href="https://archive.org/details/cu31924104094986/page/n89/mode/2up?q=singular"><em>Ariconensia, or, Archaeological sketches of Ross and Archenfield</em></a>, “illustrative of the campaigns of Caractacus, the station Ariconium, &amp;c, with other matters never before published”, is perhaps a good place to look, particularly if it includes <em>“other matters never before published”</em>.</p>
 <p>Unfortunately, there is no new information, just a restatement of Aubrey’s comments from the Lansdowne manuscripts via Brand’s <em>Popular Antiquities</em>.</p>
 <div class="dropdown admonition">
@@ -680,9 +761,9 @@ at the entrance there is a suburb, the church of which appears to me to have for
 <div><p>Formerly flowers were strewed before young couples, in their way to church. The author once saw a malicious caricature of this custom. Nosegays of rue enclosing a piece of half-eaten bread and butter were dropt in the church-path and porch by a deserted female, in order to denote an unhappy wedding. Stephens, in his plaine Country Bridegroom, p. 353, says “He shews neere affinity betwixt Marriage and Hanging ; and to that purpose, he provides a great Nosegay, and shakes hands with every one he meets, as if he were now preparing for a condemned man’s voyage. [Popular Antiq. ii. 48]</p>
 </div></blockquote>
 <p>In the hands of a storyteller, however, we might be able to weave a story that develops the notion of “half-eaten” bread, perhaps suggesting that not even a sin-eater would absolve the groom of the sin of spurning a woman he was perhaps previously betrothed to!</p>
-</div>
-<div class="section" id="further-channelling-of-brand-s-popular-antiquities">
-<h2>Further Channelling of Brand’s <em>Popular Antiquities</em><a class="headerlink" href="#further-channelling-of-brand-s-popular-antiquities" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="further-channelling-of-brand-s-popular-antiquities">
+<h2>Further Channelling of Brand’s <em>Popular Antiquities</em><a class="headerlink" href="#further-channelling-of-brand-s-popular-antiquities" title="Permalink to this headline">#</a></h2>
 <p>In both the <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18221102/016/0003"><em>Morning Herald (London)</em></a> and the <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18221102/018/0003"><em>English Chronicle and Whitehall Evening Post</em></a> on Saturday, November 2nd, 1822, in a column on <em>“CUSTOMS AT DEATHS.”</em>, several traditions are cited as coming from “<em>The Vulgar Errors</em> of Browne, with the interesting notes and additions of Mr. Ellis, recently published”. There is indeed a work by one Sir Thomas, <em>“Pseudodoxia Epidemica or Enquiries into very many received tenents and commonly presumed truths</em> which was also known by the simpler title <em>“Vulgar Errors”</em>.</p>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">Sir Thomas Browne</p>
@@ -807,8 +888,8 @@ To buy him a Hunting Nag—</p>
 <p>Leave we now, Sir Lambert, a while, and let us rehearse what happen’d at the councel of safety, of which the Seer Warreston was chief president, who was a right notable knave, and exceeding salacious, as you shall understand by that which follows. There was a lady at that time, who had certain sad occasions to visit the councel of safety for the redress of certain grievances, but could never find a fit opportunity to deliver her supplication ; but at length finding that the Seer Warreston was all alone in the councel chamber, she prevail’d with money of the dore-keeper to let her in. When she came in, she appeared right comely unto the seer, and related her story unto him with such a grace, that he was straightway enamoured of her ; quoth he, ‘Well do you deserve, fair lady, to have your petition granted, but should I grant you your petition, would you grant me mine ?’ ‘Alas!’ said the lady, ‘it is not for you to petition, who have so much power in your hands.’ ‘Ah !’ replyed the seer, ‘you have wounded me ; and I hope you will cure the wound which you have made,’ and saying these words, he pulled her by the gown upon his knee, as he sate in his great chair, and would have kissed her. The lady, not ignorant how much coyness inflamed, made great resistance; but the more she resisted, the more was he on fire ; so that there was exceeding great contention and struggling between them ; at length the lustful seer being the stronger, had thrown her upon the councel table, and there laid her flat on her back, where at length she gave him leave to quench his desires with the spoils of her seeming chastity, on condition that he would grant her request. He had no sooner finished, but in came Sir Fleetwood the contemptible knight, and some others, who seeing the seer in a strange posture, with his band rumpled, his cap off, the sleeve of his gown torn, and his face more redder than ordinary, desired to know of him what had happened unto him. The seer not at all abashed, told them the whole story, who entered thereupon into great consultations among themselves. Some were of an opinion, that since the Seer Warestons genealogy was likely to increase, that the souldan should allow him a larger stipend. One stood up, and said it was requisite that the contemptible knight, and the knight of the allegories, should be sent to the temple of the gods, La potta del Papa Giovanna, to enquire of the oracle whether it were a boy or a girl, that provision for the birth and education might be made accordingly. Others were of opinion that ‘twas convenient to know what his name should be. This debate took up above a weeks time, with continual pro’s and con’s, and at length they concluded that, if it were a boy, he should be called by the name of young Finbrandus, and that he should be sent to the enchanted castle Newgate, to be bred up in all the secrets of that place, by the several gyants that frequented the castle ; but if it were a girle, that she should be delivered to witch Creswellia [Mother Cresswell was an infamous procuress of the time], to be taught all kind of sorceries and enchantments ; and so the councel was dismist for that time.</p>
 </div></blockquote>
 </div>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -832,9 +913,11 @@ To buy him a Hunting Nag—</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="_mazard_bowl.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -850,24 +933,28 @@ To buy him a Hunting Nag—</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2021.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

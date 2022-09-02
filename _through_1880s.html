@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Through the 1880s &#8212; On the Trail of the Sin-Eater</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_intro.html">
-   Introduction – Accounts and Stories
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_intro.html">
+                    Introduction – Accounts and Stories
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Initial Observations
  </span>
@@ -235,13 +250,13 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  What Next?
+  Finale
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="_forthcoming.html">
-   Forthcoming
+  <a class="reference internal" href="_ross.html">
+   The Sin-Eater of Ross
   </a>
  </li>
 </ul>
@@ -278,94 +293,172 @@ const thebe_selector_output = ".output, .cell_output"
    Index
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_biography.html">
+   Storynotes &amp; Biography
+  </a>
+ </li>
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
-</div>
-
-
-          
-
-
-          
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
-    
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
             
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
-        
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
-    </div>
-</div>
-
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
-        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
-    <div class="dropdown-buttons">
-        
-        <a class="binder-button" href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/master?urlpath=tree/_through_1880s.md"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
-                data-placement="left"><img class="binder-button-logo"
-                    src="_static/images/logo_binder.svg"
-                    alt="Interact on binder">Binder</button></a>
-        
-        
-        
-        
-    </div>
-</div>
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
             </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<div class="menu-dropdown menu-dropdown-launch-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Launch interactive content">
+      <i class="fas fa-rocket"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/master?urlpath=tree/_through_1880s.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Launch on Binder"
+>
+  
+
+<span class="headerbtn__icon-container">
+  
+    <img src="_static/images/logo_binder.svg">
+  </span>
+<span class="headerbtn__text-container">Binder</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#around-and-about">
    Around and About
@@ -471,12 +564,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Through the 1880s</h1>
@@ -598,15 +690,16 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="through-the-1880s">
-<h1>Through the 1880s<a class="headerlink" href="#through-the-1880s" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="through-the-1880s">
+<h1>Through the 1880s<a class="headerlink" href="#through-the-1880s" title="Permalink to this headline">#</a></h1>
 <p>Throughout the 1880s, occasional references to the sin-eater occurs in various <em>Notes and Queries</em> style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.</p>
 <p>Of these full length works, two publications perhaps stand out in particular: Paxton Hood’s <em>Christmas Evans</em>, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey’s manuscripts, <em>Remaines of Gentilisme</em> by James Britten.</p>
-<div class="section" id="around-and-about">
-<h2>Around and About<a class="headerlink" href="#around-and-about" title="Permalink to this headline">¶</a></h2>
+<section id="around-and-about">
+<h2>Around and About<a class="headerlink" href="#around-and-about" title="Permalink to this headline">#</a></h2>
 <p>In Salopian Shreds and Patches in Eddowe’s Journal of <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001502/18800512/132/0006">May 12th, 1880</a>, p6, Bagford’s observations on Aubrey are noted and comment is passed on no mention of salt.</p>
 <div class="dropdown admonition">
 <p class="admonition-title"><em>Eddowe’s Journal</em>, May 12th, 1880</p>
@@ -637,8 +730,8 @@ const thebe_selector_output = ".output, .cell_output"
 <p>THE WELSH “SIN EATER.</p>
 <p>“I have been told that this old custom used to obtain in some parts of Breconshire. Didn’t one of the Awbreys (possibly John, the antiquary) write something about the “Sin Eaters?” What did it all mean, and where did it take place ? LLANGORSE EEL.</p>
 </div></blockquote>
-<div class="section" id="red-dragon-1884-6">
-<span id="index-0"></span><h3><em>Red Dragon</em>, 1884-6<a class="headerlink" href="#red-dragon-1884-6" title="Permalink to this headline">¶</a></h3>
+<section id="red-dragon-1884-6">
+<span id="index-0"></span><h3><em>Red Dragon</em>, 1884-6<a class="headerlink" href="#red-dragon-1884-6" title="Permalink to this headline">#</a></h3>
 <p>In the Red Dragon of <a class="reference external" href="https://archive.org/details/reddragon01wilkgoog/page/476/mode/2up?q=sin">November, 1884</a>, p477, one curious reader picking up on the major review article on the sin-eater by Askew Roberts thay had appeared May, 1883, volume III edition, enquiring about the actual reference in Aubrey to the sin-eater:</p>
 <blockquote>
 <div><p>Notes and Queries</p>
@@ -685,9 +778,9 @@ const thebe_selector_output = ".output, .cell_output"
 <p>I wish some of your correspondents would either drop all personalities, or make sure of their ground before indulging in them. In your November number Mr. Geo. H. Brierley (Oswestry),replying to a question of mine on this subject, begins by saying that “had ‘Blackletter Folio’ referred to Brand he would have found there all the information needed.”. It is bad enough to impute ignorance of Brand to a man when he really deserves it, as I, on this occasion at any rate, most certainly do not, for I say in the very query to which Mr. Brierley replies (vi.—477), that “Brand in his Popular Antiquities quotes Aubrey… . but does not (at least not in my copy) give a reference.”</p>
 <p><em>Cardiff</em> Blackletter Folio.</p>
 </div></blockquote>
-</div>
-<div class="section" id="cardiff-times-1885">
-<h3><em>Cardiff Times</em>, 1885<a class="headerlink" href="#cardiff-times-1885" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="cardiff-times-1885">
+<h3><em>Cardiff Times</em>, 1885<a class="headerlink" href="#cardiff-times-1885" title="Permalink to this headline">#</a></h3>
 <p>In late spring and early summer of 1885, there was a brief flurry of correspondence on the topic of the sin-eater in the <em>Cardiff Times</em>, initiated by a reader who saw mention of it in the  <em>Newcastle Weekly Chronicle</em> and wrote as follows in the edition of  <a class="reference external" href="https://newspapers.library.wales/view/3422645/3422650/74/">May 16th, 1885</a>, p5:</p>
 <blockquote>
 <div><p>Questions</p>
@@ -720,9 +813,9 @@ const thebe_selector_output = ".output, .cell_output"
 
 </p><p><span style="background: #69E2FB;">In a certain county</span> in <span style="background: #69E2FB;">Wales,</span> some <span style="background: #69E2FB;">years ago when a</span> person <span style="background: #69E2FB;">died,</span> his friends sent for the sin-eater of the district, who, for <span style="background: #69E2FB;">half-a-crown,</span> took upon himself the sins of the deceased, by the simple process of eating them A loaf of bread was provided, which the sin-eater first placed upon the dead <span style="background: #69E2FB;">mans</span> chest, then muttered some incantations over it, finally eating it <span style="background: #69E2FB;">By this</span> he was believed to have taken from the <span style="background: #69E2FB;">deceased</span> the heavy weight of his sins, <span style="background: #69E2FB;">appropriating</span> them to himself, for which act of kindness he was regarded by everybody as <span style="background: #69E2FB;">an</span> outcast <span style="background: #69E2FB;">After the ceremony was finished, and he had received his pay, the sin-devourer vanished in double-quick time, it being the usual custom for the bereaved friends to belabour him with sticks </span></p><p><span style="background: #69E2FB;">While on the subject of deaths, I must mention singular superstitious custom which lingered, not very long ago,</span> in some <span style="background: #69E2FB;">of the secluded mountain-vales of Carmarthenshire When</span> person <span style="background: #69E2FB;">died</span> his friends sent for the sin-eater of the district, who, for <span style="background: #69E2FB;">the small sum of half a crown, actually</span> took upon himself the sins of the deceased, by the simple process of eating them <span style="background: #69E2FB;">The plan of operation was this :—</span> A loaf of bread was provided, which the sin-eater first placed upon the dead <span style="background: #69E2FB;">persons</span> chest, then muttered some incantations over it, finally eating it <span style="background: #69E2FB;">Will it be credited that</span> he was believed to have taken from the <span style="background: #69E2FB;">defunct</span> the heavy weight of his sins, <span style="background: #69E2FB;">and to appropriate</span> them to himself, for which act of kindness he was regarded by everybody as <span style="background: #69E2FB;">a tabooed</span> outcast</p><p></p><p><span style="background: #69E2FB;">Indeed, immediately after the ceremony was finished, and bad received his pay, he vanished in double quick time, it being usual custom for the friends to belabour him with sticks-if they could catch him</span> </p></div></div></div>
 </div>
-</div>
-<div class="section" id="eddowes-journal-1888">
-<h3>Eddowes’ Journal, 1888<a class="headerlink" href="#eddowes-journal-1888" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="eddowes-journal-1888">
+<h3>Eddowes’ Journal, 1888<a class="headerlink" href="#eddowes-journal-1888" title="Permalink to this headline">#</a></h3>
 <p>In <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001504/18880509/121/0004">May 9th, 1888</a> edition of Eddowes’ Journal, p4, an excerpt from  <a class="reference external" href="https://archive.org/details/inpraisealewith00marcgoog/page/92/mode/2up?q=sin+eater"><em>In Praise of Ale</em></a>, 1888, p93-4, by W. T. Marchant, quotes the letter in Leland’s <em>Popular Antiquities</em> as described in Hone’s <em>Year Book</em> of 1832.</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Eddowes’ Journal, May 9th, 1888, Quoting <em>In Praise of Ale</em>, Quoting <em>Hone’s Year Book</em>, Quoting Leland’s <em>Collectanea</em></p>
@@ -747,10 +840,10 @@ const thebe_selector_output = ".output, .cell_output"
 <div class="cell_output docutils container">
 <div class="output text_html"><del style="background:#ffe6e6;">Probably the most peculiar of the many quaint customs which our ancestors kept up was the funeral one of sin eating </del><span>In a letter dated 1715, printed in Leland's </span><del style="background:#ffe6e6;">C</del><ins style="background:#e6ffe6;">c</ins><span>ollection, it is stated that, within the memory of the writer's father, in those villages adjoining Wales, when a person died notice was given</span><del style="background:#ffe6e6;"> to</del><span> an old </span><del style="background:#ffe6e6;">"</del><span>sire</span><del style="background:#ffe6e6;">"</del><span> or village patriarch, who straightway repaired to the house of mo</span><del style="background:#ffe6e6;">u</del><ins style="background:#e6ffe6;">n</ins><span>rning and sat down on </span><ins style="background:#e6ffe6;">"</ins><span>a </span><del style="background:#ffe6e6;">"</del><span>cricket</span><del style="background:#ffe6e6;">,"</del><span> or stool, facing the </span><del style="background:#ffe6e6;">doo</del><ins style="background:#e6ffe6;">fi</ins><span>r</span><del style="background:#ffe6e6;"> </del><ins style="background:#e6ffe6;">e</ins><span>; then one of the family of the deceased gave the sin</span><del style="background:#ffe6e6;">-</del><ins style="background:#e6ffe6;"> </ins><span>eater a groat</span><del style="background:#ffe6e6;">,</del><span> which he put</span><del style="background:#ffe6e6;"> in</del><span> his pocket, a crust </span><del style="background:#ffe6e6;">of </del><span>bread which he ate, and</span><del style="background:#ffe6e6;"> a</del><span> full bowl of ale which he drank off at a draught Finally</span><del style="background:#ffe6e6;">,</del><span> he rose from the cricket, and with</span><del style="background:#ffe6e6;"> a</del><span> co</span><del style="background:#ffe6e6;">mpo</del><ins style="background:#e6ffe6;">nfu</ins><span>sed gesture pronounced </span><del style="background:#ffe6e6;">"</del><span>the ease and</span><ins style="background:#e6ffe6;"> the</ins><span> rest of the soul departed</span><del style="background:#ffe6e6;">,</del><span> for which</span><del style="background:#ffe6e6;"> he</del><span> would pawn his own soul" In Hereford, according to Aubrey, </span><del style="background:#ffe6e6;">t</del><ins style="background:#e6ffe6;">"T</ins><span>he sin</span><del style="background:#ffe6e6;">-</del><ins style="background:#e6ffe6;"> </ins><span>eater ate his bread and drank his bowl of beer over the corpse, and his fee was </span><del style="background:#ffe6e6;">sixpence</del><ins style="background:#e6ffe6;">6d</ins><span> instead of </span><del style="background:#ffe6e6;">fourpence</del><ins style="background:#e6ffe6;">4d</ins><span> Bishop Kenne</span><del style="background:#ffe6e6;">t</del><span>t, to whom Aubrey's manuscripts passed, added to them a note that a remainder of this custom lingered</span><del style="background:#ffe6e6;"> at</del><span> the beginning of the eighteenth century in the parish of Amersham, in the county of Bucks</span><del style="background:#ffe6e6;"> There, at the burial of every corpse, a cake and a flagon of ale were brought to the clergyman in the porch ; but this refection was not served until after the interment</del></div></div>
 </div>
-</div>
-</div>
-<div class="section" id="the-antiquities-of-laugharne-pendine-mary-curtis-1880">
-<span id="antqs"></span><h2><em>The Antiquities of Laugharne, Pendine</em>, Mary Curtis, 1880<a class="headerlink" href="#the-antiquities-of-laugharne-pendine-mary-curtis-1880" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+<section id="the-antiquities-of-laugharne-pendine-mary-curtis-1880">
+<span id="antqs"></span><h2><em>The Antiquities of Laugharne, Pendine</em>, Mary Curtis, 1880<a class="headerlink" href="#the-antiquities-of-laugharne-pendine-mary-curtis-1880" title="Permalink to this headline">#</a></h2>
 <p>In a self-published work on <a class="reference external" href="https://archive.org/details/antiquitiesoflau00curt/page/206/mode/2up?q=funeral"><em>The antiquities of Laugharne, Pendine, and their neighbourhood, Carmarthenshire, Amroth, Sandersfoot, Cilgetty, Pembrokeshire, South Wales</em></a>, published in second edition at least in 1880, Mary Curtis describes the following custom All Hallows custom in which parishioners might learn the names of who was to die in the following year (p206-7):</p>
 <blockquote>
 <div><p>They had this very remarkable custom : — I was informed by a respectable farmer of Eglwyscummin parish, who died in old age in 1875, that his father told him that there was a person appointed to every church, whose office was to go to the church on All Hallows Eve to hear the names of those who would die the next year, called. An old woman of this town, dead now sixty years, is remembered by some old people as going on this eve to Laugharne church to stand by the chancel window, where they say she distinctly heard the names pronounced. She said that, as she had been once to hear the names called, she was bound to go at every future eve. I was told by one of the most respectable and esteemed old inhabitants of this town, that in his presence some one said to her, that a lady then dangerously ill, and given over, would die. She said, “No ; for her name was not called.” She did recover and live many years. And another time she foretold that a funeral of a person would take place shortly in Laugharne church, which it did. In Cardiganshire, on All Hallows Eve, it was the custom to sit in the porch of the church to see those pass through who should die that year. I am not quite sure that this was not on St. John’s day, 24th June. I give no opinion, though I would not declare them falsehoods, or the results of imagination. Which is the worst to believe — too much or too little ? Some people, deeming themselves very wise and superior to such credulity, with a wonderfully wise look, condemn these as mere superstitions.</p>
@@ -819,9 +912,9 @@ const thebe_selector_output = ".output, .cell_output"
 <blockquote>
 <div><p>An old woman of Laugharne said to me that she continually saw those lights. It seems from all I hear that they are seen as much as ever. I must give this singular one : A gentleman belonging to a county family of Pembrokeshire, was some years ago returning in his carriage to his home in Tenby from the railway. He was inside. With the coachman sat a tenant of the lady from whom I had this story. Between Narberth and Templeton, they perceived through the darkness of the evening a black mass moving towards them. As it approached they saw it was a funeral. The horses now plunged and reared ; the carriage was overturned ; the coachman and the tenant thrown over the hedge into the field, much bruised ; the gentleman escaped without injury. My friend who related this had it from her tenant himself.</p>
 </div></blockquote>
-</div>
-<div class="section" id="domestic-folk-lore-t-f-thiselton-dyer-1881">
-<span id="dfkld"></span><span id="index-1"></span><h2><em>Domestic Folk-lore</em>, T. F. Thiselton Dyer, 1881<a class="headerlink" href="#domestic-folk-lore-t-f-thiselton-dyer-1881" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="domestic-folk-lore-t-f-thiselton-dyer-1881">
+<span id="dfkld"></span><span id="index-1"></span><h2><em>Domestic Folk-lore</em>, T. F. Thiselton Dyer, 1881<a class="headerlink" href="#domestic-folk-lore-t-f-thiselton-dyer-1881" title="Permalink to this headline">#</a></h2>
 <p>In <a class="reference external" href="https://archive.org/details/b24884558/page/n4/mode/2up?q=sin-eater"><em>Domestic Folk-lore</em></a>, 1881, the rather splendidly named Revered Thomas Firminger Thiselton Dyer also describes several traditions relating to death and burial, including the traditional use of salt (p59-63):</p>
 <blockquote>
 <div><p>Again, the interval between death and burial has generally been associated with various superstitious fears and practices. Thus, as soon as the corpse is laid out there is still a widespread custom of placing a plate of salt upon the breast, the reason being no doubt to prevent the body swelling ; although there is a belief that it acts as a charm against any attempt on the part of evil spirits to disturb the body.</p>
@@ -858,9 +951,9 @@ const thebe_selector_output = ".output, .cell_output"
 <blockquote>
 <div><p>From time immemorial there has been a popular prejudice among the inhabitants of rural villages against “burial without the sanctuary.” This does not imply in unconsecrated ground, but on the north side of the church, or in a remote corner of the church-yard. The origin of this repugnance is said to have been the notion that the northern part was that which was appropriated to the interment of unbaptised infants, excommunicated persons, or such as had laid violent hands upon themselves. Hence it was generally known as “the wrong side of the church.” In many parishes, therefore, this spot remained unoccupied while the remaining portion of the churchyard was crowded. White, in his “History of Selborne,” alluding to this superstition, says that as most people wished to be buried on the south side of the churchyard, it became such a mass of mortality that no person could be interred “without disturbing or displacing the bones of his ancestors.” A clergyman of a rural parish in Norfolk says : — “If I were on any occasion to urge a parishioner to inter a deceased relative on the north side of the church, he would answer me with some expression of surprise, if not of offence, at the proposal, ‘No, sir, it is not in the sanctuary.’”</p>
 </div></blockquote>
-<span class="target" id="index-2"></span></div>
-<div class="section" id="john-aubrey-remaines-of-gentilisme-1881">
-<span id="aubgt"></span><span id="index-3"></span><h2>John Aubrey, <em>Remaines of Gentilisme</em>, 1881<a class="headerlink" href="#john-aubrey-remaines-of-gentilisme-1881" title="Permalink to this headline">¶</a></h2>
+<span class="target" id="index-2"></span></section>
+<section id="john-aubrey-remaines-of-gentilisme-1881">
+<span id="aubgt"></span><span id="index-3"></span><h2>John Aubrey, <em>Remaines of Gentilisme</em>, 1881<a class="headerlink" href="#john-aubrey-remaines-of-gentilisme-1881" title="Permalink to this headline">#</a></h2>
 <p>A long time in the coming, 1881 also saw the publication by <em>The Folk-Lore Society</em> of <a class="reference external" href="https://archive.org/details/remainesgentili01aubrgoog/page/n12/mode/2up"><em>Remaines of Gentilisme and Judaisme</em></a> by John Aubrey, “Printed from Lansdowne manuscript 231 in the British Museum”, and edited by James Britten.</p>
 <p>Some of Aubrey’s “observations” on occult and supernatual matters had been previously published as <a class="reference external" href="https://archive.org/details/miscellanies00aubr/page/n1/mode/2up"><em>Miscellanies</em>, Collected by J. Aubrey, Esq.</a>, “printed for Edward Castle, next Scotland Yard Gate, by Whitehall”, in 1696, but that collection had made no mention of that lamentable fellow from the Rosse highway. This collection undoubtedly contributed to later opinions of him regarding his credulity.</p>
 <p>But now for the first time we have a collection that provides us us a relatively direct form access to Aubrey’s text without having to visit the British Library and view the original manuscript.</p>
@@ -933,9 +1026,9 @@ Have mercy on all Christen soules for a Soule-cake.</p>
 </div></blockquote>
 </div>
 <p>At last, then, general access to a copy of Aubrey’s writings had been made available. But it is perhaps noteable that the publication of the book, and the mention of the Sinne-Eater it contained, did not direclty lead to a a flurry of indigant correspondence around the topic.</p>
-</div>
-<div class="section" id="paxton-hood-s-christmas-evans-the-preacher-of-wild-wales-1881">
-<h2>Paxton Hood’s <em>Christmas Evans : the preacher of Wild Wales</em>, 1881<a class="headerlink" href="#paxton-hood-s-christmas-evans-the-preacher-of-wild-wales-1881" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="paxton-hood-s-christmas-evans-the-preacher-of-wild-wales-1881">
+<h2>Paxton Hood’s <em>Christmas Evans : the preacher of Wild Wales</em>, 1881<a class="headerlink" href="#paxton-hood-s-christmas-evans-the-preacher-of-wild-wales-1881" title="Permalink to this headline">#</a></h2>
 <p>Although Aubrey’s edited manuscripts perhaps had a rather limited appeal, and a limited ability to generate controversy, another book was published in 1881 that <em>did</em> generate interest in the sin-eater topic.</p>
 <p>The Reverend Edwin Paxton Hood was a non-conformist minister and prolific author. Several of his works took the form of biographies of other non-conformists. One such character, Christmas Evans, who presumbaly took his name from his birthdate, 25th December, 1766 – was a noted Welsh minister with a gift for preaching. He was the subject of his 1881 book <a class="reference external" href="https://archive.org/details/christmasevanspr00hood/page/22/mode/2up?q=sin-eater"><em>Christmas Evans : the preacher of Wild Wales, his country, his times and his contemporaries</em></a>.</p>
 <p>In the chapter on <em>Characteristics of Welsh Preaching</em>, p22-24, Paxton Hood has cause to comment on the tradition of the sin-eater as surviving despite the activities of a wave of great Christian preachers in the first half of the 19th century:</p>
@@ -949,26 +1042,6 @@ Have mercy on all Christen soules for a Soule-cake.</p>
 <p>If we display a side-by-side view to inspect the difference between the texts, we can spot the areas of simularity directly:</p>
 <div class="dropdown admonition">
 <p class="admonition-title">Comparing the Texts</p>
-<div class="sphinx-bs container pb-4 docutils">
-<div class="row docutils">
-<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
-<div class="card w-100 shadow docutils">
-<div class="card-body docutils">
-<p><strong>Excerpt from Paxton Hood, <em>Christmas Evans</em></strong>
-</p><p>the superstition of the sin-eater is said to linger even now in the secluded vale of <span style="background: #69E2FB;">cwm-aman,</span> in <span style="background: #69E2FB;">caermarthenshire the meaning of this most singular institution of superstition was, that</span> when a person died, the friends sent for the sin-eater of the district, <span style="background: #69E2FB;">who,</span> on his <span style="background: #69E2FB;">arrival,</span> placed a plate of salt <span style="background: #69E2FB;">and bread</span> on the breast of the <span style="background: #69E2FB;">deceased person ;</span> he then <span style="background: #69E2FB;">uttered</span> an incantation over the bread, <span style="background: #69E2FB;">after which,</span> he <span style="background: #69E2FB;">proceeded to eat it, —</span> thereby eating the sins of the dead person <span style="background: #69E2FB;">;</span> this done, he received <span style="background: #69E2FB;">a</span> fee of <span style="background: #69E2FB;">two-and-sixpence, — which, we suppose, was much more than many a preacher received for a long</span> and <span style="background: #69E2FB;">painful service having received this, he</span> vanished as <span style="background: #69E2FB;">swiftly</span> as <span style="background: #69E2FB;">possible, all</span> the friends <span style="background: #69E2FB;">and relatives</span> of <span style="background: #69E2FB;">the departed aiding his exit with</span> blows and kicks, <span style="background: #69E2FB;">and other indications</span> of <span style="background: #69E2FB;">their faith in</span> the <span style="background: #69E2FB;">service</span> he <span style="background: #69E2FB;">had rendered</span> a <span style="background: #69E2FB;">hundred years since, and through the ages beyond that time, we suppose this curious superstition</span> was <span style="background: #69E2FB;">everywhere prevalent</span> </p>
-</div>
-</div>
-</div>
-<div class="d-flex col-lg-6 col-md-6 col-sm-6 col-xs-12 p-2 docutils">
-<div class="card w-100 shadow docutils">
-<div class="card-body docutils">
-<p><strong>Excerpt from John Murray, <em>Handbook for Travellers in South Wales</em></strong>
-</p><p>the superstition of the sin-eater is said to linger even now in the secluded vale of <span style="background: #69E2FB;">cwm amman</span> in <span style="background: #69E2FB;">carmarthenshire</span> when a person died, the friends sent for the sin-eater of the district, <span style="background: #69E2FB;">who</span> on his <span style="background: #69E2FB;">arrival</span> placed a plate of salt on the breast of the <span style="background: #69E2FB;">deceased, and on the salt a piece of bread</span> he then <span style="background: #69E2FB;">muttered</span> an incantation over the bread, <span style="background: #69E2FB;">which</span> he <span style="background: #69E2FB;">finally eat,</span> thereby eating the sins of the dead person this done, he received <span style="background: #69E2FB;">the</span> fee of <span style="background: #69E2FB;">2s 6d,</span> and vanished as <span style="background: #69E2FB;">quickly</span> as <span style="background: #69E2FB;">he could,</span> the friends <span style="background: #69E2FB;">helping his departure by the aid</span> of <span style="background: #69E2FB;">sundry</span> blows and kicks, <span style="background: #69E2FB;">if they could catch him ; for as it was believed that he took upon himself the sins</span> of the <span style="background: #69E2FB;">defunct,</span> he <span style="background: #69E2FB;">was looked upon as</span> a <span style="background: #69E2FB;">social pariah for whom nothing</span> was <span style="background: #69E2FB;">too bad</span> </p>
-</div>
-</div>
-</div>
-</div>
-</div>
 <p>The Paxton Hood version offers nothing new and no significant corruptions, perhaps other than representing the original <em>muttering</em> of the curse as <em>uttering</em>:</p>
 </div>
 <p>As well as referrring to the sin-eater tradition, Paxton Hood also makes passing reference to a “horse’s head” tradition that is used to castigate a “social delinquent”:</p>
@@ -1002,18 +1075,18 @@ Have mercy on all Christen soules for a Soule-cake.</p>
 <p>‘The Scapegoat is a dark and narrow superstition still surviving in North and South Wales and the Borders. It is hard to say which is the most degraded, the employers or the employed in the transaction. (A man who gains his livíng by such services, is hired when a funeral takes place, is given a loaf of bread and a maple bowl of beer or tnilk, and a sixpence, for which he bears away all the sins of the deceased and prevents him or her walking after death.) The scapegoat in this case is currently called a ‘Sin-eater.’ Of such it would be no stretch of imagination to believe that like Sion-y-Cuit, the Welsh Faust, they had sold themselves to the devil.”</p>
 <p>M. E. C. F.</p>
 </div></blockquote>
-</div>
-<div class="section" id="charles-elton-s-origins-of-english-history-1882">
-<span id="oehel"></span><h2>Charles Elton’s <em>Origins of English history</em>, 1882<a class="headerlink" href="#charles-elton-s-origins-of-english-history-1882" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="charles-elton-s-origins-of-english-history-1882">
+<span id="oehel"></span><h2>Charles Elton’s <em>Origins of English history</em>, 1882<a class="headerlink" href="#charles-elton-s-origins-of-english-history-1882" title="Permalink to this headline">#</a></h2>
 <p>Charles Elton’s <a class="reference external" href="https://archive.org/details/originsofenglish00elto/page/176/mode/2up?q=sin"><em>Origins of English history</em></a>, first published in 1882, with a second edition in 1890, was a broad raninging work that amongst other things sought to place various traditions in the context of wider history starting with prehistoric times, and then progressing through the classical period and thence to the “English conquest”.</p>
 <p>Included in the work, at the end of Chapter VII., p181-2, on <em>“Pre-Celtic Ethnology”</em> we have a mention of ancient Welsh cursing wells, followed by a review, nbased on <em>British Golblins</em> of the sin-eater tradition.</p>
 <blockquote>
 <div><p>In the same connection we may mention the “Cursing-wells,” where the jealous and disappointed might imprecate destruction, as at the Altar of the “Mount of Cursing,” on the basket and store of their neighbour, “the fruit of his body and the fruit of his field.” It was thought that by performing the rites of an impious service, by casting in a pin or a pebble inscribed with the enemy’s name, the spirit of the well would cause the victim to pine and die unless the curse should be willingly removed. [St. Elian’s Well in Denbighshire is described as “the head of the Cursing-wells.” A full description of the ceremonies will be found in Mr. Sikes’ recent work upon the Welsh folk-lore, Brit. Gobl. 355. Among the authorities cited are Camb. Pop. Antiq. 247; Archeol. Cambr. ist Ser. i. 46. Compare Souvestre’s account of the Chapel of <em>Nôtre Dame de la Haine</em> at Tréguier in Brittany. *”Une chapelle dedice a Notre-Dame de la Haine existe toujoiirs pres de Tregide?; et le peuple n’a pas cesse de croire a la puissance des prieres qui y sont faites. Parfois encore, vers le soir, on voit des ombres honteuses se glisser furtivement vers ce triste édifice place au haut d’un coteau sans verdure. Ce sont des jeunes pupilles lassés de la surveillance de leurs tuteurs, des veillards jaloux de la prosperité d’un voisin, des femmes trop rudement froissées par le despotisme d’un mari, qui viennent la prier pour la mort de l’objet de leur haine. Trois ‘Ave’ dévotememt répétés, amènent irrévocablement cette mort dans l’année.” Derniers Bretons, i. 92. See as to Cursing-stones in Devon and Ireland, N. &amp; Q., 5, v. 223, 363.]</p>
 <p>Our last example of these abnormal usages shall be taken from the superstition of the Sin-eater, which certainly prevailed in Herefordshire, though it may be doubtful whether it extended to the neighbouring parts of Wales. “In the County of Hereford,” said Aubrey, “it was an old custom at funerals to hire poor people who were to take upon them the sins of the person deceased. The manner was that, when the corpse was brought out of the house and laid upon the bier, a loaf of bread was brought out and delivered to the Sin-eater over the corpse, as also a Mazard-bowl of maple-wood full of beer which he was to drink up, and sixpence in money, in consideration whereof he took upon him <em>ipso facto</em> all the sins of the defunct and freed him or her from walking after they were dead.” [Aubrey, in the “Remains of Gentilisme,” published by the Folk-lore Society; Sikes, British Goblins, 325; Hone, Year-book, 858. “I remember,” says Aubrey, “one of these Sin-eaters, he was a long, lean, ugly, lamentable poor rascal, and lived in a cottage on Ross highway. This ceremony, though rarely used in our days, yet by some people was observed in the strictest days of the Presbyterian government.”] Mr. Wirt Sikes in his work upon Welsh Folklore, cited an apposite passage from Schuyler’s Travels in Turkestan [Turkestan, ii. 28.]: “One poor old man seemed constantly engaged in prayer. On calling attention to him, I was told that he was an ‘<em>iskatchi</em>’ a person who gets his living by taking on himself the sins of the dead, and thenceforth devoting himself to prayer for their souls : he corresponds to the Sin-eater of the Welsh border.”</p>
 </div></blockquote>
-</div>
-<div class="section" id="notes-queries-1883">
-<span id="nandq-1883"></span><h2>Notes &amp; Queries, 1883<a class="headerlink" href="#notes-queries-1883" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="notes-queries-1883">
+<span id="nandq-1883"></span><h2>Notes &amp; Queries, 1883<a class="headerlink" href="#notes-queries-1883" title="Permalink to this headline">#</a></h2>
 <p>A couple of years after <em>Christmas Evans</em> was first published, an eagle-eyed, if tardy, correspondent to <em>Notes and Queries</em>, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1883-01-13_7_159/page/24/mode/2up?q=sin">Vol 7 Iss 159, January 13th, 1883</a>, p25, also picked up on the reference and provided a new note on the matter, directly quoting Paxton Hood and perhaps unaware of previous mentions of the tradition in earlier volumes of <em>Notes &amp; Queries</em>, although cognisant of similar other traditions reported elsewhere.</p>
 <blockquote>
 <div><p>Welsh Folk-lore: The Sin-Eater.— The following curious scrap of folk-lore occurs in the Rev. Paxton Hood’s book on Christmas Evans, the Preacher of Wild Wales (London, Hodder &amp; Stoughton, 1881) :—</p>
@@ -1101,9 +1174,9 @@ Bottesford Manor, Brigg.</p>
 <p>Sir,- The remarks made by “H,” in his letter referring to the sin-eater,” spoken of by Paxton Hood in his book on Christmas Evans, clear up a mystery which has puzzled me for years, whenever my mind has reverted to it. It would probably be twenty years ago, I cannot remember the exact date, but no doubt many in Swansea will remember the circumstance, that Mrs. Hopkins, an old Swansea resident, and mother of the late Mr. Thomas Hopkins, at the time a member of the Swansea Town Council, died suddenly at her residence in High-street - her husband kept a small public-house there, the name of which I also forget. I was one of the first to enter the dwelling after the sad event, and my first view of the corpse, was to find the deceased, fully dressed (just as she was carried upstairs from the bar where she died) lying on her back in bed, on her breast being placed a plate, pewter I think it was, and on the plate were sprinkled crumbs of bread and some salt. The deceased could scarcely have been dead a quarter of an hour when I saw this, and I could never understand why the plate and its contents were placed where I saw them. I subsequently sat on the inquest, and intended to make inquiries into what struck me as curious, but fearing to pry unnecessarily into domestic susceptibilities, I refrained from doing so. I now find, from the letter of “H.” in last week’s Cambrian, what I never knew before, that the circumstance of the plate, salt, and bread had reference to the old Welsh superstition spoken of by Paxton Hood in his book already referred to, and fully explained in the interesting letter to which I now allude. If my memory serves me, I think the Hopkinses were a Cardigan family, but of this I am not quite certain.-Yours, &amp;c.</p>
 <p>J. C. MANNING. London.</p>
 </div></blockquote>
-</div>
-<div class="section" id="bye-gones-1882-3">
-<span id="bygns-1882-3"></span><h2>Bye-Gones, 1882-3<a class="headerlink" href="#bye-gones-1882-3" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="bye-gones-1882-3">
+<span id="bygns-1882-3"></span><h2>Bye-Gones, 1882-3<a class="headerlink" href="#bye-gones-1882-3" title="Permalink to this headline">#</a></h2>
 <p id="bygns-popish">A series of articles on <em>Popish Ceremonies Existing in Wales</em>, over several issues of Bye-Gones (<a class="reference external" href="https://journals.library.wales/view/2092910/2094824/5#?xywh=-1532%2C-117%2C5763%2C3800">May 17th, 1882, p64-5</a>, <a class="reference external" href="https://journals.library.wales/view/2092910/2094841/#?xywh=-464%2C207%2C4906%2C3235">June 7th, 1882</a>, <a class="reference external" href="https://journals.library.wales/view/2092910/2094856/#?xywh=-1532%2C-369%2C5763%2C3801">July 5th, 1882</a>, <a class="reference external" href="https://journals.library.wales/view/2092910/2094856/2#?xywh=-860%2C-91%2C4002%2C2639">July 12th, 1882</a>) describes various Catholic rituals.</p>
 <p>The first installment opens with claim of the continued practice of Catholic ceremonies, and goes on to offer a consideration of death and burial rites:</p>
 <blockquote>
@@ -1173,9 +1246,9 @@ Bottesford Manor, Brigg.</p>
 <p>A curious fact connected with the large flagon must be here adverted to. It had long been the custom to permit it (the large flagon) to be used at funerals in the parish, for the purpose of handing out to each of the attendants on the occasion the spiced drink, wine or ale, as the case may be. Such a desecration of the sacred vessel was peremptorily resisted by the present Rector at his entrance upon the incumbency, but not without his incurring much obloquy, and giving much offence.”</p>
 </div></blockquote>
 </div>
-</div>
-<div class="section" id="peannant-s-tours-in-wales-edited-by-john-rhys-1883">
-<span id="tiwpn-1883"></span><span id="index-6"></span><h2>Peannant’s <em>Tours in Wales</em>, Edited by John Rhys, 1883<a class="headerlink" href="#peannant-s-tours-in-wales-edited-by-john-rhys-1883" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="peannant-s-tours-in-wales-edited-by-john-rhys-1883">
+<span id="tiwpn-1883"></span><span id="index-6"></span><h2>Peannant’s <em>Tours in Wales</em>, Edited by John Rhys, 1883<a class="headerlink" href="#peannant-s-tours-in-wales-edited-by-john-rhys-1883" title="Permalink to this headline">#</a></h2>
 <p>We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the <a class="reference external" href="https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/">Sir John Rhys Memorial Lectures</a>, first delivered in 1925, which are still predsented to this day, by way of his two volume work <em>“Celtic Folklore: Welsh and Manx”</em> in 1901.</p>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">Sir John Rhys</p>
@@ -1190,9 +1263,9 @@ Bottesford Manor, Brigg.</p>
 <p>Among the <em>Welsh</em> it was reckoned fortunate for the deceased if it should rain while they were carrying him to church, that his bier might be wet with the dew of heaven.</p>
 <p>In some places it was customary for the friends of the dead to kneel, and say the Lord’s Prayer over the grave, for several <em>Sundays</em> after the interment; and then to dress the grave with flowers.</p>
 </div></blockquote>
-</div>
-<div class="section" id="shropshire-folk-lore-1883-1885">
-<span id="shflk"></span><h2>Shropshire Folk-lore, 1883-1885<a class="headerlink" href="#shropshire-folk-lore-1883-1885" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="shropshire-folk-lore-1883-1885">
+<span id="shflk"></span><h2>Shropshire Folk-lore, 1883-1885<a class="headerlink" href="#shropshire-folk-lore-1883-1885" title="Permalink to this headline">#</a></h2>
 <p>With a <a class="reference external" href="https://archive.org/details/shropshirefolkl00burngoog/page/n20/mode/2up">first part</a> published in 1883, a <a class="reference external" href="https://archive.org/details/shropshirefolkl00jackgoog/page/n150/mode/2up?q=sin-eater">second part</a> in 1885, and a <a class="reference external" href="https://archive.org/details/shropshirefolkl01jackgoog/page/n14/mode/2up">third part</a> in 1886, <em>Shropshire Folk-Lore – A Sheaf of Gleanings</em> was an edited work by Charlotte S. Burne based on the collections of Georgina Frederica Jackson, compiler of the <a class="reference external" href="https://archive.org/details/shropshirewordb01jackgoog">Shropshire word-book</a>, <em>“a glossary of archaic and provincial words, etc., used in the county”</em> in 1879.</p>
 <p>A review from the <em>Saturday Review</em> of Part II of the work was rerprinted in the <a class="reference external" href="https://journals.library.wales/view/2092910/2095345/17#?xywh=59%2C1879%2C2588%2C1707">April 29th, 1885</a> edition of Bye-gones, p209-11:</p>
 <blockquote>
@@ -1250,17 +1323,19 @@ Shall be dealt to-morrow at mine.’</p>
 <div><p>Much later than Aubrey’s time, the funeral dole survived in North Wales in its more primitive and innocent form. Pennant in his <em>History of Whiteford</em> describes the nearest female relative of the dead giving bread, cheese, ale, and money to the poor over the coffin, and Mr. Wirt Sikes reproduces a curious 18th-century print of such a scene. <code class="docutils literal notranslate"><span class="pre">[Brand,</span> <span class="pre">Antiquities,</span> <span class="pre">II.</span> <span class="pre">211</span> <span class="pre">;</span> <span class="pre">*British</span> <span class="pre">Goblins*,</span> <span class="pre">323.]</span></code></p>
 </div></blockquote>
 <p>The citation of Pennant’s’<em>History of Whiteford</em> as the source of the tradition for the nearest female relative providing the gift is incorrect. The reference actually appears in <a class="reference internal" href="_missed_opportunities_pre-1830.html#tiwpn-1783"><span class="std std-ref">Pennant’s Tours in Wales, 1783</span></a>.</p>
-<div class="figure align-default" id="british-goblins-food-over-coffin-p323">
+<figure class="align-default" id="british-goblins-food-over-coffin-p323">
 <img alt="_images/British_goblins_food_over_coffin_p323.png" src="_images/British_goblins_food_over_coffin_p323.png" />
-<p class="caption"><span class="caption-number">Fig. 3 </span><span class="caption-text">“Giving food over the coffin”, in *British Goblins, Wirt Sikes, 1880, p323.</span><a class="headerlink" href="#british-goblins-food-over-coffin-p323" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 3 </span><span class="caption-text">“Giving food over the coffin”, in *British Goblins, Wirt Sikes, 1880, p323.</span><a class="headerlink" href="#british-goblins-food-over-coffin-p323" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>Still existent variants of the tradition in the region were then identified, along wth a pleas for “further research needed”:</p>
 <blockquote>
 <div><p>The funeral sponge-cakes of North Shropshire are still, or were recently, in use in Wales also<code class="docutils literal notranslate"><span class="pre">[*Ibid.*,</span> <span class="pre">p324]</span></code>. It is much to be wished that the subject of the ceremonial use of cakes could be farther investigated.<code class="docutils literal notranslate"><span class="pre">[E.</span> <span class="pre">g.</span> <span class="pre">we</span> <span class="pre">have</span> <span class="pre">Wedding,</span> <span class="pre">or,</span> <span class="pre">as</span> <span class="pre">it</span> <span class="pre">used</span> <span class="pre">to</span> <span class="pre">be</span> <span class="pre">called,</span> <span class="pre">Bride</span> <span class="pre">Cake,</span> <span class="pre">Christening</span> <span class="pre">Cake,</span> <span class="pre">Yule</span> <span class="pre">Cake,</span> <span class="pre">Twelfth</span> <span class="pre">Cake,</span> <span class="pre">Simnel</span> <span class="pre">Cakes,</span> <span class="pre">Soul</span> <span class="pre">Cakes,</span> <span class="pre">etc.</span> <span class="pre">:</span> <span class="pre">to</span> <span class="pre">say</span> <span class="pre">nothing</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">divinations</span> <span class="pre">and</span> <span class="pre">magical</span> <span class="pre">remedies</span> <span class="pre">in</span> <span class="pre">which</span> <span class="pre">the</span> <span class="pre">baking</span> <span class="pre">of</span> <span class="pre">specially</span> <span class="pre">compounded</span> <span class="pre">cakes</span> <span class="pre">(as</span> <span class="pre">the</span> <span class="pre">Dumb</span> <span class="pre">Cake)</span> <span class="pre">plays</span> <span class="pre">a</span> <span class="pre">part.]</span></code> One cannot but suspect that the funeral cakes were in their first origin not a dole to purchase prayers, but a part of the ceremonial of the pagan burial-feasts; of which we really seem to retain other traces in Shropshire, to judge from the following passage in a letter addressed by the Rev. G. L. Wasey to Miss Jackson in 1873. He speaks of course of the neighbourhood of Bridgnorth.</p>
 </div></blockquote>
-</div>
-<div class="section" id="archaeologia-cambrensis-manuscript">
-<span id="archc-manuscript"></span><span id="index-7"></span><h2><em>Archaeologia Cambrensis</em>, “Manuscript”<a class="headerlink" href="#archaeologia-cambrensis-manuscript" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="archaeologia-cambrensis-manuscript">
+<span id="archc-manuscript"></span><span id="index-7"></span><h2><em>Archaeologia Cambrensis</em>, “Manuscript”<a class="headerlink" href="#archaeologia-cambrensis-manuscript" title="Permalink to this headline">#</a></h2>
 <p>In <a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1885-04_2_6/page/152/mode/2up">Vol 2 Iss 6, April, 1885</a>, p151-5, we find an article entitled <em>“Extracts from a MS. of an ancient date giving some customs and usages in North Wales”</em> that is reminiscent of material appearing in Pennant. It closes with the mention that the contents “relate to the diocese of St. Asaph”, so is this perhaps the “MS, book of a Bp. of St. Asaph, written about a century ago” that was mentioned in The British magazine article on <em>Ancient Usages and Customs in North Wales</em> of 1835?</p>
 <blockquote>
 <div><p>…</p>
@@ -1291,8 +1366,8 @@ Shall be dealt to-morrow at mine.’</p>
 <p>“Smiting the breast”, at the mention Judas, falls under the same category, so does “spitting at the names of Satan” ; though we by no means imply that the custom was limited to that one occasion. The funeral customs were, all of them, expressive. The distribution of rolls of bread and of pence and half-pence at the house, was very likely symbolical of the obligation of charity, and the need to make friends of the mammon of unrighteousness.</p>
 </div></blockquote>
 <p><em>I have been unable to find a digital archive copy of the Rhyl Journal for November, 22nd, 1884.</em></p>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -1316,9 +1391,11 @@ Shall be dealt to-morrow at mine.’</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="_minor_skirmishes.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -1334,24 +1411,28 @@ Shall be dealt to-morrow at mine.’</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2021.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

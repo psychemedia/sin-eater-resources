@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Souling and Soul-Cake &#8212; On the Trail of the Sin-Eater</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_intro.html">
-   Introduction – Accounts and Stories
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_intro.html">
+                    Introduction – Accounts and Stories
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Initial Observations
  </span>
@@ -235,13 +250,13 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  What Next?
+  Finale
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="_forthcoming.html">
-   Forthcoming
+  <a class="reference internal" href="_ross.html">
+   The Sin-Eater of Ross
   </a>
  </li>
 </ul>
@@ -278,15 +293,25 @@ const thebe_selector_output = ".output, .cell_output"
    Index
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_biography.html">
+   Storynotes &amp; Biography
+  </a>
+ </li>
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -294,61 +319,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#coel-coeth-and-soul-cakes-according-to-brand-hone-et-al-via-pennant">
    Coel Coeth and Soul Cakes, According to Brand, Hone et al., Via Pennant
@@ -386,12 +467,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Souling and Soul-Cake</h1>
@@ -445,11 +525,12 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="souling-and-soul-cake">
-<h1>Souling and Soul-Cake<a class="headerlink" href="#souling-and-soul-cake" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="souling-and-soul-cake">
+<h1>Souling and Soul-Cake<a class="headerlink" href="#souling-and-soul-cake" title="Permalink to this headline">#</a></h1>
 <p>One of the benefits claimd for the ministrations of the sin-eater as that it would <em>“free [the defunct] from walking after they were dead”</em> (which is presumably to say, the spirit of the departed would not then remain as some sort of ghost destined to walk the earth), one place we might look to for evidence of the sin-eater <em>not</em> having performed a role might be amongst those souls that were found to “walking” after death.</p>
 <p>All Hallows Eve (or as we more commonly know it, Halloween, October 31st), the night before All Hallows Day, (November 1st, also known as All Saints Day, and which, in the Christian Church, is itself the day before the Feast of All Souls, November 2nd), is one of those nights on which the souls of the dead are often to be found walking.</p>
 <p>So are there any traditions related to All Hallows Eve that might appear to be reflections or echoes of the sin-eater tradition, or perhpas even parody the ritual of the sin-eater?</p>
@@ -459,8 +540,8 @@ const thebe_selector_output = ".output, .cell_output"
 <p class="admonition-title">Warning</p>
 <p>This chapter jumps out of time and reviews the traditions around <em>souling</em> and <em>soul cake</em> throughout the 19th century.</p>
 </div>
-<div class="section" id="coel-coeth-and-soul-cakes-according-to-brand-hone-et-al-via-pennant">
-<h2>Coel Coeth and Soul Cakes, According to Brand, Hone et al., Via Pennant<a class="headerlink" href="#coel-coeth-and-soul-cakes-according-to-brand-hone-et-al-via-pennant" title="Permalink to this headline">¶</a></h2>
+<section id="coel-coeth-and-soul-cakes-according-to-brand-hone-et-al-via-pennant">
+<h2>Coel Coeth and Soul Cakes, According to Brand, Hone et al., Via Pennant<a class="headerlink" href="#coel-coeth-and-soul-cakes-according-to-brand-hone-et-al-via-pennant" title="Permalink to this headline">#</a></h2>
 <p>In Brand’s <em>Observations On Popular Antiquities</em>, edited by Henry Ellis, of 1813, <a class="reference external" href="https://archive.org/details/observationsonpo01branuoft/page/308/mode/2up?q=all+hallows">pp.308-310</a>, the following entry is included as an editorial footnote to the entry for October 31st:</p>
 <blockquote>
 <div><p>AllHallow Even</p>
@@ -551,9 +632,9 @@ Give us an answer, and we’ll be gone.</p>
 <p>I did not hear the whole of the verses sung this year, but I think we heard most of them ; and we certainly had the practical application at the end of every version, to wit, a knock at the door, and the request of a ‘apenny. —Jarco.</p>
 </div></blockquote>
 <p>It is interesting to note that here the phrase described for the requested cakes is <em>sol cake</em>.</p>
-</div>
-<div class="section" id="souling-according-to-brand-et-al">
-<h2>Souling, According to Brand et al.<a class="headerlink" href="#souling-according-to-brand-et-al" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="souling-according-to-brand-et-al">
+<h2>Souling, According to Brand et al.<a class="headerlink" href="#souling-according-to-brand-et-al" title="Permalink to this headline">#</a></h2>
 <p>Another paragraph in Brand associated with All Hallows’ Eve introduces the tradition of “souling”, particularly in Staffordshire:</p>
 <blockquote>
 <div><p>” It is worth remarking:,” says Tollet, in a note in Johnson’s and Steevens’s Shakespeare, Two Gent, of Verona, act. ii. sc. 2. “that on All Saints Day, the poor people in Staffordshire, and perhaps in other country places, go from parish to parish <em>a Souling</em>, as they call it, i. e. begging and puling (or singing small as Bailey’s Dictionary explains puling) for <em>Soul Cakes</em>, or any good thing to make them merry. This custom is mentioned by Peck, and seems a remnant of popish superstition to pray for departed souls, particularly those of friends. The Souler’s Song in Staffordshire is different from that which Mr. Peck mentions, and is by no means worthy of publication.”</p>
@@ -615,8 +696,8 @@ Have mercy on all Christen soules for a Soule-cake.</p>
 <div><p>The ” offerings,” made by friends of the deceased, were only loans, in a way of speaking, as the members of the deceased’s family were expected when any such melancholy event happened in the family of any of the persons who attended the funeral to attend and do the same. It was then the custom to regale all who attended the funeral, at the house of the deceased, with spiced ale, and cake, and what was more singular at Darowen, the mourners, as passing through the lich gate into the grave yard, were again served with hot spiced ale, and cake. The money to defray the cost of this second refreshment was not found by the relatives of the deceased, but by the parishioners, and it was a custom for all who attended the funeral, both male and female, if they were parishioners, to send sixpence each to the village inn, the occupant of which provided the spiced ale and cake. There were sometimes as many as four women engaged in dispensing the refreshments. One stood by the lich gate with a large tray, and many pieces of cake upon it; another stood by with a small tray enveloped in a white napkin, upon which one piece of cake was placed from the store off the large tray and handed to one of the mourners as he passed through the lich gate, and the small tray was again replenished. The other two women were engaged with the hot spiced ale, one held the tankard and poured the ale, which was always very hot, into little “tots,” and these, like the pieces of cake, were handed one to each mourner, by woman number four. The residue remaining from the fund, if any was left, was spent by a few persons who generally understood these matters, at the village inn after the funeral.</p>
 <p>Pearmain.</p>
 </div></blockquote>
-<div class="section" id="souling">
-<h3>Souling<a class="headerlink" href="#souling" title="Permalink to this headline">¶</a></h3>
+<section id="souling">
+<h3>Souling<a class="headerlink" href="#souling" title="Permalink to this headline">#</a></h3>
 <p>The specific ritual of souling in Shropshire had been previously remarked in the pages of <em>The Athenaeum</em> in 1847. The year previously, in 1846, William Thoms, the inspiration behind <em>Notes &amp; Queries</em>, had coined the phrase <em>folk-lore</em> in the pages of the <em>Athenaeum</em> magazine and craved the indulgence of the editor of that journal to allow submissions under that designation. In the <em>Folk-Lore</em> column of the <a class="reference external" href="https://babel.hathitrust.org/cgi/pt?id=iau.31858029267212&amp;view=1up&amp;seq=113&amp;skin=2021&amp;q1=soul%20cakes"><em>Aethenaeum</em>, no. 1004</a>, p95, dated Saturday, January 23, 1847, the following item appeared:</p>
 <blockquote>
 <div><p>FOLK-LORE.</p>
@@ -698,10 +779,10 @@ were formerly sung on All Souls’ Day.</p>
 <div><p>For soul-cakes in Chester in the year 1878 see ‘N. &amp; Q.,’ 5th S. x. 426. Consult also ‘A Garland for the Year,’ by John Timbs, p. 115; Brand’s ‘Popular Antiquities,’ vol. i. p. 217 (notes to ” All-hallow Eve”); and ‘Clavis Calendaria,’ vol. ii. p. 229.<br />
 Everard Home Coleman. 71, Brecknock Road</p>
 </div></blockquote>
-</div>
-</div>
-<div class="section" id="a-souling-in-cheshire-and-elsewhere">
-<h2><em>A-Souling</em> in Cheshire and Elsewhere<a class="headerlink" href="#a-souling-in-cheshire-and-elsewhere" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+<section id="a-souling-in-cheshire-and-elsewhere">
+<h2><em>A-Souling</em> in Cheshire and Elsewhere<a class="headerlink" href="#a-souling-in-cheshire-and-elsewhere" title="Permalink to this headline">#</a></h2>
 <p>As well as its prevalance in Shropshire, it seems that the tradition was also kept alive further up the English-Welsh border, towards Cheshire.</p>
 <p>For example, in <em>Notes &amp; Queries</em> <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1868-12-12_2_50/page/552/mode/2up?q=soul+cake"><em>Vol 2 Iss 50 (4th S. II)</em></a>, p553, of December 12th 1868, we have the following note:</p>
 <blockquote>
@@ -779,9 +860,9 @@ L. L. K.</p>
 <p>At Ripon, in Yorkshire, the women make a cake on the Eve for every one in the family, and  it is called “cake-night.” A soul-mass cake was often kept for good luck. Mr. Young, in his <em>History of Whitby</em>, says: “A lady in Whitby has a soul-mass loaf one hundred years old.” Hunter, in his <em>Hallamshire Glossary</em>, says that the custom of making a peculiar kind of cake on this day is recognised in a deposition of the year 1574, given in Watson’s <em>History of the House of Warren</em> (i, 217), wherein the party deposes that his mother knew a certain castle of the Earl of Warren’s, having when a child, according to the custom of that country, gathered soul-cakes there on All Souls’ Day.</p>
 <p>John PIGGOTT, F.S.A. Ulting Maldon.</p>
 </div></blockquote>
-</div>
-<div class="section" id="souling-tradition-in-salop-shropshire">
-<h2>Souling Tradition in Salop (Shropshire)<a class="headerlink" href="#souling-tradition-in-salop-shropshire" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="souling-tradition-in-salop-shropshire">
+<h2>Souling Tradition in Salop (Shropshire)<a class="headerlink" href="#souling-tradition-in-salop-shropshire" title="Permalink to this headline">#</a></h2>
 <p>From several of the sources thus far included, the existence of various traditions relating to <em>souling</em> and <em>soul cakes</em> in Shropshire appears well attested to.</p>
 <p>In 1872, Askew Roberts, editor of the <em>Bye-Gones</em> “hyperlocal” version of <em>Notes &amp; Queries</em> published via the Oswestry Advertizer (Oswestry being a Shropshire town a few miles North-West of Shreswbury) appears to have contributed a further note on the topic to <em>Notes &amp; Queries</em> <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1872-11-23_10_256/page/408/mode/2up"><em>Vol 10 Iss 256</em></a>, p409, published November 23rd, 1872. His note was perhaps inspired by the question to <em>Bye-Gones</em> of October 20th, 1872, (p98) on the question of All Saints’ Eve customs in which “Cynog”,  the questioner, asked: <em>I should very much like to see, in <strong>Bye-gones</strong>, an account of the manner in which the festival is kept <em>this</em> year of grace, 1872, in the Borders of Wales.</em></p>
 <blockquote>
@@ -910,14 +991,14 @@ Welwch chwi ‘n dda ga’ i dipyn bach o fwyd cenedl y meirw ?—Amen.</p>
 <p>” <em>Cenedl</em> y meirw ” they said ; whatever that may mean. May it not be a corruption of ” Dy’ gwyl y Meirw ?”</p>
 </div></blockquote>
 <p>The quotation from <em>The Leisure Hour</em> is actually just a fragment from a longer article in the edition of November 11th 1876, <a class="reference external" href="https://archive.org/details/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1876-11-11_25_1298/page/730/mode/2up?q=soul+cake">Vol 25 Iss 1298</a>, p730, of which the following is also an extract:</p>
-<div class="margin sidebar">
+<aside class="margin sidebar">
 <p class="sidebar-title"></p>
 <p><em>The Leisure Hour</em> article goes on to describe November 5th traditions, including the following:</p>
 <blockquote>
 <div><p>A very old custom prevails in the West Riding of Yorkshire of preparing against this anniversary a kind of oatmeal gingerbread, and of religiously par- taking of the same on this and subsequent days. The local name of it is Parkin, and it is usually seen in the form of massive loaves, substantial cakes, or bannocks.</p>
 </div></blockquote>
 <p>I personally remember Bonfire nights (November 5th) in Almondbury, a village on the outskirts of Huddersfield, in the 1970s, where a neigbour would share parkin around the communal bonfire held in a recreational field bordered on two sides by a modern housing estate oand on the other two sides by green belt. We used to go “chumping” for wood in the days before. October 30th was also a playful night: “mischief night”, when we’d ring doorbells and run away…</p>
-</div>
+</aside>
 <blockquote>
 <div><p>ANTIQUARIAN GOSSIP ON THE MONTHS.</p>
 <p>BY THE AUTHOR OF “BRITISH POPULAR CUSTOMS, PAST AND PRESENT.”</p>
@@ -959,9 +1040,9 @@ Os na cha’ i ddim, mi beidia.</p>
 <p>But it does not appear that the Dinas Mawddwy boys were so vulgar as to make use of rude remarks, or to mark the doors with chalk, in case of refusal, as I am told their contemporaries at Corwen used to do.</p>
 <p>Glyn Trefnant.</p>
 </div></blockquote>
-</div>
-<div class="section" id="all-saints-and-all-souls-traditions-shropshire-revisited">
-<h2>All Saints’ and All Souls’ Traditions Shropshire, Revisited<a class="headerlink" href="#all-saints-and-all-souls-traditions-shropshire-revisited" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="all-saints-and-all-souls-traditions-shropshire-revisited">
+<h2>All Saints’ and All Souls’ Traditions Shropshire, Revisited<a class="headerlink" href="#all-saints-and-all-souls-traditions-shropshire-revisited" title="Permalink to this headline">#</a></h2>
 <p>Finally, we have a rather long excerpt from <a class="reference external" href="https://archive.org/details/shropshirefolkl01jackgoog/page/n24/mode/2up?q=souling"><em>Shropshire folk-lore</em></a>, edited by C.S. Burne, <em>“from the collections of G.F. Jackson”</em>, by Georgina Frederica Jackson”*, 1885, pp. 378-90, on a variety of All Saints’ and All Souls’ Day festivals.</p>
 <p>It opens ith a general introduction to the feast days:</p>
 <blockquote>
@@ -1115,8 +1196,8 @@ Crw da, plâs yma.’ <code class="docutils literal notranslate"><span class="pr
 <blockquote>
 <div><p>I do not know whether men be grown virtuous in these latter days, but certain it is that there are ‘no more cakes and ale.’ Even the begging for apples is very much on the decline. At Berrington it was completely gme in 1869. In 1872, Bishop How wrote that it had ‘ all but died out ‘ at Whittington, though it was in full force when he first went there in 1851. The stringent enforcement of attendance at school consequent on the passing of the Education Act of 1870, gave a severe check to it at Edgmond, and must have had somewhat the same effect in other places. Only the ‘little idle rascals ‘ now, have leisure to observe the traditions of their fathers.</p>
 </div></blockquote>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -1140,9 +1221,11 @@ Crw da, plâs yma.’ <code class="docutils literal notranslate"><span class="pr
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="_interim.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -1158,24 +1241,28 @@ Crw da, plâs yma.’ <code class="docutils literal notranslate"><span class="pr
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2021.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

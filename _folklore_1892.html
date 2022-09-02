@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>The “Folklore” Correspondence, 1892-3 &#8212; On the Trail of the Sin-Eater</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_intro.html">
-   Introduction – Accounts and Stories
-  </a>
- </li>
-</ul>
-<p aria-level="2" class="caption" role="heading">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_intro.html">
+                    Introduction – Accounts and Stories
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Initial Observations
  </span>
@@ -235,13 +250,13 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  What Next?
+  Finale
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="_forthcoming.html">
-   Forthcoming
+  <a class="reference internal" href="_ross.html">
+   The Sin-Eater of Ross
   </a>
  </li>
 </ul>
@@ -278,15 +293,25 @@ const thebe_selector_output = ".output, .cell_output"
    Index
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="_biography.html">
+   Storynotes &amp; Biography
+  </a>
+ </li>
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -294,61 +319,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#e-sidney-hartland-the-sin-eater-folklore-june-1892">
    E. Sidney Hartland,
@@ -403,12 +484,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>The “Folklore” Correspondence, 1892-3</h1>
@@ -479,11 +559,12 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="the-folklore-correspondence-1892-3">
-<h1>The “Folklore” Correspondence, 1892-3<a class="headerlink" href="#the-folklore-correspondence-1892-3" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="the-folklore-correspondence-1892-3">
+<h1>The “Folklore” Correspondence, 1892-3<a class="headerlink" href="#the-folklore-correspondence-1892-3" title="Permalink to this headline">#</a></h1>
 <p>On <a class="reference external" href="https://newspapers.library.wales/view/4322943/4322949/83/">January 22nd, 1892</a>, p6, a brief mention in the <em>Wales Day By Day</em> section of <em>The Western Mail</em> announced:</p>
 <blockquote>
 <div><p>An attractive programme of lectures has been arranged for the next session of the Cymmrodorion Society, which begins this week. Mr. J. W. Wiiiis-Bond will lead off with a paper on “The Early History of the Welsh Church.” Mr. Sidney Hartland, formerly of Swansea, will follow with one on “The Sin Eater,” which will have a peculiar interest for folk-lorists; …</p>
@@ -567,8 +648,8 @@ The second lecture of the Cymmrodorion Session was given at a joint meeting of t
 <div><p>Mr. E. Sidney Hartland, formerly of Swansea, the author of “The Science of Folk-Tales,” at a joint meeting of the Cymmrodorion and Folk-Lore Societies the other day, dealt with the curious and interesting customs connected with the being known as “the Sin-Eater.” The earliest mention of the custom of “sin-eating” formerly observed in Wales and the Welsh marches at funerals, is found in <em>The Remains of Gentilisme and Judaisme</em>, a two centuries’ old manuscript of John Aubrey’s, published some ten or twelve years ago by the Folk-Lore Society. He says, in referring to offertories at funerals, ” But before, when the corps is brought out of doores, there is cake and cheese, and a new bowle of beere, and another of milke, with ye Anno Dni. ingraved on it, and ye parties name deceased, which one accepts of on the other side of ye corps, and this custom is used to this day, 1686, in North Wales.” That some such custom was observed throughout Wales in the seventeenth and eighteenth centuries appears to be undoubted. The late Mr. Mathew Moggridge, of Swansea, mentioned the custom at a meeting of the Cambrian Archaeological Association, held at Ludlow in 1852, and specified the parish of Llandevie, about 12 or 13 miles from Swansea, as a place where the custom had survived to within a recent period. Mr. Hartland compared the custom with others of a similar character in this country and abroad. Placing these traditional observances side by side, he came to the conclusion that they could only be the relics of a savage feast, where the meat consumed was the very body of the deceased kinsman. The reason for the custom is doubtless to be found in the belief that the qualities of the food are communicated to the eater. In some of the customs mentioned the virtues of the deceased were supposed to be absorbed; in others, the custom meant the absorption of the sins of the dead. Some variation in the view of the matter taken by the clergy may have led to the rite being considered disgraceful in Wales. It has long since disappeared, though gifts of food to the poor and doles at funerals may be considered as interpretations of a different kind of the original observance.</p>
 </div></blockquote>
 <p>The paper, or perhaps even an extended or revised version of it, was published in the June, 1892, volume of <em>Folklore</em>.</p>
-<div class="section" id="e-sidney-hartland-the-sin-eater-folklore-june-1892">
-<span id="flklr-hartland-paper"></span><h2>E. Sidney Hartland, <em>The Sin-Eater</em>, Folklore, June 1892<a class="headerlink" href="#e-sidney-hartland-the-sin-eater-folklore-june-1892" title="Permalink to this headline">¶</a></h2>
+<section id="e-sidney-hartland-the-sin-eater-folklore-june-1892">
+<span id="flklr-hartland-paper"></span><h2>E. Sidney Hartland, <em>The Sin-Eater</em>, Folklore, June 1892<a class="headerlink" href="#e-sidney-hartland-the-sin-eater-folklore-june-1892" title="Permalink to this headline">#</a></h2>
 <p>Edwin Sidney Harland’s paper to the Foklore Society appeared in full in the <a class="reference external" href="https://archive.org/details/folklore03folkuoft/page/144/mode/2up?q=sin-eater">Vol. III, No. II, p145-157</a> edition of <em>Folklore</em> in June 1892. Not surprisingly, the sections relating to sin-eater closely follow the earlier report of the presented paper, starting with the earliest mention found to date, as provided by John Aubrey:</p>
 <blockquote>
 <div><p>THE SIN-EATER.</p>
@@ -672,8 +753,8 @@ The second lecture of the Cymmrodorion Session was given at a joint meeting of t
 <p>E. Sidney Hartland.</p>
 </div></blockquote>
 <p>As with Hartland’s earlier presentation, there is still no mention of the correspondence debate that played out across several issues of the <em>Academy</em> in 1875. Even if we accept that his scholarship had failed to unearth it when preparing the original paper, that no-one then raised it to his attention suggests that the relatively recent historical treatment of the sin-eater was not a widely appreciated one. With the paper now published in the journal of the Folk-Lore Society, the membership of that particular society should surely have the requisite knowledge among them to bring the fruits of that earlier round of  criticism to bear, or at least, a collective memory deep enough to reference it?</p>
-<div class="section" id="responses-to-the-paper">
-<span id="flklr-correspondence-1892"></span><span id="index-3"></span><h3>Responses to the Paper<a class="headerlink" href="#responses-to-the-paper" title="Permalink to this headline">¶</a></h3>
+<section id="responses-to-the-paper">
+<span id="flklr-correspondence-1892"></span><span id="index-3"></span><h3>Responses to the Paper<a class="headerlink" href="#responses-to-the-paper" title="Permalink to this headline">#</a></h3>
 <p>An article in <em>The Cardiff Times</em> dated <a class="reference external" href="https://newspapers.library.wales/view/3429440/3429444/77/">June 11th, 1892, p4</a>, acknowledges the publication of the paper, picking up on Hartland’s conclusion that many surviving customs hint back to a common, cannibailistic tradition:</p>
 <blockquote>
 <div><p>WELSH ECHOES FROM LONDON</p>
@@ -708,13 +789,13 @@ The second lecture of the Cymmrodorion Session was given at a joint meeting of t
 <p>Holloways Pills—</p>
 <p>Weak stomachs. The wisest I cannot enumerate one quarter of the distressing symptons arising from enfeebled digestion, all of which might be readily dispelled by these admirable Pills. They remove all unpleasant tastes from the mouth, flatulency and constipation. Holloway’s Pills rouse the stomach, liver, and every other organ, helping digestion to that healthy tone which fully enables it to convert all we eat and drink to the nourishment of our bodies. Hence these Pills are the surest strengtheners and the safest restoratives in nervousness, wanting and chronic debility. Holloway’s Pills are infallible remedies for impaired appetite, eructations, and a multitude of other disagreeable symptoms, which render miserable the lives of thousands. These Pills are approved by all classes.</p>
 </div>
-</div>
-</div>
-<div class="section" id="correspondence-in-folklore">
-<h2>Correspondence in Folklore<a class="headerlink" href="#correspondence-in-folklore" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+<section id="correspondence-in-folklore">
+<h2>Correspondence in Folklore<a class="headerlink" href="#correspondence-in-folklore" title="Permalink to this headline">#</a></h2>
 <p>Following Hartland’s article in Folklore, several items of correspondence appeared relating to the matter.</p>
-<div class="section" id="godden-s-response-to-hartland-s-paper">
-<span id="flklr-correspondence-1892-godden"></span><h3>Godden’s Response to Hartland’s Paper<a class="headerlink" href="#godden-s-response-to-hartland-s-paper" title="Permalink to this headline">¶</a></h3>
+<section id="godden-s-response-to-hartland-s-paper">
+<span id="flklr-correspondence-1892-godden"></span><h3>Godden’s Response to Hartland’s Paper<a class="headerlink" href="#godden-s-response-to-hartland-s-paper" title="Permalink to this headline">#</a></h3>
 <p>The first formal response to Hartland’s published paper appeared in <em>Folklore</em>, <a class="reference external" href="https://archive.org/details/folklore03folkuoft/page/546/mode/2up?q=sacraments">Vol III, No. IV, p546-9</a>) of December, 1892.</p>
 <p>In particular, the correspondent asks Hartland to explain the reasoning behind why the presence of distinct traditions at one point in time might derive from a common precursor rite:</p>
 <blockquote>
@@ -758,9 +839,9 @@ The second lecture of the Cymmrodorion Session was given at a joint meeting of t
 <p>[SOME GREEK SCRIPT]</p>
 <p>G. M. GODDEN.</p>
 </div></blockquote>
-</div>
-<div class="section" id="aynsley-s-paper-on-the-sin-eater">
-<h3>Aynsley’s Paper on the Sin-Eater<a class="headerlink" href="#aynsley-s-paper-on-the-sin-eater" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="aynsley-s-paper-on-the-sin-eater">
+<h3>Aynsley’s Paper on the Sin-Eater<a class="headerlink" href="#aynsley-s-paper-on-the-sin-eater" title="Permalink to this headline">#</a></h3>
 <p>It seems from a report in the the next edition of <em>Folklore</em>, of March, 1893, <a class="reference external" href="https://archive.org/details/folklore04folkuoft/page/120/mode/2up?q=Aynsley">Vol. IV, No. I, p120</a>, that a meeting of the Folklore Society on Wednesday, December 21st, 1892, another paper on the subject of the sin-eater was read by Mrs. Murray Aynsleythat provoked a discussion involving one Rev. C. Swynnerton and E. Sidney Hartland:</p>
 <blockquote>
 <div><p>An Evening Meeting was held at 22, Albemarle Street, on Wednesday, December 21st, 1892 ; the President (Mr. G. L. Gomme) in the chair.</p>
@@ -790,9 +871,9 @@ The second lecture of the Cymmrodorion Session was given at a joint meeting of t
 <p>H. G. M. Murray-Aynsley.</p>
 <p><em>Srinagar, Kashmir, July 28, 1892.</em></p>
 </div></blockquote>
-</div>
-<div class="section" id="hartland-responds-to-godden">
-<h3>Hartland Responds to Godden<a class="headerlink" href="#hartland-responds-to-godden" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="hartland-responds-to-godden">
+<h3>Hartland Responds to Godden<a class="headerlink" href="#hartland-responds-to-godden" title="Permalink to this headline">#</a></h3>
 <p>Returning back to 1892/3, Hartland’s response to Godden’s letter in the December, 1892, issue also appeared in <em>Folklore</em> <a class="reference external" href="https://archive.org/details/folklore04folkuoft/page/106/mode/2up?q=SACRAMENTS">Vol IV, no. I, p106</a>, dated March, 1893, and is brief and to the point:</p>
 <blockquote>
 <div><p>CORRESPONDENCE.</p>
@@ -802,9 +883,9 @@ The second lecture of the Cymmrodorion Session was given at a joint meeting of t
 <p>E. Sidney Hartland.</p>
 </div></blockquote>
 <p>So it seems that more evidence has recently come to hand, although what that evidence is not revealed. Instead, it appears to be something we must wait for…</p>
-</div>
-<div class="section" id="gertrude-hope-s-new-evidence">
-<span id="flklr-correspondence-1892-hope"></span><h3>Gertrude Hope’s New Evidence<a class="headerlink" href="#gertrude-hope-s-new-evidence" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="gertrude-hope-s-new-evidence">
+<span id="flklr-correspondence-1892-hope"></span><h3>Gertrude Hope’s New Evidence<a class="headerlink" href="#gertrude-hope-s-new-evidence" title="Permalink to this headline">#</a></h3>
 <p>In the meantime, additional evidence was to find its own way into the pages of <em>Folklore</em>. Just over a year after Hartland’s paper was published, in <a class="reference external" href="https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER">Volume IV No. III</a>, p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and <em>current</em> evidence of the tradition existing in England:</p>
 <blockquote id="custom-funeralbiscuit-marketdrayton">
 <div><p>“THE SIN-EATER.”
@@ -844,10 +925,10 @@ To the Editor of FOLK-LORE.</p>
 </div></blockquote>
 <p>At this point, this particular correspondence chain comes to end; but it sets in place many of the ideas that were to arise as part a new correpsondence chain that formed the second controversy in 1895.</p>
 <p>But before we get to that, we should take note of many of Hartland’s ideas were to be captured in yet more detail in his 1894 work, <em>The Legend of Perseus</em>.</p>
-</div>
-</div>
-<div class="section" id="e-sidney-hartland-the-legend-of-perseus-1894">
-<h2>E. Sidney Hartland, <em>The Legend of Perseus</em>, 1894<a class="headerlink" href="#e-sidney-hartland-the-legend-of-perseus-1894" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+<section id="e-sidney-hartland-the-legend-of-perseus-1894">
+<h2>E. Sidney Hartland, <em>The Legend of Perseus</em>, 1894<a class="headerlink" href="#e-sidney-hartland-the-legend-of-perseus-1894" title="Permalink to this headline">#</a></h2>
 <p>In the chapter on <em>Funeral Rites</em> in volume II of <a class="reference external" href="https://archive.org/details/cu31924027041502/page/n303/mode/2up"><em>The legend of Perseus: a study of tradition in story custom and belief</em></a>, 1894, E. Sidney Hartland really gets his teeth into the idea of cannibalism as reviews various cannibalistic practices amongst “savages” and tribes around the world. He then goes on to consider how certain ritual elements might persist as representations of original traditional practices that have died out, p287-299,, as for example in the case of the sin eater:</p>
 <blockquote>
 <div><p>Speaking generally, the practice of eating a dead kinsman, which is probably the earliest form of cannibalism, is also the earliest form to be abandoned. In the South Sea Islands, for example, where the custom of eating strangers has continued until recent years, the flesh of one’s own tribesmen is rejected, save in rare instances, such as that of Hawaii. In the Banks’ Islands it is occasionally eaten, in order to establish communion with a dead man for magical purposes : a practice likewise known in Australia.<code class="docutils literal notranslate"><span class="pre">[Codrington,</span> <span class="pre">221</span> <span class="pre">;</span> <span class="pre">y..</span> <span class="pre">Journ.</span> <span class="pre">Anthr.</span> <span class="pre">Inst.,</span> <span class="pre">285</span> <span class="pre">;</span> <span class="pre">F.</span> <span class="pre">Bonney,</span> <span class="pre">in</span> <span class="pre">xiii.</span> <span class="pre">ibid.,</span> <span class="pre">135</span> <span class="pre">;</span> <span class="pre">A.</span> <span class="pre">W.</span> <span class="pre">Howilt,</span> <span class="pre">in</span> <span class="pre">xvi.</span> <span class="pre">ibid.,</span> <span class="pre">30,</span> <span class="pre">35.</span> <span class="pre">The</span> <span class="pre">Koniaga</span> <span class="pre">practice</span> <span class="pre">also</span> <span class="pre">perhaps</span> <span class="pre">has</span> <span class="pre">its</span> <span class="pre">basis</span> <span class="pre">in</span> <span class="pre">magic.]</span></code> But though the custom changes, the sacramental idea underlying it is retained ; and the problem would be how to effect the necessary union between the dead and the living with- out partaking of the body. On the island of Vate, in the New Hebrides, the aged were put to death by burying them alive. A hole was dug, and the victim placed within it in a sitting posture, a hve pig tied to each arm. Before closing the grave, the cords were cut; and the pigs were afterwards killed and served up at the funeral feast. <code class="docutils literal notranslate"><span class="pre">[</span> <span class="pre">Fratherman,</span> <span class="pre">Papuo.</span> <span class="pre">Mel.,</span> <span class="pre">74.]</span></code> In this way they seem to be identified with the corpse.</p>
@@ -878,8 +959,8 @@ fully washed out and cleaned. Formerly it was the custom for the housewife then 
 <div><p>It is natural to inquire whether any trace of this cannibalism lingers among the Irish, who alone among European races have been charged with it. There is a trace, though it must be admitted a fainter trace than we have found on this side of Saint George’s Channel. Yet I think when we compare it with the latter we shall conclude that it is enough, and therefore that in all probability Strabo’s accusation was not unfounded. The drinking which goes on at a wake is of course a relic of the funeral feast. It takes place in the presence of the corpse. A foreigner, describing a nobleman’s obsequies which he witnessed at Shrewsbury in the early years of King Charles the Second, states that the minister made a funeral oration in the chamber where the body lay, and ” during the oration there stood upon the cofiSn a large pot of wine, out of which every one drank to the health of the deceased. This being finished six men took up the corps, and carried it on their shoulders to the church.” <code class="docutils literal notranslate"><span class="pre">[Denis</span> <span class="pre">H.</span> <span class="pre">Kelly,</span> <span class="pre">in</span> <span class="pre">i.</span> <span class="pre">Journ.</span> <span class="pre">Kilkenny</span> <span class="pre">Arch.</span> <span class="pre">Soc,</span> <span class="pre">N.S.,</span> <span class="pre">31</span> <span class="pre">note.</span> <span class="pre">Smoking</span> <span class="pre">round</span> <span class="pre">the</span> <span class="pre">corpse</span> <span class="pre">was</span> <span class="pre">a</span> <span class="pre">part</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">ceremony</span> <span class="pre">in</span> <span class="pre">North</span> <span class="pre">Wales</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">last</span> <span class="pre">century.</span> <span class="pre">Owen,</span> <span class="pre">Crosses,</span> <span class="pre">56.]</span></code> I am not aware whether in Ireland the whisky is thus brought into immediate contiguity with the bier. In Connaught it was the custom about a generation ago, and probably still is, to place a plate of tobacco cut in short lengths, and a plate of snuff on the breast of the corpse ; a boy stood at the door with a basket of pipes, and each person helped himself according to his inclination.! Whatever may be the case as regards tobacco, I am informed by eye-witnesses that it is still an Irish custom to lay a plate of snuff on the breast of the dead ; and everybody who attends the funeral is expected to take a pinch. This ceremony must have assumed its present shape in recent times; but it cannot be doubted that it represents the more archaic consumption of food or drink similarly placed.</p>
 </div></blockquote>
 <p>But still, there has been no mention throughout the correspondence, of the correspondence in the <em>Academy</em> twenty years previously, where Silvan Evans took issue with the Blackwood’s author and challenged the Welsh tradition of the sin-eater. A challenge, no less, against the very same claims offered in evidence of that peculiar rite that Sidney Hartland was also appealing to.</p>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -903,9 +984,11 @@ fully washed out and cleaned. Formerly it was the custom for the housewife then 
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="_scientific_folklore.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -921,24 +1004,28 @@ fully washed out and cleaned. Formerly it was the custom for the housewife then 
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2021.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2021.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>
