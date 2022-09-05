@@ -11,17 +11,17 @@ If you visit Ross today, on the main roading leading up the hill out of the mark
 Correspondence in the Ross Gazette of [Thursday, 26th October, 1911, p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002068/19111026/092/0003) suggests that this, in fact, a relatively recent name.
 
 > STREET NOMENCLATURE
-> 
+>
 > CORRESPONDENCE.
 >
 > To the Editor of the Ross Gazette.
-> 
+>
 > Sir,—In a recent issue of your paper, the Revising Barrister is reported to have said when examining the voters' lists for Ross, that he much preferred the old name of Corpse-Cross-street to the new one of Copse-Cross-street.
-> 
+>
 > The change, if I remember rightly, was made about ten years ago, and at the same time Dockstreet was altered to Wye-street.
-> 
+>
 > For my own part, I have always held the opinion that in both cases the change was greatly to be deplored. " Corpse-Cross" is, I understand, Corpus Christi, and " Dock " is reminiscent of the days when the river was used as a means of communication for trading purposes. I believe the reason given at the time for the alteration was that " Corpse " was a very unpleasant word, and that " Dock " might lead visitors to think that those who lived in that street belonged to the criminal classes.
-> 
+>
 > Our Urban Council have recently been dealing with the question of street nomenclature. Will they " take occasion by the hand, " and restore their ancient names to these two thoroughfares?
 > Yours &c.,
 > THETA.
@@ -38,7 +38,7 @@ Looking closely at a town map of Ross, we see that walking up the hill from the 
 Another feature of old Ross were the almshouses on Church Street, [described](http://ross-on-wye.com/index.php?page=ross_070-Almshouses&pg=1) by `ross-on-wye.com` in the following terms:
 
 > The Tudor-fronted Rudhall almshouses in Church Street are still inhabited. These were founded in the fourteenth century and rebuilt in 1575. They were restored relatively recently in 1960, by the Ross Charity Trustees and at this time the five original houses were changed into three larger houses without changing the fronts. These Almshouses are probably some of the oldest buildings left in Ross with parts of the Church probably being the oldest.
-> 
+>
 > There are records of people who were not wealthy leaving money for the upkeep of the almshouses showing their importance within the community. For example, an Alice Spencer, who was just a servant at Rudhall, left money to the Rudhall almshouses in 1677.
 
 A postcard is also described with the following inscription:
@@ -102,11 +102,11 @@ The `ross-on-wye.com` website provides the following [history of toll gates arou
 > Prior to 1830, the town boundary was at Brookend Street and there was a tollgate there. Once the town boundaries were changed then the position of the gates changed.
 >
 > The Ross Turnpike Trust was a powerful organisation in the area. This can be seen as in 1839 in the Ross area there were around twelve Toll Gates under the Control of the Ross Turnpike Roads Trustees. These are thought to have been located at: Wilton, Pencraig, Marsh, Hownhall, Ryeford, Corps-Cross (now Copse Cross), Coughton, Walford, Overross, Gatsford, Coldbrough, Marcle.
-> 
+>
 > Each of these were up for Let by Auction and bidders had to pay £100 pounds upon making their first bid to ensure they had enough money to pay the first months rent in advance. This money was returned to the bidder upon completion of the Auction or used for payment for the advance rent.
-> 
+>
 > One gate was charging 6d (about 2½ pence) to enter or leave Ross per day. Being as it cost about 7s (about 35p) for a return ticket to London, this was quite a high price.
-> 
+>
 > By 1872 when the Ross Highway Board took over control of the roads due to the local Turnpike Trusts being abolished, the toll gates were at: Walford, Wilton, Ledbury Road, Over Ross, Copse Cross Toll Gate.
 
 ```
@@ -123,7 +123,7 @@ A letter in the Ross Gazette of [Thursday, 5th August, 1875, p4](https://www.bri
 > CORRESPONDENCE.
 > LOCAL NOMENCLATURE.
 > To the Editor of the Ross Gazette.
-> 
+>
 > Dear Sir,—In looking over your very nice and improved re-issue of the *Wye Tour*, I see that you quote two derivations of the name, Corpse-Cross-street. It occurs to me that both these are far-fetched, and that the mame is properly " Corpse "-Cross, and was given in consequence of a custom of burying suicides at the junction of the four roads. When I was a child in Ross, I was told that persons then living could remember such burials at that place; and I dreaded to go near it at nightfall. I dare my some of my seniors could give interesting particulars if they chose. Why was the road adjacent, leading to the Church, called " The Old Maid's Walk"? The title is suggestive, and there must have been some legend connected with it. "L. E. L." (Miss Landon) did not *reside* in Ross. She used to visit her aunt, who lived the home opposite Claireville House, close to Corpse Cross. I have a dim recollection of seeing her, when I was very little, at her aunt's.
 > Yours faithfully, W. H. GREENE.
 
@@ -132,15 +132,15 @@ Whilst there is no mention of the sin-eater, it does seem as if there were "unus
 The 1875 letter also raises a (very good) question regarding the origins of the name of Old Maid's Walk. The `ross-on-wye.com` website [suggests](http://www.ross-on-wye.com/index.php?page=ross_510-Old_Maids_Walk) the following:
 
 > Old Maids Walk, Ross-on-Wye, runs east - west from Copse Cross Street to Church Street and the main entrance to the church yard. This was one of the last streets to have any development along it because up until 1935 it was the boundary to the south side of the grounds belonging to the "Old" Rectory which had extensive grounds. This was replaced by the "current" Rectory and development of the street happened quite quickly but only for a short period resulting in what is pretty much the same as seen today.
-> 
+>
 > Where does "Old Maids Walk" come from?
-> 
+>
 > During the 17th century, Mr. Markey, a wealthy man obsessed by his garden, owned Alton Court. It is said that an early frost killed his favourite plants and he blamed and fired his gardener. He then had to take on a replacement, a young, handsome man called Ralph Mortimer and, although Ralph was poor, he was reputedly descended from the Mortimers of Wigmore, Leominster.
-> 
+>
 > Ralph was an excellent gardener and the gardens flourished in his care. In parallel, he had secretly fallen in love with Mr. Markey's beautiful second daughter, Clara. Because of the class barrier, their relationship was never going to get the Markey's family approval and, to add to the problems, Mr. Markey arranged for Clara to marry a young man from the Rudhall family, another local high class family of land owners.
-> 
+>
 > Clara was wept at the news and Ralph was distraught. This resulted in his suicide and his body was found in the Wye. This resulted in Ralph's body being taken to the junction between Alton Street and Copse Cross Street (called Corpse Cross Street) after Sunset and a stake driven through his heart, "to ensure he would not walk and bite people in their beds". His body was then dropped into a hastily-dug hole without a Priest present (which is one derivation of the name Copse Cross Street). The act of interring suicides here continued until 1923 when a law was passed to prevent the act.
-> 
+>
 > A few days later she walked down the isle to marry Mr. Rudhall but she collapsed into a trance before the service completed. She was taken home but vanished a short while later and was found at the Alton Road crossroads looking for Ralph's unhallowed grave. At every opportunity she would return to the crossroads and pace up and down the lane to Copse Cross Street. Being as no-one seemed to be able to prevent her doing this, her lonely vigil continued for for decades until she died which ended the forever the Old Maid's Walk.
 
 The source is claimed as *The Hereford Times*, 14/8/1986, but the original seems to be a story that appeared in the Ross Gazette of Thursday 16 December 1886, and reprinted again in the edition of Thursday 26 June 1913, p5-6. The author was a certain "EREGEN", who seems to be a regular contributor. For example, at the start of 1888, they author serialisation of *The Last of the Rudhalls, A Tale of the Civil Wars in Herefordshire, with Local Sketches* in that same newspaper.
@@ -427,27 +427,27 @@ We also recall the Rudhall almshouses on Church Street.
 Regarding the sin-eater, we also have a bit of colour in the story: let's just review it here. To begin with, we have a description of the circumstancee leading up to the burial:
 
 > The remains of poor Mortimer were token in a cart to Mrs. Jones's house, where he had lodged ; but Mrs. Jones stood firmly in the doorway, and forbad its being taken over the sill. "No," she said ; she didn't want her place haunted, and the man wasn't nothing to her. She wouldn't have him in there!" So he was taken to the nearest inn, the Welsh Harp, and there laid out in the skittle alley, with a sack thrown over the shapely limbs and comely face.
-> 
+>
 > The burial took place the same night. A strange burial it was.
 
 As the men in the pub feel pity, they feel they should summon the sin-eater:
 
 > " The parish wunt allow no coffin," said Joe Trumper, the horsebreaker, as the evening closed in, and he stood in the Welsh Harp skittle-alley by candlelight, with some companions, looking down, very little moved, at the prostrate, lifeless figure.
-> 
+>
 > "No," added Sam Morgan, the pig dealer, "and there'll be no service. Pity though, that the poor chap should be drowed in like a cannibal. We might get Old Jack the Scape to do what he could for him, though; what do'st say? "
 
 Then we have the description of the sin-eater, and his ritual, which borrows heavily from Aubrey, and whose name also invokes the idea of the scapegoat:
 
 > Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater." Such a profession was by no means uncommon in Herefordshire. In half an hour's time, old Jack was standing by the coffin in the skittle-alley. " I don't me'nd," said he; " but you ain't got no bowl made of maple-wood, and that's what I always has gi'en me, full of beer, as well as the sixpence. "
-> 
+>
 > " No," replied Tom Morgan ; " thee must manage wi'out the maple bowl; but here's a quart-pot o' good old stingo ; I ha' paid for him mysen; thee must make this 'un do ; get to work, Jack, for the grave will be waiting."
-> 
+>
 > " Very well," said the Scape ; " now you must hand me the quart of beer and the sixpence *across* the body."
-> 
+>
 > " Had thee got a silver sixpence, Trumper ? " said Morgan; " we'll club round, a penny a piece, and pay thee back, directly."
-> 
+>
 > Tramper produced the coin ; and the Scape, after receiving that and the bear, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourbood. And may Heaven ham mercy on us all, Amen ! "
-> 
+>
 > This absurd ceremony was observed with solemn silence by the rest of the men present ; and the Scape, with another " Amen," drank heartily from the quart pot. " All for myself, mind,' he added: "I take all the consequnces, and I has all the beer ! "
 
 The interment follows, a lonely and solitary affair:
