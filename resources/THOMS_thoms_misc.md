@@ -135,7 +135,7 @@ Preface
 
 I HAVE sought in this book to ascertain and set forth the principles upon which folklore may be classified, in order to arrive at some of the results which should follow from its study. That it contains ethnological elements might be expected by all who have paid any attention to recent research, but no attempt has hitherto been made to set these elements down categorically and to examine the conclusions which are to be drawn from them.
 
-It is due to the large and increasing band of folklore devotees that the uses of folklore should be brought forward. The scoffer at these studies is apt to have it all his own way so long as the bulk of the books published on folklore contain nothing but collected examples of tales, customs, and superstitions, arranged for no purpose but that of putting the facts pleasantly before readers. But, more than this, recent research tends to show the increasing importance of bringing into proper order, within reasonable time, all the evidence that is available from different sources upon any given subject of inquiry. Looked at in this light, ethnology has great claims upon the student. The science of culture has almost refused to deal with it, and has been content with noting only a few landmarks which occur here ami there along the lines of development traceable in the elements of human culture. But the science of history has of late been busy with many problems of ethno- logical importance, and has for this purpose turned sometimes to craniology, sometimes to archeology, sometimes to philology, but rarely to folklore. If folk- lore, then, does contain ethnological facts, it is time that they should be disclosed, and that the method of dis- covering them should be placed before scholars.
+It is due to the large and increasing band of folklore devotees that the uses of folklore should be brought forward. The scoffer at these studies is apt to have it all his own way so long as the bulk of the books published on folklore contain nothing but collected examples of tales, customs, and superstitions, arranged for no purpose but that of putting the facts pleasantly before readers. But, more than this, recent research tends to show the increasing importance of bringing into proper order, within reasonable time, all the evidence that is available from different sources upon any given subject of inquiry. Looked at in this light, ethnology has great claims upon the student. The science of culture has almost refused to deal with it, and has been content with noting only a few landmarks which occur here ami there along the lines of development traceable in the elements of human culture. But the science of history has of late been busy with many problems of ethno- logical importance, and has for this purpose turned sometimes to craniology, sometimes to archeology, sometimes to philology, but rarely to folklore. If folk-lore, then, does contain ethnological facts, it is time that they should be disclosed, and that the method of dis- covering them should be placed before scholars.
 
 Of course, my attempt in this direction must not be looked upon in any sense as an exhaustive treatment of the subject, and I am not vain enough to expect that all my conclusions will be accepted. I believe that the time has come when every item of folklore should be docketed and put into its proper place, and I hope I have done something towards this end in the following pages. When complete classification is attempted some of the items of folklore will be found useless enough. But most of them will help us to understand more of the development of thought than any other subject; and many of them will, if my reading of the evidence is correct, take us back, not only to stages in the history of human thought, but to the people who have yielded up the struggle of their minds to the modern student of man and his strivings.
 
@@ -320,3 +320,19 @@ The Nineteenth Century  Vol. 10
 Vol 10 December
 p886-900
 Gossip of an Old Bookworm
+
+---
+
+
+https://www.jstor.org/stable/3814676 The Thomsian Heritage in the Folklore Society (London)
+Gillian Bennett
+Journal of Folklore Research
+Vol. 33, No. 3 (Sep. - Dec., 1996), pp. 212-220 (9 pages)
+
+
+
+---
+
+downloaded
+william-thoms-biography-jstor-1495929.pdf
+thoms-folkore-heritage-jstor-3814676.pdf
