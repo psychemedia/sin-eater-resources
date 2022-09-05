@@ -36,6 +36,36 @@ Where *The Golden Bough* might be thought capable of adding something to the dis
 
 [*The Ethnic Genealogy of Folklore*, 1892](https://archive.org/details/ethnologyinfolkl00gommiala), by George Gomme, embraces the emerging field of folklore and sets out to provide a study of a population's wider traditions and beliefs as a formal branch of study.
 
+In the preface, on p.v-viii, Gommes sets out his motivation for the work:
+
+> Preface
+> 
+> I HAVE sought in this book to ascertain and set forth the principles upon which folklore may be classified, in order to arrive at some of the results which should follow from its study. That it contains ethnological elements might be expected by all who have paid any attention to recent research, but no attempt has hitherto been made to set these elements down categorically and to examine the conclusions which are to be drawn from them.
+> 
+> It is due to the large and increasing band of folklore devotees that the uses of folklore should be brought forward. The scoffer at these studies is apt to have it all his own way so long as the bulk of the books published on folklore contain nothing but collected examples of tales, customs, and superstitions, arranged for no purpose but that of putting the facts pleasantly before readers. But, more than this, recent research tends to show the increasing importance of bringing into proper order, within reasonable time, all the evidence that is available from different sources upon any given subject of inquiry. Looked at in this light, ethnology has great claims upon the student. The science of culture has almost refused to deal with it, and has been content with noting only a few landmarks which occur here ami there along the lines of development traceable in the elements of human culture. But the science of history has of late been busy with many problems of ethno- logical importance, and has for this purpose turned sometimes to craniology, sometimes to archeology, sometimes to philology, but rarely to folklore. If folk-lore, then, does contain ethnological facts, it is time that they should be disclosed, and that the method of dis- covering them should be placed before scholars.
+>
+> Of course, my attempt in this direction must not be looked upon in any sense as an exhaustive treatment of the subject, and I am not vain enough to expect that all my conclusions will be accepted. I believe that the time has come when every item of folklore should be docketed and put into its proper place, and I hope I have done something towards this end in the following pages. When complete classification is attempted some of the items of folklore will be found useless enough. But most of them will help us to understand more of the development of thought than any other subject; and many of them will, if my reading of the evidence is correct, take us back, not only to stages in the history of human thought, but to the people who have yielded up the struggle of their minds to the modern student of man and his strivings.
+>
+> At the risk of crowding the pages with footnotes, I have been careful to give references to all my authorities for items of folklore, because so much depends upon the value of the authority used in these studies. I believe they are all quoted accurately, but shall always be glad to know of any corrections or additions.
+>
+> Professor Rhys has kindly read through my proofs, and I am very grateful for the considerable service he has thereby rendered me.
+>
+> BARNES COMMON, S.W.
+>
+> March 1892.
+
+The context is further qualified at the start of the opening chapter, p1-2:
+
+> Chapter 1
+>
+> Survival and Development
+>
+> THERE has grown up of late years a subject of inquiry- first antiquarian merely, and now scientific into the peasant and local elements in modern culture, and this subject has not inaptly been termed ' folklore.' Almost always at the commencement of a new study much is done by eager votaries which has to be undone as soon as settled work is undertaken, and it happens, I think, that because the elements of folklore are so humble and unpretentious, because they have to be sought for in the peasant's cottage or fields, in the children's nursery, or from the lips of old gaffers and gammers, that unusual difficulties have beset the student of folklore. Not only has he to undo any futile work that stands in the way "of his special inquiry, but he has to attempt the rebuilding of his edifice in face of contrasts frequently drawn between the elements which make up his subject and those supposed more dignified elements with which the historian, the archaeologist, and the philologist have to deal.
+>
+> The essential characteristic of folklore is that it consists of beliefs, customs, and traditions which are far behind civilisation in their intrinsic value to man, though they exist under the cover of a civilised nationality. This estimate of the position of folklore with reference to civilisation suggests that its constituent elements are survivals of a condition of human thought more backward, and therefore more ancient, than that in which they are discovered.
+>
+> Except to the students of anthropology, the fact of the existence of survivals of older culture in our midst is not readily grasped or understood. Historians have been so engrossed with the political and commercial progress of nations that it is not easy to determine what room they would make in the world for the non-progressive portion of the population. And yet the history of every country must begin with the races who have occupied it. ...
+
 In chapter V. of the work, entitled *"The Ethnic Genealogy of Folklore"*, the genealogy of a partcular class of traditions, specifically, *"Eating of dead kindred"*, is reviewed, as charted on p. 124 of that work. The following excerpt, [pp.116-120](https://archive.org/details/ethnologyinfolkl00gommiala/page/116/mode/2up?q=sin+eating), relates specifically to a consideration of the sin-eater tradition, but the wider chapter is worth reading in full:
 
 > ...
