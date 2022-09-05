@@ -13,7 +13,7 @@ Writing in Chapter 53, *"Antiquarianism and History"*, p. 516, of *A Companion t
 ```
 ## The Founding of the Cambrian Archaeological Association, 1846-7
 
-In the first part of the 19th century, the new kid on the block was *archaeology*. The British Archaeological Association (BAA) was founded in December, 1843, shortly followed by the formation of the *Archaeological Institute*. (There is probably a story in there somewhere about whether this was a set up by a disenchanted splinter group.)
+In the first part of the 19th century, another new kid on the block was *archaeology*. The British Archaeological Association (BAA) was founded in December, 1843, shortly followed by the formation of the *Archaeological Institute*. (There is probably a story in there somewhere about whether this was a set up by a disenchanted splinter group.)
 
 In January 1846, two Welsh clergyman, the Rev. Harry Longueville Jones and the Rev John Williams launched a richly illustrated journal of their own, *Archaeologia Cambrensis* (*Arch. Camb.*) ([original issue, volume I, issue I](https://archive.org/details/sim_archaeologia-cambrensis_1846-01_1_1)).
 
