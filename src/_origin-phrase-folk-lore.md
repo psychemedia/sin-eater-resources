@@ -116,7 +116,7 @@ In *Notes and Queries*, [1899-11-04: Vol 4 Iss 97 / 9th S. IV pp370-373](https:/
 
 ## "Ambrose Merton", Folk-Lore, and the Lore of the People
 
-The term folk-lore was introduced by William Thoms, writing under the pseudonym of Ambrose Merton*, to the [*Athenaeum* issue 982, of August 22nd, 1846, pp62-3](https://babel.hathitrust.org/cgi/pt?id=uc1.c3470610&view=1up&seq=621&skin=2021).
+The term folk-lore was introduced by William Thoms, writing under the *nom de plume* of *Ambrose Merton*, in a letter published in the [*Athenaeum* issue 982, of August 22nd, 1846, pp62-3](https://babel.hathitrust.org/cgi/pt?id=uc1.c3470610&view=1up&seq=621&skin=2021).
 
 > Folk-Lore, the Lore of the People
 >
