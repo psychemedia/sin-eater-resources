@@ -173,7 +173,7 @@ Thoms himself replied concerning the origins of the phrase in the issue of 26th 
 >
 > Popular antiquities and superstition, and the relation of national legends and traditions to one another, had long been a subject of great interest to me— an interest greatly fostered by the perusal of Grimm's *Deutsche Mytholigie*. Some time after the appearance of the second edition of that masterly work, ] began to put in order the notes which I had been collecting for years, with a view to their publication ; and feeling sure that the Iron Horse then beginning to ride roughshod over every part of the country would soon trample under foot and exterminate all traces of our old beliefs, legends, &d., I besought *The Athenaeum* to lend its powerful influence towards their collection and preservation.
 >
-> My kind friend, Mr. Dilke, most readily fell into my views. The subject was "tapped" (as Horace Walpole would say) in that journal on the 22nd August, 1846, in a paper written by myself under the pseudonym of Amprose Merton, and headed Foik-Lore.
+> My kind friend, Mr. Dilke, most readily fell into my views. The subject was "tapped" (as Horace Walpole would say) in that journal on the 22nd August, 1846, in a paper written by myself under the pseudonym of Ambrose Merton, and headed Foik-Lore.
 >
 > In the opening of that appeal, I described the subject as "what we in England designate as popular antiquities, or popular literature (though, by-the-bye, it is more a Lore than a Literature, and would be most aptly described by a good Saxon compound, Folk-Lore—the Lore of the People)."
 >
