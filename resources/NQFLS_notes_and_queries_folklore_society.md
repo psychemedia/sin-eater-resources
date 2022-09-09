@@ -68,7 +68,7 @@ The countenance An Old Folk-Lorist gives to the scheme is very encouraging ; I a
 
 In this way only, I venture to think, could the Society materially help on the study of comparative folk-lore, or work with full benefit in other respects to those interested in its existence. I do not see why we should cast a slight on Dr. Brown, F.S.A., and the Rev. — Jones (both of whom have published works on folk-lore) by accounting certain items of their carefully chronicled collections as "unrecorded," merely because Brand and his editors lacked information of which Messrs. Brown and Jones have become possessed. The English Dialect Society carries on its investigations on the strength of half-guineas ; may not the Folk-Lore Society hope to do the same, and thereby secure many supporters, who might hold aloof in these "hard times" if membership involved the payment of a higher sum ?
 
-I quite agree with An Old Folk-Lorist " that not a day should be lost in organizing" the Society; and I believe he and many others will agree with me that some important position therein should be offered to the original Folk-lorist of the Atheneum, the ex-editor of the "learned, chatty, useful " periodical in which the present scheme was mooted, Mr. William J. Thoms. Is it too much to ask him to take some active preliminary steps in the cause— to play the grandfather to the bantling of his own offspring, "N. & Q."?) St. Swithin.
+I quite agree with An Old Folk-Lorist " that not a day should be lost in organizing" the Society; and I believe he and many others will agree with me that some important position therein should be offered to the original Folk-lorist of the Athenaeum, the ex-editor of the "learned, chatty, useful " periodical in which the present scheme was mooted, Mr. William J. Thoms. Is it too much to ask him to take some active preliminary steps in the cause— to play the grandfather to the bantling of his own offspring, "N. & Q."? St. Swithin.
 
 I concur with several correspondents of "N. & Q." that no time should be allowed to be lost in establishing this society. A special department might be constituted for the collection and recording of Celtic folk-lore, the superstitious beliefs and practices and the other popular lore of Ireland, Wales, the Scottish Highlands, and Man, —items which are interesting from their distinctive character, and the more urgently in need of preservation because associated in most cases with perishing vernacular tongues. In connexion with the useful list given by Mr. Ratcliffe, and continued by others, it may be mentioned that several Highland publications devote space to the subject of folk-lore, e.g. the *Inverness Courier*, the *Highlander*, and the *Celtic Magazine* (Inverness, A. & W. Mackenzie) ; and that the Gaelic Society of Inverness have appointed a folk-lore committee. Some interesting contributions to the subject were contained in the *Gaidheal*, a magazine published by Messrs. Nicolson, of Glasgow. It is now, I fear, extinct, and as I have received no reply to a communication addressed to the publishers, I presume certain back numbers which I require cannot be supplied by them. Should the work be in the hands of any reader of " N. & Q.," he would confer a favour by lending the numbers in question (June, 1873 ; June, 1874; August, 1874; all previous to November, 1872, and all subsequent to September, 1874), or any of them, for inspection, or, if preferred, I should be glad to purchase them.
 
@@ -85,8 +85,7 @@ British Museum.
 https://archive.org/details/sim_notes-and-queries_1876-08-12_6_137/page/136/mode/2up Notes and Queries  1876-08-12: Vol 6 Iss 137 p137-8
 A Folk-Lore Society (5S. v. 124, 294, 457; vi. 12, 37, 91.)—The bibliography of the subject would form an important division of the projected society's publications ; and, having made extensive collections respecting the superstitions and religious beliefs of mankind generally, I should be happy to afford assistance in that field of its labours.
 
-A half-guinea subscription would tend to give numerical importance to the society, and enlist in
-its service many contributors who might otherwise stand aloof; while the subscribing for several copies would enable those to promote its financial success who are able and willing.
+A half-guinea subscription would tend to give numerical importance to the society, and enlist in its service many contributors who might otherwise stand aloof; while the subscribing for several copies would enable those to promote its financial success who are able and willing.
 
 The plan of aggregating the folk-lore of races or countries in separate books would scarcely, I fear, answer, since it would either indefinitely delay the society's issues, or tend to split them, as additional materials accumulated, into a multitude of insignificant portions. It would appear more advisable to classify according to subject (" Days and Seasons," "Spells and Charms," &c.), and to issue in *fasciculi*, with a continuous pagination, notes under each heading, duly labelled, in Mr. Skeat's phrase, "after the manner of the mineralogist, with the place of collection," leaving further classification to very full synoptical indexes. This method would enable the society to commence its publications at once, and thereby foster and increase the ardour of its members, which long delays would as certainly quench. Tho. Satchell.
 Oak Village, N.W.
@@ -100,17 +99,17 @@ A Folk-Lore Society (5th S. v. 124, 294, 457; vi. 12, 37, 90, 137.)—To make su
 H. Fishwick, F.S.A.
 
 https://archive.org/details/sim_notes-and-queries_1877-01-27_7_161/page/76/mode/2up Notes and Queries  1877-01-27: Vol 7 Iss 161 p77
-A Folk-Lore Society (5th S. v. 124, 294, 457; vi. 12, 37, 90, 137, 198.)— Those who desire the establishment of such a society will be pleased to see from the following paragraph that some of tehe powers that be in Australia are fully alive to the importance of the subject, one in which readers of "N. & Q." have always shown much interest:—
+A Folk-Lore Society (5th S. v. 124, 294, 457; vi. 12, 37, 90, 137, 198.)— Those who desire the establishment of such a society will be pleased to see from the following paragraph that some of the powers that be in Australia are fully alive to the importance of the subject, one in which readers of "N. & Q." have always shown much interest:—
 
 "The folk-lore of Australia is being investigated by the Adelaide Government, and circulars containing a hundred questions on the subject, framed by the Rev. G. Taplin, have been sent round throughout the colonies. Replies have been received from twenty-six persons, and the result of the inquiries is shortly to be published. The late Dr. Bleek, who had devoted so much of his time to the legends of South Africa, was he first to suggest this investigation to the Government." *Graphic*, Dec. 30, 1876.
 St. Swithin
 
 https://archive.org/details/sim_notes-and-queries_1877-05-12_7_176/page/374/mode/2up Notes and Queries  1877-05-12: Vol 7 Iss 176 p375
 A Folk-Lore Society (5th S. v. 124, 294, 457 ; vi. 12, 37, 90, 137, 198; vii. 77.)— May I ask if any action is being taken in this matter? There can be little doubt, I fancy, but that, were it generally known such a society was in process of formation, many would be anxious to join it. There is such obvious need for it, that there can be surely only one opinion as to its success. I sincerely trust the hope of founding the Folk-Lore Society has not been abandoned.
-William Goerge Black
+William George Black
 
 https://archive.org/details/sim_notes-and-queries_1877-06-23_7_182/page/n15/mode/2up Notes and Queries  1877-06-23: Vol 7 Iss 182 p497
-A Folk-Lore Society (5th S. v. 124, 294, 457 ; vi. 12, 37, 90, 137, 198; vii. 77, 375.)— I also should be glad to hear if anything is being done in this matter. Probably if a few persons could agree to meet somewhere in London the society could at once be formed, but what is every one's business isusually left undone. As a last resource — not if any one else will undertake the matter — I would willingly receive any communications relaive to the formation of such a society.
+A Folk-Lore Society (5th S. v. 124, 294, 457 ; vi. 12, 37, 90, 137, 198; vii. 77, 375.)— I also should be glad to hear if anything is being done in this matter. Probably if a few persons could agree to meet somewhere in London the society could at once be formed, but what is every one's business is usually left undone. As a last resource — not if any one else will undertake the matter — I would willingly receive any communications relaive to the formation of such a society.
 J. Henry.
 48, Devonshire Street, W.C.
 
@@ -144,7 +143,7 @@ I insist upon the subscription being 1l. because I foresee that, from the nature
 
 Next to the gathering together the relics of our own folk-lore, and eventually the analogous folk lore of other countries, the printing and circulation of the more important items will be the chief object of the society.
 
-There would, on the one hand, be great economy in confining this to the publication of an annua! volume.
+There would, on the one hand, be great economy in confining this to the publication of an annual volume.
 
 On the other, though there are obvious objections besides that of increased expense, there would probably be some compensating advantages by smaller and more frequent issues, something like the *Zeitschrift für deutsche Mythologieund Sittenkunde*, of which the first volume appeared in 1853, and the second in 1855, under the editorship of Dr. J. W. Wolf; the third in the same year ; and the fourth, and I believe last, in 1859, edited by Dr. W. Mannhardt. They are now before me, and are perfect treasure-houses of folk-lore.
 
@@ -168,13 +167,81 @@ The published prospectus of the Folk-Lore Society will show that the suggestion 
 Castelnau, Barnes.
 
 
+---
+
+
+
+
+
+
+https://archive.org/details/folklorejournal00sout/page/n9/mode/2up
+ Folk-lore journal
+
+by
+    South African Folk-Lore Society Working Committee
+
+
+Publication date
+    1879 
+p1-3
+[followed by a list of members and the rules]
+
+THE FOLK-LORE SOCIETY
+FOR COLLECTING AND PRINTING
+RELICS OF POPULAR ANTIQUITIES, &c.
+
+PRESIDENT— THE RIGHT HON. THE EARL OF VERULAM, F.R.G.S.
+
+COUNCIL.
+
+JAMES BRITTEN, F.L.S., HENRY C. COOTE, F.S.A., SIR W. R. DRAKE, F.S.A., G. LAURENCE GOMME,F.R.Hist.S, HENRY HILL, F.S.A., A. LANG, M.A.
+PROFESSOR MAX MULLER, M.A. F. OUVRY, PRES. S.A. W. R. S. RALSTON, M.A. EDWARD SOLLY, F.R.S. F.S.A. WILLIAM J. THOMS, F.S.A. EDWARD B. TYLOR, LL.D.
+
+DIRECTOR.— WILLIAM J. THOMS, F.S.A.
+TREASURER.— SIR WILLIAM R. DRAKE, F.S.A.
+HONORARY SECRETARY.— G. LAURENCE GOMME, Castelnau, Barnes, S.W.
+AUDITORS.— E. HAILSTONE, ESQ. F.S.A. JOHN TOLHURST, ESQ.
+BANKERS.— UNION BANK OF LONDON, CHARING CROSS BRANCH.
+
+That there is a wide-spread and growing interest in our Popular Antiquities, and an increasing desire to preserve the fast-fading relics of our Popular Fictions and Traditions, Legendary Ballads, Local Proverbial Sayings, Superstitions and Old Customs, is manifest from the number of Provincial Newspapers in which a " Folk-Lore Column " now forms a prominent feature ; and, moreover, the researches of the antiquary and archaeologist are now recognized as important elements in the scientific evidence as to human history. But while these facts are recognized it is at the same time painfully felt that the labour of research is greatly increased by the wide field over which the materials are scattered.
+
+The suggestion, which has of late been strongly urged, that the want of a common centre where these scattered materials may be brought together, sifted, arranged, and the most important printed for future use, should be met by the formation of a Society established for this purpose, will be carried into effect by the Folk-Lore Society founded on the principle so successfully adopted by the Camden and similar Societies.
+
+The Folk-Lore Society will gather together the Folk-Lore articles scattered throughout English literature, and such communications on the same subject as may be forwarded direct to the Society, and select therefrom articles of special interest for publication by the Society; and, as opportunities arise, it will print such accounts of the Folk-Lore of the colonies, and also of other countries, as may serve to illustrate and explain that of our own.
+
+The Folk-Lore Society will also extend the field of its labours to European (Continental) and to Aboriginal Folk-Lore.
+
+European scholars have of late years paid considerable attention to popular antiquities, and many important works have been published thereon in the chief Continental countries : it will be the work of the Folk-Lore Society to collect and translate the most important of these works.
+
+In the department of Aboriginal Folk-Lore perhaps English students have been the most prominent. It is well known that a great quantity of material exists in manuscript wholly unavailable to the student and only awaiting the means of publication. To this purpose the Folk-Lore Society will devote one section of its labours.
+
+From the favour with which the announcement of the formation of the Society has been received the Council hope to issue during the year 1878 the first part of the "Records of the Folk-Lore Society," to contain those scattered notes on the Popular Superstitions, Legends, and Ballads of Great Britain and Ireland, which are almost the only traces of the primitive mythology of these Islands. It is also hoped that the commencement of a translation of Grimm's great work, " Deutsche Mythologie," will be issued, as well as some illustrations of Aboriginal Folk-Lore, probably from the Japanese.
+
+Every publication of the Society will be under careful revision, and endeavours will be made to insure, as far as possible, the genuineness of all matter admitted into the archives of the Society.
+
+The Annual Subscription is One Guinea, payable in advance on the first of January, which will entitle Members to receive the publications of the Society according to the Rules; and any Member may at any time compound for his future annual subscriptions by payment of Ten Guineas over and above the subscription for the current year. Any Ladies or Gentlemen desirous of joining the Society are requested to communicate with the Honorary Secretary, who will be glad to receive suggestions and literary contributions on any branch of the Society's labours.
+
+
+I. " The Folk-Lore Society " has for its object the preservation and publication of Popular Traditions, Legendary Ballads, Local Proverbial Sayings, Superstitions and Old Customs (British and foreign), and all subjects relating to them.
+II. The Society shall consist of Members being subscribers to its funds of One Guinea annually, payable in advance on the 1st of January in each year.
+III. A Member of the Society may at any time compound for future annual subscriptions by payment of Ten Guineas over and above the subscription for the current year.
+IV. An Annual General Meeting of the Society shall be held in London at such time and place as the Council from time to time appoint. No Member whose subscription is in arrear shall be entitled to vote or take part in the proceedings of the Meeting.
+V. The affairs of the Society, including the admission of Members, shall be conducted by a President and a Council of twelve Members, who shall from among themselves elect a Director, Treasurer, and Secretary. The Council shall have power to fill up occasional vacancies in their number.
+VI. At each Annual General Meeting all the Members of the Council shall retire from office, but shall be eligible for re- election.
+VII. The accounts of the receipts and expenditure of the Society shall be audited annually by two Auditors, to be elected at the General Meeting.
+VIII. Any Member who shall be one year in arrear of his subscription shall cease to be a Member of the Society.
+IX. Every Member (whose subscription shall not be in arrear) shall be entitled to a copy of each of the ordinary works published by the Society.
+X. No alteration shall be made in these rules except at a Special General Meeting of the Society, and upon the requisition of at least five Members, nor then unless at least one month's previous notice of the change to be proposed shall have been given in writing to the Secretary. The alteration proposed shall be approved by at least three-fourths of the Members present at such Meeting.
+
+---
 
 https://archive.org/details/folklorerecord1187unse
 The Folk-lore record vol I 1878 
 PRESIDENT.  
 THE RIGHT HON. THE EARL OF YERULAM, F.R.G.S.  
 COUNCIL.  
-PROFESSOR MAX MULLER, M.A F. OUVRY, F.S.A.  
+PROFESSOR MAX MULLER, M.A
+F. OUVRY, F.S.A.  
 JAMES BRITTEN, F.L.S.  
 HENRY C. COOTE, F.S.A.  
 SIR W. R. DRAKE, F.S.A.  
@@ -199,13 +266,13 @@ II. The Society shall consist of Members being subscribers to its funds of One G
 
 III. A Member of the Society may at any time compound for future annual subscriptions by payment of Ten Guineas over and above the subscription for the current year.
 
-IY. An Annual General Meeting of the Society shall be held in London at such time and place as the Council from time to time appoint. No Member whose subscription is in arrear shall be entitled to vote or take part in the proceedings of the Meeting.
+IV. An Annual General Meeting of the Society shall be held in London at such time and place as the Council from time to time appoint. No Member whose subscription is in arrear shall be entitled to vote or take part in the proceedings of the Meeting.
 
 V. The affairs of the Society, including the admission of Members, shall be conducted by a President and a Council of twelve Members, who shall from among themselves elect a Director, Treasurer, and Secretary. The Council shall have power to fill up occasional vacancies in their number.
 
-YI. At each Annual General Meeting all the Members of the Council shall retire from office, but shall be eligible for re-election.
+VI. At each Annual General Meeting all the Members of the Council shall retire from office, but shall be eligible for re-election.
 
-YII. The accounts of the receipts and expenditure of the Society shall be audited annually by two Auditors, to be elected at the General Meeting.
+VII. The accounts of the receipts and expenditure of the Society shall be audited annually by two Auditors, to be elected at the General Meeting.
 
 VIII. Any Member who shall be one year in arrear of his subscription shall cease to be a Member of the Society.
 
@@ -241,35 +308,7 @@ One word more. Since the Society was formed, our active and intelligent Secretar
 
 William J. Thoms.
 
-
-
-
-https://archive.org/details/folklorejournal05folkuoft/page/n4/mode/2up?q=promoting SOME SIMPLE METHODS OF PROMOTING THE STUDY OF FOLK-LORE, AND THE EXTENSION OF THE FOLK-LORE SOCIETY. p62-5
-
-SOME SIMPLE METHODS OF PROMOTING THE STUDY OF FOLK-LORE, AND THE EXTENSION OF THE FOLK-LORE SOCIETY.
-
-LOOKING back through former volumes of the JournaL it strikes one very forcibly how little of English folk-lore they contain. While school attendance officers, newspaper-vendors, and popular scientific lecturers, are prowling about our most retired country villages, our members are calmly engaged in " surveying mankind from China to Peru," apparently in happy unconsciousness that these modern Aids to the Advancement of Learning are rapidly destroying the curious old *folk*-learning which it was surely the original purpose of the Society to record before it should be too late.
-
-There must be some misapprehension in the minds of our country members, or this would not be so. Is it that they are bashful, and wait to be asked to contribute ? In that case, it might be well to insert an editorial notice to the effect that brief local notes are welcome. Or do they think the numberless little matters of folk-lore which must come under the observation of dwellers in the country are too trivial or too well-known to be worth recording ? If so, they surely make a great mistake. In the first place, it is just as rash for persons who have chiefly lived in one place to conclude that what is familiar to them must be familiar to all the world, as it is to fly into the opposite (but not uncommon) error of fancying that what is customary in their own neighbourhood is peculiar to the locality and unknown to the rest of the world. Besides, even though a given item may be known elsewhere, it has more than once been pointed out in the Journal that the geographical distribution of folk-lore is a matter of interest, and that things already recorded are yet worth noting when a definite, and possibly a hitherto-unnoticed, locale can be assigned to them.
-
-Perhaps it might help to remove the evident uncertainty as to what is wanted if particular points on which further information is desirable were from time to time specified by authority in the Journal, and members were requested to state the custom or belief of their own neighbourhood as to the matter in question in the next Quarterly Part. This would be something definite, and would undoubtedly meet with a certain amount of response.
-
-Another thing that strikes one every day is the extraordinary ignorance of even otherwise well-educated people, first, of the nature of folk-lore, and secondly, of the existence of the Folk-Lore Society. For myself, I think I have only met with one person who had heard of the latter before I mentioned it, and he thought its object was the study of dialects ! This general ignorance will have to be removed before any really substantial progress can be made in collecting. For there is one noteworthy point about the study of folk-lore, in which it differs from all other branches of learning except the study of dialects, viz. that it cannot be pursued by the savants without the aid of the comparatively unlearned — those who mingle familiarly with the folk, who go in and out among them, know their ways, their ideas, and their modes of thought ; nay, who in many cases have themselves been brought up in an atmosphere of old-world manners and customs, very far removed from that of modern English life. These are the people who must be enlisted in the cause and incited to bring grist to the mills of the scientific folk-lorists : the point to be considered is, how best to get hold of them.
-
-In the first place, the admirable prospectus of the Society should be widely distributed, by which I do not mean that it should be sent to all-and-sundry in a halfpenny wrapper, to meet with immediate " happy despatch " in the waste-paper basket ; but that every individual member should exert himself or herself to put two or three copies of it into the hands of intelligent friends.
-
-In the second place we ought to gain the attention of the newspapers. What the Psychical Society can do, surely the Folk-Lore Society can. What steps to take with regard to the London press I leave to the consideration of Londoners ; but there are thousands of middle-class country people who can be reached through the country press better than through any other medium, and what I want particularly to urge on our country members is the importance of drawing attention to the subject in the columns of their several local newspapers. The occasional paragraphs headed " Extraordinary Superstition," the announcements that " The ancient custom of so-and-so was observed in this town on such-a-day," would give opportunities for letters or articles on the general subject of folk-lore, which would without question be gladly welcomed by the editors of the better class of country papers. Again, queries on definite points of local usage, &c. will generally meet with some response. I speak from personal experience, and I could name two most energetic collectors who obtain the chief part of their materials in this way. Many of the local editors, too, would willingly, if it were suggested to them, insert portions of the prospectus in the form of a paragraph ; especially where there is an antiquarian column, to which it would form a valuable con- tribution. Moreover, besides helping to arouse the interest of the general public by these means, we could not obtain more useful coadjutors than the writers for the local press themselves. I have, myself, received most courteous and competent assistance in collecting from members of their calling. The chiefs among them are naturally some of the ablest and most cultivated men of their class, and the subordinate members of the staff have unrivalled opportunities of getting at the folk-lore of their several districts.
-
-Perhaps more tangible results in the way of new subscribers, (of whom our funds notoriously stand in need), might be obtained by the private circulation of the prospectus ; but the general enlightenment of the public mind would certainly be better attained through the newspapers than in any other way, and this would also be the readiest means of increasing the stock of recorded English folk-lore, while here and there a real appreciation of the subject would be found lurking in unexpected quarters. But apart from interested motives, the promotion of the study of folk-lore is a desirable object in itself. It has a dractical bearing on the affairs of human life. Captain Temple has pointed out (Journal, vol. iv. p. 209) the value of the study to all Englishmen who are called upon (as so many are called upon) to exercise authority over savage and uncivilized tribes. But there are barbarians nearer home than in India or New Zealand, and surely any one who is placed in a position of authority over uneducated folk must gain in largeness of judgment and breadth of view, and must, therefore, be better fitted for his post, when he has arrived at a perception of the cardinal fact that widely separated stages of progress may coexist in the same country at the same time, and has learnt that the ideas of the folk are not necessarily to be ridiculed or despised when they differ from those which his education has instilled into him. When people understand the reasons of the prejudices of uneducated folk they must know better how to deal with them, and how to set about trying to reconcile them with the principles of modern culture and civilization.
-
-Charlotte S. Burne.
-Pyebirch, Eccleshall, Staffordshire. 13th December, 1886.
-
-As one of the Honorary Secretaries of the Society I may, perhaps, be allowed to say how heartily I endorse Miss Burne's excellent and practical suggestions as set forth above.
-
-One of them, viz. that relating to the desirability of enlisting the help of country editors, I hope to carry into effect without delay, by printing an extract from the letter itself, together with such particulars from the Prospectus of the Society as shall give an idea of the aims of the Folk-Lore Society, and make, I trust, a not unsuccessful appeal. This I propose to send to the editor of every good country newspaper.
-J. J. Foster,
-Hon. Sec.
+---
 
 
 https://archive.org/details/sim_saturday-review_1876-02-05_41_1058/page/168/mode/2up?q=decay
@@ -293,21 +332,33 @@ The school and the clergyman together have done a great deal, partly of delibera
 
 Posterity will no doubt acknowledge the large debt of gratitude which it owes to the Education Department, the Training Collecges, and perhaps even to Spelling Bees and the *Daily Telegraph*, for the spread of that higher enlightenment which, from its centres in the towns, has illumined the depths of remote valleys in the rural districts. At the same time posterity will not forget that the certificated schoolmaster, "abroad " in the company of the penny journalist, has done a great deal with his high-polite English to destroy the old grammatical and philological landmerks of his countrymen. It would be too much to ask of her Majesty's Inspectors that they should require school managers, Boards, and teachers to preserve for future reference a collection of all the local phrases, " vulgarisms," and disallowed pronunciations which they have banished from their " Standards" throughout the land; but the volunteer chiffonniers who would endeavour thus to collect the sweepings cast outside the school premises might comfort themselves with the hope that their labours will not be unrecognized a hundred years hence. The collector even of " old wives' fables," of local superstitions, and other waiis and strays of an imperfectly educated past, may encourage himself in the same hope. The legends and traditions of the English people are at least of no smaller interest than those old memorials of the Hellenic race which give so vivid and abiding an interest to the first volume of Grote's *History of Greece*.
 
----
-
-
---
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000033/18780109/037/0006
-
-Birmingham Daily Post
-Wednesday 09 January 1878
-p6
-
-Folk-lore.
-
-A "Folk-lore Society" has been formed for the purpose of preserving the fast-fading relics of our popular fictions and traditions, legendary ballads, local proverbial sayings, superstitions, and old customs. According to the prospectus, the new society "will gather together the folk-lore articles scattered throughout English literature, and such communications the same subject as may be forwarded direct to the society, and select therefrom articles of special interest for publication by the society; and, as opportunities offer, it will print the folk-lore of the colonies and also of other countries may serve to illustrate and explain that of our own. As the society increases and its means further develop, it is intended to extend the field of its labours, so as to include the collection and publication of the the folk-lore of aboriginal peoples." Among the members of the council are Mr. F. Ouvry (president of the Society of Antiquaries), Professor Max Müller, Mr. W. R. S. Ralston, M.A., and Mr. Edward Solly, F.R.S. Mr. Thoms has consented to act as director of the society.
 
 ---
+
+
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000962/18770714/053/0004
+Ardrossan and Saltcoats Herald - Saturday 14 July 1877
+p4
+
+PROPOSED SOCIETY FOR THE STUDY OF FOLK-LORE.
+
+THE study of Folklore has made astonishing progress within the last few years. It is only about thirty years ago, we think we are correct in saying, since the word " folklore " was coined by that eminent antiquary, who is still happily with us, Mr W. T. Thoms, the founder and first editor of *Notes and Queries*. The fitness of the term was at once seen— it was simply a modern continuation of two thoroughly English words — *Falc*, " the common people," and *Lar* "learning," the knowledge or learning of " the people" upon general subjects, particularly when of traditional and unwritten character. Many works have now been published on the subject, and many minds are busied in the investigation of the curious facts unearthed. But there has been a general feeling that the study is hardly being conducted with sufficient care, and that owing to the want of system many districts which may contain most valuable materials have been left untouched. The happy suggestion then of a Society devoting itself entirely to Folklore, when it was made by one of *Notes and Queries* most able contributors about a year ago, was hailed with pleasure by very many Folklorists. But although not a few ideas were ventilated, no practical step was taken until a few weeks ago when Mr J. Henry, of 48 Devonshire Street, Queen Square, London, W.C., kindly intimated that with a view to some real result of all the correspondence, he would be glad to receive the names of those who might feel inclined to join in the formation of a Folklore Society. We trust that many will respond to this appeal, and give their willing assistance to the establishment of a Society so much needed. The intelligent Board-schoolmaster, and the extension of the railway lines, are fast banishing old beliefs and superstitions from among us. To a very great extent, of course, there is much to be proud of in this. None will regret the education and general progress in culture of a nation ; but those who scoff at the collectors of old wives' tales and seemingly unmeaning rhymes, should inform themselves of the reasons why folklorists seek to preserve the relics of old faiths and fears. The importance of folklore is immense—and this is being seen more clearly every day. It is only frequently by the comparison of the customs of one race and those of another that we can see the great connecting chain between them. Readers of books treating of Italian folklore find that many of the tales there recorded are well known (perhaps under different names) in Britain. Further a-field, there is much of interest in the investigation of the folklore of the South Pacific, and in comparing with that of other places. The thorough relationship of all men is never so fully seen as in their tales; the history of their progress from early days of early culture is never so intelligible as in the myths and songs which still linger. We have not space here, however, to go into more details on this subject at present, but will rather seek to place before our readers some of the probable work of the future Folklore Society. The Society will, we presume, for purposes of general convenience, have its centre in London, but we trust that before long, branches may appear in many parts of the provinces. In Scotland we hope there should be no difficulty in forming such a Society, but this is a matter of course for future consideration. Again, the interests of the Society require that it should have as large a membership as possible, even although to procure members a low rate of subscription should be required to be fixed upon. Ladies would be of the utmost help, and we hope that many will ere this, have sent their names to Mr Henry. By-and-bye perhaps a magazine exclusively devoted to Folklore might make its appearance—France has already such a one, but for the present our old-tried and valuable friend *Notes and Queries* might continue to receive Folklore scraps. Before all things, it is necessary that this scheme of a Folklore Society should be well known in the country, for it is in rural districts, and we have such in Ayrshire, naturally that all our most valuable notes are procured. Especially valuable would be the services of clergymen, doctors, and schoolmasters, and these, we hope, will not be slow in giving their welcome support to the proposed Society.
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000962/18771208/034/0003
+Ardrossan and Saltcoats Herald - Saturday 08 December 1877
+p3
+
+FOLKLORE SOCIETY.
+
+The attention of our readers has before now been called to the proposed Folklore Society. The preliminaries have, we are glad to learn, been arranged, and Mr G. Laurence Gomme, 26 Merthyr Terrace, Castelnau, Barnes, London, S. W., has undertaken the duties of hon. secretary. We trust that those, ladies as well as gentlemen, who take an interest in the subject, will not fail to send in their, names speedily to Mr Gomme, from whom any additional information desired, we doubt not, will be obtained. The subscription will be one guinea per annum. 
+
+---
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000057/18771208/008/0007
 
@@ -319,6 +370,18 @@ Scraps
 
 A FOLK-LORE SOCIETY, the formation of which has been under discussion for some time past in Notes and Queries, is now definitely proposed by Mr. William J. Thoms, who suggests the following points as a basis. – That the headquarters of the Society must be in London, and that there should be a yearly subscription of 1l. 1s. Regarding the first suggestion, Mr. Thoms writes: "I insist on this because the Folk Lore Society must not only have a local habitation and a name, but that habitation must be central and permanent," and as to the second he very naturally says that from the very motives of the Society the incidental expenses will be large, apart from the paper and printing ; and paper and print are luxuries which must be paid for. Mr. Thoms proposes that one of the duties of the Society will be to gather in the various local journals which indulge in folk-lore columns, and to mount and preserve these columns for future use, and, next to gathering together the relics of our folk-lore, the collecting of analogous folk-lore of other countries. The more important items of their researches would be published in an annual volume. Mr. G. Laurence Gomme, whose name is familiar to readers of Notes and Queuries, has consented to act as Honorary Searetary, and any lady or gentleman (for, remarks Mr. Thom, the Folk-Lore Society is one which may be greatly promoted by ladies) who may be disposed, is requested to communicate his orher intentions to that gentleman, at 26, Merthyr Terrace, Castelnau, Barnes, S. W.
 
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18771208/081/0018
+Illustrated London News
+
+Saturday 08 December 1877
+
+p18
+
+Echoes of the Week
+
+All those who are interested in popular legends, antique traditions, superstitions, nursery rhymes, old-fangled proverbs, and familiar locutions, quaint manners and customs, and, indeed, in all that goes the generic name of "folklore,"- will rejoice to hear that the originator of the term, the veteran Mr. J. W. Thoms, whilom Editor of *Notes and Queries* and librarian of the House of Lords, is busy organising a "Folk-Lore Society," the head-quarters of which are to be in London, and the subscription to which is to be a pound a year. I would rather that the subscription were guinea. The extra shilling is not missed; "little fishes eat sweet;" and what says the old song ?— "I'd rather have guinea than one-pound note." The object of the Folk-Lore Society (of which I am glad to see that ladies as well as gentlemen are to be eligible members) will be to collect, store-up, and publish accounts of all manner of curious, out-of-the-way oldwives erudition. Mr. G. Laurence Gomme is to be Honorary Secretary of the Society, which I shall hasten to join— if they will receive me. I have that within me which passeth show in the matter of folk lore; and I burn to unburden myself. I want to prove my favourite theories that Old Daddy Longlegs was Lollard or Wykliffite parson who declined to read the liturgy in Latin ; that Jack Sprat and his wife-were Empson and Dudley; and I have some surprising developments to make public concerning Dickens's dishes and Meg's Diversion. Who knows but that before the Folk-Lore Society is year old we may arrive at a knowledge of the real meaning of the proverb with which Queen Elizabeth posed the pedant who boasted that he had made a collection, in one volume, of all the proverbs in the world. "Nay, but," quoth her Highness, when she had read the book, "'Bate me an ace,' quoth Bolton." Who was Bolton; and why did he want an ace abated ?
 
 ---
 
@@ -336,72 +399,33 @@ A "Folk-lore Society" has just been formed for the purpose of preserving the rel
 
 ...
 
-
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000033/18780109/037/0006
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18771208/081/0018
-Illustrated London News
+Birmingham Daily Post
+Wednesday 09 January 1878
+p6
 
-Saturday 08 December 1877
+Folk-lore.
 
-p18
-
-Echoes of the Week
-
-All those who are interested in popular legends, antique traditions, superstitions, nursery rhymes, old-fangled proverbs, and familiar locutions, quaint manners and customs, and, indeed, in all that goes the generic name of "folklore,"- will rejoice to hear that the originator of the term, the veteran Mr. J. W. Thoms, whilom Editor of *Notes and Queries* and librarian of the House of Lords, is busy organising a "Folk-Lore Society," the head-quarters of which are to be in London, and the subscription to which is to be a pound a year. I would rather that the subscription were guinea. The extra shilling is not missed; "little fishes eat sweet;" and what says the old song ?— "I'd rather have guinea than one-pound note." The object of the Folk-Lore Society (of which I am glad to see that ladies as well as gentlemen are to be eligible members) will be to collect, store-up, and publish accounts of all manner of curious, out-of-the-way oldwives erudition. Mr. G. Laurence Gomme is to be Honorary Secretary of the Society, which I shall hasten to join— if they will receive me. I have that within me which passeth show in the matter of folk lore; and I burn to unburden myself. I want to prove my favourite theories that Old Daddy Longlegs was Lollard or Wykliffite parson who declined to read the liturgy in Latin ; that Jack Sprat and his wife-were Empson and Dudley; and I have some surprising developments to make public concerning Dickens's dishes and Meg's Diversion. Who knows but that before the Folk-Lore Society is year old we may arrive at a knowledge of the real meaning of the proverb with which Queen Elizabeth posed the pedant who boasted that he had made a collection, in one volume, of all the proverbs in the world. "Nay, but," quoth her Highness, when she had read the book, "'Bate me an ace,' quoth Bolton." Who was Bolton; and why did he want an ace abated ?
-
----
+A "Folk-lore Society" has been formed for the purpose of preserving the fast-fading relics of our popular fictions and traditions, legendary ballads, local proverbial sayings, superstitions, and old customs. According to the prospectus, the new society "will gather together the folk-lore articles scattered throughout English literature, and such communications the same subject as may be forwarded direct to the society, and select therefrom articles of special interest for publication by the society; and, as opportunities offer, it will print the folk-lore of the colonies and also of other countries may serve to illustrate and explain that of our own. As the society increases and its means further develop, it is intended to extend the field of its labours, so as to include the collection and publication of the the folk-lore of aboriginal peoples." Among the members of the council are Mr. F. Ouvry (president of the Society of Antiquaries), Professor Max Müller, Mr. W. R. S. Ralston, M.A., and Mr. Edward Solly, F.R.S. Mr. Thoms has consented to act as director of the society.
 
 
-https://archive.org/details/folklorejournal00sout/page/n9/mode/2up
- Folk-lore journal
-
-by
-    South African Folk-Lore Society Working Committee
-
-
-Publication date
-    1879 
-p1-3
-[followed by a list of members and the rules]
-
+----
+https://archive.org/details/sim_notes-and-queries_1878-11-09_10_254/page/n19/mode/2up
+Notes and Queries  1878-11-09: Vol 10 Iss 254
+p380
 THE FOLK-LORE SOCIETY
-FOR COLLECTING AND PRINTING
-RELICS OF POPULAR ANTIQUITIES, &c.
 
-PRESIDENT— THE RIGHT HON. THE EARL OF VERULAM, F.R.G.S.
-JAMES BRITTEN, F.L.S.
-HENRY C. COOTE, F.S.A.
-SIR W. R. DRAKE, F.S.A.
-G. LAURENCE GOMME,F.R.Hist.S
-HENRY HILL, F.S.A.
-A. LANG, M.A.
+The first book to be issued by this society is, we understand, rapidly approaching completion, and will be issued before Christmas. It will contain a curious collection of West Sussex Folk-lore; "Notes on Folk-tales" by Mr. Ralston; "The Folk-Lore of France" by Mr Lang; "Superstitions of the Hidatsa Indians" by Dr Tylor; "Notes on Chaucer's Night Spell" by Mr Thoms; "Some Japan Folk Tales" by Mr Pfowndes. The subscription to the society is one guinea. Ladies and gentlemen desirous of becoming members are requested to communicate with the Hon. Sec., G. Laurence Gomme. Esq., Castelnau, Barnes, S.W.
 
-COUNCIL.
 
-PROFESSOR MAX MULLER, M.A. F. OUVRY, PRES. S.A. W. R. S. RALSTON, M.A. EDWARD SOLLY, F.R.S. F.S.A. WILLIAM J. THOMS, F.S.A. EDWARD B. TYLOR, LL.D.
+---
+https://archive.org/details/sim_notes-and-queries_1878-12-21_10_260/page/504/mode/2up
+Notes and Queries  1878-12-21: Vol 10 Iss 260
+p505
 
-DIRECTOR.— WILLIAM J. THOMS, F.S.A.
-TREASURER.— SIR WILLIAM R. DRAKE, F.S.A.
-HONORARY SECRETARY.— G. LAURENCE GOMME, Castelnau, Barnes, S.W.
-AUDITORS.— E. HAILSTONE, ESQ. F.S.A. JOHN TOLHURST, ESQ.
-BANKERS.— UNION BANK OF LONDON, CHARING CROSS BRANCH.
+FOLK-LORE SOCIETY
 
-That there is a wide-spread and growing interest in our Popular Antiquities, and an increasing desire to preserve the fast-fading relics of our Popular Fictions and Traditions, Legendary Ballads, Local Proverbial Sayings, Superstitions and Old Customs, is manifest from the number of Provincial Newspapers in which a " Folk-Lore Column " now forms a prominent feature ; and, moreover, the researches of the antiquary and archaeologist are now recognized as important elements in the scientific evidence as to human history. But while these facts are recognized it is at the same time painfully felt that the labour of research is greatly increased by the wide field over which the materials are scattered.
-
-The suggestion, which has of late been strongly urged, that the want of a common centre where these scattered materials may be brought together, sifted, arranged, and the most important printed for future use, should be met by the formation of a Society established for this purpose, will be carried into effect by the Folk-Lore Society founded on the principle so successfully adopted by the Camden and similar Societies.
-
-The Folk-Lore Society will gather together the Folk-Lore articles scattered throughout English literature, and such communications on the same subject as may be forwarded direct to the Society, and select therefrom articles of special interest for publication by the Society; and, as opportunities arise, it will print such accounts of the Folk-Lore of the colonies, and also of other countries, as may serve to illustrate and explain that of our own.
-
-The Folk-Lore Society will also extend the field of its labours to European (Continental) and to Aboriginal Folk-Lore.
-
-European scholars have of late years paid considerable attention to popular antiquities, and many important works have been published thereon in the chief Continental countries : it will be the work of the Folk-Lore Society to collect and translate the most important of these works.
-
-In the department of Aboriginal Folk-Lore perhaps English students have been the most prominent. It is well known that a great quantity of material exists in manuscript wholly unavailable to the student and only awaiting the means of publication. To this purpose the Folk-Lore Society will devote one section of its labours.
-
-From the favour with which the announcement of the formation of the Society has been received the Council hope to issue during the year 1878 the first part of the "Records of the Folk-Lore Society," to contain those scattered notes on the Popular Superstitions, Legends, and Ballads of Great Britain and Ireland, which are almost the only traces of the primitive mythology of these Islands. It is also hoped that the com- mencement of a translation of Grimm's great work, " Deutsche Mythologie," will be issued, as well as some illustrations of Aboriginal Folk-Lore, probably from the Japanese.
-
-Every publication of the Society will be under careful revision, and endeavours will be made to insure, as far as possible, the genuineness of all matter admitted into the archives of the Society.
-
-The Annual Subscription is One Guinea, payable in advance on the first of January, which will entitle Members to receive the publications of the Society according to the Rules; and any Member may at any time compound for his future annual subscriptions by payment of Ten Guineas over and above the subscription for the current year. Any Ladies or Gentlemen desirous of joining the Society are requested to communicate with the Honorary Secretary, who will be glad to receive suggestions and literary contributions on any branch of the Society's labours.
+The *Folk-Lore Record*, No. I. The first publication of this new society is, it must be admitted, well timed. It contains much which will be now doubt relished alike by the members and the folk-lore loving public generally. In addition to a collection of West Sussex superstitions by Mrs. Latham, with notes on the plant lore by Mr, Britten, there will be found in it papers on French folk-lore by Mr. Lang, on folk tales by Mr. Ralston, on Italian folk-lore by Mr. Coote, tales and superstitions of the Japanese and of Hidatsa Indians, note on Chaucer's Night Spell by Mr. Thoms, &c. It contains many folk-lore notes and queries, and notices connected with the literature of the subject, which it is the special object of the society to popularize.
