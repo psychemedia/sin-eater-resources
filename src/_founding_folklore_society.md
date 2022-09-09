@@ -3,6 +3,7 @@
 In the *Saturday Review* of February 5th, 1876, an article appeared commenting on a new initiative by the editor of a provincial newspaper to encourage their local readers to send in collected examples of local folk-lore before it was lost and forgotten:
 
 ```{admonition} THE DECAY OF RURAL TRADITION, in The Saturday Review, February 5th, 1876
+:class: dropdown
 
 https://archive.org/details/sim_saturday-review_1876-02-05_41_1058/page/168/mode/2up?q=decay
 The Saturday Review of Politics, Literature, Science and Art  1876-02-05: Vol 41 Iss 1058
