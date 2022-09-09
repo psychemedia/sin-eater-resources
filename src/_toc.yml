@@ -24,6 +24,7 @@ parts:
   - file: _minor_skirmishes
   - file: _through_1880s
   - file: _ross
+  - file: _founding_folklore_society
   - file: _scientific_folklore
   - file: _folklore_1892
 - caption: The Second Controversy, 1895
