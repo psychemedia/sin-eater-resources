@@ -29,8 +29,6 @@ https://archive.org/details/percyanecdotesco02perc/page/30/mode/2up?q=%22corpse+
 
 Also Blackwoods 1818
 
-Howells 1831 https://archive.org/details/cambriansuperst00howegoog/page/n64/mode/2up?q=corpse+candle p59-65
-p58 ames of those who would die
 
 N&Q https://archive.org/details/sim_notes-and-queries_1878-01-26_9_213/page/n3/mode/2up
 
@@ -46,4 +44,7 @@ grose  proviincial glossary 1811 p115
 https://journals.library.wales/view/2000585/2000921/29#?cv=29&m=9&h=&c=&s=&manifest=https%3A%2F%2Fdamsssl.llgc.org.uk%2Fiiif%2F2.0%2F2000585%2Fmanifest.json&xywh=-1820%2C-187%2C5623%2C3708vol Vol 1 May 1820 The Cambro-Briton and general Celtic repository
 
 
-
+Howells 1831 
+https://archive.org/details/cambriansuperst00howegoog/page/n64/mode/2up?q=corpse+ p59-65
+p58 ames of those who would die
+HWLCS_howell_cambrian_superstitions.md
