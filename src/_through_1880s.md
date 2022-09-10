@@ -352,6 +352,26 @@ Some of Aubrey's "observations" on occult and supernatual matters had been previ
 
 But now for the first time we have a collection that provides us us a relatively direct form access to Aubrey's text without having to visit the British Library and view the original manuscript.
 
+```{admonition} "Remains of Gentilisme and Judaisme", Review
+:class: seealso dropdown
+
+A review of the work appeared in *Notes and Queries* of September 9th, 1881, [Vol 4 Iss 80, p38-9]:
+
+> NOTES ON BOOKS, &c.
+> *Remains of Gentilisme and Judaisme.* By John Aubrey, 1686-7. Edited by James Britten. (Folk-lore Society.)
+>
+> Folk-lore Record. Vol. III. Part II. (Same Society.)
+>
+> AUBREY was a credulous person, He seems to have received with confidence almost everything, however wonderful, which any one told him with a grave face. This is an unhappy form of character for any one to possess who is desirous of instructing his fellow creatures in any original thought, but it was in many ways useful to him as a collector of folk-lore. Had Aubrey been in any sense a critic it is to be feared that he would have rejected much that we now value highly. A little power of comparison and analysis would, however, have been useful to him in one direction. Aubrey thought, as most persons of his generation did, that nearly all our popular mythology was derived from Roman or Biblical sources. This we now know to be an error, and to some of us it must seem a very strange one. It was not, however, unnatural for those whose literary culture was confined almost solely to the classical tongues to assume that all popular knowledge and superstition had come from those languages which had been the source of almost all the knowledge which they themselves esteemed. John
+Aubrey could not be aware of the high value which would be set on every relic of — religion and science by those who came after him, and he is not to be blamed for having left unrecorded so much of that which we are quite certain he knew, nor for having communicated what he did preserve in a most uninviting form. On the other hand, it is strange that he should have thought such "old wives' fables" in any way worthy of serious thought. His contemporaries we know counted it mere folly, but we owe to this unwisdom of his one of the most important collections we possess. If, indeed, he had done nothing more than preserve for future use the wild Yorkshire soul dirge beginning,
+>
+> " This can night, this ean night,  
+> Every night and awle,"
+>
+> we should have been much in his debt. It has been often printed, notably by Sir Walter Scott in his *Minstrelsy of the Scottish Border*, and by Mr. Atkinson in his *Glossary of the Cleveland Dialect* ; it has, perhaps, however, not as yet received all the attention it deserves. The " Brig o' Dread...no brader than a thread," over which souls have to pass, seems to point to the Arabic tradition of the bridge of Al Sirât, which is laid over the midst of hell, and is finer than a hair and sharper than the edge of a sword, across which all have to pass ere they enter paradise or hell. It is important to know whether the idea of this bridge is the common property of the Aryan and Semitic peoples, or whether it was introduced into our mythology in the Middle Ages by contact with the East. We believe the former hypothesis to be the true one. It was until recently the common opinion that almost all our folk-lore which could be paralleled by the traditions of Oriental lands had been imported by the Crusaders. In numberless cases this has been shown to be a false assumption, and we have little doubt that it will be proved to be so in this case. It is as impossible to point out all the important facts garnered in this strange miscellany as it would be to direct attention to all the good things in one of Dr. Smith's dictionaries. We may mention, however, that groaning trees, wax images for magic, men who were invulnerable, and boy bishops are all illustrated, The editing has been done with the most scrupulous care, and there are many apt notes. The part before us of the Folk-lore Record contains papers by Dr. George Stephens, Miss Evelyn Carrington, Mr. H. C. Coote, and other well-known students of the popular mythology. The two English folk-tales are of much interest, and the account of a rural wedding in Lorraine has amused us very much.
+
+```
+
 In his preface to the work, written from Isleworth, in February 1881, James Britten sets the scene (p.iv-v):
 
 > The *Remaines* while containing much of value, are not of equal merit throughout. Aubrey had the faculty of collection rather than that of selection, and he was clearly inclined to be credulous, and thought to be so by some of his most noteworthy contemporaries.
