@@ -351,6 +351,7 @@ With pride exult, that we alone
 Can join these scattered gems in one ;  
 Rejoiced to be the silken line  
 On which these pearls united shine. "
+
 ---
 
 https://archive.org/details/sim_notes-and-queries_1850-10-26_2_52/mode/2up
