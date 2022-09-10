@@ -14,7 +14,7 @@ https://babel.hathitrust.org/cgi/pt?id=iau.31858029267238&view=1up&seq=1066&skin
 The Athenaeum. October 20, 1849, p1052
 On Saturday, 3rd of November 1849, to be continued Weekly, and to be had, by order, of all Booksellers and Newsmen, No. I, price 3d., or Stamped, to go postage free, price 4d.
 
-NOTES and QUERIES A MEDIUM OF INTER-COMMUNICATION FOR LITERARY MEN
+NOTES AND QUERIES A MEDIUM OF INTER-COMMUNICATION FOR LITERARY MEN
 
 Among the many periodicals which issue from the press daily, weekly, monthly, or quarterly, there is not one especially intended for Men of Letters. "Literary Journals there are in abundance, many of them of the highest degree of merit, which in their Reviews and Announcements show the current sayings and doings of the literary world. There is not, however, one among them in which the Student may insert his queries in the hope of receiving satisfactory answers, or the Scholar print those minute facts met with in his reading, the value of which he so well knows, for the use of himself and his fellow-labourers in the wide field of letters.
 
@@ -29,7 +29,7 @@ Communications for the Editors may be addressed to the Publisher, Mr. George Bel
 ---
 ANd Saturday, Oct 27, THe Atheaeneum, 1849 no 1148
 https://babel.hathitrust.org/cgi/pt?id=iau.31858029267238&view=1up&seq=1087&skin=2021&q1=queries
-NOTES and QUERIES: a Medium of Intercommunication for Literary Men, Artists, Antiquaries, Heralds, &c. No. 1 will be published on Saturday, November 3rd, to be continued Weekly, and to be had by order of all Booksellers and Newsmen, price 3d., or stamped, to go postage free, price 4d. This Periodical is, as its name implies, especially intended to assist men of letters and research in their pursuits. Those who meet with facts worthy of preservation may record them in its columns; whilst those, again, who are pursuing literary inquiries may through this medium ask for information on points which have baffled their own individual researches. 'Notes and Queries' will also be issued in parts at the end of each month. - Communications for the Editor, and Advertisements, may be addressed to the Publisher.-A specimen number forwarded on receipt of four postage stamps.
+NOTES AND QUERIES: a Medium of Intercommunication for Literary Men, Artists, Antiquaries, Heralds, &c. No. 1 will be published on Saturday, November 3rd, to be continued Weekly, and to be had by order of all Booksellers and Newsmen, price 3d., or stamped, to go postage free, price 4d. This Periodical is, as its name implies, especially intended to assist men of letters and research in their pursuits. Those who meet with facts worthy of preservation may record them in its columns; whilst those, again, who are pursuing literary inquiries may through this medium ask for information on points which have baffled their own individual researches. 'Notes and Queries' will also be issued in parts at the end of each month. - Communications for the Editor, and Advertisements, may be addressed to the Publisher.-A specimen number forwarded on receipt of four postage stamps.
 
 GEORGE BELL, 186, Fleet-street.
 
