@@ -1,115 +1,145 @@
 
 # History of *Notes & Queries*
 
+Throughout the 19th century, a wide variety of general interest, as well as special interest, periodiocals pandered to the needs of an audience with a voracious reading appetite. Many periodicals included correspondence, but perhaps none more so that *Notes and Queries*, a rather eclectic publication, which absolutely relied on its readership t provide it with content in the form of *notes*, *queries* and *replies*.
 
+```{admonition} A Victorian Virtual Community, Patrick Leary
+:class: seealso
 
-https://victorianweb.org/victorian/periodicals/notesandqueries/leary.html
+For a fascinating history and discussion of *Notes and Queries*, see ["A Victorian Virtual Community"](https://victorianweb.org/victorian/periodicals/notesandqueries/leary.html) by Patrick Leary on *The Victorian Web*.
 
+```
 
+## Notes and Queries is Announced
 
+*Notes and Queries* was first announced in *The Athenaeum* of [Saturday, October 20th, 1849, p1052](https://babel.hathitrust.org/cgi/pt?id=iau.31858029267238&view=1up&seq=1066&skin=2021&q1=queries), the home of William Thoms' original user-contributed Folk-Lore column:
 
-Initial advert in 
-https://babel.hathitrust.org/cgi/pt?id=iau.31858029267238&view=1up&seq=1066&skin=2021&q1=queries
+> On Saturday, 3rd of November 1849, to be continued Weekly, and to be had, by order, of all Booksellers and Newsmen, No. I, price 3d., or Stamped, to go postage free, price 4d.
+>
+> NOTES AND QUERIES A MEDIUM OF INTER-COMMUNICATION FOR LITERARY MEN
 
-The Athenaeum. October 20, 1849, p1052
-On Saturday, 3rd of November 1849, to be continued Weekly, and to be had, by order, of all Booksellers and Newsmen, No. I, price 3d., or Stamped, to go postage free, price 4d.
+The announcement commences with a perceived problem:
 
-NOTES and QUERIES A MEDIUM OF INTER-COMMUNICATION FOR LITERARY MEN
+> Among the many periodicals which issue from the press daily, weekly, monthly, or quarterly, there is not one especially intended for Men of Letters. "Literary Journals there are in abundance, many of them of the highest degree of merit, which in their Reviews and Announcements show the current sayings and doings of the literary world. There is not, however, one among them in which the Student may insert his queries in the hope of receiving satisfactory answers, or the Scholar print those minute facts met with in his reading, the value of which he so well knows, for the use of himself and his fellow-labourers in the wide field of letters.
 
-Among the many periodicals which issue from the press daily, weekly, monthly, or quarterly, there is not one especially intended for Men of Letters. "Literary Journals there are in abundance, many of them of the highest degree of merit, which in their Reviews and Announcements show the current sayings and doings of the literary world. There is not, however, one among them in which the Student may insert his queries in the hope of receiving satisfactory answers, or the Scholar print those minute facts met with in his reading, the value of which he so well knows, for the use of himself and his fellow-labourers in the wide field of letters.
+And then a proposed solution:
 
-NOTES AND QUERIES, A MEDIUM OF INTER-COMMUNICATION FOR LITERARY MEN, is, as its name implies, intended to supply this deficiency. Those who are pursuing literary inquiries may, through this MEDIUM, ask for information on points which have baffled their own individual researches; while those, again, who meet with facts worthy of preservation, may record them in the same columns How often is cren the best-informed writer stopped by an inability to solve some doubt or understand some obscure allusion which suddenly starts up before him! How often does a reading man stumble upon some elucidation of a doubtful phrase, or disputed passage;— some illustration of an obsolete custom hitherto unnoticed;-some biographical anecdote or precise dat ehitherto unrecorded ;-some book, or some edition, hitherto unknown or imperfectly described.
+> NOTES AND QUERIES, A MEDIUM OF INTER-COMMUNICATION FOR LITERARY MEN, is, as its name implies, intended to supply this deficiency. Those who are pursuing literary inquiries may, through this MEDIUM, ask for information on points which have baffled their own individual researches; while those, again, who meet with facts worthy of preservation, may record them in the same columns How often is even the best-informed writer stopped by an inability to solve some doubt or understand some obscure allusion which suddenly starts up before him! How often does a reading man stumble upon some elucidation of a doubtful phrase, or disputed passage;— some illustration of an obsolete custom hitherto unnoticed;-some biographical anecdote or precise dat ehitherto unrecorded ;-some book, or some edition, hitherto unknown or imperfectly described.
 
-This Publication, as everybody's common place book, will be a depository for those who find such materials, and a resource for those who are in search of them; and if the Editors are enabled by the inter communication of their literary friends to realize their expectations, it will form a most useful supplement to works already in existence,-a treasury for enriching future editions of them, and an important contribution towards a more perfect history than we yet possess of our Language, our Literature, and those to whom we owe them.
+An invitation to participate then follows:
 
-NOTES AND QUERIES will also be issued in Parts at the end of each Month.
+> This Publication, as everybody's common place book, will be a depository for those who find such materials, and a resource for those who are in search of them; and if the Editors are enabled by the inter communication of their literary friends to realize their expectations, it will form a most useful supplement to works already in existence,-a treasury for enriching future editions of them, and an important contribution towards a more perfect history than we yet possess of our Language, our Literature, and those to whom we owe them.
 
-Communications for the Editors may be addressed to the Publisher, Mr. George Bell, No. 186, Fleet-street, by whom also Advertisements will be received.
+The notice closes with practical matters:
 
----
- ANd Saturday, Oct 27, THe Atheaeneum, 1849 no 1148
-https://babel.hathitrust.org/cgi/pt?id=iau.31858029267238&view=1up&seq=1087&skin=2021&q1=queries
-NOTES and QUERIES: a Medium of Inter-Mudie's Library, October 27, 1849. October, 1849. communication for Literary Men, Artists, Antiquaries, Heralds, &c. No. 1 will be published on Saturday, November 3rd, to be continued Weekly, and to be had by order of all Booksellers and Newsmen, price 3d., or stamped, to go postage free, price 4d. This Periodical is, as its name implies, especially intended to assist men of letters and research in their pursuits. Those who meet with facts worthy of preservation may record them in its columns; whilst those, again, who are pursuing literary inquiries may through this medium ask for information on points which have baffled their own individual researches. 'Notes and Queries' will also be issued in parts at the end of each month. - Communications for the Editor, and Advertisements, may be addressed to the Publisher.-A specimen number forwarded on receipt of four postage stamps.
+> NOTES AND QUERIES will also be issued in Parts at the end of each Month.
+>
+> Communications for the Editors may be addressed to the Publisher, Mr. George Bell, No. 186, Fleet-street, by whom also Advertisements will be received.
 
-GEORGE BELL, 186, Fleet-street.
+A second, rather more concise, announcement appeared a week later, October 27th, on [p1148](https://babel.hathitrust.org/cgi/pt?id=iau.31858029267238&view=1up&seq=1087&skin=2021&q1=queries):
 
----
+> NOTES AND QUERIES: a Medium of Intercommunication for Literary Men, Artists, Antiquaries, Heralds, &c. No. 1 will be published on Saturday, November 3rd, to be continued Weekly, and to be had by order of all Booksellers and Newsmen, price 3d., or stamped, to go postage free, price 4d. This Periodical is, as its name implies, especially intended to assist men of letters and research in their pursuits. Those who meet with facts worthy of preservation may record them in its columns; whilst those, again, who are pursuing literary inquiries may through this medium ask for information on points which have baffled their own individual researches. 'Notes and Queries' will also be issued in parts at the end of each month. - Communications for the Editor, and Advertisements, may be addressed to the Publisher.-A specimen number forwarded on receipt of four postage stamps.
+>
+> GEORGE BELL, 186, Fleet-street.
 
+## The Early Issues
 
+A fortnight on from the original announcement in *The Athenaeum*, and as advertised, the original edition of *Notes and Queries*, [Vol 1 Iss 1](https://archive.org/details/notesqueries01londuoft/page/n9/mode/2up), dated n Saturday, November 3rd, 1849, appeared. The opening pages contained an opening address by William Thoms, p1-3:
 
+> NOTES AND QUERIES.
+>
+> THE nature and design of the present work have been so fully stated in the Prospectus, and are indeed so far explained by its very Title, that it is unnecessary to occupy any great portion of its first number with details on the subject. We are under no temptation to fill its columns with an account of what we hope future numbers will be. Indeed, we would rather give a specimen than a description ; and only regret that, from the wide range of subjects which it is intended to embrace, and the correspondence and contributions of various kinds which we are led to expect, even this can only be done gradually. A few words of introduction and explanation may, however, be allowed ; and, indeed, ought to be prefixed, that we may be understood, by those readers who have not seen our Prospectus.
 
-https://archive.org/details/notesqueries01londuoft/page/n9/mode/2up
+```{admonition} Notes and Queries, Prospectus, 1849
+:class: dropdown
 
+*A copy of the prospectus was reprinted in [Vol 1 Iss 2](https://archive.org/details/sim_notes-and-queries_1849-11-10_1_2/page/30/mode/2up) of *Notes and Queries*, p31, dated November 10th, 1849.*
 
-Notes and Queries Vol 1 Iss 1
+NOTES AND QUERIES: a Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, ETC.
 
-Saturday, November 3rd, 1849
+Among the many periodicals which issue from the press daily, weekly, monthly, or quarterly, there is not one especially intended to assist Men of Letters and of research in their pursuits. Literary Journals there are in abundance, many of them of the highest degree of merit, which in their Reviews and Announcements show the current sayings and doings of the literary world. There is not, however, one among them in which the reading man may note, for the use of himself and his fellow-labourers in the wide field of Literature, the minute facts which he meets with from time to time, and the value of which he so well knows, or insert his *Queries*, in the hope of receiving satifactory answers rom some of his literary brethren.
 
-p.1-3
+*NOTES AND QUERIES: a Medium of Inter-communication for Literary Men*, is, as its name implies, intended to supply this deficiency. Those who meet with facts worthy of preservation, may record them in it columns; while those, again, who are pursuing literary inquiries, may, through this medium, ask for information on points which have baffled their own individual researches. How often is even the bxt informed writer stopped by an inability to solve some dount or understand some obscure allusion which suddenly starts up before him! How often does a reading man stumble upon some elucidation of a doubtful phrase, or disputed passage;— some illustration of an obsolete custom hitherto unnoticed;— some biographical anecdote or precise date hitherto unrecorded;— some book, or some edition, hitherto unknown or imperfectly described.
 
-NOTES AND QUERIES.
+This Publication, as everybody's common place book, will be a depository for those who find such materials, and a resource for those who are in search of them; and if the Editor is enabled by the intercommunicatio of his literary friends to realise his expectations, it will form a most useful supplement to works already in existence, — a treasury for enriching future editions of them,— and an important contribution towards a more perfect history than we yet possess of our Language, our Literature, nd those to whom we owe them.
 
-THE nature and design of the present work have been so fully stated in the Prospectus, and are indeed so far explained by its very Title, that it is unnecessary to occupy any great portion of its first number with details on the subject. We are under no temptation to fill its columns with an account of what we hope future numbers will be. Indeed, we would rather give a specimen than a description ; and only regret that, from the wide range of subjects which it is intended to embrace, and the correspondence and contributions of various kinds which we are led to expect, even this can only be done gradually. A few words of introduction and explanation may, however, be allowed ; and, indeed, ought to be prefixed, that we may be understood,.by those readers who have not seen our Prospectus.
+Notes and Queries will be published every Saturday, price 3d., or stamped, 4d., and may be had, by order, of all Booksellers and Newsmen, and will also be issued in Parts at the end of each Month.
 
-"WHEN FOUND, MAKE A NOTE OF," is a most admirable rule ; and if the excellent Captain had never uttered another word, he might have passed for a profound philosopher. It is a rule which should shine in gilt letters on the gingerbread of youth, and the spectacle-case of age. Every man who reads with any view beyond mere pastime, knows the value of it. Every one, more or less, acts upon it. Every one regrets and suffers who neglects it. There is some trouble in it, to be sure ; but in what good thing is there not ? and what trouble does it save ! Nay, what mischief! Half the lies that are current in the world owe their origin to a misplaced confidence in memory, rather than to intentional falsehood. We have never known more than one man who could deliberately and conscientiously say that his memory had *never* deceived him ; and he (when he saw that he had excited the surprise of his hearers, especially those who knew how many years he had spent in the management of important commercial affairs) used to add, — because he had never trusted it ; but had uniformly written down what he was anxious to remember.
+Communications for the Editor may be addressed to the Publisher, Mr George Bell, No. 186. Fleet Street, by whom also Advertisements will be received.
 
-But, on the other hand, it cannot be denied that reading and writing men, of moderate industry, who act on this rule for any considerable length of time, will accumulate a good deal of matter in various forms, shapes, and sizes — some more, some less legible and intelligible — some unposted in old pocket books — some on whole or half sheets, or mere scraps of paper, and backs of letters — some, lost sight of and forgotten, stuffing out old portfolios, or getting smoky edges in bundles tied up with faded tape. There are, we are quite sure, countless boxes and drawers, and pigeon-holes of such things, which want looking over, and would well repay the trouble. Nay, we are sure that the proprietors would find themselves much benefited even if we were to do nothing more than to induce them to look over their own collections. How much good might we have done (as well as got, for we do not pretend to speak quite disinterestedly), if we had had the looking over and methodizing of the chaos in which Mr. Oldbuck found himself just at the moment, so agonizing to an author, when he knows that the patience of his victim is oozing away, and fears it will be quite gone before he can lay his hand on the charm which is to fix him a hopeless listener: — "So saying, the Antiquary opened a drawer, and began rummaging among a quantity of miscellaneous papers, ancient and modern. But it was the misfortune of this learned gentleman, as it may be that of many learned and unlearned, that he frequently experienced on such occasions, what Harlequin calls *l'embarras des richesses* — in other words, the abundance of his collection often prevented him from finding the article he sought for." We need not add that this unsuccessful search, for Professor MacCribb's epistle, and the scroll of the Antiquary's answer, was the unfortunate turning-point on which the very existence of the documents depended, and that from that day to this nobody has seen them, or known where to look for them.
+```
 
-But we hope for more extensive and important benefits, than these from furnishing a medium by which much valuable information may become a sort of common property among those who can appreciate and use it. We do not anticipate any holding back by those whose " NOTES" are most worth having, or any want of "QUERIES" from those best able to answer them. Whatever may be the case in other things, it is certain that those who are best informed are generally the most ready to communicate knowledge and to confess ignorance, to feel the value of such a work as we are attempting, and to understand that if it is to be well done they y must help to do it. Some cheap and frequent means for the interchange of thought s certainly wanted by those who are engaged n literature, art, and science, and we only lope to persuade the best men in all, that we offer them the best medium of communication with each other.
+What, then, is the guiding principle that motivates this new publication?
 
-By this time, we hope, our readers are prepared to admit that our title (always one of ,he most difficult points of a book to settle), las not been imprudently or unwisely adopted. We wish to bring together the ideas and the wants, not merely of men engaged in the same lines of action or inquiry, but also (and very particularly) of those who are going diferent ways, and only meet at the crossings, where a helping hand is oftenest needed, and they would be happy to give one if they knew it was wanted. In this way we desire that our little book should take "NOTES," and be a medley of all that men are doing — that the Notes of the writer and the reader, whatever be the subject-matter of his studies, of the antiquary, and the artist, the man of science, the historian, the herald, and the ge- nealogist, in short, Notes relating to all subjects but such as are, in popular discourse, termed either political or polemical, should meet in our columns in such juxta-position, as to give fair play to any natural attraction or repulsion between them, and so that if there are any hooks and eyes among them, they may catch each other.
+> "WHEN FOUND, MAKE A NOTE OF," is a most admirable rule ; and if the excellent Captain had never uttered another word, he might have passed for a profound philosopher. It is a rule which should shine in gilt letters on the gingerbread of youth, and the spectacle-case of age. Every man who reads with any view beyond mere pastime, knows the value of it. Every one, more or less, acts upon it. Every one regrets and suffers who neglects it. There is some trouble in it, to be sure ; but in what good thing is there not ? and what trouble does it save ! Nay, what mischief! Half the lies that are current in the world owe their origin to a misplaced confidence in memory, rather than to intentional falsehood. We have never known more than one man who could deliberately and conscientiously say that his memory had *never* deceived him ; and he (when he saw that he had excited the surprise of his hearers, especially those who knew how many years he had spent in the management of important commercial affairs) used to add, — because he had never trusted it ; but had uniformly written down what he was anxious to remember.
 
-Now, with all modesty, we submit, that for the title of such a work as we have in view, and have endeavoured to describe, no word could be so proper as "NOTES." Can any man, in his wildest dream of imagination, conceive of any thing that may not be — nay, that has not been — treated of in a note ? Thousands of things there are, no doubt, which cannot be sublimed into poetry, or elevated into history, or treated of with dignity, in a stilted text of any kind, and which are, as it is, called, "thrown" into notes; but, after all, they are much like children sent out of the stiff drawing-room into the nursery, snubbed to be sure by the act, but joyful in the freedom of banishment. We were going to say (but it might sound vain-glorious), where do things read so well as in notes ? but we will put the question in another form : — Where do you so well test an author's learning and knowledge of his subject ? — where do you find the pith of his most elaborate researches?— where do his most original suggestions escape ? — where do you meet with the details that fix your attention at the time and cling to your memory for ever? — where do both writer and reader luxuriate so much at their ease, andfeel that they are wisely discursive? But if we pursue this idea, it will be scarcely possible to avoid something which might look like self-praise ; and we content ourselves for the present with expressing our humble conviction that we are doing a service to writers and readers, by calling forth materials which they have themselves thought worth notice, but which, for want of elaboration, and the "little leisure" that has not yet come, are lying, and may lie for ever, unnoticed by others, and presenting them in an unadorned *multum-in-parvo* form. To our readers therefore who are seeking for Truth, we repeat "When found make a NOTE of;" and we must add, "till then make a QUERY."
+Personal collections of noteworthy remarks are one thing, but how more valuable might a collective effort be?
 
+> But, on the other hand, it cannot be denied that reading and writing men, of moderate industry, who act on this rule for any considerable length of time, will accumulate a good deal of matter in various forms, shapes, and sizes — some more, some less legible and intelligible — some unposted in old pocket books — some on whole or half sheets, or mere scraps of paper, and backs of letters — some, lost sight of and forgotten, stuffing out old portfolios, or getting smoky edges in bundles tied up with faded tape. There are, we are quite sure, countless boxes and drawers, and pigeon-holes of such things, which want looking over, and would well repay the trouble. Nay, we are sure that the proprietors would find themselves much benefited even if we were to do nothing more than to induce them to look over their own collections. How much good might we have done (as well as got, for we do not pretend to speak quite disinterestedly), if we had had the looking over and methodizing of the chaos in which Mr. Oldbuck found himself just at the moment, so agonizing to an author, when he knows that the patience of his victim is oozing away, and fears it will be quite gone before he can lay his hand on the charm which is to fix him a hopeless listener: — "So saying, the Antiquary opened a drawer, and began rummaging among a quantity of miscellaneous papers, ancient and modern. But it was the misfortune of this learned gentleman, as it may be that of many learned and unlearned, that he frequently experienced on such occasions, what Harlequin calls *l'embarras des richesses* — in other words, the abundance of his collection often prevented him from finding the article he sought for." We need not add that this unsuccessful search, for Professor MacCribb's epistle, and the scroll of the Antiquary's answer, was the unfortunate turning-point on which the very existence of the documents depended, and that from that day to this nobody has seen them, or known where to look for them.
+>
+> But we hope for more extensive and important benefits, than these from furnishing a medium by which much valuable information may become a sort of common property among those who can appreciate and use it. We do not anticipate any holding back by those whose " NOTES" are most worth having, or any want of "QUERIES" from those best able to answer them. Whatever may be the case in other things, it is certain that those who are best informed are generally the most ready to communicate knowledge and to confess ignorance, to feel the value of such a work as we are attempting, and to understand that if it is to be well done they y must help to do it. Some cheap and frequent means for the interchange of thought is certainly wanted by those who are engaged n literature, art, and science, and we only hope to persuade the best men in all, that we offer them the best medium of communication with each other.
 
----
+Thoms then make some remarks on the naming of *Notes and Queries*:
 
-Note at the end of the first issue:
+> By this time, we hope, our readers are prepared to admit that our title (always one of the most difficult points of a book to settle), has not been imprudently or unwisely adopted. We wish to bring together the ideas and the wants, not merely of men engaged in the same lines of action or inquiry, but also (and very particularly) of those who are going diferent ways, and only meet at the crossings, where a helping hand is oftenest needed, and they would be happy to give one if they knew it was wanted. In this way we desire that our little book should take "NOTES," and be a medley of all that men are doing — that the Notes of the writer and the reader, whatever be the subject-matter of his studies, of the antiquary, and the artist, the man of science, the historian, the herald, and the ge- nealogist, in short, Notes relating to all subjects but such as are, in popular discourse, termed either political or polemical, should meet in our columns in such juxta-position, as to give fair play to any natural attraction or repulsion between them, and so that if there are any hooks and eyes among them, they may catch each other.
+>
+> Now, with all modesty, we submit, that for the title of such a work as we have in view, and have endeavoured to describe, no word could be so proper as "NOTES." Can any man, in his wildest dream of imagination, conceive of any thing that may not be — nay, that has not been — treated of in a note ? Thousands of things there are, no doubt, which cannot be sublimed into poetry, or elevated into history, or treated of with dignity, in a stilted text of any kind, and which are, as it is, called, "thrown" into notes; but, after all, they are much like children sent out of the stiff drawing-room into the nursery, snubbed to be sure by the act, but joyful in the freedom of banishment. We were going to say (but it might sound vain-glorious), where do things read so well as in notes ? but we will put the question in another form : — Where do you so well test an author's learning and knowledge of his subject ? — where do you find the pith of his most elaborate researches?— where do his most original suggestions escape ? — where do you meet with the details that fix your attention at the time and cling to your memory for ever? — where do both writer and reader luxuriate so much at their ease, andfeel that they are wisely discursive? But if we pursue this idea, it will be scarcely possible to avoid something which might look like self-praise ; and we content ourselves for the present with expressing our humble conviction that we are doing a service to writers and readers, by calling forth materials which they have themselves thought worth notice, but which, for want of elaboration, and the "little leisure" that has not yet come, are lying, and may lie for ever, unnoticed by others, and presenting them in an unadorned *multum-in-parvo* form. To our readers therefore who are seeking for Truth, we repeat "When found make a NOTE of;" and we must add, "till then make a QUERY."
 
-Notes and Queries  1849-11-03: Vol 1 Iss 1
+At the end of the first issue, one of the *notices to correspondents* explained the initial policies adopted by the Editor in the matter of accepting contributions:
 
-NOTICES TO CORRESPONDENTS.
+> NOTICES TO CORRESPONDENTS.
+>
+> The matter is so generally understood with regard to the management of periodical works, that it is hardly necessary for the Editor to say that HE CANNOT UNDERTAKE TO RETURN MANUSCRIPTS ; but on one point he wishes to offer a few words of explanation to his correspondents in general, and particularly to those who do not enable him to communicate with them except in print. They will see, on a very little reflection, that it is plainly his interest to take all he can get, and make the most, and the best, of everything ; and therefore he begs them to take for granted that their communications are received, and ap-preciated, even if the succeeding Number bears no proof of it. He is convinced that the want of specific acknowledgment will only be felt by those who have no idea of the labour and difficulty attendant on the hurried management of such a work, and of the impossibility of sometimes giving an explanation, when there really is one which would quite satisfy the writer, for the delay or non-insertion of his communication. Correspondents in such cases have no reason, und if they understood an editor’s position they would feel that they have no right, to consider themselves undervalued; but nothing short of personal experience in editorship would explain to them the perplexities and evil consequences arising from an opposite course.
 
-The matter is so generally understood with regard to the management of periodical works, that it is hardly necessary for the Editor to say that HE CANNOT UNDERTAKE TO RETURN MANUSCRIPTS ; but on one point he wishes to offer a few words of explanation to his correspondents in general, and particularly to those who do not enable him to communicate with them except in print. They will see, on a very little reflection, that it is plainly his interest to take all he can get, and make the most, and the best, of everything ; and therefore he begs them to take for granted that their communications are received, and ap-preciated, even if the succeeding Number bears no proof of it. He is convinced that the want of specific acknowledgment will only be felt by those who have no idea of the labour and difficulty attendant on the hurried management of such a work, and of the impossibility of sometimes giving an explanation, when there really is one which would quite satisfy the writer, for the delay or non-insertion of his communication. Correspondents in such cases have no reason, und if they understood an editor’s position they would feel that they have no right, to consider themselves undervalued; but nothing short of personal experience in editorship would explain to them the perplexities and evil consequences arising from an opposite course.
+Several other notices were acknowledged particular contributors:
 
-Aubrey Junior. The coincidence is certainly curious. When the 3rd of November wus fixed for the first appearance of "Notes and Queries," it was little thought that it was the anniversary of the birth of John Aubrey, the most noted Querist, if not the queerest Noter, of all English antiquaries. His "Mem. to ask Mr. ––" no doubt indirectly suggested our title.
+> Aubrey Junior. The coincidence is certainly curious. When the 3rd of November wus fixed for the first appearance of "Notes and Queries," it was little thought that it was the anniversary of the birth of John Aubrey, the most noted Querist, if not the queerest Noter, of all English antiquaries. His "Mem. to ask Mr. ––" no doubt indirectly suggested our title.
+>
+> Philobiblion is thanked for his suggestion, that we should "print lists of all the books printed by the Roxburgh, Abbotsford, Camden, Spottiswoode, and other publishing Clubs and Societies." His suggestion had, howerer, been anticipated : arrangements are making for giving not only the information suggested by Philobiblion, but also particulars of the works issued by the different Continental publishing Societies, such as La Société de L’ Histoire de France, Der Literarische Verein in Stuttgart, and the Svenska Fornskrift-Sällskap of Stockholm, so that the English reader may be put into possession of facts connected with these Societies not to be found elsewhere.
+>
+> Manchester (Box 720.) is thanked for his suggestions.
 
-Philobiblion is thanked for his suggestion, that we should "print lists of all the books printed by the Roxburgh, Abbotsford, Camden, Spottiswoode, and other publishing Clubs and Societies." His suggestion had, howerer, been anticipated : arrangements are making for giving not only the information suggested by Philobiblion, but also particulars of the works issued by the different Continental publishing Societies, such as La Société de L’ Histoire de France, Der Literarische Verein in Stuttgart, and the Svenska Fornskrift-Sällskap of Stockholm, so that the English reader may be put into possession of facts connected with these Societies not to be found elsewhere.
+A "book exchange" list was also announced.
 
-Manchester (Box 720.) is thanked for his suggestions.
+> Books and Odd Volumes wanted. We believe that this will prove one of the most useful divisions of our weekly Sheet, Gentlemen who may be unable to meet with any book or volume of which they are in want may, upon furnishing name, date, size, &c., have it inserted in this List free of cost. Persons having such volumes to dispose of are requested to send reports of price, &c. to Mr. Bell, our publisher.
 
-Books and Odd Volumes wanted. We believe that this will prove one of the most useful divisions of our weekly Sheet, Gentlemen who may be unable to meet with any book or volume of which they are in want may, upon furnishing name, date, size, &c., have it inserted in this List free of cost. Persons having such volumes to dispose of are requested to send reports of price, &c. to Mr. Bell, our publisher.
+At the start of the second issue a week later, October 10th, 1849, [Vol 1 Iss 2](https://archive.org/details/sim_notes-and-queries_1849-11-10_1_2/mode/2up), p17-18, Thoms had a little more to say:
 
----
+> A FEW WORDS TO OUR FRIENDS.
+>
+> In our opening Address we carefully avoided any thing at all approaching to a boast of what we would, or even what we hoped to perform. We stated that "we would rather give a specimen than a description." We are now in like manner unwilling to point as exultingly, as we think we might, to the position which we have already taken. But there is a vast difference between vain boasting and the expression of an honest satisfaction; and than an affectation of humility —it would be a mean hypocrisy — if we did not express heartily and unreservedly the gratitude we owe and feel to those who have encouraged us by their friendly advice and able pens. We have opened a Literary Exchange, and we have had the gratification to see that men whose learning and talents the public recognise —leaders in their several branches of inquiry—have at once taken advantage of it. They have proved the necessity for some such medium of communication, as well as their good will to the one now offered to them, by a gathering in its behalf which the public will respect, and of which we may well feel proud.
 
-https://archive.org/details/sim_notes-and-queries_1849-11-10_1_2/mode/2up
+In creating a *medium of exchange*, it was perhaps not unsurprising that several correspondents felt it their duty to offer several suggestions to the Editor about how it might be improved, and the Editor in turn assured the readership that concerns would be considered:
 
-Notes and Queries  1849-11-10: Vol 1 Iss 2
-Publication date 1849-11-10
+> Some whose good opinion we most value, and who have spoken most warmly in favour of our plan, have proved the sincerity of their praise by suggestions of improvement in its detail, and hints for its further extension. They may feel assured that such hints and such suggestions shall not be lost sight of.
 
-p17-18
+For example, on the question of accepting corrections:
 
+> For instance, one respected correspondent hints that as we have very properly adopted Dr. Maitland’s suggestion with regard to Herbert's edition of Ames' *Typographical Antiquiries*, namely that of "offering a receptacle for illustrations, additions, and corrections," and invited "our readers to take advantage of our columns to carry out Dr. Maitland's suggestions," we should open our columns with equal readiness to the correction and illustration of more modern and more popular works.
 
+However, the Editor suggestions that it is the case that not all publications might be worth correcting:
 
-Saturday, November 10. 1849, 
+> We entirely concur with him ; but in reference to this subject there is a distinction which must be borne in mind. Our own literature, like that of every other country, consists of two classes of books. We have the books of pretenders to knowledge, the hasty, crude, imperfect, but often for the time attractive and popular volumes of the Ned Purdons of the day. These books have a use—such as is is—and thus answer their purpose ; but it would be for the credit of our literature, and save a world of trouble, if they were forgotten as soon as they had done so. To illustrate such books, to add to their information or correct their blunders, would be useless and almost ridiculous. They should be left to die of mere powerlessness and exhaustion, or to wither under the wholesome influence of a just and manly criticism.
 
+On the other hand, there certainly *are* books that should be "maintained":
 
-A FEW WORDS TO OUR FRIENDS.
+> But there are books of another kind — books which our worthy bibliopoles designate as " standard works." These are the books of competent workmen—books which are the result of honest labour and research, and which from the moment of their publication assume a permanent station in our national literature. Even in such books there are many things incomplete, many things erroneous. But it is the interest of every man that such books should be rendered as complete as possible; and whatever tends to illustrate or correct works of that class will be sure of insertion in our columns.
 
-In our opening Address we carefully avoided any thing at all approaching to a boast of what we would, or even what we hoped to perform. We stated that "we would rather give a specimen than a description." We are now in like manner unwilling to point as exultingly, as we think we might, to the position which we have already taken. But there is a vast difference between vain boasting and the expression of an honest satisfaction; and than an affectation of humility —it would be a mean hypocrisy — if we did not express heartily and unreservedly the gratitude we owe and feel to those who have encouraged us by their friendly advice and able pens. We have opened a Literary Exchange, and we have had the gratification to see that men whose learning and talents the public recognise —leaders in their several branches of inquiry—have at once taken advantage of it. They have proved the necessity for some such medium of communication, as well as their good will to the one now offered to them, by a gathering in its behalf which the public will respect, and of which we may well feel proud.
+Several examples are then given:
 
-Some whose good opinion we most value, and who have spoken most warmly in favour of our plan, have proved the sincerity of their praise by suggestions of improvement in its detail, and hints for its further extension. They may feel assured that such hints and such suggestions shall not be lost sight of, For instance, one respected correspondent hints that as we have very properly adopted Dr. Maitland’s suggestion with regard to Herbert's edition of Ames' *Typographical Antiquiries*, namely that of "offfering a receptacle for illustrations, additions, and corrections," and invited "our readers to take advantage of our columns to carry out Dr. Maitland's suggestions," we should open our columns with equal readiness to the correction and illustration of more modern and more popular works. We entirely concur with him ; but in reference to this subject there is a distinction which must be borne in mind. Our own literature, like that of every other country, consists of two classes of books. We have the books of pretenders to knowledge, the hasty, crude, imperfect, but often for the time attractive and popular volumes of the Ned Purdons of the day. These books have a use—such as is is—and thus answer their purpose ; but it would be for the credit of our literature, and save a world of trouble, if they were forgotten as soon as they had done so. To illustrate such books, to add to their information or correct their blunders, would be useless and almost ridiculous. They should be left to die of mere powerlessness and exhaustion, or to wither under the wholesome influence of a just and manly criticism.
+> We would point to Macaulay's *England*, and Hallam's *Introduction to the Literary History of the 15th, 16th, and 17th Centuries*, his *Middle Ages*, and his *Constitutional History*, and we may add, as illustrations of a different kind, *The Annals of the Stage* of our excellent friend Mr. Collier, and *The Handbook of London* of our valued contributor Mr. Peter Cunningham, as examples of the sort of publications to which we allude. Such were the books we had in our mind, when we spoke in our prospectus of the "Notes and Queries" becoming, through the inter-communication of our literary friends, "a most useful supplement to works already in existence —a treasury towards enriching future editions of them."
 
-But there are books of another kind — books which our worthy bibliopoles designate as " standard works." These are the books of competent workmen—books which are the result of honest labour and research, and which from the moment of their publication assume a permanent station in our national literature. Even in such books there are many things incomplete, many things erroneous. But it is the interest of every man that such books
-should be rendered as complete as possible; and whatever tends to illustrate or correct works of that class will be sure of insertion in our columns.
+One concern the Editor is happy to address promptly is making the prospectus available as a note:
 
-We would point to Macaulay's *England*, and Hallam's *Introduction to the Literary History of the 15th, 16th, and 17th Centuries*, his *Middle Ages*, and his *Constitutional History*, and we may add, as illustrations of a different kind, *The Annals of the Stage* of our excellent friend Mr. Collier, and *The Handbook of London* of our valued contributor Mr. Peter Cunningham, as examples of the sort of publications to which we allude. Such were the books we had in our mind, when we spoke in our prospectus of the "Notes and Queries" becoming, through the inter-communication of our literary friends, "a most useful supplement to works already in exist-ence—a treasury towards enriching future editions of them."
+> Another correspondent —a bibliographical friend —suggests that, for various reasons, which bibliographers will appreciate, our Prospectus should have a place in the body of our work. We believe that many of our readers concur in a wish for its preservation, and it will therefore be found in the Number now before them.
 
-Another correspondent —a bibliographical friend —suggests that, for various reasons, which bibliographers will appreciate, our Prospectus should have a place in the body of our work. We believe that many of our readers concur in a wish for its preservation, and it will therefore be found in the Number now before them.
+There are limits as to what is regarded as in scope, however:
 
-One suggestion again urges us to look carefully to Foreign Literature, and another points out the propriety of our making our paper as British as possible, so that our topographical facts should, as far as practicable, be restricted to the illustration of British counties, and our biographical ones to such as should contribute towards a Biographia Britannica.
+> One suggestion again urges us to look carefully to Foreign Literature, and another points out the propriety of our making our paper as British as possible, so that our topographical facts should, as far as practicable, be restricted to the illustration of British counties, and our biographical ones to such as should contribute towards a Biographia Britannica.
 
-All these, and many other expressions of sympathy and promises of support, poured in upon us within a few hours after our birth. No one of them shall be forgotten ; and if for a time our pages seem to indicate that we have made a Query as to the adoption of any suggestion, let our kind contributors be assured that there is no hint which reaches us, whether at present practicable or not, that we do not seriously and thankfully " make a Note of."
+The column closes with a note of gratitude:
+
+> All these, and many other expressions of sympathy and promises of support, poured in upon us within a few hours after our birth. No one of them shall be forgotten ; and if for a time our pages seem to indicate that we have made a Query as to the adoption of any suggestion, let our kind contributors be assured that there is no hint which reaches us, whether at present practicable or not, that we do not seriously and thankfully " make a Note of."
 
 
 
@@ -126,11 +156,11 @@ Notices to Correspondents
 ...
 
 Contents and Index  
-Our correpsondents will see that their wish for a Table of Contents to each number has been complied with. We are fully aware how much the value of a work like  " Notes and Queries" is enhanced by a good Index. It is intended to give a very copious one at the end of each volume, so as to make the work one not merely of temporary interest, but of permanent utility.
+Our correspondents will see that their wish for a Table of Contents to each number has been complied with. We are fully aware how much the value of a work like  " Notes and Queries" is enhanced by a good Index. It is intended to give a very copious one at the end of each volume, so as to make the work one not merely of temporary interest, but of permanent utility.
 
 ...
 
-We have received many complaints of a difficulty in procuring our paper. Every Bookseller and Newsvender will supply it if ordered, and gentlemen residing in the country may be supplied regularly with the Stamped Edition by giving their orders direct to the publisher, Mr. Grorce Bett, 136. Fleet Street, accompanied by a Post Office order for a quarter (4s, 4d.). All communications should be addressed Yo the Editor of "Notes and Queries," 186. Fleet Street.
+We have received many complaints of a difficulty in procuring our paper. Every Bookseller and Newsvender will supply it if ordered, and gentlemen residing in the country may be supplied regularly with the Stamped Edition by giving their orders direct to the publisher, Mr. Grorce Bett, 136. Fleet Street, accompanied by a Post Office order for a quarter (4s, 4d.). All communications should be addressed to the Editor of "Notes and Queries," 186. Fleet Street.
 
 
 ---
@@ -140,8 +170,6 @@ Notes and Queries  1849-11-24: Vol 1 Iss 4
 Publication date 1849-11-24
 
 p49-50
-
-
 
 OUR PROGRESS AND PROSPECTS.
 
@@ -168,7 +196,8 @@ I would, however, suggest that in future numbers a space might be allotted for t
 In pursuance of this suggestion I have forwarded the inclosed paper, and should be happy, from time to time, to contribute such gleanings from old authors, &c. as I might think worth preserving. G. J. K.
 
 We readily comply with G. J. K.'s suggestion, and print, as the first of the series, his interesting communication, entitled]
-1. Writers of Nolts on Fly-leaves, &c.
+
+1. Writers of Notes on Fly-leaves, &c.
 
 ...
 
@@ -212,12 +241,11 @@ Publication date 1849-12-08
 
 p.81
 
-
 A FEW WORDS OF EXPLANATION.
 
 It was in no boastful or puffing spirit that, when thanking a correspondent in our last number for "his endeavour to enlarge our circulation," and requesting all our friends and correspondents " to follow Philo's example by bringing 'Notes and Queries' under the notice of such of their friends as take an interest in literary pursuits," we added "for it is obvious that they will extend the usefulness of our paper in proportion as they increase its circulation." We wished merely to state a plain obvious fact. Such must necessarily be the case, and our experience proves it to be so; for the number of Queries which have been solved in our columns, has gone on increasing in proportion to the gradual increase of our circulation ; —a result which fully justifies that passage of our opening address which stated, "that we did not anticipate any holding back by those whose Notes were most worth having."
 
-No sooner is information asked for through our medium, than a host of friendly pens are busied to From north, south, east, and west, — from quarters the most unlooked for, do we receive Notes and Illustrations of every subject which is mooted in out pages. Many of these replies, too, though subscribed only with an initial or a pseudonyme, we know to be furnished by scholars who have won the foremost rank in their respective branches of study. Such men manifest, by their willingness to afford information to those who need it, and their readiness to receive it from those who have it to bestow, the truthfulness of old Chaucer's portrait of the Scholar : —
+No sooner is information asked for through our medium, than a host of friendly pens are busied to From north, south, east, and west, — from quarters the most unlooked for, do we receive Notes and Illustrations of every subject which is mooted in out pages. Many of these replies, too, though subscribed only with an initial or a pseudonym, we know to be furnished by scholars who have won the foremost rank in their respective branches of study. Such men manifest, by their willingness to afford information to those who need it, and their readiness to receive it from those who have it to bestow, the truthfulness of old Chaucer's portrait of the Scholar : —
 
 "Ful gladly wolde he lerne, and gladly teche."
 
@@ -255,7 +283,6 @@ Publication date 1849-12-29
 
 p128-9
 
-
 OUR PROGRESS.
 
 We have this week been called upon to take a step which neither our best friends nor our own hopes could have anticipated. Having failed our endeavours to supply by other means the increasing demand for complete sets of our " Notes And Queries," we have been compelled to reprint the first four numbers.
@@ -289,10 +316,6 @@ A MERRY CHRISTMAS AND A HAPPY NEW YEAR!
 
 
 
----
-
-
-
 
 
 --
@@ -308,7 +331,7 @@ Notices to Correspondents
 
 ...
 
-We have to explain to correspondents who inquire as to the mode of procuring "Notes anv Queries," that every bookseller and newsman will supply it, if ordered, and that gentlemen residing in the country may be supplied regulurly with the Stamped Edition, by giving their orders direct to the publisher, Mr, George Bell, 186. Fleet Street, accompanied by a Post Office order for a Quarter (4s, 4d.).
+We have to explain to correspondents who inquire as to the mode of procuring "Notes and Queries," that every bookseller and newsman will supply it, if ordered, and that gentlemen residing in the country may be supplied regulurly with the Stamped Edition, by giving their orders direct to the publisher, Mr, George Bell, 186. Fleet Street, accompanied by a Post Office order for a Quarter (4s, 4d.).
 
 ...
 
@@ -324,7 +347,7 @@ Notes and Queries  1850-06-01: Vol 2 Iss 31
 
 OUR SECOND VOLUME.
 
-We cannot resist the opportunity which the commencement of our Second Volume affords us, of addressing a few words of acknowledgement to our frineds, both contributors and readers. In the short space of seven months, we have been enabled by their support to win for "Notes and Queries" no unimportant position among the litereary journals of this country. We came forward for the purpose of affording the literary brotherhood of this great nation an organ through  which they might announce their difficulties and requiremetnts, through which such difficulties might find solution, and such requirements be supplied. The little band of kind friends who first rallied round us has been reinforced by a host of earnest men, who, at once recognising the utility of our purpose, and seeing in our growing prosperity how much love of letters existed among us, have joined us heart and hand in the great object we proposed to ourselves in our Prospectus; namely, that of making "NOTES AND QUERIES " by mutual intercommunication, "a most useful supplement to works already in existence—a treasury for enriching future editions of them — and an important contribution towards a more perfect history than we yet possess of our language, our literature, and those to whom we owe them."
+We cannot resist the opportunity which the commencement of our Second Volume affords us, of addressing a few words of acknowledgement to our friends, both contributors and readers. In the short space of seven months, we have been enabled by their support to win for "Notes and Queries" no unimportant position among the litereary journals of this country. We came forward for the purpose of affording the literary brotherhood of this great nation an organ through  which they might announce their difficulties and requiremetnts, through which such difficulties might find solution, and such requirements be supplied. The little band of kind friends who first rallied round us has been reinforced by a host of earnest men, who, at once recognising the utility of our purpose, and seeing in our growing prosperity how much love of letters existed among us, have joined us heart and hand in the great object we proposed to ourselves in our Prospectus; namely, that of making "NOTES AND QUERIES " by mutual intercommunication, "a most useful supplement to works already in existence—a treasury for enriching future editions of them — and an important contribution towards a more perfect history than we yet possess of our language, our literature, and those to whom we owe them."
 
 Thanks, again and again, to the friends and correspondents, who, by their labours, are enabling us to accomplish this great end. To them be the honour of the work. We are content to say with the Arabian poet:
 
@@ -456,6 +479,9 @@ Contributors' Names (2™ S. ii. 382.) — Mr. CARRINGTON's proposition that con
 
 
 ----
+
+
+## The Origins of *Notes and Queries*
 
 Thoms - biog- From July, 1876 to April 1877 (volumes 6 and 7 of the 5th series), Thomes published in *Notes and Queries* under his own name an account of the history of the periodical ?? or paper ??. 
 
@@ -603,8 +629,7 @@ My old friends Bruce, Payne Collier, Bolton Corney, and Peter Cunningham contrib
 My old and highly esteemed friend Edward Foss, the author of *The Lives of the Judges*—a
 man as warm-hearted as he was shrewd and intelligent, and he was eminently both—invited information respecting Sir William Skipwith, King's Justiciary in Ireland in the time of Edward III. Those who only knew Mr. Foss in his character as a lawyer, or as the author of that vast storehouse of legal history and biography with which his name is identified, in which he sacrificed everything to strict accuracy, and made no attempt to relieve the dryness of his subject by the introduction of irrelevant matter, can form little idea how great was his appreciation of humour, how much he possessed, how deeply music affected him, and how passionate was his enjoyment of Shakspeare and the Elizabethan dramatists. This was shown by his first literary effort, a small volume entitled *The Beauties of Massinger*, published about the year 1810.
 
-This number contained also a letter from the Rev. C. F. Secretan, inquiring where he could consult a copy of the works of San Carlo Borromeo, there not being at that time a copy in the library of the British Museum. His object was, I believe, to see what light those writings might throw upon the history of Sunday Schools, of which Borromeo was the founder, long before Robert Raikes, of Gloucester, introduced them into this country. The
-Rev. Mr. Hooper, in the article which called forth these papers, spoke of Mr. Secretan, and most justly, as my "excellent son-in-law." He was not so at that time ; and did not become so till nine years later; and nine years after that his most useful and exemplary life came to an end. I use the epithet "examplary" advisedly ; for as he was a most affectionate and devoted husband and father, so was he no less earnest and untiring in his character as a parish priest ; and on the day which saw him laid to his rest, in the quiet churchyard of Longdon, in Worcestershire, to the deep regret, not only of his new parishioners, but of many of his brother clergy, to whom he had endeared himself during his brief sojourn among them,—that same day one who had long known and esteemed him, the present Bishop of Lincoln, preached the funeral sermon of Charles Frederick Secretan in the church of Holy Trinity, Westminster, to a large congregation of those whom his zeal, piety, and eloquence had gathered under its roof during his twelve years' charge of that newly formed district.
+This number contained also a letter from the Rev. C. F. Secretan, inquiring where he could consult a copy of the works of San Carlo Borromeo, there not being at that time a copy in the library of the British Museum. His object was, I believe, to see what light those writings might throw upon the history of Sunday Schools, of which Borromeo was the founder, long before Robert Raikes, of Gloucester, introduced them into this country. The Rev. Mr. Hooper, in the article which called forth these papers, spoke of Mr. Secretan, and most justly, as my "excellent son-in-law." He was not so at that time ; and did not become so till nine years later; and nine years after that his most useful and exemplary life came to an end. I use the epithet "examplary" advisedly ; for as he was a most affectionate and devoted husband and father, so was he no less earnest and untiring in his character as a parish priest ; and on the day which saw him laid to his rest, in the quiet churchyard of Longdon, in Worcestershire, to the deep regret, not only of his new parishioners, but of many of his brother clergy, to whom he had endeared himself during his brief sojourn among them,—that same day one who had long known and esteemed him, the present Bishop of Lincoln, preached the funeral sermon of Charles Frederick Secretan in the church of Holy Trinity, Westminster, to a large congregation of those whom his zeal, piety, and eloquence had gathered under its roof during his twelve years' charge of that newly formed district.
 
 Among the writers in this number who signed their names with initials, I recognize those of two gentlemen whom I could not claim as personal friends, but knew from their high reputation as local antiquaries : I allude to Mr. Carthew, of East Dereham, and Mr. Brooke, of Ufford.
 
@@ -624,7 +649,7 @@ William J. Thoms. (To be continued.)
 https://archive.org/details/sim_notes-and-queries_1877-01-06_7_158/page/n1/mode/2up  Notes and Queries  1877-01-06: Vol 7 Iss 158 p1-2 5th S. VII
 
 The STORY OF "NOTES AND QUERIES"
-(*(Cont S. vi. 222)
+(Cont S. vi. 222)
 
 Every week added new and distinguished names to the list of avowed conributors, while others no less able preferred to identify their communications by pseudonyms or initials only. Thus, in the fourth number, appeared articles from the pens of Mr. Edward Hawkins, Mr. Singer, and the Rev. Mackenzie Walcott.
 
@@ -649,8 +674,7 @@ THE STORY "NOTES AND QUERIES."
 
 *(Continued from S. vii. 2.)*
 
-When with the New Year I resumed the story of "N. & Q.," I was obliged, from the same cause
-which had interrupted it two or three months before, to avail myself of other eyes and another pen. I trust I may be pardoned for this purely personal allusion, but it necessary to explain a most extraordinary omission in my last paper—an omission of which I could not possibly have been guilty but for that circumstance. For Iif I myself had looked at p. 61 of that fourth number, the history of which I was there telling, a small Query, of less than five lines, modestly signed L.—, the initial of the surname of the writer— would have reminded me that that was the first of a long series of communications from one of the most candid, clear-headed, and accomplished scholars of the day, Sir George Cornewall Lewis, who from that 24th November, 1849, until the very Saturday which preceded his death—an event which Mr. Disraeli justly characterised as "a calamity which had befallen the nation"— continually enriched these columns with some of the fruits of his varied learning, and intelligent criticism. His last paper, to which I have just referred, viz. that on "The Presidency of Deliberative Aseemblies" (3rd S. iii 281), a most valuable artcile on an important subject, appeared only two days before his death— I must say friend, for he honoured me with many proofs of his respect and personal regard.
+When with the New Year I resumed the story of "N. & Q.," I was obliged, from the same cause which had interrupted it two or three months before, to avail myself of other eyes and another pen. I trust I may be pardoned for this purely personal allusion, but it necessary to explain a most extraordinary omission in my last paper—an omission of which I could not possibly have been guilty but for that circumstance. For Iif I myself had looked at p. 61 of that fourth number, the history of which I was there telling, a small Query, of less than five lines, modestly signed L.—, the initial of the surname of the writer— would have reminded me that that was the first of a long series of communications from one of the most candid, clear-headed, and accomplished scholars of the day, Sir George Cornewall Lewis, who from that 24th November, 1849, until the very Saturday which preceded his death—an event which Mr. Disraeli justly characterised as "a calamity which had befallen the nation"— continually enriched these columns with some of the fruits of his varied learning, and intelligent criticism. His last paper, to which I have just referred, viz. that on "The Presidency of Deliberative Aseemblies" (3rd S. iii 281), a most valuable artcile on an important subject, appeared only two days before his death— I must say friend, for he honoured me with many proofs of his respect and personal regard.
 
 Few things connected with "N. & Q." have gratified me as much as its being the means of making me known to Sir G. C. Lewis, and the way it was brought about.
 
@@ -684,11 +708,11 @@ William J. Thoms.
 
 https://archive.org/details/sim_notes-and-queries_1877-04-21_7_173/page/n1/mode/2up Notes and Queries  1877-04-21: Vol 7 Iss 173 p303-305
 
-The Story of "Notes and Aquries"
+The Story of "Notes and Queries"
 
 *(Concluded from p. 223)
 
-My sixth number opened with an interesting account of "Monmouth's As,", forwarded with charactersitic kindness by the late Earl of Shaftesbury, in reply to the inquiry for information on the subject made by Mr. Bruce in the opening number.
+My sixth number opened with an interesting account of "Monmouth's Ash", forwarded with charactersitic kindness by the late Earl of Shaftesbury, in reply to the inquiry for information on the subject made by Mr. Bruce in the opening number.
 
 But "dear old Lord Shaftesbury," as he is still affectionately called by those who had the good fortune to serve under him, was not the first peer who contributed to "N. & Q.," althugh he was the first whose name appeared in its columns.
 
@@ -726,3 +750,214 @@ William J. Thoms
 
 --
 
+https://archive.org/details/sim_notes-and-queries_1872-09-28_10_248
+Notes and Queries  1872-09-28: Vol 10 Iss 248
+Publication date 1872-09-28
+4h S. x., 241
+
+A PARTING NOTE
+
+There is something very solemn in performing any action under the consciousness that it is for the last time.
+
+Influenced by this feeling it had been my intention that this the last number of NOTES AND QUERIES edited by me should not have contained any intimation that the time had arrived, when I felt called upon to husband my strength and faculties for those official duties which form the proper business of my life.
+
+But the fact having been widely announced, I owe it to myself, and to my sense of what is due to that large body of friends, known and unknown, by whom I have been for three-and-twenty years so ably and generously seconded, to tender them my public andu graeful acknowledgements for their long continued kindnesses.
+
+"With conscious pride I view the band  
+Of faithful frineds that round me stand;  
+With pride exult that I alone  
+Have joined these scattered gems in one ;  
+On which these pearls united shine."
+
+The pride is surely a most justifiable one,; and he who could separate himself from the pleasant associations which I have thus enjoyed for nearly a quarter of a century, without deep pain and emotion, must be made of sterner materials than I can boast.
+
+That pain would be yet greater, that emotion yet more deep, did I not feel assured that in resigning my "plumed" sceptre into the hands of Dr. DORAN, I entrust it to one who not only desires to maintain inchanged the general character of this Journal, but will, by his intelligence, courtesy, and good feeling, secure for dear old NOTES AND QUERIES the continued allegiance of those kind and intelligent friends who have made it what it is.
+
+To those friends, one and all, I now with the deepest gratitude, and most earnest wishes for their welfare and hapiness, tend a hearty and affectionate FAREWELL.
+
+WILLIAM J. THOMS.
+
+In publicly acknowledging how grate are my obligations to my accomplished frined MR. JANES YEOWELL, for his valued and long continued assistance, I am doing a simple act of justice which it affords me the highest gratification to perform.
+
+https://archive.org/details/sim_notes-and-queries_1899-11-04_4_97/page/372/mode/2up
+Notes and Queries  1899-11-04: Vol 4 Iss 97
+Publication date 1899-11-04
+
+OBITUARY NOTICES OF CONTRIBUTORS, 1849-1899.
+includes Noms de plume
+
+https://archive.org/details/sim_notes-and-queries_1899-11-04_4_97/page/n3/mode/2up
+Notes and Queries  1899-11-04: Vol 4 Iss 97
+Jubilee 100th volume with special editorial
+
+...
+
+It is in this eventful year we celebrate the jubilee of, to speak of it in the terms of its founder, "dear old Notes and Queries," the first number of which was published on the 3rd of November, 1849. In the summer of 1846 Mr. William John Thoms, the founder and first editor of Motes and Queries, wrote to The Atheneum, suggesting that it would be both useful and ineresting if it would open its columns to correspondence on the manners, customs, observances, superstitions, ballads, proverbs, &c., of the olden time. Mr. Dilke was so much struck with the idea that he invited Mr. Thoms to call upon him at the office in Wellington Street, a with certain limitations, the plan was agreed to, and on the 22nd of August the first article appeared, Mr. Thoms writing under the pseudonym of " Ambrose Merton," and giving to his investigations the title of " Folk-Lore." In the number published on the 4th of September, 1847, Mr. Thoms revealed himself to be "Ambrose Merton," and at the same time claimed the honour of introducing the expression " Folk-Lore," as Isaac Disraeli does of introducing 'Fatherland' into the literature of the country. The Atheneum of the same date states “that in less than twelve months the word ‘Folk-Lore’ has almost attained to the dignity of a household word." Mr. Thoms at this time commenced a series of nine articles on the Folk-Lore of Shakespeare, little realizing that this special subject was to assume such dimensions. In 1849 it was found that the Folk-Lore articles and correspondence had become so extensive that it was impossible, having regard to the increasing demands that literature, the fine arts, and the other subjects treated in The Atheneum made on its space, that they should be continued. Mr. Thoms, therefore, felt that the time had come when a journal entirely devoted to the subjects in question might be started with a fair chance of success. The title of Notes and Queries, “after much cudgelling of brains,” was hit upon, and with a hearty greeting from The Atheneum the new paper started on its way.
+
+Mr. Thoms, in his interesting reminiscences of the founding of the journal, gives a record of the first six numbers, and renders, with true old-world courtesy, full tribute to those whose contributions had been so largely helpful to its success (5 S., vi. 1, 41, 101, 221; vii. 1, 222, 303). He also says that the title of Notes and (Queries was not considered by many of his friends to be a good one, but that he himself, being so well pleased with it, determined to stand fast by it. Mr. Peter Cunningham suggested for its motto the words of Cowper :—
+
+By thee I might correct, erroneous oft, The clock of History—facts and events Timing more punctual, unrecorded facts Recovering, and mis-stated setting right.
+
+But it was due to the happy suggestion of a lady that Captain Cuttle’s favourite (9 S. IV. Nov. 4, ’99.
+364 NOTES AND QUERIES.
+le early numbers may be mentioned Mr. William Bernard Mac Cabe,
+maxim became the motto of the new ven ture. The first number opened with an address by Dr. Maitland. This was fol- lowed by a note by John Bruce, ‘On the Place of Capture of the Duke of Monmouth’; then ‘Shakespeare and Deer Stealing,’ by John Payne Collier; and ‘Pray remember the Grotto,’ by the Editor. Mr. Dikke and Mr. Albert Way also contributed, and Peter Cunningham gave some ‘New Facts about Lady Arabella Stuart.’ Strange to say, notwithstanding the variety and interesting character of the paper, only forty copies were sold on the day of publication. In the course of the next few weeks this forty was increased to six hundred, after which the sale gradually but steadily became larger, several of the first issues having to be re printed. In these early numbers it is curious to note the phraseology of fifty years ago, the complimentary term for contributors being “respectable, ‘while the title of esquire was then so limited that we actually find Mr. Murray in his advertisements adding "Esquire" to the names of most of his authors.
+
+The third number contains some original letters addressed by Lord Nelson's brother to the Rev. A. J. Scott in reference to the arrangements for the removal of the body of the fallen hero from the Victory to Greenwich Hospital. The letters are signed " Nelson," and a postscript to one of them is as follows:
+
+"It will be of great importance that I am in possession of his /asf wt// and codici/s as soon as no one can say that it does not contain,
+possible many «directions relative to his 
+among other things, funeral."
+The Rev. Alfred Gatty, who had_ kindly placed these letters at Mr. Thoms’s disposal, adds:
+
+"The codici/ referred to in these letters proved to be, or at least to include, that memorable document which the Earl suppressed, when he produced the will, lest it should curtail his own share of the amount of favour which a grateful country would be anxious to heap on the re presentatives of the departed hero. By this un worthy conduct the fortunes of Lady Hamilton and her still surviving daughter were at once
+blighted."
+
+In the fourth number appears a aes from Sir George Cornewall Lewis, who ‘ continued to be a constant contributor, his last paper appearing only two days before his death, which took place on the 13th of April, 1863. To enumerate all the chief contributors would be to give almost every
+known name in literature. Many, like Mr. Dilke, chose to remain anonymous, but among those whose names appear in th
+...
+The first volume of Notes and Queries was completed with the thirtieth number, May 25th, 1850, the second volume running from the 1st of June to the end of the year, after which the volumes were issued each half year, the First Series being completed on the 22nd of December, 1855.
+...
+9 S. IV. Nov. 4, ’99.]
+NOTES AND QUERIES.
+365
+though far removed from the busy world of letters), derive from the perusal of ' Notes and Queries.' "
+
+Mr. Thoms adds : " How many a pertinent Note, suggestive Query, and apt Reply have reached us from the same remote quarters !" Reference is also made to the good service rendered to men of letters here at home, as well as to a goodly list of works of learning and research, such as Cunningham’s ' Hand book of London Past and Present,' " pub lished when we had been but a few months in existence, down to Wycliffe’s ' Three Treatises on the Church,' recently edited by the Rev. Dr. Todd."
+
+Many suggestions have been made by contributors from time to time with a view to increasing the usefulness of Votes and (Queries. Among these was one made by Mr. F. A. Carrington on the 15th of November, 1856, that "'N. & Q.' would have great additional value if the contributors of Notes (Queries do not signify) would give their names." This elicited from "C." on the 6th of December a reply against the proposal :
+
+"Those who please may, and many do sign, and others who give no name are as well known as if they did; but, as a general rule the absence of the name is, I am satisfied, best. It tends to brevity it obviates personalities—it allows a freer intercommunication of opinion and criticism."
+
+Then "C." closes with a prediction that must have set the editor all of a tremble: "If we were all to give our names 'N. & Q.' would, in three weeks, be a cock-pit."
+...
+In the indexes to the eighth and ninth volumes the plan was adopted of denoting unanswered queries with an asterisk, but the increasing number of queries rendered the labour of such a record too great. The indexes to the first three series were the work of Mr. James Yeowell, and the plan and methods originated by him have been carefully preserved in the succeeding issues. Of his services to the publication I shall again make mention.
+...
+9 S. IV. Nov. 4, 99.)
+NOTES AND QUERIES.
+367
+national loss. "The millions sorrow as one, with a sorrow of which the depth is only equalled by its sincerity."
+
+On August 13th, 1864, Mr. Thoms thus records the death of his friend Charles Wentworth Dilke :—
+
+"In the death of Charles Wentworth Dilke 'N. & Q.' has sustained a great loss; for, among the many able writers who have from time to time contributed to its pages, no one has enriched them with so many valuable papers illustrative of Eng- lish History and Literature as he whose death it is now our painful duty to record. Mr. Dilke was one of the truest-hearted men, and kindest friends, it has ever been our good fortune to know. He died on Wednesday last, in the seventy-fifth year of his age. The distinguishing feature of his character was, his singular love of truth; and his sense of its value and importance, even in the minutest points and questions of literary history. In all his writings the enforcement of this great principle, as the only foundation of literary honour and respectability, was his undeviating aim and object. What the independence of English Literary Journalism owes to his spirited exertions, clear judgment, and unflinching honesty of purpose, will, we trust, be told hereafter by an abler pen than that which now announces his deeply lamented death."
+
+On the 10th of July, 1875, Mr. Thoms reviews "The Papers of a Critic, selected from the Writings of the late Charles Wentworth Dilke, with a Biographical Sketch by his Grandson, Sir hase V. Dilke, Bart., M.P.," 2 vols. (Murray). Mr. Thoms in his review states that there was no more successful clearer-up of vexed questions in social, litical, or literary history than the late Mr. Dilke,
+"for the simple reason that he brought to the work persistent industry, earnestness, and an honest spirit of truthfulness ; and he delivered no judgment till he was thoroughly satistied that it was correct on every point, and in no part assailable. But the readers and comtalbehuneel 'N. & Q.' do not require to be told of the rare qualities which distinguished Mr. Dilke as a critic. They will be glad to possess the papers which his grandson has collected, and which prove that he stood unrivalled as a master of the art of criticism. honour of possessing his friendship have a loving and undying memory of what Mr. Dilke was as a man. heartily recommend a perusal of the memoir, in which his grandson tells the story of a thoroughly honest man’s honest and useful life."
+
+Mr. Thoms then letter from Mr. Dilke to his son, of which he says :—
+" The columns of 'N. & Q.' have contained many beautiful letters written by men who now, as the phrase is, ‘belong to history’; but we question if there is one among them all which is so tender and wise."
+
+Mr. Dilke's contributions to Notes and (Juerves were very large, but as in its pages had, as he said, "as many aliases as an Old Bailey prisoner," it is difficult to trace some of them. In ' Papers of a Critic' we are helped to a solution. "He nearly always used the initials of the first three words of the heading of his contributions. Suppose, for instance, it was 'The Carvlls of Ladyholt,' it would be signed T.C.O. Among the — treated upon were Pope,
+Junius, Wilkes, Burke, ' Hugh Speke and the Forged Declaration of the Prince of Orange' (a series of notes in which Mr. Dilke defended one of the leaders of Monmouth's rebellion against Macaulay), centenarianism, and various others.
+
+In the memoir which appears of Mr. Dilke in the ' Dictionary of National Biography' it is stated that "the best comments on his character and his literary work were those of his old friend Thoms in Votes and (Jueries”; and both having been intimately associated with the founding of Notes and
+io They who had the |
+Io those who were strangers to him we
+ives in full a birthday |
+(Jueries, | have felt what a pleasure it would be to its readers to have the portraits of | the two friends omer side by side in this our Jubilee number, and I am certain that such would have been the desire of its founder. | I much wished to have given a portrait of Mr. | Dilke taken only four years before his death, | but, unfortunately, | have to lament, like | Mr. Thoms, the faded photographs of old | friends.
+I will only add just this testimony from myself. No words can express the affection land regard that my father and all of us in our home in Wellington Street had for him.
+
+The number for the 28th of September, 1872, opens with ‘A Parting Note’ from Mr. Thoms :
+
+"There is something very solemn in performing any action under the consciousness that it is for the last time.
+* Influenced by this feeling it had been my in- tention that this the last number of Notes and | Queries edited by me should not have contained any intimation that the time had arrived, when I felt called upon to husband my strength and faculties for those official duties which form the proper business of my life.
+* But the fact having been widely announced, I owe it to myself, and to my sense of what is due to that large body of friends, known and unknown, by whom I have been for three-and-twenty years so ably and generously seconded, to tender them my public and grateful acknowledgments for their long- continued kindnesses.
+‘*** With conscious pride I view the band
+Of faithful friends that round me stand ; With pride exult that I alone
+Have joined these scattered gems in one ; Rejoiced to be the silken line
+On which these pearls united shine.’
+“This pride is surely a most see one ; and he who could separate himself from the pleas
+
+368
+NOTES
+AND QUERIES.
+(9* 8S. LV. Nov. 4, 99.
+associations which I have thus enjoyed for nearly a quarter of a century, without deep pain and emotion, must be made of sterner materials than | can boast.
+“ That pain would be yet greater, that emotion yet more deep, did I not feel assured that in re- signing my ‘plumed’ sceptre into the hands of Dr. Doran, I entrust it to one who not only desires
+| that
+to maintain aneneners the general character of this |
+Journal, but will, by his intelligence, courtesy, and good fe c ling, secure for dear old Note sand (Juerve 8 the continued allegiance of those kind and intelli- gent friends who have made * what it is.
+friends, one and all, 1 now with the gratitude, and most earnest wishes for their
+To those deepest
+welfare and happiness, tender a hearty and affe« tionate FAREWELL, Wituram J. Tuoms. “In publicly acknowledging how great are my | ,
+obligations to my accomplished friend Mr. James Yeowell, for his valued and long-continued assist- ance, I am doing a simp ile act of justice which it affords me the highest gt tification to perform.
+The editorship of Dr. Doran commenced on the 5th of October, and Votes and Queries having been purchased by Sir Charles W. Dilke, its publication was removed to 20, Wellington Street, the oftice of 7'he Atheneum, and my father became its publisher. For the first fourteen years it was published by Mr. George Bell, of Bell & Daldy, now the well- known firm of George Bell & Sons. Mr. Bell took great interest in its progress, and re gretted much having to sever his connexion with it; but with the increase of his own business, and the fact that Votes and (Queries now required an ottice of its own, it was not yossible to combine the two. When Mr.Thoms decided upon the change he consulted
+with my father, who took business details until safe in its new home.]
+
+...
+
+Mr. James Yeowell, who had been the active sub-editor for more than twenty years, died on Friday, the 10th of December, 1875, and the number for the 18th opens with a beautiful tribute to his memory by Mr. Thoms, who said of him that he was "one who had many friends, but never an enemy." The Atheneum, in its obituary notice of the same date, states of this " sim ple-minded worshipper of strict accuracy" that "no man was ever more fortunate in finding in his daily occupation the labour in which he delighted," and suggests that his large collection of cuttings, jottings, and notes illustrative of the biography of the "illustrious obscure" of our literature should be secured by the British Museum.
+The Atheneum of the following w
+
+...
+
+Mr. Thoms again appears before the readers of Notes and Queries in the preface to the index to the Fifth Series, as well as in the first number of the Sixth, in which, with an old man's privilege, he makes sorrowful reference to those contributors who had passed away since he had called the journal into existence some thirty years before :
+*not their
+‘** Many of these were dear personal friends, of the roll of common men.’ to honoured memories !
+* Happily for the cause of good earnest inquiry after literary and historical truth, their places have been
+Pe ace
+supplied by worthy successors, as a glance at the contents of this the opening number of our Sixth Series will abundantly testify. It is a number te which the editor may point in every way with justifiable pride, as an evidence of the high ‘esteem in which * XM & Q.’ is held by men of eminence in literature and position. | “Long may my offspring occupy the position | which it so worthily hat and long may the con- tributors to dear old ‘ N. & Q.’ greet each new series as | do this, Floreat ! Flos at ! Floreat !”
+
+...
+
+Saturday the 15th of August, 1885, was a day of deep mourning for *Notes and Queries&. The kind-hearted, genial scholar, its founder and first editor, was dead. The obituary notice, written by Mr. Knight, which appeared the following week, renders full tribute to his sound learning, his genial fancy and humour, as well as to his social gifts, which caused him to be a favourite in all companies, while his good nature and tact saved him from being mixed up in archeological feuds, and preserved to him throughout his life a record of intimacies and friendships unbroken by a single quarrel.
+
+Although the daily papers at the time, as well as *The Atheneum*, gave obituary notices and the 'Dictionary of National Biography ' contains particulars of his life written by Mr. E. Irving Carlyle (how proud he would have been at the constant reference made to 'N. & Q.' in its pages!), I have felt that we should have some record to refer to in his own journal.
+
+Mr. William John Thoms was born on the 16th of November, 1803, so that he was the junior of his friend Mr. Dilke by fourteen years. He was the son of Nathaniel Thoms, who had been for many years a clerk in the Treasury. Mr. T. C. Noble, in 'N. & Q' of the 17th of October, 1885, records that a curious error was made in the register of his baptism in St. Margaret's Church, Westminster, December 15th, 1803, in which his name is given as simply "John Thoms, son of Nathaniel by Ruth Ann, [born] November 16." This was corrected in 1857 by a sworn atftidavit before Mr. Arnold, the magistrate, and at the foot of the page was then written, "This should be William John Thoms, accord ing to the declaration of Mary Ann Thoms annexed hereto Mercer Davies, curate, June 5, 1857." Mr. Thoms was for twenty years in the Secretary's Office at Chelsea Hospital, and in 1845, on account of the great railway pressure, additional clerks being required for the service of the House of Lords, Mr. Thoms was appointed to a clerkship, and was for many years head of the Printed Paper Office, where, The Athenaeum says, his literary knowledge and research soon became known, and it was not long before he
+
+"had drawn to his room for unofficial purposes the great lawyers and politicians of the recent past, Lord Brougham, Lord Lyndhurst, and Lord Campbell; the eminent historians Lord Macaulay and Earl Stanhope; and to these may be added the names of the Earl of Ellenborough, Lord Broughton but a complete list would include most of the distinguished names among the members of the Upper House."
+
+As early as 1838 he was elected a fellow of the Society of Antiquaries, in the work of which he took an active part, and did his best to prevent the election for membership of those who, with only a superficial knowledge, sought to add the distinction of F.S.A. to their names.
+
+In the same year he was appointed secretary of the Camden Society, which position he held for thirty-five years. In 1863 Mr. Thoms was appointed Deputy Librarian of the House of Lords; this post, in consequence of old age, he resigned in 1882.
+
+Mr. Thoms's first work, 'Early Prose Romances,' was published in 1827-28, followed in 1834 by 'Lays and Legends of Various Nations', issued in monthly parts at half-a-crown, Mr. Thoms choosing for his motto the words of Sir John Malcolm, "He who desires to be well acquainted with a people will not reject their popular stories or local superstitions." In 1838 he wrote 'The Book of the Court, giving the Origin, Duties, and Privileges  of the Nobility and of the Officers of State.' And in 1845, to show that he was not always engaged on historic doubts, under the title of 'Gammer Gurton’s Pleasant Stories' he published a delightful little Christmas book for children, beautifully illustrated, and printed by the Chiswick Press. The book is inscribed by Ambrose Merton, Gent., F.S.A., who, "in all hearty good will and affection, dedicates these world-renowned Stories to the Parents and Children of Merrie England." He also completed an edition of Stow’s 'Survey of London' and various other works, among these two volumes of 'Choice Notes from *Notes and Queries*: History and Folk-Lore,' 1858 and 1859, long since out of print. Thoms also published three notelets on Shakespeare, articles from *Notes and Queries*, and a book on ' The Longevity of Man, its Facts and its Fictions'. In my much valued copy the author has written " With the writer's best regards." The publisher of this was his friend and an old contributor, Mr. F. Norgate. In *Notes and Queries*, February 20th, 1875, appears a note by my father of ' A Centenarian' known to him, Mrs. Coxeter, of Newbury, born at Witney February 1st, 1775, had just celebrated her hundredth Her death recorded in 'N. & Q.' of December 2nd in the following year, and Mr. Thoms acknowledges the claim to be " well authenticated." The two friends would now and then have some fun over this when Mr. Thoms would put on his inimitable smile and say, "Ah! Mr. Francis, your friend must have been born in a Witney blanket." `[Mrs. Coxeter’s husband was the proprietor of the Greenham Mills, and it was at these mills that the celebrated Throckmorton coat was made in one day, the sheep being shorn at five in the morning, the wool made into cloth, and the coat completed so as to be worn by Sir John Throckmorton the same evening. The coat, with a print illustrating the event, was shown in the Exhibition of 1851, Mr. Coxeter's son, whose friendship I still enjoy. presented a copy of this print to Mr. Gladstone, who was greatly interested in it.]`
+
+Mr. Thoms in a letter addressed to Prof. Owen, entitled 'Exceptional Longevity,' published in 1879, tells the origin of his investigations. For the first twelve months after he had started *Notes and Queries* he used to insert, without the slightest doubt as to their accuracy, all the various cases of exceptional longevity which were sent to him. Mr. Dilke would good naturedly quiz him on his fondness " for the big gooseberry style of communications," so that when Sir George C. Lewis sent to him a paper on 'Centenarians' (3rd S. i. 281) his mind was prepared to go into the question. Mr. Thoms was a great rambler among the —— bookstalls, and in this " bookstalling" he and his friend Mr. Dilke were friendly rivals. Mr. Dilke on one occasion wrote to him, "Chancery Lane is my own manor, regularly haunted every Friday, and it is not to be endured that a mere poacher shall shake my own property in my own face." The letter is signed " Yours as you behave yourself."
+
+Mr. Thoms in his ' Gossip of an Old Book Worm', which appeared in the *Nineteenth Century* in 1881, gives some interesting particulars as to his search for pamphlets and books among the bookstalls, when he would often meet Lord Macaulay on the same errand.
+
+Mr. Thoms tells us that he had a love for books from his earliest years, the taste for them being encouraged by his father, who was a diligent reader of the *Edinburgh and Quarterly Reviews*, his library containing a complete set of each. Being very short sighted, he was not able to join in sports like other boys. "There was only one branch of them in which I was an adept, and in these refined days I almost blush to refer to it. I was said to handle the gloves very nicely."
+
+The year 1872 was full of activity for Mr. Thoms. We find him busy investigating 'Another Historic Doubt'—the death-warrant of Charles I. The numbers for July contain his notes on the subject ; these were afterwards reprinted, and rapidly passed through two editions. They were dedicated to one dear to him as a brother—" To the memory of that model of a Christian gentleman and accomplished scholar, my forty years' friend, John Bruce." Then came his farewell to 'N. & Q.', and only four weeks after his 'Parting Note' a banquet was given in his honour. On the 1st of November such an assemblage as is rarely witnessed met at Willis's Rooms.The chairman was Karl Stanhope, Lord Lyttelton occupied the vice chair, and the company included, among other equally well-known names, the Earl of Verulam, Sir Frederick Pollock, Sir Charles W. Dilke, Sir Edward Smirke, Prof. Owen, Mr. Joseph Durham, R.A., Mr. Shirley Brooks, and Mr John Murray.
+
+A report of the proceedings is printed on the 9th of November. Earl Stanhope in the course of his speech said that
+
+"it was as Editor of Notes and Queries from its foundation that they were now met to do him [Mr. Thoms] honour. The distinguishing merit of that periodical was that it did not pursue its inquiries into any one branch of knowledge, but invited co-operation from labourers in different fields of knowledge in the elucidation of difficulties."
+
+Among other speakers were Mr. Benjamin Moran, United States Chargé d’Affaires, who bore testimony to the appreciation in America of Mr. Thoms's labours; Prof. Owen, who thanked Mr. Thoms in the name of men of science whose researches he has assisted in the pages of 'N. & Q.'; and Sir Frederick Pollock. Mr. Thoms in the course of his reply said all "during all the time he had conducted *Notes and Queries* he never had so difficult a query proposed as that which occurred to him tonight, 'What have I done to deserve this great honour ?'" Among the many friends who wrote to congratulate him upon the success of the evening there was no letter more valued than the one he received from his successor in 'N, & Q”.' Dr. Doran wrote:
+
+"Very sincerely do I congratulate you on the way in which you got through your trying position on Friday night. All around me felt for you while you were speaking, and admired how manfully your courage carried you over your emotion. A better speech could not have been made on such an occasion, and more hearty sympathy for the speaker could not have been shown, not merely by the loud applause, but by the quiet friendly and affectionate comments and phrases interchanged among neighbour-guests while you were doing battle with your feelings, and yet preserving your self-possession and your characteristic humour. It was a night to be remembered."
+
+With this celebration Mr. Thom's public life may be said to have closed. The next thirteen years were passed for the most part quietly in the sanctuary of home, surrounded by those he loved, until the end came, in the old home endeared to him by so many memories. His life had been so long that few of his earlier friends had been spared to follow him to the cemetery at Brompton. My companion on that oceasion was one of his oldest friends and contributors, Mr. Hyde Clarke, since passed to his rest. The Atheneum of the 14th of last month announced the death of another of his old friends, Col. Francis Grant. Mr. Thoms's library of some fifteen thousand volumes, which included a large collection of works on Pope and Junius, was sold by Messrs. Sotheby in February, 1887.
+
+In this little record of Mr. Thoms's life I have been aided by his eldest son, Mr. Merton Thoms. I have also to thank him for allowing me to make a copy of a photograph taken by Dr. Diamond, so that the readers of 'N. & Q.' may be in possession of this interesting souvenir of our founder. The words are facsimiled from those written by Mr. Thoms on the back of a portrait which he gave to my father. I have been trying to persuade Mr. Merton Thoms to give us a volume about his father, to include some of the rich stores of correspondence now in his possession.
+]
+----
+
+
+
+https://archive.org/details/historychoiceno00quergoog
+History. Choice notes from 'Notes and queries'.
+by Notes and queries
+Publication date 1858
+p.v-vi
+
+PREFACE.
+
+On the completion of the First Series of Notes and Queries, it was suggested from many quarters, that a selection of the more curious articles scattered through the twelve volumes would be welcome to a numerous body of readers. It was said that such a selection, judiciously made, would not only add to a class of books of which we have too few in English literature, — we mean books of the pleasant gossiping character of the French Ana for the amusement of the general reader, — but would serve in some measure to supply the place of the entire series to those who might not possess it.
+
+It has been determined to carry out this idea by the publication of a few small volumes, each devoted to a particular subject. The first, which is here presented to the reading world, is devoted to History : and we trust that whether the reader looks at the value of the original documents here reprinted, or the historical truths here established, he will be disposed to address the book in the words of Cowper, sO happily suggested bj Mr. Peter Cunningham as the appropriate motto of Notes and Queries itself, —
+
+By thee I might correct, erroneous offt,  
+The clock of History — facts and events  
+Timing more punctual, unrecorded facts  
+Recoveringy and mis-stated setting right.
+
+While on the other hand the volume, from its miscellaneous character, will, we hope, be found an acceptable addition to that pleasant class of books which Horace Walpole felicitously describes as " lounging books, books which one takes up in the gout, low spirits, ennui, or when one is waiting for company."
+
+THE EDITOR.
+
+[The notes and queries selected a described in an annotated form, with context provided by the editor, similar in form the to the style of I have been using in this set of notes. --TH]
