@@ -924,6 +924,7 @@ With this celebration Mr. Thom's public life may be said to have closed. The nex
 
 In this little record of Mr. Thoms's life I have been aided by his eldest son, Mr. Merton Thoms. I have also to thank him for allowing me to make a copy of a photograph taken by Dr. Diamond, so that the readers of 'N. & Q.' may be in possession of this interesting souvenir of our founder. The words are facsimiled from those written by Mr. Thoms on the back of a portrait which he gave to my father. I have been trying to persuade Mr. Merton Thoms to give us a volume about his father, to include some of the rich stores of correspondence now in his possession.
 ]
+
 ----
 
 
