@@ -141,206 +141,134 @@ The column closes with a note of gratitude:
 
 > All these, and many other expressions of sympathy and promises of support, poured in upon us within a few hours after our birth. No one of them shall be forgotten ; and if for a time our pages seem to indicate that we have made a Query as to the adoption of any suggestion, let our kind contributors be assured that there is no hint which reaches us, whether at present practicable or not, that we do not seriously and thankfully " make a Note of."
 
+In the third issue, [Vol 1 Iss 3](https://archive.org/details/sim_notes-and-queries_1849-11-17_1_3/page/46/mode/2up), the *Notices to Correspondents* column,  p46, continued to provide a channel for discussing possible improvements:
 
+> Contents and Index
+> Our correspondents will see that their wish for a Table of Contents to each number has been complied with. We are fully aware how much the value of a work like  " Notes and Queries" is enhanced by a good Index. It is intended to give a very copious one at the end of each volume, so as to make the work one not merely of temporary interest, but of permanent utility.
 
----
-https://archive.org/details/sim_notes-and-queries_1849-11-17_1_3/page/46/mode/2up
-
-Notes and Queries  1849-11-17: Vol 1 Iss 3
-Publication date 1849-11-17
-
-p46
-
-Notices to Correspondents
-
-...
-
-Contents and Index  
-Our correspondents will see that their wish for a Table of Contents to each number has been complied with. We are fully aware how much the value of a work like  " Notes and Queries" is enhanced by a good Index. It is intended to give a very copious one at the end of each volume, so as to make the work one not merely of temporary interest, but of permanent utility.
-
-...
+Some difficulties in the availaibilty of *Notes and Queries* were also acknowledged:
 
 We have received many complaints of a difficulty in procuring our paper. Every Bookseller and Newsvender will supply it if ordered, and gentlemen residing in the country may be supplied regularly with the Stamped Edition by giving their orders direct to the publisher, Mr. Grorce Bett, 136. Fleet Street, accompanied by a Post Office order for a quarter (4s, 4d.). All communications should be addressed to the Editor of "Notes and Queries," 186. Fleet Street.
 
+In the fourth issue, [Vol 1 Iss 4](https://archive.org/details/sim_notes-and-queries_1849-11-24_1_4), Thoms reviewed the progress to date, p49-50, beginning with the decision to publish weekly:
 
----
-https://archive.org/details/sim_notes-and-queries_1849-11-24_1_4
+> OUR PROGRESS AND PROSPECTS.
+>
+> When we consulted our literary friends as to the form and manner in which it would be most expedient to put forth our "NOTES AND QUERIES," more than one suggested to us that our paper should appear only once a month, or at all events not more frequently than once a fortnight, on the ground that a difficulty would be experienced in procuring materials for more frequent publication. We felt, however, that if such a medium of Inter-communication, as we proposed to establish was, as we believed, really wanted, frequency of publication was indispensable. Nothing but a weekly publication would meet what we believed to be the requirements of literary men. We determined, therefore, to publish a Number every Saturday; and the result has so far justified our decision, that the object of our now addressing our readers is to apologise to the many friends whose communieations we are again unavoidably compelled. to postpone; and to explain that we are preparing to carry out such further improvements in our arrangements as will enable us to find earlier admission for all the communications with which we are favoured.
 
-Notes and Queries  1849-11-24: Vol 1 Iss 4
-Publication date 1849-11-24
+He also comments on policy to of including comments on, and corrections of, the works of contemporary authors:
 
-p49-50
+> One other word. It has been suggested to us that in inviting Notes, Comments, and Emendations upon the works of Macaulay, Hallam, and other living authors, we may possibly run a risk of offending those eminent men. We hope not. We are sure that this ought not to be the case. Had we not recognised the merits of such works, and the influence they were destined to exercise over men's minds, we should not have opened our pages for the purpose of receiving, much less have invited, corrections of the mistakes into which the most honest and the most able of literary inquirers must sometimes fall. Only those who have meddled in historical research "an be aware of the extreme difficulty, the all but impossibility, of ascertaining the exact or the whole truth, amidst the numerous minute and often apparently contradictory facts which present themselves to the notice of all inquirers. In this very number a correspondent comments upon an inference drawn by Mr. Hallam from a passage in Mabillon, In inserting such a communication we show the respect we feel for Mr. Hallam, and our sense of the services which he has rendered to historical knowledge. Had we believed that if he has fallen into a mistake in this instance, it had been not merely a mistake, but a deliberate perversion of the truth, we should have regarded both book and writer with indifference, not to say with contempt. It is in the endeavour to furnish corrections of little unavoidable slips in such good honest books — albeit imperfect as all books must be — that we hope at once to render good service to our national literature, and to show our sense of the genius, learning, and research which have combined to enrich it by the production of works of such high character and lasting influence.
 
-OUR PROGRESS AND PROSPECTS.
+The same issue, published November 24th, 1849, at [p51-2](https://archive.org/details/sim_notes-and-queries_1849-11-24_1_4/page/50/mode/2up), included a letter regarding "commonplace" style contibutions,:
 
-When we consulted our literary friends as to the form and manner in which it would be most expedient to put forth our "NOTES AND QUERIES," more than one suggested to us that our paper should appear only once a month, or at all events not more frequently than once a fortnight, on the ground that a difficulty would be experienced in procuring materials for more frequent publication. We felt, however, that if such a medium of Inter-communication, as we proposed to establish was, as we believed, really wanted, frequency of publication was indispensable. Nothing but a weekly publication would meet what we believed to be the requirements of literary men. We determined, therefore, to publish a Number every Saturday; and the result has so far justified our decision, that the object of our now addressing our readers is to apologise to the many friends whose communieations we are again unavoidably compelled. to postpone; and to explain that we are preparing to carry out such further improvements in our arrangements as will enable us to find earlier admission for all the communications with which we are favoured.
+> ADVERSARIA,
+>
+> [In our Prospectus we spoke of Notes and Queries becoming everybody's common-place book. The following very friendly letter from an unknown correspondent, G. J.K., urges us to carry out such an arrangement.
+>
+> Sir,—-I beg leave to forward you a contribution for your " Notes and Queries," a periodical which is, I conceive, likely to do a vast deal of good by bringing literary men of all shades of opinion into closer juxtaposition than they have hitherto been.
+>
+> I would, however, suggest that in future numbers a space might be allotted for the reception of those articles (short of course), which students and literary men in general, transfer to their common-place books ; such as notices of scarce or curious books, biographical or historical curiosities, remarks on ancient or obsolete customs, &c. &c. &c. Literary men are constantly meeting with such in the course of their reading, and how much better would it be if, instead of transferring them to a MS. book to be seen only by themselves, or perhaps a friend or two, they would forward them to a periodical, in which they might be enshrined in imperishable pica; to say nothing of the benefits such a course of proceeding would confer on those who might not have had the same facilities of gaining the information thus made public.
 
-One other word. It has been suggested to us that in inviting Notes, Comments, and Emendations upon the works of Macaulay, Hallam, and other living authors, we may possibly run a risk of offending those eminent men. We hope not. We are sure that this ought not to be-the case. Had we not recognised the merits of such works, and the influence they were destined to exercise over men's minds, we should not have opened our pages for the purpose of receiving, much less have invited, corrections of the mistakes into which the most honest and the most able of literary inquirers must sometimes fall. Only those who have meddled in historical research "an be aware of the extreme difficulty, the all but impossibility, of ascertaining the exact or the whole truth, amidst the numerous minute and often apparently contradictory facts which present themselves to the notice of all inquirers. In this very number a correspondent comments upon an inference drawn by Mr. Hallam from a passage in Mabillon, In inserting such a communication we show the respect we feel for Mr. Hallam, and our sense of the services which he has rendered to historical knowledge. Had we believed that if he has fallen into a mistake in this instance, it had been not merely a mistake, but a deliberate perversion of the truth, we should have regarded both book and writer with indifference, not to say with contempt. It is in the endeavour to furnish corrections of little unavoidable slips in such good honest books — albeit imperfect as all books must be — that we hope at once to render good service to our national literature, and to show our sense of the genius, learning, and research which have combined to enrich it by the production of works of such high character and lasting influence.
+As an example, G. J. K. included some observations of his own:
 
----
-https://archive.org/details/sim_notes-and-queries_1849-11-24_1_4/page/50/mode/2up
+> In pursuance of this suggestion I have forwarded the inclosed paper, and should be happy, from time to time, to contribute such gleanings from old authors, &c. as I might think worth preserving. G. J. K.
 
-Notes and Queries  1849-11-24: Vol 1 Iss 4
-Publication date 1849-11-24
+Thoms was happy to oblige in the publication of them:
 
-p51-2
+> We readily comply with G. J. K.'s suggestion, and print, as the first of the series, his interesting communication, entitled]
+>
+> 1. Writers of Notes on Fly-leaves, &c.
+> ...
 
-ADVERSARIA,
+The *Notices to Correspondents* of that issue, [p63](https://archive.org/details/sim_notes-and-queries_1849-11-24_1_4/page/62/mode/2up), including what appear to be some words of chastisement regarding an upublished communication:
 
-[In our Prospectus we spoke of Notes anp Querris becoming everybody's common-place book. The following very friendly letter from an unknown correspondent, G. J.K., urges us to carry out such an arrangement.
+> Surely Melanion is too hard upon our correspondents and too exigeant towards ourselves. He would place us in a singular position. He should consider that we have not opened lists for all comers to tilt against each other. We invite litterateurs to a re-union, in which they may give and receive mutual help and aid; but, in order to do so, they must tolerate each others' little peculiarities, and not espy offence in them.
 
-Sir,—-I beg leave to forward you a contribution for your " Notes and Queries," a periodical which is, I conceive, likely to do a vast deal of good by bringing literary men of all shades of opinion into closer juxtaposition than they have hitherto been.
+A contribution from the same correspondent is also publicly declined:
 
-I would, however, suggest that in future numbers a space might be allotted for the reception of those articles (short of course), which students and literary men in general, transfer to their common-place books ; such as notices of scarce or curious books, biographical or historical curiosities, remarks on ancient or obsolete customs, &c. &c. &c. Literary men are constantly meeting with such in the course of their reading, and how much better would it be if, instead of transferring them to a MS. book to be seen only by themselves, or perhaps a friend or two, they would forward them to a periodical, in which they might be enshrined in imperishable pica; to say nothing of the benefits such a course of proceeding would confer on those who might not have had the same facilities of gaining the information thus made public.
+> The Index so kindly offered by Melanion is declined with many thanks.
 
-In pursuance of this suggestion I have forwarded the inclosed paper, and should be happy, from time to time, to contribute such gleanings from old authors, &c. as I might think worth preserving. G. J. K.
+A week later, on December 1st, 1849, [Vol 1 Iss 5, p79](https://archive.org/details/sim_notes-and-queries_1849-12-01_1_5/page/78/mode/2up?q=enlarge+circulation), and one of the notices to correspondents thanks one contributor for their efforts in helping grow circulation, as well as encouraging others to do the same:
 
-We readily comply with G. J. K.'s suggestion, and print, as the first of the series, his interesting communication, entitled]
+> Philo is thanked for his proposed endeavours to enlarge our circulation. We trust all our friends and correspondents will follow Philo's example by bringing Notes and Queries to the notice of such of their friends as take an interest in literary pursuits. For it is obvious that they will understand the usefulness of our Paper, in proportion as they increase its circulation.
 
-1. Writers of Notes on Fly-leaves, &c.
+For some reason, Thoms felt it necessary to explain this call to action the following week, in [Vol 1 Iss 6, p.81](https://archive.org/details/sim_notes-and-queries_1849-12-08_1_6):
 
-...
+> A FEW WORDS OF EXPLANATION.
+>
+> It was in no boastful or puffing spirit that, when thanking a correspondent in our last number for "his endeavour to enlarge our circulation," and requesting all our friends and correspondents " to follow Philo's example by bringing 'Notes and Queries' under the notice of such of their friends as take an interest in literary pursuits," we added "for it is obvious that they will extend the usefulness of our paper in proportion as they increase its circulation." We wished merely to state a plain obvious fact. Such must necessarily be the case, and our experience proves it to be so; for the number of Queries which have been solved in our columns, has gone on increasing in proportion to the gradual increase of our circulation ; —a result which fully justifies that passage of our opening address which stated, "that we did not anticipate any holding back by those whose Notes were most worth having."
 
----
+He justifies the "value-add" of increasing the readership by commenting on what that readership brings:
 
-https://archive.org/details/sim_notes-and-queries_1849-11-24_1_4/page/62/mode/2up
-Notes and Queries  1849-11-24: Vol 1 Iss 4
-Publication date 1849-11-24
+> No sooner is information asked for through our medium, than a host of friendly pens are busied to From north, south, east, and west, — from quarters the most unlooked for, do we receive Notes and Illustrations of every subject which is mooted in out pages. Many of these replies, too, though subscribed only with an initial or a pseudonym, we know to be furnished by scholars who have won the foremost rank in their respective branches of study. Such men manifest, by their willingness to afford information to those who need it, and their readiness to receive it from those who have it to bestow, the truthfulness of old Chaucer's portrait of the Scholar : —
+>
+> "Ful gladly wolde he lerne, and gladly teche."
 
-p63
+Thoms also hints at the reach already achieved:
 
-...
+> Nor do our columns exhibit the total result of our labours. Besides the information communicated to ourselves, friends who inserted Queries under their own names, answers to them without our intervention.
+>
+> In addition to those friends who promised us receive communications from their assistance, we receive communication from quarters altogether unexpected. Our present number furnishes a striking instance of this, in the answer to Mr. Bruce's inquiry respecting the "Monmouth Ash," kindly communicated by the Earl of Shaftesbury, its distinguished owner.
 
-Surely Melaniion is too hard upon our correspondents and too exigeant towards ourselves. He would place us in a singular position. He should consider that we have not opened lists for all comers to tilt against each other. We invite litterateurs to a re-union, in which they may give and receive mutual help and aid; but, in order to do so, they must tolerate each others' little peculiarities, and not espy offence in them.
-
-
-The Index so kindly offered by Melanion is declined with many thanks.
-
-...
-
----
-https://archive.org/details/sim_notes-and-queries_1849-12-01_1_5/page/78/mode/2up?q=enlarge+circulation
-Notes and Queries  1849-12-01: Vol 1 Iss 5
-Publication date 1849-12-01
-
-p79
-
-Notices to Correspondents
-
-...
-
-Philo is thanked for his proposed endeavours to enlarge our circulation. We trust all our friends and correspondents will foll Philo's example by bringing Notes and Queries to the notice of such of their friends as take an interest in literary pursuits. For it is obvious that they will understand the usefulness of our Paper, in proportion as they increase its circulation.
-
-...
-
----
-https://archive.org/details/sim_notes-and-queries_1849-12-08_1_6
-
-Notes and Queries  1849-12-08: Vol 1 Iss 6
-Publication date 1849-12-08
-
-p.81
-
-A FEW WORDS OF EXPLANATION.
-
-It was in no boastful or puffing spirit that, when thanking a correspondent in our last number for "his endeavour to enlarge our circulation," and requesting all our friends and correspondents " to follow Philo's example by bringing 'Notes and Queries' under the notice of such of their friends as take an interest in literary pursuits," we added "for it is obvious that they will extend the usefulness of our paper in proportion as they increase its circulation." We wished merely to state a plain obvious fact. Such must necessarily be the case, and our experience proves it to be so; for the number of Queries which have been solved in our columns, has gone on increasing in proportion to the gradual increase of our circulation ; —a result which fully justifies that passage of our opening address which stated, "that we did not anticipate any holding back by those whose Notes were most worth having."
-
-No sooner is information asked for through our medium, than a host of friendly pens are busied to From north, south, east, and west, — from quarters the most unlooked for, do we receive Notes and Illustrations of every subject which is mooted in out pages. Many of these replies, too, though subscribed only with an initial or a pseudonym, we know to be furnished by scholars who have won the foremost rank in their respective branches of study. Such men manifest, by their willingness to afford information to those who need it, and their readiness to receive it from those who have it to bestow, the truthfulness of old Chaucer's portrait of the Scholar : —
-
-"Ful gladly wolde he lerne, and gladly teche."
-
-Nor do our columns exhibit the total result of our labours. Besides the information communicated to ourselves, friends who inserted Queries under their own names,
-answers to them without our intervention.
-
-In addition to those friends who promised us receive communications from their assistance, we receive communication from quarters altogether unexpected. Our present number furnishes a striking instance of this, in the answer to Mr. Bruce's inquiry respecting the "Monmouth Ash," kindly communicated by the Earl of Shaftesbury, its distinguished owner.
+And suggests that growing the reach can only improve things further:
 
 We trust that each successive paper shows improvement in our arrangements, and proves also that our means of procuring answers to the Queries addressed to us are likewise increasing. In the belief that such is the case, we feel justified in repeating, even at the risk of being accused of putting in *two* words for ourselves under the semblance of *one* for our readers, "that it is obvious that our friends will extend the usefulness of our paper in proportion as they increase its circulation."
 
----
+In the issue before Christmas, [Vol 1 Iss 8, p127](https://archive.org/details/sim_notes-and-queries_1849-12-22_1_8/page/126/mode/2up), we get the impression that some correspondents are high maintenance:
 
+> Melanion and other valued contributors are begged not to suppose their contributions are declined because they are postponed. We have procured the book Melanion has referred us to, and hope in the course of two or three weeks to bring the subject forward in a manner to give general satisfaction.
 
-Get the impression some correspondents are high maintenance...
+In the final issue of the year, dated December 29th, 1849, [https://archive.org/details/sim_notes-and-queries_1849-12-29_1_9](Vol 1 Iss 9, p128-9), Thoms acknowledges that the early success of the periodical has caused some availability problems, particularly amongst readers who perhaps missed the initial issues, but sees this as a reason to celebrate:
 
-https://archive.org/details/sim_notes-and-queries_1849-12-22_1_8/page/126/mode/2up
+> OUR PROGRESS.
+>
+> We have this week been called upon to take a step which neither our best friends nor our own hopes could have anticipated. Having failed our endeavours to supply by other means the increasing demand for complete sets of our " Notes And Queries," we have been compelled to reprint the first four numbers.
+>
+> It is with no slight feelings of pride and satisfaction that we record the fact of a large impression of a work like the present not having been sufficient to meet the demand, — a work devoted not to the witcheries of poetry or to the charms of romance, but to the illustration of matters of graver import, such as obscure points of national history, doubtful questions of literature and bibliography, the discussion of questionable etymologies, and the elucidation of old world customs and observances.
 
-Notes and Queries  1849-12-22: Vol 1 Iss 8
-Publication date 1849-12-22
+Thoms also acknowledges the contributory and co-operative nature of the enterprise:
 
-p127
+> What Mr. Kemble lately said so well with reference to archeology, our experience justifies us in applying to other literary inquiries : —
+>
+> "On every side there is evidence of a generous and earnest co-operation among those who have devoted themselves to special pursuits; and not only does this tend of itself to widen the general basis, but it supplies the individual thinker with an ever widening foundation for his own special study."
 
-...
+before reflecting on the driving force for this support:
 
-Melanion and other valued contributors are begged not to suppose their contributions are declined because they are postponed. We have procured the book Metanion has referred us to, and hope in the course of two or three weeks to bring the subject forward in a manner to give general satisfaction.
-
-...
-
----
-
-
-https://archive.org/details/sim_notes-and-queries_1849-12-29_1_9
-Notes and Queries  1849-12-29: Vol 1 Iss 9
-Publication date 1849-12-29
-
-p128-9
-
-OUR PROGRESS.
-
-We have this week been called upon to take a step which neither our best friends nor our own hopes could have anticipated. Having failed our endeavours to supply by other means the increasing demand for complete sets of our " Notes And Queries," we have been compelled to reprint the first four numbers.
-
-It is with no slight feelings of pride and satisfaction that we record the fact of a large impression of a work like the present not having been sufficient to meet the demand, — a work devoted not to the witcheries of poetry or to the charms of romance, but to the illustration of matters of graver import, such as obscure points of national history, doubtful questions of literature and bibliography, the discussion of questionable etymologies, and the elucidation of old world customs and observances.
-
-What Mr. Kemble lately said so well with reference to archeology, our experience justifies us in applying to other literary inquiries : —
-
-"On every side there is evidence of a generous and earnest co-operation among those who have devoted themselves to special pursuits; and not only does this tend of itself to widen the general basis, but it supplies the individual thinker with an ever widening foundation for his own special study."
-
-And whence arises this " earnest co-operation ?" Is it too much to hope that it springs from an increased reverence for the Truth, from an intenser craving after a knowledge of it— whether such Truth regards an event on which pended, or the etymology of some household word now familiar only to 
-
-" Hard-handed men who work in Athens here ?"
-
-We feel that the kind and earnest men who honour our "Notes and Queries" with their correspondence, hold with Bacon that
-
+> And whence arises this " earnest co-operation ?" Is it too much to hope that it springs from an increased reverence for the Truth, from an intenser craving after a knowledge of it— whether such Truth regards an event on which pended, or the etymology of some household word now familiar only to 
+>
+> " Hard-handed men who work in Athens here ?"
+>
+> We feel that the kind and earnest men who honour our "Notes and Queries" with their correspondence, hold with Bacon that
+>
 " Truth, which only doth judge itself, teacheth that the inquiry of Truth, which is the love-making or wooing of it — the knowledge of Truth, which is the presence of it —and the belief of Truth, which is the enjoying of it — is the sovereign good of human nature."
+>
+> We believe that it is under the impulse of such feelings that they have flocked to our columns — that that sentiment found its echo in the breast of the public, and hence that success which has attended our humble efforts. The cause is so great, that we may well be pardoned if we boast that we have had both hand and heart in it.
 
-We believe that it is under the impulse of such feelings that they have flocked to our columns — that that sentiment found its echo in the breast of the public, and hence that success which has attended our humble efforts. The cause is so great, that we may well be pardoned if we boast that we have had both hand and heart in it.
+Thoms closes with his season's greetings:
 
-And so, with all the earnestness and heartiness which befit this happy season, when 
+> And so, with all the earnestness and heartiness which befit this happy season, when
+>
+> " No spirit stirs abroad ;  
+> The nights are wholesome ; when no planet strikes,  
+> No fairy takes, no witeh hath power to charm,  
+> So hallow'd and so gracious is the time,"
+>
+> do we greet all our friends, whether contributors or readers, with the good old English wish,
+>
+> A MERRY CHRISTMAS AND A HAPPY NEW YEAR!
 
-" No spirit stirs abroad ;  
-The nights are wholesome ; when no planet strikes,  
-No fairy takes, no witeh hath power to charm,  
-So hallow'd and so gracious is the time,"
+Finally, in the notices to correspondents of that final issue of the year, [p143](https://archive.org/details/sim_notes-and-queries_1849-12-29_1_9/page/142/mode/2up), a notice regarding availability that was also to regularly appear in later issues:
 
-do we greet all our friends, whether contributors or readers, with the good old English wish,
-
-A MERRY CHRISTMAS AND A HAPPY NEW YEAR!
-
-
-
-
-
---
+> We have to explain to correspondents who inquire as to the mode of procuring "Notes and Queries," that every bookseller and newsman will supply it, if ordered, and that gentlemen residing in the country may be supplied regulurly with the Stamped Edition, by giving their orders direct to the publisher, Mr, George Bell, 186. Fleet Street, accompanied by a Post Office order for a Quarter (4s, 4d.).
 
 
-https://archive.org/details/sim_notes-and-queries_1849-12-29_1_9/page/142/mode/2up
+## The Second Volume
 
-Notes and Queries  1849-12-29: Vol 1 Iss 9
-Publication date 1849-12-29
-p143
-
-Notices to Correspondents
-
-...
-
-We have to explain to correspondents who inquire as to the mode of procuring "Notes and Queries," that every bookseller and newsman will supply it, if ordered, and that gentlemen residing in the country may be supplied regulurly with the Stamped Edition, by giving their orders direct to the publisher, Mr, George Bell, 186. Fleet Street, accompanied by a Post Office order for a Quarter (4s, 4d.).
-
-...
-
-TH: this sort of note appeared regulalry
-
----
+FORTHCOMING
+TO DO 
 
 Editors took the opportunity of not so much anniversaries as milestones to reflect on the journey so far
-
 
 https://archive.org/details/sim_notes-and-queries_1850-06-01_2_31/page/n1/mode/2up
 Notes and Queries  1850-06-01: Vol 2 Iss 31
@@ -358,6 +286,8 @@ Can join these scattered gems in one ;
 Rejoiced to be the silken line  
 On which these pearls united shine. "
 ---
+
+## The First Anniversary
 
 https://archive.org/details/sim_notes-and-queries_1850-10-26_2_52/mode/2up
 
@@ -402,8 +332,7 @@ Ready to promote by every means in our power the friendly intercourse between yo
 
 3. The title of Books or Odd Votumes wanted to purchase, of which copies may exist in the Netherlands, will be duly inserted into "De Navorscher" when required. Mr. Frederik Muller will direct his letters, containing particulars and lowest price, to the persons anxious for information.
 
-4. All communications for "De Navorscher " must be addressed to Mr. D. Nutt, Bookseller,
-No. 270. Strand ; or, *carriage free*, to the "_Directors_ of the same," care of Mr. Frederick Muller, " Heerengracht, near the Oude Speigelstraat, Amsterdam."
+4. All communications for "De Navorscher " must be addressed to Mr. D. Nutt, Bookseller, No. 270. Strand ; or, *carriage free*, to the "_Directors_ of the same," care of Mr. Frederick Muller, " Heerengracht, near the Oude Speigelstraat, Amsterdam."
 
 With a fervent wish that in such two neighbourly nations, connected by religion, commerce, and literary pursuits, may be more and more united by the mail-bearing sea which divides them, we have the honour to remain,  
 Mr. Editor,  
@@ -694,8 +623,7 @@ The name of the venerable John Britton, who did so much good work in his day for
 
 It is my happy lot to be blessed with a contented disposition ; and I can sit down to a dinner of herbs without losing my equanimity, though I can relish and enjoy—no one more so a well-served, round-table dinner of half-a-dozen intelligent men, of each of whom, as of Chaucer's Oxford Scholar, it ca be said " Full gladly would he learn and gladly teach." I look upon such a meeting as one of the highest intellectual enjoyments. It was at such a feast of reason, at which I was present, about thirty years since, and which I shall never forget, that I made the acquaintance of him of whom I am about to speak. My host was that model of official accuracy and great master of his own peculiar branch of knowledge- my late excellent friend, Sir Charles Young, Garter. It took place in his official residence in the Heralds' College, and the party consisted of Garter himself, Sir Thomas Duffus Hardy, the learned Deputy Keeper of the Public Records, my friend Bruce, a young friend of our host's, and agentleman whom I then met for the first time. He was a Kentish clergyman, a ripe scholar, a profound antiquary, and a polished man of the world. On that night commenced an acquaintance between myself and the Rey. Lambert B. Larking (for he was the stranger in question), which soon grew into intimacy, and ripened into the warmest attachment, which ceased only with the death of one who seemed to win the affection of all with whom he came in contact. The affectionate regard in which he was held by his old friends and neighbours the late Earl of Abergavenny and his family, by Lord and Lady Falmouth, and by his friend the Marquess of Camden, who predeceased him only a few months, was shared by all the best people of his native county, to the history of which county he devoted every hour he could spare from his duties as a parish priest.
 
-What his labours had accomplished and with what skill they had been carried out may be seen
-in the brief but touching memoir of my old friend which Sir Thomas D. Hardy contributed to the *Archeologia Cantiana*, which is only rivalled by the eloquent testimony borne to his high personal character and rare attainments by Mr. Bruce in the preface to Manningham's *Diary*, printed for the Camden Society. Not until after his death did his admirable edition of *The Domesday of Kent* make its appearance, and show those who did not know Lambert B. Larking what a loss Kent had sustained in the founder of the Kent Archaeological Society. His contribution to my fifth number was connected with the MSS. of Sir Roger Twysden, and although he was not a very frequent correspondent, "N. & Q." benefited greatly by the instructive private letters which I continually received from him.
+What his labours had accomplished and with what skill they had been carried out may be seen in the brief but touching memoir of my old friend which Sir Thomas D. Hardy contributed to the *Archeologia Cantiana*, which is only rivalled by the eloquent testimony borne to his high personal character and rare attainments by Mr. Bruce in the preface to Manningham's *Diary*, printed for the Camden Society. Not until after his death did his admirable edition of *The Domesday of Kent* make its appearance, and show those who did not know Lambert B. Larking what a loss Kent had sustained in the founder of the Kent Archaeological Society. His contribution to my fifth number was connected with the MSS. of Sir Roger Twysden, and although he was not a very frequent correspondent, "N. & Q." benefited greatly by the instructive private letters which I continually received from him.
 
 Mr. Larking died on Sunday, the 2nd of August, 1868, and the reader will readily imagine the pain with which I heard of his death when I say that not being aware of his illness, Mr. Bruce and myself had arranged to give him an agreeable surprise by running down to Ryarsh on the Saturday and having a gossip and luncheon with him, and returning home together. Happily an accident prevented our intrusion at such a sad moment ; and we learned in a day or two that this good man and great scholar had sunk to his rest.
 
