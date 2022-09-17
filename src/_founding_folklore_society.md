@@ -466,7 +466,9 @@ Finally, Thoms also pays respects to Laurence Gomme for introducing a new field,
 >
 > William J. Thoms.
 
-*In passing, I note that I first started thing about local field names as a reult of watching, of all things, "Clarkson's Farm". It occurs to me that the Isle of Wight is not such a big place, though it does have a lot of fields, and is well bounded. It would be interesting to try to collect the names of fields, and perhaps along the way reveal hints, or complete tellings, of the tales behind them.*
+*In passing, I note that I first started thinking about local field names as a reult of watching, of all things, "Clarkson's Farm". It occurs to me that the Isle of Wight is not such a big place, though it does have a lot of fields, and is well bounded. It would be interesting to try to collect the names of fields, and perhaps along the way reveal hints, or complete tellings, of the tales behind them.*
+
+*It is perhaps also worth noting that societies, as well as subscribed periodicals such as Notes and Queries, potentially provided a solid foundation for "crowd-sourced" research. We are perhaps reminded by the "suggestion" in [Series 2, Vol 6 Iss 146, p307-8](https://archive.org/details/sim_notes-and-queries_1858-10-16_6_146/page/306/mode/2up) of "reciprocating local research" on genealogical matters.*
 
 *And so ends this little history of the foundation of "The Folk-Lore Society", at least insofar as it played out in the pages of "Notes and Queires".*
 
