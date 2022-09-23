@@ -1,7 +1,7 @@
-```{index} ! Webb, Mary ; Precious Bane, 1924
+```{index} ! single: Webb, Mary ; Precious Bane, 1924
 :name: precious-bane-webb
 ```
-# Precious Bane, Mary Webb
+# "Precious Bane", Mary Webb
 
 In the foreword to [*Precious Bane*](https://archive.org/details/in.ernet.dli.2015.350751), p12, first published in 1924, author Mary Webb wrote:
 
