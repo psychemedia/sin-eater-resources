@@ -117,9 +117,9 @@ In *Notes and Queries*, [1899-11-04: Vol 4 Iss 97 / 9th S. IV pp370-373](https:/
 >
 > In this little record of Mr. Thoms's life I have been aided by his eldest son, Mr. Merton Thoms. I have also to thank him for allowing me to make a copy of a photograph taken by Dr. Diamond, so that the readers of 'N. & Q.' may be in possession of this interesting souvenir of our founder. The words are facsimiled from those written by Mr. Thoms on the back of a portrait which he gave to my father. I have been trying to persuade Mr. Merton Thoms to give us a volume about his father, to include some of the rich stores of correspondence now in his possession.
 
+```{index} seealso: Merton, Ambrose ;  Thoms, William J.
 ```
-
-```{index} triple: Merton, Ambrose ;  Thoms, William J. ; folklore (origin of term)
+```{index} double: Thoms, William J. ; folklore (origin of term)
 ```
 ## "Ambrose Merton", Folk-Lore, and the Lore of the People
 
@@ -185,6 +185,8 @@ Finally, Merton provides a rationale for his diversion:
 
 It seems that the initial readership did indeed interpret Thoms' invitiation rather literally, because  a flurry of notes then appeared on the topic of Devonshire pixies &c.
 
+```{index} single: Thoms, William J. ; Merton, Ambrose (pseudonym)
+```
 ## "Folk-Lore" Quickly Becomes A Commonplace Term
 
 Over the coming weeks and months, the term "folk-lore" became something more of a commonplace. Indeed, only year on, in the [*Athenaeum* no. 1036, dated September 4th, 1847,

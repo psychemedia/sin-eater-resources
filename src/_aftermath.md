@@ -1,8 +1,8 @@
-# Aftermath
+# The Twentieth Century Sin-Eater
 
 In the years that followed the second controversy, references to the sin-eater started to fade away. An excpetion can be found in the pages of "Precious Bane", a novel by Mary Webb that appeared in 1924.
 
-```{index} Webb, Mary ; Precious Bane, 1924
+```{index} single: Webb, Mary ; Precious Bane, 1924
 ```
 ```{admonition} Review of "Precious Bane", Daily News, 1924
 :class: dropdown
@@ -86,4 +86,18 @@ So Simon went, and by the time he had made three voyages everybody travelling to
 ```
 
 Thus far, I haven't been able to find any other reference to "Simon the Missionary", and the tale does rather take the form of a parable that might be used as the basis for a children's sermon. For example, Simon as a child seems unconcerned that the sins could actually be transferred to him, although the rest of society *does* start treat him as a pariah. On reaching adulthood, he stops the practice that so offended his peers, accepting, perhaps, that he had been transgressing in some way, and seeing fit to then redeem himself by the proxy of atone for the sins of others that he had taken on himself. Do we read this as Simon falling in with a bad lot, being led by others, believing "but *I'm" not doing anything wrong", then perhaps realising his bad ways and deciding to help others less fortunate than himself — _"there but for the grace of God go I?"_ — redeeming not what he perceived as his own indiscretions, necessarily, presumably believing himself to be essentially good at heart, but those who had led him astray?
+
+In recent years, the sin-eater tradition has appeared in several literary works, including and ["The Sin Eater"](https://www.megancampisi.com/sin-eater) by Megan Campisi, 2022 [[interview](https://www.panmacmillan.com/blogs/fiction/megan-campisi-on-the-sin-eater)]
+
+https://en.wikipedia.org/wiki/The_Last_Sin_Eater_(film)
+
+Alice Thomas Ellis, The Sin Eater, 1977.
+
+Atwood, Margaret (1982). Weaver, Robert (ed.). Small Wonders : New stories by twelve distinguished Canadian authors. Toronto: Canadian Broadcasting Corporation. pp. 11–23. ISBN 0887941044.
+
+Margaret Atwood - sin eater short story in https://en.wikipedia.org/wiki/Bluebeard%27s_Egg The Sin Eater
+Atwood, Margaret
+Bluebeard's Egg is a collection of short stories by Canadian author Margaret Atwood, first published in 1983. The book's first American edition was released in 1986 under the name Bluebeard's Egg and other stories. The 1986 American edition didnlt include the tale, but it was reprinted that year in The Irish Times (1921-); Aug 15, 1986; also appeared in 1992 edition of Dancing Girls & Other Stories  (first published without Sin Eater, in 1977)
+ProQuest Historical Newspapers: The Irish
+
 
