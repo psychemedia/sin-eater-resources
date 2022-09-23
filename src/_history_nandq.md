@@ -50,6 +50,8 @@ A fortnight on from the original announcement in *The Athenaeum*, and as adverti
 >
 > THE nature and design of the present work have been so fully stated in the Prospectus, and are indeed so far explained by its very Title, that it is unnecessary to occupy any great portion of its first number with details on the subject. We are under no temptation to fill its columns with an account of what we hope future numbers will be. Indeed, we would rather give a specimen than a description ; and only regret that, from the wide range of subjects which it is intended to embrace, and the correspondence and contributions of various kinds which we are led to expect, even this can only be done gradually. A few words of introduction and explanation may, however, be allowed ; and, indeed, ought to be prefixed, that we may be understood, by those readers who have not seen our Prospectus.
 
+```{index} triple: Notes & Queries ; founding ; Thoms, William J.
+```
 ```{admonition} Notes and Queries, Prospectus, 1849
 :class: dropdown
 
