@@ -4,7 +4,9 @@ Before we continue on our journey in search of the sin-eater, it is worth settin
 
 The tale, and two other related ones, centers around a singular individual, William John Thoms. For it was he who coined not only the phrase, but also went on to found *Notes & Queries*, a publication we shall have course to refer to many times throughout our journey, as well as playing a foundational role in the formation of the Folklore Society. So before we consider the way in which in which Thomse introduced the term "folk-lore" to our vocabulary, let us briefy turn to the man himself.
 
-```{admonition} William Thoms, Dictionary of National Biogrpahy
+```{index} triple: Thoms, William J. ; Dictionary of National Biography ; biography
+```
+```{admonition} William Thoms, Dictionary of National Biography
 :class: seealso dropdown
 
 [THOMS, WILLIAM JOHN (1803–1885), *Dictionary_of_National_Biography*](https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Thoms,_William_John)
@@ -34,7 +36,8 @@ Thoms went little into society, but at congenial resorts, such as the 'Cocked Ha
 [Notes and Queries, IV. x. 241, 383, xii. 1, v. vi. 1, 41, 101, 221, vii. 1, 222, 303, VI. xii., 141, 268, 303; Athenaeum, 1885, ii. 239, 272, 304.]
 
 ```
-
+```{index} double: Thoms, William J. ; obituary
+```
 ```{admonition} William Thoms, Obituary in *Notes & Queries*, 1885 
 :class: seealso dropdown
 
@@ -74,6 +77,8 @@ A sound and an accurate scholar, the close ally during more than half a century 
 
 ```
 
+```{index} double: Thoms, William J. ; biography
+```
 ```{admonition} William Thoms, Biography in the 50th Anniversary Issue of Notes and Queries, 1899
 :class: seealso dropdown
 In *Notes and Queries*, [1899-11-04: Vol 4 Iss 97 / 9th S. IV pp370-373](https://archive.org/details/sim_notes-and-queries_1899-11-04_4_97/page/n3/mode/2up).
@@ -114,6 +119,8 @@ In *Notes and Queries*, [1899-11-04: Vol 4 Iss 97 / 9th S. IV pp370-373](https:/
 
 ```
 
+```{index} triple: Merton, Ambrose ;  Thoms, William J. ; folklore (origin of term)
+```
 ## "Ambrose Merton", Folk-Lore, and the Lore of the People
 
 The term folk-lore was introduced by William Thoms, writing under the *nom de plume* of *Ambrose Merton*, in a letter published in the [*Athenaeum* issue 982, of August 22nd, 1846, pp62-3](https://babel.hathitrust.org/cgi/pt?id=uc1.c3470610&view=1up&seq=621&skin=2021).
@@ -189,6 +196,8 @@ p937](https://babel.hathitrust.org/cgi/pt?id=iau.31858029267212&view=1up&seq=955
 >
 > That correspondent was the present writer; and the work to which he referred was one in which he proposed to make the writings of Shakspeare and that Folk-Lore which the poet loved mutually illustrative of each other. The papers under the above special heading which may from time to time appear in our columns, are fragments of that attempt to throw a light over the writings of the Poet of the People from the side of our popular literature, customs and superstitions.]
 
+```{index} double: Thoms, William J. ; folklore (origin of term)
+```
 ## Recalling the Introduction of "Folk-Lore"
 
 As well as reviewing the original context in which the term was introduced, we can also review its origins with the hindsight of the man responsible.
