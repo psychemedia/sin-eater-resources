@@ -2,6 +2,8 @@
 
 In the *Saturday Review* of February 5th, 1876, an article appeared commenting on a new initiative by the editor of a provincial newspaper to encourage their local readers to send in collected examples of local folk-lore before it was lost and forgotten:
 
+```{index} triple: Folk-Lore Society ; founding ; Decay of Local Tradition
+```
 ```{admonition} THE DECAY OF RURAL TRADITION, in The Saturday Review, February 5th, 1876
 :class: dropdown
 
@@ -298,8 +300,10 @@ And in Scotland, again on the same date, December 8th, 1877, the [*Ardrossan and
 
 > FOLKLORE SOCIETY.
 >
-> The attention of our readers has before now been called to the proposed Folklore Society. The preliminaries have, we are glad to learn, been arranged, and Mr G. Laurence Gomme, 26 Merthyr Terrace, Castelnau, Barnes, London, S. W., has undertaken the duties of hon. secretary. We trust that those, ladies as well as gentlemen, who take an interest in the subject, will not fail to send in their, names speedily to Mr Gomme, from whom any additional information desired, we doubt not, will be obtained. The subscription will be one guinea per annum. 
+> The attention of our readers has before now been called to the proposed Folklore Society. The preliminaries have, we are glad to learn, been arranged, and Mr G. Laurence Gomme, 26 Merthyr Terrace, Castelnau, Barnes, London, S. W., has undertaken the duties of hon. secretary. We trust that those, ladies as well as gentlemen, who take an interest in the subject, will not fail to send in their, names speedily to Mr Gomme, from whom any additional information desired, we doubt not, will be obtained. The subscription will be one guinea per annum.
 
+```{index} triple: Folk-Lore Society ; founding ; prospectus
+```
 ## The Prospectus of the Folk-Lore Society
 
 A copy of the prospectus can be found in [Volume 1, Issue 1](https://archive.org/details/folklorejournal00sout/page/n9/mode/2up), p1-3, of the Folk-lore Journal published by the South African Folk-Lore Society Working Committee in January, 1879 *(thanks to Paul Cowdell and Simon Young for the reference)*.
@@ -386,6 +390,8 @@ X. No alteration shall be made in these Rules except at a Special General Meetin
 
 ```
 
+```{index} ! double: Folk-Lore Society ; founding 
+```
 ## The Society is Formed
 
 Announcements regarding the foundation of the society started to appear in the new year (1878).
