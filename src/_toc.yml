@@ -35,7 +35,7 @@ parts:
   - file: _second_controversy_pt_ii
   - file: _second_controversy_pt_iii
   - file: _second_controversy_pt_iv
-- caption: Finale
+- caption: Aftermath
   chapters:
   - file: _aftermath
 - caption: Appendices
