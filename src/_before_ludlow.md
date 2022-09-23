@@ -277,10 +277,10 @@ Another contemporary custom is also described as part of Brand's oberservations,
 
 > It is customary at this Day in Northumberland, to set a Pewter *Plate*, containing a little *Salt* `[Salem abhorrere constat Diabolu, et ratione optima nititur, quia Salr aeternitatis est et immortatalitatis signum, neque putredeine neque corruptione infestatur unquam, sed ipse ab his omnia vendicat. Depriv. Rel. &c. p154. Confided in reference to this symbolical Explication, how beuatiful is that Expression, "Ye are the Salt of the Earth."]` upon the Corps; as also a Candle in some Places. — The learned Moresin tells us, "That *Salt* is the Emblem of Eternity and Immortality : It is not liable to Putrefaction itself, and it preserves Things that are seasoned with it from Decay." — He gives us also his Conjecture on the Use of a *Candle* `[Lucerna, feu Candela mortuis cadaveribus semper apponitur in domibus et templis, quamdiu fspra terram sunt— aa hinc ducto more, oculo, vel Lucerna incensa veteres AEgyptii vitam significabant, unde veteres foliti sunt lucernas ardentes sepulchris imponere, hac saltem ratione significantes se mortuorum quamdiu possent vitas producturos. Deprav. Rel. Orig. p. 89.]` on this Occasion: "It was an Egyptian Hieroglyphic for Life, meant to express the ardent Desire of having had the life of the Deceased prolonged."
 
-```{index} single: Ellis, Henry  ; editor, Observations on Popular Antiquities, 1813
+```{index} single: Ellis, Henry ; editor, Observations on Popular Antiquities, 1813
 :name: editor:ellis:popantiq:1813
 ```
-```{index} single: Brand, John  ; Observations on Popular Antiquities, ed. Henry Ellis, 1813
+```{index} single: Brand, John ; Observations on Popular Antiquities, ed. Henry Ellis, 1813
 :name: book:brand:popantiq:1813
 ```
 ## Brand's *Popular Antiquities*, edited by Ellis, 1813
