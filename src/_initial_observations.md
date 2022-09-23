@@ -8,7 +8,7 @@ Writing in Chapter 53, *"Antiquarianism and History"*, p. 516, of *A Companion t
 
 > By using the adjective "antiquarian" to discuss several forms of the study of the past as it was practiced in antiquity, we highlight implicitly the existence of a certain affinity between these forms and a major trend in European culture of the fifteenth to eighteenth centuries, namely research by *antiquarii* ("antiquarians"). Early modern antiquarians studied the *antiquitates* ("antiquities") of the ancient world (pagan and Christian) and of the Middle Ages. By the term antiquitates they meant surviving ancient or medieval artefacts (vestiges of architecture, sculpture, coins, inscriptions, manuscripts, utensils) or institutions, customs, laws, beliefs, ancient or medieval technology – or both categories simultaneously.
 
-```{index} single: Cambrian Archaeological Association ; founding
+```{index} double: Cambrian Archaeological Association ; founding
 :name: CAMBARCH:founding
 ```
 ## The Founding of the Cambrian Archaeological Association, 1846-7
