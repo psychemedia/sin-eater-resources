@@ -38,6 +38,7 @@ parts:
 - caption: Aftermath
   chapters:
   - file: _aftermath
+  - file: _precious_bane_webb
 - caption: Appendices
   chapters:
   - file: _methodology
