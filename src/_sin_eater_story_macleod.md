@@ -1,6 +1,9 @@
 # Interlude – "The Sin-Eater", Fiona Macleod
 
-*The following short story can be found in [*The sin-eater, and other tales*](https://archive.org/details/sineaterothertal00sharuoft/page/16/mode/2up), p17-67, by Fiona Macleod, 1895.*
+In 1895, a short story collection set in the islands and Highlands of Scotland — Fiona Macleod's [*The sin-eater, and other tales*](https://archive.org/details/sineaterothertal00sharuoft/page/16/mode/2up) — appeared that included a short story entitled _"The Sin Eater"_, p17-67. Over the years, the story was reprinted several times, and appeared in various other collections, including [*The best psychic stories*](https://archive.org/details/bestpsychicstori00frenrich/page/126/mode/2up), by Joseph French, 1920.
+
+Fiona Macleod's first novel, *Pharais*, appeared in 1894, and with two works published earlier in 1895, *Mountain Lovers*, another novel, and
+*The Laughter of Peterkin: A retelling of old tales of the Celtic Wonderworld*, she had started to establish herself as a doyenne of the Scottish Celtic revival, as reviews of the *Sin Eater* suggest.
 
 ```{admonition} "The Sin-Eater and Other Tales", Review, January 1896
 :class: seealso dropdown
@@ -15,7 +18,7 @@ Miss MACLEOD is the first writer who has tried natively to interpret the Gael, n
 
 This clearly commits the writer to the romantic method that we find preserved in all these tales, though they have here and there a touch of that realism which romance has never been entirely without — Celtic romance especially. The first of them, "The Sin-Eater," is a capital example in its romantic kind. You feel, in reading it, that the tale-writer has not gone to her subject-matter as a purely disinterested agent. On the contrary, she brings her passionate predilections ; instead of being disinterested, she is perfervidly interested ; she goes prepared to find the things that count, Celtically speaking, and she finds them—the gloom, the spiritual glamour, and the rest. Tomorrow, some New Realist will go over the same ground, and bring back his very different report of things as they really are, and tell us what queer kind of porridge he saw the Achannas eat. But Miss Macleod, being to the manner born, writes from the inside, and not from the outside; is affected through her imagination, and not through her nerves; and is sometimes so carried away by her subject that she forgets how suburban the modern reader is apt to be, and how he likes his sea-lions caged and labelled, and his peat-smoke described in terms of Fleet-street.
 
-Not only does she forget this: she deliberately does all she can to increase the sea terror, the wildness, and the Gaelic savour of her tales. "The Sin-Eater" begins with the wet wind and the sea mist of the western isles; and ends with the wild cry of the man Neil Ross, as he goes down in the "Black Eddy" that rushes between Skerry-Mohr and Skerry-Beag— "An eirig m’ anama!" ("In ransom for my soul!") All through it one hears the sea-noises and feels the sea-wind, and the Sin-eater is treated in bold accord with such elemental circumstance. Half man, half myth, he is the scapegoat of the sea. He bears the sins of others, but with no scapegoat's innocence: therein lies the motive which is treated in this tale with so much force. At last he makes his sea-exit on a spar that is like the cross; nay, in the words of Aulay Macneill, who tells his end, "It *was* the cross he was on. I saw that thing with the fear upon me. Ah, poor drifting wreck that he was. *Judas on the Cross*: it was his *eric*.”
+Not only does she forget this: she deliberately does all she can to increase the sea terror, the wildness, and the Gaelic savour of her tales. "The Sin-Eater" begins with the wet wind and the sea mist of the western isles; and ends with the wild cry of the man Neil Ross, as he goes down in the "Black Eddy" that rushes between Skerry-Mohr and Skerry-Beag— "An eirig m’ anama!" ("In ransom for my soul!") All through it one hears the sea-noises and feels the sea-wind, and the Sin-eater is treated in bold accord with such elemental circumstance. Half man, half myth, he is the scapegoat of the sea. He bears the sins of others, but with no scapegoat's innocence: therein lies the motive which is treated in this tale with so much force. At last he makes his sea-exit on a spar that is like the cross; nay, in the words of Aulay Macneill, who tells his end, "It *was* the cross he was on. I saw that thing with the fear upon me. Ah, poor drifting wreck that he was. *Judas on the Cross*: it was his *eric*."
 
 Still more strange, and from an English point of view more simply and artistically constructed and written, is "The Dan-nan-Ron"—perhaps the finest thing in the book. "'You know what is said in the isles about ... about this or that man, who is under *gheasau*. —who is spell-bound,...and... about the seals and... ?' says Marcus Achanna to Anne, the heroine of this strange tale.
 
@@ -41,12 +44,14 @@ My grief,  For more ?
 
 "In the quiet moonlight the chant, with its long, slow cadences, sung as no other man in the Isles could sing it, sounded sweet and remote beyond words to tell. The glittering shine was upon the water of the haven, and moved in waving lines of fire along the stone ledges. Sometimes a fish rose, and split a ripple of pale gold; or a sea-nettle swam to the surface, and turned its blue or greenish globe of living jelly to the moon dazzle."
 
-There is some excess of mere colour, it may be thought, in all this; but that, too, is very Celtic. And so throughout these tales ; the manner of their telling, their idiom, their very mannerisms, only tend to increase their total effect. To quote again from their teller's singular opening epistle from Iona, addressed to him whom she calls "Prince of Celtdom": they have been written "as by one who repeats with curious insistence a haunting, familiar, yet ever wild and remote air, whose obscure mean- ings he would fain reiterate, interpret." It is only by insisting, as she does, with some romantic excess, on the vivid traits and idioms of the remote Gaelic folk she describes, that she brings home to us their speech, sentiment, and spirit of life, as the true interpreter may. She expressly disavows the documentary method at the start; she is subjective and interpretative to a degree ; she is often so much moved by her own subject matter, that Heine's famous confession of overmuch sentiment in his *Buch le Grand* is apt to recur as one reads. Her tales, then, are not documentary ; they reveal their writer's individuality, quite as much as the idiosyncrasy of the island Gael. But, just for this very reason, they provide as original an entertainment as we are likely to find in this lingering century, and they suggest a new romance as among the potential things in the century to come.
+There is some excess of mere colour, it may be thought, in all this; but that, too, is very Celtic. And so throughout these tales ; the manner of their telling, their idiom, their very mannerisms, only tend to increase their total effect. To quote again from their teller's singular opening epistle from Iona, addressed to him whom she calls "Prince of Celtdom": they have been written "as by one who repeats with curious insistence a haunting, familiar, yet ever wild and remote air, whose obscure meanings he would fain reiterate, interpret." It is only by insisting, as she does, with some romantic excess, on the vivid traits and idioms of the remote Gaelic folk she describes, that she brings home to us their speech, sentiment, and spirit of life, as the true interpreter may. She expressly disavows the documentary method at the start; she is subjective and interpretative to a degree ; she is often so much moved by her own subject matter, that Heine's famous confession of overmuch sentiment in his *Buch le Grand* is apt to recur as one reads. Her tales, then, are not documentary ; they reveal their writer's individuality, quite as much as the idiosyncrasy of the island Gael. But, just for this very reason, they provide as original an entertainment as we are likely to find in this lingering century, and they suggest a new romance as among the potential things in the century to come.
 
 Ernest Rhys.
 ```
 
-__THE SIN-EATER__
+So how did Fiona Macleod portray this example of a sin-eater from the Scottish islands?
+
+## THE SIN-EATER, Fiona Macleod
   
 SIN.
 
@@ -79,7 +84,7 @@ Los Encantos de la Culpa.
 
 A wet wind out of the south mazed and mooned through the sea-mist that hung over the Ross, In all the bays and creeks was a continuous weary lapping of water. There was no other sound anywhere.
 
-Thus was it at daybreak : it was thus at noon : thus was it now in the darkening of the day. A confused thrusting and falling of sounds through the silence betokened the hour of the setting. Curlews wailed in the mist : on the seething limpet - covered rocks the skuas and terns screamed, or uttered hoarse, rasping cries. Ever and again the prolonged note of the oyster-catcher shrilled against the air, as an echo flying blindly along a blank wall of cliff. Out of weedy places, wherein the tide sobbed with long, gurgling moans, came at intervals the barking of a seal.
+Thus was it at daybreak : it was thus at noon : thus was it now in the darkening of the day. A confused thrusting and falling of sounds through the silence betokened the hour of the setting. Curlews wailed in the mist : on the seething limpet covered rocks the skuas and terns screamed, or uttered hoarse, rasping cries. Ever and again the prolonged note of the oyster-catcher shrilled against the air, as an echo flying blindly along a blank wall of cliff. Out of weedy places, wherein the tide sobbed with long, gurgling moans, came at intervals the barking of a seal.
 
 Inland, by the hamlet of Contullich, there is a reedy tarn called the Loch-a-chaoruinn. `[Contullich: i.e. Ceann-nan-tulaich, "the end of the hillocks." Loch-a-chaoruinn means the loch of the rowan-trees.]` By the shores of this mournful water a man moved. It was a slow, weary walk that of the man Neil Ross. He had come from Duninch, thirty miles to the eastward, and had not rested foot, nor eaten, nor had word of man or woman, since his going west an hour after dawn.
 
@@ -301,7 +306,7 @@ It was the woman he came upon first.
 
 "*Them?*"
 
-" For sure, man ! Them . . . the sins of the corpse. He takes them away ; and are you for thinking God would let the innocent suffer for the guilty? No . . . the person . . . the Sin- Eater, you know , . . takes them away on himself, and one by one the air of heaven washes them away till he, the Sin-Eater, is clean and whole as before."
+" For sure, man ! Them . . . the sins of the corpse. He takes them away ; and are you for thinking God would let the innocent suffer for the guilty? No . . . the person . . . the SinEater, you know , . . takes them away on himself, and one by one the air of heaven washes them away till he, the Sin-Eater, is clean and whole as before."
 
 "But if it is a man you hate ... if it is a corpse that is the corpse of one who has been a curse and a foe ... if ... "
 
@@ -533,7 +538,7 @@ But Neil had already forgotten him. The shepherd took out his snuff-mull, helped
 
 "*Am bheil thu 'dol do Fhionphort?*" tried the shepherd again : " Are you going to Fionnaphort ? "
 
-"*Tha mise 'dol a dli I - challum - chille,*" Neil answered, in a low, weary voice, and as a man adream : " I am on my way to Iona."
+"*Tha mise 'dol a dli I challum chille,*" Neil answered, in a low, weary voice, and as a man adream : " I am on my way to Iona."
 
 " I am thinking I know now who you are. You are the man Macallum."
 
@@ -609,7 +614,7 @@ And with that Neil the Sin-Eater flung his hand up into the air, and then leaped
 
 On the third day of the seventh month from that day, Aulay Macneill, coming into Balliemore of Iona from the west side of the island, said to old Ronald MacCormick, that was the father of his wife, that he had seen Neil Ross again, and that he was "absent" — for though he had spoken to him, Neil would not answer, but only gloomed at him from the wet weedy rock where he sat.
 
-The going back of the man had loosed every tongue that was in Iona. When, too, it was known that he was wrought in some terrible way, if not actually mad, the islanders whispered that it was because of the sins of Adam Blair. Seldom or never now did they speak of him by his name, but simply as "The Sin- Eater." The thing was not so rare as to cause this strangeness, nor did many (and perhaps none did) think that the sins of the dead ever might or could abide with the living who had merely done a good Christian charitable thing. But there was a reason.
+The going back of the man had loosed every tongue that was in Iona. When, too, it was known that he was wrought in some terrible way, if not actually mad, the islanders whispered that it was because of the sins of Adam Blair. Seldom or never now did they speak of him by his name, but simply as "The SinEater." The thing was not so rare as to cause this strangeness, nor did many (and perhaps none did) think that the sins of the dead ever might or could abide with the living who had merely done a good Christian charitable thing. But there was a reason.
 
 Not long after Neil Ross had come again to Iona, and had settled down in the ruined roofless house on the croft of Ballyrona, just like a fox or a wild-cat, as the saying was, he was given fishing-work to do by Aulay Macneill, who lived at Ard-an-teine, at the rocky north end of the *machar* or plain that is on the west Atlantic coast of the island.
 
@@ -714,10 +719,14 @@ I will tell it in the words of Aulay.
 
 " He waved, and called, but the hearing could not be, because of a big surge o' water that came tumbling down upon him. In the stroke of an oar he was swept close by the rocks where I was standing. In that flounderin', seethin' whirlpool I saw the white face of him for a moment, an' as he went out on the re-surge like a hauled net, I heard these words fallin' against my ears, —
 
-"*An eirig m'anama* ... In ransom for my soul ! '
+"*An eirig m'anama* ... In ransom for my soul ! "
 
-"And with that I saw the double-spar turn over and slide down the back - sweep of a drowning big wave. Ay, sure, it went out to the deep sea swift enough then. It was in the big eddy that rushes between Skerry-Mor and Skerry-Beag. I did not see it again — no, not for the quarter of an hour, I am thinking. Then I saw just the whirling top of it rising out of the flying yeast of a great, black-blustering wave, that was rushing northward before the current that is called the Black-Eddy.
+"And with that I saw the double-spar turn over and slide down the back sweep of a drowning big wave. Ay, sure, it went out to the deep sea swift enough then. It was in the big eddy that rushes between Skerry-Mor and Skerry-Beag. I did not see it again — no, not for the quarter of an hour, I am thinking. Then I saw just the whirling top of it rising out of the flying yeast of a great, black-blustering wave, that was rushing northward before the current that is called the Black-Eddy.
 
 "With that you have the end of Neil Ross: ay, sure, him that was called the Sin-Eater. And that is a true thing ; and may God save us the sorrow of sorrows.
 
 "And that is all."
+
+## Fiona Macleod's Sin-Eater
+
+In reading Fiona Macleod's sroy of the sin-eater, we might wonder where she came by this story, or how she came across the tradition of the sin-ater? As a work of fiction, it presents a mystery surrounding an an evil act, and an act of vengeance gone wrong as the lead character adopts a sin-eater role and then finds themselves trapped and tormented by it. Is there any evidence of how Fiona Macleod came across the idea of a sin-eater, perhaps from the Scottish tradition? If we can find out when she first came across the idea, or when she started writing it, we might be able to identify whether she had picked up on the idea from publications that might have been in the public eye at the time.
