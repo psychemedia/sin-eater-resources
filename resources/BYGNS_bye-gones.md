@@ -587,7 +587,7 @@ https://journals.library.wales/view/2092910/2098630/2#?xywh=-1552%2C-413%2C5820%
 
 Bye-gones
 
-Spetember 2nd, 1896
+September 2nd, 1896
 
 p430
 
