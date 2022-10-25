@@ -44,7 +44,7 @@ A second, rather more concise, announcement appeared a week later, October 27th,
 
 ## The Early Issues
 
-A fortnight on from the original announcement in *The Athenaeum*, and as advertised, the original edition of *Notes and Queries*, [Vol 1 Iss 1](https://archive.org/details/notesqueries01londuoft/page/n9/mode/2up), dated n Saturday, November 3rd, 1849, appeared. The opening pages contained an opening address by William Thoms, p1-3:
+A fortnight on from the original announcement in *The Athenaeum*, and as advertised, the original edition of *Notes and Queries*, [Vol 1 Iss 1](https://archive.org/details/notesqueries01londuoft/page/n9/mode/2up), dated Saturday, November 3rd, 1849, appeared. The opening pages contained an opening address by William Thoms, p1-3:
 
 > NOTES AND QUERIES.
 >
