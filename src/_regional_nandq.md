@@ -25,6 +25,13 @@ https://archive.org/search.php?query=sussex%20notes%20queries
 https://archive.org/search.php?query=wiltshire%20notes%20queries
 https://archive.org/search.php?query=yorkshire%20notes%20queries
 
+https://archive.org/details/scottishnotesque23unse/page/n31/mode/2up?q=%22James+Macpherson%22+%22Lord+Duff%22+1700
+Scottish notes and queries
+
+https://archive.org/details/hampshireantiqua01hampiala/
+The Hampshire antiquary and naturalist: being the local notes and queries
+1891-2
+
 https://archive.org/search.php?query=Cheshire+Sheaf&sin=
 
 
