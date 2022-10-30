@@ -5,7 +5,7 @@ Beyond The Border
 2020
 p?
 
-Sin eater sineater
+Sin eater sineater sin-eater
 
 Hello there guys my name's Ceri Phillips; *at croeso ar Dinefwr*, welcome to Dinefwr. I'm here in front of the old ice house on the Dinefwr estate and I thought it might be a great place in order to tell you a ghost story.
 
@@ -24,6 +24,7 @@ This sin eater, the sin eater of the Swansea valley of Cwmtawe lived on the Dary
 But 1850 the age of reason had already descended upon south Wales so many parents didn't believe in such traditions, such was the case with the parents of Mog Bach, little Morgan. They didn't believe in such frivolous superstitious nonsense they were people of reason, people of science and they never told Mog Bach about the sin eater.
 
 One day in the year of 1850 near Calan Gaer, All Hallows Eve the sin eater ventured forth. Now, he was used to the town being deserted effectively because they knew he was walking down, but this time he saw a little boy playing in a garden of a cottage in the village. So he walked up, and he lent on the railings, and he said, 'Shwmae yn fachgen bach, hello there little boy. Pwy wyt ti? Who are you?' Now Mog Bach being a confident and intelligent little boy said, 'well *Mog Bach i fi Shwmae*, I'm little Morgan.'
+
 The sin eater lent in even closer and said, '*wyt ti'n gwybod pwy i fi?* Do you know who I am?'
 
 Mog Bach put his hands in his pockets and said. 'well, *ond roeddwn i'n meddwl fy mod i'n nabod pawb*, I thought I knew everybody. *dwi erioed wedi cwrdd â chi*, I've never met you.'
@@ -32,16 +33,15 @@ The sin eater lent in even closer and said, '*fi yw'r dyn taffi*, I am the toffe
 
 Mog Bach looked confused. He'd never heard of such a thing as a toffee man, So he said,'*beth ar y ddaear yw toffeeman*, what on earth is a toffee man?'
 
-The sin eater said, 'well *i fyny ar fynydd daryn*, up on the daryn mountain, *mae gen i dŷ*, I've got a house. And up in my house you will find all the toffees and the sweets and the ice cream that are provided to all the shops in Wales. Ask lady Llandyfi. If you come up with me, you can have all the sweets and the toffees and the ice cream you can fill your stomach with'.
+The sin eater said, 'well *i fyny ar fynydd daryn*, up on the Daryn mountain, *mae gen i dŷ*, I've got a house. And up in my house you will find all the toffees and the sweets and the ice cream that are provided to all the shops in Wales. Ask Lady Llandyfi. If you come up with me, you can have all the sweets and the toffees and the ice cream you can fill your stomach with'.
 
 Mog Bach thought to himself this is too good to be true, but he seemed like a nice man so he decided to follow him and off the pair went. They went up the mountain road all the way up to the sin eater's home.
 
-Now, the sin eater made very sure that he stayed at least 10 steps in front of Mog, so when he went around the corner, he could only be heard, and that's all he would say '*is da iawn Mog Bach*, well done, little Mog, come along*'.
+Now, the sin eater made very sure that he stayed at least 10 steps in front of Mog, so when he went around the corner, he could only be heard, and that's all he would say '*is da iawn Mog Bach*, well done, little Mog, come along'.
 
 When Mog Bach got to the cottage he couldn't see the sin eater anywhere; but he thought 'there's no more houses up on the Daryn, I may as well go in'. So he entered the little ramshackle cottage and the door slammed shut behind him.
 
-He couldn't see a thing. It was dark, a small crack of light coming through a boarded window seemed to show that there was no sweets or toffees or cakes or ice cream; but there was mountains of what looked like silver coins. Mog Bach was shocked and said,
-'I don't see any toffees. I can't see any sweets. Am i in the right place>'
+He couldn't see a thing. It was dark, a small crack of light coming through a boarded window seemed to show that there was no sweets or toffees or cakes or ice cream; but there was mountains of what looked like silver coins. Mog Bach was shocked and said, 'I don't see any toffees. I can't see any sweets. Am i in the right place?'
 
 Then, from behind him, the sin eater jumped out and said, 'don't run away; what I'm showing to you now is all the money of the toffee man. If you do one little task for me, you can get all this money. You can treat it like your own personal bank, and buy as many sweets and chocolates, not just for you, but for all your family, and all your friends, for the rest of your life'.
 
