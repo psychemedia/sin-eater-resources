@@ -6,7 +6,7 @@ Far from being introduced as a *Welsh* tradition, Aubrey's description of the si
 
 The original manuscript is available as part of Lansdowne MS 231/3, dated 1568-1637 — although commentary by Aubrey ("Mr. Gwin, the minister [of Llanggors], about 1640") is later — sets the time at which this _"long, lean, ugly, lamentable poor rascal"_ lived as the first half of the 17th century or even earlier.
 
-If you visit Ross today, on the main roading leading up the hill out of the market square is a *Copse Cross Street*. The name itself perhaps hints at a standing cross that once stood there, albeit with one of the branches at the crossroads being a small branch road to the adjacent churchyard.
+Local legend today still has it that the sin-eater's house was near the old cross-roads at the top of the evocatively named *Corpse-Cross Street*. If you visit Ross today, on the main road leading up the hill out of the market square is *Copse Cross Street*. The name itself perhaps hints at a standing cross that once stood there, albeit with one of the branches at the crossroads being a small branch road to the adjacent churchyard.
 
 Correspondence in the Ross Gazette of [Thursday, 26th October, 1911, p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002068/19111026/092/0003) suggests that this, in fact, a relatively recent name.
 
