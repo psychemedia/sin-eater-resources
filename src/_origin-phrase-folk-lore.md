@@ -238,7 +238,7 @@ Thoms himself replied concerning the origins of the phrase in the issue of 26th 
 >
 > The word took its place, for it supplied a want ; and when Dean Trench's *English Past and Present* appeared (1855), I was pleased to find one so qualified to judge of the value of the word speaking of it as follows :—
 >
-> "The most successful of these compounded words (borrowed recently from the German} is 'Folk-lore,' and the substitution of this for the long and latinized 'Popular Superstitions' must be deemed, I think, an unquestionable gain."
+> "The most successful of these compounded words (borrowed recently from the German) is 'Folk-lore,' and the substitution of this for the long and latinized 'Popular Superstitions' must be deemed, I think, an unquestionable gain."
 >
 > The impression that the word was borrowed from the German is a very natural one. But should the Archbishop of Dublin ever see this note, I am sure that accomplished scholar will in future editions of his book do justice to the English origin of the word Folk-lore.
 >
