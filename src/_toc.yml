@@ -35,6 +35,7 @@ parts:
   - file: _second_controversy_pt_ii
   - file: _second_controversy_pt_iii
   - file: _second_controversy_pt_iv
+  - file: _baring_gould_guavas
 - caption: Aftermath
   chapters:
   - file: _aftermath
