@@ -44,6 +44,7 @@ parts:
   - file: _methodology
 - caption: Endnotes
   chapters:
+  - file: _lit_refs_19th_20th
   - file: _glossary
   - file: _bibliography
   - file: genindex
