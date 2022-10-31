@@ -397,7 +397,7 @@ So it seems that more evidence has recently come to hand, although what that evi
 
 ### Gertrude Hope's New Evidence
 
-In the meantime, additional evidence was to find its own way into the pages of *Folklore*. Just over a year after Hartland's paper was published, in [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
+In the meantime, additional evidence was to find its own way into the pages of *Folklore*. Just over a year after Hartland's paper was published, in [Volume IV No. III](https://archive.org/details/folklore04folkuoft/page/392/mode/2up?q=SIN-EATER), p392-3, another correspondent, Gertrude Hope, writing at the end of July, 1893, claims to have found additional, and *current* evidence of the tradition existing in England:
 
 ```{index} single: funeral biscuit ; Market Drayton
 :name: custom:funeralbiscuit:marketdrayton)
@@ -437,7 +437,7 @@ That letter was picked up by *Bye-gones* of [October 11th, 1893](https://journal
 >
 > The current number of Folk-Lore contains the following letter signed Gertrude Hope, and dated July 27, 1893:— "In connection with Mr Hartland's article on 'The Sin-Eater' in Folk-Lore for June, 1892, the following occurrence at a funeral near Market Drayton in Shropshire may interest you. The funeral took place on the first of this present month. The minister of the chapel where the deceased woman had been a regular attendant held a short service in the cottage before the coffin was removed. The lady, who gave me the particulars, arrived rather early, and found the bearers enjoying a good lunch in the only downstairs room. Shortly afterwards the cofBn was brought down and placed on two chairs in the centre of the room, and the mourners having gathered round it the service proceeded. Directly the minister ended, the woman in charge of the arrangements poured out four glasses of wine and handed one to each bearer present across the coffin, with a biscuit called a 'funeral biscuit.' One of the bearers being absent at the moment, the fourth glass of wine and biscuit were offered to the eldest son of the deceased woman, who, however, refused to take them, and was not obliged to do so. The biscuits were ordinary sponge biscuits, usually called "sponge fingers" or "lady's fingers." They are, however, also known in the shops of Market Drayton as "funeral biscuits." The minister, who had lately come from Pembrokeshire, remarked to my informant that he was sorry to see that pagan custom still observed. He had been able to put an end to it in the Pembrokeshire village where he had formerly been." Ed.
 
-A reply in the [November 8th, 1893](https://journals.library.wales/view/2092910/2097816/5#?xywh=-1138%2C205%2C4802%2C3167) issue, p215, rpvided an additional observation on such customs:
+A reply in the [November 8th, 1893](https://journals.library.wales/view/2092910/2097816/5#?xywh=-1138%2C205%2C4802%2C3167) issue, p215, provided an additional observation on such customs:
 
 > REPLIES. FUNERAL CUSTOM IN SHROPSHIRE (Oct. 11, 1893).
 >
