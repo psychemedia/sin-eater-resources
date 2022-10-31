@@ -1,6 +1,6 @@
 # Appendix — 19th and Early 20th Century Literary References
 
-Literary references to the tradition of the sin-eater in the 19th century and early 20th century include:
+Literary references to the tradition of the sin-eater in the 19th century and early 20th century are included in:
 
 - Joseph Downes, [*The Mountain Decameron*](https://archive.org/details/mountaindecamero01down/page/18/mode/2up), 1836
 - Fiona Macleod (William Sharpe), [*The sin-eater, and other tales*](https://archive.org/details/sineaterothertal00sharuoft/page/16/mode/2up), 1896
