@@ -729,4 +729,4 @@ I will tell it in the words of Aulay.
 
 ## Fiona Macleod's Sin-Eater
 
-In reading Fiona Macleod's sroy of the sin-eater, we might wonder where she came by this story, or how she came across the tradition of the sin-ater? As a work of fiction, it presents a mystery surrounding an an evil act, and an act of vengeance gone wrong as the lead character adopts a sin-eater role and then finds themselves trapped and tormented by it. Is there any evidence of how Fiona Macleod came across the idea of a sin-eater, perhaps from the Scottish tradition? If we can find out when she first came across the idea, or when she started writing it, we might be able to identify whether she had picked up on the idea from publications that might have been in the public eye at the time.
+
