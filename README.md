@@ -1,4 +1,4 @@
 # sin-eater-resources
 Source readings regarding the Welsh/English tradition of Sin-Eating
 
-E-book: [Sin Eater - Source materials](https://psychemedia.github.io/sin-eater-resources)
+E-book: [On the Trail of the Sin Eater](https://psychemedia.github.io/sin-eater-resources)
