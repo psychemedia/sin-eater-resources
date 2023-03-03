@@ -729,4 +729,76 @@ I will tell it in the words of Aulay.
 
 ## Fiona Macleod's Sin-Eater
 
+In reading Fiona Macleod's story of the sin-eater, we might wonder where she came by this story, or how she came across the tradition of the sin-ater? As a work of fiction, it presents a mystery surrounding an an evil act, and an act of vengeance gone wrong as the lead character adopts a sin-eater role and then finds themselves trapped and tormented by it. Is there any evidence of how Fiona Macleod came across the idea of a sin-eater, perhaps from the Scottish tradition? If we can find out when, and from where, she first came across the idea, or when she started writing it, we might be able to identify whether she had picked up on the idea from publications that might have been in the public eye at the time.
 
+TO DO
+
+
+
+???? https://ies.sas.ac.uk/sites/default/files/1894.pdf
+
+The William Sharp 'Fiona Macleod' Archive , SECTION XI
+LIFE: 1894 The entire Archive is protected under the copyright laws of the United Kingdom, the United States of America, and the Universal Copyright Convention. The copyright in hitherto unpublished materials by William Sharp/"Fiona Macleod" © 2002 is held by Rosemarie Sharp. The copyright in editorial apparatus and design © 2002 is held by the Archive Editor, William F. Halloran (wfh30@hotmail.com). Publication (print or electronic) or commercial use of any of the copyrighted materials without direct authorization from the copyright holders is prohibited. Copying of materials from the Archive is permitted only under the fair-use provisions of copyright law. To obtain permission to use material in the Archive that is not otherwise available in print, contact the Editor of the Archive. No permission is necessary to link to the Archive or to individual items in the Archive.
+
+> At the
+beginning of August, he went to the west of Scotland to stay with his mother and sisters who
+were on holiday in Kilcreggan on the Firth of Clyde. While there, he made friends with several
+locals, listened to their tales, and began to use what he heard in a series of stories that appeared
+in 1895 as The Sin-Eater and other Tales (Patrick Geddes and Colleagues, Edinburgh).
+
+
+At first glance it might appear that the idea for this story was triggered by the 1895 controversy, but it appears from ??leters ??saga TO DO was being mooted a year earlier, as a fragment from a [letter to John Lane, dated *[July] 7, [1894]*](https://ies.sas.ac.uk/sites/default/files/1894.pdf) reveals:
+
+
+
+> ...
+>
+> Miss Macleod tells me she hopes to have the new MS. completed & revised by the end of August. She wanted to send you for your next "Yellow Book" a remarkable short story called "The Sin-Eater": but I have advised her to hold this over in the meantime. 
+>
+> ...
+> In haste
+>
+> Yours sincerely | William Sharp
+
+
+?? https://ies.sas.ac.uk/sites/default/files/1895a.pdf SECTION XII
+LIFE: JANUARY – JUNE, 1895
+1
+ The publishing firm of P. G. Geddes and Colleagues was established in 1895. As this
+letter makes clear, it was designed as a medium for the expression and dissemination of
+Celtic-oriented poems and stories and of scientific works that would help to restore
+Edinburgh’s reputation as a center of learning. William Sharp served briefly as Manager
+of the firm and then became its Literary Adviser. He saw the firm as a vehicle for the
+writings of Fiona Macleod, and under his guidance, it published in beautifully designed
+books Fiona’s The Sin-Eater (1895), The Washer of the Ford (1896), and From the Hills
+of Dream (1896). They were followed by Fiona’s Songs and Tales of St. Columba and
+His Age (1897), and The Shorter Stories of Fiona Macleod (1897), a rearrangement and
+reissue in three inexpensive paper-covered volumes of the stories published in The SinEater and The Washer of the Ford. The firm’s most successful publication, a book that
+went through several editions, was an anthology of Celtic poetry called Lyra Celtica
+(1896) which Elizabeth Sharp compiled and edited and for which William Sharp wrote a
+lengthy introduction and copious notes. 
+
+
+Sin Eater and other Tales intended to be published in Autumn / early October 1895, and after several delays caused by the publisher appeared in November 1895
+
+https://ies.sas.ac.uk/sites/default/files/1895b.pdf
+To Herbert Stuart Stone, August 12, 1895
+ 9 Upper Coltbridge Terrace | Murrayfield | Midlothian | 12th August. 1895.
+> Please acknowledge receipt of The Sin-Eater by return, and state if you will be able to
+publish on (say) Saturday the 5th of October.
+With kind regards, |Yours Sincerely | Fiona Macleod 
+
+A date of October 15th was eventually settled on, but delays meant it was pushed back to early November
+
+https://ies.sas.ac.uk/sites/default/files/1896a.pdf
+To John Macleay, [Feb 18, 1896] 31
+London | Tuesday |10 p.m. 
+
+...Of course you can write to Miss Macleod if you like – though I suppose I ought to say
+‘no,’ & would if I had the right! For she has been ordered by her doctor to write as little as
+possible till she is quite right again. 
+...
+> As to what grounds Miss M. had for her "Sin-Eater" I do not know. Certainly the idea
+of it was not recent: for I well recollect her mentioning the superstition, and its fascination for
+her, some four or five years ago.
+Sincerely Yours/William Sharp

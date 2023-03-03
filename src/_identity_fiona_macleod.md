@@ -1,127 +1,64 @@
 # An Aside — The Mysterious Miss Macleod
 
-Of the various digitised copies of *The Sin-eater and Other Tales* that are available on `archive.org`, the author is intriguingly given as *William Sharp* in [at least one version](https://archive.org/details/sineaterandothe00shagoog/page/n304/mode/2up). 
-
+Of the various digitised copies of *The Sin-eater and Other Tales* that are available on `archive.org`, the author is intriguingly given as *William Sharp* in [at least one version](https://archive.org/details/sineaterandothe00shagoog/page/n304/mode/2up).
 
 The reference to William Sharpe seemed really odd to me; a search of archive.org turns up Fiona Macleod's "The Sin-Eater and Other Tales", a tale of a Scottish sin-eater, with a William Sharp (not Sharpe) identied as the author [example](https://archive.org/details/sineaterandothe00shagoog/page/n304/mode/2up?q=sharp), but it seems as if that has been mistakenly extracted from elsewhere in the book?  But then it turns out the Fiona Macleod is a pseudonym of William Sharp... eg https://albion.org.uk/historical-albion/william-sharp-fiona-macleod-1855-1905/ ]`
 
 
 So who why does this unusual attribution appear? Therein lies a literary mystery. For throughout her publishing career, Fiona Macleod had remained elusive. Despite being an active correspondent, she never appeared in public, and contact with her was through a forwarding address.
 
+Whether deliberate or not, the publication of Macleod's first novel, *Pharais*, caused one reviewer to raise the possibility that Fiona Macleod was a psudonym
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002947/18940609/006/0002
+Westminster Gazette - Saturday 09 June 1894
+p2
+"PHARAIS." Mr. Grant Allen writes :— "Have you seen 'Pharais,' by Fiona Macleod ? —whether a real name or a pseudonym I know not. It is a charming little volume, published by Frank Murray, at Derby ; and it strikes me as one of the daintiest outcomes of the Celtic revival. The story is an idyll of the Western Isles, vague, dreamy, mysterious, yet throbbing with human interest. It touches at times on some real problems of latter-day thinking. It is Ossianic, of course, instinct with the spirit of the Celtic twilight, and seems to come to us straight from the Isles of the Dead that lie beyond Britain. But the sense of colour is delicious, and the touch as light and delicate as a beautiful woman's hand. The book, with its glimpses of misty straits and floating islets, reminds one exactly of the outlook from some far western headland over the summer-blue belted sea, as one has seen it often on the Argyllshire coast in the uncertain haze of a basking August. I will not attempt to tell the theme of the tale, lest a rough masculine hand should spoil its daintiness. I will only say, on the other hand, that 'Fiona Macleod' falls into the common Celtic fault of giving us a little too much of the Celtic nature-poetry. She must remember that the Celt has always his besetting sin of excessive sweetness to contend with ; and that perfection in literature can only be attained by avoiding excess, even in the direction of ones own best qualities. Moreover, she should aim at an audience which loves not Celticism. Success still lies in the lap of the Saxon. I do not often review a book nowadays, but this little volume, dropped upon me from the clouds, has impressed me so much that I venture to call the attention of others to it. Only they must remember it is a work of fancy, not a circulating library novel, and must not expect to find it 'thrillingly interesting,' *à la* Fergus Hume or *à la* Rider Haggard."
 
-???? https://ies.sas.ac.uk/sites/default/files/1894.pdf
+The "Ossianic" reference might also be teasing us to recall the ... ossian controversry etc
 
-The William Sharp 'Fiona Macleod' Archive , SECTION XI
-LIFE: 1894 The entire Archive is protected under the copyright laws of the United Kingdom, the United States of America, and the Universal Copyright Convention. The copyright in hitherto unpublished materials by William Sharp/"Fiona Macleod" © 2002 is held by Rosemarie Sharp. The copyright in editorial apparatus and design © 2002 is held by the Archive Editor, William F. Halloran (wfh30@hotmail.com). Publication (print or electronic) or commercial use of any of the copyrighted materials without direct authorization from the copyright holders is prohibited. Copying of materials from the Archive is permitted only under the fair-use provisions of copyright law. To obtain permission to use material in the Archive that is not otherwise available in print, contact the Editor of the Archive. No permission is necessary to link to the Archive or to individual items in the Archive.
+TH 'Fiona Macleod' in quotes; possible pseudonym
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002947/18940626/012/0003
+Westminster Gazette - Tuesday 26 June 1894
+p3
+"PHARAIS."
 
-> At the
-beginning of August, he went to the west of Scotland to stay with his mother and sisters who
-were on holiday in Kilcreggan on the Firth of Clyde. While there, he made friends with several
-locals, listened to their tales, and began to use what he heard in a series of stories that appeared
-in 1895 as The Sin-Eater and other Tales (Patrick Geddes and Colleagues, Edinburgh).
+TO THE EDITOR Of THE WESTMINIER GAZETTE.
 
-
-At first glance it might appear that the idea for this story was triggered by the 1895 controversy, but it appears from ??leters ??saga TO DO was being mooted a year earlier, as a fragment from a [letter to John Lane, dated *[July] 7, [1894]*](https://ies.sas.ac.uk/sites/default/files/1894.pdf) reveals:
-
-
-
-> ...
->
-> Miss Macleod tells me she hopes to have the new MS. completed & revised by the end of August. She wanted to send you for your next "Yellow Book" a remarkable short story called "The Sin-Eater": but I have advised her to hold this over in the meantime. 
->
-> ...
-> In haste
->
-> Yours sincerely | William Sharp
-
-
-?? https://ies.sas.ac.uk/sites/default/files/1895a.pdf SECTION XII
-LIFE: JANUARY – JUNE, 1895
-1
- The publishing firm of P. G. Geddes and Colleagues was established in 1895. As this
-letter makes clear, it was designed as a medium for the expression and dissemination of
-Celtic-oriented poems and stories and of scientific works that would help to restore
-Edinburgh’s reputation as a center of learning. William Sharp served briefly as Manager
-of the firm and then became its Literary Adviser. He saw the firm as a vehicle for the
-writings of Fiona Macleod, and under his guidance, it published in beautifully designed
-books Fiona’s The Sin-Eater (1895), The Washer of the Ford (1896), and From the Hills
-of Dream (1896). They were followed by Fiona’s Songs and Tales of St. Columba and
-His Age (1897), and The Shorter Stories of Fiona Macleod (1897), a rearrangement and
-reissue in three inexpensive paper-covered volumes of the stories published in The SinEater and The Washer of the Ford. The firm’s most successful publication, a book that
-went through several editions, was an anthology of Celtic poetry called Lyra Celtica
-(1896) which Elizabeth Sharp compiled and edited and for which William Sharp wrote a
-lengthy introduction and copious notes. 
-
-
-Sin Eater and other Tales intended to be published in Autumn / early October 1895, and after several delays caused by the publisher appeared in November 1895
-
-https://ies.sas.ac.uk/sites/default/files/1895b.pdf
-To Herbert Stuart Stone, August 12, 1895
- 9 Upper Coltbridge Terrace | Murrayfield | Midlothian | 12th August. 1895.
-> Please acknowledge receipt of The Sin-Eater by return, and state if you will be able to
-publish on (say) Saturday the 5th of October.
-With kind regards, |Yours Sincerely | Fiona Macleod 
-
-A date of October 15th was eventually settled on, but delays meant it was pushed back to early November
-
-https://ies.sas.ac.uk/sites/default/files/1896a.pdf
-To John Macleay, [Feb 18, 1896] 31
-London | Tuesday |10 p.m. 
-
-...Of course you can write to Miss Macleod if you like – though I suppose I ought to say
-‘no,’ & would if I had the right! For she has been ordered by her doctor to write as little as
-possible till she is quite right again. 
-...
-> As to what grounds Miss M. had for her "Sin-Eater" I do not know. Certainly the idea
-of it was not recent: for I well recollect her mentioning the superstition, and its fascination for
-her, some four or five years ago.
-Sincerely Yours/William Sharp
+SIR, —My attention has been drawn to a suggestion in one or two evening papers of recent date that the author of the Celtic romance " Pharais"— a generous note about which from Mr. Grant Allen appeared in THE WESTMINSTER lately— is Mr. William Sharp. It is true that my fricntl and kinsman, Mr. William Sharp, saw " Pharais " " through the press" for me, and here, no doubt, is the origin of the misapprehension ; but as to its authorship, will you courteously allow me to state that I, and I alone, am the writer of the book in question ? I am, Sir, yours very truly, 3, East Savile-road, Newington, Edinburgh. FIONA MACLEOD.
 
 
 ---
-The Nation  1911-02-16: Vol 92 Iss 2381
-p166-167
-Literature
-FIONA MACLEOD.
-The Writings of "Fiona Macleod." Arranged by Mrs. William Sharp. New York: Duffield & Co. Seven volumes, $1.50 net each.
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002627/18950720/226/0035
+The Queen - Saturday 20 July 1895
+p35
+THE DINER OUT
 
-Sharp (Fiona Macleod): A Memoir. Compiled by his wife, Elizabeth Sharp. Duffield @ Co. $3.75 net. The writer who used the name "Fiona
-Macleod" has been brought into prominence by the publication of a revised and collected edition of his works and by an admirable biography (though a little too long) from the hand of his wife. For twelve years, until his death in 1905 permitted the revelation, his identity with the mysterious writer of the Highlands was kept secret by the small circle to whom it was known, When the secret o* Fiona's existence was revealed, there rose in its place the question of Mr. Sharp's double activity—for all through this time he had purposely kept up his critical writing under his own name —and certain amateur psychologists began to spread the rumor of a mysterious dual personality in the man, as if he had really possessed two souls, one masculine and Saxon, the other feminine and Celtic. It is evident that Mr. Sharp liked to puzzle himself and those who were in the secret by posing as one under an extraordinary inspiration. As a matter of fact, there is nothing at all supernatural or even very strange in the matter. From a child the wistful, mystery-mongering vein that runs through the books of Fiona Macleod was marked in William Sharp, and if most of the writings before he assumed the Gaelic name show the ordinary qualities of Anglo-Saxon London, that was simply because he wrote for the market what the market demanded.
+...
 
-William Sharp was born at Paisley in 1855, and was in childhood very delicate. By his Highland nurse, Barbara, he was initiated into the vague super stitions of the Gael, to which he added the dreams and adventures of his own brooding, half-nurtured soul. Mrs. Sharp tells of having heard him speak often of a gentle white Lady of the Woods, who appeared to him in childhood by a well in Argyll, and threw upon him "blueness out of the flowers, as one might lift foam out of a pool." In later years, vacations passed in the western Highlands and on the Hebridean islands reinforced his imagination with the nature myths that still haunted those distant and then almost unvisited places. In particular, he came to love the lonely island of Iona, with its long-remembered traitions of the great Columba, who had come thither from Ireland, bringing to the new land the Gospel of Christ, not as an enemy, but as a friend of the pagan gods of nature. On that island, he became acquainted with an old fisherman, Seumas Macleod, who took the child of seven on his knee one day and made him pray to "Her," the spirit-woman at the heart of the world, and who, as he wrote long afterwards in a letter, "was indeed the father of Fiona." And elsewhere he tells of coming once as a boy of sixteen upon the old man at sunrise standing with his face to the sea and with his bonnet removed from his long white locks; and when the boy spoke to Seumas (seeing he was not "at his prayers"), the old man replied simply, In Gaelic of course: "Every morning like this, I take my hat off to the beauty of the world."
+Fiona Macleod, the name attached to the latest of the Keynote series, is a real personage. She is still quite young. and in person is tall and dark, of a pronounced Celtic type : and her friends know her as the daring sailor and confirmed hill-lover rather than as the dreamy romancist of such books as " Pharais" and " The Mountain Lovers." The new book, it should be added, is not a romance of the isles, but of the remote hill-country in the extreme north-west of Argyll. She is a well-known figure in Edinburgh society.
 
-When Sharp was twelve years old his parents moved to Glasgow, and the boy was sent to the academy in that city. In 1871 he was enrolled as a student at the Glasgow University, where he remained for two years, leaving withjout taking a degree. He thereupon entered the office of a firm of Glasgow lawyers. Here for two years he is said to have allowed himself only four out of the twenty-four hours for sleep, wasting his strength, not on the law it may be supposed, but on more attractive studies. His health, always precarious, broke under the strain, and he was ship- /ped off to Australia. The new world did not satisfy him, and he was soon back in Scotland, where he spent a year of idleness. In 1878 he came to London and took a place in a bank; but literature still lured him on, and after a while he threw himself on his pen for support and gradually through many hardships and moments of despair won for himself an acknowledged and profitable hold on the publishers. Naturally, as a servant of the press he wrote what the readers of magazines and popular biographies desired, hiding close in his heart the wayward mysticism and the grandiose philosophy he had learned from nature. Yet those deeper springs of inspiration were never forgotten, and in his intimate letters we hear continually of great projected epics and other poems that were to solve all the riddles of life. From the specimens of these suppressed masterpieces given by Mrs. Sharp in the biography, we conjecture that their loss to the world is not deplorable.
+...
 
-By the year 1892, when Sharp was thirty-seven, he was in a position to command his own time to a certain extent, and with his wife he settled down for a while in a little cottage near Rudgwick, Sussex. Here came the inspiration of Fiona Macleod.
+--
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18950723/102/0003
+Inverness Courier - Tuesday 23 July 1895
+p3
 
-It is not strange that Sharp should have taken a woman's name. He had for one thing the inspiration of a lately found friend in Rome, of whom we get only tantalizing glimpses in the biography and in his dedications—the woman who stood to him as a personification of the Anima Celtica, the Celtic Soul still brooding, as he describes it, in the "Land of Promise, whose borders shine with the loveliness of all forfeited, or lost, or banished dreams and realities of Beauty." Moreover, the feminine element, the Ewig-Weibliche, has always predominated in the ideals of the romantic Schwéirmerei, and it was natural that this latest incarnation of the old hopes and dreams should have appeared in the disguise of a woman. The particular name is easily accounted for. "Macleod" |he took from his old friend and mentor of Iona, and "Fiona" is the nearest highjland appellation he could find to the ‘name of the island which meant so much to his theory of inspiration.
-The earliest book to appear under the new signature was "Pharais," published in 1894; "The Mountain Lovers," which with "Pharais" forms the first volume of the collected works, came out in 1896, and thereafter, for the ten remaining years of Sharp's life, there was a succession of stories, sketches, essays, poems, and dramas, making in the complete edition seven fair-sized volumes. "Pharais" caught the attention of the discerning at once, and the interest in the unknown writer never flagged. She became a cult with some, and with others a recurring escape from the world and from thought.
+Fiona Macleod, the name attached to the latest of the Keynote series, a real personage (writes Diner-Out in the *Queen*.) She still quite young, and in person is tall and dark, of a pronounced Celtic type ; and her friends know her as the daring sailor and confirmed hill-lover rather than as the dreamy romanticist of such books as "Pharais" and "The Mountain Lovers." The new book, it should be added, is not a romance of the isles, but of the remote hill-country in the extreme north-west of Argyll. She is a well-known figure in Edinburgh society.
 
-With advancing years, the restlessness that had been characteristic of Sharp's temperament from childhood grew to what can only be described as morbid excess. The first glimpse we have of him as a baby is in the guise of a run-away storming the make-believe castles of fairyland, and, at the end, until held in the leash by ill-health, we see him drifting, or rather running, from place to place, seeking excitement from the sea or peace from the hills, always in a feverish haste to overtake some vanishing, unimaginable goal of the heart's desire. He died in Sicily in 1905, beloved and regretted by those who knew him.
 
-Mr. Sharp apparently valued most the later writings, in which the human motives disappear in a haze of disorganized symbolism, whereas the less enthusiastic reader is likely to find his interest centring, with some minor exceptions, in the tales of "Pharais" and "The Mountain Lovers." There the discipline Sharp had acquired from his long apprenticeship to the press kept him within the bounds of reason, while the new freedom and Celtic inspiration added a note that is not common in English fiction. There is more of passion in "The Mountain Lovers"; and the scenes about the lonely pool, the terrible unrelenting love and madness of the blind old man, the elfish fear and wisdom of the dwarf, the yearning of the girl Oona that a soul may be born in her wild, woodland worshipper—the whole tissue of emotions in this solitude haunted by the magic influence of forgotten gods is almost unbearably dark and tragic. But on the whole, "Pharais," with its calmer beauty and subtler pathos, is the finer work; Fiona Macleod never equalled that first lovely creation.
+TH: also appeared elsewhere
 
-Having found his public in these two tales, Mr. Sharp, one may say, a little abused their good nature. A few of the shorter stories have a weird beauty not without some relation to human experience, and some of the nature-essays written at the very end of his life and
-brought together under the title of.
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003051/18951017/100/0006
+Warwickshire Herald - Thursday 17 October 1895
+p6
+Fiona Macleod, the author of "The Mountain Lovers," is a genuine name and not a pseudonym, as has been conjectured in some quarters. Fiona is the diminutive of Fionnaghal, the Gaelic equivalent of Flora. Miss Macleod is a native of the South Hebrides, where she passed her early years. She still spends part of the year in the Highlands of her native place and of Argyllshire, where the scenes of "The Mountain Lovers" are laid, and for the rest of the time she lives near Edinburgh. She is still quite young.
 
-"Where the Forest Murmurs" display an intimate union of symbolism and real observation such as many in these later days have attempted but few have) special character of the Celts, and they achieved. If he had written always in symbolize. Many of the old Gaelic superstitions and legends he has attempted to revivify strike one in his rendering as merely meaningless day-dreams. Though he never united himself unreservedly with the Irish Celtic movement and deprecated its too common hostility to everything Saxon, yet in his inability to distinguish between an idea or a clear emotion and the flutterings of a sick fancy he fell too often into vaporous nonsense that makes the loosest imaginings of "A. E." or Mr. Yeats seem solid and compact of reason. Possibly he deceived himself into thinking that he was dealing with real ideas and genuine emotions; in truth he was playing with an empty convention. Take a stanza of his poems—almost any stanza will do—
-
-Oh, fair immaculate rose of the world, rose of my dream, my Rose!  
-Beyond the ultimate gates of dream I have heard thy mystical call:  
-It is where the rainbow of hope suspends and the river of rapture flows—  
-And the cool sweet dews from the wells of peace for ever fall.
-
-Now it is possible that these phrases— "rose of my dream," "ultimate gates of dream," "rainbow of hope," "river of rapture," "wells of peace"—it is quite possible that these phrases when first struck out corresponded to some yearning for an ideal clearly conceived and strongly desired, but as they are used and endlessly reiterated by Mr. Sharp, and by others of his school, they become a mere poetic convention emptier of content than the clichés of the pseudo-classical writers. They require no effort on the part of the poet and mean nothing to the reader. One remembers the Grand Academy of Lagado which was once visited by a certain Mr. Gulliver, and the pleasant device of the academicians to produce literature without waste of brain. Something like that might seem to be the method employed in turning out a good deal of this late romantic prose and verse. All you need do is to have a frame of shifting blocks on which are inscribed severally the conventional phrases, and then by the turn of a crank to throw them into new combinations, and the thing is done.
-
-In fact, there is at the base of all this literature, a double misunderstanding. Mr. Sharp and those who were working with him believed that they were renewing the old Celtic idealism and that, in this revival, there was the prophecy of a great spiritual and imaginative renovation for the world; whereas, in fact, their inspiration came essentially from a source that had little to do with any that vein he would have accomplished ‘are the fag end of a movement, rather something memorable and large in Engthan the forerunners of anything. Somelish letters; but too often the symbolism runs quite away with him and leaves one vaguely wondering whether
-thing of the old Celtic imagination may ‘have been caught up by these young en-
-thusiasts. The mere use of the myths
-of their emotional
-167 content, and the new and the old schools of the Celt are bound to have some traits in common— the sense of fateful brooding, the feeling of dark and bright powers concealed in nature and working mysteriously upon human destiny, the conception of passions as forces that have a strange life in themselves and come into the hearts of men as.if they were independent creatures, the sense of unearthly yet very real beauty, the haunting belief in a supernatural world that lies now far away in the unattainabie West, and now buried beneath our feet or just trembling into vision, the mixture of yearning and fear that is felt toward that world as a source of incalculable joys and dark forgetful madness to those who break in upon its secret reserve. But withal the essential spirit of the sagas is quite different from that of these imitators. The light in the old tales is hard and sharp and brilliant, whereas our new writers love to merge the outlines of nature in an all-obliterating monotonous gray. The heroes in the sagas are men and women that throb with insatiable life, and the emotions of these men, whatever mysticism may envelop their source, are the stark, mortal passions of love and greed and hatred and revenge and lamentable grief.
-
-The real source of this Celtic revival is in the romantic revolt of the eighteenth century—in Blake and Chatterton, and that whole movement—to which must be added the influences of Maeterlinck and the other modern pseudo-mystics of the Continent. It does not bear on its face so much the light of dawn as the twilight that pre cedes the night. It is the fading end of a great inspiration, not the promise of a new world. It is often obscure and meaningless, and sometimes silly; but at its best it carries a gleam of haunted and pathetic loveliness.
+TH: widely elsewhere in publications that weekend ("as far and wide as" with examples?); is there a source for this in the letters or biography?
 
 ---
 
@@ -148,7 +85,7 @@ https://albion.org.uk/historical-albion/william-sharp-fiona-macleod-1855-1905/
 William Sharp / Fiona Macleod 1855 – 1905
 
 William Sharp / Fiona Macleod
-William Sharp was truly a Victorian man of mystery. He was a forerunner and pioneer of the present time in so many ways — poet, novelist, biographer and friend of many prominent Victorian pioneers such as W.B.Yeats, Dante Gabriel Rosetti and John Arthur Goodchild. He also was impelled to invent for himself a completely ‘other' secret life with a second identity as Fiona (a name he invented!) Macleod who wrote about her life in the Scottish Isles tapping into the ancient Celtic oral traditions with their stories of fairies, spirits and nature beings from what she called ‘the green world.' Writing to Goodchild in the dedicatory introduction to ‘The Winged Destiny' she wrote of Iona, ‘Do you, too, not hold Iona, motherland of all my dreams, as something rare and apart, one who has her own  lovely solitude and her own solitary loveliness that is like no other loveliness? In your heart, as in mine, it lies an island of revelation and peace.' These writings became so popular at the time that she was listed in the social directory of ‘Who's Who' from 1899-1905. Yet few guessed at the identity of Fiona Macleod, an identity that even his wife, Elizabeth, kept hidden as did his ‘secret lover' Edith Wingate Rider.
+William Sharp was truly a Victorian man of mystery. He was a forerunner and pioneer of the present time in so many ways — poet, novelist, biographer and friend of many prominent Victorian pioneers such as W.B.Yeats, Dante Gabriel Rosetti and John Arthur Goodchild. He also was impelled to invent for himself a completely 'other' secret life with a second identity as Fiona (a name he invented!) Macleod who wrote about her life in the Scottish Isles tapping into the ancient Celtic oral traditions with their stories of fairies, spirits and nature beings from what she called 'the green world.' Writing to Goodchild in the dedicatory introduction to 'The Winged Destiny' she wrote of Iona, 'Do you, too, not hold Iona, motherland of all my dreams, as something rare and apart, one who has her own  lovely solitude and her own solitary loveliness that is like no other loveliness? In your heart, as in mine, it lies an island of revelation and peace.' These writings became so popular at the time that she was listed in the social directory of 'Who's Who' from 1899-1905. Yet few guessed at the identity of Fiona Macleod, an identity that even his wife, Elizabeth, kept hidden as did his 'secret lover' Edith Wingate Rider.
 From 1893-1905 Sharp wrote as Fiona Macleod and revealed a treasury of ancient Faery Lore dealing with both Christian and pre-Christian beliefs, revealing unknown aspects of the life of St.Columba and several beautiful stories of the Christ child. Sharp, as Macleod, found it easy to step between the worlds and write enchanting prose, poetry and plays about the ancient Celtic world, revealing the lost traces of the old Gaelic traditions for the first time in the English language.
 
 
@@ -167,6 +104,31 @@ The Fiona Macleod letters are best approached as a body of literature which Shar
 ```
 
 
+
+---
+
+Febrary 1896
+
+Sharp and Macloed both writing on same topic - is this Highland News gaming them?
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18960125/012/0002
+Highland News - Saturday 25 January 1896
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18960201/023/0002
+Highland News - Saturday 01 February 1896
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18960201/048/0004
+Highland News - Saturday 01 February 1896
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18960208/011/0002
+Highland News - Saturday 08 February 1896
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18960208/009/0002
+Highland News - Saturday 08 February 1896
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18960229/056/0002
+Highland News - Saturday 29 February 1896
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002947/18960418/013/0003
@@ -177,6 +139,19 @@ Who is " Fiona Macleod" ? This is the question some readers are asking, a good d
 
 ??? TO DO - WHO IS GEDDES??
 
+
+```{admonition} James Macpherson and the Ossian Affair
+:class: dropdown
+
+
+https://archive.org/details/celticrevivaline00snyd/page/78/mode/2up?q=%22james+macpherson%22+violin
+THE OSSIANIC CONTROVERSY
+
+
+```
+
+
+??1896 august coast of ross
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18960815/041/0002
 Highland News - Saturday 15 August 1896
@@ -205,6 +180,7 @@ FIONA MACLEOD. PAGE 255
 Miss Macleod is one of the younger writers most intimately associated with the Celtic Renascence in Scotland. "The Prayer of Women" (see page 255) is from Pharais : a *Romance of the Isles* (Frank Murray, Derby, 1894) ; " The Rune of Age " and " A Gaelic Milking Song " are from *The Mountain Lovers* (John Lane) ; the " Lullaby" and the two songs of Ethlenn Stuart are from her last volume, *The Sin-Eater : and other Tales* (Patrick Geddes and Colleagues, Edinburgh). "The Closing Doors" has not been published hitherto. The brief lyric, " The Sorrow of Delight," was contributed to an as yet unpublished fantastic sketch, *The Merchant of Dreams*, written in collaboration with a friend. Such of the poems scattered through her several volumes, and others, as she wishes to preserve in connected form, will be published by Miss Macleod early in 1896 (Patrick Geddes and Colleagues), under the title of *Lyric Runes and Fonnsheen*.
 
 
+
 ---
 
 
@@ -221,11 +197,34 @@ Miss Macleod is by birth and conviction a Celt of the Celts. She is a member of 
 
 Miss Macleod spent most of her childhood in the Outer and Inner Hebrides and the Western Highlands, particularly in the islands of Iona and Arran, She is passionately fond of Iona, which represents to her the birthplace of her imaginative life. Eight years ago, on account of delicate health, she spent some time in Italy, on the Riviera, and in Southern France. She knows Brittany well, and resided for a considerable period in Paris. Sometimes a faint echo from the most modern of cities seems to find its way into one of her Barbaric Tales, and the effect of this strange blending of the old with the new is fantastic in the extreme. Before she went abroad for the first time Miss Macleod lost her father—her mother died when she was still a child—but fortunately she was not left dependent on her pen, which, indeed, at that time she had not begun to use. But Miss Macleod is essentially a child of nature and the open air, having no sympathy with the hurried life of the great cities, which she seldom visits. Her chief pleasure consists in cruising among the isles in a small yacht or even half-decked wherry, in going out with the herring-fishers, and in visiting the remote " bothies " of the shepherds high up on the bleak and lonely mountains.
 
-Miss Macleod's first literary experiment was a short story which she sent, in the autumn of 1893, to the *National Observer* (at that time *The Scots' Observer*). This story, "The Last Fantasy of James Achanna," was declined by Mr. Henley, who, however, wrote to the author a word of genuine encouragement. This story has never been republished. Miss Fiona Macleod's first book, *Pharais*, which, by the way, is a slightly Anglicised spelling of the genitive of the Gaelic word for Paradise, was begun in the summer of 1893 and finished before the close of that year. *Pharais* is one of the most personal of all Miss Macleod's writings. It is generally understood that the island of Irmisron which is depicted in this romance is the remote island where the author spent many summers of her early childhood, and there are certain incidental autobiographical touches in the portraiture and environment of the heroine, Lora. *Pharais* was published through Mr. Frank Murray, of Derby, simultaneously with the volume of dramatic studies entitled *Vistas* by the author's relative, Mr. William Sharp, who was her intermediary in the publication of this volume, and also of *The Mountain Lovers*, which was issued by Mr. John Lane in the spring of 1895. It was doubtless through this connexion that the rumour first got abroad that Fiona Macleod was either Mr. or Mrs. Sharp. For some time after the publication of her first two romances Miss Macleod worked at a volume which has since been published under the title of *Green Fire*, and which was projected' about the same time as *Pharais*. She, however, felt convinced that her subjects were most suited to the short story, and in the intervals of work at the longer romances she had written a numberof short tales which were published under the titles *The Sin Eater and Other Tales*; and *The Washer and Other Legendary Moralities*. Miss Macleod's, reputation rests largely on these two collections, which have now been reissued in three distinct groups with several additions. The *Sin Eater* was published in the autumn of 1895 by a new firm, Messrs. Patrick Geddes & Colleagues, who have shown themselves eager in every way to identify themselves with the work of Miss Macleod, and have issued her books in a particularly, appropriate and artistic *format*. Last autumn, Miss Macleod published her earlier romance, *Green Fires*, through Messrs. Constable & Co. The many critics who have warned the author of this book against an over-elaborateness and artificiality will be glad to hear that it is the work she likes least. Miss Macleod is now concentrating all her energies on an historical romance, and she has consequently put aside a number of short stories and one or two longer books. It is not likely, therefore, that much from her pen will see the light before this romance is completed.The only book by her that may positively appear this year is a story for children, which Messrs. Constable & Co. wish to issue at Christmas. The publication of a short romance, *The Lily Leven*, which has been again and again announced, is indefinitely postponed, though the story is practically finished. In this book it will be found that Miss Macleod has worked from a new standpoint, and has dwelt on the humour, gaiety, and grotesque contrasts of Celtic life.
+Miss Macleod's first literary experiment was a short story which she sent, in the autumn of 1893, to the *National Observer* (at that time *The Scots' Observer*). This story, "The Last Fantasy of James Achanna," was declined by Mr. Henley, who, however, wrote to the author a word of genuine encouragement. This story has never been republished. Miss Fiona Macleod's first book, *Pharais*, which, by the way, is a slightly Anglicised spelling of the genitive of the Gaelic word for Paradise, was begun in the summer of 1893 and finished before the close of that year. *Pharais* is one of the most personal of all Miss Macleod's writings. It is generally understood that the island of Irmisron which is depicted in this romance is the remote island where the author spent many summers of her early childhood, and there are certain incidental autobiographical touches in the portraiture and environment of the heroine, Lora. *Pharais* was published through Mr. Frank Murray, of Derby, simultaneously with the volume of dramatic studies entitled *Vistas* by the author's relative, Mr. William Sharp, who was her intermediary in the publication of this volume, and also of *The Mountain Lovers*, which was issued by Mr. John Lane in the spring of 1895. It was doubtless through this connexion that the rumour first got abroad that Fiona Macleod was either Mr. or Mrs. Sharp. For some time after the publication of her first two romances Miss Macleod worked at a volume which has since been published under the title of *Green Fire*, and which was projected' about the same time as *Pharais*. She, however, felt convinced that her subjects were most suited to the short story, and in the intervals of work at the longer romances she had written a numberof short tales which were published under the titles *The Sin Eater and Other Tales*; and *The Washer and Other Legendary Moralities*. Miss Macleod's, reputation rests largely on these two collections, which have now been reissued in three distinct groups with several additions. The *Sin Eater* was published in the autumn of 1895 by a new firm, Messrs. Patrick Geddes & Colleagues, who have shown themselves eager in every way to identify themselves with the work of Miss Macleod, and have issued her books in a particularly, appropriate and artistic *format*. Last autumn, Miss Macleod published her earlier romance, *Green Fires*, through Messrs. Constable & Co. The many critics who have warned the author of this book against an over-elaborateness and artificiality will be glad to hear that it is the work she likes least. Miss Macleod is now concentrating all her energies on an historical romance, and she has consequently put aside a number of short stories and one or two longer books. It is not likely, therefore, that much from her pen will see the light before this romance is completed. The only book by her that may positively appear this year is a story for children, which Messrs. Constable & Co. wish to issue at Christmas. The publication of a short romance, *The Lily Leven*, which has been again and again announced, is indefinitely postponed, though the story is practically finished. In this book it will be found that Miss Macleod has worked from a new standpoint, and has dwelt on the humour, gaiety, and grotesque contrasts of Celtic life.
 
 In spite of the success that has attended the publication of her poems, "From the Hill of Dreams," which is by far the most personal and intimate book Miss Macleod has given to the world, she has determined to publish no more verses.
 
 
+----
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002661/18970522/129/0009
+Highland News - Saturday 22 May 1897
+p9
+
+I take the following paragraphs from the "Academy." By a certain class I know that all this will be disbelieved. Nothing that can be said of Miss Macleod can be believed, even though those who speak and write are people hitherto considered honourable. To this class of unbelievers it is without the bounds of possibility that any one should not seek notoriety.
+
+`[Academy article is then largely reprinted. omitting the first line, starting "In these days..." and continuong on to "...the work she likes least."]`
+
+Mac.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002947/18970517/018/0003
+Westminster Gazette - Monday 17 May 1897
+p3
+LITERARY NOTES AND NEWS. 
+
+...
+
+A great deal of mystery has always hung round the identity of the writer known as Fiona Macleod. The Academy brushes it aside, and announces once more that Fiona Macleod is no pseudonym, but is the maiden name of the young married woman who wrote " The Sin Eater." Most of her childhood was passed in the Outer and Inner Hebrides and the Western Highlands. Eight years ago, on account of delicate health, she spent some time in Italy, on the Riviera, and in Southern France. Miss Macleod has no sympathy with the hurried life of the great cities, which she seldom visits. Her chief pleasure consists in cruising among the isles in a small yacht, or in visiting the remote bothies of the shepherds on the mountains.
+
+...
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002678/18970519/055/0003
@@ -260,7 +259,27 @@ Other of her works are "Vistas" (a volume of dramatic studies), "The Mountain Lo
 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000325/18981227/018/0003
+Gloucester Citizen - Tuesday 27 December 1898
+p3
+OUR LONDON LETTER
+
+...
+
+Literary people do not seem to be happy until they discovered the identity of writers who, for reasons best known to themselves, issue their works under a pseudonym. Miss Robins, the author of "The Open Question," complained bitterly the other day that the authorship of the bock had not been allowed to remain veiled under penname of "C. E. Raimond." Now a determined effort is being made to rnn to earth Miss "Fiona Macleod," who thus far has baffled her pursuers. For some years this lady has been before the public, but no one has yet torn aside the pseudonymity in which she chooses to cloak herself. ...
+
+...
+
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002296/18990103/085/0006
+Penrith Observer - Tuesday 03 January 1899
+p6
+Personal Literature &c.
+
+Great efforts have been made to maintain the secret of the personality of Miss Fiona Macleod. Miss Macleod's letters have to be re-addressed three or four times before they come into her hands. She is known to a small circle who keep the secret well. No editor has managed to get her photograph, though one had it in his hands. We doubt, says the "Academy," if Miss Macleod's publishers have met her. Certain Gaels, whose dislike for Miss Macleod's work amounts to passion, have sought assiduously to force her to reveal her personality. Every sort of criticism except that which is literary has been applied to her work. One ardent Gael turned up the files of a Glasgow paper to see if any of the tragedies Miss Macleod depicts actually occurred, another took a census of Iona — no difficult task — to discover the originals of her characters. It is startling to learn that their researches were unavailing. Still another Gael is said to have done detective duty opposite a house in Edinburgh where Mira Macleod sometimes days, and Miss Macleod is as unknown as ever. 
+
+---
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001384/18990130/112/0006
 Dublin Daily Express - Monday 30 January 1899
@@ -356,7 +375,21 @@ Publication date 1899-02-11
 p175
 Who is Fiona Macleod? Mr. William Sharp is met on the literary highway with the alternative "Her name or her life!" If he will not produce the author, whom he has called his friend and his cousin, he is told that himself will be adjudged to be Fiona Macleod and no other. For, says one of the lady's pursuers, though she has written letters, and her photograph has been shown, nobody has ever seen her in the flesh. But on that point a correspondent can speak with authority when he says that the lady referred to by Mr. Sharp has undoubtedly an actual existence of her own. She has been seen repeatedly by her publisher, and she has been a pilgrim to at least one literary Mecca, where an English man of letters discussed with her the Celtic movement in modern literature. About two years ago she was in London on a visit, and one biographical fact at least she let drop—that she was a married woman. Of course this does not prove that she wrote the books attributed to her, either wholly or in part; but that there is a living woman who claims to be the author, and upon whom others have set eyes, is beyond dispute.
 
+
+--
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18990211/073/0006
+Globe - Saturday 11 February 1899
+p6
+LITERARY GOSSIP
+
+The identity of Fiona Macleod is still a secret. A little while ago some one endeavoured to prove that she and Mr. William Sharp were one and the same. Mr. Sharp replied that he was not free to say whether this was so or not. Now come witnesses who have seen Miss Macleod face to face, and who, therefore, aver that she is not Mr. Sharp, who is tall and bearded. But if so, why does not Mr. Sharp say so? Personally we care nothing. It would not move us to know that Fiona Macleod was the Pope. Meanwhile, in connection with the great problem, we note that a writer in a contemporary asks if any men have ever keen known to take feminine pseudonyms. There is a burly gentleman in knickerbockers in Hr. Henry James's story of "The Death of the Lion" who wrote as Rose Maydew (or some such name), and Lord Dufferin once produced the confessions Angelina Gushington.
+
+It seems rather hud raying, but the principal reason for disbelieving in the theory that Mr. Sharp is Fiona Macleod is the same as for disbelieving that Bacon was Shakespeare: namely, that in their own persons both Mr. Sharp and Bacon give so few signs that they possess the power supposed to come to them with the pseudonym. Mr. Sharp has had many opportunities of signing with his genuine autograph works of weird and mystical and original imagination; but he has not, to our knowledge, taken them. Why is there, for example, so little of the Fiona Macleod quality in his slender volume of Maeterlinckian stories? We cannot believe in such heroic and persistent repression of one's best self for the sake of lending mystery to a pseudonym. Human nature is not like that.
+
+...
+
 ---
+
 
 https://archive.org/details/sim_academy-and-literature_1899-05-20_56_1411/page/552/mode/2up?q=%22who+is+fiona+macleod%22
 The Academy  1899-05-20: Vol 56 Iss 1411
@@ -668,6 +701,53 @@ letters on the pseudonym
 
 https://archive.org/details/williamsharpfion02shar/page/18/mode/2up?q=pseudonym
 
+
+---
+
+
+
+---
+The Nation  1911-02-16: Vol 92 Iss 2381
+p166-167
+Literature
+FIONA MACLEOD.
+The Writings of "Fiona Macleod." Arranged by Mrs. William Sharp. New York: Duffield & Co. Seven volumes, $1.50 net each.
+
+Sharp (Fiona Macleod): A Memoir. Compiled by his wife, Elizabeth Sharp. Duffield @ Co. $3.75 net. The writer who used the name "Fiona
+Macleod" has been brought into prominence by the publication of a revised and collected edition of his works and by an admirable biography (though a little too long) from the hand of his wife. For twelve years, until his death in 1905 permitted the revelation, his identity with the mysterious writer of the Highlands was kept secret by the small circle to whom it was known, When the secret o* Fiona's existence was revealed, there rose in its place the question of Mr. Sharp's double activity—for all through this time he had purposely kept up his critical writing under his own name —and certain amateur psychologists began to spread the rumor of a mysterious dual personality in the man, as if he had really possessed two souls, one masculine and Saxon, the other feminine and Celtic. It is evident that Mr. Sharp liked to puzzle himself and those who were in the secret by posing as one under an extraordinary inspiration. As a matter of fact, there is nothing at all supernatural or even very strange in the matter. From a child the wistful, mystery-mongering vein that runs through the books of Fiona Macleod was marked in William Sharp, and if most of the writings before he assumed the Gaelic name show the ordinary qualities of Anglo-Saxon London, that was simply because he wrote for the market what the market demanded.
+
+William Sharp was born at Paisley in 1855, and was in childhood very delicate. By his Highland nurse, Barbara, he was initiated into the vague super stitions of the Gael, to which he added the dreams and adventures of his own brooding, half-nurtured soul. Mrs. Sharp tells of having heard him speak often of a gentle white Lady of the Woods, who appeared to him in childhood by a well in Argyll, and threw upon him "blueness out of the flowers, as one might lift foam out of a pool." In later years, vacations passed in the western Highlands and on the Hebridean islands reinforced his imagination with the nature myths that still haunted those distant and then almost unvisited places. In particular, he came to love the lonely island of Iona, with its long-remembered traitions of the great Columba, who had come thither from Ireland, bringing to the new land the Gospel of Christ, not as an enemy, but as a friend of the pagan gods of nature. On that island, he became acquainted with an old fisherman, Seumas Macleod, who took the child of seven on his knee one day and made him pray to "Her," the spirit-woman at the heart of the world, and who, as he wrote long afterwards in a letter, "was indeed the father of Fiona." And elsewhere he tells of coming once as a boy of sixteen upon the old man at sunrise standing with his face to the sea and with his bonnet removed from his long white locks; and when the boy spoke to Seumas (seeing he was not "at his prayers"), the old man replied simply, In Gaelic of course: "Every morning like this, I take my hat off to the beauty of the world."
+
+When Sharp was twelve years old his parents moved to Glasgow, and the boy was sent to the academy in that city. In 1871 he was enrolled as a student at the Glasgow University, where he remained for two years, leaving withjout taking a degree. He thereupon entered the office of a firm of Glasgow lawyers. Here for two years he is said to have allowed himself only four out of the twenty-four hours for sleep, wasting his strength, not on the law it may be supposed, but on more attractive studies. His health, always precarious, broke under the strain, and he was ship- /ped off to Australia. The new world did not satisfy him, and he was soon back in Scotland, where he spent a year of idleness. In 1878 he came to London and took a place in a bank; but literature still lured him on, and after a while he threw himself on his pen for support and gradually through many hardships and moments of despair won for himself an acknowledged and profitable hold on the publishers. Naturally, as a servant of the press he wrote what the readers of magazines and popular biographies desired, hiding close in his heart the wayward mysticism and the grandiose philosophy he had learned from nature. Yet those deeper springs of inspiration were never forgotten, and in his intimate letters we hear continually of great projected epics and other poems that were to solve all the riddles of life. From the specimens of these suppressed masterpieces given by Mrs. Sharp in the biography, we conjecture that their loss to the world is not deplorable.
+
+By the year 1892, when Sharp was thirty-seven, he was in a position to command his own time to a certain extent, and with his wife he settled down for a while in a little cottage near Rudgwick, Sussex. Here came the inspiration of Fiona Macleod.
+
+It is not strange that Sharp should have taken a woman's name. He had for one thing the inspiration of a lately found friend in Rome, of whom we get only tantalizing glimpses in the biography and in his dedications—the woman who stood to him as a personification of the Anima Celtica, the Celtic Soul still brooding, as he describes it, in the "Land of Promise, whose borders shine with the loveliness of all forfeited, or lost, or banished dreams and realities of Beauty." Moreover, the feminine element, the Ewig-Weibliche, has always predominated in the ideals of the romantic Schwéirmerei, and it was natural that this latest incarnation of the old hopes and dreams should have appeared in the disguise of a woman. The particular name is easily accounted for. "Macleod" |he took from his old friend and mentor of Iona, and "Fiona" is the nearest highjland appellation he could find to the 'name of the island which meant so much to his theory of inspiration.
+The earliest book to appear under the new signature was "Pharais," published in 1894; "The Mountain Lovers," which with "Pharais" forms the first volume of the collected works, came out in 1896, and thereafter, for the ten remaining years of Sharp's life, there was a succession of stories, sketches, essays, poems, and dramas, making in the complete edition seven fair-sized volumes. "Pharais" caught the attention of the discerning at once, and the interest in the unknown writer never flagged. She became a cult with some, and with others a recurring escape from the world and from thought.
+
+With advancing years, the restlessness that had been characteristic of Sharp's temperament from childhood grew to what can only be described as morbid excess. The first glimpse we have of him as a baby is in the guise of a run-away storming the make-believe castles of fairyland, and, at the end, until held in the leash by ill-health, we see him drifting, or rather running, from place to place, seeking excitement from the sea or peace from the hills, always in a feverish haste to overtake some vanishing, unimaginable goal of the heart's desire. He died in Sicily in 1905, beloved and regretted by those who knew him.
+
+Mr. Sharp apparently valued most the later writings, in which the human motives disappear in a haze of disorganized symbolism, whereas the less enthusiastic reader is likely to find his interest centring, with some minor exceptions, in the tales of "Pharais" and "The Mountain Lovers." There the discipline Sharp had acquired from his long apprenticeship to the press kept him within the bounds of reason, while the new freedom and Celtic inspiration added a note that is not common in English fiction. There is more of passion in "The Mountain Lovers"; and the scenes about the lonely pool, the terrible unrelenting love and madness of the blind old man, the elfish fear and wisdom of the dwarf, the yearning of the girl Oona that a soul may be born in her wild, woodland worshipper—the whole tissue of emotions in this solitude haunted by the magic influence of forgotten gods is almost unbearably dark and tragic. But on the whole, "Pharais," with its calmer beauty and subtler pathos, is the finer work; Fiona Macleod never equalled that first lovely creation.
+
+Having found his public in these two tales, Mr. Sharp, one may say, a little abused their good nature. A few of the shorter stories have a weird beauty not without some relation to human experience, and some of the nature-essays written at the very end of his life and
+brought together under the title of.
+
+"Where the Forest Murmurs" display an intimate union of symbolism and real observation such as many in these later days have attempted but few have) special character of the Celts, and they achieved. If he had written always in symbolize. Many of the old Gaelic superstitions and legends he has attempted to revivify strike one in his rendering as merely meaningless day-dreams. Though he never united himself unreservedly with the Irish Celtic movement and deprecated its too common hostility to everything Saxon, yet in his inability to distinguish between an idea or a clear emotion and the flutterings of a sick fancy he fell too often into vaporous nonsense that makes the loosest imaginings of "A. E." or Mr. Yeats seem solid and compact of reason. Possibly he deceived himself into thinking that he was dealing with real ideas and genuine emotions; in truth he was playing with an empty convention. Take a stanza of his poems—almost any stanza will do—
+
+Oh, fair immaculate rose of the world, rose of my dream, my Rose!  
+Beyond the ultimate gates of dream I have heard thy mystical call:  
+It is where the rainbow of hope suspends and the river of rapture flows—  
+And the cool sweet dews from the wells of peace for ever fall.
+
+Now it is possible that these phrases— "rose of my dream," "ultimate gates of dream," "rainbow of hope," "river of rapture," "wells of peace"—it is quite possible that these phrases when first struck out corresponded to some yearning for an ideal clearly conceived and strongly desired, but as they are used and endlessly reiterated by Mr. Sharp, and by others of his school, they become a mere poetic convention emptier of content than the clichés of the pseudo-classical writers. They require no effort on the part of the poet and mean nothing to the reader. One remembers the Grand Academy of Lagado which was once visited by a certain Mr. Gulliver, and the pleasant device of the academicians to produce literature without waste of brain. Something like that might seem to be the method employed in turning out a good deal of this late romantic prose and verse. All you need do is to have a frame of shifting blocks on which are inscribed severally the conventional phrases, and then by the turn of a crank to throw them into new combinations, and the thing is done.
+
+In fact, there is at the base of all this literature, a double misunderstanding. Mr. Sharp and those who were working with him believed that they were renewing the old Celtic idealism and that, in this revival, there was the prophecy of a great spiritual and imaginative renovation for the world; whereas, in fact, their inspiration came essentially from a source that had little to do with any that vein he would have accomplished 'are the fag end of a movement, rather something memorable and large in Engthan the forerunners of anything. Somelish letters; but too often the symbolism runs quite away with him and leaves one vaguely wondering whether
+thing of the old Celtic imagination may 'have been caught up by these young en-
+thusiasts. The mere use of the myths
+of their emotional
+167 content, and the new and the old schools of the Celt are bound to have some traits in common— the sense of fateful brooding, the feeling of dark and bright powers concealed in nature and working mysteriously upon human destiny, the conception of passions as forces that have a strange life in themselves and come into the hearts of men as.if they were independent creatures, the sense of unearthly yet very real beauty, the haunting belief in a supernatural world that lies now far away in the unattainabie West, and now buried beneath our feet or just trembling into vision, the mixture of yearning and fear that is felt toward that world as a source of incalculable joys and dark forgetful madness to those who break in upon its secret reserve. But withal the essential spirit of the sagas is quite different from that of these imitators. The light in the old tales is hard and sharp and brilliant, whereas our new writers love to merge the outlines of nature in an all-obliterating monotonous gray. The heroes in the sagas are men and women that throb with insatiable life, and the emotions of these men, whatever mysticism may envelop their source, are the stark, mortal passions of love and greed and hatred and revenge and lamentable grief.
+
+The real source of this Celtic revival is in the romantic revolt of the eighteenth century—in Blake and Chatterton, and that whole movement—to which must be added the influences of Maeterlinck and the other modern pseudo-mystics of the Continent. It does not bear on its face so much the light of dawn as the twilight that pre cedes the night. It is the fading end of a great inspiration, not the promise of a new world. It is often obscure and meaningless, and sometimes silly; but at its best it carries a gleam of haunted and pathetic loveliness.
 
 
 ---

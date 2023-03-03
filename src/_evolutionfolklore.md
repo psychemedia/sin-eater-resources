@@ -51,3 +51,46 @@ As one of the Honorary Secretaries of the Society I may, perhaps, be allowed to 
 One of them, viz. that relating to the desirability of enlisting the help of country editors, I hope to carry into effect without delay, by printing an extract from the letter itself, together with such particulars from the Prospectus of the Society as shall give an idea of the aims of the Folk-Lore Society, and make, I trust, a not unsuccessful appeal. This I propose to send to the editor of every good country newspaper.
 J. J. Foster,
 Hon. Sec.
+
+
+
+---
+
+https://archive.org/details/ahandbookweathe00swaigoog
+A handbook of weather folk-lore; being a collection of proverbial sayings in various languages relating to the weather
+by Swainson, Charles
+Publication date 1873
+
+https://archive.org/details/in.ernet.dli.2015.529310
+Folk Memory Or Continuity Of British Archaeology
+by Johnson, Walter
+Publication date 1908
+
+
+https://archive.org/details/handbookfolklor01gommgoog
+The handbook of folklore
+by Gommer, George Laurence, Sir, 1853- [from old catalog]
+Publication date 1890
+
+https://archive.org/details/cu31924009657283
+The handbook of folklore
+by Burne, Charlotte Sophia
+Publication date 1914
+
+https://archive.org/details/folklorerelicsof00gommuoft
+Folk-lore relics of early village life
+by Gomme, George Laurence, 1853-1916
+Publication date 1883
+
+https://archive.org/details/chapbooksfolklor03gommuoft
+Chap-books and folk-lore tracts. Ed. by G.L. Gomme and H.B. Wheatley. First series
+by Gomme, George Laurence, 1853-1916; Villon Society, London; Wheatley, Henry Benjamin, 1838-1917
+1885
+
+
+https://archive.org/details/folkloremoderng00geldgoog/mode/
+Folk-lore of modern Greece: the tales of the people
+by Edmund Martin Geldart
+1884
+
+esp Golden Casket, nice frame conceit
