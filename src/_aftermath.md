@@ -105,11 +105,10 @@ CURCH_curious_church_andrews.md
 FLWWA_folklore_west_midwales_davies.md
 
 
-
-
 http://themutineer.org/the-sin-eaters/
-TH: lots of clour in this, also:
-Rather surprisingly, the practice of sin-eating seems to have persisted into relatively modern times, only dying out in the nineteenth century. In 1825, a Professor Evans of the Presbyterian College, Carmarthen, Wales, described a sin-eater he had met as follows: "Abhorred by the superstitious villagers as a thing unclean, the sin-eater cut himself off from all social intercourse with his fellow creatures by reason of the life he had chosen; he lived as a rule in a remote place by himself, and those who chanced to meet him avoided him as they would a leper. This unfortunate was held to be the associate of evil spirits, and given to witchcraft, incantations and unholy practices; only when a death took place did they seek him out, and when his purpose was accomplished they burned the wooden bowl and platter from which he had eaten the food handed across, or placed on the corpse for his consumption."
+TH: lots of colour in this, also:
+
+> Rather surprisingly, the practice of sin-eating seems to have persisted into relatively modern times, only dying out in the nineteenth century. In 1825, a Professor Evans of the Presbyterian College, Carmarthen, Wales, described a sin-eater he had met as follows: "Abhorred by the superstitious villagers as a thing unclean, the sin-eater cut himself off from all social intercourse with his fellow creatures by reason of the life he had chosen; he lived as a rule in a remote place by himself, and those who chanced to meet him avoided him as they would a leper. This unfortunate was held to be the associate of evil spirits, and given to witchcraft, incantations and unholy practices; only when a death took place did they seek him out, and when his purpose was accomplished they burned the wooden bowl and platter from which he had eaten the food handed across, or placed on the corpse for his consumption."
 
 Cites https://www.weirdhistorian.com/the-funeral-rite-few-could-stomach/
 
