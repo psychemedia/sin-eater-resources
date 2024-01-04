@@ -1,11 +1,11 @@
-https://journals.library.wales/view/2016648/2017140/7#
+https://journals.library.wales/view/2016648/2017140/7#?xywh=-56%2C168%2C2016%2C1660
 
 Carmarthenshire notes (antiquarian, topographical, and curious)
 
 Vol I Part 3
 October 1899
 
-p??
+p100
 
 THE SIN-EATER IN WALES.
 
