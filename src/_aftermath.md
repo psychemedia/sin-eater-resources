@@ -1,6 +1,77 @@
 # The Twentieth Century Sin-Eater
 
-In the years that followed the second controversy, references to the sin-eater started to fade away. An excpetion can be found in the pages of "Precious Bane", a novel by Mary Webb that appeared in 1924.
+In the years that followed the second controversy, references to the sin-eater typically started to fade away, except as the occasional historical note or curiosity. As the new century began, we see one such echo of the "legend" of the sin-eater appear, only to be challenged by return of post.
+
+```{admonition} "Sin-Eaters", Echo (London), September, 1900
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0004596/19000908/021/0002
+*Echo (London)*
+Saturday 08 September 1900
+p2
+
+"SIN-EATERS."
+
+At funerals in some parts of Wales there is a curious custom. A poor person is hired to perform the duties of sin-eater. Bread and beer are passed to the man over the corpse, or laid on it; these he consumes, and by the process he is supposed to take on him all the sins of the deceased and free the person from walking after death. When a sin-eater is not employed, glasses of wine and funeral biscuits are given to each bearer across the coffin. The people believe that every drop of wine drunk at a funeral is a sin committed by the deceased, but that by drinking the wine the soul of the dead is released from the burden of the sin.
+
+```
+
+```{admonition} "A gross libel", September, 1900
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004596/19000911/011/0001
+*Echo (London)*
+Tuesday 11 September 1900
+p1
+
+TO THE EDITOR OF "THE ECHO." The Sin-Eater in Wales,
+
+Sir,—You print in Saturday's " Echo" a paragraph, entitled "Sin Eaters." I believe this to be a gross libel against the intelligence of the Welsh people. If the Welsh are living in Paganism such a practice might possibly exist but knowing by experience the high standard of life and religious practice of the Welsh in all parts of Wales, both in towns and in the remoter districts, I challenge in toto the assertion that at Welsh funerals any person ever acts the part if a sin eater as described in your paragraph. JOHN SAMUEL. Ealing.
+
+```
+
+That said, the "fakelore" around the story did continue to evolve, as the previous example shows with its mention that *"[t]he people believe that every drop of wine drunk at a funeral is a sin committed by the deceased, but that by drinking the wine the soul of the dead is released from the burden of the sin"*.
+
+A few short years later, in 1904, we also see a report claiming that Professor Silvan Evans had actually seen a sin-eater whan he was a child:
+
+```{admonition} An encounter with the sin-eater as a child?
+:class: dropdown
+*Welsh Gazette and West Wales Advertiser* — [3rd March 1904, p8](https://newspapers.library.wales/view/3865588/3865596/88/):
+
+The Sin eater is the title of the book just finished by Allen Raine, and now ready for publication in the autumn. It deals with an old Welsh custom, long since extinct The office or function of the Sin eater was a real one, and so late as the year 1825, there was living near Llanybyther, an aged man, known as the Sin eater. The late Professor Evans who died a few months ago, had seen him when a lad, and could remember hearing people talk of the custom, which had been one of ordinary occurrence in their parents' days whenever a death took place.
+```
+
+The sin-eater story  was also touched upon in a series of lectures given in the 1907 MacCullum Lectures presented by the Rev. Dr Henderson on Celtic funeral and death rites:
+
+```{admonition} *Celtic Funeral Ritual and Death Rites*, March, 1907
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000462/19070323/041/0003
+Oban Times and Argyllshire Advertiser - Saturday 23 March 1907
+THE MACCALLUM LECTURES. CELTIC FUNERAL RITUAL AND DEATH RITES. The fourth leture of the public course on " Survivals in Belief and Rituals among the Celts " was delivered on Saturday by Rev. Dr. George Henderson in the Greek Class-room of Glasgow University. It dealt with the funeral ritual and rites pertaining to death and the dead. It was necessary at this stage, said Dr. Henderson, to bear in mind the noble words of Goethe that only a part of what is important is useful ; in order to possess a thing completely, to have full mastery over it, one must study it for its own sake. The lecturer pointed out that the explanation in the previous lecture of a cortain moment in folk belief whereby birth was due, not to sex, but to the passing of a " spirit part " from the parent was confirmed by the Punjab practice as to the first born. If a son, his father is born again in him, so that the father is supposed to die at his birth; while certain sections the father's funeral rites were performed four months ere the child was born. An old rite of milk baptism and the simulating of the dead as living was touched upon. Discussing the  
+RITUAL OF THE DEAD  
+among the Celts, Dr. Henderson asked whether several theories of the soul might not be inferred from the various practices and old customs known to have existed. Reserving customs poin(-iﬁ 1o the Elysian theory of the soul, as well as such as might point to a possible sidereal theory for another occasion, he specified rites which were explicable on the earthly theory. Some of these might not be Celtic in origin. Yet the inconsistencies of folk belief were notorious, in no province more so than that in which the folk-mind attained to the finding of the soul. The earthly theory was connected, chiefly but not exclusively perhaps, with interment. Old death dances and curious practices at lyke wakes were discussed ; the "tathaich " or " coming back " of the spirit was instanced ; also Faire Chlaidh or churchyard sentry incumbent on the spirit of the last buried. The liturgy of lustration, the setting aside of water for the dead, was compared with similar customs in Greece and elsewhere. Beliefs connected with the shroud were spoken of. The coronach, the "druidsi," the " Coscais," the Highland "Aog," the Breton "Ankou," the “Sin-Eater” of Wales, the Highland custom of putting salt on the corpse, a rite widely diffused elsewhere—all these were practices which pointed to the lively belief that  
+LIFE WAS NOT EXTINGUISHED  
+with the mysterious corporeal change of death. A thought connection of the activity of folk-spirit was here discernible; the dust of antique time lay thick round these rites. If some of these were explicable on the earthly theory of the soul, they included the continuance of life as a protracted duration; on one view of the water left apart for the dead such continuance was at one time felt to be dependent on earthly support. There was likewiso an inner content which in symbol pointed to the idea of continuous and active spirit. The virtues of the dead were transmissible to the survivors through sacrament.
+```
+
+```{admonition} *Henderson's Celtic Lectures*, March, 1907
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000462/19070330/079/0003
+Oban Times and Argyllshire Advertiser - Saturday 30 March 1907
+REV. DR. HENDERSON'S CELTIC LECTURES. Rev. Dr. Henderson, in the fifth of his present course of Celtic lectures, delivered in the Greek Class-room at Glasgow University, on Saturday afternoon, continued the discussion of the death and funeral rites among the Celts. He pointed out in regard to the custom of sineating, that those practices were not confined to the Highlands. They existed in ancient Greece, and at the present day in Macedonia, of old in the south of Scotland, and especially in Wales and parts of England and Ireland. At the present day the custom did not exist in the Highlands, but the survivals still existed there. He read a series of extracts from a work on “ Remains of Gentilisme and Judaisme,” published by Aubrey, an English writer, who lived in the seventeenth century. In that work the curious custom of the sin-eater, formerly observed in Wales, was referred to in speaking of offertories at funerals. At a meeting of the Cambrian Archaological Association at Ludlow in 1852, Llandebie, near Swansea, was specified as a place where  
+THE CUSTOM HAD SURVIVED  
+to within a recent period. It was stated that when a person died the friends sent for the sin-eater of the district, who, on his arrival, placed a plate of salt on the breast of the defunct, and upon thesalt a picce of bread. He then muttered an incantation over the bread, which he finally ate, thereby eating up all the sins of the deceased. This done, he received a feo of half a crown, and vanished as quickly as possible from the public gaze ; for, as it was believed that he had really appropriated to his own use and behoof the sins of all those over whom ho performed the ceremony, he was utterly detested in the neighbourhood, regarded as a mere Pariah—as one irredeemably lost. The custom as practised among the Lowland Scots was known as dishaloof. Dr. Henderson cited instances of the custom as once practised in Yorkshire, in Bavaria, and in Turkestan. One might think, he said, that such a rite as of sin-eating would soon pass away. But a case had been observed in England as recently as 1893.
+```
+
+Dr. Henderson concluded his lecture by briefly referring to the ritual of sacrifice, and stated that in the next lecture he would give some instances of propitiation.
+
+```{admonition} *The Sin-Eater at Celtic Funerals*, March, 1907
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/19070325/118/0003
+Edinburgh Evening News - Monday 25 March 1907
+p5
+THE "SIN EATER" AT CELTIC FUNERALS. In his fifth Celtic lecture at Glasgow University on Saturday, the Rev. Dr Henderson continued the discussion of the death and funeral rites of the Celts. He mentioned the curious custom of the "sin-eater," traces of which, though not the rite itself, lingered in the Highlands. At a meeting of the Cambrian Archaeological Association at Ludlow in 1852, Llandebie, near Swansea, was specified as a place where the custom had survived to within a recent period. When a person died the friends sent for the sin-eater of the district, who, on his arrival, placed a plate of salt on the breast of the defunct, and upon the salt a piece of bread. He then muttered an incantation over the bread which he finally ate, thereby eating up all the sins of the deceased. This done, he received a fee of half a crown, and vanished as quickly as possible from the general gaze; for as it was believed that he had really appropriated to his own use and behoof the sins of all those over whom he performed the ceremony, he was utterly detested in the neighbourhood, regarded as a mere Pariah—as one irredeemably lost. The custom as practised among the Lowland Scots was known as dishaloof. Dr Henderson cited instances of the custom as once practised in Yorkshire, in Bavaria, and in Turkestan. One might think, he said, that such a rite as that of sin-eating would soon pass away. But a case had been observed in England as recently as 1893.
+```
+
+Several years later, the sin-eater then made a re-appearance in the pages of "Precious Bane", a novel by Mary Webb that appeared in 1924.
 
 ```{index} single: Webb, Mary ; Precious Bane, 1924
 ```
@@ -63,7 +134,7 @@ We shall consider in its proper order the relations between death and the funera
 These dances are probably a survival of religious rites, performed the world over, in honour of a human sacrifice offered to the great god Bel. " Cannibalism," says Gamier, " appears to have been initiated by Cronus (i.e., Saturn or Cush), Cronus being the originator of human sacrifices " ; he quotes R. G. Hislop, who states that the word cannibal — our term for the eater of human flesh — is probably derived from Cahna Bal, i.e., the Priest of Bel. The eating of human flesh is still part of the religious rites of many of the Hamitic races of Africa. `[Col. T. Gamier, "Worship of the Dead." ]`
 ```
 
-## Mentions in the 1930s 
+## Mentions in the 1930s
 
 In the mid-1930s, we also find a mention of a sin-eater character in the *Shields Daily News*.
 
@@ -137,7 +208,5 @@ Atwood, Margaret (1982). Weaver, Robert (ed.). Small Wonders : New stories by tw
 
 Margaret Atwood - sin eater short story in https://en.wikipedia.org/wiki/Bluebeard%27s_Egg The Sin Eater
 Atwood, Margaret
-Bluebeard's Egg is a collection of short stories by Canadian author Margaret Atwood, first published in 1983. The book's first American edition was released in 1986 under the name Bluebeard's Egg and other stories. The 1986 American edition didnlt include the tale, but it was reprinted that year in The Irish Times (1921-); Aug 15, 1986; also appeared in 1992 edition of Dancing Girls & Other Stories  (first published without Sin Eater, in 1977)
+Bluebeard's Egg is a collection of short stories by Canadian author Margaret Atwood, first published in 1983. The book's first American edition was released in 1986 under the name Bluebeard's Egg and other stories. The 1986 American edition didn't include the tale, but it was reprinted that year in The Irish Times (1921-); Aug 15, 1986; also appeared in 1992 edition of Dancing Girls & Other Stories  (first published without the *Sin Eater* tale, in 1977)
 ProQuest Historical Newspapers: The Irish
-
-
