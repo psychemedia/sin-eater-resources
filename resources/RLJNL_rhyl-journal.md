@@ -15,7 +15,7 @@ Rhyl Journal
 14th January 1905
 p1
 
-SANDOEYS MODERN LIBRARY, 2a HIGH STREET, EH71. Books added this week The Brethren by Rider Haggard "Queen's Quair" by Maurice Hewlett "Gallowglas" by McCarthy Lady of Loyalty House by McCarthy The Prospector" Ralph Connor Loves of Miss Anne by S R. Crockett The Sin Eater," Allen Raine At the Moorings Rosa N. Carey I New Books added Weekly. Terms—2d. per volume. 785
+SANDOEYS MODERN LIBRARY, 2a HIGH STREET, EH71. Books added this week The Brethren by Rider Haggard "Queen's Quair" by Maurice Hewlett "Gallowglas" by McCarthy Lady of Loyalty House by McCarthy The Prospector" Ralph Connor Loves of Miss Anne by S R. Crockett , "The Sin Eater," Allen Raine At the Moorings Rosa N. Carey I New Books added Weekly. Terms—2d. per volume. 785
  
 
 ---
