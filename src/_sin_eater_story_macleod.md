@@ -5,7 +5,27 @@ In 1895, a short story collection set in the islands and Highlands of Scotland â
 Fiona Macleod's first novel, *Pharais*, appeared in 1894, and with two works published earlier in 1895, *Mountain Lovers*, another novel, and
 *The Laughter of Peterkin: A retelling of old tales of the Celtic Wonderworld*, she had started to establish herself as a doyenne of the Scottish Celtic revival, as reviews of the *Sin Eater* suggest.
 
-```{admonition} "The Sin-Eater and Other Tales", Review, January 1896
+Various reviews of Macloed's *Sin Eater* were to appear, such as this one in *Y Cymro*, [March 25th, 1997, p6](https://newspapers.library.wales/view/3452525/3452531/28/)
+
+> By the Way.
+>
+> ...
+>
+> Did the ancient custom of sin-eating obtain in Wales within living memory ? It was a most uncanny rite. A piece of bread, sprinkled over with salt, was placed on the bared breast of the dead person the sin-eater, who was paid for the job, ate the bread, washing it down with a mug of beer; the sins of the dead were thus transferred into the eater, who was consequently looked upon with a feeling of loathing and horror. For was he not selling his soul for a price ?
+>
+> Miss Fiona Macleod, in her *Sin-Eater and Other Tales*, recently published by Patrick Geddes, describes the custom as it prevailed in the Highlands of Scotland. The scale of pay seems to have been higher there than in Wales. Perhaps the pay was regulated by a kind of sliding scale, and varied according to the amount of sin to be eaten in each case. At all events, the Welsh sin-eater generally got only a groat, whereas the Gaelic-eater received sometimes as mnch as five shillings. That speaks highly either of the better moral character of our ancestors, or the more developed commercial acuteness of the Scotch Celts.
+>
+> If the reader has not made the acquaintance of Fiona Macleod's Gaelic stories, let him hasten to do so. There are three of themâ€” "The Pharais," "The Mountain Lovers," and "The Sin Eater.' He will find them intensely fascinating.
+>
+> Item, showing affinity of thought between Cymro and Gael: the Cymro used to call the east wind "gwynt traed y meirw" (*Cymru Fu*, p. 409); the Gael, "the wind that blows on the feet of the dead."
+>
+> To return to our subject, if anybody can give information about sin eating in Wales, particularly as regards the time when the custom ceased to exist, he will be conferring a favour on your readers, myself included, and providing you, sir, with very acceptable "copy." I may say that the leading recent authority on the subject is Mr. Sidney Hartland, though his services, like the bread in the custom, should be taken with a pinch of salt. Older authorities are Aubrey and others quoted in Hone's "Year Book."
+>
+> ...
+
+Other reviews were also published:
+
+```{admonition} "The Sin-Eater and Other Tales", Review in *The Academy*, January 1896
 :class: seealso dropdown
 
 *The following review appeared in* The Academy *[vol. 49, iss. 1238, p72-3](https://archive.org/details/sim_academy-and-literature_1896-01-25_49_1238/page/72/mode/2up?q=macleod) date January 25th, 1896.*
