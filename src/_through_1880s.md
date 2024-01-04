@@ -15,7 +15,7 @@ kernelspec:
 
 Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
 
-Of these full length works, two publications perhaps stand out in particular: Paxton Hood's *Christmas Evans*, which added nothing new but did garner some attention, as well as provoking a brief exchange in the *Chirstian World* periodical, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
+Of these full length works, two publications perhaps stand out in particular: Paxton Hood's *Christmas Evans*, which added nothing new but did garner some attention, as well as provoking a brief exchange in the *Christian World* periodical, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
 
 ## Around and About
 
@@ -521,7 +521,7 @@ He closes with a request that Paxton Hood does the honourable thing and retract 
 
 > I am quite sure Mr. Hood will be as sorry as any one to find that he has been the means of pinning this unheard of "sin-eater on to us, and thus injuring our fair fame in the sight of the world. In future editions of " Christmae Evans " (or may be sooner) I trust Mr. Hood will make the *amende honorable* to which we are entitled.— I am, &c., T. EYNON DAVIES, Congregational Minister. Cwmamman, Feb. 4, 1882.
 
-At the time, it seems as if Paxton Hood was in the United States of America, as his response in the *Chirstian World* of [Thursday 27 April 1882, p7](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820427/042/0007) :
+At the time, it seems as if Paxton Hood was in the United States of America, as his response in the *Christian World* of [Thursday 27 April 1882, p7](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820427/042/0007) :
 
 > Letter from the Rev Paxton Hood
 >
