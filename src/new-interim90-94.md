@@ -1,22 +1,6 @@
 
 
 
-
-
-
-https://newspapers.library.wales/view/3812076/3812079/14/
-
-The Pontypridd Chronicle and Workman's News
-
-1892-06-03
-
-p3
-
-> CHURCH FOLK LORE.
->
-> Writing in the *Newbury House Magazine* anent "Church Folk Lore," the Rev. J. E. Vaux records a very remarkable custom which prevailed up to, say, a couple of hundred years ago. There was in one of the villages adjoining Wales an old man who was called "The Sin Eater." His office was, for a trifling consideration, to pawn (so to speak) his own soul for the ease and rest of a soul departed. When a person died, notice was given to him, and he at once went to the house of the deceased. A cricket— i.e., a stool— was brought, and he sat down in front of the door. A groat, a crust of bread, and a full bowl of ale were given to him, after the consumption of which he rose and pronounced the "ease and rest of the soul departed, for which he would pawn his own soul." It was believed that this ceremony would free the departed soul from "walking" thenceforth. It is probable that this strange custom was originally connected some way with the ceremony of the Scape Goat under the Law (Lev. xvi. 21). This institution of the "Sin Eater" was in later times mainly confined to the county of Hereford; but there is reason to believe that it once prevailed generally in Wales.
-
-
 ---
 
 
@@ -63,39 +47,11 @@ p??
 
  ---
 
-
-https://newspapers.library.wales/view/3245581/3245583/40/
-
-Evening Express
-
-1894-07-04
-
-p2
-
-> Welsh Wit and Wisdom
->
-> ...
->
-> In his interesting work on Church folk- lore the Rev. J. Edward Vaux says that one of the most striking (ustoms m connection with funerals is a custom which continued till the seventeenth century. "There was in one of the villages adjoining the Welsh border an old man called the 'Sin Eater,' and his office was, for a trifling consideration, to pawn his own soul for the ease and rest of the soul departed. When a person died notice was given to him, and he at once went to the house of the deceased. A cucket —that is, a stool- was brought, and he sat down in front of the door. A groat, a crust of bread, and a full bowl of ale were given to him, after which he rose and pronounced the ease and rest of the soul departed, for which he would pawn his own soul. It was believed that this ceremony would free the departed soul from "walking thenceforth."
->
 > ...
 
 ---
 
 
-https://newspapers.library.wales/view/4330397/4330401/50/
-
-The Western Mail
-
-1894-09-21
-
-p4
-
-> Wales Day By Day
->
-> ...
->
-> Aubrey, writing about the middle of ths seventeenth century, remarks that, "in the strictest time of Presbyterian government, one very singular custom was prevalent in many parts of rural England and Wales: — "In Shropshire... when a person died, there was notice given to an old 'sire' (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, where some of the family furnished him with a cricket or stool, on which he sat down facing the door. Then they gave him a groat, which he put in his pocket, a crust of bread, which he ate, and a bowl of ale, which he drank off at one draught. After this he got up from the cricket, and pronounced with a composed gesture "the peace and rest of the soul departed, for which he would pawn his own soul". A similar scene is also recorded at Ross, about 1640, when the local "sin-eater," "a long, lean, lamentable poor rascal," came, "when the corpse was taken out of the house and laid upon a bier ... and received a loaf of bread, and a mazard bowl of maple fuil of beer (which he was to drink up), and sixpence in money, in consideration of which he took upon him, 'ipso facto,' all the sins of the defunct, and freed him or her from walking after they woere dead." It is noticeable (remarks a writer in the "Globe") that the "sin-eater's" fee was 2d. dearer in Herefordshire than in Shropshire, but it is not recorded whether this arose from the fact that people were wickeder in the former than the latter county.
 
 ---
 
