@@ -114,8 +114,7 @@ Rather surprisingly, the practice of sin-eating seems to have persisted into rel
 Cites https://www.weirdhistorian.com/the-funeral-rite-few-could-stomach/
 
 
-
-```{admonition}
+```{admonition} Funeral Customs, Bertam S. Puckle, 1926
 
 https://archive.org/details/in.ernet.dli.2015.238346/page/n11/mode/2up
 Funeral Customs
