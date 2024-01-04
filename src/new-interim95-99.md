@@ -11,9 +11,7 @@ Y Cymro
 
 p6
 
-> ... Fiona Macleod depicts the genuine Celts of the Highlands. She has published three volumes, Pha
->
-> rais," "The Mountain Lover," and the Sin-Eater." Terrible books are they to read. Thev make one's hair stand on end. To thousands of readers they have revealed depths of Celtic character and temperament undreamt of. ...
+> ... Fiona Macleod depicts the genuine Celts of the Highlands. She has published three volumes, Pharais," "The Mountain Lover," and the Sin-Eater." Terrible books are they to read. They make one's hair stand on end. To thousands of readers they have revealed depths of Celtic character and temperament undreamt of. ...
 
 ---
 
@@ -63,32 +61,6 @@ p481
 
 N.W.T. is presumably N. W. Thomas?
 
----
-
-
-https://newspapers.library.wales/view/3452525/3452531/28/
-
-Y Cymro
-
-1897-03-25
-
-p6
-
-> By the Way.
->
-> ...
->
-> Did the ancient custom of sin-eating obtain in Wales within living memory ? It was a most uncanny rite. A piece of bread, sprinkled over with salt, was placed on the bared breast of the dead person the sin-eater, who was paid for the job, ate the bread, washing it down with a mug of beer; the sins of the dead were thus transferred into the eater, who was consequently looked upon with a feeling of loathing and horror. For was he not selling his soul for a price ?
->
-> Miss Fiona Macleod, in her *Sin-Eater and Other Tales*, recently published by Patrick Geddes, describes the custom as it prevailed in the Highlands of Scotland. The scale of pay seems to have been higher there than in Wales. Perhaps the pay was regulated by a kind of sliding scale, and varied according to the amount of sin to be eaten in each case. At all events, the Welsh sin-eater generally got only a groat, whereas the Gaelic-eater received sometimes as mnch as five shillings. That speaks highly either of the better moral character of our ancestors, or the more developed commercial acuteness of the Scotch Celts.
->
-> If the reader has not made the acquaintance of Fiona Macleod's Gaelic stories, let him hasten to do so. There are three of them— "The Pharais," "The Mountain Lovers," and "The Sin Eater.' He will find them intensely fascinating.
->
-> Item, showing affinity of thought between Cymro and Gael: the Cymro used to call the east wind "gwynt traed y meirw" (*Cymru Fu*, p. 409); the Gael, "the wind that blows on the feet of the dead."
->
-> To return to our subject, if anybody can give information about sin eating in Wales, particularly as regards the time when the custom ceased to exist, he will be conferring a favour on your readers, myself included, and providing you, sir, with very acceptable "copy." I may say that the leading recent authority on the subject is Mr. Sidney Hartland, though his services, like the bread in the custom, should be taken with a pinch of salt. Older authorities are Aubrey and others quoted in Hone's "Year Book."
->
-> ...
 
 ---
 
@@ -121,24 +93,9 @@ Bye-gones
 
 p155
 
-> THE SIN-EATER (Sept. 2, 1896, May 12, 1897).— There is a long description of this old custom, as con
->
-> ducted in Devonshire, in S. Baring Gould's new novel, *Guavas the Tinner*. It is too long to transcribe into this column, but in that case a stranger was got hold of who had to eat a bit of saffron cake which lay on the dead man's breast and to drink from a bowl of spirits passed across the coffin. When he had done, all present raised a cry and threw at him sticks, cinders, and whatever they could lay hold of, and hustled him on all sides, and thrust him out of doors with the cry, "He has taken on him the sins o' the dead, Cast'm out." Will any of the readers of this column refer me to the literature of this subject? D.M.R.
+> THE SIN-EATER (Sept. 2, 1896, May 12, 1897).— There is a long description of this old custom, as conducted in Devonshire, in S. Baring Gould's new novel, *Guavas the Tinner*. It is too long to transcribe into this column, but in that case a stranger was got hold of who had to eat a bit of saffron cake which lay on the dead man's breast and to drink from a bowl of spirits passed across the coffin. When he had done, all present raised a cry and threw at him sticks, cinders, and whatever they could lay hold of, and hustled him on all sides, and thrust him out of doors with the cry, "He has taken on him the sins o' the dead, Cast'm out." Will any of the readers of this column refer me to the literature of this subject? D.M.R.
 
 ---
-
-
-https://newspapers.library.wales/view/3802867/3802869/12/sin%20eater
-
-Barry Herald
-
-1898-05-06
-
-p2
-
-> SIN-EATERS.
->
-> Within the last few decades a curious custom has disappeared in Wales. This (says a writer in the current issue of the *Rambler*) is the sin-eating ceremony. It was the practice, when anyone died, for a relative to place on his or her body a quantity of bread, cheese, and beer. The "sin-eater" was then sent for, and his duty was to consume these provisions, and to pronounce the everlasting rest of the departed. It was believed that, like the Hebrew scapegoat, he thus took upon himself the misdoings of the departed, and, by the act of eating the food, freed the soul of the deceased from all its burden of sin. As to the eventual responsibility of the sin-eater himself we have no conclusive information. Perhaps a brother "sin-eater" eventually relieved him. At any rate, he found good provender to ease his conscience qualms.
 
 
 ---
@@ -236,24 +193,5 @@ p9
 
 ---
 
-https://journals.library.wales/view/2016648/2017140/7#
-
-Carmarthenshire notes (antiquarian, topographical, and curious)
-
-1899-10-28
-
-p??
-
-> THE SIN-EATER IN WALES.
->
-> Some years ago, an account of the sin-eater appeared in a London periodical. The function of this person was to attend funerals, and eat the deceased's sins with cakes, swilled down with nut brown ale on the coffin. It was alleged that sin-eating took place at Llandebie in 1852. The Rev. Daniel Silvan Evans, the lexicographer, made enquiries and found there was no foundation to the story, and that the sin eater was a myth. I lived at Llandebie in that year, and never heard of such a superstitiou. Have any of your readers heard of this superstition in other parts of the country?
->
-> Cardiff.
->
-> J. Rowland (Giraldus).
-
-
-?date??
-Rowland / Giraldus stilla around? why now?
 
 ---
