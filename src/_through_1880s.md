@@ -497,9 +497,26 @@ The Paxton Hood version offers nothing new and no significant corruptions, perha
 
 `````
 
-Hood's mention that the traditon was said *to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire* was a claim that could not be allowed to go unchallenged, howewer, as a letter from T. Eynon Davies, the Congregational Minister in Cwmamman, to the editor of *Christian World* ([Thursday 09 February, 1882, p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820209/023/0004)) makes clear, noting that the claim had presumably raised issue in the Welsh language press:
+```{admoniton} A horse's head as a sign of social delinquency
+:class: seealso
 
-> CARMARTHENSHIRE HVATHENISM.
+As well as referring to the sin-eater tradition, Paxton Hood also makes passing reference to a "horse's head" tradition that is used to castigate a "social delinquent":
+
+> Another odd custom was the manner in which public opinion expressed itself on account of any domestic or social delinquency. A large crowd assembled before the house of the delinquent, one of whom was dressed up in what seemed to be a horse's head ; the crowd then burst forth into strong vituperative abuse, accompanying the execrations with the rough music of old kettles, marrow-bones, and cleavers ; finally, the effigy of the sinner was burnt before the house, and the sacred wrath of the multitude appeased. The majesty of outraged opinion being vindicated, they dispersed.
+
+This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a far more light hearted and celebratory affair, but closely resembles the {term}`Cefyl Pren` tradition identified in Murry's *Handbook for travellers in South Wales*, specifically:
+
+> Another curious custom is still in existence — that of the Cefyl Pren, which occurs in cases where popular indignation is excited by any gross infringement of domestic rights or proprieties. A large crowd, one of whom is dressed up with a horse's head, assembles before the door of the delinquent, who, after undergoing an immense amount of vituperation and a hideous noise of old kettles and cleavers, is at length burnt in effigy, by which the sacred wrath of the people is at length appeased.
+```
+
+```{index} double: correspondence, Christian World ; Eynon Davies, T.
+:name: CHWLD:correspondence:1882:eynondavies
+```
+### Paxton Hood Challenged by T. Eynon Davies in *Chritian World*
+
+Hood's mention that the tradition was said *to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire* was a claim that could not be allowed to go unchallenged, howewer, as a letter from T. Eynon Davies, the Congregational Minister in Cwmamman, to the editor of *Christian World* ([Thursday 09 February, 1882, p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820209/023/0004)) makes clear, noting that the claim had presumably raised issue in the Welsh language press:
+
+> CARMARTHENSHIRE HEATHENISM.
 >
 > (To the Editor of the Christian World.)
 >
@@ -545,15 +562,7 @@ A few weeks later, another Welsh reader grudgingly came to Paxton Hood's defence
 >
 > Sir,—Like many another Welshman, I entertained considerable doubt as to the accuracy of Mr. Paxton Hood's statement, in his readable book on "Christmas Evans", respecting the heathenish practice of "sin-eating" in the principality. Regarding myself as tolerably well acquainted with the history and customs of my country, I was quite prepared to look out for and endorse the repudiation of your ministerial correspondent some weeks ago as affecting a certain locality referred to in the book. Since then, however. I find in a magazine article, appearing as lately as the year 1866, an allusion to this very custom. The subject is that of the peculiarities of Welsh funerals, the clergyman officiating at the one specially instanced being a Rev. Mr. Davies, who had for many years acted as secretary to Mr. Pennant, the antiquarian and Welsh historian. This gentleman, in subsequent conversation with the lady-writer, quotes Mr. Pennant as an authority for his statement to this custom, "once general," as he avers, "throughout Wales and the border counties." The form observed on the occasion was this: "The body was laid on the bier outside the house; a plate of salt placed on the breast, and a piece of bread laid on the top of the salt; the bread was handed to the man, styled the ' Sin-eater,' over the corpse, and also a bowl of maplewood which was full of milk, which he drank. He was then presented with a sixpence, and he declared that he took upon him all the sins of the deceased person, and would save him from ' walking' after he was dead." This custom was supposed to have had its origin from the scapegoat mentioned in Leviticus. "There was," he added, "some years ago, a most disreputable old fellow liviing in a wild and lawless district in Carmarthenshire, whom I have heard spoken of as 'Sin-eater,' though I am thankful to say that, for many years, he had not been called upon to exercise his fearful calling." We may reasonably assume from this that Mr. Paxton Hood was substantially correct in his data, though perhaps inaccurate in the specific allusion. I am, &c., M. E. H. Chester. May 11,1882.
 
-As well as referring to the sin-eater tradition, Paxton Hood also makes passing reference to a "horse's head" tradition that is used to castigate a "social delinquent":
-
-> Another odd custom was the manner in which public opinion expressed itself on account of any domestic or social delinquency. A large crowd assembled before the house of the delinquent, one of whom was dressed up in what seemed to be a horse's head ; the crowd then burst forth into strong vituperative abuse, accompanying the execrations with the rough music of old kettles, marrow-bones, and cleavers ; finally, the effigy of the sinner was burnt before the house, and the sacred wrath of the multitude appeased. The majesty of outraged opinion being vindicated, they dispersed.
-
-This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a far more light hearted and celebratory affair, but closely resembles the {term}`Cefyl Pren` tradition identified in Murry's *Handbook for travellers in South Wales*, specifically:
-
-> Another curious custom is still in existence — that of the Cefyl Pren, which occurs in cases where popular indignation is excited by any gross infringement of domestic rights or proprieties. A large crowd, one of whom is dressed up with a horse's head, assembles before the door of the delinquent, who, after undergoing an immense amount of vituperation and a hideous noise of old kettles and cleavers, is at length burnt in effigy, by which the sacred wrath of the people is at length appeased.
-
-In the [third edition](https://archive.org/details/christmasevansp00hooduoft/page/22/mode/2up?q=sin+eater), published in 1888, there is an additional footnote referring the sin-eater which directs to the reader to *"See Note at end of Chapter, page 39."*, which then proceeds as follows:
+Although no mention is made of Eynon Davies' earlier request for a withdrawal, or at least a correction, of the  claim that the sin-eater tradition continued in Cumamman, the [third edition](https://archive.org/details/christmasevansp00hooduoft/page/22/mode/2up?q=sin+eater), published in 1888, does include an additional footnote referring the sin-eater which directs to the reader to *"See Note at end of Chapter, page 39."*, which then proceeds as follows:
 
 > *Note to "Cwm-Aman" page 23.*
 > 
@@ -562,8 +571,6 @@ In the [third edition](https://archive.org/details/christmasevansp00hooduoft/pag
 When the book came to the attention of the editor in *Bye-Gones* of [February 15th, 1882](https://journals.library.wales/view/2092910/2094771/9#?xywh=-1532%2C-191%2C5763%2C3801), p18, it was almost  as if they were keeping a look out for such references. The resulting note can quite easily be read as mocking.
 
 > Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
-
-The 
 
 Several years later, remark was also made in *Cymru Fu*, or to give it its full title, *Cymru fu :  notes and queries relating to the past history of Wales and the border counties*, [Vol I, Part II, p92](https://journals.library.wales/view/2111106/2111178/35#?xywh=-1634%2C-1%2C6151%2C4057), dated February 25th, 1888]:
 
