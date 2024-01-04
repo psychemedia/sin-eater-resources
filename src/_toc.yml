@@ -38,6 +38,7 @@ parts:
   - file: _baring_gould_guavas
 - caption: Aftermath
   chapters:
+  - file: century_ends
   - file: _aftermath
   - file: _precious_bane_webb
 - caption: Appendices
