@@ -11,7 +11,7 @@ kernelspec:
   language: python
   name: python3
 ---
-# Through the 1880s
+# Through the 1880s and early 1890s
 
 Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
 
@@ -969,3 +969,19 @@ The excerpts from the manuscript then continue:
 > "Smiting the breast", at the mention Judas, falls under the same category, so does "spitting at the names of Satan" ; though we by no means imply that the custom was limited to that one occasion. The funeral customs were, all of them, expressive. The distribution of rolls of bread and of pence and half-pence at the house, was very likely symbolical of the obligation of charity, and the need to make friends of the mammon of unrighteousness.
 
 *I have been unable to find a digital archive copy of the Rhyl Journal for November, 22nd, 1884.*
+
+## Echoes through the early 1890s
+
+As the 1880s turned into the 1890s, references to the sin-eater continued to make an occasional appearance as the following short piece in the *The Pontypridd Chronicle and Workman's News*, [June 3rd, 1892, p3](https://newspapers.library.wales/view/3812076/3812079/14/), the same note also appearing in the [Herald of Wales, Saturday 04 June 1892, p7](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003036/18920604/007/0007), albeit citing the source as the *Newb__e__ry House Magazine*.
+
+> CHURCH FOLK LORE.
+>
+> Writing in the *Newbury House Magazine* anent "Church Folk Lore," the Rev. J. E. Vaux records a very remarkable custom which prevailed up to, say, a couple of hundred years ago. There was in one of the villages adjoining Wales an old man who was called "The Sin Eater." His office was, for a trifling consideration, to pawn (so to speak) his own soul for the ease and rest of a soul departed. When a person died, notice was given to him, and he at once went to the house of the deceased. A cricket— i.e., a stool— was brought, and he sat down in front of the door. A groat, a crust of bread, and a full bowl of ale were given to him, after the consumption of which he rose and pronounced the "ease and rest of the soul departed, for which he would pawn his own soul." It was believed that this ceremony would free the departed soul from "walking" thenceforth. It is probable that this strange custom was originally connected some way with the ceremony of the Scape Goat under the Law (Lev. xvi. 21). This institution of the "Sin Eater" was in later times mainly confined to the county of Hereford; but there is reason to believe that it once prevailed generally in Wales.
+
+An echo of Vaux's observations also came around again in the *Evening Express* of [July 4th, 1894, p2](https://newspapers.library.wales/view/3245581/3245583/40/):
+
+> Welsh Wit and Wisdom
+>
+> ...
+>
+> In his interesting work on Church folk- lore the Rev. J. Edward Vaux says that one of the most striking (ustoms m connection with funerals is a custom which continued till the seventeenth century. "There was in one of the villages adjoining the Welsh border an old man called the 'Sin Eater,' and his office was, for a trifling consideration, to pawn his own soul for the ease and rest of the soul departed. When a person died notice was given to him, and he at once went to the house of the deceased. A cucket —that is, a stool- was brought, and he sat down in front of the door. A groat, a crust of bread, and a full bowl of ale were given to him, after which he rose and pronounced the ease and rest of the soul departed, for which he would pawn his own soul. It was believed that this ceremony would free the departed soul from "walking thenceforth."
