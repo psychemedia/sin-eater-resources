@@ -52,11 +52,9 @@ Thomas then wonders if Hartland may be unaware of that earlier controversy, but 
 
 ```{index} single: Davies, T. Eynon ; letter to Christian World
 ```
-Mr Thomas then refers to a letter from a *Rev. T. Eynon Davies* in 1882 to *Christian World*, apparently debunking Paxtod Hood's description of the sin-eater:
+Mr Thomas then refers to the letter from a *Rev. T. Eynon Davies* in 1882 to *Christian World*, which repudiated Paxton Hood's claims of the sin eater in Wales, and his description of the role:
 
 > In addition to this, in February, 1882, the Rev. T. Eynon Davies published a letter in the Christian World a propos of Paxton Hood's "Christmas Evans." Mr. Davies was Congregational minister in Cwmannan, near Llandebie, and said, "Some octogenarians whom I have questioned have never seen a sin-eater, neither have they heard their parents nor their grandparents refer to this custom." There is, in fact, no evidence that he ever existed in Wales at all. All the stories go back to Aubrey's "lean, long, ugly, lamentable,poor Raskel "; and he was at Ross, in Herefordshire, if we believe Aubrey, none too strong a witness.
-
-*I have still to track down a copy of the full letter to Christian World.*
 
 We then have a phrase very evocative of our own times — "false news" — lamenting that it may be understandable in the press, but not in the pages of an amateru (which is to say, professional) society.
 

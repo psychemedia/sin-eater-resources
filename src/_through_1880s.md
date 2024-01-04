@@ -15,7 +15,7 @@ kernelspec:
 
 Throughout the 1880s, occasional references to the sin-eater occurs in various *Notes and Queries* style columns, along with occasional reference works on folklore that make mentions of the tradition although add nothing of real substance to our understanding of it.
 
-Of these full length works, two publications perhaps stand out in particular: Paxton Hood's *Christmas Evans*, which added nothing new, but got noticed, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
+Of these full length works, two publications perhaps stand out in particular: Paxton Hood's *Christmas Evans*, which added nothing new but did garner some attention, as well as provoking a brief exchange in the *Chirstian World* periodical, and the publication of an edited edition of Aubrey's manuscripts, *Remaines of Gentilisme* by James Britten.
 
 ## Around and About
 
@@ -478,7 +478,7 @@ Paxton Hood's description of the tradition appears to owe, originally at least, 
 
 > The meaning of this most singular institution of superstition was, that when a person died, the friends sent for the Sin-Eater of the district, who, on his arrival, placed a plate of salt and bread on the breast of the deceased person ; he then uttered an incantation over the bread, after which, he proceeded to eat it, — thereby eating the sins of the dead person ; this done, he received a fee of two-and-sixpence, — which, we suppose, was much more than many a preacher received for a long and painful service. Having received this, he vanished as swiftly as possible, all the friends and relatives of the departed aiding his exit with blows and kicks, and other indications of their faith in the service he had rendered. A hundred years since, and through the ages beyond that time, we suppose this curious superstition was everywhere prevalent.
 
-If we display a side-by-side view to inspect the difference between the texts, we can spot the areas of simularity directly:
+If we display a side-by-side view to inspect the difference between the texts, we can spot the areas of similarity directly:
 
 `````{admonition} Comparing the Texts
 :class: dropdown
@@ -497,11 +497,59 @@ The Paxton Hood version offers nothing new and no significant corruptions, perha
 
 `````
 
-As well as referrring to the sin-eater tradition, Paxton Hood also makes passing reference to a "horse's head" tradition that is used to castigate a "social delinquent":
+Hood's mention that the traditon was said *to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire* was a claim that could not be allowed to go unchallenged, howewer, as a letter from T. Eynon Davies, the Congregational Minister in Cwmamman, to the editor of *Christian World* ([Thursday 09 February, 1882, p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820209/023/0004)) makes clear, noting that the claim had presumably raised issue in the Welsh language press:
+
+> CARMARTHENSHIRE HVATHENISM.
+>
+> (To the Editor of the Christian World.)
+>
+> Sir— In Mr. Paxton Hood's new work, " Christmas Evans. the Preacher of Wild Wales." there is one startling statement, to which I desire to call the attention of the genial and accomplished author.
+>
+> It has provoked discussion in the Welsh press, but as Mr. Hood does not presumably include a wide knowledge of Welsh among his many accomplishments, it is but fair that his attention should be called to the matter in his own tongue. Hence my addressing you, Sir. In the early part of the book, Mr. Hood refers to a Welsh custom of laying a dish of bread and salt upon the dead body in a house of mourning, and in due course a certain official called a " sin-eater" appeare on the scene, who for a consideration of half-a-crown eats the bread (representing the sins of the deceased) off the dish, and is then driven out of the house by the friends and relatives of the departed.
+>
+> Then it is added that this piece of heathenism has now totally disappeared from Wales excepting the district of Cwmammun, in Carmarthenshire!
+
+The minister then disputes Paxton Hood's claim in no uncertain terms:
+
+> May I be allowed to say that the good people of Cwmamman, Carmartbenshire, never heard of this "sin-eater" until thy were startled by this revelation in Mr. Hood's book? Some octogenarians whom I have questioned have never seen a " sin-eater," neither have yhey heard their parents nor their grand-parents ever refer to this custom, and I can assure the readers of " Christmas Evans " that for at least 120 years no " sin-eater ' has been known or heard of in Cwmamman.
+
+He goes on to explain how Cwmannan is not some primitive settlement in the back of the beyond:
+
+> This picture of the place most give English readers a very " wild" notion, in all conscience, of " wild Wales;" but perhaps you will allow me to say that we are not so benighted as we are made to appear. We are a law-abiding. chapel going people. We have our railway and postal and telegraphic services to connect us with the world. We read our daily and weekly newspapers, and aspire even to monthlies and quarterlies. We are educated in politics and religion at least up to the average standard. Nowhere in England, from coast to coast, will you find Liberalism and Nonconformity comparatively stronger than they are to-day at this obscure little Cwmamman. This is not Welsh braggadocio but sober fact. In our political struggles, Liberalism is overwhelmingly triumphant; and our "census of worehippers," if compared with your city and town returns, would have your averages far behind. This, then, is hardly the right sort of place for a " sin-eater."
+
+He closes with a request that Paxton Hood does the honourable thing and retract the claim, or make some other amend:
+
+> I am quite sure Mr. Hood will be as sorry as any one to find that he has been the means of pinning this unheard of "sin-eater on to us, and thus injuring our fair fame in the sight of the world. In future editions of " Christmae Evans " (or may be sooner) I trust Mr. Hood will make the *amende honorable* to which we are entitled.— I am, &c., T. EYNON DAVIES, Congregational Minister. Cwmamman, Feb. 4, 1882.
+
+At the time, it seems as if Paxton Hood was in the United States of America, as his response in the *Chirstian World* of [Thursday 27 April 1882, p7](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820427/042/0007) :
+
+> Letter from the Rev Paxton Hood
+>
+> Sir,— Your kindness in inserting my last as a Christmas card, and many expressed wishes, both on this side and yours, to hear from me again in the same way, encourage me to contribute another memory of the season as an " Easter offering." I have been now for two months residing on the spot from whence I date this letter— an immediate and one of the wealthiest suburbs of Boston. Few neighbourhoods can be more enchanting, although I, of course, have not seen it in its splendour, and the variegated gorgeousness of its summer gieries. I should call it a delicious New England village, but Newton is in reality a city, and is familiarly known as the City of Villages ; its population is about 25,000. Some of your readers, and my friends, will be interested to know that not a drop of intoxicating liquor is to be openly purchased in the entire city, excepting at the druggists' for medical purposes. I have visited in most of the representative households of the neighbourhood, and have mingled freely in all the beet society here, and I have not seen in any house anything more intoxicating than ice cream or frozen pudding, through whose huge blocks, however, I have cut my way as through Alpine passes. I am told, however, that shout twenty-five per cent. of the population of the city are not abstainers, and although not a public-house is anywhere to be seen, there are private houses where liquors can be illegally purchased, end only last night a raid was made by the police on seventeen of these, and illicit traffic summarily stopped
+
+His response to Eynon Davies' letter was to go into a holding position:
+
+> I feel that this letter is becoming lengthy; but I must not close it without a reference to some remarks which have been made in the *Christian World*, as to my accuracy in some matters of detail; and especially I would refer to those on the superstition of the *Sin Eater*, mentioned in my " Life of Christmas Evans." Entirely removed as I am from my library, it is clear I cannot here refer to my authorities ; but I did not speak without authority—authority which I am sure all would acknowledge—in the archeology of Welsh superstitions or legends. I will attempt to do both myself and my brotherly critic justice on this matter as soon as I can get at my books after my return to England, which will, I hope, be early in June.
+>
+> ...
+>
+> Edwin Paxton Hood.  
+> Newton, Massachusetts, U. S. America.  
+> April 14, 1882.
+
+A few weeks later, another Welsh reader grudgingly came to Paxton Hood's defence, in the [Thursday 18 May, 1882, p7](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820518/050/0007) issue of *Christian World*:
+
+> THE "SIN-EATER" IN WALES.
+>
+> (To the Editor of the Christian World.)
+>
+> Sir,—Like many another Welshman, I entertained considerable doubt as to the accuracy of Mr. Paxton Hood's statement, in his readable book on "Christmas Evans", respecting the heathenish practice of "sin-eating" in the principality. Regarding myself as tolerably well acquainted with the history and customs of my country, I was quite prepared to look out for and endorse the repudiation of your ministerial correspondent some weeks ago as affecting a certain locality referred to in the book. Since then, however. I find in a magazine article, appearing as lately as the year 1866, an allusion to this very custom. The subject is that of the peculiarities of Welsh funerals, the clergyman officiating at the one specially instanced being a Rev. Mr. Davies, who had for many years acted as secretary to Mr. Pennant, the antiquarian and Welsh historian. This gentleman, in subsequent conversation with the lady-writer, quotes Mr. Pennant as an authority for his statement to this custom, "once general," as he avers, "throughout Wales and the border counties." The form observed on the occasion was this: "The body was laid on the bier outside the house; a plate of salt placed on the breast, and a piece of bread laid on the top of the salt; the bread was handed to the man, styled the ' Sin-eater,' over the corpse, and also a bowl of maplewood which was full of milk, which he drank. He was then presented with a sixpence, and he declared that he took upon him all the sins of the deceased person, and would save him from ' walking' after he was dead." This custom was supposed to have had its origin from the scapegoat mentioned in Leviticus. "There was," he added, "some years ago, a most disreputable old fellow liviing in a wild and lawless district in Carmarthenshire, whom I have heard spoken of as 'Sin-eater,' though I am thankful to say that, for many years, he had not been called upon to exercise his fearful calling." We may reasonably assume from this that Mr. Paxton Hood was substantially correct in his data, though perhaps inaccurate in the specific allusion. I am, &c., M. E. H. Chester. May 11,1882.
+
+As well as referring to the sin-eater tradition, Paxton Hood also makes passing reference to a "horse's head" tradition that is used to castigate a "social delinquent":
 
 > Another odd custom was the manner in which public opinion expressed itself on account of any domestic or social delinquency. A large crowd assembled before the house of the delinquent, one of whom was dressed up in what seemed to be a horse's head ; the crowd then burst forth into strong vituperative abuse, accompanying the execrations with the rough music of old kettles, marrow-bones, and cleavers ; finally, the effigy of the sinner was burnt before the house, and the sacred wrath of the multitude appeased. The majesty of outraged opinion being vindicated, they dispersed.
 
-This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a far more light hearted and celebratory affair, but closes resembles the {term}`Cefyl Pren` tradition identified in Murry's Handbook for travellers in South Wales*, specifically:
+This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a far more light hearted and celebratory affair, but closely resembles the {term}`Cefyl Pren` tradition identified in Murry's *Handbook for travellers in South Wales*, specifically:
 
 > Another curious custom is still in existence — that of the Cefyl Pren, which occurs in cases where popular indignation is excited by any gross infringement of domestic rights or proprieties. A large crowd, one of whom is dressed up with a horse's head, assembles before the door of the delinquent, who, after undergoing an immense amount of vituperation and a hideous noise of old kettles and cleavers, is at length burnt in effigy, by which the sacred wrath of the people is at length appeased.
 
@@ -514,6 +562,8 @@ In the [third edition](https://archive.org/details/christmasevansp00hooduoft/pag
 When the book came to the attention of the editor in *Bye-Gones* of [February 15th, 1882](https://journals.library.wales/view/2092910/2094771/9#?xywh=-1532%2C-191%2C5763%2C3801), p18, it was almost  as if they were keeping a look out for such references. The resulting note can quite easily be read as mocking.
 
 > Mr. Paxton Hood has made a discovery which many more experienced archaeological authorities have sought after, and failed in the search. In a life of the Rev. Christmas Evans, he has recently written, he tells us that there still exists in Caermarthenshire "the Sin Eater," a personage once universal in Wales. We thought that belief was finally scotched in the Academy discussion a few years ago. Such an accommodating official does not and never did exist in Wales, and the only authority (?) for supposing that one ever existed on the borders was old Aubrey, who tells of a "leane, hungry raskel" in Herefordshire.
+
+The 
 
 Several years later, remark was also made in *Cymru Fu*, or to give it its full title, *Cymru fu :  notes and queries relating to the past history of Wales and the border counties*, [Vol I, Part II, p92](https://journals.library.wales/view/2111106/2111178/35#?xywh=-1634%2C-1%2C6151%2C4057), dated February 25th, 1888]:
 
@@ -641,7 +691,6 @@ A second piece of correspondence under the same header references Aubrey:
 > 
 > Edward Peacock.  
 > Bottesford Manor, Brigg.
-
 
 References to Paxton Hoods work continued to have echoes into the 1890s. In a somewhat hotch-potch letter to the editor of *The Cambrian* dated [October 16th, 1891](https://newspapers.library.wales/view/3339249/3339256/62/), p7, correspondent *H.* wrote in the *Welsh Notes From Notees and queries* section:
 

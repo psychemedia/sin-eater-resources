@@ -209,11 +209,6 @@ Roberts closes where he began: with reference to the recent work (at the time) f
 >
 > Oswestry. Askew Roberts.
 
-```{admonition} The Christian World Letter
-:class: danger dropdown
-*I still haven't been able to track down a digital archive for Christian World, or a copy of the letter or any response it provoked in that periodical. A visit to an actual physical archive might be required...*
-```
-
 Over in the *Weekly Mail*, where the editor had promised to keep readers appraised of activities in the Red Dragon, we have the following remark picking on on Askew Robort's article in the edition of [May 5th, 1883](https://newspapers.library.wales/view/3372638/3372642/77/), p4
 
 > THE RED DRAGON [1] In fulfilment of the promise we gave last week to notice at greater length the contents of the number of the National Magazine of Wales, ...
