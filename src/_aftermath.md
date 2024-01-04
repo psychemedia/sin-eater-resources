@@ -1,6 +1,16 @@
 # The Twentieth Century Sin-Eater
 
-In the years that followed the second controversy, references to the sin-eater typically started to fade away, except as the occasional historical note or curiosity. As the new century began, we see one such echo of the "legend" of the sin-eater appear, only to be challenged by return of post.
+In the years that followed the second controversy, references to the sin-eater typically started to fade away, except as the occasional historical note or curiosity, such as this remark in the *Hornsey & Finsbury Park Journal*, [Saturday, 10th February 1900, p5](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004660/19000210/060/0005) in an article on death customs:
+
+> Supersitition at Haringey
+>
+>...  Perhaps the most curious of all the superstitions connected with death is that attached to the office of  
+> SIN-EATER.
+>
+> In each village an old gaffer who came at a death and, sitting on a stool outside the door, was furnished with bread and ale, which he consumed, and a groat, which he pocketed. The ceremony over, he rose, and assured the mourners of the eternal peace of the soul of the departed, since he had, in eating and drinkirig, taken all sin upon himself. His soul was in pawn for that of the deceased, who was accordingly released from all penalties of what he had done in life, including the neressity of walking. It is to be assumed that the sin-eater found at his death another sin-eater willing to take the accumulated burden upon him, and he another, and so on —a highly convenient mode of shifting one's responsiblity on no one in particular. Many as are the superstitions associated with death, they are few compared with those that cluster round  
+MARRIAGE.
+
+But as the new century began, it seems as if the flames of debate that could be triggered by mentions of the old sin-eater tradition would not erupt as they once had, even though though references might still be challenged by return of post.
 
 ```{admonition} "Sin-Eaters", Echo (London), September, 1900
 :class: dropdown
