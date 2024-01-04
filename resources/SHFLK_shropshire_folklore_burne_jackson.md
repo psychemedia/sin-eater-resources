@@ -139,7 +139,7 @@ Give us a *big un*, and we'll be *gone*.'
 
 And, like the Lark at Cock Robin's wedding, ' when ' they ' got unto the end, then ' they ' began again ; ' without an instant's pause, over and over untiringly and monotonously chanting their ditty, until some answer is received. Shakspeare must have had the sound of this lugubrious sing-song fresh in his ears when he made Speed reckon among the ' special marks ' of a man in love, that he had learnt ' to speak puling, like a beggar at Hallowmas.' `[*The Gentlemen qf Verona*, Act II. Sc. I ]`
 
-The other twelve yersions of the souling rhymes which I have before me, vary between the two main types already given ... [examples are then given, but we might not with intereest the following one:]
+The other twelve versions of the souling rhymes which I have before me, vary between the two main types already given ... [examples are then given, but we might not with interest the following one:]
 
 'I hope you'll prove kind with your ale and strong beer.  
 And well come no more a-souling till this time next year.'

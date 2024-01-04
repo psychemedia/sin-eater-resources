@@ -340,7 +340,7 @@ Having presented the evidence such as he has been able to find, he leaves it to 
 
 ### Funeral Traditions Involving Salt
 
-Supersitions and traditions involving *salt* are described in the next section, part III of the chapter, including a mention that Sikes has witnessed such traditional practice:
+Superstitions and traditions involving *salt* are described in the next section, part III of the chapter, including a mention that Sikes has witnessed such traditional practice:
 
 > Of superstitions regarding salt, there are many in Wales. I have even encountered the special custom of placing a plate of salt on the breast of the corpse. In the case of an old woman from Cardiganshire, who was buried at Cardiff, and who was thus decked by her relatives, I was told the purpose of the plate of salt was to 'prevent swelling.' There is an Irish custom of placing a plate of snuff on the body of a corpse ; hence the saying, addressed to an enemy, 'I'll get a pinch off your belly yet.'
 

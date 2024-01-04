@@ -114,7 +114,7 @@ With several of the steps in the documented evidence chain recalled, a correspon
 
 For some reason, the *"In the county of Hereford ...  This custom alludes, methinks, something to the Scape Goat in the old Lawe, Leviticus, chap, xvi., v. 21, 22."* is also reprited.
 
-Note also that the provided reference to *"Agriconensia"* should correclty be given as *"Ariconensia"*.
+Note also that the provided reference to *"Agriconensia"* should correctly be given as *"Ariconensia"*.
 
 Finally, we note that the letter of  November, 1885, also prompted a reply in the [Vol. IX, No. 1, January, 1886](https://journals.library.wales/view/2062893/2068170/113#?xywh=-781%2C52%2C3517%2C2320) edition, p98:
 
@@ -162,7 +162,7 @@ A further response in the edition of [July, 25th, 1885](https://newspapers.libra
 > 
 > H., Newport, Monmouthshire.
 
-Here's how the text ascribed to the *trustwrothy authority* compares:
+Here's how the text ascribed to the *trustworthy authority* compares:
 
 ```{code-cell}
 :tags: [remove-input]
@@ -319,7 +319,7 @@ Watching over corpses is recognised as a custom still contemporary to the 1880s:
 
 > The practice of watching the dead body until its burial is not yet obsolete, a custom indeed which, among the Irish, is even still occasionally the scene of the most unseemly revelries, those present often-times indulging in excessive drinking and riotous merry-making. In days gone by, however, this practice was attended with every mark of respect to the deceased one, the leading idea being to see that the devil did not carry off the body.
 
-As regards funerals and the funeral proocession, some of which we have not previously heard described:
+As regards funerals and the funeral procession, some of which we have not previously heard described:
 
 > Lastly, since the formation of cemeteries, many of the quaint old funeral customs which formerly existed in many of our country villages have passed away. Now-a-days, the "last act," as the committal of the body to the grave has been termed, has been shorn of much of its pomp. Thus, in the North of England it was customary, only a few years ago, to carry "the dead with the sun" to the grave, a practice corresponding with the Highland usage of making "the deazil," or walking three times round a person, according to the course of the sun.
 
@@ -348,7 +348,7 @@ Finally, a traditional belief, the echoes of which may provide us with routes in
 
 A long time in the coming, 1881 also saw the publication by *The Folk-Lore Society* of [*Remaines of Gentilisme and Judaisme*](https://archive.org/details/remainesgentili01aubrgoog/page/n12/mode/2up) by John Aubrey, "Printed from Lansdowne manuscript 231 in the British Museum", and edited by James Britten.
 
-Some of Aubrey's "observations" on occult and supernatual matters had been previously published as [*Miscellanies*, Collected by J. Aubrey, Esq.](https://archive.org/details/miscellanies00aubr/page/n1/mode/2up), "printed for Edward Castle, next Scotland Yard Gate, by Whitehall", in 1696, but that collection had made no mention of that lamentable fellow from the Rosse highway. This collection undoubtedly contributed to later opinions of him regarding his credulity.
+Some of Aubrey's "observations" on occult and supernatural matters had been previously published as [*Miscellanies*, Collected by J. Aubrey, Esq.](https://archive.org/details/miscellanies00aubr/page/n1/mode/2up), "printed for Edward Castle, next Scotland Yard Gate, by Whitehall", in 1696, but that collection had made no mention of that lamentable fellow from the Rosse highway. This collection undoubtedly contributed to later opinions of him regarding his credulity.
 
 But now for the first time we have a collection that provides us us a relatively direct form access to Aubrey's text without having to visit the British Library and view the original manuscript.
 
@@ -388,7 +388,7 @@ There is evidence of Aubrey's own response to such criticism:
 >
 > "It may seem nauseous to some that I have raked up so many old western proverbs, which I confess I disdain not to quote. Pliny himself being not afraid to call them oracles, lib. 18, cap. 4: 'Ac primum omnium oraculis majore ex parte agemus, quae non in alio vitae genere plura certiorave sunt.' For proverbs are drawn from the experience and observation of many ages, and are the ancient natural philosophy of the vulgar, preserved in old English and Norse rhymes handed down to us, and which I set as instantiae crucis, for our curious modem philosophers to examine, and give διολις  to their 'Ολις."
 
-That Aubrey *did* collect write down his observations, no mattter how credulous he was, is, however, to be valued:
+That Aubrey *did* collect write down his observations, no matter how credulous he was, is, however, to be valued:
 
 > At the present day, whatever we may think of Aubrey's credulity, all folk-lorists are glad that he did not "disdain to quote" the proverbs, sayings, and traditions of the people.
 
@@ -512,7 +512,7 @@ This stands in contrast to the New Year's Eve *Mari Lwyd* tradition, which is a 
 ```{index} double: correspondence, Christian World ; Eynon Davies, T.
 :name: CHWLD:correspondence:1882:eynondavies
 ```
-### Paxton Hood Challenged by T. Eynon Davies in *Chritian World*
+### Paxton Hood Challenged by T. Eynon Davies in *Christian World*
 
 Hood's mention that the tradition was said *to linger even now in the secluded vale of Cwm-Aman, in Caermarthenshire* was a claim that could not be allowed to go unchallenged, howewer, as a letter from T. Eynon Davies, the Congregational Minister in Cwmamman, to the editor of *Christian World* ([Thursday 09 February, 1882, p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820209/023/0004)) makes clear, noting that the claim had presumably raised issue in the Welsh language press:
 
@@ -532,7 +532,7 @@ The minister then disputes Paxton Hood's claim in no uncertain terms:
 
 He goes on to explain how Cwmannan is not some primitive settlement in the back of the beyond:
 
-> This picture of the place most give English readers a very " wild" notion, in all conscience, of " wild Wales;" but perhaps you will allow me to say that we are not so benighted as we are made to appear. We are a law-abiding. chapel going people. We have our railway and postal and telegraphic services to connect us with the world. We read our daily and weekly newspapers, and aspire even to monthlies and quarterlies. We are educated in politics and religion at least up to the average standard. Nowhere in England, from coast to coast, will you find Liberalism and Nonconformity comparatively stronger than they are to-day at this obscure little Cwmamman. This is not Welsh braggadocio but sober fact. In our political struggles, Liberalism is overwhelmingly triumphant; and our "census of worehippers," if compared with your city and town returns, would have your averages far behind. This, then, is hardly the right sort of place for a " sin-eater."
+> This picture of the place most give English readers a very " wild" notion, in all conscience, of " wild Wales;" but perhaps you will allow me to say that we are not so benighted as we are made to appear. We are a law-abiding. chapel going people. We have our railway and postal and telegraphic services to connect us with the world. We read our daily and weekly newspapers, and aspire even to monthlies and quarterlies. We are educated in politics and religion at least up to the average standard. Nowhere in England, from coast to coast, will you find Liberalism and Nonconformity comparatively stronger than they are to-day at this obscure little Cwmamman. This is not Welsh braggadocio but sober fact. In our political struggles, Liberalism is overwhelmingly triumphant; and our "census of worshippers," if compared with your city and town returns, would have your averages far behind. This, then, is hardly the right sort of place for a " sin-eater."
 
 He closes with a request that Paxton Hood does the honourable thing and retract the claim, or make some other amend:
 
@@ -681,7 +681,7 @@ In the [Vol 7 Iss 174, April 28th, 1883](https://archive.org/details/sim_notes-a
 > I have since looked through Aubrey's Miscellanies, but find no mention of the subject.
 > W. B. N.
 
-This correpondence is picked up on in note from [Vol 8 Iss 196, September 29th, 1883](https://archive.org/details/sim_notes-and-queries_1883-09-29_8_196/page/254/mode/2up), p255, which provides further references already familiar to us, along with a reference to a possibly relevant illustration, although I have not, as yet, been able to find a scanned version of that illustration:
+This correspondence is picked up on in note from [Vol 8 Iss 196, September 29th, 1883](https://archive.org/details/sim_notes-and-queries_1883-09-29_8_196/page/254/mode/2up), p255, which provides further references already familiar to us, along with a reference to a possibly relevant illustration, although I have not, as yet, been able to find a scanned version of that illustration:
 
 > Welsh Foik-Lore: the Sin-Eater (6th S., vii. 25, 334).—See Hone’s *Year Book*, col. 858, where the passage from Leland’s *Collectanea* quoted by W. B. N. is given as forming part of a letter from John Bagford, dated 1715; and where the reader is also referred to the Lansdowne MSS. in the British Museum for statements concerning sin-eating in Aubrey's own handwriting. The subject was briefly discussed in "N. & Q.," 1st S. iv. 211, a correspondent being referred by the editor to Ellis's edition of Brand's *Popular Antiquities*, vol. ii. p. 155, for information under this head. The custom has, I suspect, been passed over intentionally by the Rev. Peter Roberts in his Cambrian Popular Antiquities, 8vo, 1815; but an aquatint illustration at p. 177 of that work presents us with the ceremony of dispensing food and drink over the coffin to a man who, receives ate kneeling upon one knee. Pennant says that
 >
@@ -736,7 +736,7 @@ The first installment opens with claim of the continued practice of Catholic cer
 >
 > I will first confine myself to death and burial rites. We have much that surrounds these events that must have come down to us from the times when the holy fathers were the masters of the ceremonies.
 
-No mention is made of the sin-eater, but we do see several rituals described that we have mant in related forms prviously. For example, the *wake*:
+No mention is made of the sin-eater, but we do see several rituals described that we have mant in related forms previously. For example, the *wake*:
 
 > *The Gwylnos*, or watchnight, or "Wake," is still an important service in some parts of Wales, and the form of procedure varies in several localities. This takes place on the night preceding the funeral. The neighbours and friends meet about 7 p.m. in the room wherein the body has been laid. The walls of the chamber or room being covered over with linen sheets with laurel leaves pinned on to the sheets, two leaves so placed that they take the form of the letter T or a cross, at the head and feet of the body are placed a lighted candle. In a Nonconforming neighbourhood on the borders of Pembroke, Cardigan, and Carmarthen counties, it was customary up to within 30 years, to put a lighted candle on a plate placed on the chest of the body during the *Gwylnos*, whilst placing a plate full of salt on the body was pretty general in Montgomeryshire at one time. When the friends had arrived a portion of Scripture was read and hymns sung, and prayers offered alternately with the hymns ; when, about 9 o'clock, after several friends had offered up prayer, the *Gwylnos* closed, and the friends returned to their several homes. To bury without a *Gwylnos* was considered a mark of great disrespect to the relatives and to the departed.
 
@@ -815,9 +815,9 @@ Placing the quote by Revd. Maddock Williams in its full context in volume V of t
 ```{index} single: Rhys, John ; editor, Tours in Wales, 1883
 ```
 (TIWPN:1883)=
-## Peannant's *Tours in Wales*, Edited by John Rhys, 1883
+## Pennant's *Tours in Wales*, Edited by John Rhys, 1883
 
-We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the [Sir John Rhys Memorial Lectures](https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/), first delivered in 1925, which are still predsented to this day, by way of his two volume work *"Celtic Folklore: Welsh and Manx"* in 1901.
+We have already brifly alluded to the work of John Rhys, the original Jesus Professor of Celtic at the University of Oxford and a founding Fellow of The British Academy; his name is memorialised by the [Sir John Rhys Memorial Lectures](https://www.thebritishacademy.ac.uk/events/lectures/listings/sir-john-rhys-memorial-lectures/), first delivered in 1925, which are still presented to this day, by way of his two volume work *"Celtic Folklore: Welsh and Manx"* in 1901.
 
 ```{admonition} Sir John Rhys
 :class: seealso dropdown
@@ -924,7 +924,7 @@ name: British_goblins_food_over_coffin_p323
 "Giving food over the coffin", in *British Goblins, Wirt Sikes, 1880, p323.
 ```
 
-Still existent variants of the tradition in the region were then identified, along wth a pleas for "further research needed":
+Still existent variants of the tradition in the region were then identified, along with a pleas for "further research needed":
 
 > The funeral sponge-cakes of North Shropshire are still, or were recently, in use in Wales also`[*Ibid.*, p324]`. It is much to be wished that the subject of the ceremonial use of cakes could be farther investigated.`[E. g. we have Wedding, or, as it used to be called, Bride Cake, Christening Cake, Yule Cake, Twelfth Cake, Simnel Cakes, Soul Cakes, etc. : to say nothing of the divinations and magical remedies in which the baking of specially compounded cakes (as the Dumb Cake) plays a part.]` One cannot but suspect that the funeral cakes were in their first origin not a dole to purchase prayers, but a part of the ceremonial of the pagan burial-feasts; of which we really seem to retain other traces in Shropshire, to judge from the following passage in a letter addressed by the Rev. G. L. Wasey to Miss Jackson in 1873. He speaks of course of the neighbourhood of Bridgnorth.
 

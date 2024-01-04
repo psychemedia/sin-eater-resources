@@ -360,7 +360,7 @@ The "Birmingham paper" is perhaps *Bye-Gones*, which reprinted some of the *Time
 ```
 ## Owen's Second Letter to The Academy, December, 1895
 
-Owen's second letter, dated the last day of November, 1895, appeared in The *Academy* [Vol 48 Iss 1233, p545-7](https://archive.org/details/sim_academy-and-literature_1895-12-21_48_1233/page/544/mode/2up?q=hartland) on December 21st, 1895, and loses focus somewhat as Owen takes a broader look at Welsh tradition and supersition:
+Owen's second letter, dated the last day of November, 1895, appeared in The *Academy* [Vol 48 Iss 1233, p545-7](https://archive.org/details/sim_academy-and-literature_1895-12-21_48_1233/page/544/mode/2up?q=hartland) on December 21st, 1895, and loses focus somewhat as Owen takes a broader look at Welsh tradition and superstition:
 
 > CORRESPONDENCE.
 >
@@ -500,7 +500,7 @@ Owen picks up on the lack of descriptions of Welsh funeral customs providing a c
 ```
 > I pointed out to Mr. Hartland, in reference to the Market Drayton story, that, as it stood, the mysterious and "significant" remark of the Pembrokeshire minister was of no historical or scientific value whatever. As he seemed to agree with me to a certain extent, I was rather surprised to find the minister's oracular remark assuming in the ACADEMY even more "significance" than it had been originally endowed with in the Times. As a matter of fact, there are extant precise descriptions of Pembrokeshire funeral customs. I may refer to, though I am at present unable to quote from, Miss Mary Curtis's Antiquities of Pendine. Again, in part iii. of *Cymru Fu* for July-December, 1888— not the Welsh work that Mr. Hartland quotes from, but a republication of notes that had appeared in the Cardiff *Weekly Mail*— the following account, dated Tenby, Sunday, October 6, is to be found under the heading, "Travelling in Wales in 1820":
 >
-> "Going down the street of Tenby, I observed a number of men in their best clothes, principally black. I at first thought it was for Sunday, but seeing a woman among them with a tray and glasses in one hand and a bottle in the other, I stopt (being then on foot, to ease the horses in ascending a hill at the end of the town) to inquire the meaning of it, when one of the men informed me they were to attend a funeral, and that it was the custom to aseemble before the door of the deceased, and to be served with wine and warm ale in the street before the body was brought out. It is a Flemish custom, I suppose."
+> "Going down the street of Tenby, I observed a number of men in their best clothes, principally black. I at first thought it was for Sunday, but seeing a woman among them with a tray and glasses in one hand and a bottle in the other, I stopt (being then on foot, to ease the horses in ascending a hill at the end of the town) to inquire the meaning of it, when one of the men informed me they were to attend a funeral, and that it was the custom to assemble before the door of the deceased, and to be served with wine and warm ale in the street before the body was brought out. It is a Flemish custom, I suppose."
 
 ```{admonition} Cymru Fu, "Travelling in Wales in 1820"
 :class: seealso dropdown
@@ -572,7 +572,7 @@ https://archives.bodleian.ox.ac.uk/repositories/2/resources/9337
 >
 > Of the eleven "comprovincial bishops" present at the publication of this Constitution in St. Paul's, only one was from Wales — namely, David, Bishop of Bangor. "There is superstition," says Bacon, "in avoiding superstition, when men thinke to doe best, if they goe furthest from the superstition formerly received." Our own Reformation affords some notable examples of this.
 >
-> "In the time of popery," saya Latimer (*Works*, i. 547, Parker Society), "before the Gospel came amongst us, we went to burials with weeping and wailing as though there were no God: but since the Gospel came unto us, I have heard say that in some places they go with the corses grinning and flearing, as though they went to a bear-baiting, which thing no doubt is nought."
+> "In the time of popery," says Latimer (*Works*, i. 547, Parker Society), "before the Gospel came amongst us, we went to burials with weeping and wailing as though there were no God: but since the Gospel came unto us, I have heard say that in some places they go with the corses grinning and flearing, as though they went to a bear-baiting, which thing no doubt is nought."
 >
 > From Mr. Edward Peacock’'s notes to his edition of John Myre's "Instructions to the Clergy* (E.E.T.S.) I take the following :
 >
@@ -728,7 +728,7 @@ He opens by suggesting that his approach is one of open-mindedness and that wide
 
 He also believes he has managed to move the discussion forward somewhat, not least by getting Hartland to concede several points:
 
-> I am quite satistied with the results obtained so far. I trust that I shall not appear immodest if I avow my belief that the controversy is no longer where it was when Mr. Hartland's letter appeared in the *Times* some few months ago. That gentleman has now denied and conceded quite as much as could fairly be expected of an author who was entirely absorbed in "strengthening" a very untenable theory.
+> I am quite satisfied with the results obtained so far. I trust that I shall not appear immodest if I avow my belief that the controversy is no longer where it was when Mr. Hartland's letter appeared in the *Times* some few months ago. That gentleman has now denied and conceded quite as much as could fairly be expected of an author who was entirely absorbed in "strengthening" a very untenable theory.
 
 That said, he seems to think that Hartland is, at times, being rather petty:
 

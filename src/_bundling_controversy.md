@@ -88,7 +88,7 @@ p3
 >
 > I know the habits of the Welsh well, and though they are far from what could be wished, there is no such practice as Dr. Duncan alludes to. To make such a statement and allow it to be printed is a gross moral blunder. I would suggest to Dr. Duncan to examine more closely into the morals of his own country. Let him examine and compare the statistics of illegitimacy there and here. I should be glad to see them printed.- Yours obediently, E. RICE MORGAN.
 >
-> This communication attracted the notice of Dr Dd. Thomas, Ystalvfera, who, thinking the charge made by Dr. Matthews Duncan should not W allowed to remain without a further attempt at refutation, also wrote the editor a letter on the subject, but beyond an acknowledgment of its receipt no further notice was taken of it in the columns of the *British Medical Journal*. Through the courtesy of Dr. Thomas we are enabled to publish a copy of this letter. It is as follows :—
+> This communication attracted the notice of Dr Dd. Thomas, Ystalvfera, who, thinking the charge made by Dr. Matthews Duncan should not W allowed to remain without a further attempt at refutation, also wrote the editor a letter on the subject, but beyond an acknowledgement of its receipt no further notice was taken of it in the columns of the *British Medical Journal*. Through the courtesy of Dr. Thomas we are enabled to publish a copy of this letter. It is as follows :—
 >
 > TO THE EDITOR OF THE BRITISH MEDICAL JOURNAL.
 >

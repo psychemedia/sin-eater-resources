@@ -257,7 +257,7 @@ On [December 1st, 1875](https://journals.library.wales/view/2092910/2093566/), p
 
 > The Sin Eater (Nov. 24, 1875)
 >
-> In reference to this subject the writer in *Blackwood* states in the *Academy* of Nov. 27 that the Cambrian Archaeologists at Ludlow in 1852 had the matter before them, when "Mr Moggridge cited a case of this supersition having occurred with five years at or near Llandebie, in the hill country of Carmarthenshire." (See *Cam. Arch, Jour.* s. 11, v. iii, p.330)
+> In reference to this subject the writer in *Blackwood* states in the *Academy* of Nov. 27 that the Cambrian Archaeologists at Ludlow in 1852 had the matter before them, when "Mr Moggridge cited a case of this superstition having occurred with five years at or near Llandebie, in the hill country of Carmarthenshire." (See *Cam. Arch, Jour.* s. 11, v. iii, p.330)
 
 In the *Aberystwith Observer* of [December 11th, 1875](https://newspapers.library.wales/view/3040686/3040689/21/), p3, a Welsh language column appeared from which the following is taken:
 

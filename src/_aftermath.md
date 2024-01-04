@@ -2,7 +2,7 @@
 
 In the years that followed the second controversy, references to the sin-eater typically started to fade away, except as the occasional historical note or curiosity, such as this remark in the *Hornsey & Finsbury Park Journal*, [Saturday, 10th February 1900, p5](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004660/19000210/060/0005) in an article on death customs:
 
-> Supersitition at Haringey
+> Superstition at Haringey
 >
 >...  Perhaps the most curious of all the superstitions connected with death is that attached to the office of  
 > SIN-EATER.
