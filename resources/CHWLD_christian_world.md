@@ -4,7 +4,7 @@
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0004838/18820209/023/0004
 Christian World - Thursday 09 February 1882
 
-CARMARTHENSHIRE HVATHENISM.
+CARMARTHENSHIRE HEATHENISM.
 
 (To the Editor of the Christian World.)
 
