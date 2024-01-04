@@ -176,7 +176,7 @@ Y Cymro
 p6
 
 
-... Fiona Macleod depicts the genuine Celts of the Highlands. She has published three volumes, Pharais," "The Mountain Lover," and the Sin-Eater." Terrible books are they to read. Thev make one's hair stand on end. To thousands of readers they have revealed depths of Celtic character and temperament undreamt of. ...
+... Fiona Macleod depicts the genuine Celts of the Highlands. She has published three volumes, Pharais," "The Mountain Lover," and the Sin-Eater." Terrible books are they to read. They make one's hair stand on end. To thousands of readers they have revealed depths of Celtic character and temperament undreamt of. ...
 
 
 
