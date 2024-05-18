@@ -1,7 +1,7 @@
 
 # History of *Notes & Queries*
 
-Throughout the 19th century, a wide variety of general interest, as well as special interest, periodiocals pandered to the needs of an audience with a voracious reading appetite. Many periodicals included correspondence, but perhaps none more so that *Notes and Queries*, a rather eclectic publication, which absolutely relied on its readership t provide it with content in the form of *notes*, *queries* and *replies*.
+Throughout the 19th century, a wide variety of general interest, as well as special interest, periodiocals pandered to the needs of an audience with a voracious reading appetite. Many periodicals included correspondence, but perhaps none more so than *Notes and Queries*, a rather eclectic publication, which absolutely relied on its readership to provide it with content in the form of *notes*, *queries* and *replies*.
 
 ```{admonition} A Victorian Virtual Community, Patrick Leary
 :class: seealso
