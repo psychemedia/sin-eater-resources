@@ -627,7 +627,7 @@ I personally remember Bonfire nights (November 5th) in Almondbury, a village on 
 > The soul-cake referred to is a kind of bun, which at one time it was an almost universal custom for persons to make, to give to one another on this day. Formerly, at Great Marton, in Lancashire, there was a sort of procession of young people from house to house, at each of which they recited or sang psalms, and in return received presents of cakes, whence the custom usually went by the name of "Psalm-caking." Among the ancient Welsh this day was considered as the conclusion of summer, and was celebrated with bonfires, accompanied with 
 various merry-makings thought suitable to the occasion. In Ireland it is customary to place lighted candles in the windows of houses on the  evening of this day, and a correspondent of "Notes and Queries" (3rd Series, vol. i. p. 446) tells us that when travelling along a country road where farmhouses and cottages are numerous, the effect is quite picturesque on a dark November night.
 
-The *Notes & Queries* reference is to [*Vol 1 Iss 23*](), dated June 7th, 1862, in a note on *Curious Customs in the County of Wexford*. The exact quotes is:
+The *Notes & Queries* reference is to [*Vol 1 Iss 23*](https://archive.org/details/sim_notes-and-queries_1862-06-07_1_23/page/446/mode/2up), dated June 7th, 1862, in a note on *Curious Customs in the County of Wexford*. The exact quotes is:
 
 > They had a custom (I suppose they have it still), of lighting candles (more or less) in every window in the house, on the night of the Vigil of All Souls, and when travelling along a country road, where farm-houses and cottages were plenty, the effect was quite picturesque of a dark November eve.
 

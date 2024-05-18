@@ -168,7 +168,7 @@ The Wendy Hut column seems to have appeared in the Shields Daily News on [Monday
 
 Turning to the children's section of the paper, on page 4 of the edition of [Tuesday, September 11th, 1934](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002076/19340911/095/0004), we find the following rather saccharine tale:
 
-```{admontion} Simon the Sin Eater
+```{admonition} Simon the Sin Eater
 :class: dropdown
 
 THE WENDY HUT

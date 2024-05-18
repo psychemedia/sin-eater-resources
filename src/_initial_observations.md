@@ -188,9 +188,9 @@ The meeting as a whole was programmed through to Saturday morning, with daily ex
 On the penultimate day of the meeting, the members gathered at the Feathers Inn at half-past nine in the morning for the Friday excursion. *The half-timbered building, a 17th century coaching inn, remains there still, with its original studded plank front door and bay windows moulded with curved mullions and transoms and cast diamond glazing. A [class 1 listed building [1282026]](https://historicengland.org.uk/listing/the-list/list-entry/1282026?section=official-listing), it is now known as the [The Feathers Hotel](https://www.feathersatludlow.co.uk/) and looks well worth a visit.*
 
 ```{figure} https://framemark.vam.ac.uk/collections/2008BW5430/full/1400,/0/default.jpg
----
-name: ludlow-feathers
----
+
+:name: ludlow-feathers
+
 Feathers Hotel, Ludlow, c.1850-1870; Francis Frith; [V&A Collections](https://collections.vam.ac.uk/item/O216410/feathers-hotel-ludlow-photograph-frith-francis/feathers-hotel--ludlow-photograph-francis-frith/)
 ```
 

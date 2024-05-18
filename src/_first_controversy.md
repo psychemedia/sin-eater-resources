@@ -468,10 +468,9 @@ These letters, by *"Rheidiol"*, are presumably by that same Mr. John Rowlands.
 
 Assuming schoolmaster John Rowlands to be "Rheidiol", it is also worth remarking that he more notably used the *nom de plume* "Giraldus".
 
-```{figure} https://upload.wikimedia.org/wikipedia/commons/8/82/John_Rowlands_%28Giraldus%29.png
----
-name: John_Rowlands_Giraldus
----
+```{figure} ./images/John_Rowlands_Giraldus.png
+:name: John_Rowlands_Giraldus
+
 John Rowlands (Giraldus), 21 February 1894, Evening Express, Lee Brothers, Cardiff, Wales.
 ```
 

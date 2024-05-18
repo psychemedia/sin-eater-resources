@@ -30,7 +30,7 @@ Posterity will no doubt acknowledge the large debt of gratitude which it owes to
 
 ```
 
-```{aside}
+```{seealso}
 *The announcement in the Worcester Journal, as well as a review of other similar initiatives in other local periodicals, can be seen in the chapter `"Local Notes and Queries" Columns in Local Newspapers`.*
 ```
 
