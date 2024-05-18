@@ -537,18 +537,19 @@ It is perhaps not sruprising that by this point, if not before, the debate had s
 The translations, as provided, were generated from the original Wlesh using *Google Translate*. If you can provide me with a more natuaral translation, I would be very much in your debt.
 ```
 
-```{panels}
-'BWYTA PECHOD.'
-^^^
+````{grid}
+```{grid-item-card}
+:class-header: 'BWYTA PECHOD.'
+
 Yn nghyfarfodydd y Gymdeithas Wyddono Brydeneig, a gynnaliwyd yn ddiweddar, gwnaed cyfeiriad at arfer ryfedd a fodolai mewn llawer gwlad, a gelwid hi wrth yr enw 'bwyta pechod.' Ymddengys mai anffawd e wneyd y gorchestwaith rhyfeddol hwnw ydoedd rhoi teisen neu dafell o fara ar fron y dyn marw hyd onid oerai y corph; ac yna, arferai y bwytäwr drosglwyddo y deisen neu y dafell i'w enau, ac i lawr ei wddf, fel rhyw ymborth arall: a chredid ei fod yn bwyta pechodau y marw, a'u cyfrifoldeb i'w canlyn. Dywedwyd fod yr arfer farbaraidd hon yn weddillion o gannibaliaeth, a haerai rhai y ffvnai hi yn Nghymru hyd yn ddiweddar iawn. Ysgrifenodd rhyw Gymro brwd i'r *Times* i ddyweyd na fu arfer felly erioed yn Nghymru, hyd y gwyddid; a barna'r Parch. Ganon Silvan Evans, a'r Parch. T. Eynon Davies, nad oes brofion y bu peth o'r fath yn ffynu. Yn y *Times*, y dydd o'r blaen, ymddangosodd llythyr maith oddi wrth Mr. Sidney Hartland, yn profi, ar sail tystiolaethau Aubrey, Pennant, a Miss Gertrude Hope, fod yr arferiad wedi ffynu yn Nghymru. Y mae Mr. Hartland, ar sail ystori o eiddo y Parch. Elias Owen, yr hynafiaethydd, cystal a dyweyd mai pobl dra anghymmhwys i holi hanes hen goelion, arferion, a straeon ysbrydion ydyw parsoniaid ae ysgolfeistriaid, o herwydd, eb efe, nid eddyf y werinos wrth bobl mor ddysgedig eu bod yn credu mewn bwganod a phethau o'r fath; ond unwaith y cewch rywun cymmhwys i holi, fe ddaw pawb â'i ystori fydd yn gredu fel ei bader. Boed a f'o am hyn, terfyna Mr. Hartland ei lythyr drwy ddyweyd mai la rhyw 'grair dyddorol o hynafiaeth cyn côf' yr edrych ef ar y 'bwytäwr pechod,' ac mai y peth diweddaf y buasai efe yn breutilwydio am dano fuasai gwneyd bodolaeth y fath foneddwr a'r 'bwytäwr' yn sail i unrhyw gyhuddiad nen honiad yn erbyn Cymru neu'r Cymry. Nid ydym yn ammheu dim ar fwriad Mr. Hartland; ac yn wir, hyd yn oed os bu yr arfer yn ffynu yn mhlith ein hynafiaid, ni welwn ni ryw lawer o achos gwrido o'i herwydd ; ond i ni, nid ymddengys y tystiolaethau ar y naill ochr fawr cryfach nag ar y llall.
-
----
-
-Sin Eater
-^^^
-At the recent British Science Association meetings, reference was made to a strange practice that existed in many countries, and was known as 'eating sin.' It would appear that the misfortune of that marvelous task was to place a cake or slice of bread on the dead man's breast until the body was cold; and then, the eater used to pass the cake or slice to his mouth, and down his throat, like some other food: and he was believed to eat the sins of the dead, and their responsibility to follow them. This barbaric practice was said to be remnants of cannibalism, which some claimed to have frequented in Wales until very recently. Some enthusiastic Welshman wrote to the *Times* to say that such a practice was never known in Wales; and the Rev. Canon Silvan Evans, and the Rev. T. Eynon Davies, that there is no proof that such a thing flourished. In the *Times*, the other day, a lengthy letter from Mr. Sidney Hartland, proving, on the evidence of Aubrey, Pennant, and Miss Gertrude Hope, that the custom had flourished in Wales. Mr. Hartland, on the basis of a repository of the Rev. Elias Owen, the antiquarian, is so good as to say that parsons are very incompetent people who inquire into the history of old beliefs, customs, and ghost stories, and, therefore, he says, not the werinos with people so learned that they believe in ghosts and such things; but once you have someone competent to inquire, everyone will come with his story as believer. Be it for me, Mr. Hartland writes that he says that he would look at the 'sin-eater,' and that the last thing he would have vowed to do would have been to have such a gentleman and an 'eater'. is the basis of any allegation of allegation against Wales or the Welsh. We do not underestimate the intent of Mr. Hartland; and indeed, even if the custom flourished among our ancestors, we see little cause of blight for it; but for us, the testimonies do not appear to be much stronger on one side than on the other.
-
 ```
+
+```{grid-item-card}
+:class-header: Sin Eater
+
+At the recent British Science Association meetings, reference was made to a strange practice that existed in many countries, and was known as 'eating sin.' It would appear that the misfortune of that marvelous task was to place a cake or slice of bread on the dead man's breast until the body was cold; and then, the eater used to pass the cake or slice to his mouth, and down his throat, like some other food: and he was believed to eat the sins of the dead, and their responsibility to follow them. This barbaric practice was said to be remnants of cannibalism, which some claimed to have frequented in Wales until very recently. Some enthusiastic Welshman wrote to the *Times* to say that such a practice was never known in Wales; and the Rev. Canon Silvan Evans, and the Rev. T. Eynon Davies, that there is no proof that such a thing flourished. In the *Times*, the other day, a lengthy letter from Mr. Sidney Hartland, proving, on the evidence of Aubrey, Pennant, and Miss Gertrude Hope, that the custom had flourished in Wales. Mr. Hartland, on the basis of a repository of the Rev. Elias Owen, the antiquarian, is so good as to say that parsons are very incompetent people who inquire into the history of old beliefs, customs, and ghost stories, and, therefore, he says, not the werinos with people so learned that they believe in ghosts and such things; but once you have someone competent to inquire, everyone will come with his story as believer. Be it for me, Mr. Hartland writes that he says that he would look at the 'sin-eater,' and that the last thing he would have vowed to do would have been to have such a gentleman and an 'eater'. is the basis of any allegation of allegation against Wales or the Welsh. We do not underestimate the intent of Mr. Hartland; and indeed, even if the custom flourished among our ancestors, we see little cause of blight for it; but for us, the testimonies do not appear to be much stronger on one side than on the other.
+```
+````
 
 The following day, on [October 31st,1895, p4](https://newspapers.library.wales/view/3451868/3451872), *Y Cymro* published another column on the matter. The definition given for the sin-eater was taken from Brewer's *Dictionary of Phrase and Fable*, with a comment to the effect that since there appears to be no Welsh word to describe the ritual, an English text had to be consulted. Hartland's lack of knowledge about the Welsh is remarked upon.
 
@@ -558,10 +559,10 @@ The "expanded and corrected" twelfth edition at least, of Brewer's *Dictionary o
 
 Perhaps of greater concern was that a Welsh work on Welsh traditions, *Hynafion Cymreig*, published in Carmarthen in 1823, just a few short miles from the supposed loction where the sin-eater tradition was claimed to be practised, also had no name for the tradition and made no mention of. That food rituals were evident around funerals was not challenged. That they did take place should not be considered as surprising, helping mediate expressions of sympathy at a family funeral, just as food surely played a role in mediating the spread of joy at a wedding.
 
-```{panels}
+````{grid}
+```{grid-item-card}
+:class-header: Y BWYTAWR PECHOD
 
-Y BWYTAWR PECHOD
-^^^
 "A FU yr hen ddefod ryfedd o fwyta pechod yr ymadawedig yn ei angladd erioed mewn arferiad cyffredinol yn Nghymru ? Ac os bu, pa mor ddiweddar y parhaodd ? ac a oes rhyw weddillion ohoni yn aros yr awrhon ?" Dyna gwestiynau sydd ar hyn o bryd yn peri cryn lawer o siarad ac ysgrifenu yn Lloegr. Daeth i'r gwyneb yn ddiweddar trwy i bapyr gael ei ddarllen arno yn un o gyfarfodydd y *British Association*, yr hyn a arweiniodd i ohebiaeth yn y *Times*, ac a dreiddiodd oddiyno yn y ruodd arferol i bapyrau eraill.
 
 Dyma ddesgrifiad Dr Brewer, yn ei *Dictionary of Phrase and Fable* o swyddogaeth y Bwytawr Pechod (hyd y gwyddom, nid oes air am y ddefod yn yr un o'r llyfrau sydd genym ar ofergoeliaeth yn y Gymraeg - felly rhaid oedd i ni fyned i lyfrau Seisnig am wybodaeth yn ei chylch):— "Person cyflogedig mewn angladdau yn yr hen amseroedd i gymeryd arno bechodau'r trancedig, modd y gwaredid yr enaid o'rpurdan." Ac yn *Lelana's Collectanea*, ceir desgrifiad manylach :— "Rhoddid rhybudd i hen wr o flaen drws y ty, pan y deuai rhai o'r teulu allan, gan estyn iddo ystol isel, ar yr hon yr eisteddai â'i wyneb at y drws ; yna rhoddid grôt iddo ; crystyn o fara, yr hwn a fwytai ; a bowliad o gwrw, yr hwn a yfai ar un traflwnc. Wed'yn codai oddiar yr ystol a chyhoeddai hedd a gorphwysdra i enaid yr ymadawedig, tros yr hyn yr oedd efe yn barod i wystlo ei enaid ei hun."
@@ -574,10 +575,11 @@ A pha beth a ddywedir gan haneswyr Cymreig diweddar nid am y ddefod ei hun ond a
 
 Nid oes ychwaith yn y cynulliad o Ofergoelion Cymru a elwir *Hynafion Cymreig* yr un gair am y "Bwytawr Pechod," er y cyfeirir yn tudal. 139 at rai pehau ellir ystyried fel olion iddo. Ddydd y cynhebrwng, fe ddywedir, "y mae rhywun wedi ei osod i gyflwyno y deisen a'r gwin wrth i'r bobl fyned i'r ystafell lie byddo'r marw." Os oedd y ddefod mewn bri yn Llandebie mor ddiweddar ag yr hona Moggridge, fel y dywedasom uchod, mae'n syndod na fuasai rhyw son am dani yn yr *Hynafion*, yr hwn a argraphwyd yn Nghaerfyrddin yn 1823, o fewn deg neu ddeuddeng milldir i'r fan ; a chredwn fod hyn yn rheswm terfynol tros gredu mai cyfeiliorni y mae Mr Hartland, wedi ei gamarwain gan Aubrey a Moggridge. Ond tra yn dweyd hyn, ni fynem wadu parhad yr hyn ellir alw yn olion y ddefod hyd o fewn deugain mlynedd yn ol, os ydynt yn wir wedi llwyr ddiflanu eto. Hyd ddiwedd haner cyntaf y ganrif hon, yr oedd hi'n arferiad yn Nyffryn Clwyd, a manau eraill yn ddiau, ranu bara gwyn, neu deisenau, a chwrw brwd, yn mhob cynhebrwng a elwid yn "gyldigaeth gwadd," neu wahoddedig, i'r dynion ; ac er dangos nad oedd hyn ond porthiant i'r byw,  darperid te a bara gwyn i'r merched mewn ystafell arall. Yn angladdau "pobl fawr," rhoddid tafellau o fara brith a gwin, ond yn mysg y dosbarth canol, cymerid lle'r gwin gan y cwrw brwd — neu gwrw poeth wedi ei felysu a'i bereiddio. Dygid y cwrw brwd gylch yr ystafell lle yr eisteddai'r gwahoddedigion — pawb yncymerydllymaid o'r un cwpan - gan gymydog penodedig i'r gorchwyl, a chymydog arall yn ei ddilyn i ail ddiwallu'r cwpan pan fyddai angen. Gan y dilynid y seremoni hon gyda chasgliad, hyd yn nod lle na fyddai ei angen, nid oedd y cyfan ond dull ein hynafiaid o ddangos eu cydymdeimlad â'u gilydd ddydd yr angladd, fel yr oedd y pwyddion hefyd yn arwyddo eu cydlawen - ydd ar ddydd priodas. Hyny yn benaf, os nid yn unig, ydyw'r defodau sydd genym neu oedd genym hyd yn ddiweddar yn ein hangladdau. Ac nid yw Mr Hartland, wrth ddylorni ar y pwnc hwn ar hyd y blynyddoedd, gyda phob parch iddo, ond "dweyd mwy na mae o'n wybod," a benthyca hen air Cymraeg. Yr ydym yn methu'n lân a gweled tebygrwydd perthyn - asol rhwng rhanu teisenau neu fara gwyn tros yr arch i swyddogaeth y Bwytawr Pechod, fel ei desgrifir uchod ; a rhaid fod y cwrw brwd a'r offrwm o darddiadau gwahanol. Fel y dywedasom, nid oes gynifer ag un awdwr Cymraeg, caeth na rhydd, yn son am yr ofergoeledd - y *Popular Antiquities*, *Hynafion Cymreig*, *Cymru Fu* — dim gair yn yr un ohonynt.
 
----
+```
 
-THE SIN EATER
-^^^
+```{grid-item-card}
+:class-header: THE SIN EATER
+
 "Has the strange old custom of eating the deceased's sin at his funeral ever been in general practice in Wales? And if so, how recently did it last? And are there still some remnants of it remaining?" These are questions that currently cause a great deal of talk and writing in England. He came to the surface recently when a papyrus was read out at a meeting of the *British Association*, which led to correspondence in the *Times*, and which permeated it in the usual way to other papers.
 
 This is Dr Brewer's inscription, in his *Dictionary of Phrase and Fable*, of the function of the Sin Eater (as far as we know, none of the books we have on superstition in Welsh contain a word for ritual - so we had to go to English books for information on it): - "An employed person at funerals in ancient times to take on him the sins of the tanned, that the soul may be redeemed." And in *Lelana's Collectanea*, there is a more detailed description: - "An old man would be warned in front of the door of the house, when some of the family would come out, extending to him a low ladder, on which he would sit face to face the door; then he would be given a groat, a bread of bread, which he had eaten, and a bowling of beer, which he consumed on one travail. he was ready to pledge his own soul."
@@ -590,6 +592,7 @@ And what do recent Welsh historians say not about the ritual itself but its trac
 
 Nor does the assembly of Welsh Superstitions known as *Hynafion Cymreig* have the same word for the "Sin-Eaters," though it is referred to in silence. 139 to some remains may be regarded as his remains. On the day of the consecration, it is said, "someone is set to deliver the cake and wine as the people enter the room where the dead are." If the rite of passage in Llandebie was as recent as Moggridge claims, as we have said above, it is surprising that there was no mention of it in the *Hynafion*, which was printed in Carmarthen in 1823, within ten or twelve miles to the spot; and we believe this to be a final reason to believe that Mr Hartland is mistaken, misled by Aubrey and Moggridge. But while saying this, we would not deny the continuation of what may be called the relics of the ritual until forty years ago, if they have indeed disappeared again. Until the end of the first half of this century, it was the custom in the Vale of Clwyd, and no doubt elsewhere, to distribute white bread, or cakes, and keen beer, in every ceremony known as "invited," or invited, to the men; and to show that this was only fodder for the living, the girls were provided with tea and white bread in another room. At "big people" funerals, slices of bara brith and wine were given, but among the middle class, wine was replaced by the keen - or sweetened - hot beer. The enthusiastic beer was brought around the room where the guests sat - all in the same cup of tea - by an assigned neighbor for the task, followed by another neighbor to re-serve the cup when necessary. As this ceremony would be followed with a conclusion, until a goal where it was not needed, it was all but our ancestors' method of expressing their sympathy with each other on the day of the funeral, as did the successors also signifying their joys on a wedding day. Most, if not only, are the rituals we have or have had until recently in our funerals. And Mr. Hartland, while debating this subject over the years, does not respect him, but "say more than he knows," and borrow an old Welsh word. We fail to see the similarities between the sharing of cakes or white bread over the coffin for the function of the Sin Eater, as described above; and the beers and offerings must be of different origins. As we have said, there is not so much one Welsh writer, strict or free, who speaks of the superstitious - the *Popular Antiquities*, *Hynafion Cymreig*, *Cymru Fu* - none of them.
 ```
+````
 
 Perhaps inspired by the *Y Cymro* article, editorial staff over at the *Evening Express* also quoted Brewer's *Dictionary of Phrase and Fable* in their edition of [October 31st, 1895](https://newspapers.library.wales/view/3256919/3256923/81/), p4:
 
@@ -601,22 +604,23 @@ Perhaps inspired by the *Y Cymro* article, editorial staff over at the *Evening 
 
 Seemingly now on a roll, there was now no let up at *Y Cymro*, where the edition of [November 2nd, 1895, p14](https://newspapers.library.wales/view/3588373/3588387/36/Y%20BWYTAWR%20PECHOD), where the tone was increasingly one of chagrine at claims made by Englishmen against the morality of the Welsh, claims that not even the righteous Mr. Prichard, poet, and author of the *Cannwyll y Cymry*, published over three centuries earlier, had managed to discover.
 
-```{panels}
-BWYTA PECHOD
-^^^
+````{grid}
+```{grid-item-card}
+:class-header: BWYTA PECHOD
 
 Fe wyr pawb a wyr rywbeth, ein bod ni fel cenedl wedi derbyn oesoedd o sarhad, yn mhob dull a modd, oddiar law y Saeson ; ac nid ydynt wedi rhoi y goreu i wneyd hyny, mae'n ymddangos, oblegid ni a welwn eu bod yn awr yn ein galw yn "fwytawyr pechod." Os felly, ni raid i ni ofni marw o newyn tra y bont hwy am y clawdd (Offa) i ni, canys y mae'n hysbys drwy yr holl fyd gwareiddiedig, fod ganddynt fwy o lawer na digon o'r diofrydbeth hwnw.
 
 Y ffordd y dywedant y byddwn ni yn bwyta pechod sydd fel hyn:— Pan fo marw aelod mewn teulu, tynir darn o gig, neu ryw fwyd arall, dros gorph y marw, wrth ba un, yr ymddengys, y glyna ei holl bechodau, ac wedi darpariaeth briodol, ar yr hyn a dynur dros y corph, megis rhostio, berwi, pobi, a chrasu, &c., fe'i bwyteir; a cha y corph orwedd yn ei fedd heb i'w bechodau fod yn gorwedd ar ei esgyrn. Peth od na buasai y Ficer Prichard wedi cael hyn allan, os oedd y fath beth yn bod, ac yntau a chanwyll yn ei law am gyd o amser.
+```
 
----
+```{grid-item-card}
+:class-header: Sin Eater
 
-Sin Eater
-^^^
 Everyone who knows something knows that, as a nation, we have received centuries of insult, in every way, from the hands of the English; and they have not given the best to do that, it seems, for we shall see that they are now calling us "sin-eaters." If so, we do not have to fear dying of hunger while they travel for us (Offa), for it is known throughout the civilized world that they have far more than enough of that ruin.
 
 The way in which they say we will eat sin is like this: - When a family member dies, a piece of meat, or some other food, is pulled over the body of the dead, at which, it seems, he will commit all his sins, and after proper provision, on what is touching the body, such as roasting, boiling, baking, and baking, & c., it shall be eaten; and the body may lie in his grave without his sins lying on his bones. It is odd that Vicar Prichard would not have found this out, had there been such a thing, with a candle in his hand for so long.
 ```
+````
 
 The commentary in the Welsh language *Y Cymro* is picked up a few days later in the *Merthyr Times and Dowlais Times and Aberdare Echo* of [November 11th, 1895, p5](https://newspapers.library.wales/view/3098997/3099002/28/). The note begins with a brief summary of the tradition, as given by Moggrdge:
 
@@ -647,9 +651,9 @@ Meanwhile, a letter in *Y Cymro* of [November 14th, 1895, p5](https://newspapers
 ```{index} double: Drcyh yr Amseroedd ; Y Cymro
 :name: drych:y-cymro:diodles
 ```
-```{panels}
-Gohebiaethau.
-^^^
+````{grid}
+```{grid-item-card}
+:class-header: Gohebiaethau.
 
 Y BWYTAWR PECHOD.
 
@@ -668,11 +672,11 @@ Dywed Laurence Howell yn ei *History of the Pontificate* fod yr arferiad wedi de
 Ni chaniata gofod nac amser i mi ymhelaethu ar y testyn dyddorol hwn. Digon yw dweyd fod rhai o'r hen ddefion hyn yn cylymu a rhwymo ein hanes â bore oes y byd. Y maent oll yn sylfaenedig ar resymau dyfnach nag a gydnabyddir yn gyffredin. Unwaith, ac am oesoedd, yn hanes ein cyndadau, y maent wedi bod yn fynegiad gonest, ac yn attegiad grymus i ffydd oedd, os yn llai goleuedig, yn gyfartal, os nad yn rhagorach, mewn symlrwydd a chynesrwydd i ffydd yr oes oleu hon. Yn y gwylnosau, yn yr arferiad o dori ychydig o wallt y marw, ac yn aberth y blodau ar Sul neillduol, yr hyn sydd yn gwaghau'r trefydd ac yn llanw'r claddfeydd yn Neheudir Cymru y blynyddoedd hyn, yr ydym yn canfod yr un seremoniau a arferid mewn amrywiol ddulliau yn Syria ac Arabia dair fil o flynyddau yn ol. Pwy yn gydnabyddus a'i Feibl a erys wrth Orsedd Beirdd ein Heisteddfodau heb i adgofion llawer mil o flynyddoedd dd'od i'w feddwl ? Adgofion Gilgal, a'r "deuddeg careg hyny," adgofion deuddeg careg allor Elias, &c., olion ein hen gyfathrach ynt, lawer ohonynt.
 
 *Wheatville, Rhyl.* T. SHANKLAND.
+```
 
----
+```{grid-item-card}
+:class-header: Correspondence
 
-Correspondence
-^^^
 Sir, - I read your guidance notes on the above topic in *Y Cymro* for October 31st, with great humility. I knew that I had heard talk of the ritual during a country's oral gathering, or that I had read about it in Welsh literature. Having searched and broken down old country oral records, I found a note referring to it exactly as we think it is, and I am sure that you and others who researched the old Welsh customs will find it strange to find the records this by a bright-eyed Welsh author. It was called "Diodlas" or Diodies in Wales. There is a story about her in *Drych yr Amseroedd* ["Mirror of the Times"], (Trefriw print, 1820, in my possession). In pg. 42 states-
 
 *Inquirer* .— It is lamentable to think how mindless our country was in those dark days; especially in the face of such a sobering circumstance that one could see before their eyes having passed through a portal of death to judgment and eternity, and they themselves were falling over the hollow.- I remember hearing my grandfather talk about something and it was called Dïodlas or Dïodles. Can I hear what that is?
@@ -689,12 +693,13 @@ No space or time allowed me to elaborate on this daily topic. Suffice it to say 
 
 *Wheatville, Rhyl.* T. SHANKLAND.
 ```
+````
 
 Breaking the chronology slightly, a correspondent to *Y Cymro* published on [December 26th, 1895, p6](https://newspapers.library.wales/view/3542592/3542598/85/Y%20BWYTAWR%20PECHOD) denies the existence of the tradition in the sense of "sin-eating":
 
-```{panels}
-BWYTA AC YFED PECHOD.
-^^^
+````{grid}
+```{grid-item-card}
+:class-header: BWYTA AC YFED PECHOD.
 
 GAN WATCYN WYN.
 
@@ -705,11 +710,11 @@ Y mae yr un hen sto ri yn cael ei had rodd a'i hail adrodd yn aml; y mae hi yn c
 Dichon fod olion rhyw hen ddefod o'r fath ar hyd y wlad. Bum yn siarad heddyw ag un o Gaerfyrddin, a dywedai wrthyf ei bod hi yn cofio yr arferiad o roi halen ar ddysgl ar y bwrdd lie y byddai corff marw, ac weithie gosodid y *plate* a'r halen ar y corff. Ond dywedai hi mai i buro yr awyr, a gwneyd i ffwrdd a'r arogl yn yr ystafell, y gwneid hyn. Nid oedd hi yn credu fod neb yn ei fwy ta, ond ei fod yno i buro yr ystafell. Yr wyf yn cofio yr arferiad o ranu cwrw yn yr angladd. Bum mewn angladd yn y Trap yn ymyl Llandilo er ys tuag ugain mlynedd yn ol, ac yr oedd cwrw yn cael ei ranu yno cyn codi yr angladd i fyned i Landilo i gladdu. Safai y dynion yn ddwy res ar yr heol y tu allan, ac elai rhai â llestri a chwrw o gylch i gynyg i bob un - ac yn wir yfai y rhan fwyaf hefyd - gallwn feddwl ei bod hi yn arferiad gwlad yno. Celai y menywod gwrw twym, ac yr oedd rhyw lysiau yn y gwpan fawr, o'r hon y rhenid y cwrw. Yr oedd bara a chaws a chwrw yn beth digon cyffredin yn yr ardaloedd hyn er ys deugain mlynedd yn ol, a hyny feallai am fod ffordd bell i fyned a phob ang ladd, a'i bed yn arferiad cario y corff yr holl ffordd ar ysgwyddau; felly yr oedd gofyn bwyd a diod cyn cychwyn i'r siwrne faith.
 
 Y mae careg fawr ar ben y mynydd rhwng Cwmaman a Chwmtawe, ar fynydd y Bettws - careg a elwir heddyw yn Llech yr Halen. Wn i a oedd rhywbeth a wnelo yr hen gareg hono — Llech yr Halen— â bwyta pechod? Wn i a oedd ambell un, wrth ei gario i Langiwc o Gwmaman, neu o'r ochr arall i Landebie; wn i a oedd rhai o'r hen frodorion diniwed yn cael bwyta eu pechodau ar Lech yr Halen? Dichon fod gan rywun arall air i'w ddweyd ar hyn. Byddai yn dda genyf glywed os oes.
+```
 
----
+```{grid-item-card}
+:class-header: EATING AND DRINKING EATING.
 
-EATING AND DRINKING EATING.
-^^^
 BY WHITE WATCH.
 
 AMMANFORD, Dec. 1.- In a recent article in the *Cymro*, the old habit of "Eating sin." Came about quite close to where I live. It is not eating sin as *bread*, but eating sin as *salt* that we in Llandebie would do for many days, according to the tradition spoken of. I live in the parish of Llandebie, and I think I can say with certainty that here was no eating of sin very recently, because sin is so high in Llandebie today as it is near a parish in the whole country that, if he had eaten sin, the eater could not clear the table anyhow. Remember, I am not saying that there is more sin in Llandebie than elsewhere - but if the tradition you say about it is true, that a man is paid to eat the sin of the old parishioners, and that is recent in the history of the parish - if this is the case, this sin should have been less flowery than in neglected places.
@@ -720,5 +725,6 @@ There may be traces of some ancient ritual throughout the country. I was talking
 
 There is a large rock at the head of the mountain between Cwmamman and Cwmtawe, on the Bettws mountain - today known as Llech yr Halen. I wonder if that old stone - Llech yr Salt - had something to do with eating sin? I know if there were some, when it was being carried to Llangiwc from Cwmaman, or from the other side to Llandebie; do I know if some of the innocent old natives were allowed to eat their sins on the Salt Slab? Someone else may have a word to say on this. I'd love to hear if there is.
 ```
+````
 
 At this point, let take a brief interlude from the correspondence, and see what Fiona Macleod's fictional short story of a sin-eater in the Highlands has to say. We shall then moving on to a new forum for the correspondence debate, for as the *Bye-Gones* editor had suggested, *The Times* had tired of these provincial mutterings, even if the correspondents had not. For it had returned to the home of the original debate, in the pages of *The Academy*.
