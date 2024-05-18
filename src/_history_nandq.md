@@ -267,7 +267,8 @@ Finally, in the notices to correspondents of that final issue of the year, [p143
 ## The Second Volume
 
 With the launch of the second volume of *Notes and Queries* on June 1st, 1850, [Vol 2 Iss 31, p1](https://archive.org/details/sim_notes-and-queries_1850-06-01_2_31/page/n1/mode/2up), the editor took the opportunity of this milestone to reflect on progress to date.
-Editors took the opportunity of not so much anniversaries as milestones to reflect on the journey so far:
+
+The editor took the opportunity of such a milestone to reflect on the journey so far:
 
 > OUR SECOND VOLUME.
 >
@@ -450,6 +451,32 @@ This prompted a reply in the issue of three weeks later, [Series 2, Vol 2 Iss 49
 
 > Contributors' Names (2nd S. ii. 382.) — Mr. CARRINGTON's proposition that contributors to " N. & Q." should affix their names to their articles, though plausible enough, would, I believe, be eventually the ruin of the undertaking. Those who please may, and many do sign, and others who give no name are as well known as if they did; but as a general rule the absence of the name is, I am satisfied, best. It tends to brevity — it obviates personalities — it allows a freer intercommunication of opinion and criticism. Contributors under the initials of B. J. or R. would be less touchy and less obstinate — less unwilling to ask or receive instruction or correction —than if they had to maintain a public discussion in their proper names and characters as Mr. Brown, Mr. Jones, and Mr. Robinson. It is the same principle of maintaining order and good humour in debate that prohibits in Parliament the use of " Honourable Members’" proper names. If we were all to give our names "N. & Q." would, in three weeks, be a cock-pit !
 
+## Choice Notes From The First Series
+
+As the first series came to an end, the opportunity to publish "collected highlights" was not lost on Thoms:
+
+```{admonition} Choice notes, 1858
+:class: dropdown
+History. Choice notes from 'Notes and queries'.
+by Notes and queries, 1858, [p.v-vi](https://archive.org/details/historychoiceno00quergoog)
+
+PREFACE.
+
+On the completion of the First Series of Notes and Queries, it was suggested from many quarters, that a selection of the more curious articles scattered through the twelve volumes would be welcome to a numerous body of readers. It was said that such a selection, judiciously made, would not only add to a class of books of which we have too few in English literature, — we mean books of the pleasant gossiping character of the French Ana for the amusement of the general reader, — but would serve in some measure to supply the place of the entire series to those who might not possess it.
+
+It has been determined to carry out this idea by the publication of a few small volumes, each devoted to a particular subject. The first, which is here presented to the reading world, is devoted to History : and we trust that whether the reader looks at the value of the original documents here reprinted, or the historical truths here established, he will be disposed to address the book in the words of Cowper, sO happily suggested bj Mr. Peter Cunningham as the appropriate motto of Notes and Queries itself, —
+
+By thee I might correct, erroneous offt,  
+The clock of History — facts and events  
+Timing more punctual, unrecorded facts  
+Recoveringy and mis-stated setting right.
+
+While on the other hand the volume, from its miscellaneous character, will, we hope, be found an acceptable addition to that pleasant class of books which Horace Walpole felicitously describes as " lounging books, books which one takes up in the gout, low spirits, ennui, or when one is waiting for company."
+
+THE EDITOR.
+
+```
+
 ## Notes and Queries Crosses the Atlantic
 
 In passing, we note that [Series 2, Vol 5 Iss 114, p199](https://archive.org/details/sim_notes-and-queries_1858-03-06_5_114/page/198/mode/2up) of March 6th, 1858, recognised the launch of an American version of Notes and Queries":
@@ -504,7 +531,7 @@ Many years later, in the April 13th, 1867, edition, [S. 3, Vol 11 Iss 276, p293 
 
 ## On Anonymous Contributions
 
-Questions relting to anonymous contributions in general resurfaceed in 1864, following what was presumably the "outing" of a reviewer in The Times, who seems to have been forced to shed a cloak of anonymity in favour of a named by-line, with a note in *Notes and Queries* of March 19th, 1864, [Vol 5 Iss 116, p238](https://archive.org/details/sim_notes-and-queries_1864-03-19_5_116/page/238/mode/2up). The correspondent was obviously in favour of *named* contributions, feeling these would add weight to reviews:
+Questions relating to anonymous contributions in general resurfaceed in 1864, following what was presumably the "outing" of a reviewer in The Times, who seems to have been forced to shed a cloak of anonymity in favour of a named by-line, with a note in *Notes and Queries* of March 19th, 1864, [Vol 5 Iss 116, p238](https://archive.org/details/sim_notes-and-queries_1864-03-19_5_116/page/238/mode/2up). The correspondent was obviously in favour of *named* contributions, feeling these would add weight to reviews:
 
 > Anonymous Contributions to "N. & Q."— Mr. Cobden, a gladiator daring the dangers of the arena in defence of another's political integrity, has compelled the editor of The Times to lay aside the garb of "airy nothing," and to assume, like other folk, "a local habitation and a name." Though the struggle has been unseemly in the extreme, though the scheme proposed by that gentleman has been condemned by the fourth estate of the realm, and though it would, if carried out, inevitably destroy the freedom and beneficial influence of the English press, it may yet lead to some suggestions with regard to the anonymous nature of many contributions to " N. & Q.," and other publications purely literary. A review would be read with greater avidity if it were known that a Macaulay or a Jeffreys had penned it. In a similar manner the value of this work would, I submit, be increased a hundred fold if all subscribed their names to their communications. It is only after an experience of the usual justness of a writer's deductions that any weight can be attached to a SHEM, a HERMENTRUDE, or a F.C. H. Nor would the same attention be paid to the ideas or suggestions of a Professor De Morgan, a Lord Lyttelton, or a HALLIWELL, if the authorship of their articles remained a secret. Wynne E. Baxter.
 
@@ -527,25 +554,53 @@ Although not part of the discussion on anonymity, a note on "our Medium or inter
 > "Our Medium or Intercommunication." — From a recent personal experience, and which I consider an exceedingly happy one, I wish to state to the readers and contributors of " N. & Q." that the periodical in question is presented to me in an entirely new light—viz. as a medium for introduction to a scholar or gentleman, for any brother-contributor venturing on the privilege of a private correspondence. I am emboldened to prefer this suggestion to the general readers of "N. & Q." from the fact of having submitted a question of relative importance through the post to a gentleman known only to me by " making note" of the signature appended to an article in one of its instructive pages: the result of which was a copious supply of the knowledge I so much desiderated, enhanced by the utmost courtesy, and proffers of further valuable assistance. I trust the obvious benefit presented by this statement will condone for the intrusion I have ventured upon, but which is made in the pure spirit of promoting good fellowship, and propagating extended knowledge amongst the readers and contributors of your inexhaustible " medium of intercommunication." Edward C. DAVIES.
 Cavendish Club.
 
-TO DO
+## Thoms relinquishes His Role as Editor
 
----
+In 1872, 23 years after founding *Notes and Queries*, WIlliam Thoms stepped down as editor in the September 28th, 1872, issue.
 
----
+```{admonition} Thoms' parting message, September 28th, 1872
+:class: dropdown
+
+*Notes and Queries*, 1872-09-28: Vol 10 Iss 248, 4h S. x., [p241](https://archive.org/details/sim_notes-and-queries_1872-09-28_10_248):
+
+A PARTING NOTE
+
+There is something very solemn in performing any action under the consciousness that it is for the last time.
+
+Influenced by this feeling it had been my intention that this the last number of NOTES AND QUERIES edited by me should not have contained any intimation that the time had arrived, when I felt called upon to husband my strength and faculties for those official duties which form the proper business of my life.
+
+But the fact having been widely announced, I owe it to myself, and to my sense of what is due to that large body of friends, known and unknown, by whom I have been for three-and-twenty years so ably and generously seconded, to tender them my public andu graeful acknowledgements for their long continued kindnesses.
+
+"With conscious pride I view the band  
+Of faithful frineds that round me stand;  
+With pride exult that I alone  
+Have joined these scattered gems in one ;  
+On which these pearls united shine."
+
+The pride is surely a most justifiable one,; and he who could separate himself from the pleasant associations which I have thus enjoyed for nearly a quarter of a century, without deep pain and emotion, must be made of sterner materials than I can boast.
+
+That pain would be yet greater, that emotion yet more deep, did I not feel assured that in resigning my "plumed" sceptre into the hands of Dr. DORAN, I entrust it to one who not only desires to maintain inchanged the general character of this Journal, but will, by his intelligence, courtesy, and good feeling, secure for dear old NOTES AND QUERIES the continued allegiance of those kind and intelligent friends who have made it what it is.
+
+To those friends, one and all, I now with the deepest gratitude, and most earnest wishes for their welfare and hapiness, tend a hearty and affectionate FAREWELL.
+
+WILLIAM J. THOMS.
+
+In publicly acknowledging how grate are my obligations to my accomplished frined MR. JANES YEOWELL, for his valued and long continued assistance, I am doing a simple act of justice which it affords me the highest gratification to perform.
+
+```
 
 ## The Origins of *Notes and Queries*
 
-Thoms - biog- From July, 1876 to April 1877 (volumes 6 and 7 of the 5th series), Thomes published in *Notes and Queries* under his own name an account of the history of the periodical ?? or paper ??. 
+From July, 1876 to April 1877 (volumes 6 and 7 of the 5th series, 5 S., vi. 1, 41, 101, 221; vii. 1, 222, 303), Thomes published an account of the history of the *Notes and Queries*  under his own name.
 
-(5 S., vi. 1, 41, 101, 221; vii. 1, 222, 303)
+```{admonition} Scanned collection of the original articles
+:class: seealso
+A scanned collection of the original articles can be found [here](https://archive.org/details/the-story-of-notes-and-queries/mode/2up).
+```
 
-https://archive.org/details/sim_notes-and-queries_1876-07-01_6_131/page/n1/mode/2up Notes and Queries  1876-07-01: Vol 6 Iss 131 p1, 5th S. VI
-
-TH: "a revolution scarcely less important than that which had been brought about by the invention of printing"
-
-TH: ??? "I need not fill space with an account of a scheme which was never carried out" WHAT WAS THE SCHEME? the margin is too small etc
-
-p1-2
+```{admonition} In Vol 6 Iss 131 p1, 5th S. VI, July 1st, 1876
+:class: dropdown
+*Notes and Queries*, 1876-07-01: Vol 6 Iss 131 p1, 5th S. VI, [p1-2](https://archive.org/details/sim_notes-and-queries_1876-07-01_6_131/page/n1/mode/2up): 
 
 THE STORY OF "NOTES AND QUERIES."
 
@@ -585,9 +640,11 @@ But enough for this week; for though, like honest Dogberry, I can find it in my 
 
 William J. Thoms.
 
----
+```
 
-https://archive.org/details/sim_notes-and-queries_1876-07-15_6_133 Notes and Queries  1876-07-15: Vol 6 Iss 133 p41-2, 5th. S. VI
+```{admonition} Vol 6 Iss 133, 5th. S. VI, July 15th, 1876
+:class: 
+*Notes and Queries*, 1876-07-15: Vol 6 Iss 133, 5th. S. VI, [p. 41-2](https://archive.org/details/sim_notes-and-queries_1876-07-15_6_133):
 
 THE STORY OF "NOTES AND QUERIES."
 
@@ -623,10 +680,11 @@ William J. Thoms.
 
 [It will not be out of place here to say that a correspondent writes to ask us if there is any hope of the readers of "N. & Q." having the benefit of perusing some of that " incessant correspondence " which Mr. Thoms refers to, in his interesting " Story " (ante, p. 2), as having been carried on for some years between himself and the late lamented John Bruce.]
 
+```
 
----
-
-https://archive.org/details/sim_notes-and-queries_1876-08-05_6_136 Notes and Queries  1876-08-05: Vol 6 Iss 136 , 5th S. VI p101-102
+```{admonition} Vol 6 Iss 136 , 5th S. VI, August 5th, 1876
+:class: dropdown
+*Notes and Queries*, 1876-08-05: Vol 6 Iss 136 , 5th S. VI [p101-102](https://archive.org/details/sim_notes-and-queries_1876-08-05_6_136):
 
 THE STORY OF "NOTES AND QUERIES." *(Continued from p. 42.)*
 
@@ -663,12 +721,11 @@ William J. Thoms.
 
 (To be continued.)
 
+```
 
----
-
-  
-https://archive.org/details/sim_notes-and-queries_1876-09-16_6_142 Notes and Queries  1876-09-16: Vol 6 Iss 142 p221-2 5th S. VI
-
+```{admonition} Vol 6 Iss 142, 5th S. VI, September 16th, 1876
+:class: dropdown
+*Notes and Queries*, 1876-09-16: Vol 6 Iss 142, 5th S. VI, [p221-2](https://archive.org/details/sim_notes-and-queries_1876-09-16_6_142):
 
 THE STORY OF "NOTES AND QUERIES."
 *(Continued from p. 102.)*
@@ -696,18 +753,19 @@ My friend Dr. Diamond, whose characteristic it is to carry into any investigatio
 The Rev. Alfred Gatty, the editor of the new edition of Hunter's *Hallamshire*, contributed to this number a series of interesting " Letters from Lord Nelson's brother, written immediately after the Battle of Trafalgar," and the late learned librarian of the Chetham Library some valuable notes on " Herbert's Ames" ; while the number, which showed a decided increase in the list of contributors under initials and pseudonyms, was prefaced by a table of contents, which had been suggested by several correspondents, who had also urged the necessity of a good index. But I must postpone for the present what I have to say on the subject of our indexes.
 
 William J. Thoms. (To be continued.)
+```
 
----
+```{admonotion} Vol 7 Iss 158, 5th S. VII, January 6th, 1877
+:class: dropdown
 
-https://archive.org/details/sim_notes-and-queries_1877-01-06_7_158/page/n1/mode/2up  Notes and Queries  1877-01-06: Vol 7 Iss 158 p1-2 5th S. VII
+*Notes and Queries*, 1877-01-06: Vol 7 Iss 158, 5th S. VII, [p1-2](https://archive.org/details/sim_notes-and-queries_1877-01-06_7_158/page/n1/mode/2up):
 
 The STORY OF "NOTES AND QUERIES"
 (Cont S. vi. 222)
 
 Every week added new and distinguished names to the list of avowed conributors, while others no less able preferred to identify their communications by pseudonyms or initials only. Thus, in the fourth number, appeared articles from the pens of Mr. Edward Hawkins, Mr. Singer, and the Rev. Mackenzie Walcott.
 
-It was my privilege to be acquained fo many years with the learned, frank, outspoken, and straightforward Keeper of the Antiquities in the British Museum, who possessed a great variety of information on matters totally distinct from the department over which he presided with som much advantage. For instance, no man in England had so thorough an acquantance with the history of caricature in this country; and his collection of the works of our caricaturists was the most complete that had ever been formed. Many a pleasant morning have I passed in examining that collection; and it was my good fortune on one occasion to discover the point of a small satirical print in his possession, which had baffled the inquiries not only of Mr. Hawkins himself,  but of the late Mr. John Wilson
-Croker and Lord Holland. The print I allude to is that described in the Third Series of "N. & Q.", vol. ii. p. 401, and vol, x. p. 323. My success in this respect led him to challenge me to make further inquiries of a similar character, when baffled in licalhis endeavours to discover and make a note of the point of any caricature; for his collection was not only systematically catalogued, but carefully annotated, as all who had occasion to avail themselves of the liberality with which he placed his portfolios at the service of his literary friends will testify. Mr. Wright, in his *England Under the House of Hanover*, has paid a grateful tribute to Mr. Hawkins for the kindness with which he placed his large collections as his service.
+It was my privilege to be acquained fo many years with the learned, frank, outspoken, and straightforward Keeper of the Antiquities in the British Museum, who possessed a great variety of information on matters totally distinct from the department over which he presided with som much advantage. For instance, no man in England had so thorough an acquantance with the history of caricature in this country; and his collection of the works of our caricaturists was the most complete that had ever been formed. Many a pleasant morning have I passed in examining that collection; and it was my good fortune on one occasion to discover the point of a small satirical print in his possession, which had baffled the inquiries not only of Mr. Hawkins himself,  but of the late Mr. John Wilson Croker and Lord Holland. The print I allude to is that described in the Third Series of "N. & Q.", vol. ii. p. 401, and vol, x. p. 323. My success in this respect led him to challenge me to make further inquiries of a similar character, when baffled in licalhis endeavours to discover and make a note of the point of any caricature; for his collection was not only systematically catalogued, but carefully annotated, as all who had occasion to avail themselves of the liberality with which he placed his portfolios at the service of his literary friends will testify. Mr. Wright, in his *England Under the House of Hanover*, has paid a grateful tribute to Mr. Hawkins for the kindness with which he placed his large collections as his service.
 
 Upon the death of Mr. Hawkins the Trustees of the British Museum became the purchasers of his caricatures, and I may here record an act of great liberality on the part of Mr. Hawkins' representatives which deserves to be made known. ALl those who have paid any attention to this class of satirical works must have experienced the difficulty of arranging them in chronological order from the grossness and indecency by which many of them are disfigured, and are compelled, if they desire to make their collections complete, to keep separatley the most objectionable ones. Mr Hawkins adopted this very proper course; a spearate portfolio contained those caricatures which were most offensive, but many of which were among the most valuable (historically) in his collection. Some two or three years after it had been deposited in the Museum, I fancied I had found a clue to one of these objectionale caricatures relating to a distinguished personage and on my next visit to the British Museum visited Print Room for the purpose of ascertaining whether or not I was right. To my surprise the print was not to be found. Mr. Reid had never seen it, and it was not until he had referred to Mr. Hawkins's MS. catalogue, and found it duly recorded there, that he was satisifed that I had seen it in Mr. Hawkins's possession. Two or three other references to the catalogue for prints of a similar character soon established the fact that the portion of Mr. Hawkins's collection to which they belonged had never reached the Museum. The fact was the portfolio containing them, having been kept separately from the rest, had been overlooked by the family, who, on being applied to, most handsomely handed it over to the Museum, although it had never been seen by the gentleman who valued the collection, and who must have added a considerable sum to the estimated value if it had been submitted to his inspection.
 
@@ -717,11 +775,11 @@ William J. Thoms.
 
 *(To be continued.)*
 
+```
 
----
-
-https://archive.org/details/sim_notes-and-queries_1877-03-24_7_169/page/n1/mode/2up Notes and Queries  1877-03-24: Vol 7 Iss 169 p222-3 5th S. VII
-
+```{admonition} Vol 7 Iss 169, 5th S. VII, March 24th, 1877
+:class: dropdown
+*Notes and Queries*, 1877-03-24: Vol 7 Iss 169, 5th S. VII, [p222-3](https://archive.org/details/sim_notes-and-queries_1877-03-24_7_169/page/n1/mode/2up):
 
 THE STORY "NOTES AND QUERIES."
 
@@ -755,10 +813,11 @@ William J. Thoms.
 
 *(To be continued.)*
 
+```
 
----
-
-https://archive.org/details/sim_notes-and-queries_1877-04-21_7_173/page/n1/mode/2up Notes and Queries  1877-04-21: Vol 7 Iss 173 p303-305
+```{admonition} Vol 7 Iss 173, April 21st, 1877
+:class: dropdown
+*Notes and Queries*, 1877-04-21: Vol 7 Iss 173, [p303-305](https://archive.org/details/sim_notes-and-queries_1877-04-21_7_173/page/n1/mode/2up):
 
 The Story of "Notes and Queries"
 
@@ -798,52 +857,35 @@ And now, *manum de tabulâ*. I commenced this long stroy with an allusion to hon
 
 William J. Thoms
 
+```
 
+## William J. Thoms, Obiturary, 1885
 
---
+William J. Thoms died on Saturday, 15th August, 1885. His obituary in *Notes and Queries* appeared a week later:
 
-https://archive.org/details/sim_notes-and-queries_1872-09-28_10_248
-Notes and Queries  1872-09-28: Vol 10 Iss 248
-Publication date 1872-09-28
-4h S. x., 241
+```{admonition} William J. Thoms, Obituary, *Notes and Queries*
+:class: dropdown
+In *Notes and Queries*, 1885-08-22: Vol 12 Iss 295, [p141](https://archive.org/details/sim_notes-and-queries_1885-08-22_12_295).
 
-A PARTING NOTE
+W. J. THOMS.
 
-There is something very solemn in performing any action under the consciousness that it is for the last time.
+On Saturday last, at a few minutes before midght, Mr. William John Thoms expired at his house, St. George’s Square, Belgrave Road. Mr. Thoms, who was born on November 16, 1803, and as consequently in his eighty-second year, had outlived most of his contemporaries. Of the brilliant gathering which assembled at Willis’s Rooms n November 1, 1872, to do him honour on his signing the editorship of " N. & Q." few are left. Lord Stanhope, the chairman, Lord Lyttelton, the vice-chairman, Lord Houghton, Sir Thomas Duffus Hardy, Sir M. Digby Wyatt, and a host of others, including Mr. Thoms’s two successors in the editorial chair, have passed away. A few only of those who thirty-six years ago assisted Mr. Thoms in establishing " N. & Q." survive to hear of his departure, with that modified sense of loss which tends the exit of one whose race has long been run and whose honours and rewards came to him in days now remote. Since his resignation in 1882 of active service, Mr. Thoms’s interest in life has languished. He has during the last few years gone little into the world, and the hope occasionally expressed by his friends that he would live personally to confute his well-known theories with regard to longevity has been playful rather than sanguine.
 
-Influenced by this feeling it had been my intention that this the last number of NOTES AND QUERIES edited by me should not have contained any intimation that the time had arrived, when I felt called upon to husband my strength and faculties for those official duties which form the proper business of my life.
+The connexion of Mr. Thoms with "N. & Q." is now historic. He has himself, in vols. vi. and vii. of the Fifth Series, left on record the circumstances under which this periodical was conceived, named, and started.
 
-But the fact having been widely announced, I owe it to myself, and to my sense of what is due to that large body of friends, known and unknown, by whom I have been for three-and-twenty years so ably and generously seconded, to tender them my public andu graeful acknowledgements for their long continued kindnesses.
+Mr. Thoms was a son of the late N. Thoms, secretary of the first Commission of Revenue Inquiry, was born in Westminster, and began active life as a clerk in the secretary’s office, Chelsea Hospital. He was elected in 1838 a Fellow of the Society of Antiquaries. In the same year he became Secretary of the Camden Society, a post he held until 1873. He was also a Fellow of the Society of Antiquaries of Edinburgh and Copenhagen, and Secretary of the AElfric Society. An incomplete list of his various contributions to literature is given in *Men of the Time*. At 4th S. x. 241 appears his farewell note on resigning his connexion with " N. & Q." During many years Mr. Thoms held an appointment in the House of Lords. In 1863 he was appointed to the deputy librarianship of the House of Lords, a post he resigned in consequence of old age in 1882.
 
-"With conscious pride I view the band  
-Of faithful frineds that round me stand;  
-With pride exult that I alone  
-Have joined these scattered gems in one ;  
-On which these pearls united shine."
+A sound and an accurate scholar, the close ally during more than half a century of the best English and foreign scholars, Mr. Thoms had in an eminent degree the serviceable gift of knowing where information was to be found. This quality, invaluable in a librarian as well as in an editor, rendered him especially serviceable to the members of the House of Lords, with many of whom he was on terms of close and honourable intimacy. His genial fancy and humour and his social gifts rendered him a favourite in all companies, while such were his good nature, his kind-heartedness and tact, that he was mixed up in no archieological feud or quarrel, and preserved through his life a record of intimacies and friendships unbroken and undiversified by a single quarrel. Mr. Thoms was before all things a student. The stores of his admirably furnished mind were at the service of any one engaged in earnest work; but he was retiring in nature, little given to promiscuous hospitality, and little addicted to the life of clubs. Few figures were less familiar than his at the Atheneum Club, of which during many years he was a member. In religion a moderate High Churchman, and in politics a strong Conservative, he held aloof from polemics, and he frequently, under a sense of official responsibility, abstained from voting when a Government opposed to his sympathies was in power. Mr. Thoms slept in the midst of his books, with which, indeed, his house was crammed. His library, which is miscellaneous in character, is eminently rich in books relating to the Junius controversy, in which, as is known, he took a keen interest. Among the proofs of his happiness in hitting on names may be cited his choice of *Notes and Queries*, his invention of the word *folk-lore*, and his application to the churchyard of the term, taken from the German and immediately seized upon by the public, God’s acre. Contributors to " N. & Q." might add greatly to reminiscences which, unfortunately, have little that is personal. This periodical may, perhaps, take rank as the best outcome of Mr. Thoms's mind. It is, at least, likely to keep his memory in survival.
 
-The pride is surely a most justifiable one,; and he who could separate himself from the pleasant associations which I have thus enjoyed for nearly a quarter of a century, without deep pain and emotion, must be made of sterner materials than I can boast.
+```
 
-That pain would be yet greater, that emotion yet more deep, did I not feel assured that in resigning my "plumed" sceptre into the hands of Dr. DORAN, I entrust it to one who not only desires to maintain inchanged the general character of this Journal, but will, by his intelligence, courtesy, and good feeling, secure for dear old NOTES AND QUERIES the continued allegiance of those kind and intelligent friends who have made it what it is.
+## Looking back, 1899
 
-To those friends, one and all, I now with the deepest gratitude, and most earnest wishes for their welfare and hapiness, tend a hearty and affectionate FAREWELL.
+As *Notes and Queries* reached its 100th volume, the time was ripe for a retrospective look back at the history of the publication to date, including some of the highlights from the earliest issues.
 
-WILLIAM J. THOMS.
-
-In publicly acknowledging how grate are my obligations to my accomplished frined MR. JANES YEOWELL, for his valued and long continued assistance, I am doing a simple act of justice which it affords me the highest gratification to perform.
-
-https://archive.org/details/sim_notes-and-queries_1899-11-04_4_97/page/372/mode/2up
-Notes and Queries  1899-11-04: Vol 4 Iss 97
-Publication date 1899-11-04
-p361-
-
-OBITUARY NOTICES OF CONTRIBUTORS, 1849-1899.
-includes Noms de plume
-
-https://archive.org/details/sim_notes-and-queries_1899-11-04_4_97/page/n3/mode/2up
-Notes and Queries  1899-11-04: Vol 4 Iss 97
-Jubilee 100th volume with special editorial
-
-FROM p363
+```{admonition} Special editorial, Jubilee 100th volume, 1899
+:class: dropdown
+Notes and Queries, 1899-11-04: Vol 4 Iss 97, Jubilee 100th volume with special editorial, [p363—](https://archive.org/details/sim_notes-and-queries_1899-11-04_4_97/page/n3/mode/2up)
 
 ...
 
@@ -953,7 +995,7 @@ Mr. Thoms again appears before the readers of *Notes and Queries* in the preface
 
 ...
 
-Saturday the 15th of August, 1885, was a day of deep mourning for *Notes and Queries&. The kind-hearted, genial scholar, its founder and first editor, was dead. The obituary notice, written by Mr. Knight, which appeared the following week, renders full tribute to his sound learning, his genial fancy and humour, as well as to his social gifts, which caused him to be a favourite in all companies, while his good nature and tact saved him from being mixed up in archeological feuds, and preserved to him throughout his life a record of intimacies and friendships unbroken by a single quarrel.
+Saturday the 15th of August, 1885, was a day of deep mourning for *Notes and Queries*. The kind-hearted, genial scholar, its founder and first editor, was dead. The obituary notice, written by Mr. Knight, which appeared the following week, renders full tribute to his sound learning, his genial fancy and humour, as well as to his social gifts, which caused him to be a favourite in all companies, while his good nature and tact saved him from being mixed up in archeological feuds, and preserved to him throughout his life a record of intimacies and friendships unbroken by a single quarrel.
 
 Although the daily papers at the time, as well as *The Atheneum*, gave obituary notices and the 'Dictionary of National Biography ' contains particulars of his life written by Mr. E. Irving Carlyle (how proud he would have been at the constant reference made to 'N. & Q.' in its pages!), I have felt that we should have some record to refer to in his own journal.
 
@@ -986,30 +1028,12 @@ Among other speakers were Mr. Benjamin Moran, United States Chargé d’Affaires
 With this celebration Mr. Thom's public life may be said to have closed. The next thirteen years were passed for the most part quietly in the sanctuary of home, surrounded by those he loved, until the end came, in the old home endeared to him by so many memories. His life had been so long that few of his earlier friends had been spared to follow him to the cemetery at Brompton. My companion on that oceasion was one of his oldest friends and contributors, Mr. Hyde Clarke, since passed to his rest. The Atheneum of the 14th of last month announced the death of another of his old friends, Col. Francis Grant. Mr. Thoms's library of some fifteen thousand volumes, which included a large collection of works on Pope and Junius, was sold by Messrs. Sotheby in February, 1887.
 
 In this little record of Mr. Thoms's life I have been aided by his eldest son, Mr. Merton Thoms. I have also to thank him for allowing me to make a copy of a photograph taken by Dr. Diamond, so that the readers of 'N. & Q.' may be in possession of this interesting souvenir of our founder. The words are facsimiled from those written by Mr. Thoms on the back of a portrait which he gave to my father. I have been trying to persuade Mr. Merton Thoms to give us a volume about his father, to include some of the rich stores of correspondence now in his possession.
-]
-----
 
+```
 
+```{admonition} Also in *Notes by the Way*, 1909
+:class: seealso
 
-https://archive.org/details/historychoiceno00quergoog
-History. Choice notes from 'Notes and queries'.
-by Notes and queries
-Publication date 1858
-p.v-vi
+The preceding history also appeared as chapter III of *Notes by the way, With memoirs of Joseph Knight, F.S.A., dramatic critic and editor of 'Notes and queries,' 1883-1907, and the Rev. Joseph Woodfall Ebsworth, F.S.A., editor of the Ballad society's publications*, 1909, [pp. 35-53](https://archive.org/details/notesbywaywithme00franuoft/notesbywaywithme00franuoft/page/34/mode/2up).
 
-PREFACE.
-
-On the completion of the First Series of Notes and Queries, it was suggested from many quarters, that a selection of the more curious articles scattered through the twelve volumes would be welcome to a numerous body of readers. It was said that such a selection, judiciously made, would not only add to a class of books of which we have too few in English literature, — we mean books of the pleasant gossiping character of the French Ana for the amusement of the general reader, — but would serve in some measure to supply the place of the entire series to those who might not possess it.
-
-It has been determined to carry out this idea by the publication of a few small volumes, each devoted to a particular subject. The first, which is here presented to the reading world, is devoted to History : and we trust that whether the reader looks at the value of the original documents here reprinted, or the historical truths here established, he will be disposed to address the book in the words of Cowper, sO happily suggested bj Mr. Peter Cunningham as the appropriate motto of Notes and Queries itself, —
-
-By thee I might correct, erroneous offt,  
-The clock of History — facts and events  
-Timing more punctual, unrecorded facts  
-Recoveringy and mis-stated setting right.
-
-While on the other hand the volume, from its miscellaneous character, will, we hope, be found an acceptable addition to that pleasant class of books which Horace Walpole felicitously describes as " lounging books, books which one takes up in the gout, low spirits, ennui, or when one is waiting for company."
-
-THE EDITOR.
-
-[The notes and queries selected are described in an annotated form, with context provided by the editor, similar in form the to the style of I have been using in this set of notes. --TH]
+```

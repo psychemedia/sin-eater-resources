@@ -13,6 +13,7 @@ parts:
 - caption: Minor Diversions
   chapters:
   - file: _origin-phrase-folk-lore
+  - file: _history_nandq
   - file: _souling_and_soul_cake
 - caption: The First Controversy, 1875-6
   chapters:
