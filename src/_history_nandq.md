@@ -859,7 +859,7 @@ William J. Thoms
 
 ```
 
-## William J. Thoms, Obiturary, 1885
+## William J. Thoms, Obituary, 1885
 
 William J. Thoms died on Saturday, 15th August, 1885. His obituary in *Notes and Queries* appeared a week later:
 
