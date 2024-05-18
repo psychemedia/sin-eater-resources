@@ -643,7 +643,7 @@ William J. Thoms.
 ```
 
 ```{admonition} Vol 6 Iss 133, 5th. S. VI, July 15th, 1876
-:class: 
+:class: dropdown
 *Notes and Queries*, 1876-07-15: Vol 6 Iss 133, 5th. S. VI, [p. 41-2](https://archive.org/details/sim_notes-and-queries_1876-07-15_6_133):
 
 THE STORY OF "NOTES AND QUERIES."
@@ -755,7 +755,7 @@ The Rev. Alfred Gatty, the editor of the new edition of Hunter's *Hallamshire*, 
 William J. Thoms. (To be continued.)
 ```
 
-```{admonotion} Vol 7 Iss 158, 5th S. VII, January 6th, 1877
+```{admonition} Vol 7 Iss 158, 5th S. VII, January 6th, 1877
 :class: dropdown
 
 *Notes and Queries*, 1877-01-06: Vol 7 Iss 158, 5th S. VII, [p1-2](https://archive.org/details/sim_notes-and-queries_1877-01-06_7_158/page/n1/mode/2up):
