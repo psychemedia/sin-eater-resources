@@ -208,7 +208,7 @@ Joan Ford took Guavas by the hand and led him forth out of the house, and seated
 
 "What consequence?"
 
-"What has been on thee ever since that night save the enmity of Dickon Rawle? Wherefore has that come ?"
+"What has been on thee ever since that night save the enmity of Dickon Rawle? Wherefore has that come?"
 
 "That is easily answered. I quarrelled with him at Crockern Stannary Hall, and for that reason and through envy at my fancied success, and the gall of malice that lies in the grounds of his mean heart, he stirred up a false charge against me of having defrauded the Queen, and obtained my punishment by the overbearing might of the bailiff, Rodda, and then "
 

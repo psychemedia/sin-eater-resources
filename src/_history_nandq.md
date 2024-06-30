@@ -237,9 +237,9 @@ Thoms also acknowledges the contributory and co-operative nature of the enterpri
 
 before reflecting on the driving force for this support:
 
-> And whence arises this " earnest co-operation ?" Is it too much to hope that it springs from an increased reverence for the Truth, from an intenser craving after a knowledge of it— whether such Truth regards an event on which pended, or the etymology of some household word now familiar only to
+> And whence arises this " earnest co-operation?" Is it too much to hope that it springs from an increased reverence for the Truth, from an intenser craving after a knowledge of it— whether such Truth regards an event on which pended, or the etymology of some household word now familiar only to
 >
-> " Hard-handed men who work in Athens here ?"
+> " Hard-handed men who work in Athens here?"
 >
 > We feel that the kind and earnest men who honour our "Notes and Queries" with their correspondence, hold with Bacon that
 >
@@ -924,7 +924,7 @@ And this end had, to a certain extent, been accomplished, "Our last number," con
 
 A further note of congratulation is added in "Our Hundredth Number," when Mr. Thoms claims "the privilege of age to be garrulous." He states that "during the hundred weeks our paper has existed we have received from Sweden, Denmark, Germany, Holland, Belgium, and France — from the United States — from India—from Australia —from the West Indies— from almost every one of our Colonies letters expressive of the pleasure which the writers many of them obviously scholars 'ripe and good,' though far removed from the busy world of letters), derive from the perusal of ' Notes and Queries.' "
 
-Mr. Thoms adds: " How many a pertinent Note, suggestive Query, and apt Reply have reached us from the same remote quarters !" Reference is also made to the good service rendered to men of letters here at home, as well as to a goodly list of works of learning and research, such as Cunningham’s ' Hand book of London Past and Present,' " published when we had been but a few months in existence, down to Wycliffe’s ' Three Treatises on the Church,' recently edited by the Rev. Dr. Todd."
+Mr. Thoms adds: " How many a pertinent Note, suggestive Query, and apt Reply have reached us from the same remote quarters!" Reference is also made to the good service rendered to men of letters here at home, as well as to a goodly list of works of learning and research, such as Cunningham’s ' Hand book of London Past and Present,' " published when we had been but a few months in existence, down to Wycliffe’s ' Three Treatises on the Church,' recently edited by the Rev. Dr. Todd."
 
 Many suggestions have been made by contributors from time to time with a view to increasing the usefulness of Votes and (Queries. Among these was one made by Mr. F. A. Carrington on the 15th of November, 1856, that "'N. & Q.' would have great additional value if the contributors of Notes (Queries do not signify) would give their names." This elicited from "C." on the 6th of December a reply against the proposal :
 

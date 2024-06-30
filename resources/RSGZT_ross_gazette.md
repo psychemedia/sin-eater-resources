@@ -50,7 +50,7 @@ THE STORY OF " THE OLD WALK ;" SOME QUEER OLD CUSTOMS AT ROSS (told by "EREGEN."
 
 "And so you want to know why that was called the Old Mald's Walk? And can I tell you what is meant by Corspe-Cross, too? Well, now; I can do that as well. The fact is, the two places are mixed up together, as it were.
 
-"You must know, sir, that it's a love story. When it happened I don't know. My grandmother herself didn't know. But stop, sir; why need I waste my breath? There it is, all written out, by an old Ross boy, who had a fancy for poking about tumble-down buildings, and hearing old women's tales. That's it, sir, that brownish roll of paper in the corner of the drawer. Would ye mind reading it out to me, sir? I should like to hear it once more ?"
+"You must know, sir, that it's a love story. When it happened I don't know. My grandmother herself didn't know. But stop, sir; why need I waste my breath? There it is, all written out, by an old Ross boy, who had a fancy for poking about tumble-down buildings, and hearing old women's tales. That's it, sir, that brownish roll of paper in the corner of the drawer. Would ye mind reading it out to me, sir? I should like to hear it once more?"
 
 The document read as follows:
 
@@ -60,31 +60,31 @@ Mr. Markey was a mighty man for his garden. He spared no expense on *that*, howe
 
 "He could look black, too," they said, "when he had a mind to."
 
-"What was the good of looks ?" he would ask.
+"What was the good of looks?" he would ask.
 
 An odd sort of young man he was, in some respects. He did not mix much with his equals in position; but loved to get away by himself, after his work was done, and play dreamy old tunes on his fiddle up in the woods and in the fields, where none could hear him. Many a girl set her cap at him; but he would have nothing to say to any of them. "Poor and proud," folk said. Many did not like him, because they could not understand his ways. He was a first-rata " hand " at his trade; and after he came the garden flourished wonderfully. His master was highly pleased, and said many complimentary things of him behind his back, but very few to his face.
 
 Well, the like of what happened has happened many times before, even in the highest families, and will again till the end of time. Miss Clara was not proof against young Mortimer's good looks; and who could help falling in love with her? Thus it came to pass, that before they themselves knew it, they were very dear to each other. Her father, engrossed by his family conceit and his garden, never suspected the state of affairs. The eyes of the couple often furtively met, and then each would blush and turn away the head. It was only natural that like should be attracted by like. Had their positions in life been equal, no better match could have been found. Differences of fortune placed between them a barrier which made marriage altogether out of the question. They never dared to entertain a hope of that kind. A grosser inclination never occurred to them. To Mortimer, Clara seemed some angel of heaven, whom he might dream about and nothing more. To her, he seemed the incarnation of all that man should be, and she at such comeliness in one his estate. And was that all? Not all, for she favoured him occasionally with a smile that made his heart leap.
 
-Nearly 12 months had gone by since the young gardener entered Mr. Markeys service, when one day an accident occurred which occasioned what the French call a *denouement*. Clara, in girlish playfulness, had gone alone into the garden, had mounted a short laddder which she found there, and was in the set of cutting with her scissors a bunch of particularly fine grapes which pleased her eyes, when the ladder slipped, and she fell with it to the ground. Light as she was, she was so severely hurt, that, uttering a scream, she fainted with pain. Mortimer heard her, ran, and, kneeling down by her, raised her head. As he looked down on the beautiful pale face, and the closed lids of those sweet violet eyes, he could no loner control his emotions. Pity intensifed his long-pent passions. No one was there to see, and he fervently kissed, first the forehead, and then the scarcely-breathing lips of the inanimate girl. He felt that he was doing wrong, and that his presumption could not bejustified. Sense of the social distinction which so widely parted them struggled with the love which had gradually grown upon him till it absorbed almost all his thoughts. She would never know, he murmured to himself; no one would ever know. Prudence gave way, and again and agin, with hot impatience, he pressed his lips to hers. It was done suddenly, impulsively, recklessly; and occupied but a very few minutes. But while be held her, and repeated his half-maddened caress, she recovered consciousness.  As she opened her eyes, and knew what he was doing, a hot blush reddened her face and neck. " Ralph !" she cried, in a tone of astonishment and reproof; "Ralph !"
+Nearly 12 months had gone by since the young gardener entered Mr. Markeys service, when one day an accident occurred which occasioned what the French call a *denouement*. Clara, in girlish playfulness, had gone alone into the garden, had mounted a short laddder which she found there, and was in the set of cutting with her scissors a bunch of particularly fine grapes which pleased her eyes, when the ladder slipped, and she fell with it to the ground. Light as she was, she was so severely hurt, that, uttering a scream, she fainted with pain. Mortimer heard her, ran, and, kneeling down by her, raised her head. As he looked down on the beautiful pale face, and the closed lids of those sweet violet eyes, he could no loner control his emotions. Pity intensifed his long-pent passions. No one was there to see, and he fervently kissed, first the forehead, and then the scarcely-breathing lips of the inanimate girl. He felt that he was doing wrong, and that his presumption could not bejustified. Sense of the social distinction which so widely parted them struggled with the love which had gradually grown upon him till it absorbed almost all his thoughts. She would never know, he murmured to himself; no one would ever know. Prudence gave way, and again and agin, with hot impatience, he pressed his lips to hers. It was done suddenly, impulsively, recklessly; and occupied but a very few minutes. But while be held her, and repeated his half-maddened caress, she recovered consciousness.  As she opened her eyes, and knew what he was doing, a hot blush reddened her face and neck. " Ralph!" she cried, in a tone of astonishment and reproof; "Ralph!"
 
-He raised his head, blushing like herself, but with shame and self-reproach. "Forgive me, Miss Clara," he said; forgive me; I cannot excuse the liberty I have taken. I must be mad, indeed I must! Forgive me !"
+He raised his head, blushing like herself, but with shame and self-reproach. "Forgive me, Miss Clara," he said; forgive me; I cannot excuse the liberty I have taken. I must be mad, indeed I must! Forgive me!"
 
 She was silent. Her own heart pleaded for him. She tried to rise, but could not. " I am badly hurt, Mortimer," she said; "carry me indoors."
 
 He lifted her gently in his arms and bore her into  the Court. "Miss Clara has fallen from a ladder, and has severely injured herself," he said to the old female servant.
 
-"Dear heart !" cried the woman. " Master! Mistress !" and the house rang with her calls.
+"Dear heart!" cried the woman. " Master! Mistress!" and the house rang with her calls.
 
-Mr. Markey, who had been engaged in comparing pedigrees of some the county families, for once forgot the stately deliberation which characterised his movements, and ran down from his study quicker than he had run since his boyhood. Mrs. Markey came as quickly as he. " What is it? What is it ?" she frantially exclaimed.
+Mr. Markey, who had been engaged in comparing pedigrees of some the county families, for once forgot the stately deliberation which characterised his movements, and ran down from his study quicker than he had run since his boyhood. Mrs. Markey came as quickly as he. " What is it? What is it?" she frantially exclaimed.
 
 Mortimer, in a few words, told what had happened; and Mrs. Markey sank into a chair, in histerics.
 
-"Give her to me, Mortimer !" said Mr. Markey; " and run for a doctor as fast as you can go !"
+"Give her to me, Mortimer!" said Mr. Markey; " and run for a doctor as fast as you can go!"
 
 Mortimer needed no second bidding. The proud but doting father carried the unfortunate girl to her bed; and the whole household gathered round her.
 
-"Tell me exactly what occurred; foolish, foolish daughter !" said the father.
+"Tell me exactly what occurred; foolish, foolish daughter!" said the father.
 
 She did tell, but said not a word about the kisses. Two or three weeks passed before Clara could leave her room — weeks in which every moment was filled with the image of the young gardener. She knew his secret now; and knew, alas, how strongly, too strongly, she was inclined towards him. Good sense convineed her that she dared not indulge her wishes; that the humble gardener lad — well-descended as he was, for the whole family knew of his descent — must still, and for ever, to her but the humble gardener and nothing more. Mortimer, abashed and confloundad, shunned the house as much as possible. He dared not look that way, lest he should meet the young lady whom he had so insulted. She, on her part, went no more into the garden. She hoped she should would never more set eyes on the youth; and yet she longed to see him. Unwilling to injure him, by getting him turbed away, she kept her secret. None of her relations had the slightest suspicion of the cause; but they noticed that she had become strangley abstracted.
 
@@ -98,7 +98,7 @@ She did tell, but said not a word about the kisses. Two or three weeks passed be
 
 A few days afterwards, Mr. Rudhall asked for an interview with Mr. Markey, and formally asked for Clara's hand.
 
-"Nothing would give me more pleasure, my dear boy," replied the father; " but do you think she cares for you ?"
+"Nothing would give me more pleasure, my dear boy," replied the father; " but do you think she cares for you?"
 
 "I have never pressed particular attentions upon her," said Rudhall; " but she is always most kind, and seems glad to see me."
 
@@ -110,7 +110,7 @@ During a walk through Penyard Wood, Rudhall told Clara how dear she was to him, 
 
 The unhappy girl, embarrassed, held down her head, and for some time could not reply.; "No ;" at last, she said; "it cannot be, Mr. Rudhall; I can not but thank you for your preference, and acknowledge all your kindness, shown in a thousand ways; but I—, I— cannot love you well enough to be your wife."
 
-"And why not, dearest ?" asked the ardent lover; " I have tried to deserve you; I will ever try to do so; I offer you a happy home; everything you wish for shall be yours; give me leave to hope that you will seriously think over this, and give me a more favourable answer."
+"And why not, dearest?" asked the ardent lover; " I have tried to deserve you; I will ever try to do so; I offer you a happy home; everything you wish for shall be yours; give me leave to hope that you will seriously think over this, and give me a more favourable answer."
 
 She shook her head in silence.
 
@@ -134,7 +134,7 @@ Mr. Markey asserted that there was no need for delay; and, contemptuously disreg
 
 Mrs. Markey became querulous at the idea of missing so excellent a match, and peremptorily bade Clara prepare herself.
 
-"Hoity, toity! wench !" she said; " be a sensible girl, and take the good which Providence offers."
+"Hoity, toity! wench!" she said; " be a sensible girl, and take the good which Providence offers."
 
 Clara, accustomed to filial obedience, remained silent, but in her own room shed many bitter tears.
 
@@ -142,15 +142,15 @@ The wedding day was at length fixed; and preparations were made for a brilliant 
 
 The poor gardener heard the news; and fat as if stunned by a violent physical blow. He could not avoid sometimes meeting the young lady, and every such occasion resulted mutual confusion. Honestly he did his usual work; but now became imbued with settled melancholy. " How quiet he has become," remarked his acquaintances. Quiet? Could they have looked into his heart, they would have seen it beating tumultuously, madly, tortured with jealousy and despair. Moodily he wandered, after his daily tasks were finished. His fiddle remained untouched in its case. Often and often a deep sigh escaped him.
 
-"Lord love the lad," asked the woman where he lodged; " what ails thee? Thee doesn't yeat nor drink enough to do thee any good, and bist getting as pale as a ghost. Bisn't well ?"
+"Lord love the lad," asked the woman where he lodged; " what ails thee? Thee doesn't yeat nor drink enough to do thee any good, and bist getting as pale as a ghost. Bisn't well?"
 
 "Well enough, thank you," replied the youth.
 
-"No, that thee bisn't," said the woman; "if thee be well in body, thee must be bewitched, and I'll warrant its this old Nancy Carter has a-done it. The old wretch! I seed her go creeping along by the garden wall several times, and I ran and put some straws in the shape of a cross in her footsteps, and yesterday I ran and put a pin in her, but not a bit would she bleed, only threw her stick at me, and cursed me bitterly. The mumbling old beast—if I had my will, she should be flung into the Brookend pond! There would be rare fun for the boys! But I don't know what things are coming to. Never a witch is brought to book now-a-days, not about here, though they get punished in other places. Everybody says that Nancy *does* work the black stick; and that this old black cat in her house is no better than a devil's imp !"
+"No, that thee bisn't," said the woman; "if thee be well in body, thee must be bewitched, and I'll warrant its this old Nancy Carter has a-done it. The old wretch! I seed her go creeping along by the garden wall several times, and I ran and put some straws in the shape of a cross in her footsteps, and yesterday I ran and put a pin in her, but not a bit would she bleed, only threw her stick at me, and cursed me bitterly. The mumbling old beast—if I had my will, she should be flung into the Brookend pond! There would be rare fun for the boys! But I don't know what things are coming to. Never a witch is brought to book now-a-days, not about here, though they get punished in other places. Everybody says that Nancy *does* work the black stick; and that this old black cat in her house is no better than a devil's imp!"
 
 Mortimer smiled, and shook his heed. "I never did old Nancy harm, mother," he said; " why should she put me under a spell? I think *am* bewitched, but it is not by Nancy. "
 
-"You suspect who has done it, then ?" asked Mrs. Jones.
+"You suspect who has done it, then?" asked Mrs. Jones.
 
 "Don't worry, there's a good woman," said Mortimer, as he took his hat and walked out.
 
@@ -176,7 +176,7 @@ The burial took place the same night. A strange burial it was.
 
 "No," added Sam Morgan, the pig dealer, "and there'll be no service. Pity though, that the poor chap should be drowed in like a cannibal. We might get Old Jack the Scape to do what he could for him, though; what do'st say? "
 
-"Iss; Iss! " chorused the others, " we'll have Jack the Scape !"
+"Iss; Iss! " chorused the others, " we'll have Jack the Scape!"
 
 Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater." Such a profession was by no means uncommon in Herefordshire. In half an hour's time, old Jack was standing by the coffin in the skittle-alley. " I don't me'nd," said he; " but you ain't got no bowl made of maple-wood, and that's what I always has gi'en me, full of beer, as well as the sixpence. "
 
@@ -190,11 +190,11 @@ Tramper produced the coin; and the Scape, after receiving that and the bear, *ac
 
 This absurd ceremony was observed with solemn silence by the rest of the men present; and the Scape, with another " Amen," drank heartily from the quart pot. " All for myself, mind,' he added: "I take all the consequnces, and I has all the beer! "
 
-"All right !" said Morgan. " Now, lads, lift the body, and let us start."
+"All right!" said Morgan. " Now, lads, lift the body, and let us start."
 
 And they bore away their awful burden.
 
-A darker night could hardly be. Not a star was to be seen. No bell was allowed to toll for him who had rashly rushed to oblivion. The parson sat comfortably by his own fireside, and wrote part of a sermon for the followiog Sunday, and he took for his text these words: " But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion, how dwelleth the love of God in him ?"
+A darker night could hardly be. Not a star was to be seen. No bell was allowed to toll for him who had rashly rushed to oblivion. The parson sat comfortably by his own fireside, and wrote part of a sermon for the followiog Sunday, and he took for his text these words: " But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion, how dwelleth the love of God in him?"
 
 The place chosen for the interment was the junction of the cross-roads at top of Alton-street. There, after sunset, a hole was dug in the presence of a few idlers. When it was completed, a considerable number of spectators had gathered. Coldly blew the April wind (it was an easterly one) down towards the churchyard, the small party of men advanced up Alton-street, two of them carrying horn lanterns, and four others bearing the bier, on which was stretched the uncoffined body. They drew nearer and nearer. They stood by the side of the hole, and laid the corpse upon the ground. Not a prayer was said; not a sigh was heaved. The dead youth had had no companions; and none of his friends or *relatives* were present, for postal communication was not so easily available then as in modern times.
 
@@ -202,11 +202,11 @@ The place chosen for the interment was the junction of the cross-roads at top of
 
 And that was his only requiem.
 
-"Now, Bill Huggins," said one of the bearers; " Hast thee got the stake ?"
+"Now, Bill Huggins," said one of the bearers; " Hast thee got the stake?"
 
-"Iss, Iss," replied Huggins, a wane brutal-looking labourer; " Here he be !"
+"Iss, Iss," replied Huggins, a wane brutal-looking labourer; " Here he be!"
 
-"What be this stake for ?" inquired a boy.
+"What be this stake for?" inquired a boy.
 
 "Why, to drive drow him, to be sure, or else he'd walk and bite people in their beds, and then every one of 'em would walk in their turn, and a pretty time Ross would have of it! "
 
@@ -214,9 +214,9 @@ What followed is too horrible to describe. But in a very few minutes, the mangle
 
 Two days afterwards, Mr. Markey led his daughter Clara up to the altar in Ross Church. The bells rang merrily, and a crowd gathered round the church doors to see the wedding party enter. 
 
-"What had the gardener's death to do with any one here ?" Mr. Markey had remarked ;" he was no connection of either of the families, and there was no reason why the ceremony should be postponed on that account."
+"What had the gardener's death to do with any one here?" Mr. Markey had remarked ;" he was no connection of either of the families, and there was no reason why the ceremony should be postponed on that account."
 
-"Certainly not! certalnly not !" chimed his wife; "and the dresses all made, and the cake made, and everything prepared !"
+"Certainly not! certalnly not!" chimed his wife; "and the dresses all made, and the cake made, and everything prepared!"
 
 It was May-day morning: and among the sightseers who thronged the churchyard was a party of Morris-dancers. These were young country fellows——most of them from Marcle who wore their best breeches, waistcoats, and hats, but no coats. Their shirt-sleeves were covered with circling rows of bits of ribbon, of every colour. Their hats were similarly covered. More ribbons were tied round their knees, with strings of little round bells that jingled as they walked. One of them carried a fiddle, another a triangle, and a third was grotesquely dreamed up in woman's clothes, with his face painted bright red, and was addressed by the name of " Molly." Another carried the long tail of a cow, with which to swing round and clear a space for the Morris-men as they danced. They had performed their uncouth gambols before several of the principal inns and houses in the town, and had already received so many presents of beer that they were looking hot and flushed.
 
@@ -226,13 +226,13 @@ The bridegroom passed through the ordeal of stares, and overheard many comments 
 
 "*She do* look beautiful, and no mistake."
 
-"He ought to be proud on her !"
+"He ought to be proud on her!"
 
 "Doesn't thee wish thee was in his shoes, Jack?"
 
 Beautiful, indeed, but pale as death. She seemed ready to faint as the service proceeded.
 
-"Bear up, girl, bear up," whispered her mother; " what is the matter with you ?"
+"Bear up, girl, bear up," whispered her mother; " what is the matter with you?"
 
 Her father frowned till his eyebrows sank low towards his eyes.
 
@@ -242,29 +242,29 @@ Her father frowned till his eyebrows sank low towards his eyes.
 
 The people in the church tittered.
 
-"Wilt thou have this man to thy wedded husband ?"
+"Wilt thou have this man to thy wedded husband?"
 
 Silence !
 
 "What did hur thy," whispered Mrs. Jones to Betsy Preece.
 
-"Hur hanna said nothing !" replied Betsy.
+"Hur hanna said nothing!" replied Betsy.
 
 The bride looked around, anxiously, helplessly.
 
-"Wilt thou have this man ?" —the parson was repeating, when, with a load scream that echoed through the aisles, Clara fell to the ground.
+"Wilt thou have this man?" —the parson was repeating, when, with a load scream that echoed through the aisles, Clara fell to the ground.
 
 Astonishment and consternation were visible on every face.
 
 "Run for water," said the parson.
 
-The old clark bobbled off to the vestry, and fetched some. Mrs. Markey sprinkled the bride's face; and the clergyman patiently waited. book in hand. Presently, the young girl resovered consciousness, and her mother lifted her up and put her to stand as she was before, whispering, " I think you can go on again, sir Now, Clara, dear, don't be foolish !"
+The old clark bobbled off to the vestry, and fetched some. Mrs. Markey sprinkled the bride's face; and the clergyman patiently waited. book in hand. Presently, the young girl resovered consciousness, and her mother lifted her up and put her to stand as she was before, whispering, " I think you can go on again, sir Now, Clara, dear, don't be foolish!"
 
 A third time the question was asked— " Wilt thou have this man? "
 
-"Never !" cried the bride; " O Ralph! O poor drowned Ralph! " and, turning round, she hid her face, and sobbed on her mother's breast.
+"Never!" cried the bride; " O Ralph! O poor drowned Ralph! " and, turning round, she hid her face, and sobbed on her mother's breast.
 
-The clergymen closed his book, and looked from one to the other. " Take me home! take me home !" shrieked unhappy Clara.
+The clergymen closed his book, and looked from one to the other. " Take me home! take me home!" shrieked unhappy Clara.
 
 "The service cannot proceed," said the clergyman; "you had better get her home as quickly as you can."
 
@@ -274,17 +274,17 @@ Mr. Markey's face was black as a thunder-cloud. "The disgrace!" he uttered; " th
 
 Amid general confusion, Clara was borne to a carriage.
 
-"What ?" asked Mrs. Jones; " wunna her have him? "
+"What?" asked Mrs. Jones; " wunna her have him? "
 
 "No," replied Mrs. Preece; " " hur was n love with the gardener, him as was buried at Corpse Cross!"
 
-"Good Lord !" ejaculated their companions, " only to think of that !"
+"Good Lord!" ejaculated their companions, " only to think of that!"
 
 There was no wedding that day. The Morris-dancers laughed heartily as they repeated as scandal when they danced in the neighbouring villages; and the village girls laughed back as heartily; they had never heard such a joke!
 
 Clara Markey, when she arrived home, was so ill and prostrated that was at once put, speechless, to bed. Her father raged and stormed, declaring that he would disown her, and that he would send her packing —anywhere, anywhere, so she went from there.
 
-"Silence, man !" cried the doctor; "she has brain-fever; she will soon pack off fast enough, but it will be to the churchyard.'
+"Silence, man!" cried the doctor; "she has brain-fever; she will soon pack off fast enough, but it will be to the churchyard.'
 
 Week after week, the unfortunate girl kept her bed. abs did not die. But it was apparent that her mind was permanently affected, and that she would never be the bride of any man, as she had declared. When strong enough physically, she was allowed to come downstairs. Half an hour afterwards, she was missed. A child had seen her, walking up towards the town. She was found standing at Corpse Cross, looking vacantly round; but all traces of the unhallowed grave which her eyes sought had been effaced. Her friends took her home, and for some time she was guarded to prevent another such episode. All in vain. At every opportunity she got away, and would pace slowly up and down the lane leading from the Church to Corpse Cross.
 

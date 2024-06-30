@@ -591,7 +591,7 @@ September 2nd, 1896
 
 p430
 
-THE SIN EATER.— A good deal of discussion has been going on in the *Times*, the *Academy*, and elsewhere as to the alleged Welsh Sin Eater, and Mr Hartland, who believes in him, supports his case by referring to the custom of dispensing cakes and drink at funerals. Has it ever been suggested, in this controversy, that the custom is probably a survival of the tribal custom mentioned by Mr Seebohm in his lecture on "The Historical Importance of the Cymric Tribal System ?"
+THE SIN EATER.— A good deal of discussion has been going on in the *Times*, the *Academy*, and elsewhere as to the alleged Welsh Sin Eater, and Mr Hartland, who believes in him, supports his case by referring to the custom of dispensing cakes and drink at funerals. Has it ever been suggested, in this controversy, that the custom is probably a survival of the tribal custom mentioned by Mr Seebohm in his lecture on "The Historical Importance of the Cymric Tribal System?"
 
 In the laws of Manu we have exactly the same division of kindred: those who are within the fourth degree of kindred are those relatives who are bound to give the cake at the tomb or rather at the hearth where the spirits of the ancestors were supposed to reside, and that giving of the cake was as it were at the root of the extreme care which they gave to the observance of the degrees of kindred; those who were beyond the fourth were not quite free, they had to give only water and not the cake.
 
@@ -801,7 +801,7 @@ The lines, I think, will throw some light on the Corwen custom; and I would sugg
 Dydd da i chwi heddyw,  
 Welwch chwi 'n dda ga' i dipyn bach o fwyd cenedl y meirw ?—Amen. 
 
-"*Cenedl* y meirw " they said; whatever that may mean. May it not be a corruption of " Dy' gwyl y Meirw ?" I may also mention that it was customary at Dinas Mawddwy forty years ago, if not later, for children to go about on All Saints' Day to collect bread and cheese, which custom they called " Bara 'chawsa." They used to ask for it in the following form :—
+"*Cenedl* y meirw " they said; whatever that may mean. May it not be a corruption of " Dy' gwyl y Meirw?" I may also mention that it was customary at Dinas Mawddwy forty years ago, if not later, for children to go about on All Saints' Day to collect bread and cheese, which custom they called " Bara 'chawsa." They used to ask for it in the following form :—
 
 Bara 'chawsa, bara 'chawsa,  
 Os ca' i beth, mi neidia;  

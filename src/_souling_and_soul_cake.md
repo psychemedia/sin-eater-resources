@@ -585,7 +585,7 @@ The correspondent then suggests an explanation behind the term _"Solod"_:
 > Dydd da i chwi heddyw,  
 > Welwch chwi 'n dda ga' i dipyn bach o fwyd cenedl y meirw ?—Amen.
 >
-> " *Cenedl* y meirw " they said; whatever that may mean. May it not be a corruption of " Dy' gwyl y Meirw ?"
+> " *Cenedl* y meirw " they said; whatever that may mean. May it not be a corruption of " Dy' gwyl y Meirw?"
 
 The quotation from *The Leisure Hour* is actually just a fragment from a longer article in the edition of November 11th 1876, [Vol 25 Iss 1298](https://archive.org/details/sim_leisure-hour-an-illustrated-magazine-for-home-reading_1876-11-11_25_1298/page/730/mode/2up?q=soul+cake), p730, of which the following is also an extract:
 

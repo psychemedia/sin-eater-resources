@@ -235,7 +235,7 @@ Hartland brings the attention of the predominantly English speaking *Academy* au
 
 > Its author was a Calvinistic Methodist minister, named Robert Jones, of Capel y Dinas, previously of Rhoslan; and it was published at Llanrwst, presumably in 1820, for that is the date of the preface, though there is none on the title-page to the second edition, to which alone I have access. In the course of the conversation, Inquisitive says (p. 50) :—
 >
-> "I remember hearing my grandfather talk about something called *Dïodas* or *Dïodles*. Can you tell me what it was ?" And Observer replies :
+> "I remember hearing my grandfather talk about something called *Dïodas* or *Dïodles*. Can you tell me what it was?" And Observer replies :
 >
 > "When someone happened to die in a family, a certain poor man was chosen by the family to have the favour of receiving that happy charity, the *dïodles*. The manner of giving it to the poor man was this: the family sent to the workman who made the coffin a cup to be coloured the same colour as the coffin. Two colours were customary for coffins at that time: black for the coffins of married, and white for those of unmarried persons. When the day of the funeral came, after putting the corpse on the bier, the head of the house presented the superstitious alms to the poor man— namely, a large loaf of good bread, an ample piece of cheese, with a piece of money stuck in it, and the coloured cup full of beer, if there was any, or else of milk, reaching them over the corpse to the poor man. He in return blessed and prayed fervently and earnestly with the dead man's soul [*gyd dg enaid y marw*]."
 
@@ -632,7 +632,7 @@ At this point, Owen resurfaces and ponders why there is a dearth of Welsh litera
 >
 > I have picked out the following questions from *Goleuad Cymru* for June, 1819, and May, 1821. The answers are mainly "Scripture proofs," and therefore of no folk-lore interest.
 >
-> "What is the meaning of putting lighted candles in brass candlesticks on the coffin ?"
+> "What is the meaning of putting lighted candles in brass candlesticks on the coffin?"
 >
 > "Why do people lean on the coffin to pray?"
 >

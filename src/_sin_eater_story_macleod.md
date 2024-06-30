@@ -254,7 +254,7 @@ Out of sheer weariness. Sheen twice rocked forward from her stool, heavy with sl
 
 "Poor old woman," she muttered, heedless of her own grey hairs and greyer years; " a bitter, bad thing it is to be old, old and weary. 'Tis the sorrow, that. God keep the pain of it!"
 
-As for herself, she did not sleep at all that night, but sat between the living and the dead, with her plaid shrouding her. Once, when Sheen gave a low, terrified scream in her sleep, she rose, and in a loud voice cried, " *Sheeach-ad !* Away with you !" And with that she lifted the shroud from the dead man, and took the pennies off the eyelids, and lifted each lid; then, staring into these filmed wells, muttered an ancient incantation that would compel the soul of Adam Blair to leave the spirit of Sheen alone, and return to the cold corpse that was its coffin till the wood was ready.
+As for herself, she did not sleep at all that night, but sat between the living and the dead, with her plaid shrouding her. Once, when Sheen gave a low, terrified scream in her sleep, she rose, and in a loud voice cried, " *Sheeach-ad !* Away with you!" And with that she lifted the shroud from the dead man, and took the pennies off the eyelids, and lifted each lid; then, staring into these filmed wells, muttered an ancient incantation that would compel the soul of Adam Blair to leave the spirit of Sheen alone, and return to the cold corpse that was its coffin till the wood was ready.
 
 The dawn came at last. Sheen slept, and Adam Blair slept a deeper sleep, and Maisie stared out of her wan, weary eyes against the red and stormy flares of light that came into the sky.
 
