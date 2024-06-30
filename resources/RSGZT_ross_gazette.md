@@ -186,7 +186,7 @@ Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel o
 
 " Had thee got a silver sixpence, Trumper ? " said Morgan; " we'll club round, a penny a piece, and pay thee back, directly."
 
-Tramper produced the coin ; and the Scape, after receiving that and the bear, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourbood. And may Heaven ham mercy on us all, Amen ! "
+Tramper produced the coin ; and the Scape, after receiving that and the bear, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven ham mercy on us all, Amen ! "
 
 This absurd ceremony was observed with solemn silence by the rest of the men present ; and the Scape, with another " Amen," drank heartily from the quart pot. " All for myself, mind,' he added: "I take all the consequnces, and I has all the beer ! "
 
