@@ -20,14 +20,14 @@ p56-7
 Rowlands writes of Llandebie:
 
 
-In the Churchyard of Llandebie there are some curious epitaphs to be seen, but of late years great improvement have taken place in the style of the tombstones and the epitaphs, &c. Unfortunately the literature of the Churchyard is left entirely in some parishes in the hands of the village sculptor, who changes the epitaphs to suit his own taste and purposes. Books, skulls, spades, urns, &c., are the emblems which are to be seen in our country Churchyards, particularly in the vicinity of the ironworks. Such emblems are more appropriate on the tombs of pagans than Christians. There are not many Churches in the county so well attended as Llandebie. We are glad to find that it is intended to erect a Chapel of Ease in this parish, as the distance is far from the parish Church. Some years ago a New National School-room was opened here. We remember that morning well, when a crowd of young ones, with shining morning faces, were skipping cheerfully to school for the first time. Where is that light hearted group now ? Some are grown up to manhood, and others lying in their graves. This school has been carried on with great success since its foundation. There were several mansions in this parish, but they have been converted into farm houses, and their glory has departed. Dyffryn lies between Llandebie and Cross Inn, on the banks of the Loughor; it was formerly the residence of the Leweses, the representative of which is W. P. Lewes, Esquire, of Llysnewydd, who is descended from Ceredig, Prince of Ceredigion. Aberlash, the residence of the Evanses, who are now extinct, is at present a farm house. Glynhir, the residence of William Du Buisson, Esq., stands on a hill which commands an extensive view of the surrounding country. Close to Glynhir there is a beautiful fall formed by the Loughor.
+In the Churchyard of Llandebie there are some curious epitaphs to be seen, but of late years great improvement have taken place in the style of the tombstones and the epitaphs, &c. Unfortunately the literature of the Churchyard is left entirely in some parishes in the hands of the village sculptor, who changes the epitaphs to suit his own taste and purposes. Books, skulls, spades, urns, &c., are the emblems which are to be seen in our country Churchyards, particularly in the vicinity of the ironworks. Such emblems are more appropriate on the tombs of pagans than Christians. There are not many Churches in the county so well attended as Llandebie. We are glad to find that it is intended to erect a Chapel of Ease in this parish, as the distance is far from the parish Church. Some years ago a New National School-room was opened here. We remember that morning well, when a crowd of young ones, with shining morning faces, were skipping cheerfully to school for the first time. Where is that light hearted group now? Some are grown up to manhood, and others lying in their graves. This school has been carried on with great success since its foundation. There were several mansions in this parish, but they have been converted into farm houses, and their glory has departed. Dyffryn lies between Llandebie and Cross Inn, on the banks of the Loughor; it was formerly the residence of the Leweses, the representative of which is W. P. Lewes, Esquire, of Llysnewydd, who is descended from Ceredig, Prince of Ceredigion. Aberlash, the residence of the Evanses, who are now extinct, is at present a farm house. Glynhir, the residence of William Du Buisson, Esq., stands on a hill which commands an extensive view of the surrounding country. Close to Glynhir there is a beautiful fall formed by the Loughor.
 
 "Smooth to the shelving brink a copious flood  
 Rolls fair and placid, where, collected all,  
 In one impetaons torrent down the steep  
 It thuad'riug shoots and shakes the countxy round.  
 
-Blyne, or Blaenau, the residence of an old and highly respectable family of the name of Davies, is at present the property of David Prothero, Esq., M.D., the representative of the family. A short distance from Blyne there is another neat little mansion, Cwmcoch, the property of the same family. Plâs, stands in the village of Llandebie ; this building was very large and extensive, but it has met with the same fate as others, having been converted into a farm house. We have heard that this place belonged to a family of the name of Phillips; one of them was a "mighty hunter" in his day. Derwydd, the residence of the Vaughans, 
+Blyne, or Blaenau, the residence of an old and highly respectable family of the name of Davies, is at present the property of David Prothero, Esq., M.D., the representative of the family. A short distance from Blyne there is another neat little mansion, Cwmcoch, the property of the same family. Plâs, stands in the village of Llandebie; this building was very large and extensive, but it has met with the same fate as others, having been converted into a farm house. We have heard that this place belonged to a family of the name of Phillips; one of them was a "mighty hunter" in his day. Derwydd, the residence of the Vaughans, 
 
 
 
@@ -48,12 +48,12 @@ and the adjoining counties were educated. It is supposed that
 there were two chapelnes in this parish, but there are no remains 
 of them standing at present. A short distanoe from the village 
 stands a steep hill called ** Dinas," the summit of which is quite 
-level ; it is very propable that it is the site of an old military en- 
+level; it is very propable that it is the site of an old military en- 
 campment. The view from the top of this hill is delightful; on 
 the opposite side stands Oarreg Oennen Castle, standing 
 majestically, in spite of the storms and the destructive hands of 
-man as of yore ; and on the other side the pleasant town of Llandilo, 
-and Dynevor Castle. There is a large cave in this hill ; and tra- 
+man as of yore; and on the other side the pleasant town of Llandilo, 
+and Dynevor Castle. There is a large cave in this hill; and tra- 
 dition says that Owain Lawgoch, and a host of armed soldiers, are 
 resting in this cave. Several other places in South Wales claim 
 the same honour. Some years ago several petrified bodies were 
@@ -110,12 +110,12 @@ incident of his Hfe, was his sudden marriage with a young lady
 whom he saw in his wife's funeral. Although he wrote an essay 
 on the choice of a wife, he united himself to a lady whose charac- 
 ter was most uncongenial to his own. She loved money — ^the 
-companion of vice — dearly ; her temper every day grew worse by 
+companion of vice — dearly; her temper every day grew worse by 
 the perpetual imprudence of her husband. 
 
 His second wife was Mary, daughter of Jonathan Shurlock, of 
 Tygwyn, Llangunnor. Tygwyn has been converted into a farm 
-house many years ; it is now the property of Mr. D. Buisson, 
+house many years; it is now the property of Mr. D. Buisson, 
 Glynhir, Llandebie. Soon after Steele's marriage with Miss 
 Shurlock, he requested her to accompany him on a visit. The 
 carriage was ordered, and without informing her where he was 
@@ -137,22 +137,22 @@ Digitized by VjOOQIC
 
 6o Historical Notes. 
 
-A3mstone, of Hereford ; the match was a most unsuitable one. — 
+A3mstone, of Hereford; the match was a most unsuitable one. — 
 Chalmer*$ Memoir of Steele* 
 
 Although Steele and his wife did not lead a happy life, his 
 attachment to her was ardent and uniform. It appears that they 
-never parted without bickerings ; but he could not bear her ab- 
-sence ; he was in the habit of writing impassioned notes three 
+never parted without bickerings; but he could not bear her ab- 
+sence; he was in the habit of writing impassioned notes three 
 times a day from his office, or frx)m his bookseller's. He would 
 rise up in the midst of his dinner, and despatch a note to '* Prue," 
 as he called her, to assure her of his affection since noon. Steele 
 seemed to think that warm affection was all she required. She 
 was left for days in solitude, without any money, when her hus- 
 band could not rise any. The following note is a feeling remon- 
-strance to her : — 
+strance to her: — 
 
-" Deab Wife, — ^I have been in great pain of body and mind 
+"Deab Wife, — ^I have been in great pain of body and mind 
 since I came out. You are extremely cruel to generous nature, 
 which has a tenderness for you that renders your least dishumour 
 insupportably afflicting. After short starts of passion, not to be 
@@ -165,7 +165,7 @@ In some of his letters, he sneers at Lady Steele's love of
 money: — " Your man Sam ow«s me threepence, which must be 
 deducted in the account between you and me; therefore, pray 
 take care of it, or stop ''it." Such letters as the following were 
-sent to her three times a day : — 
+sent to her three times a day: — 
 
 ** I beg of you not to be impatient, though an hour before 
 you see 
@@ -207,7 +207,7 @@ able.
 
 ** Deab Prtte, — ^It is a strange thing because you are hand- 
 some, that you will not behave yourself with the obedience that 
-people of worst features do ; but that I must be always giving 
+people of worst features do; but that I must be always giving 
 you an account of every trifle and minute of my time. I send 
 this to tell you, that I am waiting to be sent for again when my 
 Lord Wharton is stirring." 

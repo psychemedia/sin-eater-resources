@@ -54,7 +54,7 @@ We've spent a lot of time on it, this anger of mine. It was only because I found
 
 I thought Joseph would try to convince me that reality was actually fine and dandy and then try to adjust me to it, but he didn't do that. Instead he agreed with me, cheerfully and at once. Life in most ways was a big pile of shit, he said.
 
-That was axiomatic. "Think of it as a desert island," he said. " You're stuck on it, now you have to decide how best to cope."
+That was axiomatic. "Think of it as a desert island," he said. "You're stuck on it, now you have to decide how best to cope."
 
 "Until rescued?" I said.
 
@@ -180,7 +180,7 @@ I could walk to the corner for a hamburger or I could phone out for pizza. I dec
 
 "Well, do you?" he says.
 
-"Look," I say. I'm speaking calmly but in fact I'm outraged. This is a demand, and Joseph is not supposed to make demands of me. There are too many demands being made of me already. That's why I'm here, isn't it? Because the demands exceed the supply. "You're like my dentist," I say. " I don't think about whether or not I like my dentist. I don't have to like him. I'm paying him to fix my teeth. You and my dentist are the only people in the whole world that I don't have to like."
+"Look," I say. I'm speaking calmly but in fact I'm outraged. This is a demand, and Joseph is not supposed to make demands of me. There are too many demands being made of me already. That's why I'm here, isn't it? Because the demands exceed the supply. "You're like my dentist," I say. "I don't think about whether or not I like my dentist. I don't have to like him. I'm paying him to fix my teeth. You and my dentist are the only people in the whole world that I don't have to like."
 
 "But if you met me in other circumstances," Joseph persists, "would you like me?"
 

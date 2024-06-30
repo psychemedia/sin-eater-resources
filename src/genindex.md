@@ -1,4 +1,4 @@
 # Index
 
-```{index} see: controversies ; First Controversy, Second Controversy
+```{index} see: controversies; First Controversy, Second Controversy
 ```

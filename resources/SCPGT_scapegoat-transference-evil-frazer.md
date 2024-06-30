@@ -45,7 +45,7 @@ hire poor people, who were to take upon them all the sinnes Sin-eaterin
 of the party deceased. One of them I remember lived in a En s land * 
 cottage on Rosse-high way. (He was a long, leane, ugly, 
 lamentable poor raskal.) The manner was that when the 
-Corps was brought out of the house and layd on the Biere ; 
+Corps was brought out of the house and layd on the Biere; 
 a Loafe of bread was brought out, and delivered to the 
 Sinne-eater over the corps, as also a Mazar-bowle of maple 
 (Gossips bowle) full of beer, which he was to drinke up, and 
@@ -54,13 +54,13 @@ him (ipso facto) all the Sinnes of the Defunct, and freed him
 (or her) from walking after they were dead. . . . This 
 Custome (though rarely used in our dayes) yet by some 
 people was observed even in the strictest time of ye Presby- 
-terian government : as at Dynder, volens nolens the Parson 
+terian government: as at Dynder, volens nolens the Parson 
 of ye Parish, the kinred of a woman deceased there had this 
-ceremonie punctually performed according to her Will : and 
+ceremonie punctually performed according to her Will: and 
 also the like was donne at ye City of Hereford in these times, 
 when a woman kept many yeares before her death a Mazard- 
-bowle for the Sinne-eater ; and the like in other places in 
-this Countie ; as also in Brecon, eg . at Llangors, where Mr. 
+bowle for the Sinne-eater; and the like in other places in 
+this Countie; as also in Brecon, eg . at Llangors, where Mr. 
 
 Gwin the minister about 1640 could no hinder ye performing 
 of this ancient custome. I believe this custom was hereto- 
@@ -98,7 +98,7 @@ to the place where the deceased lay, and stood before the
 door of the house, when some of the family came out and 
 furnished him with a cricket, on which he sat down facing 
 the door. Then they gave him a groat, which he put in his 
-pocket ; a crust of bread, which he eat ; and a full bowle of 
+pocket; a crust of bread, which he eat; and a full bowle of 
 ale, which he drank off* at a draught. After this he got up 
 from the cricket and pronounced, with a composed gesture, 
 the ease and rest of the soul departed for which he would 
@@ -134,7 +134,7 @@ edition (London, 1882-1883).
 
 p. 505, Mr. D. Silvan Evans stated 
 that he knew of no such custom any- 
-where in Wales ; and the custom seems 
+where in Wales; and the custom seems 
 to be now quite unknown in Shrop- 
 shire. See C. S. Bume and G. F. 
 Jackson, Shropshire Folk-lore (London, 
@@ -221,7 +221,7 @@ In Uganda the eldest son used to
 perform a funeral ceremony, which 
 consisted in chewing some seeds which 
 he took with his lips from the hand of 
-his dead father ; some of these seeds 
+his dead father; some of these seeds 
 
 
 he then blew over the corpse and the 
@@ -286,7 +286,7 @@ departed, as well as the pollution which the primitive mind
 commonly associates with death, are not borne by a living 
 person, but buried in a hole. Yet the fundamental idea — 
 that of the transference of sins — is the same in the Tahitian 
-as in the Welsh and Indian customs ; whether the vehicle 
+as in the Welsh and Indian customs; whether the vehicle 
 or receptacle destined to catch and draw off the evil be a 
 person, an animal, or a thing, is for the purpose in hand 
 a matter of little moment . 2 
@@ -304,7 +304,7 @@ has been interpreted by Mr. E. S. transferring the sins of a Rajah before his
 Hartland as a modification of an older death (pp. 39, 42 sq.) establish the 
 custom of eating the corpse. See his practice of transferring sins in cases 
 article, “ The Sin-eater,” Folk-lore , iii. where there can be no question of eating 
-(1892) 145-157 ; The Legend of Per - the corpse. The original intention of 
+(1892) 145-157; The Legend of Per - the corpse. The original intention of 
 sens, ii. 291 sqq., iii. p. ix. I cannot such practices was perhaps not so much 
 think his interpretation probable or to take away the sins of the deceased 
 borne out by the evidence. The as to rid the survivors of the dangerous 

@@ -20,11 +20,11 @@ p?
 
 INDECOROUS CUSTOMS.
 
-The irreverent practice properly condemned in the following extract from Southey's *Common-place Book*, has prevailed at assize-sermons in both Worcester and Hereford Cathedrals. If, when the beautiful edifice at the latter city shall be re-opened for Divine Service, the Bishop, or rather the Dean as the Ordinary, shall abate a nuisance which prevents all seriousness in the worship, general approval will follow ; there will be no fear that those who effect so desirable reform will incur the fate which is spoken of in the following extract as threatened to Dr. Lake:—
+The irreverent practice properly condemned in the following extract from Southey's *Common-place Book*, has prevailed at assize-sermons in both Worcester and Hereford Cathedrals. If, when the beautiful edifice at the latter city shall be re-opened for Divine Service, the Bishop, or rather the Dean as the Ordinary, shall abate a nuisance which prevents all seriousness in the worship, general approval will follow; there will be no fear that those who effect so desirable reform will incur the fate which is spoken of in the following extract as threatened to Dr. Lake:—
 
 "In the cathedral of York an indecent custom, not yet abolished in some other cathedrals, prevailed of walking and talking loudly in the nave during prayers, so that the congregation were often interrupted in their devotions. Dr. Lake, however, was a resolute disciplinarian, and resolved to break so indecent and profane usage; but the mob were so mnch exasperated by the attempt that, after breaking open the south door of the cathedral, they assaulted the residentiary his own house, and having stripped it of part of the tiles, would probably have murdered him had he not been seasonably rescued by Captain Honeywood, the deputy-governor of the castle."— Whittaker's *Loidis and Elmete*, p. 37.
 
-To turn from Hereford Cathedral to the villages of the county, we heartily wish the practice of eating and drinking at funerals, described in the annexed extract, were abolished. The English loudly and justly condemn the frantic *wakes* of the Irish ; but is their own custom of eating dainty luncheons accompanied with Maderia and *liquers* to be commended? Lord Byron's satire is painfully true:
+To turn from Hereford Cathedral to the villages of the county, we heartily wish the practice of eating and drinking at funerals, described in the annexed extract, were abolished. The English loudly and justly condemn the frantic *wakes* of the Irish; but is their own custom of eating dainty luncheons accompanied with Maderia and *liquers* to be commended? Lord Byron's satire is painfully true:
 
 "There's deal of fun 
 In mourning-coaches when the funeral's done."

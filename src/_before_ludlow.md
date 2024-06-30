@@ -6,7 +6,7 @@ A query raised following the meeting by one of those in attendance, Mr. Jelinger
 
 So in our attempt to track down the origins of the story of the *sin-eater*, let us begin with those two sources before broadening our search to other possible references to the tradition in the years prior to 1852.
 
-```{index} single: Hone, William ;  Year Book, 1832
+```{index} single: Hone, William;  Year Book, 1832
 :name: YBECH
 ```
 
@@ -40,17 +40,17 @@ This work drew on Hone's previous works, [*The Every-Day Book*](https://archive.
 
 ```{admonition} Hone's Every-Day Book
 :class: dropdown
-*The every day book : or, A guide to the year : describing the popular amusements, sports, ceremonies, manners, customs, and events, incident to the three hundred and sixty-five days, in past and present times* was originally published weekly from Jan. 1825 to Dec. 1826 (105 numbers including indexes).
+*The every day book: or, A guide to the year: describing the popular amusements, sports, ceremonies, manners, customs, and events, incident to the three hundred and sixty-five days, in past and present times* was originally published weekly from Jan. 1825 to Dec. 1826 (105 numbers including indexes).
 
 Reviews reprinted in the *Inverness Courier* of [Wednesday 06 June 1832](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000446/18320606/002/0001) described it in the following terms:
 
->THE YEAR BOOK. "This is another delightful compilation by the ingenious Mr Hone, whose fame as an author promises to out-rival his reputation as apolitical martyr. His productions certainly combine the useful with the agreeable, far more effectively than any other compilations of the present day. They afford an infinite variety of curious information, without either prosing or pretension : and so happily are the materials put together, that the very highest critical authority of the present time, Dr Southey, has borne testimony to their merit. Conducted on the same plan as his other volumes, equally full of rare and curious matter, it is also in its multifarious details equally amusing—and therefore are we convinced that it cannot fail to be generally read and admired."— *Scots Times*.
+>THE YEAR BOOK. "This is another delightful compilation by the ingenious Mr Hone, whose fame as an author promises to out-rival his reputation as apolitical martyr. His productions certainly combine the useful with the agreeable, far more effectively than any other compilations of the present day. They afford an infinite variety of curious information, without either prosing or pretension: and so happily are the materials put together, that the very highest critical authority of the present time, Dr Southey, has borne testimony to their merit. Conducted on the same plan as his other volumes, equally full of rare and curious matter, it is also in its multifarious details equally amusing—and therefore are we convinced that it cannot fail to be generally read and admired."— *Scots Times*.
 >
 > "This is very delightful Miscellany, full of Amusing Traditional anecdotes, Antiquarian research, Lively Observations, Prose and Poetry, together wiih a long Muster-roll of  & ceteras." *Sun*
 
 In the *Explanatory Address to the Readers of The Every-Day Book*, which was originally published in serialised form, Hone describes the publishing model:
 
-> A number, or sheet of thirty-two columns, price threepence, will be published every Saturday till the undertaking is completed, which will be in about a year— a few weeks more or less. The Engravings in each will vary as to number: in some there may be only one or two ; in others, three, or four, or five — according to the subject.
+> A number, or sheet of thirty-two columns, price threepence, will be published every Saturday till the undertaking is completed, which will be in about a year— a few weeks more or less. The Engravings in each will vary as to number: in some there may be only one or two; in others, three, or four, or five — according to the subject.
 > 45, Ludgate-hill, 31st December, 1824. W. HONE.
 
 See for example this edition of [1878](https://archive.org/details/everydaybookorgu01hone) which includes facsimiles of the title pages from the 1825, 1826, and 1827 editions. The list of topics, again without a corresponding entry, also includes mention of *Sin eaters* in either [volume I](https://archive.org/details/b29326072_0001/page/n8/mode/2up?q=sin) or [Volume II](https://archive.org/details/b29326072_0002/page/n8/mode/2up?q=sin) of the 1826 edition.
@@ -58,7 +58,7 @@ See for example this edition of [1878](https://archive.org/details/everydaybooko
 The address mentions a variety of topics to be covered by the work including *corpse candles* and *sin eaters*. However, no mention of the sin-eater appears in the work as published.
 ```
 
-```{index} single: Hone, William ;  Table Book, 1827
+```{index} single: Hone, William;  Table Book, 1827
 ```
 ```{admonition} Hone's Table Book
 :class: dropdown
@@ -79,7 +79,7 @@ We then get a more direct statement regarding the folkloric character we are pur
 
 Here, then, it would appear that we have another description of a visiting fellow in the Shropshire area in the last quarter of the 17th century ("within memory of our fathers", from a basis in 1715) who arrives when a death is announced; who is paid groat (four pence); who sits on a small stool facing the door, eats some bread and drinks a "full bowl" of ale in one go; and who then stands, and with a particular gesture (though what sort of gesture we don't know), makes a ritual pronouncement. Bagford claims this account comes from Aubrey, perhaps as a personal communication, who was collecting and writing in the latter quarter of the seventeenth century, or perhaps from Aubrey's writings. But in either case: *from Aubrey*.
 
-```{index} single: Bagford, John ;  biography
+```{index} single: Bagford, John;  biography
 ```
 
 ```{admonition} John Bagford
@@ -98,17 +98,17 @@ Which "Rosse highway" is not clear: is it the road out to Hereford, or to Monmou
 
 Aubrey then describes the ritual:
 
-> The manner was, that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the sin-eater, over the corpse, as also a mazard bowl, of maple, full of beer (which he was to drink up), and sixpence in money : in consideration whereof he took upon him, ipso facto, all the sins of the defunct, and freed him or her from walking after they were dead."
+> The manner was, that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the sin-eater, over the corpse, as also a mazard bowl, of maple, full of beer (which he was to drink up), and sixpence in money: in consideration whereof he took upon him, ipso facto, all the sins of the defunct, and freed him or her from walking after they were dead."
 
 Aubrey then reviews other places where the practice is said to occur:
 
-> Aubrey adds, "This custom, though rarely used in our days, yet, by some people, was observed even in the strictest time of the Presbyterian government ; as, at Dynder (volens nolens the parson of the parish), the kindred of a woman, deceased there, had this ceremony punctually performed, according to her will : and, also, the like was done at the city of Hereford, in those times, where a woman kept, many years before her death, a mazard bowl for the sin-eater; and the like in other places in this county ; as also in Brecon : e. g. at Llanggors, where Mr. Gwin, the minister, about 1640, could not hinder the performance of this ancient custom. I believe," says Aubrey, "this custom was heretofore used all over Wales." He states further, "A. D. 1686. This custom is used to this day in North Wales."
+> Aubrey adds, "This custom, though rarely used in our days, yet, by some people, was observed even in the strictest time of the Presbyterian government; as, at Dynder (volens nolens the parson of the parish), the kindred of a woman, deceased there, had this ceremony punctually performed, according to her will: and, also, the like was done at the city of Hereford, in those times, where a woman kept, many years before her death, a mazard bowl for the sin-eater; and the like in other places in this county; as also in Brecon: e. g. at Llanggors, where Mr. Gwin, the minister, about 1640, could not hinder the performance of this ancient custom. I believe," says Aubrey, "this custom was heretofore used all over Wales." He states further, "A. D. 1686. This custom is used to this day in North Wales."
 
 A reference is then made to what appears to be a commentary on, or attached to, the manuscript itself by Bishop White Kennett:
 
-> Bishop White Kennet, who appears to have possessed Aubrey's MS., has added this note. "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford ; where, at the burial of every corpse, one cake and one flaggon of ale, just after the interment, were brought to the minister in the church porch."
+> Bishop White Kennet, who appears to have possessed Aubrey's MS., has added this note. "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford; where, at the burial of every corpse, one cake and one flaggon of ale, just after the interment, were brought to the minister in the church porch."
 
-```{index} single: Kennett, White (Bishop) ; biography
+```{index} single: Kennett, White (Bishop); biography
 :name: biog:WhiteKennet
 ```
 ```{admonition} Bishop White Kennet
@@ -125,7 +125,7 @@ In terms of provenance of the White's papers, which included Aubrey's manuscript
 
 A footnote to the [1818 edition](https://archive.org/details/parochialantiqui02kenn/page/276/mode/2up?q=sinne) of White Kennett's *Parochial Antiquities attempted in the History of Ambrosden, Burcester, and other adjacent parts in the counties of Oxford and Bucks, with a Glossary of Obsolete Terms* (*"A New Edition in Two Volumes, Greatly Enlarged from the Author's Manuscript Notes"*, edited by Bulkeley Bandinel quotes Aubrey, and also includes a further observation about the giving of doles as a current tradition.
 
-> In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sinns of the party deceased, and were called sin-eaters. One of them I remember liv'd in a cottage on Rosse high-way. The manner was thus : when the corps was brought out of the hous, and laid on the biere, a loaf of bread was delivered to the sinne eater over the corps, as allso a mazar bowle (a gossips bowl of maple) full of beer, which he was to drink up, and six pence in mony, in consideration whereof he took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne eaters are frequently made use of; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest time of the presbyterian government. As at Dyndar, *volens nolens* the parson of the parish, the relation of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar bowl for the sinne-eater; and in other places in this county, as allso at Brecon, at Llangors, where Mr. Gwin the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs ; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer. Aubrey of Gentilisme, MS.
+> In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them all the sinns of the party deceased, and were called sin-eaters. One of them I remember liv'd in a cottage on Rosse high-way. The manner was thus: when the corps was brought out of the hous, and laid on the biere, a loaf of bread was delivered to the sinne eater over the corps, as allso a mazar bowle (a gossips bowl of maple) full of beer, which he was to drink up, and six pence in mony, in consideration whereof he took upon him *ipso facto* all the sinns of the defunct, and freed him or her from walking after they were dead. In North Wales the sinne eaters are frequently made use of; but there, instead of a bowl of beer, they have a bowl of milk. This custom was by some people observed even in the strictest time of the presbyterian government. As at Dyndar, *volens nolens* the parson of the parish, the relation of a woman deceased there had this ceremony punctually performed according to her will. The like was done in the city of Hereford in those times, where a woman kept, many years before her death, a mazar bowl for the sinne-eater; and in other places in this county, as allso at Brecon, at Llangors, where Mr. Gwin the minister, about 1640, could not hinder this superstition. Methinks doles to poor people, with mony at funerals, have some resemblance of the sinne-eating. Doles at funerals were continued at gentlemen's funerals in the west of England till the civil warrs; and so in Germany, at rich men's funerals, doles are in use, and to every one a quart of strong and good beer. Aubrey of Gentilisme, MS.
 >
 > This giving of doles is now observed in most country funerals in cake to all the better part, and bread to all the poor people.
 ```
@@ -159,7 +159,7 @@ So we can date this observation back at least to c. 1714.
 
 We also note that the letter has a little more detail regarding the current whereabouts of Aubrey's papers – *and is now remaining in the Hands of Mr. Churchill the Bookseller* – as well as a comment regarding the deeper history of the story: *How can a man think otherwise of this, than that it proceeded from the ancient Heathens?*
 
-```{index} single: Leland, John (antiquary) ; biography
+```{index} single: Leland, John (antiquary); biography
 :name: biog:JohnLeland
 ```
 ```{admonition} John Leland
@@ -223,7 +223,7 @@ One possibility is that he learned of it from "Brand's Antiquities", which we sa
 
 We know that Hone was familiar with an earlier edition of Brand's work, citing from it liberally right from the very start of his *Every-Day Book* of 1826. For example, even on [January 1st, column 6,](https://archive.org/details/b29326072_0001/page/3/mode/2up?q=brand) *"The  late Rev. John Brand, in his 'Popular Antiquities' edited by Mr. Ellis, observes..."*
 
-```{index} single: Brand, John  ; Observations on Popular Antiquities, 1777
+```{index} single: Brand, John ; Observations on Popular Antiquities, 1777
 :name: book:brand:popantiq:1777
 ```
 ## Brand's *Observations on Popular Antiquities*, 1777
@@ -234,13 +234,13 @@ Here's what Mr Bourne has to say, in Chapter II:
 
 > Of Watching the Dead
 >
-> Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica `[Psaltenum arripuit Euodius, & cantare caepit psalmum, cui respondebamus omnes domus : Miserecordiam & judicium cantabo tibi Domine. Aug. Lib. 9. Confes C. 12.]` Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, `[Ad ecclesiam antelueana hora qua defunctus est, corpus ipsius portatum est : ibique eadem suit nocte, quam vigilaviamus in pascha. Gmg. Turon. de Gloria; Confes. C. 104.]` That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.
+> Watching with the Corps was an antient Custom of the Church, and every where practised. They were wont to sit by it, from the Time of its Death till its Exportation to the Grave, either in the House it died in, or in the Church itself. Agreeable to this, we read in St. Austin, That as they watched his Mother Monica `[Psaltenum arripuit Euodius, & cantare caepit psalmum, cui respondebamus omnes domus: Miserecordiam & judicium cantabo tibi Domine. Aug. Lib. 9. Confes C. 12.]` Euodius took the Psaltery and began to sing a Psalm which the whole Family answered with that of the Psalmist David, I will sing of Mercy and Judgement unto thee, LORD, I will sing. And we are told, `[Ad ecclesiam antelueana hora qua defunctus est, corpus ipsius portatum est: ibique eadem suit nocte, quam vigilaviamus in pascha. Gmg. Turon. de Gloria; Confes. C. 104.]` That at the Death of St. Ambrose, his Body was carried into the Church before Day, the same Hour he died. It was the Night before Easter and they watched with him there.
 >
-> How unlike to this antient Custom of watching is the modern one, of locking up the Corps in a Room, and leaving It there alone ? How unlike to this decent Manner of watching, is that watching of the Vulgar, which is a Scene of Sport and Drinking and Lewdness? Watching at that Time with a dear Friend, is the las Kindness and Respect we can shew him ; and how unfriendly is it, to change it into Negligence and too great Resignation? How unchristian, instead of a becoming Sorrow and decent Gravity, to put on an unbecoming Joy and undecent Pastime,
+> How unlike to this antient Custom of watching is the modern one, of locking up the Corps in a Room, and leaving It there alone? How unlike to this decent Manner of watching, is that watching of the Vulgar, which is a Scene of Sport and Drinking and Lewdness? Watching at that Time with a dear Friend, is the las Kindness and Respect we can shew him; and how unfriendly is it, to change it into Negligence and too great Resignation? How unchristian, instead of a becoming Sorrow and decent Gravity, to put on an unbecoming Joy and undecent Pastime,
 
 Brand commented as follows:
 
-> Our Author, for what Reason I know not, has omitted the vulgar Name given here to this *watching with a Corps*. It is called the *Lake-wake* ; a Word plainly derived from the Anglo-Saxon Lie or Lice, *a Corpse* and *a Wake*, a *Vigil*, or *Watching*. It is used in this Sense by Chaucer, in his Knight's Tale :
+> Our Author, for what Reason I know not, has omitted the vulgar Name given here to this *watching with a Corps*. It is called the *Lake-wake*; a Word plainly derived from the Anglo-Saxon Lie or Lice, *a Corpse* and *a Wake*, a *Vigil*, or *Watching*. It is used in this Sense by Chaucer, in his Knight's Tale :
 >
 > Shall not be told for me.  
 > How that Arcite is brent to Afhen cold,  
@@ -249,7 +249,7 @@ Brand commented as follows:
 >
 > Thus also I read in the Article *Walkin* in the learned `[* By the late Mr. Ruddiman, as is generally supposed.]` Glossary to Douglas' Virgil, "Properly *Like-wakes* (Scotch) are the Meetings of the Friends of the Deceased, a Night, or Nights before the Burial."
 >
-> I am not satisfied with either of the Quotations he has given us in Proof of the Antiquity of the Custom: They are indeed something to the Purpose ; but in the last cited Passage, one would be inclined to think from the Words of the Original, that the *Watching* was on Account of its being the Vigil of Easter-Day.
+> I am not satisfied with either of the Quotations he has given us in Proof of the Antiquity of the Custom: They are indeed something to the Purpose; but in the last cited Passage, one would be inclined to think from the Words of the Original, that the *Watching* was on Account of its being the Vigil of Easter-Day.
 
 Brand also comments on some contemporary customs:
 
@@ -261,7 +261,7 @@ There is then a longer footnote that refers to Pennant's *Tour in Scotland*:
 >
 > Durant. de Ritibus, p. 224.
 >
-> Mr. Pennant, in his Tour in Scotland, tells us, that on the Death of a Highlander, the Corps being *stretched* on a *Board*, and covered with a coarse *Linen Wrapper*, the Friends lay on the Breast of the Deceased a *wooden* Platter, containing a small Quantity of *Salt* and *Earth*, separate and unmixed; the *Earth* an Emblem of the corruptible Body; the *Salt* an Emblem of the immortal Spirit.— All Fire is extinguished where a Corps is kept ; and it is reckoned so ominous for a Dog or a Cat to pass over it, that the poor Animal is killed without Mercy.
+> Mr. Pennant, in his Tour in Scotland, tells us, that on the Death of a Highlander, the Corps being *stretched* on a *Board*, and covered with a coarse *Linen Wrapper*, the Friends lay on the Breast of the Deceased a *wooden* Platter, containing a small Quantity of *Salt* and *Earth*, separate and unmixed; the *Earth* an Emblem of the corruptible Body; the *Salt* an Emblem of the immortal Spirit.— All Fire is extinguished where a Corps is kept; and it is reckoned so ominous for a Dog or a Cat to pass over it, that the poor Animal is killed without Mercy.
 
 Brand then continues:
 
@@ -275,12 +275,12 @@ Brand then continues:
 
 Another contemporary custom is also described as part of Brand's oberservations, this time from Northumberland:
 
-> It is customary at this Day in Northumberland, to set a Pewter *Plate*, containing a little *Salt* `[Salem abhorrere constat Diabolu, et ratione optima nititur, quia Salr aeternitatis est et immortatalitatis signum, neque putredeine neque corruptione infestatur unquam, sed ipse ab his omnia vendicat. Depriv. Rel. &c. p154. Confided in reference to this symbolical Explication, how beuatiful is that Expression, "Ye are the Salt of the Earth."]` upon the Corps; as also a Candle in some Places. — The learned Moresin tells us, "That *Salt* is the Emblem of Eternity and Immortality : It is not liable to Putrefaction itself, and it preserves Things that are seasoned with it from Decay." — He gives us also his Conjecture on the Use of a *Candle* `[Lucerna, feu Candela mortuis cadaveribus semper apponitur in domibus et templis, quamdiu fspra terram sunt— aa hinc ducto more, oculo, vel Lucerna incensa veteres AEgyptii vitam significabant, unde veteres foliti sunt lucernas ardentes sepulchris imponere, hac saltem ratione significantes se mortuorum quamdiu possent vitas producturos. Deprav. Rel. Orig. p. 89.]` on this Occasion: "It was an Egyptian Hieroglyphic for Life, meant to express the ardent Desire of having had the life of the Deceased prolonged."
+> It is customary at this Day in Northumberland, to set a Pewter *Plate*, containing a little *Salt* `[Salem abhorrere constat Diabolu, et ratione optima nititur, quia Salr aeternitatis est et immortatalitatis signum, neque putredeine neque corruptione infestatur unquam, sed ipse ab his omnia vendicat. Depriv. Rel. &c. p154. Confided in reference to this symbolical Explication, how beuatiful is that Expression, "Ye are the Salt of the Earth."]` upon the Corps; as also a Candle in some Places. — The learned Moresin tells us, "That *Salt* is the Emblem of Eternity and Immortality: It is not liable to Putrefaction itself, and it preserves Things that are seasoned with it from Decay." — He gives us also his Conjecture on the Use of a *Candle* `[Lucerna, feu Candela mortuis cadaveribus semper apponitur in domibus et templis, quamdiu fspra terram sunt— aa hinc ducto more, oculo, vel Lucerna incensa veteres AEgyptii vitam significabant, unde veteres foliti sunt lucernas ardentes sepulchris imponere, hac saltem ratione significantes se mortuorum quamdiu possent vitas producturos. Deprav. Rel. Orig. p. 89.]` on this Occasion: "It was an Egyptian Hieroglyphic for Life, meant to express the ardent Desire of having had the life of the Deceased prolonged."
 
-```{index} single: Ellis, Henry ; editor, Observations on Popular Antiquities, 1813
+```{index} single: Ellis, Henry; editor, Observations on Popular Antiquities, 1813
 :name: editor:ellis:popantiq:1813
 ```
-```{index} single: Brand, John ; Observations on Popular Antiquities, ed. Henry Ellis, 1813
+```{index} single: Brand, John; Observations on Popular Antiquities, ed. Henry Ellis, 1813
 :name: book:brand:popantiq:1813
 ```
 ## Brand's *Popular Antiquities*, edited by Ellis, 1813
@@ -293,15 +293,15 @@ The following appears on [pp. 246-8](https://archive.org/details/b29328561_0002/
 
 > The following is extracted from Bagford's letter relating to the antiquities of London, printed in Leland’s Collectanea, i. 76. It is dated February 1, 1714-5:
 >
-> "Within the memory of our fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old sire (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket, on which he sat down facing the door. Then they gave him a groat, which he put in his pocket ; a crust of bread, which he eat ; and a full bowle of ale, which he drank off at a draught. After this he got up from the cricket and pronounced, with a composed gesture, the ease and rest of the soul departed for which he would pawn his own soul. This I had from the ingenious John Aubrey, Esq., who made a collection of curious observations, which I have seen, and is now remaining in the hands of Mr. Churchill, the bookseller. How can a man think otherwise of this, than that it proceeded from the ancient heathens ?"
+> "Within the memory of our fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old sire (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket, on which he sat down facing the door. Then they gave him a groat, which he put in his pocket; a crust of bread, which he eat; and a full bowle of ale, which he drank off at a draught. After this he got up from the cricket and pronounced, with a composed gesture, the ease and rest of the soul departed for which he would pawn his own soul. This I had from the ingenious John Aubrey, Esq., who made a collection of curious observations, which I have seen, and is now remaining in the hands of Mr. Churchill, the bookseller. How can a man think otherwise of this, than that it proceeded from the ancient heathens ?"
 >
 > Aubrey's collection, here mentioned, was most probably the *Remaines of Gentilisme and Judaism*, still preserved among the Lansdowne MSS., whence the following remarks on this subject, in Mr. Aubrey’s own hand, have been extracted :
 >
-> "In the county of Hereford was an old custome at funeralls to hire poor people, who were to take upon them the sinnes of the party deceased. One of them (he was a long, leane, ugly, lamentable poor raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out and delivered to the sinne eater, over the corpse, as also a mazar bowle, of maple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. 'And Aaron shall lay both his hands on the head of the live goate, and confesse over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness. And the goat shall bear upon him all their iniquities unto a land not inhabited ; and he shall let the goat goe into the wilderness.'
+> "In the county of Hereford was an old custome at funeralls to hire poor people, who were to take upon them the sinnes of the party deceased. One of them (he was a long, leane, ugly, lamentable poor raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layd on the biere, a loafe of bread was brought out and delivered to the sinne eater, over the corpse, as also a mazar bowle, of maple, full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him, ipso facto, all the sinnes of the defunct, and freed him or her from walking after they were dead. This custome alludes, methinks, something to the scapegoate in the old lawe, Levit. xvi. 21, 22. 'And Aaron shall lay both his hands on the head of the live goate, and confesse over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness. And the goat shall bear upon him all their iniquities unto a land not inhabited; and he shall let the goat goe into the wilderness.'
 >
-> This custome, though rarely used in our dayes, yet by some people was observed even in the strictest time of the presbyterian government, as at Dynder (volens nolens the parson of the parish), the kindred of a woman deceased there had this ceremonie punctually performed, according to her will : and also the like was done at the city of Hereford in those times, where a woman kept, many yeares before her death, a mazard bowle for the sinne-eater ; and the like in other places in this countie; as also in Brecon. ["E.g. at Llanggors, where Mr. Gwin, the minister, about 1640, could not hinder the performance of this ancient custome."] I believe this custom was heretofore used all over Wales." [MS. Lansd. 226, fol. 116. In another page Aubrey says : "A.D. 1686. This custom is used to this day in North Wales;" where milk seems to have been the substitute for beer.]
+> This custome, though rarely used in our dayes, yet by some people was observed even in the strictest time of the presbyterian government, as at Dynder (volens nolens the parson of the parish), the kindred of a woman deceased there had this ceremonie punctually performed, according to her will: and also the like was done at the city of Hereford in those times, where a woman kept, many yeares before her death, a mazard bowle for the sinne-eater; and the like in other places in this countie; as also in Brecon. ["E.g. at Llanggors, where Mr. Gwin, the minister, about 1640, could not hinder the performance of this ancient custome."] I believe this custom was heretofore used all over Wales." [MS. Lansd. 226, fol. 116. In another page Aubrey says: "A.D. 1686. This custom is used to this day in North Wales;" where milk seems to have been the substitute for beer.]
 >
-> Bishop Kennett has added this note to Aubrey's MS. : "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford, where, at the burial of every corpse, one cake and one flagon of ale, just after the interment, were brought to the minister in the church-porch."
+> Bishop Kennett has added this note to Aubrey's MS.: "It seems a remainder of this custom which lately obtained at Amersden, in the county of Oxford, where, at the burial of every corpse, one cake and one flagon of ale, just after the interment, were brought to the minister in the church-porch."
 
 The material adds little to what we have already learned. However, the corresponding section of the [1813 edition](https://archive.org/details/observationsonpo02branuoft/page/154/mode/2up?q=rosse) is essentially the same (although the edition differs not least in page numbering), so we can date the material, and its expression, relating to sin-eaters in the 1849 edition of *Brand's Antiquities* to the first edition of that edited version of thirty six years earlier.
 
@@ -316,7 +316,7 @@ https://en.wikipedia.org/wiki/Henry_Ellis_(librarian)
 
 Although not directly related to the sin-eating custom, we also learn, via  *Pennant*, on p140 of the 1813 edition, (elsewhere in other editions), a custom involving watching over the dead ({term}`Wyl nos`) the night before a funeral:
 
-> "In North Wales," says Mr. Pennant's MS. to often quoted in the former Volume of this Work, (speaking of the Manners of the eighteenth Century,) "the Night before a dead body is to be interred, the friends and neighbours of the deceased resort to the House the corpse is in, each bringing with him some small present of Bread, Meat, Drink, (if the family be something poor ;) but more especially Candles, whatever the Family be : and this Night is called *wyl nôs*, whereby the country people seem to mean a Watching Night. Their going to such a House, they say is, *i wilior corph*, i. e. to watch the corpse ; but *wylo* signifies to weep and lament, and so wyl nôs may be a night of lamentation : while they stay together on that night they are either singing Psalms, or reading some part of the Holy Scriptures.
+> "In North Wales," says Mr. Pennant's MS. to often quoted in the former Volume of this Work, (speaking of the Manners of the eighteenth Century,) "the Night before a dead body is to be interred, the friends and neighbours of the deceased resort to the House the corpse is in, each bringing with him some small present of Bread, Meat, Drink, (if the family be something poor ;) but more especially Candles, whatever the Family be: and this Night is called *wyl nôs*, whereby the country people seem to mean a Watching Night. Their going to such a House, they say is, *i wilior corph*, i. e. to watch the corpse; but *wylo* signifies to weep and lament, and so wyl nôs may be a night of lamentation: while they stay together on that night they are either singing Psalms, or reading some part of the Holy Scriptures.
 >
 > "Whenever any body comes into a Room where a dead Body lies, especially the wyl nôs and the day of its Interment, the first thing he does, he falls on his knees by the Corps, and says the Lord's Prayer."
 

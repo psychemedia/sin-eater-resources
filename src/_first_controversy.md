@@ -1,8 +1,8 @@
 
-```{index} ! double: First Controversy ; sin eater
+```{index}! double: First Controversy; sin eater
 :name: firstcontrov:1875
 ```
-```{index} seealso: Times, The ; correspondence, Times
+```{index} seealso: Times, The; correspondence, Times
 ```
 # The First Controversy, 1875
 
@@ -10,7 +10,7 @@ The response to the article in *Blackwood's Magazine*, and in particular the men
 
 > AMONG curious customs and superstitions noticed in an article in *Blackwood* on the "Legends and Folk-lore of North Wales" there is one the singularity of which is heightened by the statement that it still survives in North and South Wales and the Border. At a funeral, "a hireling who lives by such services has handed over to him a loaf of bread, a maple bowl full of beer or milk, and a sixpence, in consideration of which he takes upon him all the sins of the defunct, and frees him or her from walking after death." The scapegoat is currently called a "Sin-eater."
 
-```{index} ! triple: First Controversy ; correspondence, Academy ; Silvan Evans, D.
+```{index}! triple: First Controversy; correspondence, Academy; Silvan Evans, D.
 :name: firstcontrov:SilvanEvans:1875-11-13
 ```
 ## An Initial Response, Silvan Evans, 1875-11-13
@@ -46,9 +46,9 @@ and in *The Aberystwith Observer*, p4, dated [November 20th, 1875](https://newsp
 The next issue of the *Academy*, *Vol 8 Iss 18* dated [November 20th, 1875](https://archive.org/details/sim_academy-and-literature_1875-11-20_8_184), pp. 529-30, has a response that recaptures much of the evidence that we are familiar with. It is restated here to provide a concise benchmark for the state of understanding we might have expected from the participants from this point in the debate.
 
 > "LEGENDS AND FOLK-LORE OF NORTH WALES": THE SIN-EATER
-> Hammersmith : Nov. 16, 1875.
+> Hammersmith: Nov. 16, 1875.
 >
-> Professor Evans has "never heard of the strange custom here alluded to, either as now existing or as having existed at some former period." May I be allowed to point out what appears to be the original passage from which the writer of the article drew the authority for his statement, and apparently its very words ? It occurs in a work so well-known as *Brand's Popular Antiquities* (Bohn's edition, 1849, vol. ii. 246-248), where the following is cited from Bagford’s letter, dated February 1, 1714-5, in Leland's *Collectanea*, i. 76 :—
+> Professor Evans has "never heard of the strange custom here alluded to, either as now existing or as having existed at some former period." May I be allowed to point out what appears to be the original passage from which the writer of the article drew the authority for his statement, and apparently its very words? It occurs in a work so well-known as *Brand's Popular Antiquities* (Bohn's edition, 1849, vol. ii. 246-248), where the following is cited from Bagford’s letter, dated February 1, 1714-5, in Leland's *Collectanea*, i. 76 :—
 >
 > "Within the memory of our fathers, in Shropshire, in those villages adjoyning to Wales, when a person dyed, there was notice given to an old sire (for so they called him), who presently repaired to the place where the deceased lay, and stood before the door of the house, when some of the family came out and furnished him with a cricket, on which he sat down facing the door. Then they gave him a groat, which he put in his pocket; a crust of bread, which he eat; and a full bowle of ale, which he drank off at a draught. After this he got up from the cricket and pronounced, with a composed gesture, the ease and rest of the soul departed for which he would pawn his own soul. This I had from the ingenious John Aubrey, Esq."
 >
@@ -73,7 +73,7 @@ Askew Roberts, you might recall, was the original editor of Bye-Gones, launched 
 
 We also get a first hint here that Askew Roberts, at least, has a good idea about whom the author of the article might be.
 
-```{index} single: Roberts, Askew ; obituary
+```{index} single: Roberts, Askew; obituary
 :name: AskewRoberts
 ```
 ```{admonition} Askew Roberts: biography, the Oswestry Advertizer, and Bye-Gones
@@ -81,7 +81,7 @@ We also get a first hint here that Askew Roberts, at least, has a good idea abou
 
 The history of Bye-Gones, and Robert Askew's stewardship of it, is given in an obituary piece that appeared in *Bye-Gones* of [December 17th, 1884](https://journals.library.wales/view/2092910/2095293/4#), p146-8:
 
-> Mr Askew Roberts, who was born at Oswestry on the 27th of March, 1826, was the son of Mr Samuel Roberts, a bookseller in the town, and on the side of his mother, a niece of the Rev. John Whitridge of Oswestry, was descended from the family of Anne Askew, the martyr, a name which has been perpetuated in succeeding generations. For a short time in early manhood Mr Roberts resided at Taunton, but he returned to Oswestry about 1848, to take part in his father's business, and continued to live there for the rest of his days ; and in January, 1858, he married Katharine, fourth daughter of the Rev. Thomas Toller of Kettering. Mr Roberts's first literary productions, we believe, appeared in *Oswald's Well*, a magazine conducted by his brother, the late Mr William Whitridge (Roberts), and including the late Mr Shirley Brooks, afterwards editor of *Punch*, amongst its contributors. In 1849 *Oswald's Well* was succeeded by the *Oswestry Advertizer*, which was established as a monthly publication, but under Mr. Roberts's enterprising management soon developed into a weekly, and from time to time was enlarged in size and extended in circulation until it became an influential newspaper for a wide-spread district in Shropshire and North Wales. It was in connection with the railway projects fought in the parliamentary committee rooms, a few years after the establishment of the *Advertizer*, that Mr Roberts, by his lively and trenchant style, first made the influence of the paper felt in the district now served by the Cambrian line, and some of our readers can remember the excitement that was caused week after week by the contributions which came from his pen. In 1860 he founded a second newspaper, the *Merionethshire Standard*, which afterwards became the *Cambrian News* ; and of this publication, as well as the *Advertizer*, he continued to be proprietor until, in 1868, he retired from business and sold the copyright to two of his old associates at the Caxton Press, by one of whom the paper in which these lines are written is still conducted. Mr Roberts was always an unflinching Liberal and Nonconformist, and no considerations of personal profit or loss were ever allowed to stand in the way of his constant advocacy of the principles in which he believed. He helped, not only by his writing, but by active work in some of the Welsh constituencies, to fight the battles which were carried on for years in North Wales, and which only ended in complete victory in the spring of 1880, though in Merionethshire he had the satisfaction of seeing his friend, Mr David Williams, elected as early as 1868.
+> Mr Askew Roberts, who was born at Oswestry on the 27th of March, 1826, was the son of Mr Samuel Roberts, a bookseller in the town, and on the side of his mother, a niece of the Rev. John Whitridge of Oswestry, was descended from the family of Anne Askew, the martyr, a name which has been perpetuated in succeeding generations. For a short time in early manhood Mr Roberts resided at Taunton, but he returned to Oswestry about 1848, to take part in his father's business, and continued to live there for the rest of his days; and in January, 1858, he married Katharine, fourth daughter of the Rev. Thomas Toller of Kettering. Mr Roberts's first literary productions, we believe, appeared in *Oswald's Well*, a magazine conducted by his brother, the late Mr William Whitridge (Roberts), and including the late Mr Shirley Brooks, afterwards editor of *Punch*, amongst its contributors. In 1849 *Oswald's Well* was succeeded by the *Oswestry Advertizer*, which was established as a monthly publication, but under Mr. Roberts's enterprising management soon developed into a weekly, and from time to time was enlarged in size and extended in circulation until it became an influential newspaper for a wide-spread district in Shropshire and North Wales. It was in connection with the railway projects fought in the parliamentary committee rooms, a few years after the establishment of the *Advertizer*, that Mr Roberts, by his lively and trenchant style, first made the influence of the paper felt in the district now served by the Cambrian line, and some of our readers can remember the excitement that was caused week after week by the contributions which came from his pen. In 1860 he founded a second newspaper, the *Merionethshire Standard*, which afterwards became the *Cambrian News*; and of this publication, as well as the *Advertizer*, he continued to be proprietor until, in 1868, he retired from business and sold the copyright to two of his old associates at the Caxton Press, by one of whom the paper in which these lines are written is still conducted. Mr Roberts was always an unflinching Liberal and Nonconformist, and no considerations of personal profit or loss were ever allowed to stand in the way of his constant advocacy of the principles in which he believed. He helped, not only by his writing, but by active work in some of the Welsh constituencies, to fight the battles which were carried on for years in North Wales, and which only ended in complete victory in the spring of 1880, though in Merionethshire he had the satisfaction of seeing his friend, Mr David Williams, elected as early as 1868.
 
 A later part of the obituary reveals that:
 
@@ -97,11 +97,11 @@ Following the publication of this work, and notwithstanding having relinquished 
 
 It appears from the obituary that Askew Roberts was a well-regarded man:
 
-> Of Mr Roberts's character, it is difficult for one who enjoyed a life-long friendship with him to say much in these columns ; but we cannot close this brief record of his career without recalling his true kindness of heart, his delight in helping others, and a singular generosity of nature, which led him to rejoice in the success of his friends, and in the work of their hands or their brains, even more perhaps than in his own. 
+> Of Mr Roberts's character, it is difficult for one who enjoyed a life-long friendship with him to say much in these columns; but we cannot close this brief record of his career without recalling his true kindness of heart, his delight in helping others, and a singular generosity of nature, which led him to rejoice in the success of his friends, and in the work of their hands or their brains, even more perhaps than in his own. 
 
 This applied equally to his professional life:
 
-> In former days, when he conducted this paper, if he sometimes wrote with too keen a pen to please all readers, he was guided by a wholesome dislike of snobbery and pretence, a just regard for the honour and independence of the Press, and a fearless devotion to the cause of freedom and progress, which he did a good deal to help forward in less favoured times than these ; and while he frankly expressed his opinions, he never vilified his opponents or refused to recognize their merits, so that it is not surprising he should have won the lasting friendship of men who altogether differed with him in religious and political belief.
+> In former days, when he conducted this paper, if he sometimes wrote with too keen a pen to please all readers, he was guided by a wholesome dislike of snobbery and pretence, a just regard for the honour and independence of the Press, and a fearless devotion to the cause of freedom and progress, which he did a good deal to help forward in less favoured times than these; and while he frankly expressed his opinions, he never vilified his opponents or refused to recognize their merits, so that it is not surprising he should have won the lasting friendship of men who altogether differed with him in religious and political belief.
 
 A report in *Bye-Gones*, of [June 25th, 1890](https://journals.library.wales/view/2092910/2096798/17#?xywh=-371%2C1552%2C3382%2C2231), p392-3, on the opening of the Askew Roberts Memorial Clock "placed by public subscription outside the [Oswestry] Post Office, and which was to be removed wherever the Post Office was removed to", quoted Roberts' executor, Mr J. Parry-Jones recognising him as "the originator of *Bye-Gones*, which had done so much to create an interest in the subject of folk-lore and antiquarian research in local matters", and who:
 
@@ -133,7 +133,7 @@ http://onlinebooks.library.upenn.edu/webbin/serial?id=byegoneswales
 
 ```
 
-```{index} single: Roberts, Askew ; freemason
+```{index} single: Roberts, Askew; freemason
 ```
 ```{admonition} Askew Roberts, Freemason
 :class: dropdown
@@ -143,7 +143,7 @@ It seems as if Askew Roberts had been an active Freemason:
 > At one time Mr Roberts was an active member of the Order of Free Masons. He was initiated into the Welshpool Lodge, No. 998, of Antient Free and Accepted Masons of England on March 30, 1864, and continued a member of that Lodge till December, 1867. In 1866 a petition was addressed to the Grand Master for a Lodge to be held at Oswestry, to be called the St. Oswald Lodge, and Mr Roberts was one of the ten petitioners, of whom only four are now alive. When the Lodge was consecrated, in October, 1866, Mr Roberts was chosen Secretary, and he continued to hold that office till October, 1870, when he became a Warden of the Lodge. On the 5th December, 1870, Sir Watkin Williams Wynn, the R.W.P.G.M., appointed Mr Roberts a Steward of the Provincial Grand Lodge of North Wales and Shropshire.
 ```
 
-```{index} single: Roberts, Askew ; workaholic
+```{index} single: Roberts, Askew; workaholic
 ```
 ```{admonition} Askew Roberts, Workaholic?!
 :class: dropdown note
@@ -152,7 +152,7 @@ Despite his many pursuits, it seems that Askew Roberts did not enjoy the best of
 > For some years Mr Roberts had not mixed much in public life, but in his younger days, when health and strength permitted, he took an active part in promoting the welfare of the town. He was a warm supporter of successive literary institutes, and he gave valuable help, years ago, in laying the foundation of the present Town Library. In 1865 he entered the Council, tying with another candidate at the head of the poll; but, believing perhaps that the position was not entirely compatible with his more important functions as a journalist and a critic, he retired in 1868. In the beginning of 1872 he was placed on the Commission of the Peace by Lord Chancellor Hatherley, and he devoted himself diligently to the duties of his office until he was incapacitated by illness.
 ```
 
-```{index} single: Roberts, Askew ; funeral
+```{index} single: Roberts, Askew; funeral
 ```
 ```{admonition} Askew Roberts' Funeral
 :class: dropdown note
@@ -176,7 +176,7 @@ The Bye-Gones obituary also describes the sentiments expressed in leading column
 > The announcement of Mr Askew Roberts's death has caused great sorrow amongst the London group of "Old Oswestrians." In many ways, notably in connection with the establishment of the pleasant Reunion of recent years, Mr Roberts had taken a warm and appreciative interest in their welfare. To not a few of them he had ever been a kind mentor and a wise friend, and his loss will be severely felt by them for many years to come. As the editor of "Bye-Gones" he was known to a much wider circle here. His faithfulness to the work he had taken up cannot be better illustrated than by the fact that only a few days before his death he wrote a long letter to Mr W. Charles Evans concerning the shield and arms of the Holbeach family, which Mr Evans had come across in Rochester Cathedral.
 ```
 
-```{index} single: Roberts, Askew ; memorial, Oswestry
+```{index} single: Roberts, Askew; memorial, Oswestry
 ```
 ```{admonition} Askew Roberts Memorial at Oswestry, 1890
 :class: dropdown note
@@ -192,14 +192,14 @@ A report on the Askew Roberts Memorial, Oswestry, in *Bye-Gones*, [June 25th, 18
 > The Mayor, who was received with applause, said as Mayor, as a ratepayer of the town, and as one first came into Oswestry while the late Mr Askew Roberts was still taking an active interest in the town, he had great pleasure in accepting the clock, to be held in trust for the town and as the property thereof. It would remain on the site of the present Post-office, and be removed to wherever the Post-office might be removed in the course of events. (Hear, hear.) It was not only most useful, but it would commemorate the memory oi one who did his very best for the town while he lived in it and whose memory would linger long in the places where he worked so well. (Hear, hear.) There was an old inscription in the purlieus of the Temple, over the sun dial, which he remembered having seen, "Shadows we are and like shadows depart." Thinking of those lines they might remember that those who had gone before them, and done a good work, not only deserved to have their memories regarded by those who remained, but they should endeavour to follow in the footsteps which they had planted before them. (Applause.) The clock would now be in the safe keeping of the Mayors who would succeed him, and he hoped all would profit by the good time which they were told it kept. (Loud cheers.)
 ```
 
-```{index} single: Shrewsbury ; humourous tale
+```{index} single: Shrewsbury; humourous tale
 ```
 (FunnyTaleShrewsbury)=
 ```{admonition} A Funny Tale of Shrewsbury
 :class: dropdown seealso
 https://archive.org/details/gossipingguidet01woodgoog/page/n50/mode/2up?q=legend
 
-> Shrewsbury - Turning past the new Post Office, close to the site of the old High Cross, where the Welsh Prince, Dafydd ap Gruffydd, brother to Llewelyn, is said to have been hungand quartered, we descend Pride Hill, with a turreted market hall before ns. The first turn to the left leads up the quaint street called the Double Butcher Row ; the next, a little further down the Hill, takes us past some fine half-timbered buildings (" Ireland's Mansion " on the right) to The Square, with the picturesque Market House of the 16th century, one of the finest buildings of the kind to be seen in the country.    It Is said that at one time the hall was rented by the Company of Drapers, who there bought flannel which had been brought to the town by Welsh weavers, and, according to a local legend, the mode of purchase was novel— and profitable. "A drum revolving on an axle was used for measuring the flannel. This drum, exactly a yard in circumference, was turned by a handle, and each revolution of the handle was counted as a yard, without any consideration for the gradual Increase in the diameter of the drum by the successive folds of the article measured thereon " According to the story, the Welshmen were not astute enough to discover the fraud for some time, but when they found it out they deserted Shrewsbury market, and so It came to pass thtt the tfadt tn Welsh flannel was extinguished)
+> Shrewsbury - Turning past the new Post Office, close to the site of the old High Cross, where the Welsh Prince, Dafydd ap Gruffydd, brother to Llewelyn, is said to have been hungand quartered, we descend Pride Hill, with a turreted market hall before ns. The first turn to the left leads up the quaint street called the Double Butcher Row; the next, a little further down the Hill, takes us past some fine half-timbered buildings (" Ireland's Mansion" on the right) to The Square, with the picturesque Market House of the 16th century, one of the finest buildings of the kind to be seen in the country.    It Is said that at one time the hall was rented by the Company of Drapers, who there bought flannel which had been brought to the town by Welsh weavers, and, according to a local legend, the mode of purchase was novel— and profitable. "A drum revolving on an axle was used for measuring the flannel. This drum, exactly a yard in circumference, was turned by a handle, and each revolution of the handle was counted as a yard, without any consideration for the gradual Increase in the diameter of the drum by the successive folds of the article measured thereon "According to the story, the Welshmen were not astute enough to discover the fraud for some time, but when they found it out they deserted Shrewsbury market, and so It came to pass thtt the tfadt tn Welsh flannel was extinguished)
 ```
 
 In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/2092910/2093552/11#?xywh=-1479%2C531%2C5791%2C3820), p329-30, we have a note that '[t]he following letter has appeared in the *Academy*. "Llanymawddwy Rectory, Merioneth: November 8th, 1875. ...' that quotes Silvan Evans' letter to the November 13th edition of the *Academy* along with Roberts' own reply from the November 20th edition, as well as an excerpt of several paragraphs from that work.
@@ -216,7 +216,7 @@ In Bye-Gones of [November 24th, 1875](https://journals.library.wales/view/209291
 
 Askew Roberts' letter to the *Academy* is also republished in *The Cambrian News and Merionethshire Standard*, published on [November 26th, 1875](https://newspapers.library.wales/view/3307690/3307699/76/sin-eater), p9, along with the elaboration of the reference in Hone's *Year Book*.
 
-```{index} ! triple: First Controversy ; correspondence, Academy ; Blackwood Author
+```{index}! triple: First Controversy; correspondence, Academy; Blackwood Author
 :name: firstcontrov:blackwoodauthor:1875-11-21
 ```
 ## The Blackwood Author Replies, 1875-11-27
@@ -333,7 +333,7 @@ Elsewhere, on December 14th, 1875, at a meeting of *The Anthroplogical Institute
 
 Notes from a discussion following the reading of the paper are also recorded from [p423](https://archive.org/details/sim_royal-anthropological-institute-of-great-britain-ireland_february-9-1875-january-25-1876_5/page/n467/mode/2up?q=sin). Notably, they feature a response from a certain *Mr Moggridge*, whom we might assume to be the same Mr Moggridge that spoke on the subect of the sin-eater at the sixth meeting of the Cambrian Archaeological Association meeting in Ludlow over twenty years earlier, in 1852:
 
-> Mr. Moggridge said : Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself.
+> Mr. Moggridge said: Mention was made of superstitious observances in our own island. I may, therefore, be permitted to bring to your notice a curious custom that not long since was still extant in South Wales and some of the adjoining counties, that of the Sin-eater. More than two centuries ago a well-known writer, Aubrey de Gentilésisme gives a full account of this observance in Herefordshire, where he was fortunate enough to "interview" the Sin-eater himself.
 
 Moggridge went on mention another, more recent tradition, which he associates with a sin-eater, but which he distinguishes as a slightly simpler ritual:
 
@@ -369,7 +369,7 @@ Several other remarks appear then to have been made — *"Mr Edkins and the Pres
 
 This appears to have been Mr Jeremiah's only contribution to the sin-eater debate unless he appears elsewhere under a pseudonym.
 
-```{index} ! triple: First Controversy ; correspondence, Academy ; Silvan Evans, D.
+```{index}! triple: First Controversy; correspondence, Academy; Silvan Evans, D.
 :name: firstcontrov:SilvanEvans:1876-02-05
 ```
 ## Silvan Evans Responds to the Evidence, 1876-02-05
@@ -388,7 +388,7 @@ Silvan Evans opens with a restatement of his belief that the tradition of the si
 >
 > THE SIN-EATER.
 >
-> Aberystwyth : Jan. 29, 1876.
+> Aberystwyth: Jan. 29, 1876.
 >
 > At the risk of exposing my "ignorance" still further, and thereby causing additional surprise to the writer of the paper on the "Legends and Folklore of North Wales" in *Blackwood’s Magazine*, I venture to reiterate my doubts as to the existence of the sin-eater in any part of Wales. Like every other country, the Principality had, and still has, her superstitions, but that of the sin-eater does not appear to be among them.
 
@@ -422,7 +422,7 @@ And what period does Silvan Evans think this refers to? As the tradition was *"s
 
 *he* being Moggridge,
 
-> found the more absurd portions of the custom had been abandoned, while some still remained. Thus near Llanon, within twenty years, the plate, salt, and bread were retained ; near Swansea (and, indeed, very generally), only the plate and salt."
+> found the more absurd portions of the custom had been abandoned, while some still remained. Thus near Llanon, within twenty years, the plate, salt, and bread were retained; near Swansea (and, indeed, very generally), only the plate and salt."
 
 Silvan Evans then attacks the Blackwood's author's logic:
 
@@ -456,11 +456,11 @@ As Silvan Evans points out,
 
 These letters, by *"Rheidiol"*, are presumably by that same Mr. John Rowlands.
 
-```{index} see: Rheidiol ; Rowlands, John
+```{index} see: Rheidiol; Rowlands, John
 ```
-```{index} see: Giraldus ; Rowlands, John
+```{index} see: Giraldus; Rowlands, John
 ```
-```{index} single: Rowlands, John ; Giraldus testimonial
+```{index} single: Rowlands, John; Giraldus testimonial
 :name: biog:JohnRowlands:testimonial
 ```
 ````{admonition} John Rowlands, aka. *Rheidiol*, aka. *Giraldus*
@@ -488,11 +488,11 @@ On suffering from a stroke in 1884, friends and colleagues rallied around to crr
 >
 > The Rev. M. P. WILLIAMS, in supporting it, remarked that the issue of this meeting would show whether Welsh Churchmen were prepared to support and encourage talent and industry devoted to the adornment of periodicals issued under the auspices of their Church, or whether writers who had spent the best efforts of their lives in tho service of the Church should be allowed to pine in poverty and distress in the winter of their days. No sadder picture could he found in the literary history of any country than the last days of "Brutus," the great Welsh wit and humourist. The, annals of Grub-street, gloomy as they were, had no more pathetic spectacle than that of "Brutus" dying in poverty, and when the fiery spark of his heaven-born genius was quenched for ever consigned in a pauper's coffin to a nameless grave. It was his (the speaker's) conviction that the legacy of the grave had lain heavily on the Welsh press ever since, especially on the Welsh Church press. It was for those present to do all they could to exorcise this spectre of a hideous past, and he trusted that their action at this meeting would be pregnant with good results for the5 distant future. Let them do what they could to add peace and comfort to the declining days of "Giraldus" and perhaps they would succeed in waking into song the "mute inglorious Miltons" of the Welsh hills and valleys, and inspiring the future Kebles and Stanleys of the Welsh Church. In works of this kind Churchmen could learn a lesson from the Nonconformists. Tho respect shown last Saturday to "Gohebydd" should teach them to pay honour to "Giraldus". (Hear, hear.)
 >
-> Mr. JOHN DUNCAN also spoke in support of the motion, and observed that "Giraldus " had a claim upion Welshmen of every denomination.
+> Mr. JOHN DUNCAN also spoke in support of the motion, and observed that "Giraldus" had a claim upion Welshmen of every denomination.
 >
-> Colonel H. H. DAVIES said he first became acquainted with "Giraldus" in 1869, when a band of 48 American captains went to celebrate the Anniversary of Independence at Caerphilly Castle. They could find no one to tell them the story of the ancient fortress except "Giraldus," who was then a schoolmaster at Bedwas, and who came at their request and gave them the history of the Castle. He also brought two Welsh harpers with him, who played the "March of Caerphily." "Giraldus" had been his neighbour now for some years. "Giraldus" commenced his career as a writer when be was eighteen years old, and since the death of "Brutus" he had been the principal contributor to  *Yr Haul*. Twenty-five or thirty years ago he published his researches into the history of Wales in the *Cardiff and Merthy Guardian* and the *Cardiff Times**. He also contributed historical sketches relating to Cardiganshire and Carmarthenshore in the *Aberystwith Observer*, the *Welshman* and the *Carmarthen Journal*. Some of his historical notes were also printed in the *Western Mail*, in *Brython*, a quarterly published at Tremadoc, and edited by the famous Celtic linguist, Professor Silvan Evans; in *Goleuad yr Oes* published at Carnarvon, and in the *Cymro*. With reference to the last, he received complimentary letters from "Talhaiarn," the celebrated bard and scholar, from the Rev. Morris Williams ("Nicander"), from " Cattwgan " and from the Ven. Archdeacon Jones, of Bangor (a native of Cadoxton- juxta-Barry), author of the critical notes on "Iolob's" MSS. He also wrote for the "Genealogia," edited by Dr. Howard, F.S.A, and the principal of the Historical Department of the United States offered to exchange his works on genealogy with "Giraldus." He also penned several interesting papers relating to the sin eaters in Wales. Whila he was librarian and Welsh secretary to the late Sir Thomas Phillipps, of Middle Hill,.R.S., a trustee of the British Museum, he made a tour through Carmarthenshire, Pembrokeshire, and Glamorganshire in search of historical information, and transcribed for the printers the charters of Wales and the works of the ancient Welsh bards. He also collected, but has not yet published, the monumental inscriptions of Welsh families. His notes on the history of the counties of Glamorgan, Carmarthen, and Cardigan were published at the request of several eminent antiquaries, and met with a large sale. He prepared papers on the history of the Van Caerphilly and on the history of Maesaleg Gwem-y-Gleppa, which were read before the Cardiff Naturalists' Society, and published the history and pedigrees of the families of Dolau Cothi, Abermarles, Llanfair Clydogan, Havod, Absrmaed, and Llanbadarnfawr, as well as a history of the last-named parish, for which a prize was divided between him and "Llyfnwy " at the Llancarfan Eisteddfod. "Giraldus" also wrote "Notes" on the history of Monmouthshire, the Bishops of Llandaff, the Mathew family, Llandaff, the Welsh Royalists, and the history of Cefn Mably. He also translated several works on Welsh history and traced the pedigrees of Judge Johnes, the Vaughans of Crosswood, the Earls of Lisvane, the Wilkins of Llantwit Major, the Morgans of Tredegar, the Powels of Nanteos, the Pryces of Gogerddau, the Turbervills of Ewenny; the Matthews of Llandaff; John Inglis Jones of Dewi Ormond; and the Steadmans of Ystradffin. He also catalogued the Llandaff Library for the late Colonel Bennett, R.A. Among his numerous other works was a history of the first day schools in Wales and a biograpby of Rowlands of Llangeitho. He also wrote a good deal about ancient welsh marriage and funeral customs and Welsh games. He was frequently consulted by the late Dr. Nicholas while thle lattel was engaged on his " History of the County and County Families of Wales" and the biographers of Wesley and Matthew Henry also appealed to him for assistance. The late Dean of Bangor entertained a high opinion of "Giraldus's" writings, and always regretted that his services to the Welsh Church were not better recognised.
+> Colonel H. H. DAVIES said he first became acquainted with "Giraldus" in 1869, when a band of 48 American captains went to celebrate the Anniversary of Independence at Caerphilly Castle. They could find no one to tell them the story of the ancient fortress except "Giraldus," who was then a schoolmaster at Bedwas, and who came at their request and gave them the history of the Castle. He also brought two Welsh harpers with him, who played the "March of Caerphily." "Giraldus" had been his neighbour now for some years. "Giraldus" commenced his career as a writer when be was eighteen years old, and since the death of "Brutus" he had been the principal contributor to  *Yr Haul*. Twenty-five or thirty years ago he published his researches into the history of Wales in the *Cardiff and Merthy Guardian* and the *Cardiff Times**. He also contributed historical sketches relating to Cardiganshire and Carmarthenshore in the *Aberystwith Observer*, the *Welshman* and the *Carmarthen Journal*. Some of his historical notes were also printed in the *Western Mail*, in *Brython*, a quarterly published at Tremadoc, and edited by the famous Celtic linguist, Professor Silvan Evans; in *Goleuad yr Oes* published at Carnarvon, and in the *Cymro*. With reference to the last, he received complimentary letters from "Talhaiarn," the celebrated bard and scholar, from the Rev. Morris Williams ("Nicander"), from "Cattwgan" and from the Ven. Archdeacon Jones, of Bangor (a native of Cadoxton-juxta-Barry), author of the critical notes on "Iolob's" MSS. He also wrote for the "Genealogia," edited by Dr. Howard, F.S.A, and the principal of the Historical Department of the United States offered to exchange his works on genealogy with "Giraldus." He also penned several interesting papers relating to the sin eaters in Wales. Whila he was librarian and Welsh secretary to the late Sir Thomas Phillipps, of Middle Hill,.R.S., a trustee of the British Museum, he made a tour through Carmarthenshire, Pembrokeshire, and Glamorganshire in search of historical information, and transcribed for the printers the charters of Wales and the works of the ancient Welsh bards. He also collected, but has not yet published, the monumental inscriptions of Welsh families. His notes on the history of the counties of Glamorgan, Carmarthen, and Cardigan were published at the request of several eminent antiquaries, and met with a large sale. He prepared papers on the history of the Van Caerphilly and on the history of Maesaleg Gwem-y-Gleppa, which were read before the Cardiff Naturalists' Society, and published the history and pedigrees of the families of Dolau Cothi, Abermarles, Llanfair Clydogan, Havod, Absrmaed, and Llanbadarnfawr, as well as a history of the last-named parish, for which a prize was divided between him and "Llyfnwy" at the Llancarfan Eisteddfod. "Giraldus" also wrote "Notes" on the history of Monmouthshire, the Bishops of Llandaff, the Mathew family, Llandaff, the Welsh Royalists, and the history of Cefn Mably. He also translated several works on Welsh history and traced the pedigrees of Judge Johnes, the Vaughans of Crosswood, the Earls of Lisvane, the Wilkins of Llantwit Major, the Morgans of Tredegar, the Powels of Nanteos, the Pryces of Gogerddau, the Turbervills of Ewenny; the Matthews of Llandaff; John Inglis Jones of Dewi Ormond; and the Steadmans of Ystradffin. He also catalogued the Llandaff Library for the late Colonel Bennett, R.A. Among his numerous other works was a history of the first day schools in Wales and a biograpby of Rowlands of Llangeitho. He also wrote a good deal about ancient welsh marriage and funeral customs and Welsh games. He was frequently consulted by the late Dr. Nicholas while thle lattel was engaged on his "History of the County and County Families of Wales" and the biographers of Wesley and Matthew Henry also appealed to him for assistance. The late Dean of Bangor entertained a high opinion of "Giraldus's" writings, and always regretted that his services to the Welsh Church were not better recognised.
 >
-> The CHAIRMAN, in putting the motion to the meeting, said that were it not for the circumscribed use of the Welsh language the works of "Giraldus " would be known everywhere.
+> The CHAIRMAN, in putting the motion to the meeting, said that were it not for the circumscribed use of the Welsh language the works of "Giraldus" would be known everywhere.
 >
 > The proposition was carried unanimously.
 >
@@ -582,7 +582,7 @@ Over in *Bye-gones*, the running commentary continued in the [February 9th, 1876
 
 The same review appeared in *Cambrian News and Merionethshire Standard* dated [February 18th, 1876](https://newspapers.library.wales/view/3307811/3307818/66/sin%20eater), p7.
 
-```{index} triple: First Controversy ; responses, Academy ; Blackwood Author
+```{index} triple: First Controversy; responses, Academy; Blackwood Author
 :name: firstcontrov:BlackwoodAuthor:1876-02-12
 ```
 ## The Blackwood Author Snaps Back, 1876-02-12
@@ -667,7 +667,7 @@ As a postscript, the *Blackwood* author appears to give authority to Aubrey in W
 
 At this point, you might imagine some readers imploring Silvan Evans "don't feed the troll", whilst others were anticipating how withering, or weary, his response might be.
 
-```{index} triple: First Controversy ; correspondence, Academy; Silvan Evans, D. 
+```{index} triple: First Controversy; correspondence, Academy; Silvan Evans, D. 
 :name: firstcontrov:BlackwoodAuthor:1876-02-26
 ```
 ## Silvan Evans Restates His Position, 1876-02-26
@@ -689,7 +689,7 @@ Silvan Evans opened with, a patient - perhaps condescending, perhaps resigned �
 >
 > THE "SIN-EATER."
 >
-> Llanymawddwy : Feb. 12, 1876.
+> Llanymawddwy: Feb. 12, 1876.
 >
 > The question between the writer in Blackwood and myself is a simple one,
 
@@ -784,7 +784,7 @@ Had Moggridge perhaps heard of the tradition in a Welsh context of the plate of 
 
 Silvan Evans then turns his attention to the matters of ritual under discussion:
 
-> Mr. Moggridge, and apparently the writer of the article, assume all along that the plate and salt are necessarily remnants of the alleged sin-eating practice ; and finding these articles employed in certain cases, they take it for granted that the "more odious part of the custom has been removed," which amounts to begging the whole question.
+> Mr. Moggridge, and apparently the writer of the article, assume all along that the plate and salt are necessarily remnants of the alleged sin-eating practice; and finding these articles employed in certain cases, they take it for granted that the "more odious part of the custom has been removed," which amounts to begging the whole question.
 
 Which is to say, given the salt, the assumption is the sin-eating part has been lost; rather than there only ever was just the salt.
 

@@ -1,6 +1,6 @@
 https://archive.org/details/cambriansuperst00howegoog/page/n64/mode/2up?q=corpse+
 
-Cambrian superstitions, comprising ghosts, omens, witchcraft, traditions, &amp;c : To which are added a concise view of the manners and customs of the principality, and some fugitive pieces
+Cambrian superstitions, comprising ghosts, omens, witchcraft, traditions, &amp;c: To which are added a concise view of the manners and customs of the principality, and some fugitive pieces
 by Howells, William
 
 Publication date 1831
@@ -17,18 +17,18 @@ It appears that these lights are generally observed
 tp v«er their course towards the churchyard, which 
 they enter i hover round the spot wher^ the person 
 whose death they intimate will be buried, and dis- 
-appear ; they vary in brilliancy and size, according 
-to the person whose doom it is to leave the world ; 
+appear; they vary in brilliancy and size, according 
+to the person whose doom it is to leave the world; 
 thus an infant's would not be larger than that of a 
 ' candle, whilst a child's <' of the larger growth'' is 
-of a proportionate size ; the colour is said to be a sul- 
+of a proportionate size; the colour is said to be a sul- 
 phureous blue,]: and when any one observes their 
 approach, if they do not move aside they >Hrili be 
 struck down by their force, as Twas informed. by a 
 |>erson living, whose father coming in contact with 
 one, was thrown off his horse. If th^y are seen to 
-stop, the corpse will do the same at the funeral ; if 
-they move aside, it will occur so at the buriial ; and 
+stop, the corpse will do the same at the funeral; if 
+they move aside, it will occur so at the buriial; and 
 should two candles meet, the two funerals ^ill do 
 the same: it is also said that if a person looks back 
 at one after it has passed himV he will perceive the 
@@ -60,7 +60,7 @@ tributed to a Bishop of St. David's, a martyr, who
 
 only) before a person's death, that they might testify 
 
-that he had died a martyr ; and in many parts of 
+that he had died a martyr; and in many parts of 
 
 ' North Wales, the people are almost distracted when 
 
@@ -99,7 +99,7 @@ which runs near the road; all the passengers behalf
 them, and it is related that a few days after, some 
 men were crossingthe river iiear there in a coracle, 
 but one of them expressed his fear at venfiy*ing, as 
-the river vtras flooded, and remained behind ; the 
+the river vtras flooded, and remained behind; the 
 
 
 
@@ -124,7 +124,7 @@ lived at Pont Flten, in Pembrolceshire, asserted that'
 iir^Wl&rnmg^frOm Tiredavith he beheld a great li^ht' 
 Wfi^ he concliided Svas one bf these Cambrian 
 phenomena^ and accordingly wkited to observe its 
-motiotis ; he related that he saw it stand still for 
+motiotis; he related that he saw it stand still for 
 about a quarter of an hour, in the rbadtb the church ' 
 of Uiife^chHawdAg, after which it went into the 
 clHlpeh^ and after a while hovered over a spot in 
@@ -141,7 +141,7 @@ to hore^.
 There formerly lived in Carmarthen, an old 
 beldaHHI^iiamed Betty Marchadt, possf^sed of the 
 Se^bnd Sight, and wh6 Confessed to several that 
-sfa# f^i]^ntly saw Corpse Candles ; hi oneiime, 
+sfa# f^i]^ntly saw Corpse Candles; hi oneiime, 
 when^ ilh^was in^a house where aii infant lay ill, she 
 bikde a p^i^ilbn standttig in the door to tnrs aside, 
 aM' <i)Bt l^eingf askH after, her reason for it, i§B^' - 
@@ -163,7 +163,7 @@ town, near Carmarthen, an aged individaal of the
 name of Jones, who has confidently assured a rela- 
 tion of mine, that ^he was accustomed to see these 
 candles proceeding^ down the road to Llanllwch 
-<2burch ; and that she observed that the funerals in* 
+<2burch; and that she observed that the funerals in* 
 variably took the same direction, moving aside 
 just as she had seen their precursors^ and that^be- 
 fore any one was drowned, she has frequently seen 

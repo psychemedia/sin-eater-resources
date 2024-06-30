@@ -1,4 +1,4 @@
-```{index} ! single: Webb, Mary ; Precious Bane, 1924
+```{index}! single: Webb, Mary; Precious Bane, 1924
 :name: precious-bane-webb
 ```
 # "Precious Bane", Mary Webb

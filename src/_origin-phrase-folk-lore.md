@@ -4,7 +4,7 @@ Before we continue on our journey in search of the sin-eater, it is worth settin
 
 The tale, and two other related ones, centers around a singular individual, William John Thoms. For it was he who coined not only the phrase, but also went on to found *Notes & Queries*, a publication we shall have course to refer to many times throughout our journey, as well as playing a foundational role in the formation of the Folklore Society. So before we consider the way in which in which Thomse introduced the term "folk-lore" to our vocabulary, let us briefy turn to the man himself.
 
-```{index} triple: Thoms, William J. ; Dictionary of National Biography ; biography
+```{index} triple: Thoms, William J.; Dictionary of National Biography; biography
 ```
 ```{admonition} William Thoms, Dictionary of National Biography
 :class: seealso dropdown
@@ -36,7 +36,7 @@ Thoms went little into society, but at congenial resorts, such as the 'Cocked Ha
 [Notes and Queries, IV. x. 241, 383, xii. 1, v. vi. 1, 41, 101, 221, vii. 1, 222, 303, VI. xii., 141, 268, 303; Athenaeum, 1885, ii. 239, 272, 304.]
 
 ```
-```{index} double: Thoms, William J. ; obituary
+```{index} double: Thoms, William J.; obituary
 ```
 ```{admonition} William Thoms, Obituary in *Notes & Queries*, 1885 
 :class: seealso dropdown
@@ -63,7 +63,7 @@ A sound and an accurate scholar, the close ally during more than half a century 
 >
 > It is stated in "N. & Q.," *ante*, p. 141, that Mr. Thoms was born in Westminster, November 16, 1803; but it is a fact not generally known that the register of his baptism in St. Margaret’s Church, December 15, 1803, originally recorded his name as simply "John Thoms, son of Nathaniel by Ruth Ann, [born] November 16."
 >
-> This curious error was corrected in 1857, by a sworn affidavit before Mr. Arnold, the magistrate, and at the foot of the page of the register was then written : "This should be William John Thoms, according to the declaration of Mary Ann Thoms annexed hereto. Mercer Davies, curate, June 5.
+> This curious error was corrected in 1857, by a sworn affidavit before Mr. Arnold, the magistrate, and at the foot of the page of the register was then written: "This should be William John Thoms, according to the declaration of Mary Ann Thoms annexed hereto. Mercer Davies, curate, June 5.
 >
 > The declaration, made June 2, states :—
 > "I, Mary Ann Thoms, spinster, sister of the late Nathaniel Thome, of the City of Westminster, Gentleman, do solemnly and sincerely declare that my late brother the said Nathaniel Thoms and his wife Ruth Ann Thoms had issue of their marriage only one child, my nephew William John Thoms, now of No. 25, Holywell Street,  Millbank, Westminster, who was born on the 16th day of November, 1803, that I was present at his baptism at St. Margaret's Church, on the 15th day of December following, that I stood godmother to my said nephew, who was baptized by the names of William John, and that he has ever since been called and known as William John Thoms, and I make this declaration for the purpose of correcting the erroneous entry in the register of baptisms at St. Margaret's, Westminster, wherein his baptism is entered as that of John Thoms, by which names of William John he was duly baptized."
@@ -77,7 +77,7 @@ A sound and an accurate scholar, the close ally during more than half a century 
 
 ```
 
-```{index} double: Thoms, William J. ; biography
+```{index} double: Thoms, William J.; biography
 ```
 ```{admonition} William Thoms, Biography in the 50th Anniversary Issue of Notes and Queries, 1899
 :class: seealso dropdown
@@ -103,7 +103,7 @@ In *Notes and Queries*, [1899-11-04: Vol 4 Iss 97 / 9th S. IV pp370-373](https:/
 >
 > Mr. Thoms tells us that he had a love for books from his earliest years, the taste for them being encouraged by his father, who was a diligent reader of the *Edinburgh and Quarterly Reviews*, his library containing a complete set of each. Being very short sighted, he was not able to join in sports like other boys. "There was only one branch of them in which I was an adept, and in these refined days I almost blush to refer to it. I was said to handle the gloves very nicely."
 >
-> The year 1872 was full of activity for Mr. Thoms. We find him busy investigating 'Another Historic Doubt'—the death-warrant of Charles I. The numbers for July contain his notes on the subject ; these were afterwards reprinted, and rapidly passed through two editions. They were dedicated to one dear to him as a brother—" To the memory of that model of a Christian gentleman and accomplished scholar, my forty years' friend, John Bruce." Then came his farewell to 'N. & Q.', and only four weeks after his 'Parting Note' a banquet was given in his honour. On the 1st of November such an assemblage as is rarely witnessed met at Willis's Rooms.The chairman was Karl Stanhope, Lord Lyttelton occupied the vice chair, and the company included, among other equally well-known names, the Earl of Verulam, Sir Frederick Pollock, Sir Charles W. Dilke, Sir Edward Smirke, Prof. Owen, Mr. Joseph Durham, R.A., Mr. Shirley Brooks, and Mr John Murray.
+> The year 1872 was full of activity for Mr. Thoms. We find him busy investigating 'Another Historic Doubt'—the death-warrant of Charles I. The numbers for July contain his notes on the subject; these were afterwards reprinted, and rapidly passed through two editions. They were dedicated to one dear to him as a brother—" To the memory of that model of a Christian gentleman and accomplished scholar, my forty years' friend, John Bruce." Then came his farewell to 'N. & Q.', and only four weeks after his 'Parting Note' a banquet was given in his honour. On the 1st of November such an assemblage as is rarely witnessed met at Willis's Rooms.The chairman was Karl Stanhope, Lord Lyttelton occupied the vice chair, and the company included, among other equally well-known names, the Earl of Verulam, Sir Frederick Pollock, Sir Charles W. Dilke, Sir Edward Smirke, Prof. Owen, Mr. Joseph Durham, R.A., Mr. Shirley Brooks, and Mr John Murray.
 >
 > A report of the proceedings is printed on the 9th of November. Earl Stanhope in the course of his speech said that
 >
@@ -117,9 +117,9 @@ In *Notes and Queries*, [1899-11-04: Vol 4 Iss 97 / 9th S. IV pp370-373](https:/
 >
 > In this little record of Mr. Thoms's life I have been aided by his eldest son, Mr. Merton Thoms. I have also to thank him for allowing me to make a copy of a photograph taken by Dr. Diamond, so that the readers of 'N. & Q.' may be in possession of this interesting souvenir of our founder. The words are facsimiled from those written by Mr. Thoms on the back of a portrait which he gave to my father. I have been trying to persuade Mr. Merton Thoms to give us a volume about his father, to include some of the rich stores of correspondence now in his possession.
 
-```{index} seealso: Merton, Ambrose ;  Thoms, William J.
+```{index} seealso: Merton, Ambrose;  Thoms, William J.
 ```
-```{index} double: Thoms, William J. ; folklore (origin of term)
+```{index} double: Thoms, William J.; folklore (origin of term)
 ```
 ## "Ambrose Merton", Folk-Lore, and the Lore of the People
 
@@ -165,17 +165,17 @@ Thoms/Merton was also to be the editor of the column, which first appeared the f
 >
 > *Of elves, of hills, brooks, standing lakes, or groves, —*
 >
-> will be useful in developing the influence which such elements respectively exercised upon this poetical branch of our Popular Mythology. And as I agree with Mr. Keightley no mean authority on such a subject-in opinion "that the belief in Fairies is by no means extinct in England,—and that in districts, if there be any such, where steam-engines, cotton mills, mail coaches `[This was written, by Mr. Keightley, in 1828 ; but now, now, what Chaucer said of the "elves" may almost be applied to the mails. "But now can no man see non mails mo."`], and similar exorcists have not yet penetrated, numerous legends might be collected," — I am not without hope of seeing many "a roundel and a fairy song" rescued from destruction through the agency of the *Athenaeum*.
+> will be useful in developing the influence which such elements respectively exercised upon this poetical branch of our Popular Mythology. And as I agree with Mr. Keightley no mean authority on such a subject-in opinion "that the belief in Fairies is by no means extinct in England,—and that in districts, if there be any such, where steam-engines, cotton mills, mail coaches `[This was written, by Mr. Keightley, in 1828; but now, now, what Chaucer said of the "elves" may almost be applied to the mails. "But now can no man see non mails mo."`], and similar exorcists have not yet penetrated, numerous legends might be collected," — I am not without hope of seeing many "a roundel and a fairy song" rescued from destruction through the agency of the *Athenaeum*.
 
 Merton then provides several questions, the answers to which might provide examples of some of the sort of content he expects to receive:
 
-> Can no Devonshire correspondent furnish new and untold stories of his native Pixies? Are there no records of a fairy pipe-manufactory to be gathered at Swinborne, in Worcestershire ?-In the mining and mountainous districts of Derbyshire are all "such antique fables and such fairy toys" entirely extinct ? - If so, is not the neighbourhood of Haddon, or of both, still visited by the coach drawn by headless steeds, driven by a coachman as headless as themselves ?-Does not such an equipage still haunt the mansion of Parsloes, in Essex?—and could not some correspondent from that county furnish you with stories of the inhabitants of Coggeshall, to prove them very rivals of the Wise Men of Gotham ?—Is the Barguest no longer seen in Yorkshire ?-Is "howdening" altogether obsolete in Kent- and, if so, when was this last trace of a heathen rite performed ?-Are the legends of Tregeagle no longer current in Cornwall ?-_These are all subjects not undeserving attention : and it should be remembered that legends and traditions which are considered trifling, in the localities to which they more immediately relate, assume an interest in the eyes of strangers to whom they are not familiar—and an importance when placed in apposition with cognate materials, by the light which they both receive and furnish from such juxtaposition.
+> Can no Devonshire correspondent furnish new and untold stories of his native Pixies? Are there no records of a fairy pipe-manufactory to be gathered at Swinborne, in Worcestershire ?-In the mining and mountainous districts of Derbyshire are all "such antique fables and such fairy toys" entirely extinct? - If so, is not the neighbourhood of Haddon, or of both, still visited by the coach drawn by headless steeds, driven by a coachman as headless as themselves ?-Does not such an equipage still haunt the mansion of Parsloes, in Essex?—and could not some correspondent from that county furnish you with stories of the inhabitants of Coggeshall, to prove them very rivals of the Wise Men of Gotham ?—Is the Barguest no longer seen in Yorkshire ?-Is "howdening" altogether obsolete in Kent- and, if so, when was this last trace of a heathen rite performed ?-Are the legends of Tregeagle no longer current in Cornwall ?-_These are all subjects not undeserving attention: and it should be remembered that legends and traditions which are considered trifling, in the localities to which they more immediately relate, assume an interest in the eyes of strangers to whom they are not familiar—and an importance when placed in apposition with cognate materials, by the light which they both receive and furnish from such juxtaposition.
 
 *We might note here that there is always the risk in providing such concrete examples of the sorts of contributions that you might expect to see, that folk will interpret the prompts rather too literally!*
 
 Merton then goes on to suggest that local feasts and customs are also on scope (in passing, we might note that the date at the top of the letter is given as a feast day, rather than date and month):
 
-> There is another matter, too, on which local information is much to be desired while it is still attainable. I mean the "Feasts" which are still annually celebrated in the more remote parts of the country; many of which are, doubtless, of very considerable antiquity-even as old as the days of Heathenism. This is a branch of our Popular Antiquities which—to use a happy phrase of Horace Walpole's -has not yet been "tapped" in England ; one which can now be thoroughly and properly investigated only by ascertaining, in each case, the following particulars, among others: the day on which the Feast is held; the peculiar observances by which it is accompanied, and— which will serve, in some measure, to illustrate the history of the climate in this country, and (strange combination !) the progress of social improvement—the peculiar dishes which are usually introduced on such festivals.
+> There is another matter, too, on which local information is much to be desired while it is still attainable. I mean the "Feasts" which are still annually celebrated in the more remote parts of the country; many of which are, doubtless, of very considerable antiquity-even as old as the days of Heathenism. This is a branch of our Popular Antiquities which—to use a happy phrase of Horace Walpole's -has not yet been "tapped" in England; one which can now be thoroughly and properly investigated only by ascertaining, in each case, the following particulars, among others: the day on which the Feast is held; the peculiar observances by which it is accompanied, and— which will serve, in some measure, to illustrate the history of the climate in this country, and (strange combination !) the progress of social improvement—the peculiar dishes which are usually introduced on such festivals.
 
 Finally, Merton provides a rationale for his diversion:
 
@@ -185,7 +185,7 @@ Finally, Merton provides a rationale for his diversion:
 
 It seems that the initial readership did indeed interpret Thoms' invitiation rather literally, because  a flurry of notes then appeared on the topic of Devonshire pixies &c.
 
-```{index} single: Thoms, William J. ; Merton, Ambrose (pseudonym)
+```{index} single: Thoms, William J.; Merton, Ambrose (pseudonym)
 ```
 ## "Folk-Lore" Quickly Becomes A Commonplace Term
 
@@ -198,7 +198,7 @@ p937](https://babel.hathitrust.org/cgi/pt?id=iau.31858029267212&view=1up&seq=955
 >
 > That correspondent was the present writer; and the work to which he referred was one in which he proposed to make the writings of Shakspeare and that Folk-Lore which the poet loved mutually illustrative of each other. The papers under the above special heading which may from time to time appear in our columns, are fragments of that attempt to throw a light over the writings of the Poet of the People from the side of our popular literature, customs and superstitions.]
 
-```{index} double: Thoms, William J. ; folklore (origin of term)
+```{index} double: Thoms, William J.; folklore (origin of term)
 ```
 ## Recalling the Introduction of "Folk-Lore"
 
@@ -222,7 +222,7 @@ Thoms himself replied concerning the origins of the phrase in the issue of 26th 
 >
 > I am greatly indebted to W. E. A. A. for giving me an opportunity of putting on record in "N. & Q." how I was led to the coinage of this now universally recognized word. For I may say, as Coriolanus said of the fluttering of the Volscians, "Alone I did it."
 >
-> Popular antiquities and superstition, and the relation of national legends and traditions to one another, had long been a subject of great interest to me— an interest greatly fostered by the perusal of Grimm's *Deutsche Mytholigie*. Some time after the appearance of the second edition of that masterly work, ] began to put in order the notes which I had been collecting for years, with a view to their publication ; and feeling sure that the Iron Horse then beginning to ride roughshod over every part of the country would soon trample under foot and exterminate all traces of our old beliefs, legends, &d., I besought *The Athenaeum* to lend its powerful influence towards their collection and preservation.
+> Popular antiquities and superstition, and the relation of national legends and traditions to one another, had long been a subject of great interest to me— an interest greatly fostered by the perusal of Grimm's *Deutsche Mytholigie*. Some time after the appearance of the second edition of that masterly work, ] began to put in order the notes which I had been collecting for years, with a view to their publication; and feeling sure that the Iron Horse then beginning to ride roughshod over every part of the country would soon trample under foot and exterminate all traces of our old beliefs, legends, &d., I besought *The Athenaeum* to lend its powerful influence towards their collection and preservation.
 >
 > My kind friend, Mr. Dilke, most readily fell into my views. The subject was "tapped" (as Horace Walpole would say) in that journal on the 22nd August, 1846, in a paper written by myself under the pseudonym of Ambrose Merton, and headed Foik-Lore.
 >
@@ -236,7 +236,7 @@ Thoms himself replied concerning the origins of the phrase in the issue of 26th 
 >
 > "It is only honest that I should tell you that I have long been contemplating a work upon our *Folk-Lore* (under that title, mind, Messrs. A, B, and C, so do not try to forestall me), and I am personally interested in the success of the experiment, which I have in this letter, albeit imperfectly, urged you to undertake."
 >
-> The word took its place, for it supplied a want ; and when Dean Trench's *English Past and Present* appeared (1855), I was pleased to find one so qualified to judge of the value of the word speaking of it as follows :—
+> The word took its place, for it supplied a want; and when Dean Trench's *English Past and Present* appeared (1855), I was pleased to find one so qualified to judge of the value of the word speaking of it as follows :—
 >
 > "The most successful of these compounded words (borrowed recently from the German) is 'Folk-lore,' and the substitution of this for the long and latinized 'Popular Superstitions' must be deemed, I think, an unquestionable gain."
 >

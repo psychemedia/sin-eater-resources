@@ -2,11 +2,11 @@
 
 In issue no. 74 of *Notes & Queries*, dated March 29th, 1851, the following query appeared on [page 239](https://archive.org/details/notesqueriesmedi03note/page/239/mode/2up?q=mazer+wood):
 
-> MAZER WOOD : GUTTA PERCHA.
+> MAZER WOOD: GUTTA PERCHA.
 >
 > In the *Musaeum Tradescantianum, or a Collection of Rarities preserved at South Lambeth, near London*, by John Tradescant, 1656, I find, amongst "other variety of rarities," "the plyable Mazer wood, which, being warmed in water, will work to any form;" and a little farther on, in the list of "utensils and household stufFe," I also find "Mazer dishes."
 > ...
-> Perhaps some reader may give an instance of Mazer wood being mentioned by other writers ; or inform me if the word Mazer, in itself, had any peculiar signification.
+> Perhaps some reader may give an instance of Mazer wood being mentioned by other writers; or inform me if the word Mazer, in itself, had any peculiar signification.
 >
 > W. Pinkerton.
 

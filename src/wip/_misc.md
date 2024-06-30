@@ -14,7 +14,7 @@ A Relation of Apparitions of Spirits in the County of Monmouth and the Principal
 by Edmund Jones
 https://archive.org/details/ARelationOfApparitionsOfSpirits_831/page/n83/mode/1up?q=Kyhirraeth
 I am now going to give you an account of the Kyhirraeth, a doleful fore-boding noise before death, and enquire into the cause of this, and of the appear- ance of the Corpse-Candles.
-a doleful disagreeable sound heard before the deaths of many, and most apt to be heard before foul weather : the voice resembles the groaning of sick persons who are to die ; heard at first at a distance, then comes nearer, and the last near at hand ; so that it is a three-fold warning of death, — the king of terrors. It begins strong and louder than a sick man can make, the second cry is lower, but not less doleful, but rather more so ; the third yet lower and soft, like the groaning of a sick man, almost spent and dying ; so that a person well remembering the voice, and coming to the sick man's bed who is to die, shall hear his groans exactly alike,
+a doleful disagreeable sound heard before the deaths of many, and most apt to be heard before foul weather: the voice resembles the groaning of sick persons who are to die; heard at first at a distance, then comes nearer, and the last near at hand; so that it is a three-fold warning of death, — the king of terrors. It begins strong and louder than a sick man can make, the second cry is lower, but not less doleful, but rather more so; the third yet lower and soft, like the groaning of a sick man, almost spent and dying; so that a person well remembering the voice, and coming to the sick man's bed who is to die, shall hear his groans exactly alike,
 
 The sin eater
 Yuan-Innes, Melissa.Medical Post; Chicago Vol. 52, Iss. 4,  (Apr 5, 2016): 29.
@@ -63,7 +63,7 @@ Copyright Newsquest (North East) Ltd. Nov 9, 2005
 Welsh folk-lore: a collection of the folk-tales and legends of North Wales
 https://www.library.wales/digital-exhibitions-space/digital-exhibitions/europeana-rise-of-literacy/history-books/welsh-folk-lore-a-collection-of-the-folk-tales-and-legends-of-north-wales#?c=&m=&s=&cv=&xywh=-887%2C-1%2C4369%2C3716
 Elias Owen was a cleric and an antiquary. His early career was in teaching and he became headmaster of Llanllechid National School. Owen had a keen interest in archaeological matters and he published many researches on the antiquities of his parish in the 'North Wales Chronicle'. Even though Owen followed a career in education and the Church he remained a diligent student of antiquities. His 'Welsh folk-lore' was a prized essay at the 1887 National Eisteddfod, London. It was published as a single volume in 1896.
-ALso : https://archive.org/details/cu31924029911520
+ALso: https://archive.org/details/cu31924029911520
 
 ---
 
@@ -72,7 +72,7 @@ Times newspaper archive
 https://go-gale-com.libezproxy.open.ac.uk/ps/dispBasicSearch.do?userGroupName=tou&prodId=TTDA
 
 
-English folk-rhymes : a collection of traditional verses relating to places and persons, customs, superstitions, etc.
+English folk-rhymes: a collection of traditional verses relating to places and persons, customs, superstitions, etc.
 by Northall, G. F
 https://archive.org/details/englishfolkrhym01nortgoog/page/218/mode/2up?q=souling
 
@@ -108,7 +108,7 @@ The curious custom of sin-eating lingered at Ledbury much later than in other pl
 The practice of "sin-eating" referred to, peculiar to the Welsh border, was discontinued before the end of the seventeenth century. The following description of it, given in Brand's "Popular Antiquities," is taken from the Lansdowne Manuscripts: " In the County of Hereford it was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them—he was a long, lean, ugly, lamentably poor rascal—I remember that he lived in a cottage on Rosse highway. The manner was that when a corpse was brought out and laid on the bier, a loaf of bread was brought out and delivered to the sin-eater over the corpse, as also a mazard bowl of maple, full of beer, which was also drunk up, and sixpence in money. In consideration whereof, he took upon him *ipso facto* all the sins of the defunct, and freed him or her from walking after death. This custom alludes, methinks, to something of the scapegoat kind in Ihe Levitical law, and though rarely used in our days, yet by some people was observed even in the strictest time of the Presbyterian Government. ... The like is done in the city of Hereford in those times, where a woman kept, many years before her death, a mazard bowl for the sinne eater."
 Another account says the sin-eater " pronounced the ease and rest of the soul departed, for which he would pawn his own soul."
 
-Dr. Schuyler, in his book on Turkestan, describes a corresponding custom : "In Ach Kurgan ... he met an old man called an ishachi, who made his living by taking upon himself the sins of the dead, and devoting his life to prayer for their souls."
+Dr. Schuyler, in his book on Turkestan, describes a corresponding custom: "In Ach Kurgan ... he met an old man called an ishachi, who made his living by taking upon himself the sins of the dead, and devoting his life to prayer for their souls."
 
 
 https://archive.org/details/sim_the-catholic-world-a-monthly-magazine_1930-11_132_788/page/212/mode/2up?q=%22sin+eating%22
@@ -147,7 +147,7 @@ E.M. Leather, The Folk-Lore of Herefordshire Collected from Oral and Printed Sou
 
 --
 
-The works of the learned Sr Thomas Brown, Kt. ... : Containing I. Enquiries into vulgar and common errors. II. Religio medici : with annotations and observations upon it. III. Hydriotaphia; or, Urn-burial : together with The garden of Cyrus. IV. Certain miscellany tracts. With alphabetical tables
+The works of the learned Sr Thomas Brown, Kt. ...: Containing I. Enquiries into vulgar and common errors. II. Religio medici: with annotations and observations upon it. III. Hydriotaphia; or, Urn-burial: together with The garden of Cyrus. IV. Certain miscellany tracts. With alphabetical tables
 by Browne, Thomas, Sir, 1605-1682
 
 Publication date 1686
@@ -178,7 +178,7 @@ by Edmund Jones
 thoms
 
 https://archive.org/details/oldstorybooksofe00thomiala
-The old story books of England : illustrated with twelve pictures by eminent artists
+The old story books of England: illustrated with twelve pictures by eminent artists
 by Thoms, William John, 1803-1885; Absolon, John, 1815-1895; Franklin, John, fl. 1800-1861; Tayler, Frederick, 1802-1898
 
 
@@ -187,7 +187,7 @@ Gammer Gurton's pleasant stories of the Princess Rosetta, Robin Goodfellow, and 
 by Thoms, William John, 1803-1885 1846
 
 https://archive.org/details/gammergurtonsfam00thomiala
-Gammer Gurton's famous histories : of Sir Guy of Warwick, Sir Bevis of Hampton, Tom Hickathrift, Friar Bacon, Robin Hood, and the King and the cobbler
+Gammer Gurton's famous histories: of Sir Guy of Warwick, Sir Bevis of Hampton, Tom Hickathrift, Friar Bacon, Robin Hood, and the King and the cobbler
 by Thoms, William John, 1803-1885; Franklin, John, fl. 1800-1861 1846
 
 
@@ -205,7 +205,7 @@ https://www.youtube.com/watch?v=xOizlj5l5b8
 
 also
 https://archive.org/details/sineaterwasf00sharuoft/page/n8/mode/2up?q=%22sin+eater%22
-The sin-eater : The washer of the ford ; and other legendary moralities
+The sin-eater: The washer of the ford; and other legendary moralities
 by Sharp, William, 1855-1905; Sharp, William, 1855-1905
 Publication date 1910
 
@@ -263,7 +263,7 @@ file:///Users/tonyhirst/Downloads/The_Persistence_of_Purgatory_English_fol.pdf
 ---
 
 https://archive.org/details/trueaccountoftry00unse
-A true account of the tryals, examinations, confessions, condemnations, and executions of divers witches, at Salem, in New-England, : for their bewitching of sundry people and cattel to death, and doing other great mischiefs, to the ruine of many people about them. With the strange circumstances that attended their enchantments: and their conversation with devils, and other infernal spirits. In a letter to friend in London.
+A true account of the tryals, examinations, confessions, condemnations, and executions of divers witches, at Salem, in New-England,: for their bewitching of sundry people and cattel to death, and doing other great mischiefs, to the ruine of many people about them. With the strange circumstances that attended their enchantments: and their conversation with devils, and other infernal spirits. In a letter to friend in London.
 
 
 https://archive.org/details/infernalconferen00macg_0
@@ -272,6 +272,13 @@ by Macgowan, John, 1726-1780
 Publication date 1795
 
 --
+
+
+https://www.revenantjournal.com/contents/the-sin-eater-ritual-and-representation-in-a-hypermodern-world/
+THE SIN-EATER: RITUAL AND REPRESENTATION IN A HYPERMODERN WORLD
+HELEN FRISBY, CENTRE FOR DEATH AND SOCIETY, UNIVERSITY OF BATH
+Death and the Screen. Guest Editors: Bethan Michael-Fox and Renske Visser.. Pages 214 – 239 Download as PDF
+
 
 https://folklore-society.com/event/the-sin-eater-lives-and-afterlives/
 The Sin-eater: Lives and Afterlives
@@ -319,7 +326,7 @@ Publication date 1879
 
 
 https://archive.org/details/northernmytholog03thor
-Northern mythology : comprising the principal popular traditions and superstitions of Scandinavia, North Germany, and the Netherlands
+Northern mythology: comprising the principal popular traditions and superstitions of Scandinavia, North Germany, and the Netherlands
 by Thorpe, Benjamin, 1782-1870
 Publication date 1851-1852 - three volumes
 
@@ -395,7 +402,7 @@ Publication date 1898
 
 ---
 Referring to Ffynon, the Sin-Eater
-Ffynon the sin-eater. By "A Whisper." London : Holden & Hardingham, [1914]. pp. vi, 288. 185x122. cloth, 6s.
+Ffynon the sin-eater. By "A Whisper." London: Holden & Hardingham, [1914]. pp. vi, 288. 185x122. cloth, 6s.
 
 https://books.google.co.uk/books?id=m4OvBwAAQBAJ&pg=PA184&dq=Ffynon+the+sin-eater&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiPg9yV6aj6AhWSUMAKHRGnCy0Q6AF6BAgKEAI#v=onepage&q=Ffynon%20the%20sin-eater&f=false
 
@@ -444,7 +451,7 @@ St James's Gazette - Wednesday 17 March 1897
 p5
 MR. BARING GOULDS LATEST
 
-Mr. Baring-Gould has again made good use of his passionate love of exploring old traditions and unearthing from historic spots the secrets of their past ; and in burrowing among the old tin-workings of Dartmoor, as he frequently burrows among the old folk-songs of the West, he has on this occasion found material for a somewhat wild and fantastic tale which he is pleased to place in the reign of Queen Elizabeth, though probably the tale would gain in probability by being put back least a century or so. Guavas the Tinner is a Cornish miner who, working among Dartmoor folk with better skill and luck than the natives, incurs the envy of all, and still more the hatred of Dickon Rawle, a mean fellow whose rival is for the affections of Isolt, the daughter of the Bailiff of the Stannaries. This lady is of the ravenhaired, wild, and wicked order ; and being herself in love with Guavas and fearing that his affections have strayed to a little moorland maiden called Lemonday (the names are all quaint enough), connives at her hero being nailed by the hand to a post for a breach pf the stannary laws in order that she may release him under oath of perpetual constancy to her. But human hearts are not chained in this way, and a series of cleverly wrought incidents bind Guavas to the purer love of the moorland maid. It will be guessed that excitement and incident are not wanting before the successful ending of the tale is reached when say that, besides the transfixion of Guavas on Dartmoor, there is fearfully realistic right between a man and a wolf, the burying alive of the hero in a disused mine, the shooting of the wicked Isolt with a silver bullet by the bungling Dickon Rawle, and the disappearance of this inefficient villain in a bog. The narrative is interspersed with those charming little touches of folk-lore which come so trippingly to the pen of the writer ; among others may be mentioned a very curious wake and pretty monkish legend about Joseph of Arimathea's connection with the West of England tin trade. The invocation to Joseph used at the smelting of the tin, and quoted as prevalent in Devonshire in Elizabethan times, is, oddly enough, used to this day at a factory in London where tin is the metal employed. This piece of knowledge, accidentally acquired, we venture to present to Mr. Baring-Gould in return for a few hours' pleasant reading.  *Guavas the Tinner. By S. Baring-Gould. With Illustrations Frank Dadd (Methuen and Co.)*
+Mr. Baring-Gould has again made good use of his passionate love of exploring old traditions and unearthing from historic spots the secrets of their past; and in burrowing among the old tin-workings of Dartmoor, as he frequently burrows among the old folk-songs of the West, he has on this occasion found material for a somewhat wild and fantastic tale which he is pleased to place in the reign of Queen Elizabeth, though probably the tale would gain in probability by being put back least a century or so. Guavas the Tinner is a Cornish miner who, working among Dartmoor folk with better skill and luck than the natives, incurs the envy of all, and still more the hatred of Dickon Rawle, a mean fellow whose rival is for the affections of Isolt, the daughter of the Bailiff of the Stannaries. This lady is of the ravenhaired, wild, and wicked order; and being herself in love with Guavas and fearing that his affections have strayed to a little moorland maiden called Lemonday (the names are all quaint enough), connives at her hero being nailed by the hand to a post for a breach pf the stannary laws in order that she may release him under oath of perpetual constancy to her. But human hearts are not chained in this way, and a series of cleverly wrought incidents bind Guavas to the purer love of the moorland maid. It will be guessed that excitement and incident are not wanting before the successful ending of the tale is reached when say that, besides the transfixion of Guavas on Dartmoor, there is fearfully realistic right between a man and a wolf, the burying alive of the hero in a disused mine, the shooting of the wicked Isolt with a silver bullet by the bungling Dickon Rawle, and the disappearance of this inefficient villain in a bog. The narrative is interspersed with those charming little touches of folk-lore which come so trippingly to the pen of the writer; among others may be mentioned a very curious wake and pretty monkish legend about Joseph of Arimathea's connection with the West of England tin trade. The invocation to Joseph used at the smelting of the tin, and quoted as prevalent in Devonshire in Elizabethan times, is, oddly enough, used to this day at a factory in London where tin is the metal employed. This piece of knowledge, accidentally acquired, we venture to present to Mr. Baring-Gould in return for a few hours' pleasant reading.  *Guavas the Tinner. By S. Baring-Gould. With Illustrations Frank Dadd (Methuen and Co.)*
 
 
 TO DO - there seems to have been a review in The Spectator prior to Thursday 08 April 1897

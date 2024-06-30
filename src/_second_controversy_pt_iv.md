@@ -2,7 +2,7 @@
 
 With Messrs. Hartland and Thomas apparently taking their leave of the correspondence between them in *The Academy*, it now fell to J. P. Owen to mark his triumphal return, or  not, as the case may be, to those pages.
 
-```{index} triple: abeilion (definition) ; correspondence, Academy ; Owen, J. P.
+```{index} triple: abeilion (definition); correspondence, Academy; Owen, J. P.
 ```
 ## Owen's Final Discovery
 
@@ -22,7 +22,7 @@ Owen sees no problem in accepting this work as an authentic, original source:
 
 > The sketches of Welsh manners and customs to be found in *The Vale of the Towey* are drawn from life, a little idealised, no doubt, but, apart from the slender thread of fiction on which they are strung, absolutely trustworthy. They were republished, I should add, by the Religious Tract Society in 1886, with the title altered into *Seven Years for Rachel*.
 
-```{index} double: Beale, Anna ; "The Vale of Towey", 1844
+```{index} double: Beale, Anna; "The Vale of Towey", 1844
 ```
 ```{admonition} Anna Beale's "The Vale of Towey", 1844
 :class: warning
@@ -46,13 +46,13 @@ It is not clear by what evidence Owen merits the work as being "absolutely trust
 
 Owen now offers this account as a contemporary, written account of the tradition:
 
-> Moggridge, it may be remembered, in his letter to Canon Silvan Evans (January 1, 1876), said that the only written account of the custom mentioned by him at Ludlow was Aubrey's. If, therefore, somebody who had read the above account in Miss Beale's book had told him of the "tall lank man" who poured forth "a flood of words," received "five shillings," drank a glass of *abeilon*, and then departed—all this "ritual" being quite distinct from the church service ; or if, which is still more probable, he had heard the tale, with inevitable variations, at third or fourth hand, he may be excused for having seen in it a confirmation of Aubrey's fable of the Sin-eater.
+> Moggridge, it may be remembered, in his letter to Canon Silvan Evans (January 1, 1876), said that the only written account of the custom mentioned by him at Ludlow was Aubrey's. If, therefore, somebody who had read the above account in Miss Beale's book had told him of the "tall lank man" who poured forth "a flood of words," received "five shillings," drank a glass of *abeilon*, and then departed—all this "ritual" being quite distinct from the church service; or if, which is still more probable, he had heard the tale, with inevitable variations, at third or fourth hand, he may be excused for having seen in it a confirmation of Aubrey's fable of the Sin-eater.
 
 At this point, it is worth probably worth asking ourselves whether Miss Beale might have come across Aubrey's collections.
 
 Owen then seeks to explore the etymology of the work *abeilon* provided by Miss Beale:
 
-> The term *abeilon*, which is italicised in the republished sketch but not in the original one, is unknown to me. It is not to be found, nor anything like it, either in Owen Pughe's Dictionary or in Silvan Evans's. If the initial, however, is the definite article "y," then we have (I now quote from Lewis's Welsh Dictionary, 1805), *meiliaid*, "a dishful," "a bowlful" ; *meiliedyn*, "as bowl" ; *meilio*, "to put in a bowl," "to dish"; *meilon*, "powder," "dust," "flour"; *meiloni*, "to reduce to powder," "to become dust"; *mail*, "a hollow vessel of wood; a vessel to hold milk; a bowl or basin."
+> The term *abeilon*, which is italicised in the republished sketch but not in the original one, is unknown to me. It is not to be found, nor anything like it, either in Owen Pughe's Dictionary or in Silvan Evans's. If the initial, however, is the definite article "y," then we have (I now quote from Lewis's Welsh Dictionary, 1805), *meiliaid*, "a dishful," "a bowlful"; *meiliedyn*, "as bowl"; *meilio*, "to put in a bowl," "to dish"; *meilon*, "powder," "dust," "flour"; *meiloni*, "to reduce to powder," "to become dust"; *mail*, "a hollow vessel of wood; a vessel to hold milk; a bowl or basin."
 
 We are also provided an insight into his character from the following revelation:
 
@@ -60,7 +60,7 @@ We are also provided an insight into his character from the following revelation
 >
 > J. P. OWEN.
 
-```{index} triple: abeilion (definition) ; correspondence, Academy ; Evans, W. E.
+```{index} triple: abeilion (definition); correspondence, Academy; Evans, W. E.
 ```
 ## A Critical Response to the Etymology of "abeilion"
 
@@ -68,17 +68,17 @@ In terms of their ability to mount a rapid response to items they might take iss
 
 > THE SIN-EATER IN WALES. Cardiff April 27, 1996.
 >
-> Mr. J. P. Owen, writing under the above heading in the ACADEMY of April 25, seems to have mistaken the true meaning and etymology of *abeilon*, a term used in the neighbourhood of Llandilo, in Carmarthenshire. The *a*, probably, as Mr. Owen suggests, represents the article ; but the word is composed of *y bylon* or *y mylon*, literally "edges" or "margins," and then "perquisites" or "gifts." The *bylon* of which Miss Beall speaks were the customary perquisites given in the neighbourhood of Llandefeisant, and are still in vogue in some parts of Wales. The term is used in other parts of Carmarthenshire, and also in North Wales. It is the plural form of *byl* or *myl*, "side," "edge," or "margin," and still heard in the phrase *hyd y fyl*, "to the brim," or "brimful." It is a good word, and should have found place in every Welsh dictionary ; and it is somewhat strange that Chancellor Silvan Evans has not included it in his great work. Both forms, *bylon* and *mylon*, are heard in the neighbourhood of Newcastle Emlyn, a locality with which the Chancellor is well acquainted.
+> Mr. J. P. Owen, writing under the above heading in the ACADEMY of April 25, seems to have mistaken the true meaning and etymology of *abeilon*, a term used in the neighbourhood of Llandilo, in Carmarthenshire. The *a*, probably, as Mr. Owen suggests, represents the article; but the word is composed of *y bylon* or *y mylon*, literally "edges" or "margins," and then "perquisites" or "gifts." The *bylon* of which Miss Beall speaks were the customary perquisites given in the neighbourhood of Llandefeisant, and are still in vogue in some parts of Wales. The term is used in other parts of Carmarthenshire, and also in North Wales. It is the plural form of *byl* or *myl*, "side," "edge," or "margin," and still heard in the phrase *hyd y fyl*, "to the brim," or "brimful." It is a good word, and should have found place in every Welsh dictionary; and it is somewhat strange that Chancellor Silvan Evans has not included it in his great work. Both forms, *bylon* and *mylon*, are heard in the neighbourhood of Newcastle Emlyn, a locality with which the Chancellor is well acquainted.
 >
 > W. Eilir Evans.
 
-```{index} triple: abeilion (definition) ; correspondence, Academy ; Silvan-Evans, H.
+```{index} triple: abeilion (definition); correspondence, Academy; Silvan-Evans, H.
 ```
 ## Silvan-Evans Defending Silvan-Evans
 
 The next edition again, of May 9th, 1896, [Vol 49 Iss 1253](https://archive.org/details/sim_academy-and-literature_1896-05-09_49_1253/page/384/mode/2up?q=sin+eater), p385, in turn saw a defence on the presumed charge of the sin of omission levlled at Silvan-Evans' dictionary, provided, presumably, by his son(?):
 
-> THE SIN-EATER IN WALES. Llanwrin, North Wales : May 4, 1896.
+> THE SIN-EATER IN WALES. Llanwrin, North Wales: May 4, 1896.
 >
 > Permit me to correct an error into which Mr. W. Eilir Evans has fallen, in his letter in the ACADEMY of May 2, regarding the word *byl*.
 >
@@ -90,7 +90,7 @@ As it was perhaps not clear from the previous correspondence as to which term wa
 
 > [In justice to Mr. Silvan-Evans, we ought to say that the assertion he contradicts seems to have arisen from a misunderstanding. It was a former correspondent (Mr. J. P. Owen, in the ACADEMY of April 25) who affirmed that the (anglicised) Welsh word *abeilon* was not to be found in Silvan-Evans's Welsh Dictionary. Mr. W. Eilir Evans, while supplying tbe real Welsh form *byl*, appear to have supposed that Mr. Owen's assertion extended likewise to that.—Ed. ACADEMY.
 
-```{index} ! triple: abeilion (definition) ; correspondence, Notes & Queries ; Owen, J. P.
+```{index}! triple: abeilion (definition); correspondence, Notes & Queries; Owen, J. P.
 ```
 ## Owen Justifies His Derivation
 
@@ -128,7 +128,7 @@ In closing, Owen is once again true to form and can scarcely refrain from going 
 >
 > J. P. Owen.
 
-```{index} triple: abeilion (definition) ; correspondence, Academy ; Owen, J. P.
+```{index} triple: abeilion (definition); correspondence, Academy; Owen, J. P.
 ```
 ## Mr Owen's Final Riposte - A Postscript
 

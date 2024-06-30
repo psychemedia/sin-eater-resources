@@ -4,7 +4,7 @@ With the editor of *The Times* apparently tiring of the sin-eater correspondence
 
 As we are essentially looking back at Hartland's understanding of the matter from mid-October, there is an element of going back over ground already covered in the *Times* correspondence.
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```{index}! triple: Second Controversy; correspondence, Academy; Hartland, Edwin Sidney
 ```
 ## Hartland's First Letter to The Academy, October-November, 1895: The Positive Evidence
 
@@ -30,7 +30,7 @@ Not surprisingly, he opens with Aubrey:
 
 > Before dealing with the negative evidence, let us see what positive evidence of the custom can be found. The stories, as Mr. Thomas says, all go back to Aubrey, who, we are told, is "none too strong a witness." It is true that the stories all go back to Aubrey, in the sense that he is the earliest writer to mention the custom, and that he gives the fullest account of it. He says (*Remaines of Gentilisme and Judaisme*, p. 35):
 >
-> "In the County of Hereford was an old Custome at funeralls to hire poor people, who were to take upon them all the sinnes of the party deceased. One of them I remember lived in a cottage on Rosse-high way. (He was a long, lean, ugly, lamentable poor raskal.) The manner was that when the Corps was brought out of the house and layd on the Biere ; a Loafe of Bread was brought out, and delivered to the sinne-eater over the corps, as also a mazar-bowle of maple (Gossips bowle) full of beer, which he was to drinke up, and sixpence in money, in consideration whereof he tooke upon him (ipso facto) all the sinnes of the Defunct, aud freed him (or her) from walking after they were dead."
+> "In the County of Hereford was an old Custome at funeralls to hire poor people, who were to take upon them all the sinnes of the party deceased. One of them I remember lived in a cottage on Rosse-high way. (He was a long, lean, ugly, lamentable poor raskal.) The manner was that when the Corps was brought out of the house and layd on the Biere; a Loafe of Bread was brought out, and delivered to the sinne-eater over the corps, as also a mazar-bowle of maple (Gossips bowle) full of beer, which he was to drinke up, and sixpence in money, in consideration whereof he tooke upon him (ipso facto) all the sinnes of the Defunct, aud freed him (or her) from walking after they were dead."
 
 And then invokes Bagford, via Brand:
 
@@ -74,7 +74,7 @@ Hartland then provides contemporary evidence of the tradition as provided to him
 
 Reading the following paragraph today, we might read Hartland as admitting that Aubrey's claims are "merely" circumstantial, but Hartland is arguing perhaps that they are "substantively" circumstantial?
 
-> If, fortified by this evidence from Derbyshire and the Marches, we turn to Wales, we find Aubrey’s statements of a very circumstantial character ; and that not merely in the case of Llangors referred to just now.
+> If, fortified by this evidence from Derbyshire and the Marches, we turn to Wales, we find Aubrey’s statements of a very circumstantial character; and that not merely in the case of Llangors referred to just now.
 
 Hartland now uses sleight of hand again, suggesting that another quote from Aubrey is *also* demonstrative of the sin-eater tradition:
 
@@ -114,7 +114,7 @@ Whatever the case, Hartland considered his case in support of his claims complet
 >
 > E. SIDNEY HARTLAND
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```{index}! triple: Second Controversy; correspondence, Academy; Hartland, Edwin Sidney
 :name: secondcontrov:hartland:2ndletter
 ```
 ## Hartland's Second Letter to The Academy, October-November, 1895: The Negative Evidence
@@ -135,7 +135,7 @@ The letter opens with a reference to the "a MS. book of a Bisop of St. Asaph", w
 
 ```{admonition} Mr J. P. Owen's letter, via Prof. Rhys
 :class: seealso
-A copy of Owen's letter can be found in *Notes & Queries* of February 8th, 1896, [Vol 9 Iss 215 ; 8th. S. ix, p109-111](NANDQ:owen-oct95-letter).
+A copy of Owen's letter can be found in *Notes & Queries* of February 8th, 1896, [Vol 9 Iss 215; 8th. S. ix, p109-111](NANDQ:owen-oct95-letter).
 
 As we shall see, Mr. Owen was also to enter into the debate in a more public way in the pages of the *Academy*.
 ```
@@ -159,7 +159,7 @@ The next paragraph covers much the same ground as the earlier letter to *the Tim
 > None of these denials, nor all of them together, can outweigh the positive evidence of Aubrey, Pennant, and the minister at Market Drayton. Even if we assume, what I do not see my way at present to admit, namely, that Pennant was merely reproducing the statement of the Bishop of St. Asaph (or whoever may have been the writer of his MS.), it is clear that the latter was describing the custom as still subsisting when he wrote. Thus, the custom that certainly existed uncurtailed in the seventeenth century at Llangors maintained itself, shorn of the ritual words, well into the eighteenth century in North Wales, and down to a few years ago in Pembrokeshire. We may be sure it did not maintain itself only in these places. I do not understand that Canon Silvan Evans's denials extend to England. But to admit the existence of the practices (and they can hardly be denied) in Shropshire and Derbyshire is to lend strong countenance to the probability of similar practices in many districts of Wales. Mr. Matthew Moggridge did not claim to have been an eye-witness — we cannot even affirm that he saw and examined eye-witnesses; but it is possible, and even likely, that he did, seeing that he lived at Swansea, only twelve or thirteen miles from Llandebie. His assertions. at any rate, were evidently not made at random, but were the result of investigations. He may have been misled. So may Aubrey and the writer of the Bishop of St. Asaph's MS. In that event it is remarkable that the accounts they give, while agreeing in the main, present just the differences we might expect from independent writers describing a custom liable to all the variations of traditional practice. Nor will the hypothesis that these writers were misled get rid of the evidence of the minister at Market Drayton. He at least could not have been mistaken about a custom which he had himself succeeded in putting down.
 
 The opening sentence of the next paragraph again repeats the letter to *the Times*
-> It is unfortunate that Canon Silvan Evans's inquiries at Llandebie were not set on foot until more than a quarter of a century after the alleged event. The lapse of time must affect the value of his negative results. More than this, however. His inquiries were made through the clergyman and the schoolmaster. The latter, indeed, was, we are told, an old resident ; but the clergyman had only been vicar for fourteen years, though he described himself as having known the neighbourhood well for twenty-five years, which may mean much or little. We have no means of knowing in what form these gentlemen in turn put their questions. That may make all the difference. In any case, they are precisely the persons who would not be likely to discover the superstition if it existed. The Rev. Elias Owen, diocesan inspector of schools, and one of the chief authorities on Welsh folk-lore, relates that once, being in a certain parish for the purpose of examining the school, he took the opportunity of asking the clergyman concerning the superstitions of the place, when he was met by the dignified repulse, "*Our* people are not superstitious, I am glad to say." His inspection over, he asked the first class, "Now, children, can you tell me of any place where there is a *buggan* (ghost or bogey) to be seen, or of anyone who has seen one?" Instantly every hand was stretched out, and every child had a story to tell. The fact is, the people hide their superstitions from all such representatives of modern culture as clergymen and schoolmasters ; and it is by no means an uncommon experience that the existence of matters of the kind perfectly well-known to the peasant is stoutly denied by that same peasant to the clergyman when he asks about them. The Roman Catholic priest, who has in the confessional a weapon much more powerful than the Anglican, is often baffled by his flock. The testimony of the Rev. C. F. Ryan, curate of Drangan, when before the magistrates on the Clonmel "Witch-burning" inquiry, is of the greatest weight on this point.
+> It is unfortunate that Canon Silvan Evans's inquiries at Llandebie were not set on foot until more than a quarter of a century after the alleged event. The lapse of time must affect the value of his negative results. More than this, however. His inquiries were made through the clergyman and the schoolmaster. The latter, indeed, was, we are told, an old resident; but the clergyman had only been vicar for fourteen years, though he described himself as having known the neighbourhood well for twenty-five years, which may mean much or little. We have no means of knowing in what form these gentlemen in turn put their questions. That may make all the difference. In any case, they are precisely the persons who would not be likely to discover the superstition if it existed. The Rev. Elias Owen, diocesan inspector of schools, and one of the chief authorities on Welsh folk-lore, relates that once, being in a certain parish for the purpose of examining the school, he took the opportunity of asking the clergyman concerning the superstitions of the place, when he was met by the dignified repulse, "*Our* people are not superstitious, I am glad to say." His inspection over, he asked the first class, "Now, children, can you tell me of any place where there is a *buggan* (ghost or bogey) to be seen, or of anyone who has seen one?" Instantly every hand was stretched out, and every child had a story to tell. The fact is, the people hide their superstitions from all such representatives of modern culture as clergymen and schoolmasters; and it is by no means an uncommon experience that the existence of matters of the kind perfectly well-known to the peasant is stoutly denied by that same peasant to the clergyman when he asks about them. The Roman Catholic priest, who has in the confessional a weapon much more powerful than the Anglican, is often baffled by his flock. The testimony of the Rev. C. F. Ryan, curate of Drangan, when before the magistrates on the Clonmel "Witch-burning" inquiry, is of the greatest weight on this point.
 
 The next point did not appear in the *Times* letter:
 
@@ -183,7 +183,7 @@ Before that letter was to appear, however, another report of another, possibly r
 >
 > I do not know whether the following will throw any light on the question of "The Sin-Eater in Wales," which has again come up for discussion :— A few months ago, six or so, I was present at the funeral of a member of one of the old-inhabitant families of Bettws-Cedewain. After the corpse was placed outside the door, and before the performance of the religious service, a small piece of cake was given, first to the bearers (but whether across the corpse or not I cannot now recollect),and afterwards to each of the guests. Next a glass of wine was handed to each one in the same order. I believe the custom was general in this district twenty or thirty years ago, but I have seen only one other instance of its observance within the last five years. I have never heard any ritual used. T.H.J.
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```{index}! triple: Second Controversy; correspondence, Academy; Hartland, Edwin Sidney
 ```
 ## Hartland's Third Letter to The Academy, November, 1895: The Lack of Mentions in Welsh Literature
 
@@ -205,7 +205,7 @@ At this point, Hartland admits he is perhaps not the best qualified person to sc
 
 I'm not sure what tone of voice Hartland had in mind as he suggested that Silvan Evans, despite being a noted philologist, should perhaps hecked the dictionary? (Was he aware, I wonder, that Silvan Evans had also embarked on various Welsh dictionary projects?)
 
-> But I should like to ask: what has he looked for, and how has he looked for it? He is himself a lexicographer of distinction ; and he is doubtless acquainted with the work of his predecessor, Owen Pughe. If he will turn to the letter D he will find the word *Diawdlestr* thus defined: "A drinking cup, also a cup full of drink so-called, superstitiously given for the dead, which in some places is called *diawdlyst*, and *cwpan y meirw*"; and *Diawdlyst* is explained as "The give-ale."
+> But I should like to ask: what has he looked for, and how has he looked for it? He is himself a lexicographer of distinction; and he is doubtless acquainted with the work of his predecessor, Owen Pughe. If he will turn to the letter D he will find the word *Diawdlestr* thus defined: "A drinking cup, also a cup full of drink so-called, superstitiously given for the dead, which in some places is called *diawdlyst*, and *cwpan y meirw*"; and *Diawdlyst* is explained as "The give-ale."
 
 At this point, Hartland admits it wasn't he himself who had made this discovery:
 
@@ -213,7 +213,7 @@ At this point, Hartland admits it wasn't he himself who had made this discovery:
 
 Whatever the case, Hartland suggest this proves the existence of the sin-eater in Welsh literature:
 
-> To what can they point, if not to the practices detailed in my first letter and in the extract from the Bishop of St. Aseph's MS, ? And that they do in fact refer to hem there is proof in Welsh literature.
+> To what can they point, if not to the practices detailed in my first letter and in the extract from the Bishop of St. Aseph's MS,? And that they do in fact refer to hem there is proof in Welsh literature.
 
 But apparently, there's more:
 
@@ -223,13 +223,13 @@ But apparently, there's more:
 
 At this point, Hartland admits the *Cymru Fu* author must have had access to Pennant, but he also suggests that he must have access to other texts too that had provided an additional source of facts:
 
-> I think it is undeniable that the writer had Pennant before him while writing this passage ; and I have purposely translated it so as to bring out the identities of expression. But allowing for this, it is clear that he has other sources of information from which he adds particulars given neither by Pennant nor in the Bishop of St. Asaph's MS. Such are the description of the proceedings before the corpse was taken out of the house, and the details of where the coffin was placed outside the house (*gerllaw y drws*), and of the presentation of flowers and herbs in return for the bread and cheese.
+> I think it is undeniable that the writer had Pennant before him while writing this passage; and I have purposely translated it so as to bring out the identities of expression. But allowing for this, it is clear that he has other sources of information from which he adds particulars given neither by Pennant nor in the Bishop of St. Asaph's MS. Such are the description of the proceedings before the corpse was taken out of the house, and the details of where the coffin was placed outside the house (*gerllaw y drws*), and of the presentation of flowers and herbs in return for the bread and cheese.
 
 There is no suggestion of poetic license or creative input on the part of the author.
 
 Hartland does not, however, feel the need to rely on so recent a text as *Cymru Fu*, for he also draws on *Drych y Amseroedd*, which we might recall was referenced in correspondence in the November 14th, 1895, edition of *Y Cymro*:
 
-> Scepticism, however, may deny the authority of so modern a compilation as *Cymru Fu*. Let me, therefore, turn to an account of the same custom, written at least forty years earlier. It occurs in a little book called *Drych y Amseroedd* [Wikipedia](https://cy.wikipedia.org/wiki/Drych_yr_Amseroedd) [book](https://viewer.library.wales/4794349). The purport of the book is described in the title-page, which may be rendered : "Mirror of the Times; comprising a little of the history of the most remarkable things that have happened, chiefly in Gwynedd, during the last two centuries in relation to religion. In the form of a conversation between Inquisitive and Observer."
+> Scepticism, however, may deny the authority of so modern a compilation as *Cymru Fu*. Let me, therefore, turn to an account of the same custom, written at least forty years earlier. It occurs in a little book called *Drych y Amseroedd* [Wikipedia](https://cy.wikipedia.org/wiki/Drych_yr_Amseroedd) [book](https://viewer.library.wales/4794349). The purport of the book is described in the title-page, which may be rendered: "Mirror of the Times; comprising a little of the history of the most remarkable things that have happened, chiefly in Gwynedd, during the last two centuries in relation to religion. In the form of a conversation between Inquisitive and Observer."
 
 Hartland brings the attention of the predominantly English speaking *Academy* audience to the same excerpt from that work in the following way:
 
@@ -255,7 +255,7 @@ At this point, it's not hard to imagine Hartland pacing around his office, gesti
 :class: seealso dropdown
 In passing, I note a notice in *The Times* of Monday,  August 12th, 1878, p14, that suggests that Mr Hartland was at one time a lawyer in the province:
 
-> PURSUANT to an Order of the High Court of Justice, Chancery Diviason, made in an Action in the Matter of the Estate of William Harris Roberts deceased Williams and others aginst Davies and another 1878, R. 83 The CREDITORS of WILLIAM HARRIS ROBERTS late of 21 Singleton Terrace, Swansea in the county of Glamorgan. Gentleman, who died in or about the month of July 1875 are on or before the first day of October 1878 to send by post Prepaid to Mr. Edwin Sidney Hartland of Swansea, aforesaid a member of the firm of Hartland Davies and Isaac the Solicitors of the Defendants Thomas Davies and David Shepherd the executors of the said Willam Harris Roberts deceased their Christian and Surnames, addresses and descriptions; the full particulars of their Claims; a statement of their Accounts and the nature of the Securities, (if any) held by them ; Or in default thereof they will be peremptorily excluded from the benefit of the said order. Every Creditor holding any security is to produce the same before the Master of  the Rolls at his Chambers situated in the Rolls Yard, Chancery Lane, Middlesex, on Monday the 28th day of October 1878, at 11 o'clock in the forenoon being the time appointed for adjudicating on the claims. — Dated this 24th day of July, 1878.
+> PURSUANT to an Order of the High Court of Justice, Chancery Diviason, made in an Action in the Matter of the Estate of William Harris Roberts deceased Williams and others aginst Davies and another 1878, R. 83 The CREDITORS of WILLIAM HARRIS ROBERTS late of 21 Singleton Terrace, Swansea in the county of Glamorgan. Gentleman, who died in or about the month of July 1875 are on or before the first day of October 1878 to send by post Prepaid to Mr. Edwin Sidney Hartland of Swansea, aforesaid a member of the firm of Hartland Davies and Isaac the Solicitors of the Defendants Thomas Davies and David Shepherd the executors of the said Willam Harris Roberts deceased their Christian and Surnames, addresses and descriptions; the full particulars of their Claims; a statement of their Accounts and the nature of the Securities, (if any) held by them; Or in default thereof they will be peremptorily excluded from the benefit of the said order. Every Creditor holding any security is to produce the same before the Master of  the Rolls at his Chambers situated in the Rolls Yard, Chancery Lane, Middlesex, on Monday the 28th day of October 1878, at 11 o'clock in the forenoon being the time appointed for adjudicating on the claims. — Dated this 24th day of July, 1878.
 >
 > DAWSON BRYAN & DAWSON 10 Hart Street Bloomsbury Square W. C. Middlesex
 ```
@@ -282,7 +282,7 @@ Or not!
 
 Hartland now brings his case to close, summarises the main points, and addressing the jury once again:
 
-> I have now shown, by examination both of the positive and of the negative evidence, that there is abundant ground for believing in the existence of the custom of sin-eating in Wales. I have shown it in the Marches down to the year 1893; I have shown it in Brecknockshire in the seventeenth century; I have shown it in Pembrokeshire down to recent years ; I have shown it in Powisland in the eighteenth century; I have shown that in Gwynedd, or the western part of North Wales, it had not died out of memory in the year 1820, though probably it was no longer practised.
+> I have now shown, by examination both of the positive and of the negative evidence, that there is abundant ground for believing in the existence of the custom of sin-eating in Wales. I have shown it in the Marches down to the year 1893; I have shown it in Brecknockshire in the seventeenth century; I have shown it in Pembrokeshire down to recent years; I have shown it in Powisland in the eighteenth century; I have shown that in Gwynedd, or the western part of North Wales, it had not died out of memory in the year 1820, though probably it was no longer practised.
 
 The argument, he claims, cannot be denied, even if you discount Aubrey:
 
@@ -290,7 +290,7 @@ The argument, he claims, cannot be denied, even if you discount Aubrey:
 
 And there is also lots of other evidence, probably, even if no-one has found it:
 
-> I might have adduced other English evidence ; and where Canon Silvan Evans has failed to find evidence lying upon the surface of Welsh literature—nay, in his very path as a philologist — it is not impossible that careful inquiry may discover further references to the custom. Even as the matter stands, however, it is amply proved. I have dealt with its meaning in the second volume of my *Legend of Perseus*, lately published by Mr. David Nutt, and have there traced parallel practices over a large part of Europe, and, indeed, of the world. Here I will only add that I believe it to be an interesting relic of immemorial antiquity, originating probably in the custom, expressly ascribed by Strabo to the Irish, of the eating of dead parents.
+> I might have adduced other English evidence; and where Canon Silvan Evans has failed to find evidence lying upon the surface of Welsh literature—nay, in his very path as a philologist — it is not impossible that careful inquiry may discover further references to the custom. Even as the matter stands, however, it is amply proved. I have dealt with its meaning in the second volume of my *Legend of Perseus*, lately published by Mr. David Nutt, and have there traced parallel practices over a large part of Europe, and, indeed, of the world. Here I will only add that I believe it to be an interesting relic of immemorial antiquity, originating probably in the custom, expressly ascribed by Strabo to the Irish, of the eating of dead parents.
 
 He then closes with a sop to Mr Thomas, that the original (cannibalistic) practive may well have derived from the Irish rather than the Welsh:
 
@@ -304,7 +304,7 @@ A few days later, the *South Wales Daily News* of [November 27th 1895, p4](https
 >
 > The alleged existence of the sin-eater in Wales has occasioned an interesting discussion in the *Academy*, to which Mr E. Sidney Hartland has just contributed a series of three articles dealing with the positive and negative evidence on the question. Canon Silvan Evans, the eminent Welsh lexicographer, declares he has failed to trace the sin-eater either in Welsh folklore or in Welsh literature. Mr Sidney Hartland this week, however, quotes interesting extracts from *Cymru Fu* and *Drych yr Amseroedd* in support of his view that "there is abundant ground for believing in the existence of the custom of sin-eating in Wales;" and in concluding his article he thus sums up :— "I have shown it in the Marches down to the year 1893 I have shown it in Brecknockshire in the seventeenth century I have shown it in Pembrokeshire down to recent years I have shown it in Powisland in the eighteenth century I have shown that in Gwynedd, or the western part of North Wales, it had not died out of memory in the year 1820, though probably it was no longer practised... Where Canon Silvan Evans has failed to find evidence lying upon the surface of Welsh literature— nay, in his very path as a philologist— it is not impossible that careful inquiry may discover further references to the custom. Even as the matter stands, however, it is amply proved." Mr Hartland believes the custom to be an interesting relic of immemorial antiquity, originating probably in the custom, expressly ascribed by Strabo to the Irish, of the eating of dead parents; but he adds a grain of comfort in the conjecture that, after all, the custom properly belongs rather to the Goidelic than to the Cymric branch of the Celtic race.
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+```{index}! triple: Second Controversy; correspondence, Academy; Owen, J. P.
 :name: secondcontrov:owen:1stletter
 ```
 ## Owen's First Letter to The Academy, November-December, 1895
@@ -319,7 +319,7 @@ Owen opens with a summary of what he believes are the claims made by Hartland:
 >
 > I.
 >
-> London : Nov. 25, 1895.
+> London: Nov. 25, 1895.
 >
 > Mr. E. Sidney Hartland, in his article in *Folk-lore*, in his paper read before the British Association, in his two letters in the *Times*, and his three letters in the ACADEMY, has attempted to prove the existence of what Aubrey said was known in Herefordshire, and what Mr. Moggridge, of Swansea, said was known in the neighbourhood of Llandebie, Carmarthenshire, as "Sin-eating." He has also attempted to prove that the alleged custom is "Celtic." He has also attempted to prove that the Welsh funeral custom of the *diodles*, as described by Robert Jones, Bingley—both of whom give the Welsh name — Wirt Sikes, Evans, Peter Roberts, Pennant, &c., is a mutilated survival of a cannibalistic savage rite formerly practised by "the Celts," the central feature of which was "eating the corpse."
 
@@ -355,7 +355,7 @@ The same remarks appeared in the *"Gathered from Gwalia"* column of the *Evening
 
 The "Birmingham paper" is perhaps *Bye-Gones*, which reprinted some of the *Times* correspondence?
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+```{index}! triple: Second Controversy; correspondence, Academy; Owen, J. P.
 :name: secondcontrov:academy:owen:2ndletter
 ```
 ## Owen's Second Letter to The Academy, December, 1895
@@ -370,9 +370,9 @@ Owen's second letter, dated the last day of November, 1895, appeared in The *Aca
 >
 > London: Nov. 30, 1895.
 >
-> The following digression will, I am afraid, lengthen my answer to Mr. Hartland ; but, as it contains matter probably novel to most readers, I venture to trespass on the editor’s kindness.
+> The following digression will, I am afraid, lengthen my answer to Mr. Hartland; but, as it contains matter probably novel to most readers, I venture to trespass on the editor’s kindness.
 >
-> The other day I looked into *Seren Gomer*, vol. i, (1818), as I remembered having seen, many years ago, a well-written paper on "Superstitions" in some early number of that periodical. I found the paper easily enough ; on reading it, not only the instances of superstition, but the order in which they were related seemed quite familiar to me. I was rather puzzled at this, but that very evening the mystery was cleared up. The paper had been "conveyed" bodily, with just sufficient change to conceal the source from an inquisitive eye, from No. 59 of the *Connoisseur* (March 13, 1755). If the reader will look up that paper, he will see that it does not profess to have the slightest relation to Welsh superstitions. How many times, I wonder, has that veracious account been quoted as genuine folk-lore of the Swansea district ?
+> The other day I looked into *Seren Gomer*, vol. i, (1818), as I remembered having seen, many years ago, a well-written paper on "Superstitions" in some early number of that periodical. I found the paper easily enough; on reading it, not only the instances of superstition, but the order in which they were related seemed quite familiar to me. I was rather puzzled at this, but that very evening the mystery was cleared up. The paper had been "conveyed" bodily, with just sufficient change to conceal the source from an inquisitive eye, from No. 59 of the *Connoisseur* (March 13, 1755). If the reader will look up that paper, he will see that it does not profess to have the slightest relation to Welsh superstitions. How many times, I wonder, has that veracious account been quoted as genuine folk-lore of the Swansea district ?
 
 Unfortunately, it is not clear what article in the Welsh language *Seren Gomer* Owen is referring to is called or what, exactly, it contains.
 
@@ -390,7 +390,7 @@ heard Goody *Cripple* muttering to herself; and to be sure she was saying the Lo
 >
 > ...
 >
-> I had not been here long, when an accident happened, which very much alarmed the whole family. *Towzer* one night howled most terribly ; which was a sure sign, that somebody belonging to them would die. The youngest Miss declared that she had heard the hen crow that morning; which was another fatal prognostic. They told me, that just before uncle died, *Towzer* howled so for several nights together, that they could not quiet him; and my aunt heard the death-watch tick as plainly as if there had been a clock in the room: the maid too, who sat up with him, heard a bell toll at the top of the stairs, the very moment the breath went out-of his body, During this discourse, Ioverheard one of my cousins whisper the other, that she was afraid their mamma would not live long; for she smelt an ugly smell, like a dead body. They had a dairy-maid, who died the very week after an hearse had stopt at their door in its way to church ; and the eldest miss, when she was but thirteen, saw her own brother’s ghost, (who was gone to the West-Indies) walking in the garden ; and to be fare nine months after, they had an account, that he died on board the ship, the very same day, and hour of the day, that Miss saw his apparition.
+> I had not been here long, when an accident happened, which very much alarmed the whole family. *Towzer* one night howled most terribly; which was a sure sign, that somebody belonging to them would die. The youngest Miss declared that she had heard the hen crow that morning; which was another fatal prognostic. They told me, that just before uncle died, *Towzer* howled so for several nights together, that they could not quiet him; and my aunt heard the death-watch tick as plainly as if there had been a clock in the room: the maid too, who sat up with him, heard a bell toll at the top of the stairs, the very moment the breath went out-of his body, During this discourse, Ioverheard one of my cousins whisper the other, that she was afraid their mamma would not live long; for she smelt an ugly smell, like a dead body. They had a dairy-maid, who died the very week after an hearse had stopt at their door in its way to church; and the eldest miss, when she was but thirteen, saw her own brother’s ghost, (who was gone to the West-Indies) walking in the garden; and to be fare nine months after, they had an account, that he died on board the ship, the very same day, and hour of the day, that Miss saw his apparition.
 >
 > ...
 
@@ -415,7 +415,7 @@ Owen then goes on to quote from the article at length, including an amusing insi
 > I have said in my previous note that the Independents were the most important religious body in the valley. Between these and their older established Presbyterian (i.e, Unitarian) rivals, whose chapel was (and is) at Gellionen, there were smart debates on the deep things of theology. Here is a stanza taken at random from a long ballad which is quoted in full in the article:
 >
 > "I know that Death's opinion of Jesus on the Rood  
-> Was simply the Sccinian's — that but a Man there stood ;  
+> Was simply the Sccinian's — that but a Man there stood;  
 > But at the third day's dawning he found himself mista'en—  
 >'Twas Jesus rose in triumph, *Death* wore the captive’s chain."
 >
@@ -425,13 +425,13 @@ Owen then goes on to quote from the article at length, including an amusing insi
 >
 > Here is a sample of the verses used on such occasions :
 >
-> "Dafydd (a *guider*, outside) *loquitur* :  
+> "Dafydd (a *guider*, outside) *loquitur*:  
 > 'At Cana's feast in Galilee  
 > The first of marriages we see;  
 > At Ystrad here, I dare to say,  
 > The next takes place this very day.'
 >
-> "Richard (inside) *respondet* :  
+> "Richard (inside) *respondet*:  
 > 'If Cana's feast in Galilee  
 > The first of marriages did see,  
 > Come, tell me (and my mind relieve)  
@@ -440,7 +440,7 @@ Owen then goes on to quote from the article at length, including an amusing insi
 > There is one curious paragraph which may afford a clue to the mystery of the Moggridge story. There are indications (such as the use of *cwbl*, meaning "whole," where "dole" seems to be required by the context) that it is taken from an English source. It seems that a report had spread afar that the old inhabitants of Cwmamman were awfully bad people (*dynion drwg ofnadwy*), and shameful thieves (*lladron cywilyddus*); but we are assured that there was no foundation for that old fable (*yr hen chwedl hono*). It originated in the fact that Shön Holi the beggar man (*Sion Holi y cardotyn*) had taken offence "because they had not given the whole to him" (*am na roddasent y ewbl iddo ef*), and that he had spitefully cried out :
 >
 > "Cwmamman men, both great and small,  
-> The devil owns you, one and all ;  
+> The devil owns you, one and all;  
 > And if your sins you do not rue,  
 > He'll come and fetch you, two by two."
 >
@@ -454,7 +454,7 @@ Owen then goes on to quote from the article at length, including an amusing insi
 > Hearsay, however, would not do, so William goes on:
 >
 > "I'll prove that she where’er she goes  
-> Is to the hedges worst of foes ;  
+> Is to the hedges worst of foes;  
 > There's not a stake in all the lands—  
 > She steals them all for fire-brands!"
 >
@@ -468,18 +468,18 @@ The court scene closes with a defendant, Pali, being found guilty of an offence.
 >
 > Well, all that my author—of whom I here take leave—says is, that she was Pali Sion *Aubrey*. She must therefore have been either the daughter or the wife of John Aubrey. Aubrey's degree of cousinship to the famous author of the *Miscellanies* might be easily traced, I should think, by the aid of the Aubrey pedigrees in of the County of Brecknock. Not a little of the land lying between Cwmamman and Llangorse (near Brecon) belonged at one time to different descendants of Dr. Aubrey, Master of Requests in Elizabeth’s reign. Jones, in his History, mentions no peculiar custom connected with Llangorse. He quotes *Walker's Sufferings of the Clergy* as his authority for the statement that Rowland Gwynn was parson of Llangorse till 1640, when he was ejected, and the "cure lay vacant for three years, saving that one John Edwards, a shoemaker, sometimes preached by the Commissioners' orders." The first volume of Jones's History was published in 1805, and he writes as follows concerning Welsh funeral customs (p. 287):
 >
-> "The funerals in Wales and the ceremonies preceding and following them very much resemble those of the Irish as described in that admirable little volume entitled *Castle Rackrent*. The straw on which the deceased lay is set on fire as soon as the breath departs, which is a signal of that event : we have our *gwylnôs*, or night of watching, and when ale can be procured in the neighbourhood a *llawen-nôs*, or night of rejoicing, though this latter phrase is more generally appropriated to the night before the wedding."
+> "The funerals in Wales and the ceremonies preceding and following them very much resemble those of the Irish as described in that admirable little volume entitled *Castle Rackrent*. The straw on which the deceased lay is set on fire as soon as the breath departs, which is a signal of that event: we have our *gwylnôs*, or night of watching, and when ale can be procured in the neighbourhood a *llawen-nôs*, or night of rejoicing, though this latter phrase is more generally appropriated to the night before the wedding."
 
 The work referred to is Theophilus Jones' *A history of the county of Brecknock* in [three volumes](https://www.library.wales/digital-exhibitions-space/digital-exhibitions/europeana-rise-of-literacy/history-books/a-history-of-the-county-of-brecknock/#?c=&m=&s=&cv=&xywh=-613%2C0%2C5180%2C5148), 1805 (it was also republished in two volumes, with additional notes, by Sir Joseph Russell Bailey in 1909 ([volume I](https://archive.org/details/historyofcountyo01jone), [volume II](https://archive.org/details/historyofcountyo02jone)). The cited page appears ???
 
-```{index} single:  Corpse Candle ; at St David's
+```{index} single:  Corpse Candle; at St David's
 ```
 ```{admonition} Jones on *Corpse Candles*
 :class: dropdown seealso
 
 The corpse candle is also referred to on [p286](https://www.library.wales/digital-exhibitions-space/digital-exhibitions/europeana-rise-of-literacy/history-books/a-history-of-the-county-of-brecknock#?c=&m=&s=&cv=337&xywh=796%2C124%2C1960%2C1948):
 
-> The corpse candle, which precedes the death of some person in the neighbourhood, and marks the route of the funeral from the house of the deceased to the church is a common topic among our peasantry, who beheve it confined to the diocese of St. David's : a tradition is likewise very commonly received among them, which preserves the memory of certain extraordinary and wonderful feats of strength, performed by two oxen of prodigious size, called "ychain banog," or the oxen of the summits of the mountains. Davies in his *Celtic Researches* calls them "elevated oxen," and supposes them to allude to a sacrifice made by Hu gadarn or Hu the mighty ; but whatever may have been the origin of the legends told of these oxen, the tradition seems to have been derived from the *Mythology of the Druids*, and in some measure confirms the antiquity of the Triads, from whence it is evidently derived.
+> The corpse candle, which precedes the death of some person in the neighbourhood, and marks the route of the funeral from the house of the deceased to the church is a common topic among our peasantry, who beheve it confined to the diocese of St. David's: a tradition is likewise very commonly received among them, which preserves the memory of certain extraordinary and wonderful feats of strength, performed by two oxen of prodigious size, called "ychain banog," or the oxen of the summits of the mountains. Davies in his *Celtic Researches* calls them "elevated oxen," and supposes them to allude to a sacrifice made by Hu gadarn or Hu the mighty; but whatever may have been the origin of the legends told of these oxen, the tradition seems to have been derived from the *Mythology of the Druids*, and in some measure confirms the antiquity of the Triads, from whence it is evidently derived.
 
 To give it its full title, the referenced work [*Celtic Researches*](https://archive.org/details/celticresearch00davi) is *Celtic Researches on the Origins, Traditions and Languages of the Ancient Britons with some introductory sketches on primitive society* by Edward Davies (curate of Olveston, Gloucestershire) published a year earlier in 1804.
 ```
@@ -494,9 +494,9 @@ To give it its full title, the referenced work [*Celtic Researches*](https://arc
 
 Owen picks up on the lack of descriptions of Welsh funeral customs providing a couple of references, one of which is not available to him (Mary Curtis' *Antiquities of Laugharne, Pendine* from 1880), but one which is, and which is also a new addition to our trail:
 
-```{index} single: Cymru Fu ; Travelling in Wales in 1820
+```{index} single: Cymru Fu; Travelling in Wales in 1820
 ```
-```{index} single: funeral customs ; Tenby, Pembrokeshire, 1820
+```{index} single: funeral customs; Tenby, Pembrokeshire, 1820
 ```
 > I pointed out to Mr. Hartland, in reference to the Market Drayton story, that, as it stood, the mysterious and "significant" remark of the Pembrokeshire minister was of no historical or scientific value whatever. As he seemed to agree with me to a certain extent, I was rather surprised to find the minister's oracular remark assuming in the ACADEMY even more "significance" than it had been originally endowed with in the Times. As a matter of fact, there are extant precise descriptions of Pembrokeshire funeral customs. I may refer to, though I am at present unable to quote from, Miss Mary Curtis's Antiquities of Pendine. Again, in part iii. of *Cymru Fu* for July-December, 1888— not the Welsh work that Mr. Hartland quotes from, but a republication of notes that had appeared in the Cardiff *Weekly Mail*— the following account, dated Tenby, Sunday, October 6, is to be found under the heading, "Travelling in Wales in 1820":
 >
@@ -522,7 +522,7 @@ Mr. Owen then signs off in hope of being allowed to submit a third part to his e
 >
 > J. P. OWEN.
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+```{index}! triple: Second Controversy; correspondence, Academy; Owen, J. P.
 ```
 ## Owen's Third Letter to The Academy, December-January, 1896
 
@@ -534,7 +534,7 @@ He opens with an attack on Hartland's apparent lack of interest in considering t
 >
 > III.
 >
-> London : Dec. 18, 1895.
+> London: Dec. 18, 1895.
 >
 > Nothing has struck me so much in Mr. Hartland's treatment of this question as his absolute ignoring of Christian rites. He quotes [presumably in Perseus?] an account of a funeral custom in Eastern Europe, but he appears to have no notion that every part of the ceremony described can be accounted for by the practice of the Orthodox Church. An account is given of another burial custom in Bavaria, but there are no traces of an inquiry into the history of Catholic rites in that part of the world. Like Wamba's *pax vobiscum*, "Celtic" blood is the key to it all. It is the same in England. Is there a peculiar funeral custom in Derbyshire? Oh, "the population is probably still to a great extent of Celtic ancestry." When we come to Herefordshire and Shropshire, why, we are there right in the Welsh March, which must be saturated with Celticism.
 
@@ -586,7 +586,7 @@ From a storytelling point of view, we get some interesting colour regarding what
 
 Having picked up on the theme of bowls, Owen is not going to give up on it:
 
-```{index} double: healing cup ; Nanteos
+```{index} double: healing cup; Nanteos
 ```
 > In that most Protestant of all Welsh counties, Cardiganshire, about five miles from Aberystwith, there is the seat of an ancient Welsh family, the Powells of Nanteos. Nanteos is famous through the county for its "healing cup." In *Wales* for November his Honor Judge David Lewis has an interesting paper on this cup. From a couple of cuts illustrating the article, it is evident that the Nanteos healing cup is an old maser-bowl. Unfortunately its former history is not given; and I know not whether the superstition attaching to it is a real survival of Roman Catholic times, or a mere modern revival. The vessel may have been secured by some careful picker-up of such "toys" from the wreckage of the neighbouring abbey of Strata Florida. However that may be, within an easy walk of Nanteos is the Mecca of Welsh Methodism, Llangeitho. For the last hundred years or so, at scores of chapels in that part of Cardiganshire, the bread and wine of Holy Communion have been handed round from one seated partaker to another, with an absence of superstitious formalism that would have satisfied Zwingli himself. And yet all the time this time-worn and mutilated old maser-bowl of Nanteos, which has never, of course, been used in the service of the Mass, but which has possibly been "indulgenced" in olden days, is regarded by the ultra-Protestants of Cardiganshire with superstitious reverence, and as still possessed of healing virtues. From some curious memoranda drawn up by an old butler of Nanteos, and quoted by Judge Lewis, I select one (out of about twenty-five, ranging in date from 1857 to 1889) :
 >
@@ -614,13 +614,13 @@ Finally, it seems, maybe something relevant?
 > "On Shrove-Tide eve a wife I married,  
 > Brief was the time with her I tarried,  
 > Ash-Wednesday morn across the bed  
-> I found her lying stiff and dead ;  
+> I found her lying stiff and dead;  
 > Then I offered ’neath her head  
 > A piece of cheese, a loaf of bread,  
 > And of ale a mighty bowl—  
 > May *that* rest upon her soul!"
 >
-> *Offrymais* is the Welsh word for "offered" in the fifth line. The English and the Welsh are, of course, of the same Latin origin. Unlike the English word, however, the Welsh one is confined strictly to the religious meaning. Cognates are : *offeren* (the service of the Mass), and *offeiriad* (priest), the commonest term for "clergyman" in Welsh, but never applied to Dissenting ministers.
+> *Offrymais* is the Welsh word for "offered" in the fifth line. The English and the Welsh are, of course, of the same Latin origin. Unlike the English word, however, the Welsh one is confined strictly to the religious meaning. Cognates are: *offeren* (the service of the Mass), and *offeiriad* (priest), the commonest term for "clergyman" in Welsh, but never applied to Dissenting ministers.
 >
 > Handing the dole to the poor bedesman across the corpse may perhaps have no meaning beyond that of mere convenience. More probably, however, a deeper meaning was read into the action. Making the sign of the cross lingered on in North Wales till, certainly, the time of John Aubrey. Thus Richard Davies, the Welsh Quaker, says in his autobiography :
 >
@@ -669,7 +669,7 @@ It is one thing for Aubrey to have been a credible old fool when it came to beli
 
 With Mr Owen having finished making his case, how was Mr Hartland to respond?
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```{index}! triple: Second Controversy; correspondence, Academy; Hartland, Edwin Sidney
 :name: secondcontrov:academy:hartland:firstreply
 ```
 ## Hartland Responds to Owens, January, 1896
@@ -678,9 +678,9 @@ Writing on January 6th, Hartland opened his response in [Vol 49 Iss 1236, p37](h
 
 > THE SIN-EATER IN WALES.
 >
-> Highgarth, Gloucester : Jan. 6, 1896.
+> Highgarth, Gloucester: Jan. 6, 1896.
 >
-> I will not venture to emulate Mr. Owen by asserting that *he* has committed blunders; but I would point out: (1) That I read no paper before the British Association— as my letter in the ACADEMY of November 9 shows, I simply spoke in the course of a discussion on cannibalism ; (2) that I have not attempted to prove that the custom of Sin-eating is Celtic, but that there was a custom of the kind in Wales; and (3) that I have not attempted to prove, either in what I said at the British Association or in my letters to the *Times* and the ACADEMY, that the Welsh funeral custom of the *Diodles* "is a mutilated survival of a cannibalistic savage rite formerly practised by the Celts, the central feature of which was eating the corpse." My paper in *Folklore*, published more than three and a half years ago, indeed gave an outline of an argument to this effect, which I have since much amplified and strengthened in the book referred to in the last of my three previous letters to the ACADEMY. My letters to the *Times* and the ACADEMY were merely directed to answering the arguments of Mr. N. W. Thomas and Canon Silvan Evans, to the effect that Sin-eating had never been practised in Wales; and I submit that Mr. Owen has not seriously attempted to controvert my position.
+> I will not venture to emulate Mr. Owen by asserting that *he* has committed blunders; but I would point out: (1) That I read no paper before the British Association— as my letter in the ACADEMY of November 9 shows, I simply spoke in the course of a discussion on cannibalism; (2) that I have not attempted to prove that the custom of Sin-eating is Celtic, but that there was a custom of the kind in Wales; and (3) that I have not attempted to prove, either in what I said at the British Association or in my letters to the *Times* and the ACADEMY, that the Welsh funeral custom of the *Diodles* "is a mutilated survival of a cannibalistic savage rite formerly practised by the Celts, the central feature of which was eating the corpse." My paper in *Folklore*, published more than three and a half years ago, indeed gave an outline of an argument to this effect, which I have since much amplified and strengthened in the book referred to in the last of my three previous letters to the ACADEMY. My letters to the *Times* and the ACADEMY were merely directed to answering the arguments of Mr. N. W. Thomas and Canon Silvan Evans, to the effect that Sin-eating had never been practised in Wales; and I submit that Mr. Owen has not seriously attempted to controvert my position.
 
 *At this point, it is perhaps worth remarking that despite several references to _Mr N. W. Thomas_, no correspondence appears from him at this point in the correspondence chain in The Academy.*
 
@@ -690,7 +690,7 @@ Hartland then mentions the unpublished correspondence with Mr Owen in which he a
 
 Hartland than comments on the rambling nature of Owen's letters, and whilst not wanting to follow him down the garden path, seems to feel obliged to put Owen right:
 
-> He is to be congratulated on his capacity for talking round a subject. I shall not follow him in his interesting but discursive remarks, but shall content myself with observations on one or two points. He complains that I have absolutely ignored Christian rites. Quite so ; I was not dealing with the origin, but merely with the fact.
+> He is to be congratulated on his capacity for talking round a subject. I shall not follow him in his interesting but discursive remarks, but shall content myself with observations on one or two points. He complains that I have absolutely ignored Christian rites. Quite so; I was not dealing with the origin, but merely with the fact.
 
 He is also happy to have a sensible dicussion with Owen, but Owen needs to make substantive and supported comments if he expects a response:
 
@@ -710,7 +710,7 @@ Hartland closes by mentioning that his own researches regarding first-hand testi
 >
 > E. SIDNEY HARTLAND.
 
-```{index} triple: Second Controversy ; correspondence, Academy ; Owen, J. P.
+```{index} triple: Second Controversy; correspondence, Academy; Owen, J. P.
 ```
 ## Owen Replies Post-haste
 
@@ -748,9 +748,9 @@ Anyway...
 >
 > "3. Thus all thinges beinge accomplished in right Popishe order at home, at length they carie the Corse towardse the Churche all garnished with Crosses, which they sett downe by the way at everie Crosse, and there all of them devowtly on theire knees make prayers for the dead.
 >
-> "., And when in this superstitious sorte they have brought the Corse to the Churche, som with hast prevent the minister, and burie the Corse them selves, becawse they will not be partakers of the service saide at the Buriall ; som, overtreate the minister to omitt the Service, and som times obtagne theire purporse ; and when the minister is redie to accomplishe the order of Service appointed for the Buriall, mavy of these that com with the Corpes will departe ; ffor, Recusantes refuse not to bring it to ye Churche, thoughe they will not partake of the Service of the Churche.
+> "., And when in this superstitious sorte they have brought the Corse to the Churche, som with hast prevent the minister, and burie the Corse them selves, becawse they will not be partakers of the service saide at the Buriall; som, overtreate the minister to omitt the Service, and som times obtagne theire purporse; and when the minister is redie to accomplishe the order of Service appointed for the Buriall, mavy of these that com with the Corpes will departe; ffor, Recusantes refuse not to bring it to ye Churche, thoughe they will not partake of the Service of the Churche.
 >
-> "5. Then, concerninge those that remain with the Corse till it be buried, when they have sett downe the Corse in the Church, they bende themselves to theire privat prayer with Crossinge and knockinge themselves, All knelinge rownde the Corre neglectinge the publique Service then in hand. And, when the Corse is redie to be putt into the grave ; som, by kissinge the ded Corpes ; other, by wailinge the dead with more than Heathenishe owtcries ; other, with open invocations for the dead; and another sorte with Janglinge the Belles, so disturb the whole action, that the minister is ofte compelled to lett passe that parte of Service appointed for the Buriall of the dead, and to withdrawe him selfe from their tumultuowse Assembly.
+> "5. Then, concerninge those that remain with the Corse till it be buried, when they have sett downe the Corse in the Church, they bende themselves to theire privat prayer with Crossinge and knockinge themselves, All knelinge rownde the Corre neglectinge the publique Service then in hand. And, when the Corse is redie to be putt into the grave; som, by kissinge the ded Corpes; other, by wailinge the dead with more than Heathenishe owtcries; other, with open invocations for the dead; and another sorte with Janglinge the Belles, so disturb the whole action, that the minister is ofte compelled to lett passe that parte of Service appointed for the Buriall of the dead, and to withdrawe him selfe from their tumultuowse Assembly.
 >
 > "6. After which Buriall, at theire Banquet in the Alehouse they often times have a 'Pater noster' for the dead.
 >
@@ -764,9 +764,9 @@ What more evidence could you need, what more indeed?
 
 Owen now reuses a trick he has used before, suggesting Hartland of quoting things out of context, or, at least, of cutting them short:
 
-> I have not yet dealt with "M. Jorevin, apparently a Frenchman travelling in England." The writer in question was a M. Jorevin de Rocheford, whose travels were published at Paris in 1672 in three duodecimo volumes. The book does not seem to be at the British Museum ; but the part dealing with the British Isles was translated and given in full in Astle’s *Antiquarian Repertory*, iv., pp. 549-631 (1809). From that translation Owen and Blakeway in their History of Shrewsbury extracted the portion having reference to that town. Mr. Hartland has quoted as a complete sentence what is a mere fragment of one, and has "shorn off" the really "significant" portion. Here follows the complete sentence as printed in the *Antiquarian Repertory*. I have italicised the part omitted by Mr. Hartland :
+> I have not yet dealt with "M. Jorevin, apparently a Frenchman travelling in England." The writer in question was a M. Jorevin de Rocheford, whose travels were published at Paris in 1672 in three duodecimo volumes. The book does not seem to be at the British Museum; but the part dealing with the British Isles was translated and given in full in Astle’s *Antiquarian Repertory*, iv., pp. 549-631 (1809). From that translation Owen and Blakeway in their History of Shrewsbury extracted the portion having reference to that town. Mr. Hartland has quoted as a complete sentence what is a mere fragment of one, and has "shorn off" the really "significant" portion. Here follows the complete sentence as printed in the *Antiquarian Repertory*. I have italicised the part omitted by Mr. Hartland :
 >
-> "It is to be remarked that during this oration there stood upon the coffin a large pot of wine, out of which every one drank to the health of the deceased, *hoping that he might surmount the difficulties he had to encounter in his road to Paradise, where by the mercy of God he was about to enter ; on which mercy they founded all their hope, without considering their evil life, their wicked religion, and that God is just."
+> "It is to be remarked that during this oration there stood upon the coffin a large pot of wine, out of which every one drank to the health of the deceased, *hoping that he might surmount the difficulties he had to encounter in his road to Paradise, where by the mercy of God he was about to enter; on which mercy they founded all their hope, without considering their evil life, their wicked religion, and that God is just."
 
 Owen suggests that if Hartland were not so hasty in lifting partial quotes, he would have a better understanding of what the original authors were actually saying:
 
@@ -778,11 +778,11 @@ He closes with another dig at Hartland's reliability when it comes to quoting or
 >
 > "A participle by the story's brim
 > A simple participle is to him,
-> And it is nothing more ! "
+> And it is nothing more! "
 >
 > J. P. OWEN.
 
-```{index} ! triple: Second Controversy ; correspondence, Academy ; Hartland, Edwin Sidney
+```{index}! triple: Second Controversy; correspondence, Academy; Hartland, Edwin Sidney
 :name: secondcontrov:academy:hartland:secondreply
 ```
 ## The Spat Continues: Hartland Responds, January, 1896
