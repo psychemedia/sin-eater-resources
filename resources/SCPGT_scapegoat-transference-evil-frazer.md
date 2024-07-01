@@ -3,6 +3,8 @@
 
 https://archive.org/details/in.ernet.dli.2015.264304/page/n55/mode/2up?q=%22sin-eating%22
 
+TO DO
+
 The Scapegoat Part Vi
 by James George Frazer
 
@@ -30,16 +32,16 @@ THE TRANSFERENCE TO MEN
 
 
 sins of the dying man in consideration of the sum of ten Transfer- 
-thousand rupees. Thus prepared to immolate himself on the ““ t ° f a 
+thousand rupees. Thus prepared to immolate himself on the "" t ° f a 
 altdr of duty as a vicarious sacrifice for sin, the saint is intro- Brahman 
 duced into the chamber of death, and closely embraces the ^ ravan ' 
-dying rajah, saying to him, “ O King, I undertake to bear 
+dying rajah, saying to him, "O King, I undertake to bear 
 all your sins and diseases. May your Highness live long 
-and reign happily.” Having thus, with a noble devotion, 
+and reign happily." Having thus, with a noble devotion, 
 taken to himself the sins of the sufferer, and likewise the 
 rupees, he is sent away from the country and never more 
 allowed to return. 1 Closely akin to this is the old Welsh 
-custom known as “ sin-eating.” According to Aubrey, “ In Transfer- 
+custom known as "sin-eating." According to Aubrey, "In Transfer- 
 the County of Hereford was an old Custome at funeralls to e . nce 
 hire poor people, who were to take upon them all the sinnes Sin-eaterin 
 of the party deceased. One of them I remember lived in a En s land * 
@@ -66,7 +68,7 @@ Gwin the minister about 1640 could no hinder ye performing
 of this ancient custome. I believe this custom was hereto- 
 fore used over all Wales. ... In North Wales the Sinne- 
 eaters are frequently made use of; but there, instead of a 
-Bowle of Beere, they have a bowle of Milke.” 2 According 
+Bowle of Beere, they have a bowle of Milke." 2 According 
 
 1 Rev. S. Mateer, Native Life 2 J. Aubrey, Remaines of Gentilisme 
 in Travancore (London, 1883), p. and Judaisme (Folk-lore Society, Lon- 
@@ -90,7 +92,7 @@ sin-eater
 in India. 
 
 
-to a letter dated February i, 1714-15, “ within the memory 
+to a letter dated February i, 1714-15, "within the memory 
 of our fathers, in Shropshire, in those villages adjoyning to 
 Wales, when a person dyed, there was notice given to an 
 old sire (for so they called him), who presently repaired 
@@ -103,7 +105,7 @@ ale, which he drank off* at a draught. After this he got up
 from the cricket and pronounced, with a composed gesture, 
 the ease and rest of the soul departed for which he would 
 pawn his own soul. This I had from the ingenious John 
-Aubrey, Esq.” 1 In modern times some doubt has been 
+Aubrey, Esq." 1 In modern times some doubt has been 
 thrown on Aubrey's account of the custom. 2 * The practice, 
 however, is reported to have prevailed in a valley not far 
 from Llandebie to a recent period. An instance was said 
@@ -122,11 +124,11 @@ of the dead Rajah of Bilaspur, and that in consequence he
 had been placed on the throne for the space of a year. At 
 
 
-1 Bagford’s letter in Leland’s Collec - 
+1 Bagford's letter in Leland's Collec - 
 
 tatudy i. 76, quoted by J. Brand, 
 
-Popular Antiquities , ii. 246 sq. } Bohn’s 
+Popular Antiquities , ii. 246 sq. } Bohn's 
 
 edition (London, 1882-1883). 
 
@@ -141,9 +143,7 @@ Jackson, Shropshire Folk-lore (London,
 
 1883), pp. 307 sq. 
 
-* The authority for the statement is 
-a Mr. Moggridge, reported in Archaeo - 
-logia CambrensiSy second series, iii. 
+* The authority for the statement is a Mr. Moggridge, reported in Archaeologia Cambrensis second series, iii. 
 
 
 330. But Mr. Moggridge did not 
@@ -151,7 +151,7 @@ speak from personal knowledge, and as
 he appears to have taken it for granted 
 that the practice of placing bread and 
 salt upon the breast of a corpse was a 
-survival of the custom of “ sin-eating,” 
+survival of the custom of "sin-eating," 
 his evidence must be received with 
 caution. He repeated his statement, in 
 somewhat vaguer terms, at a meeting 
@@ -176,9 +176,9 @@ THE TRANSFERENCE TO MEN
 the end of the year he had been given presents and then 
 turned out of the territory and forbidden apparently to 
 return. He was an outcast among his fellows for having 
-eaten out of a dead man’s hand . 1 A similar custom is 
+eaten out of a dead man's hand . 1 A similar custom is 
 believed to obtain in the hill states about Kangra, and 
-to have given rise to a caste of “ outcaste ” Brahmans. At 
+to have given rise to a caste of "outcaste" Brahmans. At 
 the funeral of a Rani of Chamba rice and ghee were eaten out 
 of the hands of the corpse by a Brahman paid for the purpose. 
 Afterwards a stranger, who had been caught outside the 
@@ -197,8 +197,8 @@ for their souls . 4
 In Tahiti, where the bodies of chiefs and persons of rank 
 were embalmed and preserved above ground in special sheds 
 or houses erected for them, a priest was employed at the 
-funeral rites who bore the title of the “ corpse -praying 
-priest” His office was singular. When the house for the 
+funeral rites who bore the title of the "corpse -praying 
+priest" His office was singular. When the house for the 
 dead had been prepared, and the corpse placed on the plat- 
 form or bier, the priest ordered a hole to be made in the 
 floor, near the foot of the platform. Over this he prayed to 
@@ -229,7 +229,7 @@ rest over one of the childless widows
 who thereafter became his wife. The 
 meaning of the ceremony is obscure. 
 The eldest son in Uganda never in- 
-herited his father’s property. See the 
+herited his father's property. See the 
 Rev. J. Roscoe, The Baganda (Lon- 
 don, 1911), p. 117. 
 
@@ -254,12 +254,12 @@ THE TRANSFERENCE OF EVIL
 CHAP. 
 
 
-was that all the dead man’s sins, especially the one for which 
+was that all the dead man's sins, especially the one for which 
 his soul had been required of him, might be deposited there 
 that they might not attach in any degree to the survivors, 
 and that the anger of the god might be appeased. He next 
-addressed the corpse, usually saying, “ With you let the guilt 
-!. now remain.” The pillar or post of the corpse, as it was 
+addressed the corpse, usually saying, "With you let the guilt 
+!. now remain." The pillar or post of the corpse, as it was 
 
 . called, was then planted in the hole, and the hole filled up. 
 
@@ -267,8 +267,7 @@ i As soon as the ceremony of depositing the sins in the hole
 
 'it was over, all who had touched the body or the garments of 
 
-the deceased, which were buried or destroyed, fled precipi- 
-!j tately into the sea, to cleanse themselves from the pollution 
+the deceased, which were buried or destroyed, fled precipitately into the sea, to cleanse themselves from the pollution 
 
 I which they had contracted by touching the corpse. They 
 
@@ -278,8 +277,8 @@ I also cast into the sea the garments they had worn while they
 
 their ablutions, they gathered a few pieces of coral from the 
 bottom of the sea, and returning with them to the house 
-addressed the corpse, saying, “ With you may the pollution 
-be.” So saying they threw down the coral on the top of 
+addressed the corpse, saying, "With you may the pollution 
+be." So saying they threw down the coral on the top of 
 the hole which had been dug to receive the sins and the 
 defilement of the dead . 1 In this instance the sins of the 
 departed, as well as the pollution which the primitive mind 
@@ -299,11 +298,11 @@ L 401 sqq. the sins of a person whose body is care-
 
 fully preserved by being embalmed, and 
 
-2 The Welsh custom of u sin-eating ” the Manipur and Travancore customs of 
+2 The Welsh custom of "sin-eating" the Manipur and Travancore customs of 
 has been interpreted by Mr. E. S. transferring the sins of a Rajah before his 
 Hartland as a modification of an older death (pp. 39, 42 sq.) establish the 
 custom of eating the corpse. See his practice of transferring sins in cases 
-article, “ The Sin-eater,” Folk-lore , iii. where there can be no question of eating 
+article, "The Sin-eater," Folk-lore , iii. where there can be no question of eating 
 (1892) 145-157; The Legend of Per - the corpse. The original intention of 
 sens, ii. 291 sqq., iii. p. ix. I cannot such practices was perhaps not so much 
 think his interpretation probable or to take away the sins of the deceased 

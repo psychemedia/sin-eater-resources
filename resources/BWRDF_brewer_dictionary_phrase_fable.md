@@ -1,6 +1,6 @@
 https://archive.org/details/in.ernet.dli.2015.83704/page/n829/mode/2up?q=sin-eater
 
-Dictionary of Phrase and Fable, Giving the Derivation, Source, or Origigin of Common Phrases, Allusions, and Works that have a Tale to Tell
+Dictionary of Phrase and Fable, Giving the Derivation, Source, or Origin of Common Phrases, Allusions, and Works that have a Tale to Tell
 by E. Cobham Brewer Twelfth edition (revised and corrected)
 
 Publication date 1891

@@ -5,7 +5,7 @@ As 1895 rolled into 1896, Peter Ditchfield published a work on [Old English cust
 (OECDF)=
 > Burial Customs
 >
-> In Yorkshire it is customary after a death to send to the friends of the family a bag of biscuits, together with a card bearing the name of the deceased. Sometimes these "funeral biscuits" are small round sponge-cakes, and were formerly known as arvel bread- arvel or arval being the ale or feast of the heir when he succeeds to his father's property. [Cf. " Forty Years in a Moorland Parish," Canon Atkinson, p. 228. 2O2 ] This is a relic of the old pagan funeral feasts, and is not unknown in other parts of England. It is probably connected with the curious custom of the Sin-eater, formerly observed in Wales. A poor person was hired (one of them is described as "a long, lean, ugly, lamentable rascal") to perform the duties of Sin-eater. Bread and beer were passed to the man over the corpse, or laid on it; these he consumed, and by this process was supposed to take on him all the sins of the deceased, and free the defunct person from walking after death. The eaters of funeral biscuits in modern times little reflect upon the extraordinary superstition of which these dainties are a relic.
+> In Yorkshire it is customary after a death to send to the friends of the family a bag of biscuits, together with a card bearing the name of the deceased. Sometimes these "funeral biscuits" are small round sponge-cakes, and were formerly known as arvel bread- arvel or arval being the ale or feast of the heir when he succeeds to his father's property. [Cf. "Forty Years in a Moorland Parish," Canon Atkinson, p. 228. 2O2 ] This is a relic of the old pagan funeral feasts, and is not unknown in other parts of England. It is probably connected with the curious custom of the Sin-eater, formerly observed in Wales. A poor person was hired (one of them is described as "a long, lean, ugly, lamentable rascal") to perform the duties of Sin-eater. Bread and beer were passed to the man over the corpse, or laid on it; these he consumed, and by this process was supposed to take on him all the sins of the deceased, and free the defunct person from walking after death. The eaters of funeral biscuits in modern times little reflect upon the extraordinary superstition of which these dainties are a relic.
 
 He also described the Market Drayton tradition described by Gertrude Hope in her [letter](FLKLR:correspondence:1892:hope) to *Folklore* in 1892 and corrected by Hartland in his [first reply](secondcontrov:academy:hartland:firstreply) in the *Academy*.
 
@@ -31,7 +31,7 @@ The correspondents in the *Academy* now appeared to take a break, perhaps as a r
 
 For the [Vol 9 Iss 215; 8th. S. ix, p109-111](https://archive.org/details/sim_notes-and-queries_1896-02-08_9_215/page/108/mode/2up?q=sin+eater) of *Notes & Queries*, published on February 8th, 1896, someone must have been tidying up the in-tray, as several responses that had apparently been languishing there for some time duly appeared in print.
 
-The most comprehensive of them was penned by a familiar name, Mr. J. P. Owen. A postscript to the answer notes that the letter had been *"sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895."*. Hartland had also referred to it in his [second letter](secondcontrov:hartland:2ndletter) to the *Academy*.
+The most comprehensive of them was penned by a familiar name, Mr. J. P. Owen. A postscript to the answer notes that the letter had been *"sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland's first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895."*. Hartland had also referred to it in his [second letter](secondcontrov:hartland:2ndletter) to the *Academy*.
 
 (NANDQ:owen-oct95-letter)=
 > SIN-EATER.
@@ -46,7 +46,7 @@ An extract is then provided:
 
 > After describing the custom Mr. Moggridge said that—
 >
-> "in Carmarthenshire, not far from Llandebie, there was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the practice was said to have pre-vailed to a recent period...... He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred a few yeara ago, but he believed it was extinct now."
+> "in Carmarthenshire, not far from Llandebie, there was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the practice was said to have pre-vailed to a recent period...... He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred a few years ago, but he believed it was extinct now."
 >
 > Mr. E. A. Freeman inquired whether "sin-eater was the term used in the district where the custom prevailed?" Mr. Moggridge "answered in the affirmative."
 
@@ -90,7 +90,7 @@ The correspondent then delves further into the etymology of possibly related ter
 >
 > 48, Comeragh Road, West Kensington.
 >
-> P.S.—Perhaps I may be allowed to add that the above was sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895.
+> P.S.—Perhaps I may be allowed to add that the above was sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland's first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895.
 
 ### Other Responses to the Query of October, 1895
 
@@ -104,13 +104,13 @@ Several other answers also appeared in the same issue of *Notes & Queries* (Vol 
 
 The remaining answers refer readers to a variety of other sources, such as [Dyer](DFKLD) and [Frazer](GLDNB):
 
-> The ceremony of sin-eating as it was formerly practised in Scotland is described at p. 60 of Mr. Phiselton Dyer’s 'Domestic Folk-lore.' If my memory serves me, there is a good deal of information on this subject in 'The Golden Bough,' by Mr. Frazer.
+> The ceremony of sin-eating as it was formerly practised in Scotland is described at p. 60 of Mr. Phiselton Dyer's 'Domestic Folk-lore.' If my memory serves me, there is a good deal of information on this subject in 'The Golden Bough,' by Mr. Frazer.
 >
 > C. C. B.
 
 [Elton](OEHEL) and Aubrey...
 
-> Mr. Elton, in 'Origins of English History,' 1882, pp. 181, 182, has some interesting observations on sin-eating. He says, "The superstition certainly prevailed in Herefordshire, though it may be doubful whether it extended to the neighbouring parts of Wales." He quotes Aubrey's 'Remains of Gentilisme' (as every one writing on the subject does), and refers also to Sikes's 'British Goblins,' 325, and Hone's 'Year Book,' 858. A quotation from Mr. Wirt Sikes shows that the custom prevails in Turkestan. I doubt if the custom survives anywhere in Great Britain or Ireland.
+> Mr. Elton, in 'Origins of English History,' 1882, pp. 181, 182, has some interesting observations on sin-eating. He says, "The superstition certainly prevailed in Herefordshire, though it may be doubtful whether it extended to the neighbouring parts of Wales." He quotes Aubrey's 'Remains of Gentilisme' (as every one writing on the subject does), and refers also to Sikes's 'British Goblins,' 325, and Hone's 'Year Book,' 858. A quotation from Mr. Wirt Sikes shows that the custom prevails in Turkestan. I doubt if the custom survives anywhere in Great Britain or Ireland.
 >
 > James Hooper. Norwich.
 
@@ -178,7 +178,7 @@ In ["The Sin Eater"](https://www.megancampisi.com/sin-eater) by Megan Campisi, a
 
 > Mr. Hartland quoted a passage from my 'Household Tales and Traditional Remains,' p. 124; and as this has a material bearing on the subject, I will repeat it here :—
 >
-> "When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man’s sins and bear them yourself."
+> "When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man's sins and bear them yourself."
 
 Mr Addy then suggests he has access to a primary source for this claim:
 
@@ -256,7 +256,7 @@ He opens by denying the relevance of Rowland's negative testimony regarding the 
 
 He also challenges the likelihood of such local legends ever being revealed to Rowlands, or the incomer local vicar.
 
-> I am informed by Mr. J. P. Owen that both the vicar of Llandebie and the schoolmaster mentioned by Canon Silvan Evans were known to him; that they were both strangers to the parish, and that neither of them stayed long enough to identify himself with it. Cwmamman is in the heart of a romantic country. Around it are spots renowned for the hunting of Twrch Trwyth by King Arthur. Across the mountains, only a few miles away, is the famous Van Pool, the dwelling-place of the mysterious lady from whom the physicians of Myddvai traced their descent, and the scene down to a few years ago of an annual summer pilgrimage when the lady herself was expected to appear. The valley was at one time sparsely inhabited. It has been described as "lawless"; it was, doubtless, the very home of superstition. But during the last fifty years a revolution has taken place. Large industries have sprung up, and a considerable population of a much more civilised character been attracted to the place. This revolution was in progress in the sixties; it was completed before Canon Evans's inquiries were set on foot. When we add to all this the fact, to which I have already drawn attention (ACADEMY, November 16, 1895), that those inquiries were not made for more than a quarter of a century after the alleged event, it is hard to see what importance can be attached to the schoolmaster's assertions. He may have been "an intelligent," but he was not a "competent mperson" to give satisfactory evidence; and it has yet to be proved that his evidence, such as it was, related to a larger area than the village of Llandebie and its immediate surroundings— which do not come into the story at all. This is my reply to Mr. Thomas's first point.
+> I am informed by Mr. J. P. Owen that both the vicar of Llandebie and the schoolmaster mentioned by Canon Silvan Evans were known to him; that they were both strangers to the parish, and that neither of them stayed long enough to identify himself with it. Cwmamman is in the heart of a romantic country. Around it are spots renowned for the hunting of Twrch Trwyth by King Arthur. Across the mountains, only a few miles away, is the famous Van Pool, the dwelling-place of the mysterious lady from whom the physicians of Myddvai traced their descent, and the scene down to a few years ago of an annual summer pilgrimage when the lady herself was expected to appear. The valley was at one time sparsely inhabited. It has been described as "lawless"; it was, doubtless, the very home of superstition. But during the last fifty years a revolution has taken place. Large industries have sprung up, and a considerable population of a much more civilised character been attracted to the place. This revolution was in progress in the sixties; it was completed before Canon Evans's inquiries were set on foot. When we add to all this the fact, to which I have already drawn attention (ACADEMY, November 16, 1895), that those inquiries were not made for more than a quarter of a century after the alleged event, it is hard to see what importance can be attached to the schoolmaster's assertions. He may have been "an intelligent," but he was not a "competent person" to give satisfactory evidence; and it has yet to be proved that his evidence, such as it was, related to a larger area than the village of Llandebie and its immediate surroundings— which do not come into the story at all. This is my reply to Mr. Thomas's first point.
 
 Part of the implication here seems to be that the primitive and uncivilised parishioners might somehow of been ashamed of their local tradition, and sought to hide evidence of it from these "more civilised" incomers?
 
@@ -270,7 +270,7 @@ He then refers Thomas et al. elsewhere for a more detailed consideration of ritu
 
 As to Moggridge's claims, Hartland suggests he has already accounted for his position on the matter:
 
-> With Mr. Moggridge's sources and opportunities of information I have already dealt (ACADEMY, November 16). I believe his statement. But, even if we leave him out of account, there is enough in Pennant, Robert Jones of Rhoslan, and the Bishop of St. Asaph's MS. to corroborate Aubrey, who besides gives evidence of having curefully inquired into the matter.
+> With Mr. Moggridge's sources and opportunities of information I have already dealt (ACADEMY, November 16). I believe his statement. But, even if we leave him out of account, there is enough in Pennant, Robert Jones of Rhoslan, and the Bishop of St. Asaph's MS. to corroborate Aubrey, who besides gives evidence of having carefully inquired into the matter.
 
 Hartland closes with a comment regarding the lack of "on the ground" research regarding the collection of local testimony in what might have been a more timely fashion:
 
@@ -369,13 +369,13 @@ He also claims "no hard feelings" in the way the correspondence had played out t
 
 As to the omission regarding Addy's observations:
 
-> The only modern instance of so-called "sin-eating" adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Addy’s book. Aubrey and Pennant, Moggeridge and the Pembrokeshire minister were all found to be other than Mr. Hartland’s fancy painted them. I was unable to find a copy of Mr. Addy's work in the British Museum, but
+> The only modern instance of so-called "sin-eating" adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Addy's book. Aubrey and Pennant, Moggeridge and the Pembrokeshire minister were all found to be other than Mr. Hartland's fancy painted them. I was unable to find a copy of Mr. Addy's work in the British Museum, but
 
 having seen now, for himself, what Addy has to say, he observes that
 
 > that gentleman's own communication to 'N. & Q.' induces me to ask him (1) if the term "sin-drinking" was employed by his informant; (2) if his informant was a Churchman or a Dissenter; and (3) if he can see his way to publish the name of the locality where the "ritual" described to and by him is practised.
 
-Mr Owen then stands up straight and congratulates himself for having helped move understanding about the sin-eater tradition along, such as in the case of the Market Drayton account, which Owen had previously suggested that *'the mysterious and “significant” remark of the Pembrokeshire minister was of no historical or scientific value whatever'*:
+Mr Owen then stands up straight and congratulates himself for having helped move understanding about the sin-eater tradition along, such as in the case of the Market Drayton account, which Owen had previously suggested that *'the mysterious and "significant" remark of the Pembrokeshire minister was of no historical or scientific value whatever'*:
 
 > It was only, I believe, through my public avowal of scepticism as to the "significance," from a sin-eating point of view, of the Pembrokeshire minister's remarks at the Market Drayton funeral that Mr. Hartland was induced to sift that tale. The result of his investigation was, if I may borrow Mr. Addy's expression, "effectual" enough. The Market Drayton evidence— "evidence," to quote Mr. Hartland's words in the *Academy* for 9 Nov., "such as could not be doubted" — had become two months later (*Academy*, 11.Jan.) an "incident about which there had been some misapprehension"; while the minister's words "would appear only to have had reference to the general custom of eating and drinking at funerals." I did not attempt to argue with Mr. Hartland. Indeed, there was no need, for the above is only a sample of the "effectual" way in which his own arguments destroyed either themselves or one another.
 >

@@ -22,7 +22,7 @@ By W. Hone
 
 ... 
 
-N.B. Persons wishing for Odd Numbers to complete the YEAR BOOK will make immediate applicationto R. GRIFFIN & CO., as some of the numbers are getting scarece.
+N.B. Persons wishing for Odd Numbers to complete the YEAR BOOK will make immediate application to R. GRIFFIN & CO., as some of the numbers are getting scarce.
 
 64, Hutcheson Street, Feb. 11, 1832
 

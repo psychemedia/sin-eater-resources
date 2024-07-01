@@ -39,7 +39,7 @@ Survival and Development
 
 THERE has grown up of late years a subject of inquiry- first antiquarian merely, and now scientific into the peasant and local elements in modern culture, and this subject has not inaptly been termed ' folklore.' Almost always at the commencement of a new study much is done by eager votaries which has to be undone as soon as settled work is undertaken, and it happens, I think, that because the elements of folklore are so humble and unpretentious, because they have to be sought for in the peasant's cottage or fields, in the children's nursery, or from the lips of old gaffers and gammers, that unusual difficulties have beset the student of folklore. Not only has he to undo any futile work that stands in the way "of his special inquiry, but he has to attempt the rebuilding of his edifice in face of contrasts frequently drawn between the elements which make up his subject and those supposed more dignified elements with which the historian, the archaeologist, and the philologist have to deal.
 
-The essential characteristic of folklore is that it consists of beliefs, customs, and traditions which are far behind civilisation in their intrinsic value to man, though they exist under the cover of a civilised nationality. This estimate of the position of folklore with reference to civilisation suggests that its con- stituent elements are survivals of a condition of human thought more backward, and therefore more ancient, than that in which they are discovered.
+The essential characteristic of folklore is that it consists of beliefs, customs, and traditions which are far behind civilisation in their intrinsic value to man, though they exist under the cover of a civilised nationality. This estimate of the position of folklore with reference to civilisation suggests that its constituent elements are survivals of a condition of human thought more backward, and therefore more ancient, than that in which they are discovered.
 
 Except to the students of anthropology, the fact of the existence of survivals of older culture in our midst is not readily grasped or understood. Historians have been so engrossed with the political and commercial progress of nations that it is not easy to determine what room they would make in the world for the non-progressive portion of the population. And yet the history of every country must begin with the races who have occupied it. ...
 
@@ -55,7 +55,7 @@ p116-120
 
 The Ethnic Genealogy of Folklore
 
-[The chapter reviews the genealogy of a partciular class of traditions, specifically, *"Eating of dead kindred"*, as charted on p. 124. The following excerpt relates specifically to a consideration of the sin-eater tradition, but the wider review is worth reading.]
+[The chapter reviews the genealogy of a particular class of traditions, specifically, *"Eating of dead kindred"*, as charted on p. 124. The following excerpt relates specifically to a consideration of the sin-eater tradition, but the wider review is worth reading.]
 
 ...
 

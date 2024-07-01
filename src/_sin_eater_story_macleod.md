@@ -13,7 +13,7 @@ Various reviews of Macloed's *Sin Eater* were to appear, such as this one in *Y 
 >
 > Did the ancient custom of sin-eating obtain in Wales within living memory? It was a most uncanny rite. A piece of bread, sprinkled over with salt, was placed on the bared breast of the dead person the sin-eater, who was paid for the job, ate the bread, washing it down with a mug of beer; the sins of the dead were thus transferred into the eater, who was consequently looked upon with a feeling of loathing and horror. For was he not selling his soul for a price ?
 >
-> Miss Fiona Macleod, in her *Sin-Eater and Other Tales*, recently published by Patrick Geddes, describes the custom as it prevailed in the Highlands of Scotland. The scale of pay seems to have been higher there than in Wales. Perhaps the pay was regulated by a kind of sliding scale, and varied according to the amount of sin to be eaten in each case. At all events, the Welsh sin-eater generally got only a groat, whereas the Gaelic-eater received sometimes as mnch as five shillings. That speaks highly either of the better moral character of our ancestors, or the more developed commercial acuteness of the Scotch Celts.
+> Miss Fiona Macleod, in her *Sin-Eater and Other Tales*, recently published by Patrick Geddes, describes the custom as it prevailed in the Highlands of Scotland. The scale of pay seems to have been higher there than in Wales. Perhaps the pay was regulated by a kind of sliding scale, and varied according to the amount of sin to be eaten in each case. At all events, the Welsh sin-eater generally got only a groat, whereas the Gaelic-eater received sometimes as much as five shillings. That speaks highly either of the better moral character of our ancestors, or the more developed commercial acuteness of the Scotch Celts.
 >
 > If the reader has not made the acquaintance of Fiona Macleod's Gaelic stories, let him hasten to do so. There are three of them— "The Pharais," "The Mountain Lovers," and "The Sin Eater.' He will find them intensely fascinating.
 >
@@ -38,7 +38,7 @@ Miss MACLEOD is the first writer who has tried natively to interpret the Gael, n
 
 This clearly commits the writer to the romantic method that we find preserved in all these tales, though they have here and there a touch of that realism which romance has never been entirely without — Celtic romance especially. The first of them, "The Sin-Eater," is a capital example in its romantic kind. You feel, in reading it, that the tale-writer has not gone to her subject-matter as a purely disinterested agent. On the contrary, she brings her passionate predilections; instead of being disinterested, she is perfervidly interested; she goes prepared to find the things that count, Celtically speaking, and she finds them—the gloom, the spiritual glamour, and the rest. Tomorrow, some New Realist will go over the same ground, and bring back his very different report of things as they really are, and tell us what queer kind of porridge he saw the Achannas eat. But Miss Macleod, being to the manner born, writes from the inside, and not from the outside; is affected through her imagination, and not through her nerves; and is sometimes so carried away by her subject that she forgets how suburban the modern reader is apt to be, and how he likes his sea-lions caged and labelled, and his peat-smoke described in terms of Fleet-street.
 
-Not only does she forget this: she deliberately does all she can to increase the sea terror, the wildness, and the Gaelic savour of her tales. "The Sin-Eater" begins with the wet wind and the sea mist of the western isles; and ends with the wild cry of the man Neil Ross, as he goes down in the "Black Eddy" that rushes between Skerry-Mohr and Skerry-Beag— "An eirig m’ anama!" ("In ransom for my soul!") All through it one hears the sea-noises and feels the sea-wind, and the Sin-eater is treated in bold accord with such elemental circumstance. Half man, half myth, he is the scapegoat of the sea. He bears the sins of others, but with no scapegoat's innocence: therein lies the motive which is treated in this tale with so much force. At last he makes his sea-exit on a spar that is like the cross; nay, in the words of Aulay Macneill, who tells his end, "It *was* the cross he was on. I saw that thing with the fear upon me. Ah, poor drifting wreck that he was. *Judas on the Cross*: it was his *eric*."
+Not only does she forget this: she deliberately does all she can to increase the sea terror, the wildness, and the Gaelic savour of her tales. "The Sin-Eater" begins with the wet wind and the sea mist of the western isles; and ends with the wild cry of the man Neil Ross, as he goes down in the "Black Eddy" that rushes between Skerry-Mohr and Skerry-Beag— "An eirig m' anama!" ("In ransom for my soul!") All through it one hears the sea-noises and feels the sea-wind, and the Sin-eater is treated in bold accord with such elemental circumstance. Half man, half myth, he is the scapegoat of the sea. He bears the sins of others, but with no scapegoat's innocence: therein lies the motive which is treated in this tale with so much force. At last he makes his sea-exit on a spar that is like the cross; nay, in the words of Aulay Macneill, who tells his end, "It *was* the cross he was on. I saw that thing with the fear upon me. Ah, poor drifting wreck that he was. *Judas on the Cross*: it was his *eric*."
 
 Still more strange, and from an English point of view more simply and artistically constructed and written, is "The Dan-nan-Ron"—perhaps the finest thing in the book. "'You know what is said in the isles about ... about this or that man, who is under *gheasau*. —who is spell-bound,...and... about the seals and... ?' says Marcus Achanna to Anne, the heroine of this strange tale.
 
@@ -118,7 +118,7 @@ After a minute's silence the old woman answered him in the native tongue, but on
 
 The man stirred uneasily.
 
-"And why is that, mother? " he asked, in a weak voice hoarse with damp and fatigue; "how is it you will be knowing that I have been in lona at all? "
+"And why is that, mother?" he asked, in a weak voice hoarse with damp and fatigue; "how is it you will be knowing that I have been in lona at all? "
 
 "Because I knew your kith and kin there, Neil Ross."
 
@@ -152,11 +152,11 @@ Neil Ross shifted from foot to foot. The ooze in that marshy place squelched wit
 
 It was a pitiful thing to hear: ah, bitter loneliness, bitter patience of poor old women. That he knew well. But he was too weary, and his heart was nigh full of its own burthen. The words could not come to his lips. But at last he spoke.
 
-"Tha mo chridhe goirt," he said, with tears in his voice, as he put his hand on her bent shoulder; " my heart is sore."
+"Tha mo chridhe goirt," he said, with tears in his voice, as he put his hand on her bent shoulder; "my heart is sore."
 
 She put up her old face against his.
 
-"'S tha e ruidhinn mo chridhe," she whispered; " it is touching my heart you are."
+"'S tha e ruidhinn mo chridhe," she whispered; "it is touching my heart you are."
 
 After that they walked on slowly through the dripping mist, each dumb and brooding deep.
 
@@ -182,7 +182,7 @@ No; it is Loch-a-chaoruinn, and the clachan that is near is Contullich."
 
 Neil Ross uttered a sound like a stifled curse. For a time he trudged wearily on.
 
-"Then I am too late," he said at last, but as though speaking to himself. " I had hoped to see him face to face again, and curse him between the eyes. It was he who made Murtagh Ross break his troth to my mother, and marry that other woman, barren at that, God be praised! And they say ill of him, do they?"
+"Then I am too late," he said at last, but as though speaking to himself. "I had hoped to see him face to face again, and curse him between the eyes. It was he who made Murtagh Ross break his troth to my mother, and marry that other woman, barren at that, God be praised! And they say ill of him, do they?"
 
 "Ay, it is evil that is upon him. This crime and that, God knows; and the shadow of murder on his brow and in his eyes. Well, well, 'tis ill to be speaking of a man in corpse, and that near by. 'Tis Himself only that knows, Neil Ross."
 
@@ -198,7 +198,7 @@ And so it was.
 
 After old Sheen Macarthur had given the wayfarer food — poor food at that, but welcome to one nigh starved, and for the heartsome way it was given, and because of the thanks to God that was upon it before even spoon was lifted — she told him a lie. It was the good lie of tender love.
 
-"Sure now, after all, Neil, my man," she said, " it is sleeping at the farm I ought to be, for Maisie Macdonald, the wise woman, will be sitting by the corpse, and there will be none to keep her company. It is there I must be going; and if I am weary, there is a good bed for me just beyond the dead-board, which I am not minding at all. So, if it is tired you are sitting by the peats, lie down on my bed there, and have the sleep; and God be with you."
+"Sure now, after all, Neil, my man," she said, "it is sleeping at the farm I ought to be, for Maisie Macdonald, the wise woman, will be sitting by the corpse, and there will be none to keep her company. It is there I must be going; and if I am weary, there is a good bed for me just beyond the dead-board, which I am not minding at all. So, if it is tired you are sitting by the peats, lie down on my bed there, and have the sleep; and God be with you."
 
 With that she went, and soundlessly, for Neil Ross was already asleep, where he sat on an upturned claar, with his elbows on his knees, and his flame-lit face in his hands.
 
@@ -236,7 +236,7 @@ She was still speaking to the lassie when Maisie Macdonald, the deid-watcher, op
 
 A long silence followed. The old women had seated themselves by the corpse, their cloaks over their heads. The room was fire-less, and was lit only by a tall wax death-candle, kept against the hour of the going.
 
-At last Sheen began swaying slowly to and fro, crooning low the while. " I would not be for doing that, Sheen Macarthur," said the deid-watcher in a low voice, but meaningly; adding, after a moment's pause, *"The mice have all left the house."*
+At last Sheen began swaying slowly to and fro, crooning low the while. "I would not be for doing that, Sheen Macarthur," said the deid-watcher in a low voice, but meaningly; adding, after a moment's pause, *"The mice have all left the house."*
 
 Sheen sat upright, a look half of terror half of awe in her eyes.
 
@@ -252,13 +252,13 @@ Once more the old women relapsed into silence. Through the night there was a sig
 
 Out of sheer weariness. Sheen twice rocked forward from her stool, heavy with sleep. At last Maisie led her over to the niche-bed opposite, and laid her down there, and waited till the deep furrows in the face relaxed some-what, and the thin breath laboured slow across the fallen jaw.
 
-"Poor old woman," she muttered, heedless of her own grey hairs and greyer years; " a bitter, bad thing it is to be old, old and weary. 'Tis the sorrow, that. God keep the pain of it!"
+"Poor old woman," she muttered, heedless of her own grey hairs and greyer years; "a bitter, bad thing it is to be old, old and weary. 'Tis the sorrow, that. God keep the pain of it!"
 
-As for herself, she did not sleep at all that night, but sat between the living and the dead, with her plaid shrouding her. Once, when Sheen gave a low, terrified scream in her sleep, she rose, and in a loud voice cried, " *Sheeach-ad !* Away with you!" And with that she lifted the shroud from the dead man, and took the pennies off the eyelids, and lifted each lid; then, staring into these filmed wells, muttered an ancient incantation that would compel the soul of Adam Blair to leave the spirit of Sheen alone, and return to the cold corpse that was its coffin till the wood was ready.
+As for herself, she did not sleep at all that night, but sat between the living and the dead, with her plaid shrouding her. Once, when Sheen gave a low, terrified scream in her sleep, she rose, and in a loud voice cried, "*Sheeach-ad !* Away with you!" And with that she lifted the shroud from the dead man, and took the pennies off the eyelids, and lifted each lid; then, staring into these filmed wells, muttered an ancient incantation that would compel the soul of Adam Blair to leave the spirit of Sheen alone, and return to the cold corpse that was its coffin till the wood was ready.
 
 The dawn came at last. Sheen slept, and Adam Blair slept a deeper sleep, and Maisie stared out of her wan, weary eyes against the red and stormy flares of light that came into the sky.
 
-When, an hour after sunrise, Sheen Macarthur reached her bothy, she found Neil Ross, heavy with slumber, upon her bed. The fire was not out, though no flame or spark was visible; but she stooped and blew at the heart of the peats till the redness came, and once it came it grew. Having done this, she kneeled and said a rune of the morning, and after that a prayer, and then a prayer for the poor man Neil. She could pray no more because of the tears. She rose and put the meal and water into the pot for the porridge to be ready against his awaking. One of the hens that was there came and pecked at her ragged skirt. " Poor beastie," she said. " Sure, that will just be the way I am pulling at the white robe of the Mother o' God. 'Tis a bit meal for you, cluckie, and for me a healing hand upon my tears. O, och, ochone, the tears, the tears! "
+When, an hour after sunrise, Sheen Macarthur reached her bothy, she found Neil Ross, heavy with slumber, upon her bed. The fire was not out, though no flame or spark was visible; but she stooped and blew at the heart of the peats till the redness came, and once it came it grew. Having done this, she kneeled and said a rune of the morning, and after that a prayer, and then a prayer for the poor man Neil. She could pray no more because of the tears. She rose and put the meal and water into the pot for the porridge to be ready against his awaking. One of the hens that was there came and pecked at her ragged skirt. "Poor beastie," she said. "Sure, that will just be the way I am pulling at the white robe of the Mother o' God. 'Tis a bit meal for you, cluckie, and for me a healing hand upon my tears. O, och, ochone, the tears, the tears! "
 
 It was not till the third hour after sunrise of that bleak day in the winter of the winters, that Neil Ross stirred and arose. He ate in silence. Once he said that he smelt the snow coming out of the north. Sheen said no word at all.
 
@@ -364,7 +364,7 @@ Turning on his heel, Neil walked slowly round to the front of the house. A tall 
 
 Mechanically Andrew Blair looked round. As he knew, a rough bier was there, that was made of a dead-board laid upon three milking-stools. Beside it was a *claar*, a small tub to hold potatoes. On the bier was a corpse, covered with a canvas sheeting that looked like a sail.
 
-"He was a worthy man, my father," began the son of the dead man, slowly; " but he had his faults, like all of us. I might even be saying that he had his sins, to the Stones be it said. You will be knowing, Macallum, what is thought among the folk . . . that a stranger, passing by, may take away the sins of the dead, and that, too, without any hurt whatever . . . any hurt whatever."
+"He was a worthy man, my father," began the son of the dead man, slowly; "but he had his faults, like all of us. I might even be saying that he had his sins, to the Stones be it said. You will be knowing, Macallum, what is thought among the folk . . . that a stranger, passing by, may take away the sins of the dead, and that, too, without any hurt whatever . . . any hurt whatever."
 
 "Ay, sure."
 
@@ -470,11 +470,11 @@ The Sin-Eater turned at that, and stared like a hill-bull. *Scapegoat!* Ay, that
 
 Slowly he took the money, turned it over, and put it in his pocket.
 
-"I am going, Andrew Blair," he said quietly, " I am going now. I will not say to him that is there in the silence, *A chuid do Pharas da!* — nor will I say to you, *Gu;n gleidheadh Dia thu,* — nor will I say to this dwelling that is the home of thee and thine, *Gu'n beannaicheadh Dia an tigh! "* `[(1) A chuid do Pharas da! "His share of heaven be his." (2) Gu'n gleidheadh Dia thu, "May God preserve you." (3) Gu'n beannaicheadh Dia an tigh! "God's blessing on this house."]`
+"I am going, Andrew Blair," he said quietly, "I am going now. I will not say to him that is there in the silence, *A chuid do Pharas da!* — nor will I say to you, *Gu;n gleidheadh Dia thu,* — nor will I say to this dwelling that is the home of thee and thine, *Gu'n beannaicheadh Dia an tigh! "* `[(1) A chuid do Pharas da! "His share of heaven be his." (2) Gu'n gleidheadh Dia thu, "May God preserve you." (3) Gu'n beannaicheadh Dia an tigh! "God's blessing on this house."]`
 
 Here there was a pause. All listened. Andrew Blair shifted uneasily, the furtive eyes of him going this way and that, like a ferret in the grass.
 
-"But, Andrew Blair, I will say this: when you fare abroad, *Droch caoidh ort!* and when you go upon the water, *Gaoth gun direadh ort!* Ay, ay, Anndra-mhic-Adam, *Dia ad aghaidh 's ad aodann . . . agus has dunach ort! Dhonas 's dholas ort, agus leat-sa! "* `[(1) Droch caoidh ort! "May a fatal accident happen to you" (lit. "bad moan on you"). (2) Gaoth gun direadh ort! " May you drift to your drowning " (lit. "wind without direction on you"). (3) Dia ad aghaidh, etc., "God against thee and in thy face . . . and may a death of woe be yours. . . . Evil and sorrow to thee and thine! "]`
+"But, Andrew Blair, I will say this: when you fare abroad, *Droch caoidh ort!* and when you go upon the water, *Gaoth gun direadh ort!* Ay, ay, Anndra-mhic-Adam, *Dia ad aghaidh 's ad aodann . . . agus has dunach ort! Dhonas 's dholas ort, agus leat-sa! "* `[(1) Droch caoidh ort! "May a fatal accident happen to you" (lit. "bad moan on you"). (2) Gaoth gun direadh ort! "May you drift to your drowning" (lit. "wind without direction on you"). (3) Dia ad aghaidh, etc., "God against thee and in thy face . . . and may a death of woe be yours. . . . Evil and sorrow to thee and thine! "]`
 
 The bitterness of these words was like snow in June upon all there. They stood amazed. None spoke. No one moved.
 
@@ -534,7 +534,7 @@ Sian seachd paidir nan seach paidir dol deiseil ri diugh narach ort, ga do ghlei
 
 Scarcely had she finished before she heard heavy steps approaching.
 
-"Away with you," she whispered, repeating in a loud, angry tone, " Away with you! *Seachad!* *Scachad!* "
+"Away with you," she whispered, repeating in a loud, angry tone, "Away with you! *Seachad!* *Scachad!* "
 
 And with that Neil Ross slipped from the milk-shed and crossed the yard, and was behind the byres before Andrew Blair, with sullen mien and swift, wild eyes, strode from the house.
 
@@ -548,7 +548,7 @@ A man driving two calves came towards him out of the west. He did not hear or se
 
 An hour later a shepherd came by the way he himself had tramped. He was a tall, gaunt man with a squint. The small, pale-blue eyes glittered out of a mass of red hair that almost covered his face. He stood still, opposite Neil, and leaned on his *cromak*.
 
-"*Latha math leaf*" he said at last: " I wish you good day."
+"*Latha math leaf*" he said at last: "I wish you good day."
 
 Neil glanced at him, but did not speak.
 
@@ -556,9 +556,9 @@ Neil glanced at him, but did not speak.
 
 But Neil had already forgotten him. The shepherd took out his snuff-mull, helped himself, and handed the mull to the lonely way-farer. Neil mechanically helped himself.
 
-"*Am bheil thu 'dol do Fhionphort?*" tried the shepherd again: " Are you going to Fionnaphort? "
+"*Am bheil thu 'dol do Fhionphort?*" tried the shepherd again: "Are you going to Fionnaphort? "
 
-"*Tha mise 'dol a dli I challum chille,*" Neil answered, in a low, weary voice, and as a man adream: " I am on my way to Iona."
+"*Tha mise 'dol a dli I challum chille,*" Neil answered, in a low, weary voice, and as a man adream: "I am on my way to Iona."
 
 "I am thinking I know now who you are. You are the man Macallum."
 
@@ -616,13 +616,13 @@ Neil Ross stared, his eyes large and wild. He leaned a little forward. No word c
 
 At this, Ross sprang to his feet with a gasping sob.
 
-"It is a lie, that thing! " he cried, shaking his fist at the shepherd. " It is a lie! "
+"It is a lie, that thing!" he cried, shaking his fist at the shepherd. "It is a lie! "
 
 "It is no lie. And by the same token, Andrew Blair shrank back white and shaking, and his woman had the swoon upon her, and who knows but the corpse might have come to life again had it not been for Maisie Macdonald, the deid-watcher, who clapped a handful of salt on his eyes, and tilted the coffin so that the bottom of it slid forward, and so let the whole fall flat on the ground, with Adam Blair in it sideways, and as likely as not cursing and groaning, as his wont was, for the hurt both to his old bones and his old ancient dignity."
 
 Ross glared at the man as though the madness was upon him. Fear and horror and fierce rage swung him now this way and now that.
 
-"What will the name of you be, shepherd? " he stuttered huskily.
+"What will the name of you be, shepherd?" he stuttered huskily.
 
 "It is Eachainn Gilleasbuig I am to ourselves; and the English of that for those who have no Gaelic is Hector Gillespie; and I am Eachainn mac Ian mac Alasdair of Strathsheean that is where Sutherland lies against Ross."
 
@@ -644,7 +644,7 @@ Neil crept from rock to rock till he reached the last fang that churns the sea i
 
 Then he called out something that Aulay Macneill could not catch. With that he springs up, and throws his arms above him.
 
-"Then," says Aulay when he tells the tale, " it was like a ghost he was. The moonshine was on his face like the curl o' a wave. White! there is no whiteness like that of the human face. It was whiter than the foam about the skerry it was; whiter than the moon shining; whiter than well, as white as the painted letters on the black boards of the fishing-cobles. There he stood, for all that the sea was about him, the slip-slop waves leapin' wild, and the tide making, too, at that. He was shaking like a sail two points off the wind. It was then that, all of a sudden, he called in a womany, screamin' voice —
+"Then," says Aulay when he tells the tale, "it was like a ghost he was. The moonshine was on his face like the curl o' a wave. White! there is no whiteness like that of the human face. It was whiter than the foam about the skerry it was; whiter than the moon shining; whiter than well, as white as the painted letters on the black boards of the fishing-cobles. There he stood, for all that the sea was about him, the slip-slop waves leapin' wild, and the tide making, too, at that. He was shaking like a sail two points off the wind. It was then that, all of a sudden, he called in a womany, screamin' voice —
 
 "' I am throwing the sins of Adam Blair into the midst of ye, white dogs o' the sea! Drown them, tear them, drag them away out into the black deeps! Ay, ay, ay, ye dancin' wild waves, this is the third time I am doing it, and now there is none left; no, not a sin, not a sin !
 
@@ -681,9 +681,9 @@ The minutes passed, and no sign. Only the hollow booming of the sea, as it moved
 
 At last he saw what looked like a mass of seaweed swirled out on the surge. It was the Sin-Eater. With a leap, Aulay was at his oars. The boat swung through the sea. Just before Neil Ross was about to sink for the second time, he caught him and dragged him into the boat.
 
-But then, as ever after, nothing was to be got out of the Sin-Eater save a single saying: *Tha e lanihan fuar: Tha e lamhan fuar !* — " It has a cold, cold hand! "
+But then, as ever after, nothing was to be got out of the Sin-Eater save a single saying: *Tha e lanihan fuar: Tha e lamhan fuar !* — "It has a cold, cold hand! "
 
-The telling of this and other tales left none free upon the island to look upon the " scape-goat " save as one accursed.
+The telling of this and other tales left none free upon the island to look upon the "scape-goat" save as one accursed.
 
 It was in the third month that a new phase of his madness came upon Neil Ross.
 
@@ -699,7 +699,7 @@ Then at last came that third day of the seventh month when, as I have said, Aula
 
 It was only a half-truth that he told, though. For, after he had seen Neil Ross upon the rock, he had followed him when he rose, and wandered back to the roofless place which he haunted now as of yore. Less wretched a shelter now it was, because of the summer that was come, though a cold, wet summer at that.
 
-"Is that you, Neil Ross? " he had asked, as he peered into the shadows among the ruins of the house.
+"Is that you, Neil Ross?" he had asked, as he peered into the shadows among the ruins of the house.
 
 "That's not my name," said the Sin-Eater; and he seemed as strange then and there, as though he were a castaway from a foreign ship.
 
@@ -707,7 +707,7 @@ It was only a half-truth that he told, though. For, after he had seen Neil Ross 
 
 "*I am Judas*."
 
-"And at that word," says Aulay Macneill, when he tells the tale, " at that word the pulse in my heart was like a bat in a shut room. But after a bit I took up the talk,
+"And at that word," says Aulay Macneill, when he tells the tale, "at that word the pulse in my heart was like a bat in a shut room. But after a bit I took up the talk,
 
 "'Indeed,' I said; 'and I was not for knowing that. May I be so bold as to ask whose son, and of what place? '
 
@@ -749,7 +749,7 @@ I will tell it in the words of Aulay.
 
 ## Fiona Macleod's Sin-Eater
 
-In reading Fiona Macleod's story of the sin-eater, we might wonder where she came by this story, or how she came across the tradition of the sin-ater? As a work of fiction, it presents a mystery surrounding an an evil act, and an act of vengeance gone wrong as the lead character adopts a sin-eater role and then finds themselves trapped and tormented by it. Is there any evidence of how Fiona Macleod came across the idea of a sin-eater, perhaps from the Scottish tradition? If we can find out when, and from where, she first came across the idea, or when she started writing it, we might be able to identify whether she had picked up on the idea from publications that might have been in the public eye at the time.
+In reading Fiona Macleod's story of the sin-eater, we might wonder where she came by this story, or how she came across the tradition of the sin-ater? As a work of fiction, it presents a mystery surrounding an evil act, and an act of vengeance gone wrong as the lead character adopts a sin-eater role and then finds themselves trapped and tormented by it. Is there any evidence of how Fiona Macleod came across the idea of a sin-eater, perhaps from the Scottish tradition? If we can find out when, and from where, she first came across the idea, or when she started writing it, we might be able to identify whether she had picked up on the idea from publications that might have been in the public eye at the time.
 
 TO DO
 
@@ -787,13 +787,13 @@ LIFE: JANUARY – JUNE, 1895
  The publishing firm of P. G. Geddes and Colleagues was established in 1895. As this
 letter makes clear, it was designed as a medium for the expression and dissemination of
 Celtic-oriented poems and stories and of scientific works that would help to restore
-Edinburgh’s reputation as a center of learning. William Sharp served briefly as Manager
+Edinburgh's reputation as a center of learning. William Sharp served briefly as Manager
 of the firm and then became its Literary Adviser. He saw the firm as a vehicle for the
 writings of Fiona Macleod, and under his guidance, it published in beautifully designed
-books Fiona’s The Sin-Eater (1895), The Washer of the Ford (1896), and From the Hills
-of Dream (1896). They were followed by Fiona’s Songs and Tales of St. Columba and
+books Fiona's The Sin-Eater (1895), The Washer of the Ford (1896), and From the Hills
+of Dream (1896). They were followed by Fiona's Songs and Tales of St. Columba and
 His Age (1897), and The Shorter Stories of Fiona Macleod (1897), a rearrangement and
-reissue in three inexpensive paper-covered volumes of the stories published in The SinEater and The Washer of the Ford. The firm’s most successful publication, a book that
+reissue in three inexpensive paper-covered volumes of the stories published in The SinEater and The Washer of the Ford. The firm's most successful publication, a book that
 went through several editions, was an anthology of Celtic poetry called Lyra Celtica
 (1896) which Elizabeth Sharp compiled and edited and for which William Sharp wrote a
 lengthy introduction and copious notes. 
@@ -815,7 +815,7 @@ To John Macleay, [Feb 18, 1896] 31
 London | Tuesday |10 p.m. 
 
 ...Of course you can write to Miss Macleod if you like – though I suppose I ought to say
-‘no,’ & would if I had the right! For she has been ordered by her doctor to write as little as
+‘no,' & would if I had the right! For she has been ordered by her doctor to write as little as
 possible till she is quite right again. 
 ...
 > As to what grounds Miss M. had for her "Sin-Eater" I do not know. Certainly the idea

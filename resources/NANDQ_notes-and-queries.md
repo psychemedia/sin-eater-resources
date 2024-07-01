@@ -20,9 +20,9 @@ But, on the other hand, it cannot be denied that reading and writing men, of mod
 
 But we hope for more extensive and important benefits, than these from furnishing a medium by which much valuable information may become a sort of common property among those who can appreciate and use it. We do not anticipate any holding back by those whose "NOTES" are most worth having, or any want of "QUERIES" from those best able to answer them. Whatever may be the case in other things, it is certain that those who are best informed are generally the most ready to communicate knowledge and to confess ignorance, to feel the value of such a work as we are attempting, and to understand that if it is to be well done they y must help to do it. Some cheap and frequent means for the interchange of thought s certainly wanted by those who are engaged n literature, art, and science, and we only lope to persuade the best men in all, that we offer them the best medium of communication with each other.
 
-By this time, we hope, our readers are prepared to admit that our title (always one of ,he most difficult points of a book to settle), las not been imprudently or unwisely adopted. We wish to bring together the ideas and the wants, not merely of men engaged in the same lines of action or inquiry, but also (and very particularly) of those who are going diferent ways, and only meet at the crossings, where a helping hand is oftenest needed, and they would be happy to give one if they knew it was wanted. In this way we desire that our little book should take "NOTES," and be a medley of all that men are doing — that the Notes of the writer and the reader, whatever be the subject-matter of his studies, of the antiquary, and the artist, the man of science, the historian, the herald, and the ge- nealogist, in short, Notes relating to all subjects but such as are, in popular discourse, termed either political or polemical, should meet in our columns in such juxta-position, as to give fair play to any natural attraction or repulsion between them, and so that if there are any hooks and eyes among them, they may catch each other.
+By this time, we hope, our readers are prepared to admit that our title (always one of ,he most difficult points of a book to settle), las not been imprudently or unwisely adopted. We wish to bring together the ideas and the wants, not merely of men engaged in the same lines of action or inquiry, but also (and very particularly) of those who are going diferent ways, and only meet at the crossings, where a helping hand is oftenest needed, and they would be happy to give one if they knew it was wanted. In this way we desire that our little book should take "NOTES," and be a medley of all that men are doing — that the Notes of the writer and the reader, whatever be the subject-matter of his studies, of the antiquary, and the artist, the man of science, the historian, the herald, and the genealogist, in short, Notes relating to all subjects but such as are, in popular discourse, termed either political or polemical, should meet in our columns in such juxta-position, as to give fair play to any natural attraction or repulsion between them, and so that if there are any hooks and eyes among them, they may catch each other.
 
-Now, with all modesty, we submit, that for the title of such a work as we have in view, and have endeavoured to describe, no word could be so proper as "NOTES." Can any man, in his wildest dream of imagination, conceive of any thing that may not be — nay, that has not been — treated of in a note? Thousands of things there are, no doubt, which cannot be sublimed into poetry, or elevated into history, or treated of with dignity, in a stilted text of any kind, and which are, as it is, called, "thrown" into notes; but, after all, they are much like children sent out of the stiff drawing-room into the nursery, snubbed to be sure by the act, but joyful in the freedom of banishment. We were going to say (but it might sound vain-glorious), where do things read so well as in notes? but we will put the question in another form: — Where do you so well test an author's learning and knowledge of his subject? — where do you find the pith of his most elaborate researches?— where do his most original suggestions escape? — where do you meet with the details that fix your attention at the time and cling to your memory for ever? — where do both writer and reader luxuriate so much at their ease, andfeel that they are wisely discursive? But if we pursue this idea, it will be scarcely possible to avoid something which might look like self-praise; and we content ourselves for the present with expressing our humble conviction that we are doing a service to writers and readers, by calling forth materials which they have themselves thought worth notice, but which, for want of elaboration, and the "little leisure" that has not yet come, are lying, and may lie for ever, unnoticed by others, and presenting them in an unadorned *multum-in-parvo* form. To our readers therefore who are seeking for Truth, we repeat "When found make a NOTE of;" and we must add, "till then make a QUERY."
+Now, with all modesty, we submit, that for the title of such a work as we have in view, and have endeavoured to describe, no word could be so proper as "NOTES." Can any man, in his wildest dream of imagination, conceive of any thing that may not be — nay, that has not been — treated of in a note? Thousands of things there are, no doubt, which cannot be sublimed into poetry, or elevated into history, or treated of with dignity, in a stilted text of any kind, and which are, as it is, called, "thrown" into notes; but, after all, they are much like children sent out of the stiff drawing-room into the nursery, snubbed to be sure by the act, but joyful in the freedom of banishment. We were going to say (but it might sound vain-glorious), where do things read so well as in notes? but we will put the question in another form: — Where do you so well test an author's learning and knowledge of his subject? — where do you find the pith of his most elaborate researches?— where do his most original suggestions escape? — where do you meet with the details that fix your attention at the time and cling to your memory for ever? — where do both writer and reader luxuriate so much at their ease, and feel that they are wisely discursive? But if we pursue this idea, it will be scarcely possible to avoid something which might look like self-praise; and we content ourselves for the present with expressing our humble conviction that we are doing a service to writers and readers, by calling forth materials which they have themselves thought worth notice, but which, for want of elaboration, and the "little leisure" that has not yet come, are lying, and may lie for ever, unnoticed by others, and presenting them in an unadorned *multum-in-parvo* form. To our readers therefore who are seeking for Truth, we repeat "When found make a NOTE of;" and we must add, "till then make a QUERY."
 
 ---
 
@@ -93,9 +93,9 @@ p211
 
 Replies to Minor Queries.
 
-Mazer Wood and Sin-eaters (Vol. iii., pp. 239. 288.).— The following extract from Hone’s Year Book, p.858., will add to the explanation furnished by S.S.S., and will also give an instance of the singular practices which prevailed among our ancestors:–
+Mazer Wood and Sin-eaters (Vol. iii., pp. 239. 288.).— The following extract from Hone's Year Book, p.858., will add to the explanation furnished by S.S.S., and will also give an instance of the singular practices which prevailed among our ancestors:–
 
-"Among the Lansdowne MSS. in the British Museum are statements in Aubrey’s own handwriting to this purport. In the county of Hereford was an old custom at funerals, to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable, poor rascal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the sin eater, over the corpse, as also a mazard bowl of maple, full of beer (which he was to drink up), and sixpence in money, in consideration whereof he took upon him, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead."
+"Among the Lansdowne MSS. in the British Museum are statements in Aubrey's own handwriting to this purport. In the county of Hereford was an old custom at funerals, to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable, poor rascal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the sin eater, over the corpse, as also a mazard bowl of maple, full of beer (which he was to drink up), and sixpence in money, in consideration whereof he took upon him, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead."
 
 Perhaps some of your readers may be able to throw some light on this curious practice of sin-eating, or on the existence of regular sin-eaters.
 
@@ -123,7 +123,7 @@ Sin-eater. — Can any of your readers explain the origin of "the sin-eater," an
 
 This practice was the subject of an interesting paper by Mr. Muggridge of Swansea, at the last annual meeting of the Cambrian Archaeological Association; but its origin was not satisfactorily traced. The scapegoat, and the sacrifice of criminals in the arena at Athens, &c., have been suggested. Jelinger C. Symons.
 
-[The custom is generally supposed to have been taken from the scapegoat in Leviticus xvi. 21, 22. See a curious passage from the Lansdown MSS. concerning a sin-eater who lived in a cottage on the Rosse highway in Herefordshire, quoted in Brand’s Antiquities, vol. ii. p. 247., edit. 1849.]
+[The custom is generally supposed to have been taken from the scapegoat in Leviticus xvi. 21, 22. See a curious passage from the Lansdown MSS. concerning a sin-eater who lived in a cottage on the Rosse highway in Herefordshire, quoted in Brand's Antiquities, vol. ii. p. 247., edit. 1849.]
 
 
 ---
@@ -140,14 +140,14 @@ THE SIN-EATER.
 
 (Vol. vi., p. 390.)
 
-In addition to your reference to the scape-goat, as accounting for the custom to which JELINGER C. SYMONS refers, it occurs to me that Hosea iv. 8. might be also quoted: "They *eat up the sin* of my people." "They eat up," that is, "the sin-offering of my people." As the priest of old, by eating the sin-offering, declared in the clearest way that the sins of the guilty offerer *had* been transferred to the victim that was offered, so in some sort it came to be believed by superstitious persons, that the eating a piece of bread which had been taken off the body of a dead man, and offered to another in his behalf, transferred the sins of the deceased to the eater of the bread. Perhaps indeed the practice referred to may be rather traced up to the one great sin-offering of Him who was "made sin" for us, and who "took *bread*," the night He was betrayed at the institution of the Eucharist. "The *bread*" became the representative of the victim on Calvary; and from the *sin-offering-eater*, or "sin-eater," being a regularly ordained priest — who might, for a consideration, say a mass for the *dead*, —laymen of "reprobate character" usurped his priestly functions, and took that honour to themselves. Some notion at least of the *feast upon a sacrifice* seems to be implied by the proceeding ” referred to by your correspondent.
+In addition to your reference to the scape-goat, as accounting for the custom to which JELINGER C. SYMONS refers, it occurs to me that Hosea iv. 8. might be also quoted: "They *eat up the sin* of my people." "They eat up," that is, "the sin-offering of my people." As the priest of old, by eating the sin-offering, declared in the clearest way that the sins of the guilty offerer *had* been transferred to the victim that was offered, so in some sort it came to be believed by superstitious persons, that the eating a piece of bread which had been taken off the body of a dead man, and offered to another in his behalf, transferred the sins of the deceased to the eater of the bread. Perhaps indeed the practice referred to may be rather traced up to the one great sin-offering of Him who was "made sin" for us, and who "took *bread*," the night He was betrayed at the institution of the Eucharist. "The *bread*" became the representative of the victim on Calvary; and from the *sin-offering-eater*, or "sin-eater," being a regularly ordained priest — who might, for a consideration, say a mass for the *dead*, —laymen of "reprobate character" usurped his priestly functions, and took that honour to themselves. Some notion at least of the *feast upon a sacrifice* seems to be implied by the proceeding referred to by your correspondent.
 
 ALEXANDER LEEPER.
 
 Dublin.
 
 
-In Whitby and Doddridge there is a note on 1 Cor. iv. 13. which gives some information on this subject. Whitby, from *Phavorinus*, states the custom referred to to be an Athenian one; but I see, in Pole’s *Synopsis*, that Grotius, in a note on the above passage, refers to Caesar, lib. vi., in proof that a custom of the same kind prevailed among the Gauls. See also Bos, *Exercit. Philolog.*, p. 125., to whom Doddridge refers.
+In Whitby and Doddridge there is a note on 1 Cor. iv. 13. which gives some information on this subject. Whitby, from *Phavorinus*, states the custom referred to to be an Athenian one; but I see, in Pole's *Synopsis*, that Grotius, in a note on the above passage, refers to Caesar, lib. vi., in proof that a custom of the same kind prevailed among the Gauls. See also Bos, *Exercit. Philolog.*, p. 125., to whom Doddridge refers.
 
 E. B.
 
@@ -172,9 +172,9 @@ p505
 
 The Sin-Eater.—
 
-This odd term, with the explanation (quoted in Brand’s Antiquities), recently turned up in a newspaper article advocating "funeral reform":—
+This odd term, with the explanation (quoted in Brand's Antiquities), recently turned up in a newspaper article advocating "funeral reform":—
 
-"Our good friend the opulent cheesemonger, or our other good friend the wealthy drysalter, is interred with ceremonies befitting a baron. Says an authority on the subject :— 'The mutes who stand at the door represent the two porters of the castle, with their staves in black; the man who heads the procession, wearing a scarf, is the herald-at-arms; the man who carries the plume of feathers on his head is an esquire, who bears the shield and casque with its plume (of feathers); the pall-bearers, with batons, represent the knight companions-at-arms; and the men walking with wands the gentlemen ushers’; and so on throughout the rest of the performance. There are, however, distinct indications of revolt against this absurdity, and much beside that pertains to the burial of the dead. We have won the right of being buried with or without Church sanction in consecrated or unconsecrated ground, and with entire liberty as to the sort of service to be adopted on the occasion. Those who desire it can have the attendance of a priest at the grave, but he is no more indispensable than a sin-eater. 'And what,' the reader asks, 'is a sin-eater?' Well, he is not a person easy to find in these days, but followed an indispensable occupation in the past. He was generally an old man, the Pariah of a village, who, before every funeral, went and stood at the door of the house, where was given him a sixpence, a loaf of bread, and a wooden bowl of beer or milk. And as the coffin passed out, he ate the bread and swallowed the draught, and in so doing took upon himeelf the sins of the departed, and went his way. We are well rid of the sin-eater, who throve in the last century; but there still linger around us customs and usages hardly less preposterous."
+"Our good friend the opulent cheesemonger, or our other good friend the wealthy drysalter, is interred with ceremonies befitting a baron. Says an authority on the subject :— 'The mutes who stand at the door represent the two porters of the castle, with their staves in black; the man who heads the procession, wearing a scarf, is the herald-at-arms; the man who carries the plume of feathers on his head is an esquire, who bears the shield and casque with its plume (of feathers); the pall-bearers, with batons, represent the knight companions-at-arms; and the men walking with wands the gentlemen ushers'; and so on throughout the rest of the performance. There are, however, distinct indications of revolt against this absurdity, and much beside that pertains to the burial of the dead. We have won the right of being buried with or without Church sanction in consecrated or unconsecrated ground, and with entire liberty as to the sort of service to be adopted on the occasion. Those who desire it can have the attendance of a priest at the grave, but he is no more indispensable than a sin-eater. 'And what,' the reader asks, 'is a sin-eater?' Well, he is not a person easy to find in these days, but followed an indispensable occupation in the past. He was generally an old man, the Pariah of a village, who, before every funeral, went and stood at the door of the house, where was given him a sixpence, a loaf of bread, and a wooden bowl of beer or milk. And as the coffin passed out, he ate the bread and swallowed the draught, and in so doing took upon himself the sins of the departed, and went his way. We are well rid of the sin-eater, who throve in the last century; but there still linger around us customs and usages hardly less preposterous."
 
 G. E. Watson.
 St. George's Place, Dublin.
@@ -211,7 +211,7 @@ p65
 
 THe CORPSE CANDLE
 
-The belief in the appearance of the corpse candle in Wales has not yet died out. Having occasion to visit this part of Wales, which, by the way, is in many particulars one of the most interesting spots in Caermarthenshire, I found a valuable "subject" for folklore study – one who cannot speak half-a-dozen words of English. My informant is an aged widow lady. I asked her today if she had ever seen the corpse candle, and she positively assured me that she saw it on the night her husband died, and, further, that at the railway station at this place there is to be seen sometimes, late at night, after every one has left, a candle burning in the office, which is a portent of some evil. With all the persuasive powers at my command, I entirely failed in disabusing her mind of this superstitious belief. It is curious to note that the old corpse candle should find an abiding place in the reailyway station.
+The belief in the appearance of the corpse candle in Wales has not yet died out. Having occasion to visit this part of Wales, which, by the way, is in many particulars one of the most interesting spots in Caermarthenshire, I found a valuable "subject" for folklore study – one who cannot speak half-a-dozen words of English. My informant is an aged widow lady. I asked her today if she had ever seen the corpse candle, and she positively assured me that she saw it on the night her husband died, and, further, that at the railway station at this place there is to be seen sometimes, late at night, after every one has left, a candle burning in the office, which is a portent of some evil. With all the persuasive powers at my command, I entirely failed in disabusing her mind of this superstitious belief. It is curious to note that the old corpse candle should find an abiding place in the railway station.
 
 J. JEREMIAH
 
@@ -258,7 +258,7 @@ p48
 
 Bread and Salt.
 
-Some years since I call for the first time upon Canon Percy, of Carlisle, at his residence there. When refreshment had been offered and declined, he said, "You must have some bread and salt," with some remarks to imply that it was the way to establish a friendship. These were then brought in and eaten, without anything to lead one to suppose that this was an unusual custom at the house. Was this a practic peculiar to himself or to his family? or is such custom prevalent in the North, or in any other part of England? I have not met with it else-where.
+Some years since I call for the first time upon Canon Percy, of Carlisle, at his residence there. When refreshment had been offered and declined, he said, "You must have some bread and salt," with some remarks to imply that it was the way to establish a friendship. These were then brought in and eaten, without anything to lead one to suppose that this was an unusual custom at the house. Was this a practice peculiar to himself or to his family? or is such custom prevalent in the North, or in any other part of England? I have not met with it else-where.
 
 Ed. Marshall, F.S.A
 
@@ -275,7 +275,7 @@ p146
 
 Old Yorkshire Customs,—
 
-A few days ago I received a letter from a friend, who holds the office of coroner in the North Riding, which is worth quoting. He says: "I held an inquest the other day at —— on a man who hanged himself; on the breast of the corpse was a plate of salt— a thing rarely seen now. The object is to scare away evil spirits." Brand mentions the custom as being common in his day in Northumberland, and gives a quotation from Moresin’s *Depravatae Religionis Origo*, 1594, "Salem abhorrere constat Diabolum," &c., which bears out my correspondent's statement as to the motive with which the act was done in this case. Such a survival, in the nineteenth century, of an old custom is curious and deserves placing on record in "N. & Q."
+A few days ago I received a letter from a friend, who holds the office of coroner in the North Riding, which is worth quoting. He says: "I held an inquest the other day at —— on a man who hanged himself; on the breast of the corpse was a plate of salt— a thing rarely seen now. The object is to scare away evil spirits." Brand mentions the custom as being common in his day in Northumberland, and gives a quotation from Moresin's *Depravatae Religionis Origo*, 1594, "Salem abhorrere constat Diabolum," &c., which bears out my correspondent's statement as to the motive with which the act was done in this case. Such a survival, in the nineteenth century, of an old custom is curious and deserves placing on record in "N. & Q."
 
 John H. Chapman, F.S.A. Lincoln's Inn.
 
@@ -333,7 +333,7 @@ Publication date 1883-04-28
 
 p334
 
-Welsh Folk-Lore: the Sin-Eater (6th S., vii. 25).— I have just stumbled on the following passage in Leland’s *Collectanea*, vol.i. p. lxxvi (ed. 1774), *à propos* of this matter :—
+Welsh Folk-Lore: the Sin-Eater (6th S., vii. 25).— I have just stumbled on the following passage in Leland's *Collectanea*, vol.i. p. lxxvi (ed. 1774), *à propos* of this matter :—
 
 "Within the memories of our fathers in Shropshire in thore villages adjoyning Wales, when a Person dyed, there was notice given to an old Sire (for so they call'd him) who presently repair'd to the place where the deceased lay and stood before the Door of the House, when some of the Family came out and furnished him with a Cricket on which he sat facing the Door. Then they gave him a Groat which he put in his Pocket, a Crust of Bread which he eat, and a full Bowle of Ale which he drank off at a draught. After this he got up from the Cricket and pronounced with a composed gesture, 'The ease and rest of the Soul departed, for which he would pawn his own Soul.' This I had from the ingenious John Aubrey, Esq.; who made a collection of curious Observations, which I have seen, and is now remaining in the Hands of Mr. Churchill the Bookseller."
 
@@ -347,11 +347,9 @@ Notes and Queries  1883-09-29: Vol 8 Iss 196
 Publication date 1883-09-29
 p255
 
-Welsh Foik-Lore: the Sin-Eater (6th S., vii. 25, 334).—See Hone’s *Year Book*, col. 858, where the passage from Leland’s *Collectanea* quoted by W. B. N. is given as forming part of a letter from John Bagford, dated 1715; and where the reader is also referred to the Lansdowne MSS. in the British Museum for statements concerning sin-eating in Aubrey's own handwriting. The subject was briefly discussed in "N. & Q.," 1st S. iv. 211, a correspondent being referred by the editor to Ellis's edition of Brand's *Popular Antiquities*, vol. ii. p. 155, for information under this head. The custom has, I suspect, been passed over intentionally by the Rev. Peter Roberts in his Cambrian Popular Antiquities, 8vo, 1815; but an aquatint illustration at p. 177 of that work presents us with the ceremony of dispensing food and drink over the coffin to a man who, receives ate kneeling upon one knee. Pennant says that
+Welsh Foik-Lore: the Sin-Eater (6th S., vii. 25, 334).—See Hone's *Year Book*, col. 858, where the passage from Leland's *Collectanea* quoted by W. B. N. is given as forming part of a letter from John Bagford, dated 1715; and where the reader is also referred to the Lansdowne MSS. in the British Museum for statements concerning sin-eating in Aubrey's own handwriting. The subject was briefly discussed in "N. & Q.," 1st S. iv. 211, a correspondent being referred by the editor to Ellis's edition of Brand's *Popular Antiquities*, vol. ii. p. 155, for information under this head. The custom has, I suspect, been passed over intentionally by the Rev. Peter Roberts in his Cambrian Popular Antiquities, 8vo, 1815; but an aquatint illustration at p. 177 of that work presents us with the ceremony of dispensing food and drink over the coffin to a man who, receives ate kneeling upon one knee. Pennant says that
 
-"it was customary when the corpse was brought out of the house and laid upon the bier for the next-of-kin, be it widow, mother, sister, or daughter (for it must be a female), to give, over the coffin, a quantity of white loaves in a great dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After
-that they presented in the same manner a coup of drink, and required the person to drink a little of it imme-
-diately."
+"it was customary when the corpse was brought out of the house and laid upon the bier for the next-of-kin, be it widow, mother, sister, or daughter (for it must be a female), to give, over the coffin, a quantity of white loaves in a great dish, and sometimes a cheese with a piece of money stuck in it, to certain poor persons. After that they presented in the same manner a coup of drink, and required the person to drink a little of it immediately."
 
 This seems to indicate a form of "sin-eating."
 
@@ -413,7 +411,7 @@ The important statement as affecting South Wales is Mr. Moggridge's, made at the
 
 After describing the custom Mr. Moggridge said that—
 
-"in Carmarthenshire, not far from Llandebie, there was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the practice was said to have pre-vailed to a recent period...... He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred a few yeara ago, but he believed it was extinct now."
+"in Carmarthenshire, not far from Llandebie, there was a mountain valley, where, up to the commencement of the present century, the people were of a very lawless character. There the practice was said to have pre-vailed to a recent period...... He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred a few years ago, but he believed it was extinct now."
 
 Mr. E. A. Freeman inquired whether "sin-eater was the term used in the district where the custom prevailed?" Mr. Moggridge "answered in the affirmative."
 
@@ -444,7 +442,7 @@ I may add that the opening of the "lawless" valley mentioned lies between the tw
 At any rate, that is the only explanation I can suggest of the Cambrian Archaeologists' amusing "comedy of errors." Mr, Sidney Hartland must search somewhere else than in Lilandebie and Cwmamman for evidence in support of his "cannibal" theory. J. P. Owen.
 48, Comeragh Road, West Kensington.
 
-P.S.—Perhaps I may be allowed to add that the above was sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland’s first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895.
+P.S.—Perhaps I may be allowed to add that the above was sent for publication to 'N. & Q.' before the appearance of Mr. Sidney Hartland's first letter in the Academy (Nov., 1895), and that that gentleman had it before him, in the form of a letter from me to Prof. Rhys, in October, 1895.
 
 +++
 
@@ -454,11 +452,11 @@ In most cases where transference of moral or vital powers is supposed to take pl
 
 +++
 
-The ceremony of sin-eating as it was formerly practised in Scotland is described at p. 60 of Mr. Phiselton Dyer’s 'Domestic Folk-lore.' If my memory serves me, there is a good deal of information on this subject in 'The Golden Bough,' by Mr. Frazer. C. C. B.
+The ceremony of sin-eating as it was formerly practised in Scotland is described at p. 60 of Mr. Phiselton Dyer's 'Domestic Folk-lore.' If my memory serves me, there is a good deal of information on this subject in 'The Golden Bough,' by Mr. Frazer. C. C. B.
 
 +++
 
-Mr. Elton, in 'Origins of English History,' 1882, pp. 181, 182, has some interesting observations on sin-eating. He says, "The superstition certainly prevailed in Herefordshire, though it may be doubful whether it extended to the neighbouring parts of Wales." He quotes Aubrey's 'Remains of Gentilisme' (as every one writing on the subject does), and refers also to Sikes's 'British Goblins,' 325, and Hone's 'Year Book,' 858. A quotation from Mr. Wirt Sikes shows that the custom prevails in Turkestan. I doubt if the custom survives anywhere in Great Britain or Ireland. James Hooper. Norwich.
+Mr. Elton, in 'Origins of English History,' 1882, pp. 181, 182, has some interesting observations on sin-eating. He says, "The superstition certainly prevailed in Herefordshire, though it may be doubtful whether it extended to the neighbouring parts of Wales." He quotes Aubrey's 'Remains of Gentilisme' (as every one writing on the subject does), and refers also to Sikes's 'British Goblins,' 325, and Hone's 'Year Book,' 858. A quotation from Mr. Wirt Sikes shows that the custom prevails in Turkestan. I doubt if the custom survives anywhere in Great Britain or Ireland. James Hooper. Norwich.
 
 +++
 
@@ -499,7 +497,7 @@ Mr. Owen begins his remarks by saying that "there appeared in the *Times* of 18 
 
 Mr. Hartland quoted a passage from my 'Household Tales and Traditional Remains,' p. 124; and as this has a material bearing on the subject, I will repeat it here :—
 
-"When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man’s sins and bear them yourself."
+"When you drink wine at a funeral every drop that you drink is a sin which the deceased has committed. You thereby take away the dead man's sins and bear them yourself."
 
 I can produce the informant from whom this curious piece of folk-lore was obtained. It was offered to me without any questioning when I was collecting folk-lore some years ago, and it is undoubtedly genuine. It completes what Aubrey said about sin-eating; so that English folk-lore is acquainted not only with sin-eating but also with sin-drinking. It matters not whether such terms as "sin-eating" or "sin-drinking" can be proved to have existed in recent times. It is enough to show that the customs themselves existed; and of this we have ample evidence.
 
@@ -529,7 +527,7 @@ Pingeret dvépopayow (Fe-fi-fo-fum Auberiensem),
 
 furnish a lesson that will not, I hope, be thrown away on the guileless reader of the pronouncements of folk-lore "authorities."
 
-The only modern instance of so-called "sin-eating" adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Addy’s book. Aubrey and Pennant, Moggeridge and the Pembrokeshire minister were all found to be other than Mr. Hartland’s fancy painted them. I was unable to find a copy of Mr. Addy's work in the British Museum, but that gentleman's own communication to 'N. & Q.' induces me to ask him (1) if the term "sin-drinking" was employed by his informant; (2) if his informant was a Churchman or a Dissenter; and (3) if he can see his way to publish the name of the locality where the "ritual" described to and by him is practised.
+The only modern instance of so-called "sin-eating" adduced by Mr. Hartland in his letters that I did not attempt to deal with was the account taken from Mr. Addy's book. Aubrey and Pennant, Moggeridge and the Pembrokeshire minister were all found to be other than Mr. Hartland's fancy painted them. I was unable to find a copy of Mr. Addy's work in the British Museum, but that gentleman's own communication to 'N. & Q.' induces me to ask him (1) if the term "sin-drinking" was employed by his informant; (2) if his informant was a Churchman or a Dissenter; and (3) if he can see his way to publish the name of the locality where the "ritual" described to and by him is practised.
 
 It was only, I believe, through my public avowal of scepticism as to the "significance," from a sin-eating point of view, of the Pembrokeshire minister's remarks at the Market Drayton funeral that Mr. Hartland was induced to sift that tale. The result of his investigation was, if I may borrow Mr. Addy's expression, "effectual" enough. The Market Drayton evidence— "evidence," to quote Mr. Hartland's words in the *Academy* for 9 Nov., "such as could not be doubted" — had become two months later (*Academy*, 11.Jan.) an "incident about which there had been some misapprehension"; while the minister's words "would appear only to have had reference to the general custom of eating and drinking at funerals." I did not attempt to argue with Mr. Hartland. Indeed, there was no need, for the above is only a sample of the "effectual" way in which his own
 arguments destroyed either themselves or one another. J. P. Owen, 48, Comeragh Road, W.
@@ -601,7 +599,7 @@ p553
 
 4th S. II Dec. 12, '68
 
-Custom on All Souls' Day. —In two villages lying side by side in the line which marks off Staffordshire from Cheshire, and doubtless elsewhere, bands of children go from house to house, on the evening of All Souls' Day, begging for biscuits, nuts, apples, and the like—all of which they call "soul-cakes" or "sow-cakes" (pronounced "sowl-cake" or "sow"-cake”), in doggrel ballads such as these: —
+Custom on All Souls' Day. —In two villages lying side by side in the line which marks off Staffordshire from Cheshire, and doubtless elsewhere, bands of children go from house to house, on the evening of All Souls' Day, begging for biscuits, nuts, apples, and the like—all of which they call "soul-cakes" or "sow-cakes" (pronounced "sowl-cake" or "sow"-cake"), in doggrel ballads such as these: —
 
 (1.)  
 Step into your cellar—see what you can find:  
@@ -613,7 +611,7 @@ And we'll come no more ' a-souling' until this time next year."
 "One for Peter, one for Paul,  
 One for Him as made us all!  
 Up with your kettles, and down with your pans,  
-Give us a 'sou'-cake’ and we will begone.  
+Give us a 'sou'-cake' and we will begone.  
 
 (1) goes to a very pretty tune; (2) is in recitative.
 
@@ -637,7 +635,7 @@ GRIDDLE.
 
 *Griddle* is not gridiron, but is a circular plate of iron (or a broad and shallow pan) made on purpose for baking cakes. It is derived from |It is derived from Welsh *greidel*l*, from *greidiaw*, to heat or scorch. Gridiron is derived from Swedish-Gothic *grädda*, to bake and iron. The griddle-cake mentioned by your correspondent as being made on All-hallows Eve is, I suppose, the same as the soul-cake. ...
 
-At Ripon, in Yorkshire, the women make a cake on the Eve for every one in the family, and  it is called "cake-night." A soul-mass cake was often kept for good luck. Mr. Young, in his *History of Whitby*, says: "A lady in Whitby has a soul-mass loaf one hundred years old." Hunter, in his *Hallamshire Glossary*, says that the custom of making a peculiar kind of cake on this day is recognised in a deposition of the year 1574, given in Watson’s *History of the House of Warren* (i, 217), wherein the party deposes that his mother knew a certain castle of the Earl of Warren’s, having when a child, according to the custom of that country, gathered soul-cakes there on All Souls' Day.  
+At Ripon, in Yorkshire, the women make a cake on the Eve for every one in the family, and  it is called "cake-night." A soul-mass cake was often kept for good luck. Mr. Young, in his *History of Whitby*, says: "A lady in Whitby has a soul-mass loaf one hundred years old." Hunter, in his *Hallamshire Glossary*, says that the custom of making a peculiar kind of cake on this day is recognised in a deposition of the year 1574, given in Watson's *History of the House of Warren* (i, 217), wherein the party deposes that his mother knew a certain castle of the Earl of Warren's, having when a child, according to the custom of that country, gathered soul-cakes there on All Souls' Day.  
 John PIGGOTT, F.S.A.  
 Ulting Maldon.
 
@@ -653,7 +651,7 @@ Vol 10 Iss 256
 
 p409
 
-Hallow E’en at Oswestry.— 
+Hallow E'en at Oswestry.— 
 
 I don't think Brand, Hone, or Chambers says anything of a custom that still prevails on the borders of Wales on the eve of All Saints. Numerous parties of children go round the houses, singing at the doors songs, of which the following are popular samples :—
 
@@ -666,13 +664,13 @@ And three for the good man that made us all."
 What the first line means perhaps some en- lightened reader will say. In some cases the verse is followed with—
 
 "Go down in your cellar and fetch us some beer,  
-And we won’t come again until next year."
+And we won't come again until next year."
 
 And generally we hear a further application :—
 
 "The streets are very dirty,  
 My shoes are very thin;  
-I’ve got a little pocket To put a penny in."
+I've got a little pocket To put a penny in."
 
 In all cases the finale is—
 
@@ -710,7 +708,7 @@ Apple or a pear, plum or a cherry,
 Any good thing that would make us merry.
 
 Go down to your cellar, and draw some beer,  
-And we won’t come here till next year.
+And we won't come here till next year.
 
 Sol cakes, sol cakes,  
 I pray you good missis, a sol cake;  
@@ -728,7 +726,7 @@ I wish I had some here.
 
 The roads are very dirty,  
 My shoes are very thin,  
-I’ve got a little pocket,  
+I've got a little pocket,  
 To put a penny in.  
 Up with the kettle, and down with the pan,  
 Give us an answer, and we'll be gone."
@@ -773,7 +771,7 @@ Vol 4 Iss 81
 8th S. IV
 p49
 
-"Soul-caking." A few years ago when living in Cheshire, the youths used to dress up (some in women's clothes) and go to houses on All Saint's Day. It was called "soul-caking". Was this custom the survival of a religious play; or the asking of alms for masses for the dead, to be said on All Souls' Day’? Very little notice was taken of Nov. 5 in that part.
+"Soul-caking." A few years ago when living in Cheshire, the youths used to dress up (some in women's clothes) and go to houses on All Saint's Day. It was called "soul-caking". Was this custom the survival of a religious play; or the asking of alms for masses for the dead, to be said on All Souls' Day'? Very little notice was taken of Nov. 5 in that part.
 
 Wingeham. Kent.
 
@@ -793,7 +791,7 @@ p117
 
 *Soul-caking* (8th S. iv. 49).—Your correspondent will find much information about soul- cakes in Brand's 'Popular Antiquities,' art, "All- hallow Even" (ed. Bohn, i. 390, sqq.). This includes a note by Tollett :
 
-"That on All Saints’ Day, the poor people in Staffordshire...... go from parish to parish *a souling*, as they call it, i.e., begging and puling (or singing small, as Bailey's 'Dictionary' explains puling) for *soul cakes*, or any good thing to make them merry. This custom is mentioned by Peck, and seems a remnant of Popish superstition to pray for departed souls, particularly those of friends."
+"That on All Saints' Day, the poor people in Staffordshire...... go from parish to parish *a souling*, as they call it, i.e., begging and puling (or singing small, as Bailey's 'Dictionary' explains puling) for *soul cakes*, or any good thing to make them merry. This custom is mentioned by Peck, and seems a remnant of Popish superstition to pray for departed souls, particularly those of friends."
 
 It is added by the editor :—
 
@@ -806,7 +804,7 @@ F. ADAMS.
 For soul-cakes in Chester in the year 1878 see 'N. & Q.,' 5th S. x. 426. Consult also 'A Garland for the Year,' by John Timbs, p. 115; Brand's 'Popular Antiquities,' vol. i. p. 217 (notes to "All-hallow Eve"); and 'Clavis Calendaria,' vol. ii. p. 229.  
 Everard Home Coleman. 71, Brecknock Road
 
-In Austria "Halloween cakes" are still eaten on November 1; but to my knowledge there is no special custom in connexion with them. A specimen may no doubt be procured in London at either the Vienna Café in New Oxford Street, or at an Austrian confectioner’s shop towards the Shepherd's Bush end of High Street, Notting Hill. The name of the cake is "Heiligen Stritz'l."  
+In Austria "Halloween cakes" are still eaten on November 1; but to my knowledge there is no special custom in connexion with them. A specimen may no doubt be procured in London at either the Vienna Café in New Oxford Street, or at an Austrian confectioner's shop towards the Shepherd's Bush end of High Street, Notting Hill. The name of the cake is "Heiligen Stritz'l."  
 L. L. K.
 
 tag: soul-cake

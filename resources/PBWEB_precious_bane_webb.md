@@ -62,7 +62,7 @@ And Mother cried out —
 
 Now it was still the custom at that time, in our part of the country, to give a fee to some poor man after a death, and then he would take bread and wine handed to him across the coffin, and eat and drink, saying —
 
-*I give easement and rest now to thee, dear man, that ye walk not over the the fields nor down the by-ways. And for thy peace I pawn my own soul.*
+*I give easement and rest now to thee, dear man, that ye walk not over the fields nor down the by-ways. And for thy peace I pawn my own soul.*
 
 And with a calm and grievous look he would go to his own place. Mostly, my Grandad used to say, Sin Eaters were such as had been Wise Men or layers of spirits, and had fallen on evil days. Or they were poor folk that had come, through some dark deed, out of the kindly life of men, and with whom none would trade, whose only food might oftentimes be the bread and wine that had crossed the coffin. In our time there were none left around Sarn. They had nearly died out, and they had to be sent for to the mountains. It was a long way to send, and they asked a big price, instead of doing it for nothing as in the old days. So Gideon said —
 

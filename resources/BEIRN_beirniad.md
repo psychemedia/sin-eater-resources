@@ -11,25 +11,25 @@ A man once told Twm o'rNant, "You Thom Edwards gets a lot of money for making wi
 in the case of the former Bali Sion Aubrey, who was accused of removing poles 9 gates and gates, for his own use. A crowd gathered together one day, whether guilty or not guilty; WILLIAM REES the weaver there was a poet, and witness to the cause of Pali, the true boy, though he was a boy at that time; he is resilient. He said that aroundPali: -
 "€ I heard someone speak, Pali pulls a pole
 From the gate I was taken with thorns,
-In the grind of the mill. ”
+In the grind of the mill. "
 Arguments were raised in court by Pali voters, because g8P heard someone. did William, that there must be proof; then the house arose
 
 "I'll experience the Pali fifteenth
 Through the zones mixing hedgerows,
 And that there is no worse in the world
-To drag you to cremation. ”
+To drag you to cremation. "
 he turned the sentence against Pali, and he went home and begged that no more Urology would be hoped for, committing himself to the roads
 She never was anymore.
 when the word went afar off, the old inhabitants of Cwmamman were people: scared, terrible, and shameful thieves, but the old ground has no basis
 the allegation: its beginning was that Sion Holi, the beggar, got us happy, because they didn't give it all to him, and he spurned it
 ; "Cwmaman knows man one, The devil and your pity each,
 And if you do not repent,
-It will come after you both. ”
+It will come after you both. "
 We are glad to hear the Rev. J. Davies, Congregational Presbyterian minister in Cwmaman, when in his envy he was called there at a time of heated reformation, commemorating the old verse
 odd, and shouting another way, like this: -
 "* Cwmaman knows tier one,
 You woke up all by yourself,
-You have turned, and turned bright, May God be glad, I rejoice. ”
+You have turned, and turned bright, May God be glad, I rejoice. "
 
 ae the Rev. J. Davies was very brilliant, considering that Mlan came from the middle of a torrent of expressions that would flow out of his mouth while
 Proceed at the time. nrhenDoMoso'nBnyu, too, would consider the excellent timing of a chant on an excellent leash. He would sometimes propose to the measures, so that we may see the following englynion of his work. Dichon

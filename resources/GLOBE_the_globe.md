@@ -8,6 +8,6 @@ Art, Literature and Music
 
 ...
 
-A "Folk-lore Society” has just been formed for the purpose of preserving the relics of our popular fictions and traditions, legendary ballads, local proverbial sayings, superstitions, and old customs. Mr. Thoms has consented to act as director of the society.
+A "Folk-lore Society" has just been formed for the purpose of preserving the relics of our popular fictions and traditions, legendary ballads, local proverbial sayings, superstitions, and old customs. Mr. Thoms has consented to act as director of the society.
 
 ...

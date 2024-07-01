@@ -36,13 +36,13 @@ As Silvan Evans might have asked, *what gentleman?*
 
 If we place the sentence back into its original context, where the preceding lines refer to the tradition according to Aubrey, we might interpret the line *"[a] gentleman who lived a little before the time of this dark superstition becoming obsolete (the earlier part of the last century) gives us this brief account"* as moving us from the "historical" context and into the fictional world of Downes' imagination.
 
-> "'I got lost,' says he, 'near nightfall, after being landed by the ferry-boat from the Aber of Dovey on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was cautioned to ride far’ round this pitchy bog, for no horse ever ventured among the peat pits, the whole being a quaking morass. In truth, its look was enough, under a black evening, to keep me off, even without peril of being swallowed, man and horse.
+> "'I got lost,' says he, 'near nightfall, after being landed by the ferry-boat from the Aber of Dovey on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was cautioned to ride far' round this pitchy bog, for no horse ever ventured among the peat pits, the whole being a quaking morass. In truth, its look was enough, under a black evening, to keep me off, even without peril of being swallowed, man and horse.
 >
-> "'At last, thanks to my stars, the good hard rock of a rough road rung to my horse’s hoof, and I saw a cottage taper, as ghastly as the Canwyll Corph, at a distance.
+> "'At last, thanks to my stars, the good hard rock of a rough road rung to my horse's hoof, and I saw a cottage taper, as ghastly as the Canwyll Corph, at a distance.
 >
 > "'The house was on a high point and turn of road, overlooking all those many acres of hollow ground.
 >
-> "'Just as I came up, hoping lodging, I heard sounds of wailing within, and soon, a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay a corpse of a man, with a plate of salt holding a bit of bread placed on its breast. The woman was shouting to the Sin-Eater to come and do his office— that is, to eat the bread, lay his hand on the dead breast, place the dead man’s on his own, after making a sign of the cross, and then praying for a transfer of all pains or penances from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and ever.'
+> "'Just as I came up, hoping lodging, I heard sounds of wailing within, and soon, a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay a corpse of a man, with a plate of salt holding a bit of bread placed on its breast. The woman was shouting to the Sin-Eater to come and do his office— that is, to eat the bread, lay his hand on the dead breast, place the dead man's on his own, after making a sign of the cross, and then praying for a transfer of all pains or penances from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and ever.'
 
 Again, the story appears to claim an "authentic" source, the traveller, although he remains otherwise unidentified:
 
@@ -50,7 +50,7 @@ Again, the story appears to claim an "authentic" source, the traveller, although
 
 The account continues:
 
-> He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing-point. After waiting long, he caught a far-out shout in reply to the woman's long unanswered, till she kindled, on the high road’s point, the straw of her husband’s late bed—the usual signal of a death in the house.
+> He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing-point. After waiting long, he caught a far-out shout in reply to the woman's long unanswered, till she kindled, on the high road's point, the straw of her husband's late bed—the usual signal of a death in the house.
 
 And then we have the reference to the sin-eater:
 
@@ -78,7 +78,7 @@ In the following issue of the *Academy*, [Vol 9 Iss 200, dated March 4th, 1876](
 
 The gentleman of Oswestry, who we are probably not surprised to learn is Mr. Askew Roberts, then associates that quotation with on from Aubrey that appeared earlier in the debate, and suggests that all Downes' does is reimagine it in his own way:
 
-> If your readers will refer to Mr. Fitzgerald's letter on November 20, 1875, they will see that the "poor raskals" are identical; and Mr. Downes, the author of the Mountain Decameron (who dates his book "Builth, Breconshire, April, 1836"), does not profess to do more than pen a fancy sketch on Aubrey’s text, laying his scene in Cardiganshire.
+> If your readers will refer to Mr. Fitzgerald's letter on November 20, 1875, they will see that the "poor raskals" are identical; and Mr. Downes, the author of the Mountain Decameron (who dates his book "Builth, Breconshire, April, 1836"), does not profess to do more than pen a fancy sketch on Aubrey's text, laying his scene in Cardiganshire.
 
 He signs off with a nod to Silvan Evans' and his apparently fruitless quest to track down evidence of a Welsh sin-eater:
 
@@ -126,7 +126,7 @@ In an obituary for the Rev. James Davies, M.A., Prebendary of Hereford, appearin
 >
 > In our paper of Mar. 14 we briefly announced the death of this gentleman. In the Hereford Times of Mar. 17 there was the following somewhat extended notice: —
 >
-> We regret to announce the death of the Rev. James Davies, M.A., Prebendary of Hereford, at his residence, Moorcourt, near Kington, on Sunday last, in his 63rd year. Mr Davies was the second son of Mr Richard Banks of Kington, and was educated at Repton School and Lincoln College, Oxford, being a scholar on this foundation. He obtained a 3rd class "in Literis Humanioribus" in 1844, and subsequently proceeded to his B A. and M.A. degrees. He was ordained deacon in 1845 and priest in 1846 by the Bishop of Gloucester and Bristol, and held the perpetual curacy of Christ Church, Forest of Dean, from 1847 to 1852. He was headmaster of King Edward's school, Ludiow, from 1852 to 1857; in the following year he succeeded his uncle at Moorcourt, when he assumed the surname of Davies by royal licence. He was a magistrate for the counties of Hereford and Radnor, and in 1875 he was appointed to the Prebendal Stall of Moreton et Whaddon in Hereford Cathedral. He took an active interest in county and diocesan business; amongst other things, the Church Building Society, diocesan inspection of schools, the Joint Counties Lunatic Asylum, the Woolhope Club, and all local questions in and around Kington. For 21 years he regularly served a chapel of ease to the parish of Pembridge, erected by him at Moor Court. In a still wider circle he will be remem-bered in the literary world as the author of several classical works, and as a constant contributor to periodical literature, notably in the "Quarterly," "Contemporary," and "Saturday Reviews," "Blackwood's Magazine," &c. In the neighbourhood of his home, where he was held in high esteem by all, the deceased gentleman’s death has occasioned deep sorrow; and it is certain that a keen sense of grief will be felt throughout the large area in which he was so well known and so much respected.
+> We regret to announce the death of the Rev. James Davies, M.A., Prebendary of Hereford, at his residence, Moorcourt, near Kington, on Sunday last, in his 63rd year. Mr Davies was the second son of Mr Richard Banks of Kington, and was educated at Repton School and Lincoln College, Oxford, being a scholar on this foundation. He obtained a 3rd class "in Literis Humanioribus" in 1844, and subsequently proceeded to his B A. and M.A. degrees. He was ordained deacon in 1845 and priest in 1846 by the Bishop of Gloucester and Bristol, and held the perpetual curacy of Christ Church, Forest of Dean, from 1847 to 1852. He was headmaster of King Edward's school, Ludiow, from 1852 to 1857; in the following year he succeeded his uncle at Moorcourt, when he assumed the surname of Davies by royal licence. He was a magistrate for the counties of Hereford and Radnor, and in 1875 he was appointed to the Prebendal Stall of Moreton et Whaddon in Hereford Cathedral. He took an active interest in county and diocesan business; amongst other things, the Church Building Society, diocesan inspection of schools, the Joint Counties Lunatic Asylum, the Woolhope Club, and all local questions in and around Kington. For 21 years he regularly served a chapel of ease to the parish of Pembridge, erected by him at Moor Court. In a still wider circle he will be remem-bered in the literary world as the author of several classical works, and as a constant contributor to periodical literature, notably in the "Quarterly," "Contemporary," and "Saturday Reviews," "Blackwood's Magazine," &c. In the neighbourhood of his home, where he was held in high esteem by all, the deceased gentleman's death has occasioned deep sorrow; and it is certain that a keen sense of grief will be felt throughout the large area in which he was so well known and so much respected.
 >
 > The papers contributed by the deceased gentleman to the periodicals named were largely topographical. Thus in the *Saturday Review* he published one on the Upper Wye, in 1872; on Montgomeryshire, in 1874; and on The Breiddeu Hills, in 1881. The last has an interesting history for some of our readers. Mr. Davies was on a visit to Mr. Morris Jones at Gungrog, and during the visit his host invited a small party to accompany his guest for a walk over the Breidden range; an invitation we have never ceased to regret being unable to accept. The trip, as Mr. Davies put it in his subsequent paper, was "an endeavour at determining the locality of the last battle of the Silurian hero Caractacus, with his Roman Conqueror Ostorius;" and the paper was afterwards rewritten for the *Montgomeryshire Collections* of the Powys-Land Club.
 >
@@ -151,7 +151,7 @@ The *March "note" anent the Carmarthenshire superstition of "the Sin Eater"* is 
 
 ```
 
-The article finally appeared in the the [May edition, Vol III, Jan-Jun 1883](https://archive.org/details/reddragonnation00wilkgoog/page/450/mode/2up?q=sin+eater), p450-4, authored by Askew Roberts. It opens with the suggestion that there are two things most Englishmen know about the Welsh:
+The article finally appeared in the [May edition, Vol III, Jan-Jun 1883](https://archive.org/details/reddragonnation00wilkgoog/page/450/mode/2up?q=sin+eater), p450-4, authored by Askew Roberts. It opens with the suggestion that there are two things most Englishmen know about the Welsh:
 
 > THE SIN EATER.
 >
@@ -222,7 +222,7 @@ In the [May 22nd, 1883](https://newspapers.library.wales/view/4481726/4481729/31
 
 > AN EXTRAORDINARY OLD WELSH SUPERSTITION.
 >
-> In one of the literary and art notes of the *Red Dragon* for March reference was made to an extraordinary old Welsh custom, said by the Rev. Paxton Hood in his book on "Christmas Evans," to bo observed even now in tho secluded Vale of Cwmaman, in Carmarthenshire. In the May issue of the magazine Mr. Askew Roberts, the editor of the *Oswestry Advertiser*, an accomplished antiquarian, has an admirable paper on the subject, we take tho liberty of reproducing. It has been appropriately entitled, The Sin Eater. `[The complete article was then reprinted.]`
+> In one of the literary and art notes of the *Red Dragon* for March reference was made to an extraordinary old Welsh custom, said by the Rev. Paxton Hood in his book on "Christmas Evans," to be observed even now in tho secluded Vale of Cwmaman, in Carmarthenshire. In the May issue of the magazine Mr. Askew Roberts, the editor of the *Oswestry Advertiser*, an accomplished antiquarian, has an admirable paper on the subject, we take tho liberty of reproducing. It has been appropriately entitled, The Sin Eater. `[The complete article was then reprinted.]`
 
 ```{index} triple:  Roberts, Askew; Red Dragon; sin-eater review
 :name: RDDGN:sineaterreview:1883-III-6

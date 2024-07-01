@@ -6,7 +6,9 @@ Rhyl Journal
 5th January 1901
 p8
 
-Folklorists declare that the descendants of the Silurians possess some of the strangest reminders of primitive worship. These are to be found on the borders of Wales. Even as late as two hun- dred years ago the people of i I eref ordshire hirtd poor people as sin-eaters, who were to take upon ibem the sins of deceased persons. When the corpse was taken oat of the house and laid upon the bier a loaf of bread was brought out and de- livered to the sin-eater over the corpse, as also a Mazird-bowl of maple wood full of beer, which he was to drink up, and sixpence in money," in con- sideration whereof he took upon him ipso facto all the sins of the defunct and freed him or her from walking after they were dead." One who remem- bered a in-eater describes him as "a long,le«n,ug!y, (lamentable, poor rascal." No wonder, considering bis diet.
+TO DO
+
+Folklorists declare that the descendants of the Silurians possess some of the strangest reminders of primitive worship. These are to be found on the borders of Wales. Even as late as two hun- dred years ago the people of Herefordshire hirtd poor people as sin-eaters, who were to take upon ibem the sins of deceased persons. When the corpse was taken oat of the house and laid upon the bier a loaf of bread was brought out and delivered to the sin-eater over the corpse, as also a Mazird-bowl of maple wood full of beer, which he was to drink up, and sixpence in money," in con- sideration whereof he took upon him ipso facto all the sins of the defunct and freed him or her from walking after they were dead." One who remem- bered a in-eater describes him as "a long,le«n,ug!y, (lamentable, poor rascal." No wonder, considering bis diet.
 
 ---
 

@@ -34,11 +34,11 @@ Letter to the Editor, *The Times*, N. W. Thomas, Oswestry, Wednesday, September 
 
 Since he appears to be familiar with Hartland's peice in *Folklore*, he assumes that material provides the evidence for Harltand's claims made at the British Association meeting:
 
-> If, as I imagine, Mr. Hartland's evidence for this survival is presented to us in his article on the subject in Folklore for June, 1892, I venture to think it is wholly insufficiant. Mr. Hartland's words are (p. 148), " Mr. Moggridge specified the neighbourhood of Llandebie. . . as a place where the custom had survived to within a recent period." These words are a paraphrase from the report of the Archaeologia Cambrensis, Vol. III., N.S., p. 330. The exact words used by Mr. Moggridge are as follows :-' There (near Llandebie) the above practice (of the sin-eater) was said to have prevailed to a recent period. "
+> If, as I imagine, Mr. Hartland's evidence for this survival is presented to us in his article on the subject in Folklore for June, 1892, I venture to think it is wholly insufficiant. Mr. Hartland's words are (p. 148), "Mr. Moggridge specified the neighbourhood of Llandebie. . . as a place where the custom had survived to within a recent period." These words are a paraphrase from the report of the Archaeologia Cambrensis, Vol. III., N.S., p. 330. The exact words used by Mr. Moggridge are as follows :-' There (near Llandebie) the above practice (of the sin-eater) was said to have prevailed to a recent period. "
 
 And with this evidence, he takes issue:
 
-> This evidence is originally at best second hand; it is unfortunate that Mr. Hartland has emphasized its value; in the article in Folklore, Mr. Moggridge's evidence has the appearance of beiug the result of personal observation. Thuw at the outset Mr. Hartland's evidence is weakened.
+> This evidence is originally at best second hand; it is unfortunate that Mr. Hartland has emphasized its value; in the article in Folklore, Mr. Moggridge's evidence has the appearance of being the result of personal observation. Thus at the outset Mr. Hartland's evidence is weakened.
 
 To aid the reader, Thomas points to the evidence previously amassed against the claimed tradition in the course of the first controversy:
 
@@ -60,7 +60,7 @@ We then have a phrase very evocative of our own times — "false news" — lamen
 
 ```{index} single: False news
 ```
-> If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the " sin-eater " in modern times, stamped originally with the imprimatur of the Cambrian Archaeological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.,I am, &c.,
+> If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the "sin-eater" in modern times, stamped originally with the imprimatur of the Cambrian Archaeological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.,I am, &c.,
 >
 > N. W. THOMAS., Oswestry.
 
@@ -85,7 +85,7 @@ The following day, in the *Times* of Friday, September 20th, 1895, p7, one reade
 ```
 > SMOKING IN CHURCH.
 >
-> Mr. Elton B. Ede writes to us from Edenhurst, Heene, Worthing :- "Though the sin-eater in Wales may not have existed, the mention of him recalls an old practice -viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. "The Communion-table stood in the aisle, and the farmers were in the habit of putting their hats upon it, and when the sermon began they lit their pipes and smoked, but without any idea of irreverance. I have not seen this practice mentioned in any book, and though it is not desirable that it abould be revived, it seems a pity that it should be forgotten."
+> Mr. Elton B. Ede writes to us from Edenhurst, Heene, Worthing :- "Though the sin-eater in Wales may not have existed, the mention of him recalls an old practice -viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. "The Communion-table stood in the aisle, and the farmers were in the habit of putting their hats upon it, and when the sermon began they lit their pipes and smoked, but without any idea of irreverance. I have not seen this practice mentioned in any book, and though it is not desirable that it should be revived, it seems a pity that it should be forgotten."
 
 The same letter that also reprinted directly in the [*Western Mail*, p5](https://newspapers.library.wales/view/4333187/4333192/55/) and [*Evening Express*, p2,](https://newspapers.library.wales/view/3256094/3256096/38/), September 21st, 1895, the [*Carnarvon and Denbigh Herald and North and South Wales Independent*, September 27th, p5](https://newspapers.library.wales/view/3602607/3602612/37/) and [*The North Wales Express*, October 4th, 1895, p8](https://newspapers.library.wales/view/3565788/3565796/67/).
 
@@ -150,7 +150,7 @@ Letter to the Editor, *The Times*, Z., Tuesday, September 24th, 1895
 >
 > On page 232 of vol. 3 there is the following heading - "The Last Sin-Eater of Wales, a Sketch," &c.
 >
-> The chapter that follows is most interesting and minute, and seemns to be a literal transcript of fact. It is not strange, however, that the oldest inhabitant now living should not have heard of "the sin-eater," since Joseph Downe, writing in 1836, himself says in the sentence introductory to his sketch, "So late an the earlier part of the last century that strange character of a stranger superstition known by the name of 'the sin-eater' was not unknown in Wales."
+> The chapter that follows is most interesting and minute, and seems to be a literal transcript of fact. It is not strange, however, that the oldest inhabitant now living should not have heard of "the sin-eater," since Joseph Downe, writing in 1836, himself says in the sentence introductory to his sketch, "So late an the earlier part of the last century that strange character of a stranger superstition known by the name of 'the sin-eater' was not unknown in Wales."
 >
 > What follows is an account in quotation marks of "what is believed to be the last sin-eater in Wales," taken apparently from the printed work of some traveller whom Downes does not name. It is too long for quotation, but should be read by any one interested in the subject, as details of place and incident are so vivid that the traveller's experience can scarcely be doubted. I am, Sir, yours obediently,
 >
@@ -208,7 +208,7 @@ Gwynfardd Dyfed also cites *Cymru Fu*, the Welsh version of *Notes & Queries, wh
 
 He also contributes personal experience:
 
-> I have talked to several old Pembrokeshire folk about the practice, but they appear to know nothing of such a custom; they, however, tell me that the plate of salt is still used in a great many eases. This, too, has come within my own personal experience. It is a pewter plate that is mostly used, if one such can be got. One old lady, now deceased, used to keep a pewter plate which she was in the habit of lending out for the purpose. It was also customary in the same county to place coins upon the eyelids of oorpses to keep their eyes closed. Are the coins and the plate of salt all mere relies of the sin-eating custom, or does their use possess any real efficacy? This important question is one which the medical man could assist the antiquary by answering."
+> I have talked to several old Pembrokeshire folk about the practice, but they appear to know nothing of such a custom; they, however, tell me that the plate of salt is still used in a great many eases. This, too, has come within my own personal experience. It is a pewter plate that is mostly used, if one such can be got. One old lady, now deceased, used to keep a pewter plate which she was in the habit of lending out for the purpose. It was also customary in the same county to place coins upon the eyelids of corpses to keep their eyes closed. Are the coins and the plate of salt all mere relies of the sin-eating custom, or does their use possess any real efficacy? This important question is one which the medical man could assist the antiquary by answering."
 
 ```{index} triple: Second Controversy; correspondence, Times; Hartland, Edwin Sidney
 ```
@@ -250,11 +250,11 @@ Or maybe he didn't...
 
 Pennant is then evoked as another source:
 
-> A century later Pennant describes the same custom ("Tours in Wales," ed. 1783, Vol. III., page 150). Pennant was born and lived in Wales; and we must suppoose that he is describing what he was perfectly familiar with by the reports of his neighbours and friends, if he had not himself witnessed it.
+> A century later Pennant describes the same custom ("Tours in Wales," ed. 1783, Vol. III., page 150). Pennant was born and lived in Wales; and we must suppose that he is describing what he was perfectly familiar with by the reports of his neighbours and friends, if he had not himself witnessed it.
 
 Hartland is also able to draw on *contemporary* evidence that turned up in the pages of *Folklore* following the publication of his paper there in 1883:
 
-> Coming down, to a more recent date, Miss Gertrude Hope,writing in Folklore (Vol. IV., page 392), describes the same ceremony as performed at Market Drayton as lately as the 1st of July, 1893. The details were given to her by an eye-witness, and she significantly adds - " The minister, who had lately come from Pembrokeshire, remarked to my informant that he was sorry to see that pagan custom still observed. He had been able to put an end to it in the Pembrokeshire village where he had formerly been."
+> Coming down, to a more recent date, Miss Gertrude Hope,writing in Folklore (Vol. IV., page 392), describes the same ceremony as performed at Market Drayton as lately as the 1st of July, 1893. The details were given to her by an eye-witness, and she significantly adds - "The minister, who had lately come from Pembrokeshire, remarked to my informant that he was sorry to see that pagan custom still observed. He had been able to put an end to it in the Pembrokeshire village where he had formerly been."
 
 He also claims to know of other Shropshire examples, although does not describe them, before drawing on another recent publication for evidence of related traditions elsewhere in England:
 
@@ -276,7 +276,7 @@ Hartland then enumerates what he considers to be Mr Thomas' counter-claims:
 
 He is not convinced:
 
-> None of these denials can outweigh the positive statements already cited. The custom certainly existed entire in the 17th century at Llangors. Shorn of the ritual words, it maintained itself into the 18th century in North Wales, and down to a few years ago in Pembrokeshire. We may be sure it did not maintain itself ony in these places, especially having regard to the practices in Market Drayton and in Derbyshire.
+> None of these denials can outweigh the positive statements already cited. The custom certainly existed entire in the 17th century at Llangors. Shorn of the ritual words, it maintained itself into the 18th century in North Wales, and down to a few years ago in Pembrokeshire. We may be sure it did not maintain itself only in these places, especially having regard to the practices in Market Drayton and in Derbyshire.
 
 He also goes on the offensive, casting doubt on Silvan Evans' ability to reliably deny events at LLandebie that had occurred so many years previously:
 
@@ -288,7 +288,7 @@ He also casts aspersions on the methods that may have been used when gathering c
 
 And suggests that the people doing the investigating would undoubtedly have been lied to or deliberately misled:
 
-> In any case they are precisely the persons who would not be likely to discover the superstition, if it existed. The Rev. Elias Owen, Diocesan Inspector of Schools and one of the chief authorities on Welsh folklore, relates that once, being in a certain parish for the purpose of examining the school, he took the opportunity of asking the clergyman concerning the superstitions of the place, when he was met by the dignified repulse " Our people are not superstitious, I am glad to say." His inspection over, he asked the first class " Now, children, can you tell me of any place where there is a buggan (ghost or bogey) to be seen, or of any one who has seen one? " Instantly every hand was stretched out, and every child had a story to tell. The fact is the people hide their superstitions from all such representatives of modern culture as clergymen and schoolmasters; and it is by no means an uncommon experience that the existence of matters of the kind perfectly well known to the peasant is stoutly denied by that same peasant to the clergyman when he asks about them. The Roman Catholic priest, who has in the confessional a weapon much more powerful than the Anglican, is often baffled by his flock. The testimony of the Rev. C. F. Ryan, curate of Drangan, when before the magistrates on the Clonmel "witch-burning" case, is express, and is of the greatest weight on this point. The reason of the concealment comes out in his evidence. It is founded on the known hostility of such personages as the priest or the minister to the ancient superstitions.
+> In any case they are precisely the persons who would not be likely to discover the superstition, if it existed. The Rev. Elias Owen, Diocesan Inspector of Schools and one of the chief authorities on Welsh folklore, relates that once, being in a certain parish for the purpose of examining the school, he took the opportunity of asking the clergyman concerning the superstitions of the place, when he was met by the dignified repulse "Our people are not superstitious, I am glad to say." His inspection over, he asked the first class "Now, children, can you tell me of any place where there is a buggan (ghost or bogey) to be seen, or of any one who has seen one?" Instantly every hand was stretched out, and every child had a story to tell. The fact is the people hide their superstitions from all such representatives of modern culture as clergymen and schoolmasters; and it is by no means an uncommon experience that the existence of matters of the kind perfectly well known to the peasant is stoutly denied by that same peasant to the clergyman when he asks about them. The Roman Catholic priest, who has in the confessional a weapon much more powerful than the Anglican, is often baffled by his flock. The testimony of the Rev. C. F. Ryan, curate of Drangan, when before the magistrates on the Clonmel "witch-burning" case, is express, and is of the greatest weight on this point. The reason of the concealment comes out in his evidence. It is founded on the known hostility of such personages as the priest or the minister to the ancient superstitions.
 
 ```{index} triple: witch burning; Clonmel, Ireland; Cleary, Bridget
 ```
@@ -323,7 +323,7 @@ But just to be clear, Hartland is, of course, not a racist!
 
 Finally, Hartland explains any omissions in his account that draw on the *Mountain Decameron*, as referenced by that other letter of challenge to *The Times* penned by the pseudonymous *Z.*, as well as the correspondent Gwynfardd Dyfed writing to the Western Mail, taking the position that he hasn't seen it, cannot count on its validity, but whatever it claims, he is sure he can work it into his account:
 
-> I have written without reference to the account in The Mountain Decameron mentiuned by your correspondent "Z," because I have not seen that book. It is probably the nameless authority recently cited by a contributor to the Western Mail. If so,and if the account be authentic (as to which I can offer no opinion), the performance of the ceremony at night, as there described, would explain why the custom in some places eluded clerical notice.
+> I have written without reference to the account in The Mountain Decameron mentioned by your correspondent "Z," because I have not seen that book. It is probably the nameless authority recently cited by a contributor to the Western Mail. If so,and if the account be authentic (as to which I can offer no opinion), the performance of the ceremony at night, as there described, would explain why the custom in some places eluded clerical notice.
 
 And with that, he signs off:
 
@@ -338,7 +338,7 @@ Comment, *The Western Mail*, Tuesday, October 15th, 1895
 ```
 > THE SIN-EATER IN WALES
 >
-> A column of the "Times" of Monday occupied with a letter from Mr E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent, N. W. Thomas, who denied the existence of the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years and of the Rev. T. Eynon Davies in the "Christian World" of Febuary, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
+> A column of the "Times" of Monday occupied with a letter from Mr E. Sidney Hartland. Highgarth, Gloucester, on the subject of "The Sin-eater in Wales." The letter is written in answer to another correspondent, N. W. Thomas, who denied the existence of the sin-eater in Wales, basing his denial on the statements of Canon Silvan Evans in the "Academy" twenty years and of the Rev. T. Eynon Davies in the "Christian World" of February, 1882. Mr. Hartland claims that neither of these denials can outweigh the positive statements he cites in the earlier portion of his letter.
 
 In the *Aberystwith Observer* of [October 17th, 1895](https://newspapers.library.wales/view/3047421/3047423/4/), p2, you can almost see the editor's eyes rolling:
 
@@ -352,7 +352,7 @@ On the same day, in the *Western Mail*, on [page 3](https://newspapers.library.w
 >
 > Sir-
 >
-> A natural interest in the place of my birth prompts me to ask you to give the death-blow, once for all, to the absurd figment which I find reproduced in the "Western Mail" of this morning viz., that "the superstition of the 'sin-eater' lingered even till 1881 in the secluded Vale of Cwmamman, in Carmarthenshire." When the late Mr. Paxton Hood first gave currency to the report in his "Life of Christmas Evans", I, as well as others, asked some of the oldest reesidents of the place, whose memory reached back over 70 years, as to the truth of it, and they had never heard of the custom, which was said to prevail in their midst up to 1881. The late Dr. Rees, of Swansea, also naturally concerned that such a barbarous custom should be said to be practised by his countrymen towards the end of the nineteenth century, made the same inquiries, with the same result. I am not claiming for the secluded place of my birth an undue degree of enlightenment in asking you to "scotch " if it be hopeless to destroy entirely, the absurd idea which would place it on a level with the most heathenish villages of Central Africa. -I am, &c.
+> A natural interest in the place of my birth prompts me to ask you to give the death-blow, once for all, to the absurd figment which I find reproduced in the "Western Mail" of this morning viz., that "the superstition of the 'sin-eater' lingered even till 1881 in the secluded Vale of Cwmamman, in Carmarthenshire." When the late Mr. Paxton Hood first gave currency to the report in his "Life of Christmas Evans", I, as well as others, asked some of the oldest residents of the place, whose memory reached back over 70 years, as to the truth of it, and they had never heard of the custom, which was said to prevail in their midst up to 1881. The late Dr. Rees, of Swansea, also naturally concerned that such a barbarous custom should be said to be practised by his countrymen towards the end of the nineteenth century, made the same inquiries, with the same result. I am not claiming for the secluded place of my birth an undue degree of enlightenment in asking you to "scotch" if it be hopeless to destroy entirely, the absurd idea which would place it on a level with the most heathenish villages of Central Africa. -I am, &c.
 >
 > J. LL. THOMAS  
 > Vicar of Aberpergwm.
@@ -396,33 +396,33 @@ Quotations taken from Charles Dickens, [*The Pickwick Papers*, chapter 11, Guten
 ```{admonition} Chapter 11, he inscription discovered
 :class: dropdown
 
-It was at this moment that Mr. Pickwick made that immortal discovery, which has been the pride and boast of his friends, and the envy of every antiquarian in this or any other country. They had passed the door of their inn, and walked a little way down the village, before they recollected the precise spot in which it stood. As they turned back, Mr. Pickwick’s eye fell upon a small broken stone, partially buried in the ground, in front of a cottage door. He paused.
+It was at this moment that Mr. Pickwick made that immortal discovery, which has been the pride and boast of his friends, and the envy of every antiquarian in this or any other country. They had passed the door of their inn, and walked a little way down the village, before they recollected the precise spot in which it stood. As they turned back, Mr. Pickwick's eye fell upon a small broken stone, partially buried in the ground, in front of a cottage door. He paused.
 
-‘This is very strange,’ said Mr. Pickwick.
+‘This is very strange,' said Mr. Pickwick.
 
-‘What is strange?’ inquired Mr. Tupman, staring eagerly at every object near him, but the right one. ‘God bless me, what’s the matter?’
+‘What is strange?' inquired Mr. Tupman, staring eagerly at every object near him, but the right one. ‘God bless me, what's the matter?'
 
 This last was an ejaculation of irrepressible astonishment, occasioned by seeing Mr. Pickwick, in his enthusiasm for discovery, fall on his knees before the little stone, and commence wiping the dust off it with his pocket–handkerchief.
 
-‘There is an inscription here,’ said Mr. Pickwick.
+‘There is an inscription here,' said Mr. Pickwick.
 
-‘Is it possible?’ said Mr. Tupman.
+‘Is it possible?' said Mr. Tupman.
 
-‘I can discern,‘continued Mr. Pickwick, rubbing away with all his might, and gazing intently through his spectacles—‘I can discern a cross, and a 13, and then a T. This is important,’ continued Mr. Pickwick, starting up. ‘This is some very old inscription, existing perhaps long before the ancient alms–houses in this place. It must not be lost.’
+‘I can discern,‘continued Mr. Pickwick, rubbing away with all his might, and gazing intently through his spectacles—‘I can discern a cross, and a 13, and then a T. This is important,' continued Mr. Pickwick, starting up. ‘This is some very old inscription, existing perhaps long before the ancient alms–houses in this place. It must not be lost.'
 
 He tapped at the cottage door. A labouring man opened it.
 
-‘Do you know how this stone came here, my friend?’ inquired the benevolent Mr. Pickwick.
+‘Do you know how this stone came here, my friend?' inquired the benevolent Mr. Pickwick.
 
-‘No, I doan’t, Sir,’ replied the man civilly. ‘It was here long afore I was born, or any on us.’
+‘No, I doan't, Sir,' replied the man civilly. ‘It was here long afore I was born, or any on us.'
 
 Mr. Pickwick glanced triumphantly at his companion.
 
-‘You—you—are not particularly attached to it, I dare say,’ said Mr. Pickwick, trembling with anxiety. ‘You wouldn’t mind selling it, now?’
+‘You—you—are not particularly attached to it, I dare say,' said Mr. Pickwick, trembling with anxiety. ‘You wouldn't mind selling it, now?'
 
-‘Ah! but who’d buy it?’ inquired the man, with an expression of face which he probably meant to be very cunning.
+‘Ah! but who'd buy it?' inquired the man, with an expression of face which he probably meant to be very cunning.
 
-‘I’ll give you ten shillings for it, at once,’ said Mr. Pickwick, ‘if you would take it up for me.’
+‘I'll give you ten shillings for it, at once,' said Mr. Pickwick, ‘if you would take it up for me.'
 
 The astonishment of the village may be easily imagined, when (the little stone having been raised with one wrench of a spade) Mr. Pickwick, by dint of great personal exertion, bore it with his own hands to the inn, and after having carefully washed it, deposited it on the table.
 
@@ -435,31 +435,31 @@ U M
 P S H I
 S. M.
 A R K
-Mr. Pickwick’s eyes sparkled with delight, as he sat and gloated over the treasure he had discovered. He had attained one of the greatest objects of his ambition. In a county known to abound in the remains of the early ages; in a village in which there still existed some memorials of the olden time, he—he, the chairman of the Pickwick Club—had discovered a strange and curious inscription of unquestionable antiquity, which had wholly escaped the observation of the many learned men who had preceded him. He could hardly trust the evidence of his senses.
+Mr. Pickwick's eyes sparkled with delight, as he sat and gloated over the treasure he had discovered. He had attained one of the greatest objects of his ambition. In a county known to abound in the remains of the early ages; in a village in which there still existed some memorials of the olden time, he—he, the chairman of the Pickwick Club—had discovered a strange and curious inscription of unquestionable antiquity, which had wholly escaped the observation of the many learned men who had preceded him. He could hardly trust the evidence of his senses.
 
-‘This—this,’ said he, ‘determines me. We return to town to–morrow.’
+‘This—this,' said he, ‘determines me. We return to town to–morrow.'
 
-‘To–morrow!’ exclaimed his admiring followers.
+‘To–morrow!' exclaimed his admiring followers.
 
-‘To–morrow,’ said Mr. Pickwick. ‘This treasure must be at once deposited where it can be thoroughly investigated and properly understood. I have another reason for this step. In a few days, an election is to take place for the borough of Eatanswill, at which Mr. Perker, a gentleman whom I lately met, is the agent of one of the candidates. We will behold, and minutely examine, a scene so interesting to every Englishman.’
+‘To–morrow,' said Mr. Pickwick. ‘This treasure must be at once deposited where it can be thoroughly investigated and properly understood. I have another reason for this step. In a few days, an election is to take place for the borough of Eatanswill, at which Mr. Perker, a gentleman whom I lately met, is the agent of one of the candidates. We will behold, and minutely examine, a scene so interesting to every Englishman.'
 
-‘We will,’ was the animated cry of three voices.
+‘We will,' was the animated cry of three voices.
 
 Mr. Pickwick looked round him. The attachment and fervour of his followers lighted up a glow of enthusiasm within him. He was their leader, and he felt it.
 
-‘Let us celebrate this happy meeting with a convivial glass,’ said he. This proposition, like the other, was received with unanimous applause. Having himself deposited the important stone in a small deal box, purchased from the landlady for the purpose, he placed himself in an arm–chair, at the head of the table; and the evening was devoted to festivity and conversation.
+‘Let us celebrate this happy meeting with a convivial glass,' said he. This proposition, like the other, was received with unanimous applause. Having himself deposited the important stone in a small deal box, purchased from the landlady for the purpose, he placed himself in an arm–chair, at the head of the table; and the evening was devoted to festivity and conversation.
 ```
 
 ```{admonition} Charles Dickens, The Pickwick Papers: the inscription decoded
 :class: dropdown
 
-Mr. Blotton, indeed—and the name will be doomed to the undying contempt of those who cultivate the mysterious and the sublime—Mr. Blotton, we say, with the doubt and cavilling peculiar to vulgar minds, presumed to state a view of the case, as degrading as ridiculous. Mr. Blotton, with a mean desire to tarnish the lustre of the immortal name of Pickwick, actually undertook a journey to Cobham in person, and on his return, sarcastically observed in an oration at the club, that he had seen the man from whom the stone was purchased; that the man presumed the stone to be ancient, but solemnly denied the antiquity of the inscription—inasmuch as he represented it to have been rudely carved by himself in an idle mood, and to display letters intended to bear neither more or less than the simple construction of—‘Bill Stumps, his mark’; and that Mr. Stumps, being little in the habit of original composition, and more accustomed to be guided by the sound of words than by the strict rules of orthography, had omitted the concluding ‘L’ of his Christian name.
+Mr. Blotton, indeed—and the name will be doomed to the undying contempt of those who cultivate the mysterious and the sublime—Mr. Blotton, we say, with the doubt and cavilling peculiar to vulgar minds, presumed to state a view of the case, as degrading as ridiculous. Mr. Blotton, with a mean desire to tarnish the lustre of the immortal name of Pickwick, actually undertook a journey to Cobham in person, and on his return, sarcastically observed in an oration at the club, that he had seen the man from whom the stone was purchased; that the man presumed the stone to be ancient, but solemnly denied the antiquity of the inscription—inasmuch as he represented it to have been rudely carved by himself in an idle mood, and to display letters intended to bear neither more or less than the simple construction of—‘Bill Stumps, his mark'; and that Mr. Stumps, being little in the habit of original composition, and more accustomed to be guided by the sound of words than by the strict rules of orthography, had omitted the concluding ‘L' of his Christian name.
 
 The Pickwick Club (as might have been expected from so enlightened an institution) received this statement with the contempt it deserved, expelled the presumptuous and ill–conditioned Blotton from the society, and voted Mr. Pickwick a pair of gold spectacles, in token of their confidence and approbation: in return for which, Mr. Pickwick caused a portrait of himself to be painted, and hung up in the club room.
 
-Mr. Blotton was ejected but not conquered. He also wrote a pamphlet, addressed to the seventeen learned societies, native and foreign, containing a repetition of the statement he had already made, and rather more than half intimating his opinion that the seventeen learned societies were so many ‘humbugs.’ Hereupon, the virtuous indignation of the seventeen learned societies being roused, several fresh pamphlets appeared; the foreign learned societies corresponded with the native learned societies; the native learned societies translated the pamphlets of the foreign learned societies into English; the foreign learned societies translated the pamphlets of the native learned societies into all sorts of languages; and thus commenced that celebrated scientific discussion so well known to all men, as the Pickwick controversy.
+Mr. Blotton was ejected but not conquered. He also wrote a pamphlet, addressed to the seventeen learned societies, native and foreign, containing a repetition of the statement he had already made, and rather more than half intimating his opinion that the seventeen learned societies were so many ‘humbugs.' Hereupon, the virtuous indignation of the seventeen learned societies being roused, several fresh pamphlets appeared; the foreign learned societies corresponded with the native learned societies; the native learned societies translated the pamphlets of the foreign learned societies into English; the foreign learned societies translated the pamphlets of the native learned societies into all sorts of languages; and thus commenced that celebrated scientific discussion so well known to all men, as the Pickwick controversy.
 
-But this base attempt to injure Mr. Pickwick recoiled upon the head of its calumnious author. The seventeen learned societies unanimously voted the presumptuous Blotton an ignorant meddler, and forthwith set to work upon more treatises than ever. And to this day the stone remains, an illegible monument of Mr. Pickwick’s greatness, and a lasting trophy to the littleness of his enemies.
+But this base attempt to injure Mr. Pickwick recoiled upon the head of its calumnious author. The seventeen learned societies unanimously voted the presumptuous Blotton an ignorant meddler, and forthwith set to work upon more treatises than ever. And to this day the stone remains, an illegible monument of Mr. Pickwick's greatness, and a lasting trophy to the littleness of his enemies.
 
 ```
 `````
@@ -493,7 +493,7 @@ Letter to the Editor, *The Times*, N. W. Thomas, Eastbourne, Monday, October 28t
 
 He then explains his concerns:
 
-> As I should explain, did space permit, I do not regard analogical evidence as very satisfactory for two reasous-(1) Aubrey may have misinterpreted a ceremony which he saw (he does not tell us that the name sin-eater was used, I think); (2) the sin-eater, if he existed, may not unreasonably be regarded as the result of a misunderstanding of other customs.
+> As I should explain, did space permit, I do not regard analogical evidence as very satisfactory for two reasons—(1) Aubrey may have misinterpreted a ceremony which he saw (he does not tell us that the name sin-eater was used, I think); (2) the sin-eater, if he existed, may not unreasonably be regarded as the result of a misunderstanding of other customs.
 
 And identifies what he sees as the source of Hartland's evidence:
 
@@ -534,7 +534,7 @@ It is perhaps not sruprising that by this point, if not before, the debate had s
 ```{admonition} Welsh Translations
 :class: danger
 
-The translations, as provided, were generated from the original Wlesh using *Google Translate*. If you can provide me with a more natuaral translation, I would be very much in your debt.
+The translations, as provided, were generated from the original Welsh using *Google Translate*. If you can provide me with a more natuaral translation, I would be very much in your debt.
 ```
 
 ````{grid}

@@ -23,7 +23,7 @@ p321-
 
 CHAPTER VII.
 
-Death and Burial— The Gwylnos— Beer-drinking at Welsh Funerals — Food and Drink over the Coffin — Sponge Cakes at Modern Funerals — The Sin-eater— Welsh Denial that this Custom ever existed — The Testimony concerning it — Superstitions regarding Salt— Plate of Salt on Corpse's Breast— The Scapegoat— The St. Tegla Cock and Hen — Welsh Funeral Processions — Praying at Cross-roads — Superstition regarding Criminals' Graves— Hang- ing and Welsh Prejudice — The Grassless Grave — Parson's Penny, or Offrwm— Old Shoes to the Clerk— Arian y Rhaw, or Spade Money— Burials without Coffin— The Sul Coffa— Planting and Strewing Graves with Flowers.
+Death and Burial— The Gwylnos— Beer-drinking at Welsh Funerals — Food and Drink over the Coffin — Sponge Cakes at Modern Funerals — The Sin-eater— Welsh Denial that this Custom ever existed — The Testimony concerning it — Superstitions regarding Salt— Plate of Salt on Corpse's Breast— The Scapegoat— The St. Tegla Cock and Hen — Welsh Funeral Processions — Praying at Cross-roads — Superstition regarding Criminals' Graves— Hanging and Welsh Prejudice — The Grassless Grave — Parson's Penny, or Offrwm— Old Shoes to the Clerk— Arian y Rhaw, or Spade Money— Burials without Coffin— The Sul Coffa— Planting and Strewing Graves with Flowers.
 
 I.
 

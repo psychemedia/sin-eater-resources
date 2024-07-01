@@ -7,7 +7,7 @@ Paxton Hood
 1881
 p22-24
 
-Characterisitics of Welsh Preaching
+Characteristics of Welsh Preaching
 
 ...
 

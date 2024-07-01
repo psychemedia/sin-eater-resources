@@ -30,7 +30,7 @@ HE WAS the last known "sin-eater" — a man called Richard Munslow, who was buri
 
 Historically, he says, the custom involved a beggar or poor person eating bread and drinking the local brew across the body of someone who had died unprepared for death. A payment was then made, and it was believed that the sins of the dead person were now in the sin-eater, so the soul could go to heaven in peace.
 
-The sin-eater was usually ex­cluded from the village com­munity, but on the 75-year-old Richard Munslow’s gravestone are the words "In loving memory"; so the sins he accumulated could not have been that great.
+The sin-eater was usually ex­cluded from the village com­munity, but on the 75-year-old Richard Munslow's gravestone are the words "In loving memory"; so the sins he accumulated could not have been that great.
 
 Sadly, the gravestone has partly fallen, but Mr Morris is deter­mined it shall be fully restored, even if he has no intention of reviving the custom it commem­orates. A stonemason has said he can do the work for £900, and the money is coming in.
 

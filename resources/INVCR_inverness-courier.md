@@ -5,7 +5,7 @@ Inverness Courier
 Wednesday 06 June 1832
 p?
 
-HONE’S NEW WORK.
+HONE'S NEW WORK.
 
 *This day is published.*
 
@@ -19,14 +19,14 @@ THE YEAR BOOK.
 
 By William Hone,
 
-An ent’re New Work, on the Plan and in the Manner 
+An ent're New Work, on the Plan and in the Manner 
 OF
 
 "THE EVERY-DAY BOOK."
 
 THE YEAR BOOK._"This is another delightful compilation by the ingenious Mr Hone, whose fame as an author promises to out-rival his reputation as apolitical martyr. His productions certainly combine the useful with the agreeable, far more effectively than any other compilations of the present day. They afford an infinite variety of curious information, without either prosing or pretension: and so happily are the materials put together, that the very highest critical authority of the present time, Dr Southey, has borne testimony to their merit. Conducted on the same plan as his other volumes, equally full of rare and curious matter, it is also in its multifarious details equally amusing—and therefore are we convinced that it cannot fail to be generally read and admired."— *Scots Times*.
 
-"This is very delightful Miscellany, full of Amusing Traditional anecdotes, Antiquarian research, Lively Observations, Prose and Poetry, together wiih a long Muster-roll of  & ceteras." _*Sun*
+"This is very delightful Miscellany, full of Amusing Traditional anecdotes, Antiquarian research, Lively Observations, Prose and Poetry, together with a long Muster-roll of  & ceteras." _*Sun*
 
 
 ---
@@ -43,7 +43,7 @@ A LADY TOURIST — ANECDOTES
 
 "Hill and Valley, or Hours in England and Walks. By Catharine Sinclair, &c.. Dedicated the Travellers Club."
 
-It appears that Miss Sinclair made a tour in Wales in the summer of 1833, of which she kept miscellaneous journal, intended, *of course*, merely for private circulation. The book is essentially lady's book, and if the "Travellers' Club” be composed of the "rougher sex," we doubt very much whether the compliment of the authoress will duly appreciated. From a principle of gallantry, however, it is to be hoped that her health will be duly toasted at all anniversary meetings, when the members exceed their daily pint of wine. Miss Sinclair a lively tourist, full light anecdote and small talk, affectionate to her correspondent (a "dear cousin”) and minutely observant of little traits of character, manners, and scenery, in which it must be confessed the lady-authors very often excel the regulars. Miss Sinclair lays down a maxim at starting, to which we cordially subscribe, that traveller should study his own country before he seeks to explore others.
+It appears that Miss Sinclair made a tour in Wales in the summer of 1833, of which she kept miscellaneous journal, intended, *of course*, merely for private circulation. The book is essentially lady's book, and if the "Travellers' Club" be composed of the "rougher sex," we doubt very much whether the compliment of the authoress will duly appreciated. From a principle of gallantry, however, it is to be hoped that her health will be duly toasted at all anniversary meetings, when the members exceed their daily pint of wine. Miss Sinclair a lively tourist, full light anecdote and small talk, affectionate to her correspondent (a "dear cousin") and minutely observant of little traits of character, manners, and scenery, in which it must be confessed the lady-authors very often excel the regulars. Miss Sinclair lays down a maxim at starting, to which we cordially subscribe, that traveller should study his own country before he seeks to explore others.
 
 ...
 
@@ -66,7 +66,7 @@ The fair tourist's ramble among the "hills and valleys" of Wales does not appear
 ...
 ... Like all mountaineers, the Welsh are still tinged with superstition, but the following one is of the most earthy of those beliefs we have heard of—
 
-"A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended a professed 'sin-eater,' hired take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing apparently, like Esau, to sell their birthright for a mess of pottage.”
+"A strange popish custom prevailed in Monmouthshire and other western counties till very recently. Many funerals were attended a professed 'sin-eater,' hired take upon him the guilt of the deceased. By swallowing bread and beer, with a suitable ceremony before the corpse, he was supposed to free it from every penalty for past offences, appropriating the punishment to himself. Men who undertook so daring an imposture must all have been infidels, willing apparently, like Esau, to sell their birthright for a mess of pottage."
 
 ... 
 

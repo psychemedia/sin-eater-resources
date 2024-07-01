@@ -3,35 +3,35 @@ https://archive.org/details/cambriansuperst00howegoog/page/n64/mode/2up?q=corpse
 Cambrian superstitions, comprising ghosts, omens, witchcraft, traditions, &amp;c: To which are added a concise view of the manners and customs of the principality, and some fugitive pieces
 by Howells, William
 
+TO DO
+
 Publication date 1831
 
 p?
 
 
 
-Every natioDi has its peculiar soperstitions, 
+Every nation has its peculiar soperstitions, 
 and as regards the Corpse Candles or, in Welsh, 
 Canwyllaucyrph^ they are universally known to be 
 endemic (if I may use the expression) to Wales.-i— 
 It appears that these lights are generally observed 
-tp v«er their course towards the churchyard, which 
-they enter i hover round the spot wher^ the person 
-whose death they intimate will be buried, and dis- 
-appear; they vary in brilliancy and size, according 
+to v«er their course towards the churchyard, which 
+they enter i hover round the spot where the person 
+whose death they intimate will be buried, and disappear; they vary in brilliancy and size, according 
 to the person whose doom it is to leave the world; 
 thus an infant's would not be larger than that of a 
 ' candle, whilst a child's <' of the larger growth'' is 
-of a proportionate size; the colour is said to be a sul- 
-phureous blue,]: and when any one observes their 
+of a proportionate size; the colour is said to be a sulphureous blue,]: and when any one observes their 
 approach, if they do not move aside they >Hrili be 
 struck down by their force, as Twas informed. by a 
 |>erson living, whose father coming in contact with 
-one, was thrown off his horse. If th^y are seen to 
+one, was thrown off his horse. If they are seen to 
 stop, the corpse will do the same at the funeral; if 
 they move aside, it will occur so at the buriial; and 
 should two candles meet, the two funerals ^ill do 
 the same: it is also said that if a person looks back 
-at one after it has passed himV he will perceive the 
+at one after it has passed him, he will perceive the 
 corpse and its attendants. 
 
 »<^li«, 9)i9ftt0.#€fie,^^14ei^ dif s» inukppeftta.hvre Jtlie lib«rtf of walk- 
@@ -50,11 +50,7 @@ y Google
 
 60 Cambrian - 
 
-The reason of their appearing^ is generally at- 
-
-tributed to a Bishop of St. David's, a martyr, who 
-
-^ in olden days, whilst hurning, prayed that they 
+The reason of their appearing is generally attributed to a Bishop of St. David's, a martyr, who in olden days, whilst ?? hurning, prayed that they 
 
 , might be seen in Wales, (some say in his diocese 
 
@@ -139,8 +135,8 @@ bMM in Ae-very place where the light was seen
 to hore^. 
 
 There formerly lived in Carmarthen, an old 
-beldaHHI^iiamed Betty Marchadt, possf^sed of the 
-Se^bnd Sight, and wh6 Confessed to several that 
+beldaHHI^iiamed Betty Marchadt, possessed of the 
+Second Sight, and who Confessed to several that 
 sfa# f^i]^ntly saw Corpse Candles; hi oneiime, 
 when^ ilh^was in^a house where aii infant lay ill, she 
 bikde a p^i^ilbn standttig in the door to tnrs aside, 
@@ -157,17 +153,15 @@ Digitized by VnOOQ IC
 
 
 
-deor, and it ia reported t£iat the child expired that 
-ni^ht. There is also now living in St. John's- 
+deor, and itsreported that the child expired that 
+night. There is also now living in St. John's- 
 town, near Carmarthen, an aged individaal of the 
 name of Jones, who has confidently assured a rela- 
-tion of mine, that ^he was accustomed to see these 
-candles proceeding^ down the road to Llanllwch 
+tion of mine, that he was accustomed to see these 
+candles proceeding down the road to Llanllwch 
 <2burch; and that she observed that the funerals in* 
 variably took the same direction, moving aside 
-just as she had seen their precursors^ and that^be- 
-fore any one was drowned, she has frequently seen 
-a light float on the river. 
+just as she had seen their precursors, and that before any one was drowned, she has frequently seen a light float on the river. 
 
 
 

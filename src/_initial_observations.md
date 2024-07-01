@@ -179,7 +179,7 @@ Moggridge's observations then concluded with some examples of the subject matter
 ```
 ## The Sixth Meeting, at Ludlow, 1852
 
-As eight o’clock struck on the evening of Monday, August 23rd, 1852, in the New Buildings at Ludlow, the Vice President of the Cambrian Archaeological Association, W. W. E. Wynne, Esq., M.P., called the sixth annual meeting of that learned association to order.
+As eight o'clock struck on the evening of Monday, August 23rd, 1852, in the New Buildings at Ludlow, the Vice President of the Cambrian Archaeological Association, W. W. E. Wynne, Esq., M.P., called the sixth annual meeting of that learned association to order.
 
 On behalf of the absent President, the Right. Hon. the Earl Cawdor, the Vice-President resigned the chair to the President elect, the Hon. R. H. Clive, M.P., who then presented his inaugural address.
 
@@ -209,7 +209,7 @@ Literally, "Amman valley", in Carmarthenshire, about 12 miles north of Swansea, 
 
 The [Shrewsbury Chronicle of Friday 03 September 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000401/18520903/060/0005) reported Mr. Moggridge's oration as follows:
 
-> The custom was this— formerly, when a party died in the district named, a person known by the name of the "Sin-eater” was called in, who placed upon the corpse a plate, with salt in it, and some bread over the salt; the "Sin-eater" then eat the bread, and was believed, by so doing, to have taken to himself all the sins of the deceased, and for which act he received fee of two shillings and sixpence. When he had accomplished his task he hurried off as fast as he could. The "sin-eater" was regarded as a man totally and irretrievably lost.
+> The custom was this— formerly, when a party died in the district named, a person known by the name of the "Sin-eater" was called in, who placed upon the corpse a plate, with salt in it, and some bread over the salt; the "Sin-eater" then eat the bread, and was believed, by so doing, to have taken to himself all the sins of the deceased, and for which act he received fee of two shillings and sixpence. When he had accomplished his task he hurried off as fast as he could. The "sin-eater" was regarded as a man totally and irretrievably lost.
 
 This, then, is one view of the tradition. It shares several of the elements of the tale told by Ceri Phillips: the location is the same (the foot of the Black Mountain, just north of Swansea); the period of the story is around the time of the Cambrian Archaeological Association meeting, befitting the end of the tradition. The ritual is similar, although the detail differs: no mention of any beer in Moggridge's account, and with the soup replaced by bread and salt. And whilst there is no mention of a fee in Phillips' scene setting, that the sin-eater was paid is evident in the story he went on to tell.
 
@@ -377,13 +377,13 @@ Ah, this seems a little less unusual: *an apple or an orange*. Perhaps the Shrew
 
 The "official" report then goes on to describe some of the other differences noted by Mr. Moggridge, including the evidence of the mysterious "Aubrey" mentioned, but not quoted, in the Shrewsbury Chronicle account:
 
-> There were other slight variations in those parts of the custom still extant, as indeed variations existed in old times when it prevailed in all its profane absurdity, an instance of which might be found-in the adjoining county, as mentioned by Aubrey in the Lansdowne MSS. at the British Museum. (See *Hone’s Year Book*, p. 858.)
+> There were other slight variations in those parts of the custom still extant, as indeed variations existed in old times when it prevailed in all its profane absurdity, an instance of which might be found-in the adjoining county, as mentioned by Aubrey in the Lansdowne MSS. at the British Museum. (See *Hone's Year Book*, p. 858.)
 
-Here, then, we have a citation, of a sort, for Aubrey – in the Lansdowne manuscripts — and a reference to chase: *Hone’s Year Book, p.858.*
+Here, then, we have a citation, of a sort, for Aubrey – in the Lansdowne manuscripts — and a reference to chase: *Hone's Year Book, p.858.*
 
 ```{admonition} On the hunt...
 :class: seealso
-At this point, we must surely make a note to ourselves to try to track down *Hone’s Year Book* in general, and `page 858` of that tome in particular.
+At this point, we must surely make a note to ourselves to try to track down *Hone's Year Book* in general, and `page 858` of that tome in particular.
 ```
 
 So how did Mr. Moggridge quote "Aubrey"?
@@ -412,7 +412,7 @@ The President's call to order and personal aside, as well as Symon's response, a
 
 > The President hoped they were not entering into the history of present customs, but into the history of past events. It struck him that even at the present day when that melancholy event took place, the death of an individual, there was always a certain respect paid to the corpse; it was not closed in the coffin, but was left open for a certain time for the inspection of friends; the room was hung, the candles were lighted, and there was always a person in the room who remained during the time that exhibition took place. It was out of respect to the deceased that such ceremony took place,—he could not regard it in any other light; it had been continued from time immemorial; and, with every degree of respect he should entertain towards that custom, there was nothing in it that he could exclaim against.
 >
-> Mr. Jelinger C. Symons said, of course his impression was as to the custom of the "sin-eater.”" Some part of the custom appears to arise out of respect to the dead.
+> Mr. Jelinger C. Symons said, of course his impression was as to the custom of the "sin-eater."" Some part of the custom appears to arise out of respect to the dead.
 
 The official report then turns to back to Moggridge's response but __omits__ the comments regarding the Duke of Marlborough (`"the Duke of Marlborough was the person he had alluded to. He sent for Dr. Bowles during his sickness, and when the Dr. arrived he found that the Duke was already dead, and the plate and the salt was placed on the body."`). Was this to protect the reputation a former peer of the realm?
 
@@ -432,7 +432,7 @@ The last point to note is that in the official report, there was no mention of t
 
 ## Following the Meeting
 
-In the aftermath of the meeting, it seems that one of the questioners at least was not satisifed with the evidence provided by Mr. Moggridge and turned to a social media site of the time, the recently launched *Notes and Queries*, for assistance.
+In the aftermath of the meeting, it seems that one of the questioners at least was not satisfied with the evidence provided by Mr. Moggridge and turned to a social media site of the time, the recently launched *Notes and Queries*, for assistance.
 
 ```{admonition} William Thoms and *Notes & Queries*
 :class: dropdown
@@ -469,14 +469,14 @@ As was, and still is, customary, the question was picked up and reprinted from N
 
 If there were any replies made directly to the papers that reprinted the question, I haven't yet found them. But there were two replies I found in [Notes & Queries, December 4th, 1852,Vol 6 Iss 162, p541](https://archive.org/details/sim_notes-and-queries_1852-12-04_6_162/page/540/mode/2up?q=sin). The first takes an even harder biblical line than the originally offered answer:
 
-> In addition to your reference to the scape-goat, as accounting for the custom to which JELINGER C. SYMONS refers, it occurs to me that Hosea iv. 8. might be also quoted: "They *eat up the sin* of my people." "They eat up," that is, "the sin-offering of my people." As the priest of old, by eating the sin-offering, declared in the clearest way that the sins of the guilty offerer *had* been transferred to the victim that was offered, so in some sort it came to be believed by superstitious persons, that the eating a piece of bread which had been taken off the body of a dead man, and offered to another in his behalf, transferred the sins of the deceased to the eater of the bread. Perhaps indeed the practice referred to may be rather traced up to the one great sin-offering of Him who was "made sin" for us, and who "took *bread*," the night He was betrayed at the institution of the Eucharist. "The *bread*" became the representative of the victim on Calvary; and from the *sin-offering-eater*, or "sin-eater," being a regularly ordained priest — who might, for a consideration, say a mass for the *dead*, —laymen of "reprobate character" usurped his priestly functions, and took that honour to themselves. Some notion at least of the *feast upon a sacrifice* seems to be implied by the proceeding ” referred to by your correspondent.
+> In addition to your reference to the scape-goat, as accounting for the custom to which JELINGER C. SYMONS refers, it occurs to me that Hosea iv. 8. might be also quoted: "They *eat up the sin* of my people." "They eat up," that is, "the sin-offering of my people." As the priest of old, by eating the sin-offering, declared in the clearest way that the sins of the guilty offerer *had* been transferred to the victim that was offered, so in some sort it came to be believed by superstitious persons, that the eating a piece of bread which had been taken off the body of a dead man, and offered to another in his behalf, transferred the sins of the deceased to the eater of the bread. Perhaps indeed the practice referred to may be rather traced up to the one great sin-offering of Him who was "made sin" for us, and who "took *bread*," the night He was betrayed at the institution of the Eucharist. "The *bread*" became the representative of the victim on Calvary; and from the *sin-offering-eater*, or "sin-eater," being a regularly ordained priest — who might, for a consideration, say a mass for the *dead*, —laymen of "reprobate character" usurped his priestly functions, and took that honour to themselves. Some notion at least of the *feast upon a sacrifice* seems to be implied by the proceeding referred to by your correspondent.
 >
 >ALEXANDER LEEPER.
 >Dublin.
 
 The second also provides a biblical reference, as well as resorting to classical antiquity:
 
-> In Whitby and Doddridge there is a note on 1 Cor. iv. 13. which gives some information on this subject. Whitby, from *Phavorinus*, states the custom referred to to be an Athenian one; but I see, in Pole’s *Synopsis*, that Grotius, in a note on the above passage, refers to Caesar, lib. vi., in proof that a custom of the same kind prevailed among the Gauls. See also Bos, *Exercit. Philolog.*, p. 125., to whom Doddridge refers.
+> In Whitby and Doddridge there is a note on 1 Cor. iv. 13. which gives some information on this subject. Whitby, from *Phavorinus*, states the custom referred to to be an Athenian one; but I see, in Pole's *Synopsis*, that Grotius, in a note on the above passage, refers to Caesar, lib. vi., in proof that a custom of the same kind prevailed among the Gauls. See also Bos, *Exercit. Philolog.*, p. 125., to whom Doddridge refers.
 >
 >E. B.
 
