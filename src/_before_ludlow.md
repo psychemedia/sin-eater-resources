@@ -84,7 +84,7 @@ Here, then, it would appear that we have another description of a visiting fello
 
 ```{admonition} John Bagford
 :class: dropdown seealso
-[John Bagford](https://en.wikipedia.org/wiki/John_Bagford) (1650/51 – 5 May, 1716)  was an English antiquarian, writer, bibliographer, ballad-collector and bookseller.
+[John Bagford](https://en.wikipedia.org/wiki/John_Bagford) (1650/51 – 5 May, 1716) was an English antiquarian, writer, bibliographer, ballad-collector and bookseller.
 
 JOHN BAGFORD, BOOKSELLER AND ANTIQUARY MILTON MCC. GATCH https://www.bl.uk/eblj/1986articles/pdf/article12.pdf
 

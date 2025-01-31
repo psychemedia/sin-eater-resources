@@ -1,14 +1,16 @@
-# Interlude — The Sin-Eater of Ross
+# The Sin-Eater of Ross
 
-Far from being introduced as a *Welsh* tradition, Aubrey's description of the sin-eater, which underpins much of the "legend", actually describes an individual in Ross-on-Wye, just over the border in the English county of *Herefordshire* rather than Welsh county of *Monmouthshire*.
+Far from being introduced as a *Welsh* tradition, Aubrey's description of the sin-eater, which underpins much of the "legend", actually describes an individual on the road to Ross-on-Wye, just over the border in the English county of *Herefordshire* rather than Welsh county of *Monmouthshire*.
 
 > In the county of Hereford was an old custom at funerals to hire poor people, who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal), I remember, lived in a cottage on Rosse highway. The manner was that when the corpse was brought out of the house, and laid on the bier, a loaf of bread was brought out, and delivered to the Sin-eater, over the corpse, as also a mazard bowl of maple, full of beer (which he was to drink up), and sixpence in money, in consideration whereof he took upon him, *ipso facto*, all the sins of the defunct, and freed him or her from walking after they were dead. `e.g. Hone's Year-Book, 1832, pp.858-9`
 
-The original manuscript is available as part of Lansdowne MS 231/3, dated 1568-1637 — although the commentary by Aubrey ("Mr. Gwin, the minister [of Llanggors], about 1640") is later — sets the time at which this _"long, lean, ugly, lamentable poor rascal"_ lived as the first half of the 17th century or even earlier.
+The original manuscript is available as part of Lansdowne MS 231/3, dated 1568-1637, sets the period at which this _"long, lean, ugly, lamentable poor rascal"_ lived as the first half of the 17th century or even earlier.
 
-Local legend today still has it that the sin-eater's house was near the old cross-roads at the top of the evocatively named *Corpse-Cross Street*. If you visit Ross today, on the main road leading up the hill out of the market square is *Copse Cross Street*. The name itself perhaps hints at a standing cross that once stood there, albeit with one of the branches at the crossroads being a small branch road to the adjacent churchyard.
+Local legend still has it that the sin-eater's house was near the old cross-roads at the top of the evocatively named *Corpse-Cross Street*. If you visit Ross today, on the main road leading up the hill out of the market square is *Copse Cross Street*. The name itself perhaps hints at a standing cross that once stood there, albeit with one of the branches at the crossroads being a small branch road to the adjacent churchyard.
 
-Correspondence in the Ross Gazette of [Thursday, 26th October, 1911, p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002068/19111026/092/0003) suggests that this, in fact, a relatively recent name.
+## The Layout of Ross
+
+Correspondence in the Ross Gazette of [Thursday, 26th October, 1911, p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002068/19111026/092/0003) suggests that *Copse* Cross, in fact, a relatively recent name.
 
 > STREET NOMENCLATURE
 >
@@ -27,7 +29,7 @@ Correspondence in the Ross Gazette of [Thursday, 26th October, 1911, p3](https:/
 > THETA.
 > 17th October, 1911.
 
-The old name of Dock Street describes how this road led down to the river, as well as out along the river to Wilton Bridge. My understanding of the Corpus Christi reference was that this is a misnomer, althogh there was a procession on that festival date *[I forget where I read that!]*.
+The old name of Dock Street describes how this road led down to the river, as well as out along the river to Wilton Bridge. My understanding of the Corpus Christi reference was that this is a misnomer, although there was a procession on that festival date *[I forget where I read that!]*.
 
 According to the [`ross-on-wye.com`](http://ross-on-wye.com/index.php?page=ross_510-Alton_Street&pg=1) website, _"[t]he names 'Alton Street' and 'Alton Road' come from 'Old Town Street' and 'Old Town Road'" Furthermore and these were the original main roads into and out of the town in the middle ages."_
 
@@ -55,7 +57,7 @@ A strip map shows the four major routes out of town.
 
 ![](images/ross-hereford-strip-map.jpg)
 
-From a map published by John Cary in 1790, we clearly see the routes out of Ross, including two routes out of Ross to Monmouth, one on either side of the river.
+From a map published by John Cary in 1790, we clearly see, at the bootom of the left hand panel, the routes out of Ross, including two routes out of Ross to Monmouth, one on either side of the river.
 
 ![Map of Herefordshire (routes out of Ross), John Cary, 1790](images/detail_herefordshire-county-map-john-cary-1790_jpg.png)
 
@@ -63,7 +65,7 @@ The road to Walford is also show as passing through *Ham Green* (Hom Green), pre
 
 In the greater scheme of things, the layout of the roads meeting at Ross suggests we might regard the town itself as a cross-roads, with the junction of Old Town Street, and the original road to Gloucester via Weston-under-Penyard, Cross-Corpse Street down to the market place, and Walford Road towards Walford as *one part* of "a cross-roads at Ross" (it doesn't seem to make sense the Old Maid's Walk was a major throughfare, although it did lead to the Church and Church Lane), and the market-place itself, with roads leading out towards Ledbury and, via Dock Street, to the Wilton Bridge and west towards Goodrich and Monmouth, as well as northwestwards to Hereford, as the other? Alton Street, and then Alton Road, themselves, were perhaps the main road into town.
 
-According to the [`ross-on-wye.com`](http://www.ross-on-wye.com/index.php?page=ross_510-Gloucester_Road&pg=1) website, the "new" Gloucester Road wasn't built until 1825. Indeed, an [1823 street map of Ross](https://fosmross.org.uk/1823-map/) by Thomas Wakeman clearly shows just the location of what is now known as *Old Gloucester Road*, a little way up Corps Cross Street from the marketplace. We also note that today's Church Street was named *Lower Church Lane* at that time.
+According to the [`ross-on-wye.com`](http://www.ross-on-wye.com/index.php?page=ross_510-Gloucester_Road&pg=1) website, the "new" Gloucester Road wasn't built until 1825. Indeed, an [1823 street map of Ross](https://fosmross.org.uk/1823-map/) by Thomas Wakeman clearly shows just the location of what is now known as *Old Gloucester Road*, a little way up Corpse Cross Street from the marketplace. We also note that today's Church Street was named *Lower Church Lane* at that time.
 
 ![](images/wakeman1_jpeg_ross.png)
 
@@ -95,6 +97,8 @@ A more detailed map of Herefordshire by John Cary in 1790 shows the comprehensiv
 
 The [`turnpikes.org.uk`](http://www.turnpikes.org.uk/The%20Turnpike%20Roads.htm) website provides a specialist history of turnpike roads, a network of well maintained and toll-supported roads developed in the 18th century.
 
+A consideratio of contemporary maps of the period shows how Ross priovided an important crossing point over the River Wye, as it still does today, with several turnpike roads meeting there.
+
 A turnpike was a defensive gate, originally formed from a frame of pikes, that prevented passage unless a toll was paid. Local "Turnpike Trusts" managed roads in their locale, of 20 miles or so in length, by Act of Parliament, in the area around Ross, specifically 12 Geo1 c.13, (Roads, Gloucester to Hereford Act 1725 c. 13) 1725, with various towns, including Ross, taking local control of their roads via the [Hereford Roads Act 1748, c. 26 (22 Geo. II)](https://archive.org/details/statutesatlarge19britgoog/page/n22/mode/2up?q=hereford), [&c.](https://archive.org/details/statutesatlarge19britgoog/page/n336/mode/2up?q=Rofs), to wit: "[f]or repairing and widening the several roads leading into the town of Ross in the county of Hereford. *Certain tolls granted for 21 years.*"
 
 The `ross-on-wye.com` website provides the following [history of toll gates around Ross](http://www.ross-on-wye.com/index.php?page=ross_120-Toll_Gates):
@@ -117,6 +121,8 @@ Regarding Copse (Corpse) Cross Street, the [`ross-on-wye.com`](http://www.ross-o
 >
 > The name Copse Cross Street is thought to come from Corpse Cross Street. This has two possible derivations for this, one idea is that there was a hang mans cross at this point, or because suicide victims were buried at the cross in a hastily-dug hole without a Priest present. This was a common method of burying suicide victims as they were thought to be "unholy". The act of interring suicides here is thought to have continued here until 1923 when laws was passed to prevent the act.
 This second idea ties in to one story about the derivation of Old Maids Walk.
+
+## How Old Maid's Walk Got Its Name
 
 A letter in the Ross Gazette of [Thursday, 5th August, 1875, p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002067/18750805/063/0004), also reviews the origins of the name of Corpse-Cross Street.
 
@@ -147,7 +153,7 @@ The source is claimed as *The Hereford Times*, 14/8/1986, but the original seems
 
 Perhaps most interesting of all for *our* tale, however, is the reference in the story to "Jack the Scape", _a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater"_...
 
-```{admonition} EREGEN's 'THE STORY OF "THE OLD MAID's WALK;"', December 16th, 1886
+```{admonition} EREGEN's 'THE STORY OF "THE OLD MAID'S WALK"', December 16th, 1886
 :class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002067/18861216/144/0007
@@ -179,9 +185,9 @@ An odd sort of young man he was, in some respects. He did not mix much with his 
 
 Well, the like of what happened has happened many times before, even in the highest families, and will again till the end of time. Miss Clara was not proof against young Mortimer's good looks; and who could help falling in love with her? Thus it came to pass, that before they themselves knew it, they were very dear to each other. Her father, engrossed by his family conceit and his garden, never suspected the state of affairs. The eyes of the couple often furtively met, and then each would blush and turn away the head. It was only natural that like should be attracted by like. Had their positions in life been equal, no better match could have been found. Differences of fortune placed between them a barrier which made marriage altogether out of the question. They never dared to entertain a hope of that kind. A grosser inclination never occurred to them. To Mortimer, Clara seemed some angel of heaven, whom he might dream about and nothing more. To her, he seemed the incarnation of all that man should be, and she at such comeliness in one of his estate. And was that all? Not all, for she favoured him occasionally with a smile that made his heart leap.
 
-Nearly 12 months had gone by since the young gardener entered Mr. Markeys service, when one day an accident occurred which occasioned what the French call a *denouement*. Clara, in girlish playfulness, had gone alone into the garden, had mounted a short laddder which she found there, and was in the set of cutting with her scissors a bunch of particularly fine grapes which pleased her eyes, when the ladder slipped, and she fell with it to the ground. Light as she was, she was so severely hurt, that, uttering a scream, she fainted with pain. Mortimer heard her, ran, and, kneeling down by her, raised her head. As he looked down on the beautiful pale face, and the closed lids of those sweet violet eyes, he could no longer control his emotions. Pity intensifed his long-pent passions. No one was there to see, and he fervently kissed, first the forehead, and then the scarcely-breathing lips of the inanimate girl. He felt that he was doing wrong, and that his presumption could not be justified. Sense of the social distinction which so widely parted them struggled with the love which had gradually grown upon him till it absorbed almost all his thoughts. She would never know, he murmured to himself; no one would ever know. Prudence gave way, and again and agin, with hot impatience, he pressed his lips to hers. It was done suddenly, impulsively, recklessly; and occupied but a very few minutes. But while be held her, and repeated his half-maddened caress, she recovered consciousness.  As she opened her eyes, and knew what he was doing, a hot blush reddened her face and neck. "Ralph!" she cried, in a tone of astonishment and reproof; "Ralph!"
+Nearly 12 months had gone by since the young gardener entered Mr. Markey's service, when one day an accident occurred which occasioned what the French call a *denouement*. Clara, in girlish playfulness, had gone alone into the garden, had mounted a short laddder which she found there, and was in the set of cutting with her scissors a bunch of particularly fine grapes which pleased her eyes, when the ladder slipped, and she fell with it to the ground. Light as she was, she was so severely hurt, that, uttering a scream, she fainted with pain. Mortimer heard her, ran, and, kneeling down by her, raised her head. As he looked down on the beautiful pale face, and the closed lids of those sweet violet eyes, he could no longer control his emotions. Pity intensifed his long-pent passions. No one was there to see, and he fervently kissed, first the forehead, and then the scarcely-breathing lips of the inanimate girl. He felt that he was doing wrong, and that his presumption could not be justified. Sense of the social distinction which so widely parted them struggled with the love which had gradually grown upon him till it absorbed almost all his thoughts. She would never know, he murmured to himself; no one would ever know. Prudence gave way, and again and agin, with hot impatience, he pressed his lips to hers. It was done suddenly, impulsively, recklessly; and occupied but a very few minutes. But while be held her, and repeated his half-maddened caress, she recovered consciousness.  As she opened her eyes, and knew what he was doing, a hot blush reddened her face and neck. "Ralph!" she cried, in a tone of astonishment and reproof; "Ralph!"
 
-He raised his head, blushing like herself, but with shame and self-reproach. "Forgive me, Miss Clara," he said; forgive me; I cannot excuse the liberty I have taken. I must be mad, indeed I must! Forgive me!"
+He raised his head, blushing like herself, but with shame and self-reproach. "Forgive me, Miss Clara," he said, "forgive me; I cannot excuse the liberty I have taken. I must be mad, indeed I must! Forgive me!"
 
 She was silent. Her own heart pleaded for him. She tried to rise, but could not. "I am badly hurt, Mortimer," she said; "carry me indoors."
 
@@ -253,7 +259,7 @@ Clara, accustomed to filial obedience, remained silent, but in her own room shed
 
 The wedding day was at length fixed; and preparations were made for a brilliant celebration.
 
-The poor gardener heard the news; and fat as if stunned by a violent physical blow. He could not avoid sometimes meeting the young lady, and every such occasion resulted mutual confusion. Honestly he did his usual work; but now became imbued with settled melancholy. "How quiet he has become," remarked his acquaintances. Quiet? Could they have looked into his heart, they would have seen it beating tumultuously, madly, tortured with jealousy and despair. Moodily he wandered, after his daily tasks were finished. His fiddle remained untouched in its case. Often and often a deep sigh escaped him.
+The poor gardener heard the news; and felt as if stunned by a violent physical blow. He could not avoid sometimes meeting the young lady, and every such occasion resulted in mutual confusion. Honestly he did his usual work; but now became imbued with settled melancholy. "How quiet he has become," remarked his acquaintances. Quiet? Could they have looked into his heart, they would have seen it beating tumultuously, madly, tortured with jealousy and despair. Moodily he wandered, after his daily tasks were finished. His fiddle remained untouched in its case. Often and often a deep sigh escaped him.
 
 "Lord love the lad," asked the woman where he lodged; "what ails thee? Thee doesn't yeat nor drink enough to do thee any good, and bist getting as pale as a ghost. Bisn't well?"
 
@@ -273,7 +279,7 @@ Before night every neighbour gossip knew for certain that somebody had "worked t
 
 "That's about it," replied Shook Griffiths, who had several times put herself in the young man's way, but found no response. "I wouldn't give tuppence for him, myself!" and she dabbered her "washin" with hur "bittle" savagely, making the "sudas" fly like snowflakes.
 
-The third morning afterwards, Mortimer did not present himself as usual at Alton Court. Never had he missed doing so before; and Mr. Markey, whew he walked in the garden after breakfast, and was told of this, sent of at once to enquire whether the youth was ill. The messenger returned, saying that Mortimer had not been home all night. "Strange!" said his master; "he has always been so steady, though somewhat moody lately. Where can he have gone?"
+The third morning afterwards, Mortimer did not present himself as usual at Alton Court. Never had he missed doing so before; and Mr. Markey, when he walked in the garden after breakfast, and was told of this, sent of at once to enquire whether the youth was ill. The messenger returned, saying that Mortimer had not been home all night. "Strange!" said his master; "he has always been so steady, though somewhat moody lately. Where can he have gone?"
 
 Ah, Mr. Markey, he had gone that journey whence none return. He was then lying, cold and stiff, at the bottom of the river Wye, beneath the steep and broken bank of the "Acres" meadows, between Ross and Wilton. A hat was found in the water. The eddy had drifted it against the central buttress of Wilton Bridge, and there it lodged; and there it was observed by some boys who peeped over the wall to see of any salmon were wriggling their tails among the crystal shallows. A few hours later, the body, fully clad, was found higher up the river, under the "Acres;" and it was at once recognised as that of "that smart-looking gardener chap as worked at Alton Court."
 
@@ -299,7 +305,7 @@ Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel o
 
 "Had thee got a silver sixpence, Trumper?" said Morgan; "we'll club round, a penny a piece, and pay thee back, directly."
 
-Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven ham mercy on us all, Amen!"
+Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven have mercy on us all, Amen!"
 
 This absurd ceremony was observed with solemn silence by the rest of the men present; and the Scape, with another "Amen," drank heartily from the quart pot. "All for myself, mind," he added: "I take all the consequences, and I has all the beer!"
 
@@ -307,7 +313,7 @@ This absurd ceremony was observed with solemn silence by the rest of the men pre
 
 And they bore away their awful burden.
 
-A darker night could hardly be. Not a star was to be seen. No bell was allowed to toll for him who had rashly rushed to oblivion. The parson sat comfortably by his own fireside, and wrote part of a sermon for the followiog Sunday, and he took for his text these words: "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion, how dwelleth the love of God in him?"
+A darker night could hardly be. Not a star was to be seen. No bell was allowed to toll for him who had rashly rushed to oblivion. The parson sat comfortably by his own fireside, and wrote part of a sermon for the following Sunday, and he took for his text these words: "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion, how dwelleth the love of God in him?"
 
 The place chosen for the interment was the junction of the cross-roads at top of Alton-street. There, after sunset, a hole was dug in the presence of a few idlers. When it was completed, a considerable number of spectators had gathered. Coldly blew the April wind (it was an easterly one) down towards the churchyard, the small party of men advanced up Alton-street, two of them carrying horn lanterns, and four others bearing the bier, on which was stretched the uncoffined body. They drew nearer and nearer. They stood by the side of the hole, and laid the corpse upon the ground. Not a prayer was said; not a sigh was heaved. The dead youth had had no companions; and none of his friends or *relatives* were present, for postal communication was not so easily available then as in modern times.
 
@@ -349,7 +355,7 @@ Beautiful, indeed, but pale as death. She seemed ready to faint as the service p
 
 Her father frowned till his eyebrows sank low towards his eyes.
 
-"Wilt thou have this woman to be thy wedded wife?" reed the parson, and he added the words which in the service follow the question.
+"Wilt thou have this woman to be thy wedded wife?" read the parson, and he added the words which in the service follow the question.
 
 "Yes," said Mr. Rudhall, loud and quick.
 
@@ -371,7 +377,7 @@ Astonishment and consternation were visible on every face.
 
 "Run for water," said the parson.
 
-The old clark bobbled off to the vestry, and fetched some. Mrs. Markey sprinkled the bride's face; and the clergyman patiently waited. book in hand. Presently, the young girl recovered consciousness, and her mother lifted her up and put her to stand as she was before, whispering, "I think you can go on again, sir. Now, Clara, dear, don't be foolish!"
+The old clerk bobbled off to the vestry, and fetched some. Mrs. Markey sprinkled the bride's face; and the clergyman patiently waited. book in hand. Presently, the young girl recovered consciousness, and her mother lifted her up and put her to stand as she was before, whispering, "I think you can go on again, sir. Now, Clara, dear, don't be foolish!"
 
 A third time the question was asked— "Wilt thou have this man?"
 
@@ -395,11 +401,11 @@ Amid general confusion, Clara was borne to a carriage.
 
 There was no wedding that day. The Morris-dancers laughed heartily as they repeated as scandal when they danced in the neighbouring villages; and the village girls laughed back as heartily; they had never heard such a joke!
 
-Clara Markey, when she arrived home, was so ill and prostrated that was at once put, speechless, to bed. Her father raged and stormed, declaring that he would disown her, and that he would send her packing —anywhere, anywhere, so she went from there.
+Clara Markey, when she arrived home, was so ill and prostrated that she was at once put, speechless, to bed. Her father raged and stormed, declaring that he would disown her, and that he would send her packing —anywhere, anywhere, so she went from there.
 
 "Silence, man!" cried the doctor; "she has brain-fever; she will soon pack off fast enough, but it will be to the churchyard.'
 
-Week after week, the unfortunate girl kept her bed. abs did not die. But it was apparent that her mind was permanently affected, and that she would never be the bride of any man, as she had declared. When strong enough physically, she was allowed to come downstairs. Half an hour afterwards, she was missed. A child had seen her, walking up towards the town. She was found standing at Corpse Cross, looking vacantly round; but all traces of the unhallowed grave which her eyes sought had been effaced. Her friends took her home, and for some time she was guarded to prevent another such episode. All in vain. At every opportunity she got away, and would pace slowly up and down the lane leading from the Church to Corpse Cross.
+Week after week, the unfortunate girl kept her bed. She did not die. But it was apparent that her mind was permanently affected, and that she would never be the bride of any man, as she had declared. When strong enough physically, she was allowed to come downstairs. Half an hour afterwards, she was missed. A child had seen her, walking up towards the town. She was found standing at Corpse Cross, looking vacantly round; but all traces of the unhallowed grave which her eyes sought had been effaced. Her friends took her home, and for some time she was guarded to prevent another such episode. All in vain. At every opportunity she got away, and would pace slowly up and down the lane leading from the Church to Corpse Cross.
 
 "You had better let her have her way," said the doctor; "nothing will cure her, and constraint may drive her to furious violence."
 
@@ -410,9 +416,9 @@ Ross Gazette - Thursday 26 June 1913, p5-6
 
 ```
 
-There are several things perhaps worth noting about this story. In the first case, copyright is clearly claimed, which suggests the author wanted to assert some form of rights over it, perhaps because it was explicitly created *as a fiction*. Secondly, we note that the story makes use of several supernatural themes: the mention of witches, possession, and vampires, or at least, ghosts, as well as the sin-eater. We also note the publication date, 16 December, 1886, suggesting this was perhaps offered as a Christmas ghost tale. Whilst the author has clearly drawn on Aubrey, it is not clear by what route they might have been introduced to the notion of the sin-eater (1886 was a relatively "quiet time" in terms of other popular references to the legend).
+There are several things perhaps worth noting about this story. In the first case, copyright is clearly claimed, which suggests the author wanted to assert some form of rights over it, perhaps because it was explicitly created *as a fiction*. Secondly, we note that the story makes use of several supernatural themes: the mention of witches, possession, and stakes through the heart, as well as the sin-eater. We also note the publication date, 16 December, 1886, suggesting this was perhaps offered as a Christmas ghost tale. Whilst the author has clearly drawn on Aubrey, it is not clear by what route they might have been introduced to the notion of the sin-eater (1886 was a relatively "quiet time" in terms of other popular references to the legend).
 
-We also note that the `ross-on-wye.com` website appears to retell the story relating to the naming of Old Maid's Walk *as a legend* rather than a fiction. At this point we might also recall how the story of the "last sin-eater" in Downes' Welsh Decameron also seemed to transform into a "true" legend in various 19th century accounts of the sin-eater tradition.
+We also note that the `ross-on-wye.com` website appears to retell the story relating to the naming of Old Maid's Walk *as a legend* rather than a fiction. *("Uncle Tim" also tells the tale as a true story, with a cryptic reference to "the hat" in the river, and the implication that the young gardener must have been murdrerd...)* At this point we might also recall how the story of the "last sin-eater" in Downes' *Welsh Decameron* also seemed to transform into a "true" legend in various 19th century accounts of the sin-eater tradition.
 
 In attempting to prove the veracity, or otherwise, of the tale of how Old Maid's Walk got its name, we note that a house named Alton Court, now a Grade II Listed Building on Penyard Lane, off the point at which Alton Street becomes Alton Road, was built as a timber-framed house in the 17th century. It was [apparently](https://www.parksandgardens.org/places/alton-court) built _"with early fishponds and a rabbit warren nearby"_, and was _"the former home of the Bishop of Hereford's huntsman in the mediaeval park of Penyard Chase"_.
 
@@ -446,7 +452,7 @@ Then we have the description of the sin-eater, and his ritual, which borrows hea
 >
 > "Had thee got a silver sixpence, Trumper?" said Morgan; "we'll club round, a penny a piece, and pay thee back, directly."
 >
-> Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven ham mercy on us all, Amen!"
+> Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven have mercy on us all, Amen!"
 >
 > This absurd ceremony was observed with solemn silence by the rest of the men present; and the Scape, with another "Amen," drank heartily from the quart pot. "All for myself, mind,' he added: "I take all the consequences, and I has all the beer!"
 
@@ -454,7 +460,7 @@ The interment follows, a lonely and solitary affair:
 
 > The place chosen for the interment was the junction of the cross-roads at top of Alton-street. There, after sunset, a hole was dug in the presence of a few idlers. When it was completed, a considerable number of spectators had gathered. Coldly blew the April wind (it was an easterly one) down towards the churchyard, the small party of men advanced up Alton-street, two of them carrying horn lanterns, and four others bearing the bier, on which was stretched the uncoffined body. They drew nearer and nearer. They stood by the side of the hole, and laid the corpse upon the ground. Not a prayer was said; not a sigh was heaved. The dead youth had had no companions; and none of his friends or *relatives* were present, for postal communication was not so easily available then as in modern times.
 
-At this point, the author ups the gruesomeness level by incorporating a stake through the heart of the body, reminiscent of vampire romances. (Recall the use of the sin-eater ritual to prevent the spirit "walking" as a ghost: it's perhaps not so far a stretch to re-imagine this as a vampire walking...)
+At this point, the author ups the gruesomeness level by incorporating a reference to the old tradition of burying a suicide a cross-roads and the putting a stake through their heart.
 
 > "Now, Bill Huggins," said one of the bearers; "Hast thee got the stake?"
 > ...
@@ -464,4 +470,4 @@ At this point, the author ups the gruesomeness level by incorporating a stake th
 >
 > What followed is too horrible to describe. But in a very few minutes, the mangled body was let down into the grave. The earth was hastily shovelled in; and soon every one had departed from the dreadful spot. That was how the place acquired its name, Corpse-Cross; and suicides were interred there in similar fashion for a long time afterwards. *Not till 1838, did the law intervene to put an end to so odious a practice.*
 
-*As I start to imagine my own tale of the sin-eater of Ross, I am tempted towards a tradition that follows on from Aubrey's sin eater, perhaps after a gap of a few years, where poor residents of the almshouses, or perhaps the workhouse, following the tradition of being given payment of food or money doles at funerals, come across the tale of the sin eater; and one of them starts to believe that indeed they are a sin-eater...*
+*As I start to imagine my own tale of the sin-eater of Ross, I am tempted towards a tradition that follows on from Aubrey's sin eater, perhaps after a gap of a few years, where poor residents of the almshouses, or perhaps the workhouse, following the tradition of being given payment of food or money doles at funerals, come across the tale of the sin eater; and one of them starts to believe that indeed they are, or could be, a sin-eater...*
