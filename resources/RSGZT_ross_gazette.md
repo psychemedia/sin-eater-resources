@@ -140,7 +140,7 @@ Clara, accustomed to filial obedience, remained silent, but in her own room shed
 
 The wedding day was at length fixed; and preparations were made for a brilliant celebration.
 
-The poor gardener heard the news; and fat as if stunned by a violent physical blow. He could not avoid sometimes meeting the young lady, and every such occasion resulted mutual confusion. Honestly he did his usual work; but now became imbued with settled melancholy. "How quiet he has become," remarked his acquaintances. Quiet? Could they have looked into his heart, they would have seen it beating tumultuously, madly, tortured with jealousy and despair. Moodily he wandered, after his daily tasks were finished. His fiddle remained untouched in its case. Often and often a deep sigh escaped him.
+The poor gardener heard the news; and felt as if stunned by a violent physical blow. He could not avoid sometimes meeting the young lady, and every such occasion resulted mutual confusion. Honestly he did his usual work; but now became imbued with settled melancholy. "How quiet he has become," remarked his acquaintances. Quiet? Could they have looked into his heart, they would have seen it beating tumultuously, madly, tortured with jealousy and despair. Moodily he wandered, after his daily tasks were finished. His fiddle remained untouched in its case. Often and often a deep sigh escaped him.
 
 "Lord love the lad," asked the woman where he lodged; "what ails thee? Thee doesn't yeat nor drink enough to do thee any good, and bist getting as pale as a ghost. Bisn't well?"
 
