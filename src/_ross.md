@@ -45,6 +45,35 @@ The origin of the name *Corpse-Cross Street* perhaps suggests that persons found
 > 
 > `[Rites of Christian burial not to be performed ; and former laws and usages not to be otherwise altered]` II. PROVIDED nevertheless, that nothing herein contained shall authorize the performing of any of the rites of Christian burial on the interment of the remains of any such person as aforesaid; nor shall anything herein - before contained be taken to alter the laws or usages relating to the burial of such to be otherwise persons , except so far as relates to the interment of such remains in such churchyard or burial ground at such time and in such manner as aforesaid.
 
+*In passing, we might note that a finding of felo de se would also lead to the forfeiture of the suicide's estate to the Crown, which could lead to some interesting workarounds...*
+
+```{admonition} An Ingenious Suicide, January 1850
+:class: dropdown seealso
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003114/18500107/009/0002
+Liverpool Albion - Monday 07 January 1850
+
+AN INGENIOUS SUICIDE.—Sir William Hankford `[Lord Chief Justice of England, c. 1413]` had been a well-conducted man, but he was of a melancholy temperament, and he became tired of life, notwithstanding the high position which he occupied and the respect in which he was held. He was led to "shuffle off this mortal coil", but he was afraid to commit suicide in any vulgar way at the time when a verdict of *felo de se* always followed such an act, and the body of the supposed delinquent was buried in a crossroad, with a stake thrust through it. He at last resorted to this novel expedient, by which he hoped not only that the forfeiture of his goods would be saved, but that his family would escape the anguish and the shame arising from the beiief that he had fallen by his own hand. Several of his deer having been stolen, he gave strict orders to his keeper to shoot any person he met with in or near the park at night who would not stand when challenged. He then in the dark night threw himself in the keeper's way and, refusing to stand when challenged, was shot dead on the spot.—Campbell's Chief-Justices of England.
+
+*A more complete reference is "The lives of the Chief Justices of England: From the Norman conquest till the death of Lord Mansfield",  J. Campbell, Vol. I, [p.139-140](https://archive.org/details/livesofchiefjust01camp_0/page/138/mode/2up), which continues:*
+
+> *"This story" (says Prince, the author of WORTHIES OF DEVON `[Page 362.]`) "is authenticated by several writers, and the constant traditions of the neighbourhood ; and I, myself, have been shown the rotten stump of an old oak under which he is said to have fallen, and it is called HANKFORD’s Oak to this day."*
+
+*We also find the tale in the 1810 edition of "The Worthies of Devon*, John Prince, [p459](https://archive.org/details/b22007313/page/458/mode/2up?q=hankford):*
+
+> Being weary of his life, ’tis said, upon direful apprehensions of dangerous approaching evils, he fell into a desperate resolution; as if 'Tristior est letlio, lethi mora.'
+> He that must die, hates lingering stay.
+>And death were doubled by delay.
+>
+> He became witty in finding out a safe way for the preservation of his goods and chattels, and getting rid of that; for thus is it storied of him. `[Baker's Chron. in Ed. 4, Risdon and Westcott]`"
+>
+> On a fit time for the purpose, he called to him the keeper of his park, which adjoyned his house at Annery, and charged him with negligence in his office, suffering his deer to be killed and stollen ; whereupon he left it in strict charge with him, that he should be more careful in his rounds by night; and that if he met any one in his walk that would not stand and speak, he should shoot him, whoever he was, and that he would discharge him. This the keeper directly promised, and too faithfully performed. The judge having thus laid the design, meaning to end his doleful days, in a dark tempestuous night, fit for so black an action, secretly convey’d himself out of the house, and walked alone in his park, just in the keeper’s way; who being then in his round, hearing somebody coming towards him, demanded. Who was there?
+>
+> No answer being made, he required him to stand; the which when he refused to do, the keeper shot and killed him upon the place: and coming to see who he was, found him to be his master.
+
+*Prince suggests that the reason Hankford killed himself was because he had at one time imprisoned the Prince of Wales, and was fearful of what revenge the Prince might take when he became King: "That this judge having, as was said before, committed the prince to prison in his younger years, was afraid he would take a too severe revenge thereof when he came to the crown: the thought and consideration whereof, filled him with such insuperable melancholy, that it provoked him to take this course, for the putting a period to his own days. And this we know, that dreadful have been the effects of this black adust humour, when predominant, as might be confirmed from divers sad examples out of authentick history.". The story was that the Prince had "commanded Judge Hankford, upon the bench, to free a servant of his, arraigned for felony, at the bar: which when he would not do, he offered to take the prisoner away by force: Being withstood also herein by the judge, the prince step’d to him and struck him a blow on the face. Whereat nothing abashed. Judge Hankford told him boldly, That he had not done this affront to him, but to the King his father, in whose place he sate; and if he would not obey his sovereign's laws now, he asked him, who should obey his when he was King? Wherefore, says he, in the King [Henry IV] your father’s name, I commit you prisoner to the King’s ward, the Fleet. Whereat the prince abashed, quietly obey’d the judge’s sentence, and suffered himself to be led to prison. You would have wondered, says the historian, [Baker's Chron. in K. H. 4] to have seen how calm the prince was in his own cause, who in the cause of his companion had been so violent. When the King his father was advertised thereof, after he had duly examined the circumstances of the matter, he rejoyced, that he had a son so obedient to his laws, and a judge of such integrity, as to administer justice without fear or favour.*.
+
+```
+
 Another feature of old Ross were the almshouses on Church Street, [described](http://ross-on-wye.com/index.php?page=ross_070-Almshouses&pg=1) by `ross-on-wye.com` in the following terms:
 
 > The Tudor-fronted Rudhall almshouses in Church Street are still inhabited. These were founded in the fourteenth century and rebuilt in 1575. They were restored relatively recently in 1960, by the Ross Charity Trustees and at this time the five original houses were changed into three larger houses without changing the fronts. These Almshouses are probably some of the oldest buildings left in Ross with parts of the Church probably being the oldest.
