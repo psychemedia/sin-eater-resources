@@ -1,6 +1,7 @@
 # Hand of Glory
 
 
+
 ---
 https://archive.org/details/remainesgentili00aubrgoog/page/n112/mode/2up
 Remaines of Gentilisme and Judaisme
@@ -27,19 +28,6 @@ J'avoueque je n'ai jamais éprouvéle secret de la main de gloire; mais j'ai ass
 
 ---
 
-https://archive.org/details/aprovincialglos03grosgoog/page/n371/mode/2up?q=%22hand+of+glory%22+gallows
-A Provincial Glossary: With a Collection of Local Proverbs, and Popular ...
-by Francis Grose
-
-Publication date 1787
-p73-5
-To conclude this article, and my book, I shall transcribe a foreign piece of Superstition, firmly believed in many parts of France, Germany, and Spain. The account of it, and the mode of preparation, appears to have been given by a judge: in the latter, there is a striking resemblance to the charm in Macbeth.
-
-Of the Hand of Glory y which is made use of by housebreakers to enter into hdufes at nighty without fear of opposition.
-I ACKNOWLEDGE that I never tried the secret of the Hand of Glory, but I have thrice ?? assisted at the definitive judgment of certain criminals, who, under the torture, confessed having used it. Being asked what it was, how they procured it, and what were its uses and properties ?-^they answered, first, that the use of the Hand of Glory was to stupify those to whom it was presented, and to render them motionless, insomuch that they could not stir, any more than if they were dead; secondly, that it was the hand of a hanged man; and thirdly, that it must be prepared in the manner following :
-
-Take the hand, left or right, of a perfon hanged and exposed on the highway; wrap it up in a piece of a shroud, or winding sheet, in which let it be well squeezed, to get out any small quantity of blood that may have remained in it; then put it into an earthen vessel, with zimat, saltpetre, ??ait, and long pepper, the whole well powdered; leave if fifteen days in that vessel; afterwards take it out, and expose it to the noontide sun in the dog days, till it is thoroughly dry; and if the sun is not sufficient, put it into an oven heated with fern and vervain: then compose a kind of candle with the fat of a hanged man, virgin wax, and fifame ?? of Lapland. The Hand of Glory is used as a candleftick to hold this candle, when lighted. Its properties are that wheresoever any one goes. with this dreadful instrument, the persons to whom it is presented will be deprived of all power of motion. On being asked if there was no remedy, or antidote, to counteract this charm, they said the Hand of Glory would cease to take effedl ?, and thieves could not make use of it, if the threshold of the door of the house, and other places by which they might enter, were anointed with an unguent composed of the gall of a black cat, the fat of a white hen, and the blood of a screech owl; which mixture must necessarily be prepared during the ?? dog days,
-
 
 
 Brand
@@ -60,52 +48,10 @@ The following paragraph in the "Observer", newspaper of January 16th, 1831, show
 
 ---
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18310111/012/0003
-Globe - Tuesday 11 January 1831
-IRELAND
-
-..
-
-March of Intellect
-
-On the night of Monday, the 3d inst., a robbery, or rather an attempt at robbery, attended with some highly illustrative Irish circumstances, took place on the estate of Mr. Napper, of Loughcrew. in the county Meath. To explain these, however, to our English readers, it is necessary to premise that it is an opinion very prevalent among the "finest pisantry in the world" that a lighted candle placed in a dead man's hand, will not be seen by any but those by whom it is used; and also. that if a candle in a dead hand be introduced into a house, it will prevent those who may be asleep from awaking! Under the influence of this superstition, a party, on Monday night, *armed with a dead man's hand* and lighted candle, attacked the house of Mrs. Leonard (the mother of the priest) in the town of Oldcastle; but, unfortunately for the credit of the clan, the inmates were alanne4, and the robbers fled, leaving the hand behind them. *Dublin Warder.*
-
-
-TH: also elsewhere under differnt heading, eg Singular Superstition (Chester Courant - Tuesday 18 January 1831 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000390/18310118/010/0003 et al)
-
 
 
 --
 
-https://archive.org/details/ThorpeBNorthernMythologyComprisingThePrincipalPopularTraditionsAndSuperstitionsO_201707
-Thorpe B Northern Mythology, Comprising The Principal Popular Traditions And Superstitions Of Scandinavia, North Germany And The Netherlands Vol III 1852
-p274-5
-THIEF'S FOOT.— THIEF'S HAND.— THIEF'S FINGER.
-
-In West Flanders, not far from Bailleul, a thief was taken, on whom was found the foot of one that had been hanged, which he used for the purpose of putting people to sleep.
-
-Two fellows once came to Huy, who pretended to be exceedingly fatigued, and when they had supped would not retire to a sleeping room, but begged their host would allow them to take a nap on the hearth. But the maid- servant, who did not like the looks of the two guests, remained by the kitchen door and peeped through a chink, when she saw that one of them drew a thief s hand from his pocket, the fingers of which, after having rubbed them with an ointment, he lighted, and they all burned except one. Again they held this finger to the fire, but still it would not bum, at which they appeared much surprised, and one said: "There must surely be some one in the house who is not yet asleep." They then hung the hand with its four burning fingers by the chimney, and went out to call their associates. But the maid followed them instantly and made the door fast, then ran up-stairs, where the landlord slept, that she might wake him, but was unable, notwithstanding all her shaking and calling.
-
-In the mean time the thieves had returned and were endeavouring to enter the house by a window, but the maid cast them down from the ladder. They then took a different course, and would have forced an entrance, had it not occurred to the maid that the burning fingers might probably be the cause of her master's profound sleep. Impressed with this idea she ran to the kitchen, and blew them out, when the master and his men-servants instantly awoke, and soon drove away the robbers.
-
-In the village of Alveringen there formerly lived a sor- ceress, who had a thief's finger, over which nine masses had been read. For being acquainted with the sacristan, she had wrapt it in a cloth and laid it on the altar, telling him it was a relic. With this finger she performed wonderful things. When she had lighted it — for such fingers burn like a candle ——every one in the house where she might be was put to sleep. She would then steal money and everything else that she fancied, until she was at last detected, and the stolen property found in her possession
-
---
-
-https://archive.org/details/thingsnotgenera02timbgoog/page/n152/mode/2up?q=%22hand+of+glory%22+gallows
-Things Not Generally Known: Popular Errors Explained & Illustrated ...
-by John Timbs
-Publication date 1858
-p139-140
-"THE HAND OF GLORY."
-
-In the middle ages, in addition to the belief of numerous charms and talismans to protect from disease and accident, many of which were perfectly impious, some singular figures were constructed for the strangest purposes; one, for instance, the Hand of Glory, as it was ^led, was supposed to be a sure protection to robbers when committing their crimes. It is thus described :
-
-The Hand of Glory possesses much more dangerous properties, if it be true that robbers avail themselves of its power to cause sleep to overcome all the inmates of a house, that they may be enabled to plunder with impunity. This is effected by holding tho charm over each person. This talisman is the hand of a robber executed for his crime: the blood is to be first extracted, and then it is to be prepared with saltpetre and pepper, and dried in the sun; when perfectly dry, it is used as a candlestick, in which a candle is placed formed of the fat of tho culprit, white wax, and sesame seed.
-
-The belief in most of these strange and ridiculous errors existed much longer than it otherwise would have done, from the Artificial importance with which they were clothed in conse- quence of the solemn endeavours of some learned writers to reason upon their properties, instead of treating the subject with the contempt it deserved.
-
-It may be remarked, that the Arabs have great faith in certain superstitious charms, which they suppose will protect their horses from accidents. They use talismans written on a piece of triangular paper, which are put into a leathern purse of the same shape, and fastened round the animal's neck, as a defence against witchcraft from unlucky eyes. A couple of boar's tusks, joined at the extremities by a silver ring, are suspended from their mane to keep them from the farcy. — Crichton's Arabia.
 
 
 https://archive.org/details/mythsandmythmake003324mbp/page/n75/mode/2up?q=%22hand+of+glory%22+gallows
@@ -555,69 +501,8 @@ Notes and Queries  1897-10-02: Vol 12 Iss 301
 p274
 Hand or Glory: Thieves' Candles (4th S. ix. 238, 289, 376, 436, 455; x. 39; 8th S. x. 71, 445; xi, 268, 397, 458; xii. 74).—Mr. Norcross's interesting reference (xi. 458) to the "hand of glory," as that of a "hanged man," brings the subject round to my ' Folk-lore of Filatures' (ix. 324; x. 261, 325, 405; xi. 232). The efficacy of a rope, or portion of a rope, that has hanged a man to ensure luck or cure diseases of the head is well known; it is well remembered what a roaring trade the hangman did in bits of rope after every public execution. I consider hanging as a sacrifice or homage to the sun—a sort of "rendering unto Caesar," &c.—as the sun-cord or funic sun-ray, brought the man into the world, so it takes him out. I have already referred (x. 261) to the 'Sun-dance of the Sioux' as an enactment of the intermediate sacrifice of regeneration (see, s.v., Century Magazine, vol. xxxix. No. 5, pp. 753-9, which describes, perhaps, the most primitive, and, from my point of view, significant of ' sun-poles'; and the evident prototype of the "May," and every other festal pole throughout the world, and in all ages). The suspension of offerings of hair, threads, rags, and more material objects, on trees and poles and cairns, in connexion with mountain, water, and saintly shrines and tombs, is well known all over the world, The so-called "holy wells" and "rag-bushes" are, I believe, a stock subject with the professed folk-lorist. The consecration of the Hindu caste-thread by fire, and the use of the kusti, or fillet, by the fire-worshipper may be mentioned; also the use of a knotted thread on the neck in sun-worship, and the reputed finding of the saint's hair in the ashes of St. John's Eve fire. Thomas J. JEAKES.
 
-https://archive.org/details/sim_notes-and-queries_1898-01-15_1_3/page/52/mode/1up
-Notes and Queries  1898-01-15: Vol 1 Iss 3
-Hand of Glory: Thieves' Candles (4th S. ix. 238, 289, 376, 436, 455; x. 39; 8 S. x. 71, 445; xi. 268, 397, 458; xii. 74, 274).—Walter Thornbury, in 'A Tour round England' (London, Hurst & Blackett, 1870), vol. i. p. 85, under the heading of 'The Mummy Hand,' has the following passage :
-
-"Swift away on our black wing [i.e., the cicerone crow's] after this short resting to where the blue smoke rises over Reading like the smoke of a witch's caldron. Let us perch first on the abbey gateway. This abbey, founded by Henry I., and endowed with the privilege of coining, attained a great name among the English abbeys, from the 'incorrupt hand' of St. James the Apostle, presented to it by Henry I. After working thousands of miracles, raising cripples, curing blindness—after millions of pilgrimages had been made to it, and it had been long incensed and in every way glorified—the hand was lost at the Dissolution. No one cared about it then; it was mere saintly lumber. In the general scramble of that subversive time some worshipper who still venerated it hid it underground, where it was found centuries after. It is now [1870] preserved at Danesfield, a Roman Catholic family still honouring the uncertain relic. It will for ever remain a moot point whether the hand at Danesfield, however, is the hand of St. James, or a mere chance mummy hand, such as mediaeval thieves were wont to use as candlesticks and talismans; 'hands of glory,' the rascals called them. This hand of St. James made the fortune of the Abbey at Reading, and was an open, receptive hand, no doubt, for all current coin of those days, from the groat to the broad piece. Bells rung, incense fumed, priests bore the cross, and acolytes swung the thurible in the Abbey at Reading, and all encouraged by the *éclat* of the incorruptible hand."
-
-Without subscribing to the tone of persiflage in the above remarks, I would suggest that the paragraph brings on the scene a mummy hand of high interest, and might possibly, therefore, be admitted to a corner in the valuable collection of ' N. & Q.' under the above headings. H. E. M. St. Petersburg.
 
 -----
-https://archive.org/details/sim_notes-and-queries_1856-05-03_1_18/page/350/mode/2up
-Notes and Queries  1856-05-03: Vol 1 Iss 18
-p351
-The last Gibbet in England. — As "N. & Q." will be a work of reference hereafter, may not the following notice, which appeared in a recent number of *The Examiner*, claim a remembrance ?
-
-"A few days ago, the last gibbet erected in England was demolished by the workmen employed in making the extensive docks for the North Eastern Railway Company, upon Jarrow Stoke, on the Tyne."
-W. W.
-Malta.
-
-
-
-https://archive.org/details/sim_notes-and-queries_1856-09-13_2_37/page/216/mode/1up
-Notes and Queries  1856-09-13: Vol 2 Iss 37
-p216
-The last Gibbet in England (2nd S. i. 351.) — It is stated that "the last gibbet erected in England was demolished by the workmen employed in making the extensive docks for the North-Eastern Railway Company, upon Jarrow Stoke, on the Tyne." This statement is not quite correct. At the corner of Ditchling Common, in Sussex, near to the turnpike-road which leads from Ditchling to Lindfield, there still remains a piece of an old gibbet, and a very unpleasant looking log of wood it is, known by the name of "Jacob's Post;" that being the name of the man, a Jew, who committed a very barbarous murder near to the spot, and was hanged in chains there in 1734.
-
-The Jew, Jacob, having put up his horse at the public-house close by, attacked his host, a person named Miles, whilst he was engaged in cleaning his horse, and cut his throat. In the same way he destroyed the servant-maid, who, it is supposed, had been disturbed by the noise in the stable, and was descending the staircase to see what was the matter. He then went upstairs and cut the throat of poor Miles's wife, who was lying on a sick bed.
-
-Some very rude verses, still preserved in the neighbourhood, of which I send you a few specimens, record the circumstances of this frightful massacre :
-
-"In the mean time, the poor distressed maid  
-Had got away, for so the neighbours said,  
-He, missing her, into the stable ran,  
-And looked about, but could not find her then,  
-He thought that there was no time to delay,  
-But took his horse with speed and rode away.  
-The women both that night this world forsook,  
-But Miles did live until the wretch was took.
-
-At Horsham Gallows he was hanged there,  
-The 3ist of August that same year.  
-And where he did the crime, they took the pains  
-To bring him back, and hang him up in chains.  
-It is a dismal sight for to behold,  
-Enough to make a heart of stone run cold."
-
-R. W. B.
-
-https://archive.org/details/sim_notes-and-queries_1872-10-26_10_252/page/332/mode/1up
-Notes and Queries  1872-10-26: Vol 10 Iss 252
-p332
-GIBBETING ALIVE A writer in the *Daily News* of October 2nd says that near to Merrington Chirch, Durham,
-
-"At the cross roads near the mill, there long hung the bones of the last man ever gibbeted alive. It was in 1805 that this miserable wretch was hoisted aloft to die lingeringly, and the county people to this day tell how his sweetheart kept him alive for a fortnight by raising to him on the end of a stick a sponge soaked in milk, and how, when this was detected and prevented, his yells were heard for miles."
-
-Is there any foundation horrible a story, and was "gibbeting alive," i.e. starving to death, ever a punishment known to English law?
-E. M. S.
-Chichester.
-
-https://archive.org/details/sim_notes-and-queries_1872-11-09_10_254/page/382/mode/2up
-Notes and Queries  1872-11-09: Vol 10 Iss 254
-p382-3
-Gibbeting Alive (4th S. x. 332.)—This "horrible tale" of the year 1805 is but a repetition of a story told of the same county, but dated 1683. In that year the body of a man, named Andrew Mills, who had been executed at Durham for the murder of his master's three children, was hung chains near to Ferry Hill. Yet the tale goes that he was gibbeted alive — that a girl who loved him contrived to keep him in existence for several days, and that his dying shrieks could be heard for miles around. Is this traditionary story peculiar
-to the county of Durham? CUTHBERT BEDE
 
 
 
