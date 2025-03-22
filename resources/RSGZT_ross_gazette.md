@@ -68,7 +68,7 @@ Well, the like of what happened has happened many times before, even in the high
 
 Nearly 12 months had gone by since the young gardener entered Mr. Markeys service, when one day an accident occurred which occasioned what the French call a *denouement*. Clara, in girlish playfulness, had gone alone into the garden, had mounted a short laddder which she found there, and was in the set of cutting with her scissors a bunch of particularly fine grapes which pleased her eyes, when the ladder slipped, and she fell with it to the ground. Light as she was, she was so severely hurt, that, uttering a scream, she fainted with pain. Mortimer heard her, ran, and, kneeling down by her, raised her head. As he looked down on the beautiful pale face, and the closed lids of those sweet violet eyes, he could no longer control his emotions. Pity intensifed his long-pent passions. No one was there to see, and he fervently kissed, first the forehead, and then the scarcely-breathing lips of the inanimate girl. He felt that he was doing wrong, and that his presumption could not bejustified. Sense of the social distinction which so widely parted them struggled with the love which had gradually grown upon him till it absorbed almost all his thoughts. She would never know, he murmured to himself; no one would ever know. Prudence gave way, and again and again, with hot impatience, he pressed his lips to hers. It was done suddenly, impulsively, recklessly; and occupied but a very few minutes. But while be held her, and repeated his half-maddened caress, she recovered consciousness.  As she opened her eyes, and knew what he was doing, a hot blush reddened her face and neck. "Ralph!" she cried, in a tone of astonishment and reproof; "Ralph!"
 
-He raised his head, blushing like herself, but with shame and self-reproach. "Forgive me, Miss Clara," he said; forgive me; I cannot excuse the liberty I have taken. I must be mad, indeed I must! Forgive me!"
+He raised his head, blushing like herself, but with shame and self-reproach. "Forgive me, Miss Clara," he said, "forgive me; I cannot excuse the liberty I have taken. I must be mad, indeed I must! Forgive me!"
 
 She was silent. Her own heart pleaded for him. She tried to rise, but could not. "I am badly hurt, Mortimer," she said; "carry me indoors."
 
@@ -160,7 +160,7 @@ Before night every neighbour gossip knew for certain that somebody had "worked t
 
 "That's about it," replied Shook Griffiths, who had several times put herself in the young man's way, but found no response. "I wouldn't give tuppence for him, myself!" and she dabbered her "washin" with hur "bittle" savagely, making the "sudas" fly like snowflakes.
 
-The third morning afterwards, Mortimer did not present himself as usual at Alton Court. Never had he missed doing so before; and Mr. Markey, whew he walked in the garden after breakfast, and was told of this, sent of at once to enquire whether the youth was ill. The messenger returned, saying that Mortimer had not been home all night. "Strange!" said his master; "he has always been so steady, though somewhat moody lately. Where can he have gone? "
+The third morning afterwards, Mortimer did not present himself as usual at Alton Court. Never had he missed doing so before; and Mr. Markey, when he walked in the garden after breakfast, and was told of this, sent of at once to enquire whether the youth was ill. The messenger retrned, saying that Mortimer had not been home all night. "Strange!" said his master; "he has always been so steady, though somewhat moody lately. Where can he have gone? "
 
 Ah, Mr. Markey, he had gone that journey whence none return. He was then lying, cold and stiff, at the bottom of the river Wye, beneath the steep and broken bank of the "Acres" meadows, between Ross and Wilton. A hat was found in the water. The eddy had drifted it against the central buttress of Wilton Bridge, and there it lodged; and there it was observed by some boys who peeped over the wall to see of any salmon were wriggling their tails among the crystal shallows. A few hours later, the body, fully clad, was found higher up the river, under the "Acres;" and it was at once recognised as that of "that smart-looking gardener chap as worked at Alton Court."
 
@@ -186,7 +186,7 @@ Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel o
 
 "Had thee got a silver sixpence, Trumper?" said Morgan; "we'll club round, a penny a piece, and pay thee back, directly."
 
-Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven ham mercy on us all, Amen! "
+Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:—" I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven have mercy on us all, Amen! "
 
 This absurd ceremony was observed with solemn silence by the rest of the men present; and the Scape, with another "Amen," drank heartily from the quart pot. "All for myself, mind,' he added: "I take all the consequnces, and I has all the beer! "
 
@@ -194,7 +194,7 @@ This absurd ceremony was observed with solemn silence by the rest of the men pre
 
 And they bore away their awful burden.
 
-A darker night could hardly be. Not a star was to be seen. No bell was allowed to toll for him who had rashly rushed to oblivion. The parson sat comfortably by his own fireside, and wrote part of a sermon for the followiog Sunday, and he took for his text these words: "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion, how dwelleth the love of God in him?"
+A darker night could hardly be. Not a star was to be seen. No bell was allowed to toll for him who had rashly rushed to oblivion. The parson sat comfortably by his own fireside, and wrote part of a sermon for the following Sunday, and he took for his text these words: "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion, how dwelleth the love of God in him?"
 
 The place chosen for the interment was the junction of the cross-roads at top of Alton-street. There, after sunset, a hole was dug in the presence of a few idlers. When it was completed, a considerable number of spectators had gathered. Coldly blew the April wind (it was an easterly one) down towards the churchyard, the small party of men advanced up Alton-street, two of them carrying horn lanterns, and four others bearing the bier, on which was stretched the uncoffined body. They drew nearer and nearer. They stood by the side of the hole, and laid the corpse upon the ground. Not a prayer was said; not a sigh was heaved. The dead youth had had no companions; and none of his friends or *relatives* were present, for postal communication was not so easily available then as in modern times.
 
@@ -236,7 +236,7 @@ Beautiful, indeed, but pale as death. She seemed ready to faint as the service p
 
 Her father frowned till his eyebrows sank low towards his eyes.
 
-"Wilt thou have this woman to be thy wedded wife?" reed the parson, and he added the words which in the service follow the question.
+"Wilt thou have this woman to be thy wedded wife?" read the parson, and he added the words which in the service follow the question.
 
 "Yes," said Mr. Rudhall, loud and quick.
 
@@ -258,7 +258,7 @@ Astonishment and consternation were visible on every face.
 
 "Run for water," said the parson.
 
-The old clark bobbled off to the vestry, and fetched some. Mrs. Markey sprinkled the bride's face; and the clergyman patiently waited. book in hand. Presently, the young girl resovered consciousness, and her mother lifted her up and put her to stand as she was before, whispering, "I think you can go on again, sir Now, Clara, dear, don't be foolish!"
+The old clerk bobbled off to the vestry, and fetched some. Mrs. Markey sprinkled the bride's face; and the clergyman patiently waited. book in hand. Presently, the young girl resovered consciousness, and her mother lifted her up and put her to stand as she was before, whispering, "I think you can go on again, sir Now, Clara, dear, don't be foolish!"
 
 A third time the question was asked— "Wilt thou have this man? "
 
@@ -282,7 +282,7 @@ Amid general confusion, Clara was borne to a carriage.
 
 There was no wedding that day. The Morris-dancers laughed heartily as they repeated as scandal when they danced in the neighbouring villages; and the village girls laughed back as heartily; they had never heard such a joke!
 
-Clara Markey, when she arrived home, was so ill and prostrated that was at once put, speechless, to bed. Her father raged and stormed, declaring that he would disown her, and that he would send her packing —anywhere, anywhere, so she went from there.
+Clara Markey, when she arrived home, was so ill and prostrated that she was at once put, speechless, to bed. Her father raged and stormed, declaring that he would disown her, and that he would send her packing —anywhere, anywhere, so she went from there.
 
 "Silence, man!" cried the doctor; "she has brain-fever; she will soon pack off fast enough, but it will be to the churchyard.'
 
