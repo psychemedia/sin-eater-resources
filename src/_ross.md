@@ -37,7 +37,7 @@ Looking closely at a town map of Ross, we see that walking up the hill from the 
 
 ![An aerial view of the crossroads today, showing the site of the old workhouse and toll house. Alton Street is Old Town Street.](images/ross_tollhouse_workhouse.png)
 
-The origina of the name *Corpse-Cross Street* perhaps suggests that persons found guilty of *felo de se*, which is to say, suicide, were buried somewhere around there, outside the sanctified burial ground. This practice, and a rather macabre ritual effected upon the body, was not repealed in law until the act *4 George IV, c. 52* of 1823 (*The Statutes, Revised Edition, Vol. V, 52 George III. to 4 George IV. AD 1812-1823, 1877*, [p938](https://play.google.com/books/reader?id=_cYrPDIeQLQC&pg=GBS.PA938&hl=en_GB)):
+The origin of the name *Corpse-Cross Street* perhaps suggests that persons found guilty of *felo de se*, which is to say, suicide, were buried somewhere around there, outside the sanctified burial ground. This practice, and a rather macabre ritual effected upon the body, was not repealed in law until the act *4 George IV, c. 52* of 1823 (*The Statutes, Revised Edition, Vol. V, 52 George III. to 4 George IV. AD 1812-1823, 1877*, [p938](https://play.google.com/books/reader?id=_cYrPDIeQLQC&pg=GBS.PA938&hl=en_GB)):
 
 > AN ACT to alter and amend the Law relating to the Interment of the Remains of any Person found Felo de se. [ 8th July 1823. ]
 >
