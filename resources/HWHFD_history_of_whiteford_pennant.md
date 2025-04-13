@@ -8,6 +8,6 @@ by [Pennant, Thomas]
 
 p?
 
-?? refs to  nearest female relative of the dead giving bread, cheese, ale, and money to the poor over the coffin, ???
+?? refs to nearest female relative of the dead giving bread, cheese, ale, and money to the poor over the coffin, ???
 
 

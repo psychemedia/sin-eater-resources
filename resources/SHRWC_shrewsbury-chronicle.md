@@ -7,7 +7,7 @@ p5
 
 [Preceded on p4 by: The Cambrian Archaeological Association at Ludlow. (*Concluded from our last.*) As we were unable in last week's *Chronicle* to give more than a mere outline of Thursday's proceedings, we now supply a more extended report of that day's doings ...: FRIDAY: THE EXCURSION: At half-past nine this morning the Association left the Feathers Inn for Leominster Priory=, where they arrived shortly after eleven o'clock.... Evening Meeting: The President (Hon R. H. Clive, M.P. [ [Conservative Party MP for Ludlow](https://en.wikipedia.org/wiki/Robert_Clive_(1789%E2%80%931854)): "A keen antiquary, he was author of *Documents Concerned with the History of Ludlow and the Lords Marchers (1841), and president of the Cambrian Archaeological Association in 1852." ]) took the chair at half-past seven o'clock, and the proceedings commenced with the reading of the subjoined paper by T. O. Morgan, Esq., of Aberystwyth, on the HISTORY OF THE PARISH OF CARNO, MONTGOMERYSHIRE.]
 
-[ The President then moved a vote of thanks to Mr. Morgan, which was enthusiastically accorded by the meeting. MUNICIPAL RECORDS OF LUDLOW  ... (discussion) ]
+[ The President then moved a vote of thanks to Mr. Morgan, which was enthusiastically accorded by the meeting. MUNICIPAL RECORDS OF LUDLOW ... (discussion) ]
 
 THE SIN EATER.
 

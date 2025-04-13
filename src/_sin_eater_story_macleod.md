@@ -60,7 +60,7 @@ No more!
 The yeast within its ravening mouth was red with streamy gore—  
 O red seaweed, O red sea-waves, O hollow, baffled roar,  
 Since one thou hast, O dark dim sea, why callest thou for more,  
-My grief,  For more ?
+My grief, For more ?
 
 "In the quiet moonlight the chant, with its long, slow cadences, sung as no other man in the Isles could sing it, sounded sweet and remote beyond words to tell. The glittering shine was upon the water of the haven, and moved in waving lines of fire along the stone ledges. Sometimes a fish rose, and split a ripple of pale gold; or a sea-nettle swam to the surface, and turned its blue or greenish globe of living jelly to the moon dazzle."
 
@@ -514,7 +514,7 @@ She counted out ten pennies and two farthings.
 
 "It is all the coppers I have. You are welcome to them. Take them, friend of my friend. They will give you the food you need, and the ferry across the Sound."
 
-"I will do that, Maisie Macdonald, and thanks to you. It is not forgetting it I will be, nor you, good woman. And now, tell me, is it safe that I am? He called me a ' scapegoat '; he, Andrew Blair! Can evil touch me between this and the sea?"
+"I will do that, Maisie Macdonald, and thanks to you. It is not forgetting it I will be, nor you, good woman. And now, tell me, is it safe that I am? He called me a 'scapegoat'; he, Andrew Blair! Can evil touch me between this and the sea?"
 
 "You must go to the place where the evil was done to you and yours — and that, I know, is on the west side of Iona. Go, and God preserve you. But here, too, is a sian that will be for the safety."
 
@@ -608,7 +608,7 @@ Neil looked, but did not speak. His eyes dreamed against what the other could no
 
 Neil Ross stared, his eyes large and wild. He leaned a little forward. No word came from him. The look that was on his face was the question.
 
-"Yes: it was this way. Sure, the telling of it is just as I heard it. After you ate the sins of Adam Blair, the people there brought out the coffin. When they were putting him into it, he was as stiff as a sheep dead in the snow — and just like that, too, with his eyes wide open. Well, someone saw you trampling the heather down the slope that is in front of the house, and said, ' It is the Sin-Eater! ' With that, Andrew Blair sneered, and said — ' Ay, 'tis the scapegoat he is! ' Then, after a while, he went on: ' The Sin-Eater they call him: ay, just so: and a bitter good bargain it is, too, if all's true that's thought true! ' And with that he laughed, and then his wife that was behind him laughed, and then . . ."
+"Yes: it was this way. Sure, the telling of it is just as I heard it. After you ate the sins of Adam Blair, the people there brought out the coffin. When they were putting him into it, he was as stiff as a sheep dead in the snow — and just like that, too, with his eyes wide open. Well, someone saw you trampling the heather down the slope that is in front of the house, and said, 'It is the Sin-Eater!' With that, Andrew Blair sneered, and said — 'Ay, 'tis the scapegoat he is!' Then, after a while, he went on: 'The Sin-Eater they call him: ay, just so: and a bitter good bargain it is, too, if all's true that's thought true!' And with that he laughed, and then his wife that was behind him laughed, and then . . ."
 
 "Well, what then? "
 
@@ -713,11 +713,11 @@ It was only a half-truth that he told, though. For, after he had seen Neil Ross 
 
 "But all he said to me was, '*I am Judas!*'
 
-"Well, I said, to comfort him, ' Sure, it's not such a bad name in itself, though I am knowing some which have a more home-like sound.' But no, it was no good.
+"Well, I said, to comfort him, 'Sure, it's not such a bad name in itself, though I am knowing some which have a more home-like sound.' But no, it was no good.
 
 "' I am Judas. And because I sold the Son of God for five pieces of silver . . .'
 
-"But here I interrupted him and said, — ' Sure, now, Neil — I mean, Judas — it was eight times five.' Yet the simpleness of his sorrow prevailed, and I listened with the wet in my eyes.
+"But here I interrupted him and said, — 'Sure, now, Neil — I mean, Judas — it was eight times five.' Yet the simpleness of his sorrow prevailed, and I listened with the wet in my eyes.
 
 "' I am Judas. And because I sold the Son of God for five silver shillings. He laid upon me all the nameless black sins of the world. And that is why I am bearing them till the Day of Days.' "
 

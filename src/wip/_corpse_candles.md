@@ -15,7 +15,7 @@ https://archive.org/details/fairylegendstrad03crok/page/278/mode/2up?q=%22corpse
 
 
 
-Also Hone's Year Book,  Corpse candles, p. 1279 https://archive.org/details/cu31924029752791/page/n641/mode/2up?q=brand October 1831
+Also Hone's Year Book, Corpse candles, p. 1279 https://archive.org/details/cu31924029752791/page/n641/mode/2up?q=brand October 1831
 
 
 Gentleman's Magazine p314 The Gentleman's magazine
@@ -33,7 +33,7 @@ Also Blackwoods 1818
 N&Q https://archive.org/details/sim_notes-and-queries_1878-01-26_9_213/page/n3/mode/2up
 
 
-grose  proviincial glossary 1811 p115
+grose proviincial glossary 1811 p115
 
 [Bygones, 1871-3, p. 36 ???
 

@@ -96,9 +96,9 @@ In contemporary usage, at least according to the *Merriam Webster* dictionary](h
 The character is originally introduced in [*A Bold Stroke for a Wife*](https://en.wikipedia.org/wiki/A_Bold_Stroke_for_a_Wife#Simon_Pure), an 18th century satirical play in which two Simon Pures appear on stage.
 ```
 
-Over in *Bye-Gones*, which we might recall was edited by Askew Roberts, and also reprinted in *The Cambrian News and Merionethshire Standard* of [March 10th, 1876, p7](https://newspapers.library.wales/view/3307838/3307845/60/), the  commentary surrounding the debate continued, with a follow-up to the summary of the February 9th, 1876, edition appearing in the [March 8th, 1876](https://journals.library.wales/view/2092910/2093621/6#?xywh=-1479%2C210%2C5791%2C3820) edition, p29:
+Over in *Bye-Gones*, which we might recall was edited by Askew Roberts, and also reprinted in *The Cambrian News and Merionethshire Standard* of [March 10th, 1876, p7](https://newspapers.library.wales/view/3307838/3307845/60/), the commentary surrounding the debate continued, with a follow-up to the summary of the February 9th, 1876, edition appearing in the [March 8th, 1876](https://journals.library.wales/view/2092910/2093621/6#?xywh=-1479%2C210%2C5791%2C3820) edition, p29:
 
-> The  Sin-Eater in Wales
+> The Sin-Eater in Wales
 > (Feb. 9, 1876)
 > Further correspondence has appeared in the *Academy* on this question, but no fresh light has been thrown on the alleged custom. On February 26th, Mr E. R. Morris gives from Ruscoe's *South Wales* a quotation from the *Mountain Decameron*, in which "what is believed to have been the last Sin-Eater in Wales," is stated to have lived somewhere between Aberystwyth and Machynlleth, but Mr Askew Roberts, in the last number, shows, by further quotation from the book itself, that this was only a fancy sketch, founded on Aubrey's "leane raskal." In another letter, replying to one by the author of the *Blackwood* article, Mr Silvan Evans deies that gentleman to make good his assertion that the superstition is "still surviving in North and South Wales."
 
@@ -237,7 +237,7 @@ The intriguing sounding "Mont: Coll:" is *Collections historical & archaeologica
 
 ```
 
-We will pick up the tale again in the next chapter by reviewing the varios new additions to the published canon regarding the sin-eater referenced by Askew Roberts: the discussion in the *Shrewsbury Journal* and Wirt Sykes' *British Goblins*, Paxton Hood's work on Christmas Evans,  the articles in Bye-Gones.
+We will pick up the tale again in the next chapter by reviewing the varios new additions to the published canon regarding the sin-eater referenced by Askew Roberts: the discussion in the *Shrewsbury Journal* and Wirt Sykes' *British Goblins*, Paxton Hood's work on Christmas Evans, the articles in Bye-Gones.
 
 But first, a slight aside..
 

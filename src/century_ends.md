@@ -1,6 +1,6 @@
 # The Century Ends
 
-As the nineteenth century came to end, the episodes of active debate surrounding the  historical existence, or otherwise, of the sin-eater came to an end.
+As the nineteenth century came to end, the episodes of active debate surrounding the historical existence, or otherwise, of the sin-eater came to an end.
 
 From now on, it would become more of a historical curiosity, as the following note in *Carmarthenshire notes (antiquarian, topographical, and curious)* [October 28th, 1899, p100](https://journals.library.wales/view/2016648/2017140/7#?xywh=-56%2C168%2C2016%2C1660) demonstrates. Even as an appeal for more information was made, the quesion apparently went without response:
 

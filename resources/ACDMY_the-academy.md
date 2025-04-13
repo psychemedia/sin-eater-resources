@@ -154,7 +154,7 @@ P.S.—It occurs to me to add that the much-abused Aubrey was great-grandson to 
 
 Also p144
 
-In the Contemporary Review  ...  Lady VERNEY, in an interesting paper in the same periodical on Welsh Legends and Welsh Poetry, repeats the disputed statement as to the functions of the Sin-eater, and supplies some instances of witchcraft with a rationalistic explanation.
+In the Contemporary Review ... Lady VERNEY, in an interesting paper in the same periodical on Welsh Legends and Welsh Poetry, repeats the disputed statement as to the functions of the Sin-eater, and supplies some instances of witchcraft with a rationalistic explanation.
 
 ---
 
@@ -272,7 +272,7 @@ I do not know what grounds Mr. Thomas may have for casting doubt upon Aubrey's t
 
 "This Custome (though rarely used in our dayes) yet by some people was observed even in the strictest time of ye Presbyterian goverment: as at Dynder, volens nolens the Parson of ye Parish, the relations of a woman deceased there had this Ceremonie punctually performed according to her will: and also the like was donne at ye City of Hereford in these times, when a woman kept many yeares before her death a Mazard-bowle for the sinne-eater; and the like in other places in this Countis: as also in Brecon, e.g. at Lllangors, where Mr. Gwin the minister could no hinder ye performing of this ancient custome."
 
-Aubrey does not, indeed, profess to have himself witnessed these  instances of the ceremony. If we depended entirely for evidence of events and customs on the affidavits of eye-witnesses, we should introduce a canon of evidence unknown to historical investigation, and should reject much that no reasonable man can doubt.
+Aubrey does not, indeed, profess to have himself witnessed these instances of the ceremony. If we depended entirely for evidence of events and customs on the affidavits of eye-witnesses, we should introduce a canon of evidence unknown to historical investigation, and should reject much that no reasonable man can doubt.
 
 Leaving for the moment what he says about Llangors, I pass to Derbyshire, a district where the Britons long maintained their independence, and the population of which is probably still to a great extent of Celtic ancestry. Recent inquiries by Mr. S. O. Addy have shown that
 
@@ -489,7 +489,7 @@ Well, all that my author—of whom I here take leave—says is, that she was Pal
 The simplest explanation of burning the straw-bed seems to be fear of infection. The home of the famous medical family, *Meddygon Myddfai*, was not far from that part of Breconshire, and some of their lore was widely spread by tradition. Another quotation from Theophilus Jones may afford Mr. Hartland more satisfaction :
 
 "It is said that formerly the articles of consumption esteemed as the greatest luxuries in the Principality were— 
-'A toasted Welsh rabbit  And a Sais off the gibbet.  (*Ibid*, p. 281.)"
+'A toasted Welsh rabbit And a Sais off the gibbet.  (*Ibid*, p. 281.)"
 
 In a footnote he adds: "Here is an opportunity for a triumph against the Celt, as Mr. Pinkerton may argue that the Welsh were not only savages but cannibals."
 
@@ -528,7 +528,11 @@ I need not point out that the Early England of that border was, like the rest of
 
 On the stanza —
 
-"From Brig of Dread that thou mayest pass  *Na brader than a thread*,  Every night and awle,  To Purgatory fire thou com'st at last,  And Christ receive thy sawle—"
+"From Brig of Dread that thou mayest pass  
+*Na brader than a thread*,  
+Every night and awle,  
+To Purgatory fire thou com'st at last,  
+And Christ receive thy sawle—"
 
 Thoms has a very interesting note, and a reference to Grimm's *Deutsche Mythologie*, xxi. In fact, he was content to look, in the first place, to Teutonic sources for the ancestry of English beliefs and customs. That was, of course, long before the promulgation of Matthew Arnold's somewhat extravagant theory of the Celtic spirit in English literature. After the spirit, we naturally come to the body; and now we find that at every funeral ceremony, from the Black Sea to the Black Mountain of Wales,
 
@@ -807,7 +811,7 @@ No more!
 The yeast within its ravening mouth was red with streamy gore—  
 O red seaweed, O red sea-waves, O hollow, baffled roar,  
 Since one thou hast, O dark dim sea, why callest thou for more,  
-My grief,  For more ?
+My grief, For more ?
 
 "In the quiet moonlight the chant, with its long, slow cadences, sung as no other man in the Isles could sing it, sounded sweet and remote beyond words to tell. The glittering shine was upon the water of the haven, and moved in waving lines of fire along the stone ledges. Sometimes a fish rose, and split a ripple of pale gold; or a sea-nettle swam to the surface, and turned its blue or greenish globe of living jelly to the moon dazzle."
 
@@ -841,7 +845,7 @@ N. W. THOMAS
 
 https://archive.org/details/sim_academy-and-literature_1896-03-21_49_1246/page/240/mode/2up?q=%22sin-eating%22
 
-The Academy  Vol 49 Iss 1246
+The Academy Vol 49 Iss 1246
 
 1896-03-21
 p241-242
@@ -906,7 +910,7 @@ The sketches of Welsh manners and customs to be found in *The Vale of the Towey*
 
 So much being premised, I now proceed to give a few extracts from the fourteenth sketch, which is named "The Ivorite's Funeral":
 
-"Pally  ... is accordingly busily engaged in serving out a beverage that was once common at funerals, but is now comparatively seldom used. It is called *abeilon*, and is composed of the juice of the elderberry, rosemary, and other herbs, well spiced, and poured into hot ale, which is distributed to the mourners, and drunk, notwithstanding the circumstances, with evident satisfaction. All the assembly .. . . partake of the reeking drink, eat cake with it, and talk meanwhile of many things far removed from the solemn subject of death, though it would seem impossible to forget it in the presence of the corpse. When the party had drunk a sufficient quantity of abeilon, one of them, a tall, lank man, arose. . . . This was the Dissenting minister. . . . After quietly delivering the text, he pours forth at once a flood of words. . . . He then gives out a verse of a hymn, in which most of his congregation join. . . . The hymn being finished, the minister descends from his pulpit, and again enters the house. He is immediately attended by Rachel's uncle and Pally, the former of whom slips five shillings into his hand in payment for his sermon, whilst the latter offers a second glass of *abeilon*. Both are received with thanks . . and the preacher takes his departure. . . . The preparations for bearing the body to its last resting-place now began. . . . At the turning of the lane another procession was seen approaching in an opposite direction. It was composed of the members of the Ivorite Club, consisting of between two and three hundred persons, who joined the funeral, and preceded the coffin. Each individual wore a black scarf and hatband, and the general effect was very imposing. They wound their mournful way through the park until they reached the little church I have already attempted to describe. There they were met by the clergyman, and the solemn service began. The coffin rests in the aisle, and the church is filled with mourners. The first part of the service over, they proceed to the churchyard and surround the grave. . . . The sunbeams fall upon the dark forms of the mourners, and rest upon the coffin. . . . A few lumps of earth fall heavily upon the coffin. . . . The Ivorites now surround the grave. Hand in hand they encircle it, whilst each takes from his bosom a spric of rosemary and drops it upon the coffin. The last act completed, they stand for a few moments solemnly silent, then disunite and form into pairs."
+"Pally ... is accordingly busily engaged in serving out a beverage that was once common at funerals, but is now comparatively seldom used. It is called *abeilon*, and is composed of the juice of the elderberry, rosemary, and other herbs, well spiced, and poured into hot ale, which is distributed to the mourners, and drunk, notwithstanding the circumstances, with evident satisfaction. All the assembly .. . . partake of the reeking drink, eat cake with it, and talk meanwhile of many things far removed from the solemn subject of death, though it would seem impossible to forget it in the presence of the corpse. When the party had drunk a sufficient quantity of abeilon, one of them, a tall, lank man, arose. . . . This was the Dissenting minister. . . . After quietly delivering the text, he pours forth at once a flood of words. . . . He then gives out a verse of a hymn, in which most of his congregation join. . . . The hymn being finished, the minister descends from his pulpit, and again enters the house. He is immediately attended by Rachel's uncle and Pally, the former of whom slips five shillings into his hand in payment for his sermon, whilst the latter offers a second glass of *abeilon*. Both are received with thanks . . and the preacher takes his departure. . . . The preparations for bearing the body to its last resting-place now began. . . . At the turning of the lane another procession was seen approaching in an opposite direction. It was composed of the members of the Ivorite Club, consisting of between two and three hundred persons, who joined the funeral, and preceded the coffin. Each individual wore a black scarf and hatband, and the general effect was very imposing. They wound their mournful way through the park until they reached the little church I have already attempted to describe. There they were met by the clergyman, and the solemn service began. The coffin rests in the aisle, and the church is filled with mourners. The first part of the service over, they proceed to the churchyard and surround the grave. . . . The sunbeams fall upon the dark forms of the mourners, and rest upon the coffin. . . . A few lumps of earth fall heavily upon the coffin. . . . The Ivorites now surround the grave. Hand in hand they encircle it, whilst each takes from his bosom a spric of rosemary and drops it upon the coffin. The last act completed, they stand for a few moments solemnly silent, then disunite and form into pairs."
 
 Moggridge, it may be remembered, in his letter to Canon Silvan Evans (January 1, 1876), said that the only written account of the custom mentioned by him at Ludlow was Aubrey's. If, therefore, somebody who had read the above account in Miss Beale's book had told him of the "tall lank man" who poured forth "a flood of words," received "five shillings," drank a glass of *abeilon*, and then departed—all this "ritual" being quite distinct from the church service; or if, which is still more probable, he had heard the tale, with inevitable variations, at third or fourth hand, he may be excused for having seen in it a confirmation of Aubrey's fable of the Sin-eater.
 

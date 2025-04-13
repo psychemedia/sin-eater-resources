@@ -39,7 +39,7 @@ A reprinted version of Silvan Evans letter to the *Academy* also appeared *The C
 
 and in *The Aberystwith Observer*, p4, dated [November 20th, 1875](https://newspapers.library.wales/view/3040671/3040675/30/sin-eater):
 
-> THE Rev Silvan Evans, B.D., has written the following letter to the Academy :— Llanymawddwy Rectory,  Merioneth November 8th, 1875. In the *Academy* November 6th, (p 478) I find ...
+> THE Rev Silvan Evans, B.D., has written the following letter to the Academy :— Llanymawddwy Rectory, Merioneth November 8th, 1875. In the *Academy* November 6th, (p 478) I find ...
 
 ## Response to Silvan Evans, Historical Evidence, 1875-11-20
 
@@ -117,7 +117,7 @@ It appears, though, that he may have been something of a workaholic:
 
 TO DO - see also:
 
-> Gossiping guide to wales  https://archive.org/details/gossipingguidet01woodgoog
+> Gossiping guide to wales https://archive.org/details/gossipingguidet01woodgoog
 
 https://biography.wales/article/s-ROBE-ASK-1826
 
@@ -129,7 +129,7 @@ http://onlinebooks.library.upenn.edu/webbin/serial?id=byegoneswales
 >
 > Posted on March 3, 2018
 >
-> Owners Of Caxton Press Mr W W ROBERTS, founder  Mr S ROBERTS 1st Proprietor – this and picture 17 came from the newspaper but we have no date.
+> Owners Of Caxton Press Mr W W ROBERTS, founder Mr S ROBERTS 1st Proprietor – this and picture 17 came from the newspaper but we have no date.
 
 ```
 
@@ -374,7 +374,7 @@ This appears to have been Mr Jeremiah's only contribution to the sin-eater debat
 ```
 ## Silvan Evans Responds to the Evidence, 1876-02-05
 
-After a short break in correspondence, presumably as he attempted his researches,  Silvan Evans wrote again to the *Academy* a month into the new year with a missive that appears in [*Vol 9 Iss 196*](https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+) published February 2nd, 1876, p125-6.
+After a short break in correspondence, presumably as he attempted his researches, Silvan Evans wrote again to the *Academy* a month into the new year with a missive that appears in [*Vol 9 Iss 196*](https://archive.org/details/sim_academy-and-literature_1876-02-05_9_196/page/124/mode/2up?q=sin+eater+) published February 2nd, 1876, p125-6.
 
 ```{admonition} Republished Elsewhere
 The same letter is repbublished more or less in its entirety in the *Aberystwith Observer* dated [February 12th, 1872](https://newspapers.library.wales/view/3040731/3040733/14/sin%20eater), prefaced with the following introduction:
@@ -589,7 +589,7 @@ The same review appeared in *Cambrian News and Merionethshire Standard* dated [F
 
 In the *Academy*, Vol 9 Iss 197, published February 12th, 1876, p144, a passing mention to Lady Verney's article:
 
-> In the Contemporary Review  ...  Lady VERNEY, in an interesting paper in the same periodical on Welsh Legends and Welsh Poetry, repeats the disputed statement as to the functions of the Sin-eater, and supplies some instances of witchcraft with a rationalistic explanation.
+> In the Contemporary Review ... Lady VERNEY, in an interesting paper in the same periodical on Welsh Legends and Welsh Poetry, repeats the disputed statement as to the functions of the Sin-eater, and supplies some instances of witchcraft with a rationalistic explanation.
 
 In the same issue, [Vol 9 Iss 197, published February 12th, 1876](https://archive.org/details/sim_academy-and-literature_1876-02-12_9_197/page/146/mode/2up?q=silvan), p147, the anonymous *Blackwood* author responses post-haste to Silvan Evan's letter in the previous issue, opening their missive with a baiting and mocking tone (truly are these two Victorian gentlemen trolling each other!):
 
@@ -607,7 +607,7 @@ Did he not read the whole report?!
 
 > Had Mr. Evans turned over a leaf and read the last words of Mr. Moggridge on the occasion referred to, he would have found that they were to the effect that "he believed people were thoroughly ashamed of the practice: one case, he was informed, *occurred four or five years ago; but he believed it was extinct now.*"
 
-Taking *"having been informed"* relative to the date of Moggridge's original comments, or to  a contemporary communication to Mr Moggridge around that time, any occurrence *"four or five years ago"* would be dated around 1847.
+Taking *"having been informed"* relative to the date of Moggridge's original comments, or to a contemporary communication to Mr Moggridge around that time, any occurrence *"four or five years ago"* would be dated around 1847.
 
 As regards the locale:
 

@@ -4,7 +4,7 @@ In the years that followed the second controversy, references to the sin-eater t
 
 > Superstition at Haringey
 >
->...  Perhaps the most curious of all the superstitions connected with death is that attached to the office of  
+>... Perhaps the most curious of all the superstitions connected with death is that attached to the office of  
 > SIN-EATER.
 >
 > In each village an old gaffer who came at a death and, sitting on a stool outside the door, was furnished with bread and ale, which he consumed, and a groat, which he pocketed. The ceremony over, he rose, and assured the mourners of the eternal peace of the soul of the departed, since he had, in eating and drinkirig, taken all sin upon himself. His soul was in pawn for that of the deceased, who was accordingly released from all penalties of what he had done in life, including the neressity of walking. It is to be assumed that the sin-eater found at his death another sin-eater willing to take the accumulated burden upon him, and he another, and so on —a highly convenient mode of shifting one's responsiblity on no one in particular. Many as are the superstitions associated with death, they are few compared with those that cluster round  
@@ -49,7 +49,7 @@ A few short years later, in 1904, we also see a report claiming that Professor S
 The Sin eater is the title of the book just finished by Allen Raine, and now ready for publication in the autumn. It deals with an old Welsh custom, long since extinct The office or function of the Sin eater was a real one, and so late as the year 1825, there was living near Llanybyther, an aged man, known as the Sin eater. The late Professor Evans who died a few months ago, had seen him when a lad, and could remember hearing people talk of the custom, which had been one of ordinary occurrence in their parents' days whenever a death took place.
 ```
 
-The sin-eater story  was also touched upon in a series of lectures given in the 1907 MacCullum Lectures presented by the Rev. Dr Henderson on Celtic funeral and death rites:
+The sin-eater story was also touched upon in a series of lectures given in the 1907 MacCullum Lectures presented by the Rev. Dr Henderson on Celtic funeral and death rites:
 
 ```{admonition} *Celtic Funeral Ritual and Death Rites*, March, 1907
 :class: dropdown

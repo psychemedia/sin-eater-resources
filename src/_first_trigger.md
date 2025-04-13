@@ -108,7 +108,7 @@ TO DO - pigeon's feathers, and the Bible and key or sieve spell to find'a thief
 
 But then we reach the paragraph that was to trigger a whole series of letters regarding the actual existence, or otherwise, of one very particular tradition: that of the "sin-eater".
 
-```{index} triple: sin eater;  First Controversy; trigger
+```{index} triple: sin eater; First Controversy; trigger
 :name: firstcontrov:trigger
 ```
 `````{admonition} The First Trigger

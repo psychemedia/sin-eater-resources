@@ -603,9 +603,9 @@ Custom on All Souls' Day. —In two villages lying side by side in the line whic
 
 (1.)  
 Step into your cellar—see what you can find:  
-If your barrels be not empty,  I hope you will prove kind.
+If your barrels be not empty, I hope you will prove kind.
 I hope you will prove kind with your 'aples' and strong beer,  
-And we'll come no more ' a-souling' until this time next year."
+And we'll come no more 'a-souling' until this time next year."
 
 (2.)  
 "One for Peter, one for Paul,  
@@ -635,7 +635,7 @@ GRIDDLE.
 
 *Griddle* is not gridiron, but is a circular plate of iron (or a broad and shallow pan) made on purpose for baking cakes. It is derived from |It is derived from Welsh *greidel*l*, from *greidiaw*, to heat or scorch. Gridiron is derived from Swedish-Gothic *grädda*, to bake and iron. The griddle-cake mentioned by your correspondent as being made on All-hallows Eve is, I suppose, the same as the soul-cake. ...
 
-At Ripon, in Yorkshire, the women make a cake on the Eve for every one in the family, and  it is called "cake-night." A soul-mass cake was often kept for good luck. Mr. Young, in his *History of Whitby*, says: "A lady in Whitby has a soul-mass loaf one hundred years old." Hunter, in his *Hallamshire Glossary*, says that the custom of making a peculiar kind of cake on this day is recognised in a deposition of the year 1574, given in Watson's *History of the House of Warren* (i, 217), wherein the party deposes that his mother knew a certain castle of the Earl of Warren's, having when a child, according to the custom of that country, gathered soul-cakes there on All Souls' Day.  
+At Ripon, in Yorkshire, the women make a cake on the Eve for every one in the family, and it is called "cake-night." A soul-mass cake was often kept for good luck. Mr. Young, in his *History of Whitby*, says: "A lady in Whitby has a soul-mass loaf one hundred years old." Hunter, in his *Hallamshire Glossary*, says that the custom of making a peculiar kind of cake on this day is recognised in a deposition of the year 1574, given in Watson's *History of the House of Warren* (i, 217), wherein the party deposes that his mother knew a certain castle of the Earl of Warren's, having when a child, according to the custom of that country, gathered soul-cakes there on All Souls' Day.  
 John PIGGOTT, F.S.A.  
 Ulting Maldon.
 

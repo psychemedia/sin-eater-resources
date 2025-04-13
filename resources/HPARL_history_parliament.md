@@ -28,7 +28,7 @@ ConstituencyDates
 DORCHESTER
 1705 - 1710
 Family and Education
-b. 2 May 1658, 1st s. of William Churchill, bookseller, of Dorchester by Elizabeth, da. of Nicholas Awnsham of Isleworth, Mdx.; bro. of Joshua† and William Churchill*. unm.  suc. fa. 1706.1
+b. 2 May 1658, 1st s. of William Churchill, bookseller, of Dorchester by Elizabeth, da. of Nicholas Awnsham of Isleworth, Mdx.; bro. of Joshua† and William Churchill*. unm. suc. fa. 1706.1
 
 Offices Held
 Freeman, Stationers' Co. 1681; Dorchester 1705.2

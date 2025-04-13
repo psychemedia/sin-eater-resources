@@ -199,7 +199,7 @@ Another full length review, this time in the Cardiff and Merthyr Guardian, Glamo
 >
 > "THE MOUNTAIN DECAMERON."
 >
-> These volumes contain much that is clever and original. They profess to embody in a series of Tales the popular habits, customs, superstitions, and modes of thinking of the Welsh.  We have no time for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.
+> These volumes contain much that is clever and original. They profess to embody in a series of Tales the popular habits, customs, superstitions, and modes of thinking of the Welsh. We have no time for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.
 >
 > The author laments in a note, and with some shew of justice, the indifference of the Welsh Gentry to their National Literature.
 >
@@ -227,7 +227,7 @@ Meanwhile, the Morning Post keeps plugging away, as on [Monday 20 June 1836](htt
 
 > The Mountain Decameron, a Romance of North Wales.—
 >
-> The author of these volumes has, in treating of Welsh scenery, manners, customs, legends, &c., broken nearly, if not quite, untrodden ground. Hence his "Mountain Decameron" is full of life and novelty, and will come on the experienced novel reader quite like a surprise.  The stirring native legends and stern domestic tragedies of homely Welsh life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author's mind, so vivid are the colourings in which he has portrayed them, and so impassioned and truth-like their character. We have observed that Mr. Downes is a superior landscape painter, but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as, in more than one instance, we ourselves can testify.— *Sun.*
+> The author of these volumes has, in treating of Welsh scenery, manners, customs, legends, &c., broken nearly, if not quite, untrodden ground. Hence his "Mountain Decameron" is full of life and novelty, and will come on the experienced novel reader quite like a surprise. The stirring native legends and stern domestic tragedies of homely Welsh life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author's mind, so vivid are the colourings in which he has portrayed them, and so impassioned and truth-like their character. We have observed that Mr. Downes is a superior landscape painter, but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as, in more than one instance, we ourselves can testify.— *Sun.*
 
 The *English Chronicle and Whitehall Evening Post* also provides a short review on [Thursday 23 June 1836](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18360623/052/0008):
 

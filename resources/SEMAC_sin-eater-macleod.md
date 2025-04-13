@@ -343,7 +343,7 @@ She counted out ten pennies and two farthings.
 
 
 48 THE SIN-EATER  
-"I will do that, Maisie Macdonald, and thanks to you. It is not forgetting it I will be, nor you, good woman. And now, tell me, is it safe that I am? He called me a ' scapegoat '; he, Andrew Blair! Can evil touch me between this and the sea?"  
+"I will do that, Maisie Macdonald, and thanks to you. It is not forgetting it I will be, nor you, good woman. And now, tell me, is it safe that I am? He called me a 'scapegoat'; he, Andrew Blair! Can evil touch me between this and the sea?"  
 "You must go to the place where the evil was done to you and yours — and that, I know, is on the west side of lona. Go, and God preserve you. But here, too, is a sian that will be for the safety."  
 Thereupon, with swift mutterings she said this charm: an old, familiar Sian against Sudden Harm: —  
 "Sian a chuir Moire air Mac ort, Sian ro' marbhadh, sian ro' lot ort, Sian eadar a' chlioch 's a' ghlun, Sian nan Tri ann an aon ort, O mhullach do chinn gu bonn do chois ort: Sian seachd eadar a h-aon ort, Sian seachd eadar a dha ort, Sian seachd eadar a tri ort, Sian seachd eadar a ceithir ort, Sian seachd eadar a coig ort Sian seachd eadar a sia ort,  
@@ -405,7 +405,7 @@ Neil Ross stared, his eyes large and wild. He leaned a little forward. No word c
 
 THE SIN -EATER 53  
 from him. The look that was on his face was the question.  
-"Yes: it was this way. Sure, the telh'ng of it is just as I heard it. After you ate the sins of Adam Blair, the people there brought out the coffin. When they were putting him into it, he was as stiff as a sheep dead in the snow — and just like that, too, with his eyes wide open. Well, someone saw you trampling the heather down the slope that is in front of the house, and said, ' It is the Sin-Eater! ' With that, Andrew Blair sneered, and said — ' Ay, 'tis the scapegoat he is! ' Then, after a while, he went on: ' The Sin - Eater they call him: ay, just so: and a bitter good bargain it is, too, if all 's true that 's thought true! ' And with that he laughed, and then his wife that was behind him laughed, and then . . ."  
+"Yes: it was this way. Sure, the telh'ng of it is just as I heard it. After you ate the sins of Adam Blair, the people there brought out the coffin. When they were putting him into it, he was as stiff as a sheep dead in the snow — and just like that, too, with his eyes wide open. Well, someone saw you trampling the heather down the slope that is in front of the house, and said, 'It is the Sin-Eater!' With that, Andrew Blair sneered, and said — 'Ay, 'tis the scapegoat he is!' Then, after a while, he went on: 'The Sin-Eater they call him: ay, just so: and a bitter good bargain it is, too, if all's true that's thought true!' And with that he laughed, and then his wife that was behind him laughed, and then . . ."  
 "Well, what then?"  
 "Well, 'tis Himself that hears and knows if it is true! But this is the thing I was told: — After that laughing there was a still- ness and a dread. For all there saw that the corpse had turned its head and was looking after you as you went down the  
 
@@ -449,13 +449,13 @@ I am giving the sins of a dead man to thee!
 By the Stones, by the Wind, by the Fire, by the Tree,  
 From the dead man's sins set me free, set me free!  
 Adam mhic Anndra mhic Adam and me,  
-Set us free! Set us free! '  
+Set us free! Set us free!'  
 "Ay, sure, the Sin-Eater sang that over and over; and after the third singing he swung his arms and screamed —  
 "'And listen to me, black waters an' running tide.  
 That rune is the good rune told me by Maisie the wise.  
 And I am Neil the son of Silis Macallum  
 By the black-hearted evil man Murtagh Ross,  
-That was the friend of Adam mac Anndra, God against him! '  
+That was the friend of Adam mac Anndra, God against him!'  
 And with that he scrambled and fell into the sea. But, as I am Aulay mac Luais and no other, he was up in a moment, an' swimmin' like a seal, and then over the rocks again, an' away back to that lonely roofless place once more, laughing wild at times, an' muttering an' whispering."  
 
 
@@ -500,15 +500,15 @@ haunted now as of yore. Less wretched a shelter now it was, because of the summe
 "And what will it be, then, you that are my friend, and sure knowing me as Aulay mac Luais — Aulay Macneill that never grudges you bit or sup?"  
 "/ am Judasy  
 "And at that word," says Aulay Macneill, when he tells the tale, "at that word the pulse in my heart was like a bat in a shut room. But after a bit I took up the talk,  
-"'Indeed,' I said; 'and I was not for knowing that. May I be so bold as to ask whose son, and of what place? '  
-"But all he said to me was, ' / am Judas!  
-"Well, I said, to comfort him, ' Sure, it 's  
+"'Indeed,' I said; 'and I was not for knowing that. May I be so bold as to ask whose son, and of what place?'  
+"But all he said to me was, 'I am Judas!  
+"Well, I said, to comfort him, 'Sure, it 's  
 
 
 64 THE SIN-EATER  
 not such a bad name in itself, though I am knowing some which have a moie home-Hke sound.' But no, it was no good.  
-"' I am Judas. And because I sold the Son of God for five pieces of silver . . .'  
-"But here I interrupted him and said, — ' Sure, now, Neil — I mean, Judas — it was eight times five.' Yet the simpleness of his sorrow prevailed, and I listened with the wet in my eyes.  
+"'I am Judas. And because I sold the Son of God for five pieces of silver . . .'  
+"But here I interrupted him and said, — 'Sure, now, Neil — I mean, Judas — it was eight times five.' Yet the simpleness of his sorrow prevailed, and I listened with the wet in my eyes.  
 "' I am Judas. And because I sold the Son of God for five silver shillings. He laid upon me all the nameless black sins of the world. And that is why I am bearing them till the Day of Days.'"  
 And this was the end of the Sin - Eater; for I will not tell the long story of Aulay Macneill, that gets longer and longer every winter: but only the unchanging close of it.  
 I will tell it in the words of Aulay.  
@@ -527,7 +527,7 @@ eS THE SIN -EATER
 limbs, I saw that there was life in him still. The lips were moving, and his right arm was ever for swinging this way and that. 'Twas like an oar, working him off a lee shore: ay, that was what I thought.  
 "Then, all at once, he caught sight of me. Well he knew me, poor man, that has his share of heaven now, I am thinking!  
 "He waved, and called, but the hearing could not be, because of a big surge o' water that came tumbling down upon him. In the stroke of an oar he was swept close by the rocks where I was standing. In that floun- derin', seethin' whirlpool I saw the white face of him for a moment, an' as he went out on the re-surge like a hauled net, I heard these words fallin' against my ears, —  
-^^^An eirig ifHanama ... In ransom for my soul! '  
+^^^An eirig ifHanama ... In ransom for my soul!'  
 "And with that I saw the double-spar turn over and slide down the back - sweep of a drowning big wave. Ay, sure, it went out to the deep sea swift enough then. It was in the big eddy that rushes between Skerry- Mor and Skerry - Beag. I did not see it again — no, not for the quarter of an hour,  
 
 

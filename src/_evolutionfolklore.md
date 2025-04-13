@@ -17,15 +17,17 @@ Jacobs, Joseph
 1893 "The Folk." Folk-Lore 4:233-38.
 
 Also
-https://archive.org/details/folklore04folkuoft/page/434/mode/2up, p434+ SOME    RECENT     UTTERANCES     OF MR.  NEWELL  AND  MR.  JACOBS.
-A  CRITICISM.i
+https://archive.org/details/folklore04folkuoft/page/434/mode/2up, p434+ SOME RECENT     UTTERANCES OF MR. NEWELL AND MR. JACOBS.
+A CRITICISM.
 
 
 ---
 
 
 
-https://archive.org/details/folklorejournal05folkuoft/page/n4/mode/2up?q=promoting SOME SIMPLE METHODS OF PROMOTING THE STUDY OF FOLK-LORE, AND THE EXTENSION OF THE FOLK-LORE SOCIETY. p62-5
+https://archive.org/details/folklorejournal05folkuoft/page/62/mode/2up?q=promoting
+
+Vol. V. January-December 1887 p62-5
 
 SOME SIMPLE METHODS OF PROMOTING THE STUDY OF FOLK-LORE, AND THE EXTENSION OF THE FOLK-LORE SOCIETY.
 
@@ -39,9 +41,9 @@ Another thing that strikes one every day is the extraordinary ignorance of even 
 
 In the first place, the admirable prospectus of the Society should be widely distributed, by which I do not mean that it should be sent to all-and-sundry in a halfpenny wrapper, to meet with immediate "happy despatch" in the waste-paper basket; but that every individual member should exert himself or herself to put two or three copies of it into the hands of intelligent friends.
 
-In the second place we ought to gain the attention of the newspapers. What the Psychical Society can do, surely the Folk-Lore Society can. What steps to take with regard to the London press I leave to the consideration of Londoners; but there are thousands of middle-class country people who can be reached through the country press better than through any other medium, and what I want particularly to urge on our country members is the importance of drawing attention to the subject in the columns of their several local newspapers. The occasional paragraphs headed "Extraordinary Superstition," the announcements that "The ancient custom of so-and-so was observed in this town on such-a-day," would give opportunities for letters or articles on the general subject of folk-lore, which would without question be gladly welcomed by the editors of the better class of country papers. Again, queries on definite points of local usage, &c. will generally meet with some response. I speak from personal experience, and I could name two most energetic collectors who obtain the chief part of their materials in this way. Many of the local editors, too, would willingly, if it were suggested to them, insert portions of the prospectus in the form of a paragraph; especially where there is an antiquarian column, to which it would form a valuable con- tribution. Moreover, besides helping to arouse the interest of the general public by these means, we could not obtain more useful coadjutors than the writers for the local press themselves. I have, myself, received most courteous and competent assistance in collecting from members of their calling. The chiefs among them are naturally some of the ablest and most cultivated men of their class, and the subordinate members of the staff have unrivalled opportunities of getting at the folk-lore of their several districts.
+In the second place we ought to gain the attention of the newspapers. What the Psychical Society can do, surely the Folk-Lore Society can. What steps to take with regard to the London press I leave to the consideration of Londoners; but there are thousands of middle-class country people who can be reached through the country press better than through any other medium, and what I want particularly to urge on our country members is the importance of drawing attention to the subject in the columns of their several local newspapers. The occasional paragraphs headed "Extraordinary Superstition," the announcements that "The ancient custom of so-and-so was observed in this town on such-a-day," would give opportunities for letters or articles on the general subject of folk-lore, which would without question be gladly welcomed by the editors of the better class of country papers. Again, queries on definite points of local usage, &c. will generally meet with some response. I speak from personal experience, and I could name two most energetic collectors who obtain the chief part of their materials in this way. Many of the local editors, too, would willingly, if it were suggested to them, insert portions of the prospectus in the form of a paragraph; especially where there is an antiquarian column, to which it would form a valuable contribution. Moreover, besides helping to arouse the interest of the general public by these means, we could not obtain more useful coadjutors than the writers for the local press themselves. I have, myself, received most courteous and competent assistance in collecting from members of their calling. The chiefs among them are naturally some of the ablest and most cultivated men of their class, and the subordinate members of the staff have unrivalled opportunities of getting at the folk-lore of their several districts.
 
-Perhaps more tangible results in the way of new subscribers, (of whom our funds notoriously stand in need), might be obtained by the private circulation of the prospectus; but the general enlightenment of the public mind would certainly be better attained through the newspapers than in any other way, and this would also be the readiest means of increasing the stock of recorded English folk-lore, while here and there a real appreciation of the subject would be found lurking in unexpected quarters. But apart from interested motives, the promotion of the study of folk-lore is a desirable object in itself. It has a dractical bearing on the affairs of human life. Captain Temple has pointed out (Journal, vol. iv. p. 209) the value of the study to all Englishmen who are called upon (as so many are called upon) to exercise authority over savage and uncivilized tribes. But there are barbarians nearer home than in India or New Zealand, and surely any one who is placed in a position of authority over uneducated folk must gain in largeness of judgment and breadth of view, and must, therefore, be better fitted for his post, when he has arrived at a perception of the cardinal fact that widely separated stages of progress may coexist in the same country at the same time, and has learnt that the ideas of the folk are not necessarily to be ridiculed or despised when they differ from those which his education has instilled into him. When people understand the reasons of the prejudices of uneducated folk they must know better how to deal with them, and how to set about trying to reconcile them with the principles of modern culture and civilization.
+Perhaps more tangible results in the way of new subscribers, (of whom our funds notoriously stand in need), might be obtained by the private circulation of the prospectus; but the general enlightenment of the public mind would certainly be better attained through the newspapers than in any other way, and this would also be the readiest means of increasing the stock of recorded English folk-lore, while here and there a real appreciation of the subject would be found lurking in unexpected quarters. But apart from interested motives, the promotion of the study of folk-lore is a desirable object in itself. It has a dractical `(sic)` bearing on the affairs of human life. Captain Temple has pointed out (Journal, vol. iv. p. 209) the value of the study to all Englishmen who are called upon (as so many are called upon) to exercise authority over savage and uncivilized tribes. But there are barbarians nearer home than in India or New Zealand, and surely any one who is placed in a position of authority over uneducated folk must gain in largeness of judgment and breadth of view, and must, therefore, be better fitted for his post, when he has arrived at a perception of the cardinal fact that widely separated stages of progress may coexist in the same country at the same time, and has learnt that the ideas of the folk are not necessarily to be ridiculed or despised when they differ from those which his education has instilled into him. When people understand the reasons of the prejudices of uneducated folk they must know better how to deal with them, and how to set about trying to reconcile them with the principles of modern culture and civilization.
 
 Charlotte S. Burne.
 Pyebirch, Eccleshall, Staffordshire. 13th December, 1886.
@@ -67,13 +69,37 @@ by Johnson, Walter
 Publication date 1908
 
 
-https://archive.org/details/handbookfolklor01gommgoog
+https://archive.org/details/handbookfolklor00gommgoog/
 The handbook of folklore
 by Gommer, George Laurence, Sir, 1853- [from old catalog]
 Publication date 1890
 
+eg https://archive.org/details/handbookfolklor01gommgoog/page/n177/mode/2up
+
+XXII.-THE WAY TO COLLECT FOLKLORE. pp167-72  but p168-170 and 172 are missing in archive.org
+Google Books https://books.google.co.uk/books?id=lrQTAAAAYAAJ&printsec=frontcover&dq=handbook+folklore+gomme&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=handbook%20folklore%20gomme&f=false is complete
+
+With each item of folklore collected, whether it be a custom, superstition, tale, or saying, the following information is required:—
+
+(1) Locality — town, county, country; tribe, village, or settlement;
+
+(2) Date when last observed or collected;
+
+(3) Whether still in use or still related;
+
+(4) From whom collected — name, occupation, social position.
+
+If such particulars are not forthcoming, much of the value of the collection is lost; but as all information is acceptable, the absence of these particulars should not prevent a collector from at once recording whatever he has collected.
+
+A most important thing is to endeavour to collect the entire folklore current in a district formed by ancient boundaries, or among a certain clan or tribe, so that it may be said that certain customs or superstitions are not known in this district or among this clan or tribe. If it be possible it will always be of essential service to get dis-
+
+
+"The best collecting is that which is done by accident, by living among the people and garnering up the sayings and stories they let fall from time to time."
+
+
 https://archive.org/details/cu31924009657283
-The handbook of folklore
+The handbook of folklore: New Edition Revised and Enlarged
+
 by Burne, Charlotte Sophia
 Publication date 1914
 

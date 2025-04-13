@@ -1,6 +1,6 @@
 # Second Controversy, 1895-6, Part II
 
-With the editor of *The Times* apparently tiring of the sin-eater correspondence  by the end of October, it was perhaps "fortunate" that Mr Hartland had written to *The Academy* on October 14th, 1895, since it meant that when the letter appeared in edition dated [November 11th, 1895](https://archive.org/details/sim_academy-and-literature_1895-11-09_48_1227/page/386/mode/2up?q=sin), p387-8, it would keep the debate alive.
+With the editor of *The Times* apparently tiring of the sin-eater correspondence by the end of October, it was perhaps "fortunate" that Mr Hartland had written to *The Academy* on October 14th, 1895, since it meant that when the letter appeared in edition dated [November 11th, 1895](https://archive.org/details/sim_academy-and-literature_1895-11-09_48_1227/page/386/mode/2up?q=sin), p387-8, it would keep the debate alive.
 
 As we are essentially looking back at Hartland's understanding of the matter from mid-October, there is an element of going back over ground already covered in the *Times* correspondence.
 
@@ -46,7 +46,7 @@ To reassert his support for Aubrey, Hartland quotes him again, arguing that Aubr
 >
 > "This Custome (though rarely used in our dayes) yet by some people was observed even in the strictest time of ye Presbyterian goverment: as at Dynder, volens nolens the Parson of ye Parish, the relations of a woman deceased there had this Ceremonie punctually performed according to her will: and also the like was donne at ye City of Hereford in these times, when a woman kept many yeares before her death a Mazard-bowle for the sinne-eater; and the like in other places in this Countis: as also in Brecon, e.g. at Lllangors, where Mr. Gwin the minister could no hinder ye performing of this ancient custome."
 >
-> Aubrey does not, indeed, profess to have himself witnessed these  instances of the ceremony. If we depended entirely for evidence of events and customs on the affidavits of eye-witnesses, we should introduce a canon of evidence unknown to historical investigation, and should reject much that no reasonable man can doubt.
+> Aubrey does not, indeed, profess to have himself witnessed these instances of the ceremony. If we depended entirely for evidence of events and customs on the affidavits of eye-witnesses, we should introduce a canon of evidence unknown to historical investigation, and should reject much that no reasonable man can doubt.
 
 Hartland then argues, as he has before, that the tradition is well established, and traces of it are spread widely:
 
@@ -253,9 +253,9 @@ At this point, it's not hard to imagine Hartland pacing around his office, gesti
 
 ```{admonition} E. Sidney Hartland, Thwarted Barrister?
 :class: seealso dropdown
-In passing, I note a notice in *The Times* of Monday,  August 12th, 1878, p14, that suggests that Mr Hartland was at one time a lawyer in the province:
+In passing, I note a notice in *The Times* of Monday, August 12th, 1878, p14, that suggests that Mr Hartland was at one time a lawyer in the province:
 
-> PURSUANT to an Order of the High Court of Justice, Chancery Division, made in an Action in the Matter of the Estate of William Harris Roberts deceased Williams and others against Davies and another 1878, R. 83 The CREDITORS of WILLIAM HARRIS ROBERTS late of 21 Singleton Terrace, Swansea in the county of Glamorgan. Gentleman, who died in or about the month of July 1875 are on or before the first day of October 1878 to send by post Prepaid to Mr. Edwin Sidney Hartland of Swansea, aforesaid a member of the firm of Hartland Davies and Isaac the Solicitors of the Defendants Thomas Davies and David Shepherd the executors of the said Willam Harris Roberts deceased their Christian and Surnames, addresses and descriptions; the full particulars of their Claims; a statement of their Accounts and the nature of the Securities, (if any) held by them; Or in default thereof they will be peremptorily excluded from the benefit of the said order. Every Creditor holding any security is to produce the same before the Master of  the Rolls at his Chambers situated in the Rolls Yard, Chancery Lane, Middlesex, on Monday the 28th day of October 1878, at 11 o'clock in the forenoon being the time appointed for adjudicating on the claims. — Dated this 24th day of July, 1878.
+> PURSUANT to an Order of the High Court of Justice, Chancery Division, made in an Action in the Matter of the Estate of William Harris Roberts deceased Williams and others against Davies and another 1878, R. 83 The CREDITORS of WILLIAM HARRIS ROBERTS late of 21 Singleton Terrace, Swansea in the county of Glamorgan. Gentleman, who died in or about the month of July 1875 are on or before the first day of October 1878 to send by post Prepaid to Mr. Edwin Sidney Hartland of Swansea, aforesaid a member of the firm of Hartland Davies and Isaac the Solicitors of the Defendants Thomas Davies and David Shepherd the executors of the said Willam Harris Roberts deceased their Christian and Surnames, addresses and descriptions; the full particulars of their Claims; a statement of their Accounts and the nature of the Securities, (if any) held by them; Or in default thereof they will be peremptorily excluded from the benefit of the said order. Every Creditor holding any security is to produce the same before the Master of the Rolls at his Chambers situated in the Rolls Yard, Chancery Lane, Middlesex, on Monday the 28th day of October 1878, at 11 o'clock in the forenoon being the time appointed for adjudicating on the claims. — Dated this 24th day of July, 1878.
 >
 > DAWSON BRYAN & DAWSON 10 Hart Street Bloomsbury Square W. C. Middlesex
 ```
@@ -487,7 +487,9 @@ To give it its full title, the referenced work [*Celtic Researches*](https://arc
 >
 > "It is said that formerly the articles of consumption esteemed as the greatest luxuries in the Principality were—
 >
-> 'A toasted Welsh rabbit  And a Sais off the gibbet.  (*Ibid*, p. 281.)"
+> 'A toasted Welsh rabbit
+> And a Sais off the gibbet.
+> (*Ibid*, p. 281.)"
 >
 > In a footnote he adds: "Here is an opportunity for a triumph against the Celt, as Mr. Pinkerton may argue that the Welsh were not only savages but cannibals."
 
@@ -537,13 +539,17 @@ He opens with an attack on Hartland's apparent lack of interest in considering t
 >
 > Nothing has struck me so much in Mr. Hartland's treatment of this question as his absolute ignoring of Christian rites. He quotes [presumably in Perseus?] an account of a funeral custom in Eastern Europe, but he appears to have no notion that every part of the ceremony described can be accounted for by the practice of the Orthodox Church. An account is given of another burial custom in Bavaria, but there are no traces of an inquiry into the history of Catholic rites in that part of the world. Like Wamba's *pax vobiscum*, "Celtic" blood is the key to it all. It is the same in England. Is there a peculiar funeral custom in Derbyshire? Oh, "the population is probably still to a great extent of Celtic ancestry." When we come to Herefordshire and Shropshire, why, we are there right in the Welsh March, which must be saturated with Celticism.
 
-```{admonition} Owen's on the early Church an accommodation of pagan practices  in England and Wales
+```{admonition} Owen's on the early Church an accommodation of pagan practices in England and Wales
 :class: dropdown
 > I need not point out that the Early England of that border was, like the rest of England, a pagan country, from which the native Christian population had been scattered in flight to the hills beyond Severn and Wye. Ecclesiastical authorities, both Roman and Anglican, freely acknowledged that heathen customs have always been admitted, within certain limits, into the Christian Church. But so far as I can make out, Mr. Hartland has not set himself the task of tracing the Christian doctrines of atonement, transubstantiation, purgatory, and so on, back to savage origins. It is not the elements of heathenism in Christianity, but the survivals of heathen beliefs and rites in Christian lands outside the church, that he has been looking for. Now the Welsh border is, I admit, a very promising field for such an investigation. Just at that point the "wedge of heathendom," as Green calls it, which had been thrust into the heart of Western Christianity, and had divided it into two unequal parts, was not converted quite so easily as it was further east. Even after the conversion of the pagan English, the innate conservatism of the race would of itself, without other evidence, lead one to expect that many heathen customs would long hold their own in England, in spite of bell, book, and candle. But there is no need to depend on *a priori* reasoning. Direct evidence exists in abundance. In the volume of *Anecdotes and Traditions* edited for the Camden Society by W. J. Thoms there are numerous extracts from Aubrey's *Remaines*, including the well-known ballad formerly used at Yorkshire funerals.
 >
 > On the stanza —
 >
-> "From Brig of Dread that thou mayest pass  *Na brader than a thread*,  Every night and awle,  To Purgatory fire thou com'st at last,  And Christ receive thy sawle—"
+> "From Brig of Dread that thou mayest pass
+> *Na brader than a thread*,
+> Every night and awle,
+>  To Purgatory fire thou com'st at last,
+> And Christ receive thy sawle—"
 >
 > Thoms has a very interesting note, and a reference to Grimm's *Deutsche Mythologie*, xxi. In fact, he was content to look, in the first place, to Teutonic sources for the ancestry of English beliefs and customs. That was, of course, long before the promulgation of Matthew Arnold's somewhat extravagant theory of the Celtic spirit in English literature. After the spirit, we naturally come to the body; and now we find that at every funeral ceremony, from the Black Sea to the Black Mountain of Wales,
 >

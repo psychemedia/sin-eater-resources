@@ -17,7 +17,7 @@ Perhaps the following, which appeared in Volume 15 of "Folk Lore" may prove of i
 
 The question of the alleged Sin-eater in Wales and the Borders has several times been discussed in "Bye-Gones," Oswestry, and whether there was at any time such strange custom in vogue in the country, there are at least ample proofs that it was customary in Pembrokeshire, if not in other parts of the country, to place a plate of salt on the breast of the corpse, and it was believed by some that this kept the body from swelling, and by others that it kept a.way the evil spirits.
 
-Pennant, a very keen observer, noticed a similar custom in the Highlands of Scotland 140 years ago, where  the friends lay on the breast of the deceased a wooden platter containing a small quantity of salt and earth separately and unmixed; the earth an emblem of the corruptible body; the salt an emblem of the immortal spirit."
+Pennant, a very keen observer, noticed a similar custom in the Highlands of Scotland 140 years ago, where the friends lay on the breast of the deceased a wooden platter containing a small quantity of salt and earth separately and unmixed; the earth an emblem of the corruptible body; the salt an emblem of the immortal spirit."
 
 There are several superstitions in West Wales concerning salt, but shall refer to the subject in another chapter.
 

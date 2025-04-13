@@ -114,7 +114,7 @@ The abstract for the paper can be seen in the Report of The Sixty-fifth Meeting 
 
 > On Cannibalism By Captain S. L Hinde
 >
-> Captain Hinde, who has been travelling and fighting for some years in the Congo basin, and has therefore had many almost unprecedented opportunities of observing the natives, gave  the following information with regard to cannibalism —
+> Captain Hinde, who has been travelling and fighting for some years in the Congo basin, and has therefore had many almost unprecedented opportunities of observing the natives, gave the following information with regard to cannibalism —
 >
 > Almost all the races in the Congo Basin practice cannibalism, and though in some parts it is prevented by the presence of white civilisation, in others it seems to be on the increase. An extensive traffic in human flesh prevails in many districts, slaves being kept and sold as an article of food.
 >
@@ -127,8 +127,7 @@ The opening of the meeting was reported in *The Times* of September 12, 1895, fo
 > The annual meeting of the British Association was opened to-day under circumstances which augur favourably for a week of useful activity, sustained by sufficient, but not overwhelming, numbers. Up to this evening nearly 1,200 tickets had been issued. The weather is cooler than it was three days ago and is broken by sharp showers, too short to cause much inconvenience.
 > ...
 
-
-```{index} triple: sin eater;  Second Controversy; trigger
+```{index} triple: sin eater; Second Controversy; trigger
 :name: secondcontrov:trigger
 ```
 ## Captain Hinde's Presentation "On Cannibalism"
@@ -238,7 +237,7 @@ Readers of the *Weekly Mail* also had to wait until [September 21st, 1895, p8](h
 
 > The Week
 >
-> The interesting discussion which followed Captain Hinde's paper on cannibalism before the  anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in, the course of his comments to an old custom which obtained in Wales in times gone by, and which was called "sin-eating." As late as 1851 traces of it still survived in the Swansea Valley, and it would be worth while inquiring whether they have completely disappeared. The "sin-eater" was the individual who literally "took the cake" at the death of a neighbour, and in consuming it was supposed to "eat" the sins of the deceased. The custom was a relic of barbarism, and shows with what tenacity old beliefs and institutions hold on. The student of man and his ways must feel regret that so many ancient customs and usages have been relegated to oblivion, beyond any possibility of recall. But it was hardly expected that they should have survived in a country like Wales, which has given itself over to the Sunday school and the Bible. It is a mistaken policy, however, to drive out ancient customs, for they form links between the present and the past, and relieve modern social life of much of the monotony which enters into its very texture.
+> The interesting discussion which followed Captain Hinde's paper on cannibalism before the anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in, the course of his comments to an old custom which obtained in Wales in times gone by, and which was called "sin-eating." As late as 1851 traces of it still survived in the Swansea Valley, and it would be worth while inquiring whether they have completely disappeared. The "sin-eater" was the individual who literally "took the cake" at the death of a neighbour, and in consuming it was supposed to "eat" the sins of the deceased. The custom was a relic of barbarism, and shows with what tenacity old beliefs and institutions hold on. The student of man and his ways must feel regret that so many ancient customs and usages have been relegated to oblivion, beyond any possibility of recall. But it was hardly expected that they should have survived in a country like Wales, which has given itself over to the Sunday school and the Bible. It is a mistaken policy, however, to drive out ancient customs, for they form links between the present and the past, and relieve modern social life of much of the monotony which enters into its very texture.
 ```
 
 ```{admonition} Montgomery County Times, "Sin-Eaters in Wales", Sept. 21st, 1895

@@ -10,7 +10,7 @@ p829-830
 Report for Saturday, September 14th, 1895
 On Cannibalism By Captain S. L Hinde
 
-Captain Hinde, who has been travelling and fighting for some years in the Congo basin, and has therefore had many almost unprecedented opportunities of observing the natives, gave  the following information with regard to cannibalism —
+Captain Hinde, who has been travelling and fighting for some years in the Congo basin, and has therefore had many almost unprecedented opportunities of observing the natives, gave the following information with regard to cannibalism —
 
 Almost all the races in the Congo Basin practice cannibalism, and though in some parts it is prevented by the presence of white civilisation, in others it seems to be on the increase. An extensive traffic in human flesh prevails in many districts, slaves being kept and sold as an article of food.
 

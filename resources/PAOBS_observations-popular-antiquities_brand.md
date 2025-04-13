@@ -140,7 +140,7 @@ In the Cambrian Register, Svo. 1796. p. 431. we read: "That, among the lower Cla
 
 https://archive.org/details/observationsonpo01branuoft/page/308/mode/2up?q=all+hallows
 
-Observations on popular antiquities, chiefly illustrating the origin of our vulgar customs, ceremonies and superstitions: Arranged and rev., with additions  Vol 1
+Observations on popular antiquities, chiefly illustrating the origin of our vulgar customs, ceremonies and superstitions: Arranged and rev., with additions Vol 1
 by Brand, John, 1744-1806; Ellis, Henry, Sir, 1777-1869
 
 1813
@@ -161,7 +161,7 @@ In the Festyvall, fol. 1511, fol. 149 b. is the following passage: "We rede in o
 
 I find the following, which is much to my purpose, in "Festa Anglo-Romana," p. 109. All Souls Day, Nov. 2d. "The custom of *Soul Mass Cakes*, which are a kind of Oat Cakes, that some of the richer sorts of persons in Lancashire and Herefordshire (among the Papists there) use still to give the poor on this day: and they, in retribution of their charity, hold themselves obliged to say this old couplet :
 
-— ' God have your Saul,  
+— 'God have your Saul,  
 Beens and all."
 
 ...

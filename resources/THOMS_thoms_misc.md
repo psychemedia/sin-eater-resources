@@ -55,7 +55,7 @@ The Epithet 'Old Scratch.'
 
 Of that huge mass of imperfectly digested materials which may be said to constitute the text book of the students of our English 'Folk-Lore,' Brand's 'Popular Antiquities,' there is no chapter more imperfect, and consequently more unsatisfactory, than that entitled 'Popular Notions concerning the Apparition of the Devil.'
 
-In this chapter,-after some allusion to the names "Old Nick," "Old Harry," "Old Scratch,"  "The Old One,"—Brand observes :—"The epithet 'old' to so many of his titles seems to favour the common opinion, that the Devil can only appear in the shape of an old man."—It may, however, be doubted whether the epithet "old" has not, in this case, been derived from the Early Latin Fathers; who frequently use the expression, "Antiquus hostis," when speaking of the Enemy of mankind. In this way, the Anglo-Saxon, Caedmon, speaks of "*se* ealda deofol,"—"se ealda," "the Old Devil," "the Old One;" and in North Friesland, the same epithet, "*de ual duivel*," still obtains. *Gammel* Erik (Old Erik) is a title bestowed upon the Devil by the Danes; and in this *Old Erik* we have, probably, the origin of our "Old Harry." In the old Norse, "Kölski"—which signifies both "senex" and "diabolus"-is the epithet by which the "foul fiend" is usually designated.
+In this chapter,-after some allusion to the names "Old Nick," "Old Harry," "Old Scratch," "The Old One,"—Brand observes :—"The epithet 'old' to so many of his titles seems to favour the common opinion, that the Devil can only appear in the shape of an old man."—It may, however, be doubted whether the epithet "old" has not, in this case, been derived from the Early Latin Fathers; who frequently use the expression, "Antiquus hostis," when speaking of the Enemy of mankind. In this way, the Anglo-Saxon, Caedmon, speaks of "*se* ealda deofol,"—"se ealda," "the Old Devil," "the Old One;" and in North Friesland, the same epithet, "*de ual duivel*," still obtains. *Gammel* Erik (Old Erik) is a title bestowed upon the Devil by the Danes; and in this *Old Erik* we have, probably, the origin of our "Old Harry." In the old Norse, "Kölski"—which signifies both "senex" and "diabolus"-is the epithet by which the "foul fiend" is usually designated.
 
 Again, though the epithet "Scratch" is, by modern usage, exclusively applied to his Satanic Majesty, such was not its original application. In the old High German monuments, mention is made of a small elfish sprite, *Scrat*, or *Scrato*,-by Latin writers translated Pilosus; as Waltschrate, or Wood Scrat, is Satyrus. In the 'Vocabularius' of 1482 we find Schretlin (penates). Nacht-schrettele (Ephialtes). The Anglo-Saxon Schritta (Hermaphroditus), and the Old Norse Skratti (malus genius, gigas), are also clearly allied to this elfish Being.
 
@@ -92,7 +92,7 @@ John Piggott, Jun.
 
 --
 
-https://archive.org/details/sim_notes-and-queries_1872-10-26_10_252/page/338/mode/2up  Notes and Queries  1872-10-26: Vol 10 Iss 252   p339-340 4th S. X.
+https://archive.org/details/sim_notes-and-queries_1872-10-26_10_252/page/338/mode/2up Notes and Queries  1872-10-26: Vol 10 Iss 252   p339-340 4th S. X.
 
 Origin of the Word "Folk-Lore"
 
@@ -162,7 +162,7 @@ Chapter 1
 
 Survival and Development
 
-THERE has grown up of late years a subject of inquiry- first antiquarian merely, and now scientific into the peasant and local elements in modern culture, and this subject has not inaptly been termed ' folklore.' Almost always at the commencement of a new study much is done by eager votaries which has to be undone as soon as settled work is undertaken, and it happens, I think, that because the elements of folklore are so humble and unpretentious, because they have to be sought for in the peasant's cottage or fields, in the children's nursery, or from the lips of old gaffers and gammers, that unusual difficulties have beset the student of folklore. Not only has he to undo any futile work that stands in the way "of his special inquiry, but he has to attempt the rebuilding of his edifice in face of contrasts frequently drawn between the elements which make up his subject and those supposed more dignified elements with which the historian, the archaeologist, and the philologist have to deal.
+THERE has grown up of late years a subject of inquiry- first antiquarian merely, and now scientific into the peasant and local elements in modern culture, and this subject has not inaptly been termed 'folklore.' Almost always at the commencement of a new study much is done by eager votaries which has to be undone as soon as settled work is undertaken, and it happens, I think, that because the elements of folklore are so humble and unpretentious, because they have to be sought for in the peasant's cottage or fields, in the children's nursery, or from the lips of old gaffers and gammers, that unusual difficulties have beset the student of folklore. Not only has he to undo any futile work that stands in the way "of his special inquiry, but he has to attempt the rebuilding of his edifice in face of contrasts frequently drawn between the elements which make up his subject and those supposed more dignified elements with which the historian, the archaeologist, and the philologist have to deal.
 
 The essential characteristic of folklore is that it consists of beliefs, customs, and traditions which are far behind civilisation in their intrinsic value to man, though they exist under the cover of a civilised nationality. This estimate of the position of folklore with reference to civilisation suggests that its constituent elements are survivals of a condition of human thought more backward, and therefore more ancient, than that in which they are discovered.
 
@@ -303,7 +303,7 @@ It is stated in "N. & Q.," *ante*, p. 141, that Mr. Thoms was born in Westminste
 This curious error was corrected in 1857, by a sworn affidavit before Mr. Arnold, the magistrate, and at the foot of the page of the register was then written: "This should be William John Thoms, according to the declaration of Mary Ann Thoms annexed hereto. Mercer Davies, curate, June 5.
 
 The declaration, made June 2, states :—
-"I, Mary Ann Thoms, spinster, sister of the late Nathaniel Thome, of the City of Westminster, Gentleman, do solemnly and sincerely declare that my late brother the said Nathaniel Thoms and his wife Ruth Ann Thoms had issue of their marriage only one child, my nephew William John Thoms, now of No. 25, Holywell Street,  Millbank, Westminster, who was born on the 16th day of November, 1803, that I was present at his baptism at St. Margaret's Church, on the 15th day of December following, that I stood godmother to my said nephew, who was baptized by the names of William John, and that he has ever since been called and known as William John Thoms, and I make this declaration for the purpose of correcting the erroneous entry in the register of baptisms at St. Margaret's, Westminster, wherein his baptism is entered as that of John Thoms, by which names of William John he was duly baptized."
+"I, Mary Ann Thoms, spinster, sister of the late Nathaniel Thome, of the City of Westminster, Gentleman, do solemnly and sincerely declare that my late brother the said Nathaniel Thoms and his wife Ruth Ann Thoms had issue of their marriage only one child, my nephew William John Thoms, now of No. 25, Holywell Street, Millbank, Westminster, who was born on the 16th day of November, 1803, that I was present at his baptism at St. Margaret's Church, on the 15th day of December following, that I stood godmother to my said nephew, who was baptized by the names of William John, and that he has ever since been called and known as William John Thoms, and I make this declaration for the purpose of correcting the erroneous entry in the register of baptisms at St. Margaret's, Westminster, wherein his baptism is entered as that of John Thoms, by which names of William John he was duly baptized."
 
 Now I think this curious and interesting fact is worthy of a place in the columns of the paper which Mr. Thoms originated and conducted for so many years; and as a contributor to "N. & Q." when he was at its helm, I ask the favour of its present courteous chief to permit me to record the note, which, genealogically and personally, is of more than the usual interest.
 
@@ -316,7 +316,7 @@ T. C. Note.
 
 
 https://archive.org/details/in.ernet.dli.2015.513424/page/885/mode/2up
-The Nineteenth Century  Vol. 10
+The Nineteenth Century Vol. 10
 Vol 10 December
 p886-900
 Gossip of an Old Bookworm

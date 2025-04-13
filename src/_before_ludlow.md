@@ -6,7 +6,7 @@ A query raised following the meeting by one of those in attendance, Mr. Jelinger
 
 So in our attempt to track down the origins of the story of the *sin-eater*, let us begin with those two sources before broadening our search to other possible references to the tradition in the years prior to 1852.
 
-```{index} single: Hone, William;  Year Book, 1832
+```{index} single: Hone, William; Year Book, 1832
 :name: YBECH
 ```
 
@@ -58,7 +58,7 @@ See for example this edition of [1878](https://archive.org/details/everydaybooko
 The address mentions a variety of topics to be covered by the work including *corpse candles* and *sin eaters*. However, no mention of the sin-eater appears in the work as published.
 ```
 
-```{index} single: Hone, William;  Table Book, 1827
+```{index} single: Hone, William; Table Book, 1827
 ```
 ```{admonition} Hone's Table Book
 :class: dropdown
@@ -79,7 +79,7 @@ We then get a more direct statement regarding the folkloric character we are pur
 
 Here, then, it would appear that we have another description of a visiting fellow in the Shropshire area in the last quarter of the 17th century ("within memory of our fathers", from a basis in 1715) who arrives when a death is announced; who is paid groat (four pence); who sits on a small stool facing the door, eats some bread and drinks a "full bowl" of ale in one go; and who then stands, and with a particular gesture (though what sort of gesture we don't know), makes a ritual pronouncement. Bagford claims this account comes from Aubrey, perhaps as a personal communication, who was collecting and writing in the latter quarter of the seventeenth century, or perhaps from Aubrey's writings. But in either case: *from Aubrey*.
 
-```{index} single: Bagford, John;  biography
+```{index} single: Bagford, John; biography
 ```
 
 ```{admonition} John Bagford
@@ -221,7 +221,7 @@ How, then, did Hone come across Aubrey's comments? We should note that Hone appe
 
 One possibility is that he learned of it from "Brand's Antiquities", which we saw cited one response to Symon's letter to *Notes & Queries*, specifically, *Brand's Antiquities, vol. ii. p. 247., edit. 1849*.
 
-We know that Hone was familiar with an earlier edition of Brand's work, citing from it liberally right from the very start of his *Every-Day Book* of 1826. For example, even on [January 1st, column 6,](https://archive.org/details/b29326072_0001/page/3/mode/2up?q=brand) *"The  late Rev. John Brand, in his 'Popular Antiquities' edited by Mr. Ellis, observes..."*
+We know that Hone was familiar with an earlier edition of Brand's work, citing from it liberally right from the very start of his *Every-Day Book* of 1826. For example, even on [January 1st, column 6,](https://archive.org/details/b29326072_0001/page/3/mode/2up?q=brand) *"The late Rev. John Brand, in his 'Popular Antiquities' edited by Mr. Ellis, observes..."*
 
 ```{index} single: Brand, John ; Observations on Popular Antiquities, 1777
 :name: book:brand:popantiq:1777

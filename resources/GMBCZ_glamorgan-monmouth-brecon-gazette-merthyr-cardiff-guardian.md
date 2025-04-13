@@ -56,7 +56,7 @@ LITERARY NOTICES.
 
 "THE MOUNTAIN DECAMERON."
 
-These volumes contain much that is clever and original. They profess to embody in a series of Tales the popular habits, customs, superstitions, and modes of thinking of the Welsh.  We have no time for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.
+These volumes contain much that is clever and original. They profess to embody in a series of Tales the popular habits, customs, superstitions, and modes of thinking of the Welsh. We have no time for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.
 
 The author laments in a note, and with some shew of justice, the indifference of the Welsh Gentry to their National Literature.
 

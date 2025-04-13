@@ -177,7 +177,7 @@ Sir,
 
 On page 232 of vol. 3 there is the following heading - "The Last Sin-Eater of Wales, a Sketch," &c.
 
-The chapter that follows is most interesting and minute, and seems to be a literal transcript of fact. It is not strange, however, that the oldest inhabitant now living should not have heard of "the sin-eater," since Joseph Downe, writing in 1836, himself says in the sentence introductory to his sketch, "So late an the earlier part of the last century that strange character of a stranger superstition known by the name of 'the sin-eater ' was not unknown in Wales."
+The chapter that follows is most interesting and minute, and seems to be a literal transcript of fact. It is not strange, however, that the oldest inhabitant now living should not have heard of "the sin-eater," since Joseph Downe, writing in 1836, himself says in the sentence introductory to his sketch, "So late an the earlier part of the last century that strange character of a stranger superstition known by the name of 'the sin-eater' was not unknown in Wales."
 
 What follows is an account in quotation marks of "what is believed to be the last sin-eater in Wales," taken apparently from the printed work of some traveller whom Downes does not name. It is too long for quotation, but should be read by any one interested in the subject, as details of place and incident are so vivid that the traveller's experience can scarcely be doubted. I am, Sir, yours obediently,
 Z.
@@ -278,7 +278,7 @@ https://go-gale-com.libezproxy.open.ac.uk/ps/retrieve.do?tabID=Newspapers&result
 
 The Times
 
-Saturday,  Oct. 3, 1891
+Saturday, Oct. 3, 1891
 
 p12
 
