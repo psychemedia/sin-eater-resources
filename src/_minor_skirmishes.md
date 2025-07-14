@@ -69,7 +69,7 @@ Although this does not directly relate to the ritual that was often described in
 
 In full length work by James Napier published in 1879, [Folk lore: or, superstitious beliefs in the west of Scotland within this century](https://archive.org/details/folkloreorsuper00napigoog/page/n70/mode/2up), p60-62, several *Scottish* death customs were described:
 
-> After death there came a new class of superstitious fears and practices. The clock was stopped, the looking- glass was covered with a cloth, and all domestic animals were removed from the house until after the funeral These things were done, however, by many from old custom, and without their knowing the reason why such things were done. Originally the reason for the exclusion of dogs and cats arose from the belief that, if either of these animals should chance to leap over the corpse, and be afterwards permitted to live, the devil would gain power over the dead person.
+> After death there came a new class of superstitious fears and practices. The clock was stopped, the looking-glass was covered with a cloth, and all domestic animals were removed from the house until after the funeral These things were done, however, by many from old custom, and without their knowing the reason why such things were done. Originally the reason for the exclusion of dogs and cats arose from the belief that, if either of these animals should chance to leap over the corpse, and be afterwards permitted to live, the devil would gain power over the dead person.
 
 These include a ritual involving a placement of salt on the breast of the corpse:
 
