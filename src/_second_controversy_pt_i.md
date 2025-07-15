@@ -622,7 +622,7 @@ The way in which they say we will eat sin is like this: - When a family member d
 ```
 ````
 
-The commentary in the Welsh language *Y Cymro* is picked up a few days later in the *Merthyr Times and Dowlais Times and Aberdare Echo* of [November 11th, 1895, p5](https://newspapers.library.wales/view/3098997/3099002/28/). The note begins with a brief summary of the tradition, as given by Moggrdge:
+The commentary in the Welsh language *Y Cymro* is picked up a few days later in the *Merthyr Times and Dowlais Times and Aberdare Echo* of [November 11th, 1895, p5](https://newspapers.library.wales/view/3098997/3099002/28/). The note begins with a brief summary of the tradition, as given by Moggridge:
 
 > Notes and Comments
 >

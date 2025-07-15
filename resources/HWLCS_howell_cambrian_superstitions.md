@@ -28,7 +28,7 @@ struck down by their force, as Twas informed. by a
 |>erson living, whose father coming in contact with 
 one, was thrown off his horse. If they are seen to 
 stop, the corpse will do the same at the funeral; if 
-they move aside, it will occur so at the buriial; and 
+they move aside, it will occur so at the burial; and 
 should two candles meet, the two funerals ^ill do 
 the same: it is also said that if a person looks back 
 at one after it has passed him, he will perceive the 
@@ -93,7 +93,7 @@ It is said, that some years ago whep the d^oaeh
 on the surface of the water^gliding down the stream 
 which runs near the road; all the passengers behalf 
 them, and it is related that a few days after, some 
-men were crossingthe river iiear there in a coracle, 
+men were crossingthe river near there in a coracle, 
 but one of them expressed his fear at venfiy*ing, as 
 the river vtras flooded, and remained behind; the 
 
@@ -118,7 +118,7 @@ TTClij^ht tb^ was in it, and they were drowned.
 Oti6 Mr. Griffith, a Baptist preacher, who 
 lived at Pont Flten, in Pembrolceshire, asserted that' 
 iir^Wl&rnmg^frOm Tiredavith he beheld a great li^ht' 
-Wfi^ he concliided Svas one bf these Cambrian 
+Wfi^ he concluded Svas one bf these Cambrian 
 phenomena^ and accordingly wkited to observe its 
 motiotis; he related that he saw it stand still for 
 about a quarter of an hour, in the rbadtb the church ' 
@@ -138,7 +138,7 @@ There formerly lived in Carmarthen, an old
 beldaHHI^iiamed Betty Marchadt, possessed of the 
 Second Sight, and who Confessed to several that 
 sfa# f^i]^ntly saw Corpse Candles; hi oneiime, 
-when^ ilh^was in^a house where aii infant lay ill, she 
+when^ ilh^was in^a house where an infant lay ill, she 
 bikde a p^i^ilbn standttig in the door to tnrs aside, 
 aM' <i)Bt l^eingf askH after, her reason for it, i§B^' - 
 stated that she perceived a candle go oat at the 

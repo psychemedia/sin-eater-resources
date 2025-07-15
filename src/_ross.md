@@ -41,10 +41,8 @@ The origin of the name *Corpse-Cross Street* perhaps suggests that persons found
 
 ```{admonition} Felo de Se ("felon of himself")
 :class: dropdown
-
-https://archive.org/details/encyclopedia-britannica-volume-10/page/242/mode/2up
-
-Encyclopedia Britannica, Volume 10, 1911
+[Encyclopedia Britannica, Volume 10, 1911. p243](
+https://archive.org/details/encyclopedia-britannica-volume-10/page/242/mode/2up)
 
 FELO DE SE (M.L. a felon, i.e. murderer, of himself), one who commits murder upon himself. The technical conditions of murder apply to this crime; e.g. "if one commits any unlawful malicious act, the consequence of which is his own death, as if attempting to kill another he runs upon his antagonist's sword, or shooting at another the gun bursts and kills himself," he is a *felo de se*. The horror inspired by this crime led to the revolting punishment of an "ignominious burial on the highway, with a stake driven through the body." This was abolished by an act of 1823, which ordered the burial of the body of a person found to be *felo de se* within 24 hours after the coroner’s inquest, between the hours of 9 and 12 at night, and without Christian rites of sepulture. This act was again superseded in 1882 by the Interments (*Felo de se*) Act, which permits the interment of any *felo de se* in the churchyard or other burial ground of the parish or place in which by the law or custom of England he might have been interred but for the verdict. The interment is carried out in accordance with the Burial Laws Amendment Act 1880 (see BURIAL AND BURIAL ACTS). The act does not authorize the performance of any of the rites of Christian burial, but a special form of service may be used. Formerly the goods and chattels, but not the land, of a *felo de se* were forfeited to the crown, but such forfeitures were abolished by the Forfeiture Act 1870. (See also SUICIDE.)
 ```
@@ -57,14 +55,13 @@ This practice, and the rather macabre ritual effected upon the body, was not rep
 > 
 > `[Rites of Christian burial not to be performed; and former laws and usages not to be otherwise altered]` II. PROVIDED nevertheless, that nothing herein contained shall authorize the performing of any of the rites of Christian burial on the interment of the remains of any such person as aforesaid; nor shall anything herein - before contained be taken to alter the laws or usages relating to the burial of such to be otherwise persons , except so far as relates to the interment of such remains in such churchyard or burial ground at such time and in such manner as aforesaid.
 
-*In passing, we might note that a finding of felo de se would also lead to the forfeiture of the suicide's estate to the Crown, which could lead to some interesting workarounds. See also `deodand`, a personal chattel deemed responsible for killing someone, the title of which would be forfeited to God, which is to say, the Crown.*
+*In passing, we might note that a finding of felo de se would also lead to the forfeiture of the suicide's estate to the Crown, which could lead to some interesting workarounds.*
 
 ```{admonition} An Ingenious Suicide, January 1850
 :class: dropdown seealso
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0003114/18500107/009/0002
-Liverpool Albion - Monday 07 January 1850
+Liverpool Albion - [Monday 07 January 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003114/18500107/009/0002)
 
-AN INGENIOUS SUICIDE.— Sir William Hankford `[Lord Chief Justice of England, c. 1413]` had been a well-conducted man, but he was of a melancholy temperament, and he became tired of life, notwithstanding the high position which he occupied and the respect in which he was held. He was led to "shuffle off this mortal coil", but he was afraid to commit suicide in any vulgar way at the time when a verdict of *felo de se* always followed such an act, and the body of the supposed delinquent was buried in a crossroad, with a stake thrust through it. He at last resorted to this novel expedient, by which he hoped not only that the forfeiture of his goods would be saved, but that his family would escape the anguish and the shame arising from the beiief that he had fallen by his own hand. Several of his deer having been stolen, he gave strict orders to his keeper to shoot any person he met with in or near the park at night who would not stand when challenged. He then in the dark night threw himself in the keeper's way and, refusing to stand when challenged, was shot dead on the spot.—Campbell's Chief-Justices of England.
+AN INGENIOUS SUICIDE.— Sir William Hankford `[Lord Chief Justice of England, c. 1413]` had been a well-conducted man, but he was of a melancholy temperament, and he became tired of life, notwithstanding the high position which he occupied and the respect in which he was held. He was led to "shuffle off this mortal coil", but he was afraid to commit suicide in any vulgar way at the time when a verdict of *felo de se* always followed such an act, and the body of the supposed delinquent was buried in a crossroad, with a stake thrust through it. He at last resorted to this novel expedient, by which he hoped not only that the forfeiture of his goods would be saved, but that his family would escape the anguish and the shame arising from the belief that he had fallen by his own hand. Several of his deer having been stolen, he gave strict orders to his keeper to shoot any person he met with in or near the park at night who would not stand when challenged. He then in the dark night threw himself in the keeper's way and, refusing to stand when challenged, was shot dead on the spot.—Campbell's Chief-Justices of England.
 
 *A more complete reference is "The lives of the Chief Justices of England: From the Norman conquest till the death of Lord Mansfield", J. Campbell, Vol. I, [p.139-140](https://archive.org/details/livesofchiefjust01camp_0/page/138/mode/2up), which continues:*
 
@@ -85,6 +82,8 @@ AN INGENIOUS SUICIDE.— Sir William Hankford `[Lord Chief Justice of England, c
 *Prince suggests that the reason Hankford killed himself was because he had at one time imprisoned the Prince of Wales, and was fearful of what revenge the Prince might take when he became King: "That this judge having, as was said before, committed the prince to prison in his younger years, was afraid he would take a too severe revenge thereof when he came to the crown: the thought and consideration whereof, filled him with such insuperable melancholy, that it provoked him to take this course, for the putting a period to his own days. And this we know, that dreadful have been the effects of this black adust humour, when predominant, as might be confirmed from divers sad examples out of authentick history.". The story was that the Prince had "commanded Judge Hankford, upon the bench, to free a servant of his, arraigned for felony, at the bar: which when he would not do, he offered to take the prisoner away by force: Being withstood also herein by the judge, the prince step’d to him and struck him a blow on the face. Whereat nothing abashed. Judge Hankford told him boldly, That he had not done this affront to him, but to the King his father, in whose place he sate; and if he would not obey his sovereign's laws now, he asked him, who should obey his when he was King? Wherefore, says he, in the King [Henry IV] your father’s name, I commit you prisoner to the King’s ward, the Fleet. Whereat the prince abashed, quietly obey’d the judge’s sentence, and suffered himself to be led to prison. You would have wondered, says the historian, [Baker's Chron. in K. H. 4] to have seen how calm the prince was in his own cause, who in the cause of his companion had been so violent. When the King his father was advertised thereof, after he had duly examined the circumstances of the matter, he rejoyced, that he had a son so obedient to his laws, and a judge of such integrity, as to administer justice without fear or favour.*.
 
 ```
+
+*There are also some interesting tales to be found around the notion of a `deodand`, a personal chattel deemed responsible for killing someone, the title of which would be forfeited to God, which is to say, the Crown, but they are tales for another day, and another place...*
 
 Another feature of old Ross were the almshouses on Church Street, [described](http://ross-on-wye.com/index.php?page=ross_070-Almshouses&pg=1) by `ross-on-wye.com` in the following terms:
 
@@ -146,7 +145,7 @@ A more detailed map of Herefordshire by John Cary in 1790 shows the comprehensiv
 
 The [`turnpikes.org.uk`](http://www.turnpikes.org.uk/The%20Turnpike%20Roads.htm) website provides a specialist history of turnpike roads, a network of well maintained and toll-supported roads developed in the 18th century.
 
-A consideratio of contemporary maps of the period shows how Ross priovided an important crossing point over the River Wye, as it still does today, with several turnpike roads meeting there.
+A consideration of contemporary maps of the period shows how Ross priovided an important crossing point over the River Wye, as it still does today, with several turnpike roads meeting there.
 
 A turnpike was a defensive gate, originally formed from a frame of pikes, that prevented passage unless a toll was paid. Local "Turnpike Trusts" managed roads in their locale, of 20 miles or so in length, by Act of Parliament, in the area around Ross, specifically 12 Geo1 c.13, (Roads, Gloucester to Hereford Act 1725 c. 13) 1725, with various towns, including Ross, taking local control of their roads via the [Hereford Roads Act 1748, c. 26 (22 Geo. II)](https://archive.org/details/statutesatlarge19britgoog/page/n22/mode/2up?q=hereford), [&c.](https://archive.org/details/statutesatlarge19britgoog/page/n336/mode/2up?q=Rofs), to wit: "[f]or repairing and widening the several roads leading into the town of Ross in the county of Hereford. *Certain tolls granted for 21 years.*"
 
@@ -202,11 +201,9 @@ The source is claimed as *The Hereford Times*, 14/8/1986, but the original seems
 
 Perhaps most interesting of all for *our* tale, however, is the reference in the story to "Jack the Scape", _a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater"_...
 
-```{admonition} EREGEN's 'THE STORY OF "THE OLD MAID'S WALK"', December 16th, 1886
+```{admonition} Eregen's tale of "The Old Maid's Walk", December, 1886
 :class: dropdown
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002067/18861216/144/0007
-Ross Gazette - Thursday 16 December 1886
+[Ross Gazette - Thursday 16 December 1886](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002067/18861216/144/0007)
 p7
 
 (Copyright reserved.)

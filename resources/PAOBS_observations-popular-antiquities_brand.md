@@ -70,7 +70,7 @@ Durant. de Ritibus, p. 224.
 Mr. Pennant, in his Tour in Scotland, tells us, that on the Death of a Highlander, the Corps being *stretched* on a *Board*, and covered with a coarse *Linen Wrapper*, the Friends lay on the Breast of the Deceased a *wooden* Platter, containing a small Quantity of *Salt* and *Earth*, separate and unmixed; the *Earth* an Emblem of the corruptible Body; the *Salt* an Emblem of the immortal Spirit.— All Fire is extinguished where a Corps is kept; and it is reckoned so ominous for a Dog or a Cat to pass over it, that the poor Animal is killed without Mercy.
 ````
 
-Mention is made of the closing the Eyes and Lips —the decent washiing — dressing — and wrapping in a Linen Shroud `[The Face Cloth too is of great Antiquity.— Mr Strutt tells us, that after the closing the Eyes, &c. a Linen Cloth was put over the Face oi the Deceased.— Thus we are told, that Henry the Fourth, in his last Illness seeming to be dead, his Chamberlain Covered his Face with a Linen Cloth. English AEra, p. 105]` Of which Shroud Prudentius, the Christian Poet, has these Words:
+Mention is made of the closing the Eyes and Lips —the decent washing — dressing — and wrapping in a Linen Shroud `[The Face Cloth too is of great Antiquity.— Mr Strutt tells us, that after the closing the Eyes, &c. a Linen Cloth was put over the Face oi the Deceased.— Thus we are told, that Henry the Fourth, in his last Illness seeming to be dead, his Chamberlain Covered his Face with a Linen Cloth. English AEra, p. 105]` Of which Shroud Prudentius, the Christian Poet, has these Words:
 
 Condore nitentia claro 
 Praetendere lintea mos est. 
