@@ -1,0 +1,32 @@
+title: The Sin-Eater of Ross and Other Local Tales
+author: Tony "Monty" Hirst
+copyright: "2024" 
+only_build_toc_files: true
+
+parse:
+  myst_dmath_double_inline: true
+
+sphinx:
+  config:
+    #html_copy_source: false
+    latex_elements:
+      papersize: a5paper
+      pointsize: 12pt
+      preamble: |
+        % First, reset geometry options
+        \AtBeginDocument{
+          \clearpage
+          \newgeometry{twoside,inner=0.9in,outer=0.5in,top=1in,bottom=1in}
+          % \usepackage{fontspec}
+          % \setmainfont{Palatino}
+          % \setsansfont{Arial}
+          % \setmonofont{Courier New}
+        }
+
+  extra_extensions:
+
+latex:
+  latex_documents:
+    targetname: testbookX.tex
+  use_jupyterbook_latex: true
+  latex_engine: xelatex

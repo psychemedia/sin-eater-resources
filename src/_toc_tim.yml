@@ -1,0 +1,8 @@
+# Table of contents file
+format: jb-book
+root: _dedication_tim
+chapters:
+- file: _intro_tim
+- file: _ross
+- file: ross-who-killed-the-bear
+- file: ross-may-hill-old-ellen

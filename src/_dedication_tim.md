@@ -1,0 +1,3 @@
+# Dedication
+
+Some bits and pieces I've found about some local tales... Happy Birthday, Tim...
