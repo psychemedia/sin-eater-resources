@@ -114,11 +114,11 @@ The man had used the English when first he spoke, but as though mechanically. Su
 
 After a minute's silence the old woman answered him in the native tongue, but only to put a question in return.
 
-"I am thinking it is a long time since you have been in Iona? "
+"I am thinking it is a long time since you have been in Iona?"
 
 The man stirred uneasily.
 
-"And why is that, mother?" he asked, in a weak voice hoarse with damp and fatigue; "how is it you will be knowing that I have been in lona at all? "
+"And why is that, mother?" he asked, in a weak voice hoarse with damp and fatigue; "how is it you will be knowing that I have been in Iona at all?"
 
 "Because I knew your kith and kin there, Neil Ross."
 
@@ -126,7 +126,7 @@ The man stirred uneasily.
 
 "I was at the naming of you, for all that. Well do I remember the day that Silis Macallum gave you birth; and I was at the house on the croft of Ballyrona when Murtagh Ross — that was your father — laughed. It was an ill laughing that."
 
-"I am knowing it. The curse of God on him! "
+"I am knowing it. The curse of God on him!"
 
 "Tis not the first, nor the last, though the grass is on his head three years agone now."
 
@@ -142,7 +142,7 @@ The man stirred uneasily.
 
 "*Tha mise*... it is I."
 
-"And you will be alone now, too, I am thinking. Sheen? "
+"And you will be alone now, too, I am thinking. Sheen?"
 
 "I am alone. God took my three boys at the one fishing ten years ago; and before there was moonrise in the blackness of my heart my man went. It was after the drowning of Anndra that my croft was taken from me. Then I crossed the Sound, and shared with my widow sister Elsie McVurie: till *she* went: and then the two cows had to go: and I had no rent: and was old."
 
@@ -168,7 +168,7 @@ No; it is Loch-a-chaoruinn, and the clachan that is near is Contullich."
 
 "Yonder: to the right."
 
-"And you are not going there? "
+"And you are not going there?"
 
 "No. I am going to the steading of Andrew Blair. Maybe you are for knowing it? It is called le-Baile-na-Chlais-nambuidheag." `[The farm in the hollow of the yellow flowers.]`
 
@@ -186,7 +186,7 @@ Neil Ross uttered a sound like a stifled curse. For a time he trudged wearily on
 
 "Ay, it is evil that is upon him. This crime and that, God knows; and the shadow of murder on his brow and in his eyes. Well, well, 'tis ill to be speaking of a man in corpse, and that near by. 'Tis Himself only that knows, Neil Ross."
 
-"Maybe ay and maybe no. But where is it that I can be sleeping this night. Sheen Macarthur? "
+"Maybe ay and maybe no. But where is it that I can be sleeping this night. Sheen Macarthur?"
 
 "They will not be taking a stranger at the farm this night of the nights, I am thinking. There is no place else for seven miles yet, when there is the clachan, before you will be coming to Fionnaphort. There is the warm byre, Neil, my man; or, if you can bide by my peats, you may rest, and welcome, though there is no bed for you, and no food either save some of the porridge that is over."
 
@@ -224,11 +224,11 @@ She was still speaking to the lassie when Maisie Macdonald, the deid-watcher, op
 
 "Och, ochone, mise 'n diugh; 'tis a dark hour this."
 
-"Ay; it is bad. Will you have been hearing or seeing anything? "
+"Ay; it is bad. Will you have been hearing or seeing anything?"
 
 "Well, as for that, I am thinking I saw lights moving betwixt here and the green place over there."
 
-"The corpse-lights? "
+"The corpse-lights?"
 
 "Well, it is calling them that they are."
 
@@ -258,7 +258,7 @@ As for herself, she did not sleep at all that night, but sat between the living 
 
 The dawn came at last. Sheen slept, and Adam Blair slept a deeper sleep, and Maisie stared out of her wan, weary eyes against the red and stormy flares of light that came into the sky.
 
-When, an hour after sunrise, Sheen Macarthur reached her bothy, she found Neil Ross, heavy with slumber, upon her bed. The fire was not out, though no flame or spark was visible; but she stooped and blew at the heart of the peats till the redness came, and once it came it grew. Having done this, she kneeled and said a rune of the morning, and after that a prayer, and then a prayer for the poor man Neil. She could pray no more because of the tears. She rose and put the meal and water into the pot for the porridge to be ready against his awaking. One of the hens that was there came and pecked at her ragged skirt. "Poor beastie," she said. "Sure, that will just be the way I am pulling at the white robe of the Mother o' God. 'Tis a bit meal for you, cluckie, and for me a healing hand upon my tears. O, och, ochone, the tears, the tears! "
+When, an hour after sunrise, Sheen Macarthur reached her bothy, she found Neil Ross, heavy with slumber, upon her bed. The fire was not out, though no flame or spark was visible; but she stooped and blew at the heart of the peats till the redness came, and once it came it grew. Having done this, she kneeled and said a rune of the morning, and after that a prayer, and then a prayer for the poor man Neil. She could pray no more because of the tears. She rose and put the meal and water into the pot for the porridge to be ready against his awaking. One of the hens that was there came and pecked at her ragged skirt. "Poor beastie," she said. "Sure, that will just be the way I am pulling at the white robe of the Mother o' God. 'Tis a bit meal for you, cluckie, and for me a healing hand upon my tears. O, och, ochone, the tears, the tears!"
 
 It was not till the third hour after sunrise of that bleak day in the winter of the winters, that Neil Ross stirred and arose. He ate in silence. Once he said that he smelt the snow coming out of the north. Sheen said no word at all.
 
@@ -266,7 +266,7 @@ After the porridge, he took his pipe, but there was no tobacco. All that Sheen h
 
 It was within half-an-hour of noon that, after an absence, she returned.
 
-"Not between you and me, Neil Ross," she began abruptly, "but just for the asking, and what is beyond. Is it any money you are having upon you? "
+"Not between you and me, Neil Ross," she began abruptly, "but just for the asking, and what is beyond. Is it any money you are having upon you?"
 
 "No."
 
@@ -286,7 +286,7 @@ It was within half-an-hour of noon that, after an absence, she returned.
 
 Neil Ross stared. Then he sprang to his feet.
 
-"It is Adam Blair you are meaning, woman! God curse him in death now that he is no longer in life! "
+"It is Adam Blair you are meaning, woman! God curse him in death now that he is no longer in life!"
 
 Then, shaking and trembling, he sat down again, and brooded against the dull red glow of the peats.
 
@@ -294,7 +294,7 @@ But, when he rose, in the last quarter before noon, his face was white.
 
 "The dead are dead. Sheen Macarthur. They can know or do nothing. I will do it. It is willed. Yes, I am going up to the house there. And now I am going from here. God Himself has my thanks to you, and my blessing too. They will come back to you. It is not forgetting you I will be. Good-bye."
 
-"Good-bye, Neil, son of the woman that was my friend. A south wind to you! Go up by the farm. In the front of the house you will see what you will be seeing. Maisie Macdonald will be there. She will tell you what's for the telling. There is no harm in it, sure: sure, the dead are dead. It is praying for you I will be, Neil Ross. Peace to you! "
+"Good-bye, Neil, son of the woman that was my friend. A south wind to you! Go up by the farm. In the front of the house you will see what you will be seeing. Maisie Macdonald will be there. She will tell you what's for the telling. There is no harm in it, sure: sure, the dead are dead. It is praying for you I will be, Neil Ross. Peace to you!"
 
 "And to you, Sheen."
 
@@ -316,11 +316,11 @@ It was the woman he came upon first.
 
 "None."
 
-"It will be a thing often done, is it not? "
+"It will be a thing often done, is it not?"
 
 "Ay, sure."
 
-"And the evil does not abide? "
+"And the evil does not abide?"
 
 "No. The . . . the . . . person . . . the person takes them away, and . . ."
 
@@ -328,7 +328,7 @@ It was the woman he came upon first.
 
 "For sure, man! Them . . . the sins of the corpse. He takes them away; and are you for thinking God would let the innocent suffer for the guilty? No . . . the person . . . the SinEater, you know , . . takes them away on himself, and one by one the air of heaven washes them away till he, the Sin-Eater, is clean and whole as before."
 
-"But if it is a man you hate ... if it is a corpse that is the corpse of one who has been a curse and a foe ... if ... "
+"But if it is a man you hate ... if it is a corpse that is the corpse of one who has been a curse and a foe ... if ..."
 
 "*Sst!* Be still now with your foolishness. It is only an idle saying, I am thinking. Do it, and take the money and go. It will be hell enough for Adam Blair, miser as he was, if he is for knowing that five good shillings of his money are to go to a passing tramp because of an old, ancient silly tale."
 
@@ -338,7 +338,7 @@ Neil Ross laughed low at that. It was for pleasure to him.
 
 Turning on his heel, Neil walked slowly round to the front of the house. A tall man was there, gaunt and brown, with hairless face and lank brown hair, but with eyes cold and grey as the sea.
 
-"Good day to you, an' good faring. Will you be passing this way to anywhere? "
+"Good day to you, an' good faring. Will you be passing this way to anywhere?"
 
 "Health to you. I am a stranger here. It is on my way to Iona I am. But I have the hunger upon me. There is not a brown bit in my pocket. I asked at the door there, near the byres. The woman told me she could give me nothing — not a penny even, worse luck, — nor, for that, a drink of warm milk. 'Tis a sore land this."
 
@@ -346,7 +346,7 @@ Turning on his heel, Neil walked slowly round to the front of the house. A tall 
 
 "It is from the Isles of the West I come."
 
-"From Tiree? . . . from Coll? "
+"From Tiree? . . . from Coll?"
 
 "No."
 
@@ -358,7 +358,7 @@ Turning on his heel, Neil walked slowly round to the front of the house. A tall 
 
 "Macallum."
 
-"Do you know there is a death here, Macallum? "
+"Do you know there is a death here, Macallum?"
 
 "If I didn't, I would know it now, because of what lies yonder."
 
@@ -368,11 +368,11 @@ Mechanically Andrew Blair looked round. As he knew, a rough bier was there, that
 
 "Ay, sure."
 
-"And you will be knowing what is done? "
+"And you will be knowing what is done?"
 
 "Ay."
 
-"With the bread . . . and the water . . .? "
+"With the bread . . . and the water . . .?"
 
 "Ay."
 
@@ -388,7 +388,7 @@ At that Neil Ross's eyes lightened for a moment.
 
 "Who knows? I have heard this, and I have heard that. If the Sin-Eater was hating the dead man he could take the sins and fling them into the sea, and they would be changed into demons of the air that would harry the flying soul till Judgment-Day."
 
-"And how would that thing be done? "
+"And how would that thing be done?"
 
 The man spoke with flashing eyes and parted lips, the breath coming swift. Andrew Blair looked at him suspiciously; and hesitated, before, in a cold voice, he spoke again.
 
@@ -402,7 +402,7 @@ The man spoke with flashing eyes and parted lips, the breath coming swift. Andre
 
 "Stop, man! Stop, Macallum. See here: I will be giving you what you ask."
 
-"So be it. Is the . . . Are you ready? "
+"So be it. Is the . . . Are you ready?"
 
 "Ay, come this way."
 
@@ -418,7 +418,7 @@ Andrew Blair stooped and took a saucer out of the claar. This he put upon the co
 
 "I must be seeing the corpse, I tell you — and for that, too, the bread and the water should be on the naked breast."
 
-"No, no, man; it . . . "
+"No, no, man; it . . ."
 
 But here a voice, that of Maisie the wise woman, came upon them, saying that the man was right, and that the eating of the sins should be done in that way and no other.
 
@@ -426,7 +426,7 @@ With an ill grace the son of the dead man drew back the sheeting. Beneath it, th
 
 While Andrew Blair unfastened the shirt and placed the saucer and the bread and the salt on the breast, the man beside him stood staring fixedly on the frozen features of the corpse. The new laird had to speak to him twice before he heard.
 
-"I am ready. And you, now? What is it you are muttering over against the lips of the dead? "
+"I am ready. And you, now? What is it you are muttering over against the lips of the dead?"
 
 "It is giving him a message I am. There is no harm in that, sure?"
 
@@ -434,7 +434,7 @@ While Andrew Blair unfastened the shirt and placed the saucer and the bread and 
 
 "He that lies here knows well the man to whom I am sending a message" — and at this response Andrew Blair scowled darkly. He would fain have sent the man about his business, but he feared he might get no other.
 
-"It is thinking I am that you are not a Macallum at all. I know all of that name in Mull, Iona, Skye, and the near isles. What will the name of your naming be, and of your father, and of his place? "
+"It is thinking I am that you are not a Macallum at all. I know all of that name in Mull, Iona, Skye, and the near isles. What will the name of your naming be, and of your father, and of his place?"
 
 Whether he really wanted an answer, or whether he sought only to divert the man from his procrastination, his question had a satisfactory result.
 
@@ -460,11 +460,11 @@ He turned and looked at the man by his side, then at the others, who watched him
 
 With a loud clear voice he took the sins.
 
-"*Thoir dhomh do ciontachd, Adam mhic Anndra rnhic Adam Mòr !* Give me thy sins to take away from thee! Lo, now, as I stand here, I break this bread that has lain on thee in corpse, and I am eating it, I am, and in that eating I take upon me the sins of thee, O man that was alive and is now white with the stillness! "
+"*Thoir dhomh do ciontachd, Adam mhic Anndra rnhic Adam Mòr !* Give me thy sins to take away from thee! Lo, now, as I stand here, I break this bread that has lain on thee in corpse, and I am eating it, I am, and in that eating I take upon me the sins of thee, O man that was alive and is now white with the stillness!"
 
 Thereupon Neil Ross broke the bread and ate of it, and took upon himself the sins of Adam Blair that was dead. It was a bitter swallowing, that. The remainder of the bread he crumbled in his hand, and threw it on the ground, and trod upon it. Andrew Blair gave a sigh of relief. His cold eyes lightened with malice.
 
-"Be off with you, now, Macallum. We are wanting no tramps at the farm here, and perhaps you had better not be trying to get work this side Iona; for it is known as the Sin-Eater you will be, and that won't be for the helping, I am thinking! There: there are the two half-crowns for you . . . and may they bring you no harm, you that are *Scape-goat* now! "
+"Be off with you, now, Macallum. We are wanting no tramps at the farm here, and perhaps you had better not be trying to get work this side Iona; for it is known as the Sin-Eater you will be, and that won't be for the helping, I am thinking! There: there are the two half-crowns for you . . . and may they bring you no harm, you that are *Scape-goat* now!"
 
 The Sin-Eater turned at that, and stared like a hill-bull. *Scapegoat!* Ay, that's what he was. Sin-Eater, Scapegoat! Was he not, too, another Judas, to have sold for silver that which was not for the selling? No, no, for sure Maisie Macdonald could tell him the rune that would serve for the easing of this burden. He would soon be quit of it.
 
@@ -496,7 +496,7 @@ When Neil reached the end of the milk-shed he saw Maisie Macdonald there, waitin
 
 Maisie took the money hesitatingly. Then, stooping, she said slowly the few lines of the old, old rune.
 
-"Will you be remembering that? "
+"Will you be remembering that?"
 
 "It is not forgetting it I will be, Maisie."
 
@@ -530,11 +530,11 @@ Sian seachd eadar a tri ort,
 Sian seachd eadar a ceithir ort,  
 Sian seachd eadar a coig ort  
 Sian seachd eadar a sia ort,  
-Sian seachd paidir nan seach paidir dol deiseil ri diugh narach ort, ga do ghleidheadh bho bheud 's bho mhi-thapadh! "
+Sian seachd paidir nan seach paidir dol deiseil ri diugh narach ort, ga do ghleidheadh bho bheud 's bho mhi-thapadh!"
 
 Scarcely had she finished before she heard heavy steps approaching.
 
-"Away with you," she whispered, repeating in a loud, angry tone, "Away with you! *Seachad!* *Scachad!* "
+"Away with you," she whispered, repeating in a loud, angry tone, "Away with you! *Seachad!* *Scachad!*"
 
 And with that Neil Ross slipped from the milk-shed and crossed the yard, and was behind the byres before Andrew Blair, with sullen mien and swift, wild eyes, strode from the house.
 
@@ -552,11 +552,11 @@ An hour later a shepherd came by the way he himself had tramped. He was a tall, 
 
 Neil glanced at him, but did not speak.
 
-"What is your name, for I seem to know you? "
+"What is your name, for I seem to know you?"
 
 But Neil had already forgotten him. The shepherd took out his snuff-mull, helped himself, and handed the mull to the lonely way-farer. Neil mechanically helped himself.
 
-"*Am bheil thu 'dol do Fhionphort?*" tried the shepherd again: "Are you going to Fionnaphort? "
+"*Am bheil thu 'dol do Fhionphort?*" tried the shepherd again: "Are you going to Fionnaphort?"
 
 "*Tha mise 'dol a dli I challum chille,*" Neil answered, in a low, weary voice, and as a man adream: "I am on my way to Iona."
 
@@ -568,11 +568,11 @@ Neil looked, but did not speak. His eyes dreamed against what the other could no
 
 "What curse?"
 
-"Ah, *that* has brought the wind against the mist! I was thinking so! "
+"Ah, *that* has brought the wind against the mist! I was thinking so!"
 
 "What curse?"
 
-"You are the man that was the Sin-Eater over there? "
+"You are the man that was the Sin-Eater over there?"
 
 "Ay."
 
@@ -610,13 +610,13 @@ Neil Ross stared, his eyes large and wild. He leaned a little forward. No word c
 
 "Yes: it was this way. Sure, the telling of it is just as I heard it. After you ate the sins of Adam Blair, the people there brought out the coffin. When they were putting him into it, he was as stiff as a sheep dead in the snow — and just like that, too, with his eyes wide open. Well, someone saw you trampling the heather down the slope that is in front of the house, and said, 'It is the Sin-Eater!' With that, Andrew Blair sneered, and said — 'Ay, 'tis the scapegoat he is!' Then, after a while, he went on: 'The Sin-Eater they call him: ay, just so: and a bitter good bargain it is, too, if all's true that's thought true!' And with that he laughed, and then his wife that was behind him laughed, and then . . ."
 
-"Well, what then? "
+"Well, what then?"
 
 "Well, 'tis Himself that hears and knows if it is true! But this is the thing I was told: — After that laughing there was a stillness and a dread. For all there saw that the corpse had turned its head and was looking after you as you went down the heather. Then, Neil Ross, if that be your true name, Adam Blair that was dead put up his white face against the sky, and laughed."
 
 At this, Ross sprang to his feet with a gasping sob.
 
-"It is a lie, that thing!" he cried, shaking his fist at the shepherd. "It is a lie! "
+"It is a lie, that thing!" he cried, shaking his fist at the shepherd. "It is a lie!"
 
 "It is no lie. And by the same token, Andrew Blair shrank back white and shaking, and his woman had the swoon upon her, and who knows but the corpse might have come to life again had it not been for Maisie Macdonald, the deid-watcher, who clapped a handful of salt on his eyes, and tilted the coffin so that the bottom of it slid forward, and so let the whole fall flat on the ground, with Adam Blair in it sideways, and as likely as not cursing and groaning, as his wont was, for the hurt both to his old bones and his old ancient dignity."
 
@@ -681,7 +681,7 @@ The minutes passed, and no sign. Only the hollow booming of the sea, as it moved
 
 At last he saw what looked like a mass of seaweed swirled out on the surge. It was the Sin-Eater. With a leap, Aulay was at his oars. The boat swung through the sea. Just before Neil Ross was about to sink for the second time, he caught him and dragged him into the boat.
 
-But then, as ever after, nothing was to be got out of the Sin-Eater save a single saying: *Tha e lanihan fuar: Tha e lamhan fuar !* — "It has a cold, cold hand! "
+But then, as ever after, nothing was to be got out of the Sin-Eater save a single saying: *Tha e lanihan fuar: Tha e lamhan fuar !* — "It has a cold, cold hand!"
 
 The telling of this and other tales left none free upon the island to look upon the "scape-goat" save as one accursed.
 
@@ -703,7 +703,7 @@ It was only a half-truth that he told, though. For, after he had seen Neil Ross 
 
 "That's not my name," said the Sin-Eater; and he seemed as strange then and there, as though he were a castaway from a foreign ship.
 
-"And what will it be, then, you that are my friend, and sure knowing me as Aulay mac Luais — Aulay Macneill that never grudges you bit or sup? "
+"And what will it be, then, you that are my friend, and sure knowing me as Aulay mac Luais — Aulay Macneill that never grudges you bit or sup?"
 
 "*I am Judas*."
 
@@ -719,7 +719,7 @@ It was only a half-truth that he told, though. For, after he had seen Neil Ross 
 
 "But here I interrupted him and said, — 'Sure, now, Neil — I mean, Judas — it was eight times five.' Yet the simpleness of his sorrow prevailed, and I listened with the wet in my eyes.
 
-"' I am Judas. And because I sold the Son of God for five silver shillings. He laid upon me all the nameless black sins of the world. And that is why I am bearing them till the Day of Days.' "
+"' I am Judas. And because I sold the Son of God for five silver shillings. He laid upon me all the nameless black sins of the world. And that is why I am bearing them till the Day of Days.'"
 
 And this was the end of the Sin-Eater; for I will not tell the long story of Aulay Macneill, that gets longer and longer every winter: but only the unchanging close of it.
 
@@ -739,7 +739,7 @@ I will tell it in the words of Aulay.
 
 "He waved, and called, but the hearing could not be, because of a big surge o' water that came tumbling down upon him. In the stroke of an oar he was swept close by the rocks where I was standing. In that flounderin', seethin' whirlpool I saw the white face of him for a moment, an' as he went out on the re-surge like a hauled net, I heard these words fallin' against my ears, —
 
-"*An eirig m'anama* ... In ransom for my soul! "
+"*An eirig m'anama* ... In ransom for my soul!"
 
 "And with that I saw the double-spar turn over and slide down the back sweep of a drowning big wave. Ay, sure, it went out to the deep sea swift enough then. It was in the big eddy that rushes between Skerry-Mor and Skerry-Beag. I did not see it again — no, not for the quarter of an hour, I am thinking. Then I saw just the whirling top of it rising out of the flying yeast of a great, black-blustering wave, that was rushing northward before the current that is called the Black-Eddy.
 

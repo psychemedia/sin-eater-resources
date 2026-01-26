@@ -149,15 +149,10 @@ was left for days in solitude, without any money, when her hus-
 band could not rise any. The following note is a feeling remon- 
 strance to her: — 
 
-"Deab Wife, — ^I have been in great pain of body and mind 
-since I came out. You are extremely cruel to generous nature, 
-which has a tenderness for you that renders your least dishumour 
-insupportably afflicting. After short starts of passion, not to be inclined to reconcilation, is what is against all rules of Christianity and justice. When I come, I beg to be kindly received, or this will have as iU an effect upon my fortune as upon my mind and body."
+"Dear Wife, — ^I have been in great pain of body and mind since I came out. You are extremely cruel to generous nature, 
+which has a tenderness for you that renders your least dishumour insupportably afflicting. After short starts of passion, not to be inclined to reconcilation, is what is against all rules of Christianity and justice. When I come, I beg to be kindly received, or this will have as iU an effect upon my fortune as upon my mind and body."
 
-In some of his letters, he sneers at Lady Steele's love of 
-money:— "Your man Sam owes me threepence, which must be 
-deducted in the account between you and me; therefore, pray 
-take care of it, or stop ''it." Such letters as the following were sent to her three times a day:—
+In some of his letters, he sneers at Lady Steele's love of money:— "Your man Sam owes me threepence, which must be deducted in the account between you and me; therefore, pray take care of it, or stop it." Such letters as the following were sent to her three times a day:—
 
 ** I beg of you not to be impatient, though an hour before 
 you see 
@@ -176,7 +171,7 @@ the papers to Buckley's.
 
 Your devoted, E. S." 
 
-''Deab Pbue, — ^I am very sleepy and tired, but I could not 
+"Dear Pbue, — ^I am very sleepy and tired, but I could not 
 
 
 
@@ -189,7 +184,7 @@ Historical Notes, 6i
 think of closing my eyes till I told you. 
 
 I am, dearest creature, 
-Your most affectionate faithftQ husband, 
+Your most affectionate faithful husband, 
 
 E. Steele." 
 

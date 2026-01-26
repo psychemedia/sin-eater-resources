@@ -135,7 +135,7 @@ The lack of an explanation for the tradition, as we also heard from the previous
 
 > No explanation of this strange custom has, so far as I know, been hitherto offered, beyond Aubrey's conjecture that it has some reference to the Hebrew Scape-goat.
 
-In the full paper, the comparison with other traditions is justtified as providing a basis for under the Welsh tradition:
+In the full paper, the comparison with other traditions is justified as providing a basis for under the Welsh tradition:
 
 > I propose briefly to compare it with one or two other customs in this country and abroad, for the purpose if possible of tracing its origin. In doing so I will ask you to assume that, as is usual in traditional rites which have continued to modern times, we have in the custom described only a mutilated form of the original ceremony. If that ceremony was in ancient times at all widely distributed we shall probably find its remains in places far apart; but we must not expect to find them all exactly alike. The portion of the ceremony, or the interpretation of it, which most forcibly strikes the popular imagination, and is consequently held most tenaciously in the popular memory, in one place is not always precisely that which is to be recognized at first sight elsewhere. We shall have to piece together the relics we find, first in order to show that they relate to the same rite, that they are in fact portions of the same pattern, though perhaps distorted or half obliterated, and secondly to discover what the original pattern was. Fortunately in the present case the pattern is simple, and the fragments, though few, are unmistakable in their characteristics.
 

@@ -51,7 +51,8 @@ Then up stood another old woman, and exclaimed: "You needn't trouble and worrit 
 
 The miner, unwilling to object to anything that might be asked of him, answered: "I will do what is required, but I demand first that I may be directed on my way to Yealm Steps. I have a long stretch of moor to make this night."
 
-"Well," said the same woman in reply, '' us'll take care for that. For sure certain the little maid can guide'y to Childe's Cross, and from there you can get along o' your self. But first you must eat the soul-cake, and so tak' the dead man's sins on ye. 'Taint a terrible lot — he were a main gude man."
+"Well," said the same woman in reply, "us'll take care for that. For sure certain the little maid can guide'y to Childe's Cross, and from there you can get along o' your self. But first you must eat the soul-cake, and so tak' the dead man's sins on ye. 'Taint a terrible lot — he were a main gude man."
+
 The woman took up a broad saffron cake that lay on the dead man's breast, broke it, and passed it across the coffin to Guavas.
 
 He received the portion and ate some mouthfuls, whilst all the company looked on in silence. Then the same woman passed to him a bowl of spirits across the coffin, and Guavas gratefully drank it. When he had done, all present raised a cry, and threw at him sticks, cinders, whatever they could lay hold of, and he was hustled on all sides and thrust out of the door.
@@ -93,7 +94,7 @@ p150
 
 "See, Aaron, here's a man has thrown himself on me as is a runagate and a felon. See his hand. What am I to do — I, a lone woman — ^wi' the like o' him?" She extended the wounded member, and held the candle that Master Gaunter might see and judge for himself.
 
-"This is Eldad Guavas," he answered. "I have heard of him. He has been knifed against all law and right. I know very well such things were done in times gone by, but not for many years. I've heard tell of this. The sound has gone round the country, and, if he choose, he may make some folks smart for having sentenced him. Whether he were right or wrong condemned I know naught. He's a decent conducted man, though a foreigner. You cannot turn him out. What brought him here? "
+"This is Eldad Guavas," he answered. "I have heard of him. He has been knifed against all law and right. I know very well such things were done in times gone by, but not for many years. I've heard tell of this. The sound has gone round the country, and, if he choose, he may make some folks smart for having sentenced him. Whether he were right or wrong condemned I know naught. He's a decent conducted man, though a foreigner. You cannot turn him out. What brought him here?"
 
 "Nay, how can I tell?" was the widow's answer. "He came to this house the night of my Elias's lyin' out, and he ate his sin away. I sent Lemonday to show him the track to Child's Grave, and by Foxtor mires. Whether anything passed that has made him fancy her, or she him I cannot say, but the only word he has said since he came in was her name, and she's been mighty hot on housin' him."
 
@@ -109,11 +110,11 @@ p181-2
 
 Joan Ford was uneasy and disconcerted.
 
-"Let us consider that another time," she said. '' Now think only of the blowing house."
+"Let us consider that another time," she said. "Now think only of the blowing house."
 
 "That will not be a hard matter," said he. "You have one already below you, at the sweep of the river —"
 
-"What, Lower Swancombe? "
+"What, Lower Swancombe?"
 
 "I do not know its name, but there are very ancient workings there, and among them the ruins of a blowing house, small, but sufficient; and I shall have to restore the furnace, and roof the building, and with small trouble I can put up a wheel and have a blast.'
 
@@ -131,7 +132,7 @@ p231-8
 
 Joan Ford took Guavas by the hand and led him forth out of the house, and seated herself on a stone where she might be overheard of none.
 
-"Eldad," said she, with agitation in her voice and manner, "I must even now speak a word with thee, or ever thou proceedest further in this matter. Dost thou recall that night when first thou didst come to my door? "
+"Eldad," said she, with agitation in her voice and manner, "I must even now speak a word with thee, or ever thou proceedest further in this matter. Dost thou recall that night when first thou didst come to my door?"
 
 "Very well indeed, mother."
 

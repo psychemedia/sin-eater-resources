@@ -154,7 +154,7 @@ I'm shocked, as Joseph intends me to be. "He was only a child," I say.
 
 Is this Joseph proving yet once more that he's a human being, or am I intended to understand something about myself? Maybe, maybe not. Sometimes Joseph's stories are parables, but sometimes they're just running off at the mouth.
 
-In the front hall the second wife, she of the mauve wisps, ambushes me. "He didn't fall,'' she whispers.
+In the front hall the second wife, she of the mauve wisps, ambushes me. "He didn't fall," she whispers.
 
 "Pardon?" I say.
 
@@ -162,7 +162,7 @@ The three wives have a family resemblance — they're all blon- dish and vague a
 
 "He wasn't happy," she says. "I could tell. We were still very close, you know."
 
-What she wants me to infer is that he jumped. ''He seemed all right to me," I say.
+What she wants me to infer is that he jumped. "He seemed all right to me," I say.
 
 "He was good at keeping up a front," she says. She takes a breath, she's about to confide in me, but whatever these revelations are [ don't want to hear them. I want Joseph to remain as he appeared: solid, capable, wise, and sane. I do not need his darkness.
 

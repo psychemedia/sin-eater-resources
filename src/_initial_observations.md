@@ -4,7 +4,7 @@ Throughout the 18th century, there flourished a wide variety of "antiquarian" so
 
 Remnants of the antiquarian way still exist today in the form of family history research and local history societies, where there is still some sense of trying to recover "facts" from the past (see, for example [*Antiquarianism and history*, Roey Sweet, 2008](https://archives.history.ac.uk/makinghistory/resources/articles/antiquarianism.html) for an informal introduction).
 
-Writing in Chapter 53, *"Antiquarianism and History"*, p. 516, of *A Companion to Green And Roman Historiography, J. Marincola (Ed.), 2007* Benedetto Bravo identifies the role of the anitiquarian as follows:
+Writing in Chapter 53, *"Antiquarianism and History"*, p. 516, of *A Companion to Green And Roman Historiography, J. Marincola (Ed.), 2007* Benedetto Bravo identifies the role of the antiquarian as follows:
 
 > By using the adjective "antiquarian" to discuss several forms of the study of the past as it was practiced in antiquity, we highlight implicitly the existence of a certain affinity between these forms and a major trend in European culture of the fifteenth to eighteenth centuries, namely research by *antiquarii* ("antiquarians"). Early modern antiquarians studied the *antiquitates* ("antiquities") of the ancient world (pagan and Christian) and of the Middle Ages. By the term antiquitates they meant surviving ancient or medieval artefacts (vestiges of architecture, sculpture, coins, inscriptions, manuscripts, utensils) or institutions, customs, laws, beliefs, ancient or medieval technology – or both categories simultaneously.
 
@@ -83,7 +83,7 @@ Taking this approach to heart, the correspondent proposes:
 >
 > That it be a perfectly *gratuitous* Society, consisting of all persons whose taste and knowledge may induce them to unite for this purpose.
 >
-> That the most eminent Welsh antiquaries and other personages, the natural friends and protectors of the antiquities of the country, be requested to put themelves at the head of this Society.
+> That the most eminent Welsh antiquaries and other personages, the natural friends and protectors of the antiquities of the country, be requested to put themselves at the head of this Society.
 >
 > That a Council, with a President, Secretary, and other officers be appointed; and that a code of regulations be framed, by common consent, for the guidance and government of the Society.
 >
@@ -102,7 +102,7 @@ The editors then replied directly with the following statement, opening with som
 
 > TO OUR READERS.
 >
-> We confess that, on reading the above, we feel not a little gratified at witnessing so much enthusiasm as is evinced by this writer in, what we cannot but style, "the good cause." We beg leave also to return our best thanks to him and to our antiquarian friends, for their very flattering opinion of the merits, if there be any, of our humble endeavours. That such good results have been produced is owing, not to the Editors of the *Archaeologia Cambrensis*, but to the circumstance of the mine which they have ventured to drive a level into, turning out to be so much richer in Archaeological ore than some could be brought to believe. Our sole object in publishing this Work, at a very considerable sacrifice of time and money, has been to awakey a love of antiquities among our fellow countrymen; and we are quite ready to do any thing within the compass of our limited abilities for the furtherance of the common good. We have given the proposal of our correspondent our best consideration, and have taken the opinion of some judicious friends upon it. The idea coincides with our own wishes; and we therefore venture to offer to our readers the following plan for ascertaining the general feeling of Welsh antiquaries upon this matter.
+> We confess that, on reading the above, we feel not a little gratified at witnessing so much enthusiasm as is evinced by this writer in, what we cannot but style, "the good cause." We beg leave also to return our best thanks to him and to our antiquarian friends, for their very flattering opinion of the merits, if there be any, of our humble endeavours. That such good results have been produced is owing, not to the Editors of the *Archaeologia Cambrensis*, but to the circumstance of the mine which they have ventured to drive a level into, turning out to be so much richer in Archaeological ore than some could be brought to believe. Our sole object in publishing this Work, at a very considerable sacrifice of time and money, has been to awaken a love of antiquities among our fellow countrymen; and we are quite ready to do any thing within the compass of our limited abilities for the furtherance of the common good. We have given the proposal of our correspondent our best consideration, and have taken the opinion of some judicious friends upon it. The idea coincides with our own wishes; and we therefore venture to offer to our readers the following plan for ascertaining the general feeling of Welsh antiquaries upon this matter.
 
 Having accepted thanks, and praised those without whom it would not all have been possible, the editors then seek to build the potential community further:
 
@@ -200,7 +200,7 @@ According to the [Hereford Journal of Wednesday, September 1st, 1852](https://ww
 
 ## "The Sin-Eater", As According to Moggridge
 
-The evening programme that day convened at half-past seven o'clock, with the President, the Hon R. H. Clive, M.P., in the chair. It commenced with the reading of a paper on the *History of the Parish of Carno, Montgomeryshire* by T. O. Morgan, Esq., of Aberystwyth, and dollowing a vote of thanks to Mr. Morgan, "enthusiastically accorded by the meeting", an apparently short discussion on *Municipal records of Ludlow*." Matthew Moggridge, Esq., reporting on the latest of his researches in the Swansea valley alluded to in the paper he read at the fifth meeting the precious year in Tenby, on *"On the Preservation of Local Traditions"*, then proceeded to make some observations the *"Custom of the Sin Eater in Cwm Ammon Valley"*.
+The evening programme that day convened at half-past seven o'clock, with the President, the Hon R. H. Clive, M.P., in the chair. It commenced with the reading of a paper on the *History of the Parish of Carno, Montgomeryshire* by T. O. Morgan, Esq., of Aberystwyth, and following a vote of thanks to Mr. Morgan, "enthusiastically accorded by the meeting", an apparently short discussion on *Municipal records of Ludlow*." Matthew Moggridge, Esq., reporting on the latest of his researches in the Swansea valley alluded to in the paper he read at the fifth meeting the precious year in Tenby, on *"On the Preservation of Local Traditions"*, then proceeded to make some observations the *"Custom of the Sin Eater in Cwm Ammon Valley"*.
 
 ```{admonition} Cwm Ammon
 :class: tip
@@ -223,7 +223,7 @@ It is not clear who the "clergyman residing at Stanton Lacy" was, and there is n
 
 ```{admonition} A Tale of Stanton Lacy
 :class: seealso
-Whilst we do not know what stories the "clergyman residing at Stanton Lacy" might have told, various tales of another, rather coourful, clergyman of Stanton Lacy are recorded.
+Whilst we do not know what stories the "clergyman residing at Stanton Lacy" might have told, various tales of another, rather colourful, clergyman of Stanton Lacy are recorded.
 
 https://en.wikipedia.org/wiki/Robert_Foulkes
 ```
@@ -332,7 +332,7 @@ The *Hereford Journal* description of the first part of Friday evening's meeting
 >
 > Thomas Allen, Esq. stated that there still existed custom in Wales of placing candle in salt, and burning it in the chamber of a deceased person, and made some very interesting remarks upon it, as connected with the custom of the sin-eater.
 
-The Hereford Times, in its [Saturday, September 4th, 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007) edition only gave scant mention of the J. O. Morgan's paper on "The History of the Parish of Carno, Montogomeryshore", but described at length the discussion on "The Municipal Records of Ludlow", presumably based on local interest. For the most part, its report on the sin-eater discussion closely followed the one previously described:
+The Hereford Times, in its [Saturday, September 4th, 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007) edition only gave scant mention of the J. O. Morgan's paper on "The History of the Parish of Carno, Montogomeryshire", but described at length the discussion on "The Municipal Records of Ludlow", presumably based on local interest. For the most part, its report on the sin-eater discussion closely followed the one previously described:
 
 > M. MOGGRIDGE Esq., made some remarks upon a singular custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this—when party died, a person known by the name of "the sin-eater was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.
 >
@@ -390,7 +390,7 @@ So how did Mr. Moggridge quote "Aubrey"?
 
 > "In the county of Hereford," he says, "was an old custom at funerals to hire poor people who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal) I remember lived in a cottage on Rosse highway. The manner was that, when the corpse was brought out of the house, and laid upon the bier, a loaf of bread was brought out, and delivered to the sin-eater over the corpse, as also a mazard bowl of maple full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him *ipso facto* all the sins of the defunct, and freed him or her from walking after they were dead."
 
-Despite being only a short paragraph, this brings in much new evidence that is also often called upon in the later controversies. In the first case, we have the personage of an actual sin-eater descrbed as *"a long, lean, ugly, lamentable poor rascal"*. We also have an address, of sorts: *"a cottage on Rosse highway"*. The process of the ritual is described, along with some of the implements: *"a mazard bowl of maple"*, and a first mention of *beer*, which we recall from Phillips' story framing. The sin-eater's fee is also reduced, to *sixpence*. And finally, a rather strange line: that the sin eater's actions *freed him or her ["the defunct"] from __walking__ after they were dead*. Does this invoke some other belief, that after death souls "walk" the Earth, as ghosts perhaps? Or does it relate to some sort of purgatory? To understand this better, we perhaps need to know a little more about "Aubrey", and the times in which he was writing...
+Despite being only a short paragraph, this brings in much new evidence that is also often called upon in the later controversies. In the first case, we have the personage of an actual sin-eater described as *"a long, lean, ugly, lamentable poor rascal"*. We also have an address, of sorts: *"a cottage on Rosse highway"*. The process of the ritual is described, along with some of the implements: *"a mazard bowl of maple"*, and a first mention of *beer*, which we recall from Phillips' story framing. The sin-eater's fee is also reduced, to *sixpence*. And finally, a rather strange line: that the sin eater's actions *freed him or her ["the defunct"] from __walking__ after they were dead*. Does this invoke some other belief, that after death souls "walk" the Earth, as ghosts perhaps? Or does it relate to some sort of purgatory? To understand this better, we perhaps need to know a little more about "Aubrey", and the times in which he was writing...
 
 Some of Mr. Moggridge's observations upon this quotation then follow:
 
@@ -416,7 +416,7 @@ The President's call to order and personal aside, as well as Symon's response, a
 
 The official report then turns to back to Moggridge's response but __omits__ the comments regarding the Duke of Marlborough (`"the Duke of Marlborough was the person he had alluded to. He sent for Dr. Bowles during his sickness, and when the Dr. arrived he found that the Duke was already dead, and the plate and the salt was placed on the body."`). Was this to protect the reputation a former peer of the realm?
 
-Moggridge's response in the official record, as well as the final remarks, then largely follow the text presented in the Chronicle, with just a few minor differences in spelling (*gist* rather than *jist*, *connexion* rathe than *connection*, turn of phrase (*no immediate connexion* rather than *no immediate and direct connection*) and formaility (Mr. Allen as not qualified as a "friend").
+Moggridge's response in the official record, as well as the final remarks, then largely follow the text presented in the Chronicle, with just a few minor differences in spelling (*gist* rather than *jist*, *connexion* rathe than *connection*, turn of phrase (*no immediate connexion* rather than *no immediate and direct connection*) and formality (Mr. Allen as not qualified as a "friend").
 
 The only possibly substantive difference was in the currency of the practice which he believed *"was extinct now"* rather than *"extinct in the Cwm Amman Valley"*.
 

@@ -122,7 +122,7 @@ Bewildered with fear lest her secret should be discovered, she again stood silen
 
 "No one!" she said hurriedly; "No one!" and her heart smote her for the falsehood uttered by her lips.
 
-"No one?" said Rudhall; "then I *will* hope; ah, dear Clara, I will win your regard if mortal man may do so! "
+"No one?" said Rudhall; "then I *will* hope; ah, dear Clara, I will win your regard if mortal man may do so!"
 
 She dared not undeceive him; she could not deny his deserts; but she felt so unworthy of them.
 
@@ -148,7 +148,7 @@ The poor gardener heard the news; and felt as if stunned by a violent physical b
 
 "No, that thee bisn't," said the woman; "if thee be well in body, thee must be bewitched, and I'll warrant its this old Nancy Carter has a-done it. The old wretch! I seed her go creeping along by the garden wall several times, and I ran and put some straws in the shape of a cross in her footsteps, and yesterday I ran and put a pin in her, but not a bit would she bleed, only threw her stick at me, and cursed me bitterly. The mumbling old beast—if I had my will, she should be flung into the Brookend pond! There would be rare fun for the boys! But I don't know what things are coming to. Never a witch is brought to book now-a-days, not about here, though they get punished in other places. Everybody says that Nancy *does* work the black stick; and that this old black cat in her house is no better than a devil's imp!"
 
-Mortimer smiled, and shook his heed. "I never did old Nancy harm, mother," he said; "why should she put me under a spell? I think *am* bewitched, but it is not by Nancy. "
+Mortimer smiled, and shook his heed. "I never did old Nancy harm, mother," he said; "why should she put me under a spell? I think *am* bewitched, but it is not by Nancy."
 
 "You suspect who has done it, then?" asked Mrs. Jones.
 
@@ -160,7 +160,7 @@ Before night every neighbour gossip knew for certain that somebody had "worked t
 
 "That's about it," replied Shook Griffiths, who had several times put herself in the young man's way, but found no response. "I wouldn't give tuppence for him, myself!" and she dabbered her "washin" with hur "bittle" savagely, making the "sudas" fly like snowflakes.
 
-The third morning afterwards, Mortimer did not present himself as usual at Alton Court. Never had he missed doing so before; and Mr. Markey, when he walked in the garden after breakfast, and was told of this, sent of at once to enquire whether the youth was ill. The messenger retrned, saying that Mortimer had not been home all night. "Strange!" said his master; "he has always been so steady, though somewhat moody lately. Where can he have gone? "
+The third morning afterwards, Mortimer did not present himself as usual at Alton Court. Never had he missed doing so before; and Mr. Markey, when he walked in the garden after breakfast, and was told of this, sent of at once to enquire whether the youth was ill. The messenger retrned, saying that Mortimer had not been home all night. "Strange!" said his master; "he has always been so steady, though somewhat moody lately. Where can he have gone?"
 
 Ah, Mr. Markey, he had gone that journey whence none return. He was then lying, cold and stiff, at the bottom of the river Wye, beneath the steep and broken bank of the "Acres" meadows, between Ross and Wilton. A hat was found in the water. The eddy had drifted it against the central buttress of Wilton Bridge, and there it lodged; and there it was observed by some boys who peeped over the wall to see of any salmon were wriggling their tails among the crystal shallows. A few hours later, the body, fully clad, was found higher up the river, under the "Acres;" and it was at once recognised as that of "that smart-looking gardener chap as worked at Alton Court."
 
@@ -174,11 +174,11 @@ The burial took place the same night. A strange burial it was.
 
 "The parish wunt allow no coffin," said Joe Trumper, the horsebreaker, as the evening closed in, and he stood in the Welsh Harp skittle-alley by candlelight, with some companions, looking down, very little moved, at the prostrate, lifeless figure.
 
-"No," added Sam Morgan, the pig dealer, "and there'll be no service. Pity though, that the poor chap should be drowed in like a cannibal. We might get Old Jack the Scape to do what he could for him, though; what do'st say? "
+"No," added Sam Morgan, the pig dealer, "and there'll be no service. Pity though, that the poor chap should be drowed in like a cannibal. We might get Old Jack the Scape to do what he could for him, though; what do'st say?"
 
 "Iss; Iss!" chorused the others, "we'll have Jack the Scape!"
 
-Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater." Such a profession was by no means uncommon in Herefordshire. In half an hour's time, old Jack was standing by the coffin in the skittle-alley. "I don't me'nd," said he; "but you ain't got no bowl made of maple-wood, and that's what I always has gi'en me, full of beer, as well as the sixpence. "
+Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel on the Walford-road, and frequently figured at funerals, as "The Sin-Eater." Such a profession was by no means uncommon in Herefordshire. In half an hour's time, old Jack was standing by the coffin in the skittle-alley. "I don't me'nd," said he; "but you ain't got no bowl made of maple-wood, and that's what I always has gi'en me, full of beer, as well as the sixpence."
 
 "No," replied Tom Morgan; "thee must manage wi'out the maple bowl; but here's a quart-pot o' good old stingo; I ha' paid for him mysen; thee must make this 'un do; get to work, Jack, for the grave will be waiting."
 
@@ -186,9 +186,9 @@ Jack the Scape was a gaunt, miserable old man, who lived by himself in a hovel o
 
 "Had thee got a silver sixpence, Trumper?" said Morgan; "we'll club round, a penny a piece, and pay thee back, directly."
 
-Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:— "I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven have mercy on us all, Amen! "
+Tramper produced the coin; and the Scape, after receiving that and the beer, *across the corpse*, pulled off his hat and slowly repeated the usual form of words:— "I, John Clement, do hereby take upon myself the sins of our dear brother, here departed, and do undertake to pray for his pardon and my own, to the end that he may sleep quiet in his grave and not walk as a ghost to disturb the neighbourhood. And may Heaven have mercy on us all, Amen!"
 
-This absurd ceremony was observed with solemn silence by the rest of the men present; and the Scape, with another "Amen," drank heartily from the quart pot. "All for myself, mind,' he added: "I take all the consequnces, and I has all the beer! "
+This absurd ceremony was observed with solemn silence by the rest of the men present; and the Scape, with another "Amen," drank heartily from the quart pot. "All for myself, mind,' he added: "I take all the consequnces, and I has all the beer!"
 
 "All right!" said Morgan. "Now, lads, lift the body, and let us start."
 
@@ -198,7 +198,7 @@ A darker night could hardly be. Not a star was to be seen. No bell was allowed t
 
 The place chosen for the interment was the junction of the cross-roads at top of Alton-street. There, after sunset, a hole was dug in the presence of a few idlers. When it was completed, a considerable number of spectators had gathered. Coldly blew the April wind (it was an easterly one) down towards the churchyard, the small party of men advanced up Alton-street, two of them carrying horn lanterns, and four others bearing the bier, on which was stretched the uncoffined body. They drew nearer and nearer. They stood by the side of the hole, and laid the corpse upon the ground. Not a prayer was said; not a sigh was heaved. The dead youth had had no companions; and none of his friends or *relatives* were present, for postal communication was not so easily available then as in modern times.
 
-"Poor young fellow," remarked several of the bystanders; "it was a pity! "
+"Poor young fellow," remarked several of the bystanders; "it was a pity!"
 
 And that was his only requiem.
 
@@ -208,7 +208,7 @@ And that was his only requiem.
 
 "What be this stake for?" inquired a boy.
 
-"Why, to drive drow him, to be sure, or else he'd walk and bite people in their beds, and then every one of 'em would walk in their turn, and a pretty time Ross would have of it! "
+"Why, to drive drow him, to be sure, or else he'd walk and bite people in their beds, and then every one of 'em would walk in their turn, and a pretty time Ross would have of it!"
 
 What followed is too horrible to describe. But in a very few minutes, the mangled body was let down into the grave. The earth was hastily shovelled in; and soon every one had departed from the dreadful spot. That was how the place acquired its name, Corpse-Cross; and suicides were interred there in similar fashion for a long time afterwards. *Not till 1838, did the law intervene to put an end to so odious a practice.*
 
@@ -260,7 +260,7 @@ Astonishment and consternation were visible on every face.
 
 The old clerk bobbled off to the vestry, and fetched some. Mrs. Markey sprinkled the bride's face; and the clergyman patiently waited. book in hand. Presently, the young girl resovered consciousness, and her mother lifted her up and put her to stand as she was before, whispering, "I think you can go on again, sir Now, Clara, dear, don't be foolish!"
 
-A third time the question was asked— "Wilt thou have this man? "
+A third time the question was asked— "Wilt thou have this man?"
 
 "Never!" cried the bride; "O Ralph! O poor drowned Ralph" and, turning round, she hid her face, and sobbed on her mother's breast.
 
@@ -274,7 +274,7 @@ Mr. Markey's face was black as a thunder-cloud. "The disgrace!" he uttered; "the
 
 Amid general confusion, Clara was borne to a carriage.
 
-"What?" asked Mrs. Jones; "wunna her have him? "
+"What?" asked Mrs. Jones; "wunna her have him?"
 
 "No," replied Mrs. Preece;" "hur was n love with the gardener, him as was buried at Corpse Cross!"
 

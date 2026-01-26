@@ -21,7 +21,7 @@ they enter i hover round the spot where the person
 whose death they intimate will be buried, and disappear; they vary in brilliancy and size, according 
 to the person whose doom it is to leave the world; 
 thus an infant's would not be larger than that of a 
-' candle, whilst a child's <' of the larger growth'' is 
+' candle, whilst a child's <' of the larger growth is 
 of a proportionate size; the colour is said to be a sulphureous blue,]: and when any one observes their 
 approach, if they do not move aside they >Hrili be 
 struck down by their force, as Twas informed. by a 

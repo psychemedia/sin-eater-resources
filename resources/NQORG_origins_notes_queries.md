@@ -321,7 +321,7 @@ Of faithful friends that round us stand;
 With pride exult, that we alone  
 Can join these scattered gems in one;  
 Rejoiced to be the silken line  
-On which these pearls united shine. "
+On which these pearls united shine."
 
 ---
 
@@ -987,7 +987,7 @@ And this end had, to a certain extent, been accomplished, "Our last number," con
 
 "contains communications not only from all parts of the metropolis, and from almost every county in England, but also from Scotland, Ireland, Holland, and even from Demerara."
 
-A further note of congratulation is added in "Our Hundredth Number," when Mr. Thoms claims "the privilege of age to be garrulous." He states that "during the hundred weeks our paper has existed we have received from Sweden, Denmark, Germany, Holland, Belgium, and France — from the United States — from India—from Australia —from the West Indies— from almost every one of our Colonies letters expressive of the pleasure which the writers many of them obviously scholars 'ripe and good,' though far removed from the busy world of letters), derive from the perusal of 'Notes and Queries.' "
+A further note of congratulation is added in "Our Hundredth Number," when Mr. Thoms claims "the privilege of age to be garrulous." He states that "during the hundred weeks our paper has existed we have received from Sweden, Denmark, Germany, Holland, Belgium, and France — from the United States — from India—from Australia —from the West Indies— from almost every one of our Colonies letters expressive of the pleasure which the writers many of them obviously scholars 'ripe and good,' though far removed from the busy world of letters), derive from the perusal of 'Notes and Queries.'"
 
 Mr. Thoms adds: "How many a pertinent Note, suggestive Query, and apt Reply have reached us from the same remote quarters!" Reference is also made to the good service rendered to men of letters here at home, as well as to a goodly list of works of learning and research, such as Cunningham's 'Hand book of London Past and Present,' "published when we had been but a few months in existence, down to Wycliffe's 'Three Treatises on the Church,' recently edited by the Rev. Dr. Todd."
 

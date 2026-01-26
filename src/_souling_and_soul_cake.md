@@ -1,12 +1,12 @@
 # Souling and Soul-Cake
 
-One of the benefits claimd for the ministrations of the sin-eater as that it would _"free [the defunct] from walking after they were dead"_ (which is presumably to say, the spirit of the departed would not then remain as some sort of ghost destined to walk the earth), one place we might look to for evidence of the sin-eater *not* having performed a role might be amongst those souls that were found to "walking" after death.
+One of the benefits claimed for the ministrations of the sin-eater as that it would _"free [the defunct] from walking after they were dead"_ (which is presumably to say, the spirit of the departed would not then remain as some sort of ghost destined to walk the earth), one place we might look to for evidence of the sin-eater *not* having performed a role might be amongst those souls that were found to "walking" after death.
 
 All Hallows Eve (or as we more commonly know it, Halloween, October 31st), the night before All Hallows Day, (November 1st, also known as All Saints Day, and which, in the Christian Church, is itself the day before the Feast of All Souls, November 2nd), is one of those nights on which the souls of the dead are often to be found walking.
 
 So are there any traditions related to All Hallows Eve that might appear to be reflections or echoes of the sin-eater tradition, or perhpas even parody the ritual of the sin-eater?
 
-One tradition that is perhaps worth considering is that of *souling*, and the eating of *soul cake*. This tradition does not generally appear to be discussed within the context of the *sin-eater* tradition. Whether or not there is a lineage that relates the tradition to the sin-eater tradition *for the scientific folkorist, at least*, there are certain similarities that are perhaps worth noting, not just in the lore of the tradition, but also the locations in which it seems to have been popular.
+One tradition that is perhaps worth considering is that of *souling*, and the eating of *soul cake*. This tradition does not generally appear to be discussed within the context of the *sin-eater* tradition. Whether or not there is a lineage that relates the tradition to the sin-eater tradition *for the scientific folklorist, at least*, there are certain similarities that are perhaps worth noting, not just in the lore of the tradition, but also the locations in which it seems to have been popular.
 
 So before we move on to the first sin-eater controversy, let's consider, for a moment, this seeming widespread Halloween tradition.
 
@@ -311,7 +311,7 @@ Over twenty-five years later, also in *Notes & Queries*, [Vol 10 Iss 257 (5th S.
 >
 > The following, which seems worth a note in "N. & Q." comes to me in a letter from a lady dated "All Saint's Day, 1878." Church Pulverbatch is in Salop, and the letter is written at Chester:—
 >
-> "I knew an old Mrs. Ward of Church Pulverbatch, who was born in 1752 and died in 1853. She never had an illness in her life. On the day she *attained her hundredth year* she was dressed in her bridal dress of yellow satin, and kept her *fête* by receivng the Holy Communionwith her friends and neighbours. I am reminded of her just now by the children who are singing their 'Souling Song' under my window; for Mrs. Ward was the last of her generation — or of any generation — in her neighbourhood, to make 'soul cakes.'"  
+> "I knew an old Mrs. Ward of Church Pulverbatch, who was born in 1752 and died in 1853. She never had an illness in her life. On the day she *attained her hundredth year* she was dressed in her bridal dress of yellow satin, and kept her *fête* by receiving the Holy Communion with her friends and neighbours. I am reminded of her just now by the children who are singing their 'Souling Song' under my window; for Mrs. Ward was the last of her generation — or of any generation — in her neighbourhood, to make 'soul cakes.'"  
 >
 > A. J. M.
 
@@ -369,12 +369,12 @@ Almost a decade later, in Thomas Thiselton Dyer's [*British popular customs, pre
 >
 > All the houses that we've been at, we're had both meat and drink,  
 > So now we're dry with travelling, we hope you'll on us think;  
-> We hope you'll on nu think with your applea and strong beer,  
+> We hope you'll on us think with your apples and strong beer,  
 > For we'll oome no more a-souling until another year.
 >
 > God bless the master of this house, and the mistress also.  
 > And all the little children that round thee table go;  
-> Likewise yonr men and maidens, your cattle and your store.  
+> Likewise your men and maidens, your cattle and your store.  
 > And all that lives within your gates we wish you ten times more;  
 > We wish you ten times more with your apples and strong beer,  
 > And we'll come no more a-souling until another year."
@@ -428,7 +428,7 @@ A few years earlier, related traditions had also been described in Yorkshire, as
 
 From several of the sources thus far included, the existence of various traditions relating to *souling* and *soul cakes* in Shropshire appears well attested to.
 
-In 1872, Askew Roberts, editor of the *Bye-Gones* "hyperlocal" version of *Notes & Queries* published via the Oswestry Advertizer (Oswestry being a Shropshire town a few miles North-West of Shreswbury) appears to have contributed a further note on the topic to *Notes & Queries* [*Vol 10 Iss 256*](https://archive.org/details/sim_notes-and-queries_1872-11-23_10_256/page/408/mode/2up), p409, published November 23rd, 1872. His note was perhaps inspired by the question to *Bye-Gones* of October 20th, 1872, (p98) on the question of All Saints' Eve customs in which "Cynog", the questioner, asked: *I should very much like to see, in __Bye-gones__, an account of the manner in which the festival is kept *this* year of grace, 1872, in the Borders of Wales.*
+In 1872, Askew Roberts, editor of the *Bye-Gones* "hyperlocal" version of *Notes & Queries* published via the Oswestry Advertizer (Oswestry being a Shropshire town a few miles North-West of Shrewsbury) appears to have contributed a further note on the topic to *Notes & Queries* [*Vol 10 Iss 256*](https://archive.org/details/sim_notes-and-queries_1872-11-23_10_256/page/408/mode/2up), p409, published November 23rd, 1872. His note was perhaps inspired by the question to *Bye-Gones* of October 20th, 1872, (p98) on the question of All Saints' Eve customs in which "Cynog", the questioner, asked: *I should very much like to see, in __Bye-gones__, an account of the manner in which the festival is kept *this* year of grace, 1872, in the Borders of Wales.*
 
 > Hallow E'en at Oswestry.—
 >

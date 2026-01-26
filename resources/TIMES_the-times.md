@@ -110,7 +110,7 @@ Sir,
 
 In your issue of Monday Mr. E. S. Hartland is reported to have said, in the course of a discussion on cannibalism in the Anthropological Section of the British Association, that the sin-eater has only disappeared from Wales within living memory.
 
-If, as I imagine, Mr. Hartland's evidence for this survival is presented to us in his article on the subject in Folklore for June, 1892, I venture to think it is wholly insufficiant. Mr. Hartland's words are (p. 148), "Mr. Moggridge specified the neighbourhood of Llandebie. . . as a place where the custom had survived to within a recent period." These words are a paraphrase from the report of the Archaeologia Cambrensis, Vol. III., N.S., p. 330. The exact words used by Mr. Moggridge are as follows :-' There (near Llandebie) the above practice (of the sin-eater) was said to have prevailed to a recent period. "
+If, as I imagine, Mr. Hartland's evidence for this survival is presented to us in his article on the subject in Folklore for June, 1892, I venture to think it is wholly insufficiant. Mr. Hartland's words are (p. 148), "Mr. Moggridge specified the neighbourhood of Llandebie. . . as a place where the custom had survived to within a recent period." These words are a paraphrase from the report of the Archaeologia Cambrensis, Vol. III., N.S., p. 330. The exact words used by Mr. Moggridge are as follows:- 'There (near Llandebie) the above practice (of the sin-eater) was said to have prevailed to a recent period."
 
 This evidence is originally at best second hand; it is unfortunate that Mr. Hartland has emphasized its value; in the article in Folklore, Mr. Moggridge's evidence has the appearance of being the result of personal observation. Thus at the outset Mr. Hartland's evidence is weakened.
 

@@ -115,7 +115,7 @@ Owen now provides examples from two key reference works, Owen Pughe's *Dictionar
 
 A two volume collection of Owen Pughe's dictionary can be found on the Internet Archive: [volume I](https://archive.org/details/ADictionaryOfTheWelshLanguageV1/page/n9/mode/2up) and [volume II](https://archive.org/details/ADictionaryOfTheWelshLanguageV2/page/n7/mode/2up). The definition for *byl* can be found [here](https://archive.org/details/ADictionaryOfTheWelshLanguageV1/page/183/mode/2up?q=byl).
 
-The Internet Archive also has at least one edition of Silvan-Evans' [English Welsh dictionary](https://archive.org/details/anenglishandwel01evangoog/page/n13/mode/2up) wihtin which we can also find the term *byl*, as for example in the defintion of the English word [*brim*](https://archive.org/details/anenglishandwel01evangoog/page/182/mode/2up?q=byl).
+The Internet Archive also has at least one edition of Silvan-Evans' [English Welsh dictionary](https://archive.org/details/anenglishandwel01evangoog/page/n13/mode/2up) within which we can also find the term *byl*, as for example in the defintion of the English word [*brim*](https://archive.org/details/anenglishandwel01evangoog/page/182/mode/2up?q=byl).
 ```
 
 Mr Owen then seeks to deny Mr. Eilir Evans' derivation:

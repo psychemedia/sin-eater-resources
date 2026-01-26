@@ -110,7 +110,8 @@ Then up stood another old woman, and exclaimed: "You needn't trouble and worrit 
 
 The miner, unwilling to object to anything that might be asked of him, answered: "I will do what is required, but I demand first that I may be directed on my way to Yealm Steps. I have a long stretch of moor to make this night."
 
-"Well," said the same woman in reply, '' us'll take care for that. For sure certain the little maid can guide'y to Childe's Cross, and from there you can get along o' your self. But first you must eat the soul-cake, and so tak' the dead man's sins on ye. 'Taint a terrible lot — he were a main gude man."
+"Well," said the same woman in reply, "us'll take care for that. For sure certain the little maid can guide'y to Childe's Cross, and from there you can get along o' your self. But first you must eat the soul-cake, and so tak' the dead man's sins on ye. 'Taint a terrible lot — he were a main gude man."
+
 The woman took up a broad saffron cake that lay on the dead man's breast, broke it, and passed it across the coffin to Guavas.
 
 He received the portion and ate some mouthfuls, whilst all the company looked on in silence. Then the same woman passed to him a bowl of spirits across the coffin, and Guavas gratefully drank it. When he had done, all present raised a cry, and threw at him sticks, cinders, whatever they could lay hold of, and he was hustled on all sides and thrust out of the door.
@@ -174,7 +175,7 @@ p181-2
 
 Joan Ford was uneasy and disconcerted.
 
-"Let us consider that another time," she said. '' Now think only of the blowing house."
+"Let us consider that another time," she said. "Now think only of the blowing house."
 
 "That will not be a hard matter," said he. "You have one already below you, at the sweep of the river —"
 
@@ -210,7 +211,7 @@ Joan Ford took Guavas by the hand and led him forth out of the house, and seated
 
 "What has been on thee ever since that night save the enmity of Dickon Rawle? Wherefore has that come?"
 
-"That is easily answered. I quarrelled with him at Crockern Stannary Hall, and for that reason and through envy at my fancied success, and the gall of malice that lies in the grounds of his mean heart, he stirred up a false charge against me of having defrauded the Queen, and obtained my punishment by the overbearing might of the bailiff, Rodda, and then "
+"That is easily answered. I quarrelled with him at Crockern Stannary Hall, and for that reason and through envy at my fancied success, and the gall of malice that lies in the grounds of his mean heart, he stirred up a false charge against me of having defrauded the Queen, and obtained my punishment by the overbearing might of the bailiff, Rodda, and then..."
 
 "Aye, and then — thou didst set thy wolf at his throat."
 

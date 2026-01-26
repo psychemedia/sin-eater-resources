@@ -44,7 +44,7 @@ Fawr* parish, where he suddenly met a *corpse-candle*, of a small light when nea
 
 __William John's Tale__
 
-> "One William John, of the parish of *Lanboydi*, a smith, on going home one night, being somewhat drunk and bold (it seems too bold), saw one of the *corpse canddles*; he went out of his way to meet with it, and when he came near it, he saw it was a burying, and the corpse upon the bier, the perfect resemblance of a woman in the neighbourhood whom he knew, holding the *candle* between her fore fingers, who dreadfully grinned at him; and presently he was struck down from his horse, where he remained a while, and was ill a long time after before he recovered. This was before the real burying of the woman. His fault, and therefore his danger, was his coming presumptuously against the *candle*.— This is another sensible proof of the apparition and being of spirits."
+> "One William John, of the parish of *Lanboydi*, a smith, on going home one night, being somewhat drunk and bold (it seems too bold), saw one of the *corpse candles*; he went out of his way to meet with it, and when he came near it, he saw it was a burying, and the corpse upon the bier, the perfect resemblance of a woman in the neighbourhood whom he knew, holding the *candle* between her fore fingers, who dreadfully grinned at him; and presently he was struck down from his horse, where he remained a while, and was ill a long time after before he recovered. This was before the real burying of the woman. His fault, and therefore his danger, was his coming presumptuously against the *candle*.— This is another sensible proof of the apparition and being of spirits."
 
 __Rees Thomas' Tale__
 

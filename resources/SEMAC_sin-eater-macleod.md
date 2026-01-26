@@ -196,7 +196,7 @@ It was the woman he came upon first.
 "Ay, sure."  
 "And the evil does not abide?"  
 "No. The . . . the . . . person . . . the person takes them away, and . . ."  
-''Them?'*  
+"Them?'*  
 
 
 THE SIN-EATER 35  
@@ -367,8 +367,8 @@ An hour later a shepherd came by the way he himself had tramped. He was a tall, 
 Neil glanced at him, but did not speak.  
 "What is your name, for I seem to know you?"  
 But Neil had already forgotten him. The shepherd took out his snuff-mull, helped him- self, and handed the mull to the lonely way- farer. Neil mechanically helped himself.  
-''Am bheil thu 'dol do Fhionphort?" tried the shepherd again: "Are you going to Fionnaphort?"  
-'' Tha mise 'dol a dli I - challu^n - chille" Neil answered, in a low, weary voice, and as a man adream: "I am on my way to lona."  
+"Am bheil thu 'dol do Fhionphort?" tried the shepherd again: "Are you going to Fionnaphort?"  
+"Tha mise 'dol a dli I - challu^n - chille" Neil answered, in a low, weary voice, and as a man adream: "I am on my way to lona."  
 
 
 THE SIN-EATER 51  

@@ -550,7 +550,7 @@ Of the eleven "comprovincial bishops" present at the publication of this Constit
 
 "In the time of popery," says Latimer (*Works*, i. 547, Parker Society), "before the Gospel came amongst us, we went to burials with weeping and wailing as though there were no God: but since the Gospel came unto us, I have heard say that in some places they go with the corses grinning and flearing, as though they went to a bear-baiting, which thing no doubt is nought."
 
-From Mr. Edward Peacock''s notes to his edition of John Myre's "Instructions to the Clergy* (E.E.T.S.) I take the following :
+From Mr. Edward Peacock's notes to his edition of John Myre's "Instructions to the Clergy* (E.E.T.S.) I take the following :
 
 "Chrismatories and fonts were ordered to be kept securely locked, for fear that weak or evil-disposed persons should steal the holy oils or consecrated wafer for magical purposes." "It was customary in early times for the receivers to carry home the *panis benedictus*. It was said that in the fifteenth century some people used to employ it as a charm, and on that account carry it about their persons." "The holy bread, the holy loaf, or *eulogia*, was ordinary leavened bread cut into small pieces, blessed, and given to the people after mass was over."
 
@@ -692,7 +692,7 @@ One word in conclusion in reference to Strabo and Irish cannibalism. Mr. Hartlan
 
 "A participle by the story's brim  
 A simple participle is to him,  
-And it is nothing more! "
+And it is nothing more!"
 
 J. P. OWEN.
 
