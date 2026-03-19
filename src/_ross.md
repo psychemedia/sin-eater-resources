@@ -279,7 +279,7 @@ The unhappy girl, embarrassed, held down her head, and for some time could not r
 
 She shook her head in silence.
 
-"Tell me," rejoined he; you cannot have learned to love any one else? I have never seen you show encouragement to or preference to any visitor who comes here."
+"Tell me," rejoined he; "you cannot have learned to love any one else? I have never seen you show encouragement to or preference to any visitor who comes here."
 
 Bewildered with fear lest her secret should be discovered, she again stood silent. He took her hand. She did not withdraw it, but averted her head. "Oh, no, Mr. Rudhall; pity me, but forgive me — it can never be!"
 
@@ -321,7 +321,7 @@ Mortimer smiled, and shook his heed. "I never did old Nancy harm, mother," he sa
 
 Before night every neighbour gossip knew for certain that somebody had "worked the Mask stick" for the young man; and the groups of women looked after him with critical curiosity as he passed by.
 
-"I should think hur was in love," said Betsy Preese, the washerwoman, as she stood at the bottom the steps leading down to the spring at the lower end of Alton-Street, and paused in her task of beating linen with a wooden 'bittle;' "only hur never goes wi o'er a lass in the parish; poor and proud! poor and proud! and she tossed her head contemptuously.
+"I should think hur was in love," said Betsy Preese, the washerwoman, as she stood at the bottom the steps leading down to the spring at the lower end of Alton-Street, and paused in her task of beating linen with a wooden 'bittle;' "only hur never goes wi o'er a lass in the parish; poor and proud! poor and proud!", and she tossed her head contemptuously.
 
 "That's about it," replied Shook Griffiths, who had several times put herself in the young man's way, but found no response. "I wouldn't give tuppence for him, myself!" and she dabbered her "washin" with hur "bittle" savagely, making the "sudas" fly like snowflakes.
 
