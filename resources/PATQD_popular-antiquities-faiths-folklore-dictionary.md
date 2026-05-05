@@ -3,7 +3,7 @@ https://archive.org/details/brandspopularan00brangoog/page/n202/mode/2up?q=sin
 
 Brand's Popular Antiquities of Great Britain: Faiths and Folklore; a Dictionary of National Beliefs, Superstitions and Popular Customs, Past and Current, With Their Classical and Foreign Analoguses, Described and Illustrated
 
-Forming a new edition of "The Popular Antiquities of Great Brotain" By Brand and Ellis, Largely extended, corrected, brought down to the present time, and now alphabetically arranged
+Forming a new edition of "The Popular Antiquities of Great Britain" By Brand and Ellis, Largely extended, corrected, brought down to the present time, and now alphabetically arranged
 
 By W. Carew Hazlitt
 
