@@ -1,5 +1,5 @@
 
-https://archive.org/details/observationsonp00bourgoog/page/n242/mode/2up 
+https://archive.org/details/observationsonp00bourgoog/page/n62/mode/2up?q=%22farther+learn+from%22
 
 Observations on Popular Antiquities: Including the Whole of Mr. Bourne's ...
 by John Brand, Henry Bourne
