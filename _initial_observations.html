@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_initial_observations';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_initial_observations.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="The Road to Ludlow" href="_before_ludlow.html" />
     <link rel="prev" title="To Begin At the Beginning" href="_beginning.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-founding-of-the-cambrian-archaeological-association-1846-7">The Founding of the Cambrian Archaeological Association, 1846-7</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-fifth-meeting-at-tenby-1851">The Fifth Meeting, at Tenby, 1851</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-sixth-meeting-at-ludlow-1852">The Sixth Meeting, at Ludlow, 1852</a></li>
@@ -401,7 +439,7 @@ document.write(`
 <h1>Initial Observations<a class="headerlink" href="#initial-observations" title="Link to this heading">#</a></h1>
 <p>Throughout the 18th century, there flourished a wide variety of “antiquarian” societies, whose members sought to recover empirical evidence of the past, from artefacts to scholarly researched and cross-referenced facts in the classical texts of antiquity, much as a naturalist might seek to collect from evidence of particular species of insect, fungus or plant in the environment from both specimens as well as much earlier writings.</p>
 <p>Remnants of the antiquarian way still exist today in the form of family history research and local history societies, where there is still some sense of trying to recover “facts” from the past (see, for example <a class="reference external" href="https://archives.history.ac.uk/makinghistory/resources/articles/antiquarianism.html"><em>Antiquarianism and history</em>, Roey Sweet, 2008</a> for an informal introduction).</p>
-<p>Writing in Chapter 53, <em>“Antiquarianism and History”</em>, p. 516, of <em>A Companion to Green And Roman Historiography, J. Marincola (Ed.), 2007</em> Benedetto Bravo identifies the role of the anitiquarian as follows:</p>
+<p>Writing in Chapter 53, <em>“Antiquarianism and History”</em>, p. 516, of <em>A Companion to Green And Roman Historiography, J. Marincola (Ed.), 2007</em> Benedetto Bravo identifies the role of the antiquarian as follows:</p>
 <blockquote>
 <div><p>By using the adjective “antiquarian” to discuss several forms of the study of the past as it was practiced in antiquity, we highlight implicitly the existence of a certain affinity between these forms and a major trend in European culture of the fifteenth to eighteenth centuries, namely research by <em>antiquarii</em> (“antiquarians”). Early modern antiquarians studied the <em>antiquitates</em> (“antiquities”) of the ancient world (pagan and Christian) and of the Middle Ages. By the term antiquitates they meant surviving ancient or medieval artefacts (vestiges of architecture, sculpture, coins, inscriptions, manuscripts, utensils) or institutions, customs, laws, beliefs, ancient or medieval technology – or both categories simultaneously.</p>
 </div></blockquote>
@@ -420,9 +458,9 @@ document.write(`
 <p>In issue III, published July 1846, the following <a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1846-07_1_3/page/281/mode/1up?q=correspondence">“Important Communication”</a> opened the <em>Correspondence</em> section:</p>
 <blockquote>
 <div><p>IMPORTANT COMMUNICATION.</p>
-<p><em>To the Editors of the  Archaeologia Cambrensis.</em></p>
+<p><em>To the Editors of the Archaeologia Cambrensis.</em></p>
 <p>GENTLEMEN,— I take the liberty of addressing you, not only as being one of your constant readers, but as being deputed by several of your friends and brother antiquaries to communicate to you our opinion upon a matter of no small interest to the common cause we advocate, — the study and preservation of the National Antiquities of Wales.</p>
-<p>In the first place I should observe, that we highly approve of the efforts made by yourselves and the contributors to the <em>Archaeologia Cambrensis</em>, towards exciting and extending a love and knowledge of Cambrian Archaeology; and we make no doubt but that your efforts will, in the course of time, produce an excellent effect upon the whole body of Welsh antiquaries, as well as upon the public in general. We consider as a token of this, the great variety of communications concerning Wales which your pages have received, not only from correspondents within the Principality, but also from those in other parts of Great Britain, and even from the sister island. The value, too, of nearly all the papers you have printed, and the highly interesting information which your Work has been the means of divulging, show that the subject of Welsh antiquities is not merely as rich as you yourselves apparently anticipated it to be, but, we expect, will prove to be much more extensive and important, in a national and historical point of view, than the majority of British antiquaries are inclined to admit. We also would remind the  Archaeological world, through your pages, that the correspondence, which you have published shows how warm an interest is taken in antiquarian subjects in places, where the very existence of such a feeling has been strongly denied; and, were we called on for a proof of this, would appeal to Caernarvon as a remarkable instance; where to our knowledge several amateurs, and even indifferent persons, have been <em>bitten</em> with the antiquarian <em>furor</em>, and where a strong desire to cultivate the study of national antiquities now happily prevails. Your publication is entitled to much praise for having encouraged and concentrated this good feeling in that town; and we doubt not but that similar results have occurred, or may be expected, at other places.</p>
+<p>In the first place I should observe, that we highly approve of the efforts made by yourselves and the contributors to the <em>Archaeologia Cambrensis</em>, towards exciting and extending a love and knowledge of Cambrian Archaeology; and we make no doubt but that your efforts will, in the course of time, produce an excellent effect upon the whole body of Welsh antiquaries, as well as upon the public in general. We consider as a token of this, the great variety of communications concerning Wales which your pages have received, not only from correspondents within the Principality, but also from those in other parts of Great Britain, and even from the sister island. The value, too, of nearly all the papers you have printed, and the highly interesting information which your Work has been the means of divulging, show that the subject of Welsh antiquities is not merely as rich as you yourselves apparently anticipated it to be, but, we expect, will prove to be much more extensive and important, in a national and historical point of view, than the majority of British antiquaries are inclined to admit. We also would remind the Archaeological world, through your pages, that the correspondence, which you have published shows how warm an interest is taken in antiquarian subjects in places, where the very existence of such a feeling has been strongly denied; and, were we called on for a proof of this, would appeal to Caernarvon as a remarkable instance; where to our knowledge several amateurs, and even indifferent persons, have been <em>bitten</em> with the antiquarian <em>furor</em>, and where a strong desire to cultivate the study of national antiquities now happily prevails. Your publication is entitled to much praise for having encouraged and concentrated this good feeling in that town; and we doubt not but that similar results have occurred, or may be expected, at other places.</p>
 </div></blockquote>
 <p>Having praised the editors for publishing such a useful and informative journal, the anonymous correspondent goes on to suggest that the journal already plays an important co-ordinating role in the activity of the Cambrian antiquary community:</p>
 <blockquote>
@@ -434,7 +472,7 @@ document.write(`
 </div></blockquote>
 <p>Indeed, based on the success of recently create English archaeological societies, perhaps there is an opportunity to launch a Welsh archaeological society?</p>
 <blockquote>
-<div><p>Since so much good has been effected throughout England, generally, by the existence of Societies for “the Encouragement and Promotion of researches into the Arts and Monuments of the Early and Middle Ages,” and since the enthusiasm excited by these societies is still on the increase, why should we not establish a similar Society or Association for Wales, and form ourselves into a body of  Archaeologists for the Study and Preservation of Welsh National Antiquities?</p>
+<div><p>Since so much good has been effected throughout England, generally, by the existence of Societies for “the Encouragement and Promotion of researches into the Arts and Monuments of the Early and Middle Ages,” and since the enthusiasm excited by these societies is still on the increase, why should we not establish a similar Society or Association for Wales, and form ourselves into a body of Archaeologists for the Study and Preservation of Welsh National Antiquities?</p>
 </div></blockquote>
 <p>A point of contrast is noted, however, between how the “business model” of English societies (which is to say, topic-based or thematic social networks) – launch the society first, build the audience, then publish the magazine - and an opportunity afforded by the <em>Archaeologia Cambrensis</em>: tale the audience it has already built, and create a society (which is to say, a thematic social network) around that audience:</p>
 <blockquote>
@@ -463,9 +501,9 @@ document.write(`
 <p>Taking this approach to heart, the correspondent proposes:</p>
 <blockquote>
 <div><p>[A]nd, as this seems to be a good practical aphorism, we have adopted it, and, therefore, having consulted together, we beg to propose to you, and through your medium to our friends and brother antiquaries, the following scheme:—</p>
-<p>That an Antiquarian Association be formed, to be called “The Cambrian  Archaeological Association for the study and preservation of the National Antiquities of Wales.”</p>
+<p>That an Antiquarian Association be formed, to be called “The Cambrian Archaeological Association for the study and preservation of the National Antiquities of Wales.”</p>
 <p>That it be a perfectly <em>gratuitous</em> Society, consisting of all persons whose taste and knowledge may induce them to unite for this purpose.</p>
-<p>That the most eminent Welsh antiquaries and other personages, the natural friends and protectors of the antiquities of the country, be requested to put themelves at the head of this Society.</p>
+<p>That the most eminent Welsh antiquaries and other personages, the natural friends and protectors of the antiquities of the country, be requested to put themselves at the head of this Society.</p>
 <p>That a Council, with a President, Secretary, and other officers be appointed; and that a code of regulations be framed, by common consent, for the guidance and government of the Society.</p>
 <p>That whatever incidental expenses may arise, be left to be defrayed by the good feeling of those patrons of antiquarian pursuits who may be generous enough to come forward for that purpose.</p>
 <p>And, lastly, that the <em>Archaeologia Cambrensis</em> be adopted as the official organ of the Society.</p>
@@ -477,7 +515,7 @@ I remain yours faithfully,</p>
 <p>The editors then replied directly with the following statement, opening with something that we might read as akin to an acceptance speech:</p>
 <blockquote>
 <div><p>TO OUR READERS.</p>
-<p>We confess that, on reading the above, we feel not a little gratified at witnessing so much enthusiasm as is evinced by this writer in, what we cannot but style, “the good cause.” We beg leave also to return our best thanks to him and to our antiquarian friends, for their very flattering opinion of the merits, if there be any, of our humble endeavours. That such good results have been produced is owing, not to the Editors of the <em>Archaeologia Cambrensis</em>, but to the circumstance of the mine which they have ventured to drive a level into, turning out to be so much richer in  Archaeological ore than some could be brought to believe. Our sole object in publishing this Work, at a very considerable sacrifice of time and money, has been to awakey a love of antiquities among our fellow countrymen; and we are quite ready to do any thing within the compass of our limited abilities for the furtherance of the common good. We have given the proposal of our correspondent our best consideration, and have taken the opinion of some judicious friends upon it. The idea coincides with our own wishes; and we therefore venture to offer to our readers the following plan for ascertaining the general feeling of Welsh antiquaries upon this matter.</p>
+<p>We confess that, on reading the above, we feel not a little gratified at witnessing so much enthusiasm as is evinced by this writer in, what we cannot but style, “the good cause.” We beg leave also to return our best thanks to him and to our antiquarian friends, for their very flattering opinion of the merits, if there be any, of our humble endeavours. That such good results have been produced is owing, not to the Editors of the <em>Archaeologia Cambrensis</em>, but to the circumstance of the mine which they have ventured to drive a level into, turning out to be so much richer in Archaeological ore than some could be brought to believe. Our sole object in publishing this Work, at a very considerable sacrifice of time and money, has been to awaken a love of antiquities among our fellow countrymen; and we are quite ready to do any thing within the compass of our limited abilities for the furtherance of the common good. We have given the proposal of our correspondent our best consideration, and have taken the opinion of some judicious friends upon it. The idea coincides with our own wishes; and we therefore venture to offer to our readers the following plan for ascertaining the general feeling of Welsh antiquaries upon this matter.</p>
 </div></blockquote>
 <p>Having accepted thanks, and praised those without whom it would not all have been possible, the editors then seek to build the potential community further:</p>
 <blockquote>
@@ -496,7 +534,7 @@ I remain yours faithfully,</p>
 </div></blockquote>
 <p>Having been proposed as the mediators of communication for the new society, the editors now call for the formation of the society, with all those who expressed support for it being enrolled as the first tranche of members:</p>
 <blockquote>
-<div><p>Since the names returned to us, as Editors of this Work, are those of gentlemen who <em>approve</em> of the formation of a “Cambrian Archaeological Association for the study and preservation of the National Antiquities of Wales,” we can consider ourselves in no other light than as the organs of our friends and supporters, and as their servants to carry their wishes into effect. We recommend, therefore, that steps be taken towards the formation of such an Association before the commencement of the ensuing year; and that, as a preliminary one, all those gentlemen, whose names have been already received, be considered members of it, unless they shall before January 1st, 1847, signify their wishes to the contrary. As, however, no association can be formed without some specific set of regulations for its government, we further venture to recommend that the laws and regulations of the Archaeological Institute of Great Britain and Ireland, be adopted; at least, as a temporary code, until the members can have an opportunity of meeting and of deciding upon their own form of government. It is understood, however, that the Cambrian  Archaeological Association, when formed, is to be of a gratuitous nature; we mean, without any subscription being required on the part of its members: and, we are of opinion that it may be made a perfectly efficient body, without any call of this kind upon the purses of its constituents. In this respect, therefore, the laws of the  Archaeological Institute, even as temporary regulations, would have to be departed from, —though in the general principles of government they might stand good.</p>
+<div><p>Since the names returned to us, as Editors of this Work, are those of gentlemen who <em>approve</em> of the formation of a “Cambrian Archaeological Association for the study and preservation of the National Antiquities of Wales,” we can consider ourselves in no other light than as the organs of our friends and supporters, and as their servants to carry their wishes into effect. We recommend, therefore, that steps be taken towards the formation of such an Association before the commencement of the ensuing year; and that, as a preliminary one, all those gentlemen, whose names have been already received, be considered members of it, unless they shall before January 1st, 1847, signify their wishes to the contrary. As, however, no association can be formed without some specific set of regulations for its government, we further venture to recommend that the laws and regulations of the Archaeological Institute of Great Britain and Ireland, be adopted; at least, as a temporary code, until the members can have an opportunity of meeting and of deciding upon their own form of government. It is understood, however, that the Cambrian Archaeological Association, when formed, is to be of a gratuitous nature; we mean, without any subscription being required on the part of its members: and, we are of opinion that it may be made a perfectly efficient body, without any call of this kind upon the purses of its constituents. In this respect, therefore, the laws of the Archaeological Institute, even as temporary regulations, would have to be departed from, —though in the general principles of government they might stand good.</p>
 </div></blockquote>
 <p>From the proposed adoption of the <em>“laws and regulations of the Archaeological Institute of Great Britain and Ireland”</em>, is the <em>Cambrian Archaeological Association</em> perhaps another jibe at the <em>British Archaeological Association</em> from antiquarians in Wales?</p>
 <p>As to its situatedness, the proposal also suggests that the society becomes an “ambulatory body” that holds meetings around the Principality, again similar in form to the Archaeological Institute:</p>
@@ -529,7 +567,7 @@ I remain yours faithfully,</p>
 <p>At this point there is a footnote: <em>Such a plan was organized by the Editors of this Journal some years back. They might have saved their time and their paper for any effect produced. Not a single reply was ever made to the questions they put forth— not a single effort made in furtherance of their recommendation !—EDD. ARCH, CAMB.</em></p>
 <p>Moggridge’s observations then continue:</p>
 <blockquote>
-<div><p>“Few places would I think be found where no one could be met with to carry out the plan, if it were undertaken by your Society; at any rate, if not universal, the information obtained would be useful as far as it went, and a spirit would be diffused throughout the country highly favourable to  Archaeological pursuits, and tending to increase the members of antiquarian societies. Each party might take a parish or other definite district, (I am endeavouring to carry out the work over twenty miles round Swansea, but this is rather too wide a range,) and if the most fitting objects of research were suggested to the inquirers by printed forms, something like regularity and uniformity might be expected.”</p>
+<div><p>“Few places would I think be found where no one could be met with to carry out the plan, if it were undertaken by your Society; at any rate, if not universal, the information obtained would be useful as far as it went, and a spirit would be diffused throughout the country highly favourable to Archaeological pursuits, and tending to increase the members of antiquarian societies. Each party might take a parish or other definite district, (I am endeavouring to carry out the work over twenty miles round Swansea, but this is rather too wide a range,) and if the most fitting objects of research were suggested to the inquirers by printed forms, something like regularity and uniformity might be expected.”</p>
 </div></blockquote>
 <p>Moggridge appears to be in a minority of one in raising such concerns and by proposing the members of the association set themselves the task of preserving knowledge from the oral tradition. For if any supportive comments were raised in reply to Mr. Moggridge’s observations at the end of his oration, none are recorded. Certainly, from the editorial footnote previously mentioned it appears that such researches were not generally of interest to the members of the association. There appears to be no related correspondence in the following issue either (<a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1852-01_3_9"><em>Archaeologia Cambrensis</em>, 1852-01: Vol 3 Iss 9</a>).</p>
 <p>Moggridge’s observations then concluded with some examples of the subject matter he was perhaps concerned about saving:</p>
@@ -553,11 +591,11 @@ I remain yours faithfully,</p>
 </figcaption>
 </figure>
 <p>Their first stop was the Priory Church at Leominster, whence they arrived shortly after eleven o’clock. This is well over a 10 mile trip, so they must have had transport of some sort.</p>
-<p>According to the <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002">Hereford Journal of Wednesday, September 1st, 1852</a>, after Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch.  The whole circular trip covered a 30 mile journey or so.</p>
+<p>According to the <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/18520901/013/0002">Hereford Journal of Wednesday, September 1st, 1852</a>, after Leominster, Kingsland and Aymestrey Churches were next visited, and from thence the party proceeded to Wigmore Castle and Church, which excited no little admiration. The excursionists then resumed their seats, and returned to Ludlow, via Aston Church, where the Rev. J. Burleigh James, the respected local secretary, directed attention to the tympanum in the Norman arch. The whole circular trip covered a 30 mile journey or so.</p>
 </section>
 <section id="the-sin-eater-as-according-to-moggridge">
 <h2>“The Sin-Eater”, As According to Moggridge<a class="headerlink" href="#the-sin-eater-as-according-to-moggridge" title="Link to this heading">#</a></h2>
-<p>The evening programme that day convened at half-past seven o’clock, with the President, the Hon R. H. Clive, M.P., in the chair. It commenced with the reading of a paper on the <em>History of the Parish of Carno, Montgomeryshire</em> by T. O. Morgan, Esq., of Aberystwyth, and dollowing a vote of thanks to Mr. Morgan, “enthusiastically accorded by the meeting”, an apparently short discussion on <em>Municipal records of Ludlow</em>.” Matthew Moggridge, Esq., reporting on the latest of his researches in the Swansea valley alluded to in the paper he read at the fifth meeting the precious year in Tenby, on <em>“On the Preservation of Local Traditions”</em>, then proceeded to make some observations the <em>“Custom of the Sin Eater in Cwm Ammon Valley”</em>.</p>
+<p>The evening programme that day convened at half-past seven o’clock, with the President, the Hon R. H. Clive, M.P., in the chair. It commenced with the reading of a paper on the <em>History of the Parish of Carno, Montgomeryshire</em> by T. O. Morgan, Esq., of Aberystwyth, and following a vote of thanks to Mr. Morgan, “enthusiastically accorded by the meeting”, an apparently short discussion on <em>Municipal records of Ludlow</em>.” Matthew Moggridge, Esq., reporting on the latest of his researches in the Swansea valley alluded to in the paper he read at the fifth meeting the precious year in Tenby, on <em>“On the Preservation of Local Traditions”</em>, then proceeded to make some observations the <em>“Custom of the Sin Eater in Cwm Ammon Valley”</em>.</p>
 <div class="tip admonition">
 <p class="admonition-title">Cwm Ammon</p>
 <p>Literally, “Amman valley”, in Carmarthenshire, about 12 miles north of Swansea, at the foot of the Black Mountain, the western most peak of the Brecon Beacons.</p>
@@ -575,7 +613,7 @@ I remain yours faithfully,</p>
 <p>It is not clear who the “clergyman residing at Stanton Lacy” was, and there is no claim that the full tradition could still be found in Shropshire. If a more complete record of eyewitness testimony were available, if such it was, it may well have proved invaluable in helping settle debates about the existence of the sin-eater in that area that were to arise several decades later.</p>
 <div class="seealso admonition">
 <p class="admonition-title">A Tale of Stanton Lacy</p>
-<p>Whilst we do not know what stories the “clergyman residing at Stanton Lacy” might have told, various tales of another, rather coourful, clergyman of Stanton Lacy are recorded.</p>
+<p>Whilst we do not know what stories the “clergyman residing at Stanton Lacy” might have told, various tales of another, rather colourful, clergyman of Stanton Lacy are recorded.</p>
 <p><a class="reference external" href="https://en.wikipedia.org/wiki/Robert_Foulkes">https://en.wikipedia.org/wiki/Robert_Foulkes</a></p>
 </div>
 <p>Another clergyman, also unnamed, appears to offer evidence of a related ritual a little further to the south, and still in current practice:</p>
@@ -670,7 +708,7 @@ I remain yours faithfully,</p>
 <div><p>T. O. Morgan, Esq., of Aberystwith, read paper upon “The Parish of Carno, Montgomeryshire,” which was followed by some remarks by the Rev. Basil Jones; after which W. Moggridge, Esq. delivered a very interesting discourse upon a custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in an old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this— when a party died, a person known by the name of “the sin-eater” was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of a Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.</p>
 <p>Thomas Allen, Esq. stated that there still existed custom in Wales of placing candle in salt, and burning it in the chamber of a deceased person, and made some very interesting remarks upon it, as connected with the custom of the sin-eater.</p>
 </div></blockquote>
-<p>The Hereford Times, in its <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007">Saturday, September 4th, 1852</a> edition only gave scant mention of the J. O. Morgan’s paper on “The History of the Parish of Carno, Montogomeryshore”, but described at length the discussion on “The Municipal Records of Ludlow”, presumably based on local interest. For the most part, its report on the sin-eater discussion closely followed the one previously described:</p>
+<p>The Hereford Times, in its <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000396/18520904/030/0007">Saturday, September 4th, 1852</a> edition only gave scant mention of the J. O. Morgan’s paper on “The History of the Parish of Carno, Montogomeryshire”, but described at length the discussion on “The Municipal Records of Ludlow”, presumably based on local interest. For the most part, its report on the sin-eater discussion closely followed the one previously described:</p>
 <blockquote>
 <div><p>M. MOGGRIDGE Esq., made some remarks upon a singular custom which formerly existed in Wales, in connection with deceased persons, and which he had recently discovered was noticed in old work, as being prevalent in the neighbourhood of Ross, in Herefordshire. The custom was this—when party died, a person known by the name of “the sin-eater was called in, who placed upon the corpse a platter containing a loaf of bread and some salt; the sin-eater afterwards ate the bread, and in doing so was supposed to take upon himself the sins of the deceased person. Happily, however, the light of Christian age was rapidly banishing superstition from the minds of the people, and that custom had, he believed, now disappeared.</p>
 <p>Mr. Allen remarked that there still existed a custom in Wales of placing a candle in salt, and burning it in the chamber of deceased person. Was this in any way connected with the custom just described? It was a popular notion that the candle stuck in salt would scare away the evil spirit, and it was usual for the friends of the deceased to watch the corpse for a certain period.</p>
@@ -717,12 +755,12 @@ The President considered that the object of the inquiry was that we might unders
 <blockquote>
 <div><p>“In the county of Hereford,” he says, “was an old custom at funerals to hire poor people who were to take upon them the sins of the party deceased. One of them (he was a long, lean, ugly, lamentable poor rascal) I remember lived in a cottage on Rosse highway. The manner was that, when the corpse was brought out of the house, and laid upon the bier, a loaf of bread was brought out, and delivered to the sin-eater over the corpse, as also a mazard bowl of maple full of beer (which he was to drink up), and sixpence in money; in consideration whereof he took upon him <em>ipso facto</em> all the sins of the defunct, and freed him or her from walking after they were dead.”</p>
 </div></blockquote>
-<p>Despite being only a short paragraph, this brings in much new evidence that is also often called upon in the later controversies. In the first case, we have the personage of an actual sin-eater descrbed as <em>“a long, lean, ugly, lamentable poor rascal”</em>. We also have an address, of sorts: <em>“a cottage on Rosse highway”</em>. The process of the ritual is described, along with some of the implements: <em>“a mazard bowl of maple”</em>, and a first mention of <em>beer</em>, which we recall from Phillips’ story framing. The sin-eater’s fee is also reduced, to <em>sixpence</em>. And finally, a rather strange line: that the sin eater’s actions <em>freed him or her [“the defunct”] from <strong>walking</strong> after they were dead</em>. Does this invoke some other belief, that after death souls “walk” the Earth, as ghosts perhaps? Or does it relate to some sort of purgatory? To understand this better, we perhaps need to know a little more about “Aubrey”, and the times in which he was writing…</p>
+<p>Despite being only a short paragraph, this brings in much new evidence that is also often called upon in the later controversies. In the first case, we have the personage of an actual sin-eater described as <em>“a long, lean, ugly, lamentable poor rascal”</em>. We also have an address, of sorts: <em>“a cottage on Rosse highway”</em>. The process of the ritual is described, along with some of the implements: <em>“a mazard bowl of maple”</em>, and a first mention of <em>beer</em>, which we recall from Phillips’ story framing. The sin-eater’s fee is also reduced, to <em>sixpence</em>. And finally, a rather strange line: that the sin eater’s actions <em>freed him or her [“the defunct”] from <strong>walking</strong> after they were dead</em>. Does this invoke some other belief, that after death souls “walk” the Earth, as ghosts perhaps? Or does it relate to some sort of purgatory? To understand this better, we perhaps need to know a little more about “Aubrey”, and the times in which he was writing…</p>
 <p>Some of Mr. Moggridge’s observations upon this quotation then follow:</p>
 <blockquote>
 <div><p>Here the same end was sought to be attained by a slightly different form. The difference in the fee was somewhat striking, from whence it might be argued that a Caermarthenshire soul was worth five times as much as that of a Herefordshire man—unless indeed it was not rather to be accounted for by supposing that the stout Marcher had fewer sins to get rid of.</p>
 </div></blockquote>
-<p>In respect of Mr. Allen’s comments regarding salt, we get a difference in tone regarding the extent to which Mr. Allen and Mr. Moggridge may appear to have differed in emphasis or opinion. Specifically, the Chronicle reports that <em>‘He [Mr. Allen] really did not quite see that there was any necessary connection between this custom and the introduction of the “sin-eater.”  It was quite clear in the instances mentioned by Mr. Moggridge, that he had shown only a very slight connection between the two; he did not feel sure to whether it was necessary to connect them.’</em> versus <em>‘He could not exactly see, but did not deny it’</em> in the formal record.</p>
+<p>In respect of Mr. Allen’s comments regarding salt, we get a difference in tone regarding the extent to which Mr. Allen and Mr. Moggridge may appear to have differed in emphasis or opinion. Specifically, the Chronicle reports that <em>‘He [Mr. Allen] really did not quite see that there was any necessary connection between this custom and the introduction of the “sin-eater.” It was quite clear in the instances mentioned by Mr. Moggridge, that he had shown only a very slight connection between the two; he did not feel sure to whether it was necessary to connect them.’</em> versus <em>‘He could not exactly see, but did not deny it’</em> in the formal record.</p>
 <blockquote>
 <div><p>Mr. Allen observed that in reference to the custom of placing salt on a corpse he was able to bear testimony to its existence in another county (Pembroke), in which their Association met last year. When a poor person died, a plate with a heap of salt on it was placed on the body, and in the salt was stuck a lighted candle. He should like to ask Mr. Moggridge if there was any necessary connexion between the custom he had mentioned of the sin-eater, and the one just named by himself. He could not exactly see, but did not deny it. Some persons might think it was rather Romish in its nature. He did not see that there was any connexion between this custom and the introduction of the “sin-eater.” The popular notion, in Pembrokeshire, with reference to the placing of salt on the bodies of the dead, was that it kept away the evil spirit. It was usual, after the candle had been lighted, for the friends of the deceased to watch through the night over the body, in order that they might, by their — keep off the evil spirit. As regarded the salt, he thought it might be explained in this way—as an emblem of purification; it might be that the salt was for purification, and the candle for keeping evil spirits away. This was a subject, if any person took delight in it, on which further light may be thrown; for those meetings were not only for the purpose of stating what they knew, but also to induce a search for further information.</p>
 </div></blockquote>
@@ -738,7 +776,7 @@ The President considered that the object of the inquiry was that we might unders
 <p>Mr. Jelinger C. Symons said, of course his impression was as to the custom of the “sin-eater.”” Some part of the custom appears to arise out of respect to the dead.</p>
 </div></blockquote>
 <p>The official report then turns to back to Moggridge’s response but <strong>omits</strong> the comments regarding the Duke of Marlborough (<code class="docutils literal notranslate"><span class="pre">&quot;the</span> <span class="pre">Duke</span> <span class="pre">of</span> <span class="pre">Marlborough</span> <span class="pre">was</span> <span class="pre">the</span> <span class="pre">person</span> <span class="pre">he</span> <span class="pre">had</span> <span class="pre">alluded</span> <span class="pre">to.</span> <span class="pre">He</span> <span class="pre">sent</span> <span class="pre">for</span> <span class="pre">Dr.</span> <span class="pre">Bowles</span> <span class="pre">during</span> <span class="pre">his</span> <span class="pre">sickness,</span> <span class="pre">and</span> <span class="pre">when</span> <span class="pre">the</span> <span class="pre">Dr.</span> <span class="pre">arrived</span> <span class="pre">he</span> <span class="pre">found</span> <span class="pre">that</span> <span class="pre">the</span> <span class="pre">Duke</span> <span class="pre">was</span> <span class="pre">already</span> <span class="pre">dead,</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">plate</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">salt</span> <span class="pre">was</span> <span class="pre">placed</span> <span class="pre">on</span> <span class="pre">the</span> <span class="pre">body.&quot;</span></code>). Was this to protect the reputation a former peer of the realm?</p>
-<p>Moggridge’s response in the official record, as well as the final remarks, then largely follow the text presented in the Chronicle, with just a few minor differences in spelling (<em>gist</em> rather than <em>jist</em>, <em>connexion</em> rathe than <em>connection</em>, turn of phrase (<em>no immediate connexion</em> rather than <em>no immediate and direct connection</em>) and formaility (Mr. Allen as not qualified as a “friend”).</p>
+<p>Moggridge’s response in the official record, as well as the final remarks, then largely follow the text presented in the Chronicle, with just a few minor differences in spelling (<em>gist</em> rather than <em>jist</em>, <em>connexion</em> rathe than <em>connection</em>, turn of phrase (<em>no immediate connexion</em> rather than <em>no immediate and direct connection</em>) and formality (Mr. Allen as not qualified as a “friend”).</p>
 <p>The only possibly substantive difference was in the currency of the practice which he believed <em>“was extinct now”</em> rather than <em>“extinct in the Cwm Amman Valley”</em>.</p>
 <blockquote>
 <div><p>Mr. Moggridge said— Far be it from him to desire that anything he should advance should not be combated, for all he wished to get at was truth. He thought that the gist of what fell from Mr. Allen was that there was no immediate connexion between the custom of sin-eater and the plate and the salt. Starting from the Carmarthenshire valley, he found the most horrible portion of the custom dropped, and the rest still retained; and as he advanced still further he found that less remained. Mr. Aubrey, from whom he quoted, and who was a man of high character, said that the custom had existed both in Herefordshire and Shropshire. Mr. Aubrey told them he went to a cottage in Herefordshire, where he saw a man whom he described as the sin-eater; and he (Mr. Moggridge) found, in the very district where Mr. Aubrey had seen it in its most horrid perfection, that the more odious part of the custom had been removed, but portions thereof still remained. He thought that the plate and salt were of eastern origin. There was only one thing more that he need trouble them with, and that was as to whether the custom was extinct. He believed that people were thoroughly ashamed of the practice; one case, he was informed, occurred four or five years ago, but he believed it was extinct now.</p>
@@ -754,7 +792,7 @@ The President considered that the object of the inquiry was that we might unders
 <div class="dropdown admonition">
 <p class="admonition-title">William Thoms and <em>Notes &amp; Queries</em></p>
 <p>Notes &amp; Queries started life as a weekly period <a class="reference external" href="https://archive.org/details/notesqueries01londuoft/page/n7/mode/2up">first published on Saturday, November 3rd, 1849</a>, a <em>Medium of Inter-Communication for Literary Men, Artists, Antiquaries, Genealogsts, Etc.</em></p>
-<p>Its motto was selected by William Thoms, it’s editor from launch until 1872 – <em>“When  found,  make  a  note  of.”-— CAPTAIN  CUTTLE</em>. This will no doubt resonate with anyone who has an online social bookmarking habit or posted interesting “notes” or links or screenshots to their favouring social networking site.</p>
+<p>Its motto was selected by William Thoms, it’s editor from launch until 1872 – <em>“When found, make a note of.”-— CAPTAIN CUTTLE</em>. This will no doubt resonate with anyone who has an online social bookmarking habit or posted interesting “notes” or links or screenshots to their favouring social networking site.</p>
 <p>Thoms himself was an interesting character, a clerk at the House of Lords from 1845, and then deputy librarian of the House of Lords from 1862 unil 1882.</p>
 <p>To a certain extent, <em>Notes &amp; Queries</em> might be thought of as an “social commonplace book” (see for example, <a class="reference external" href="https://en.wikipedia.org/wiki/Commonplace_book">Wikipedia: <em>(Commonplace Book</em>)</a>, or with a <a class="reference external" href="https://thepaperkind.com/2020/08/15/commonplace-book/">contemporary twist</a>; for creating your own commonlplace book, with index, see for example <a class="reference external" href="https://archive.org/details/gu_newmethodmaki00lock"><em>A new method of making common-place-books</em>, John Locke, 1706</a>).</p>
 <p>As the opening welcome to the first issue describes (p.1-3):</p>
@@ -848,15 +886,17 @@ Dublin.</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-founding-of-the-cambrian-archaeological-association-1846-7">The Founding of the Cambrian Archaeological Association, 1846-7</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-fifth-meeting-at-tenby-1851">The Fifth Meeting, at Tenby, 1851</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-sixth-meeting-at-ludlow-1852">The Sixth Meeting, at Ludlow, 1852</a></li>
@@ -912,8 +952,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

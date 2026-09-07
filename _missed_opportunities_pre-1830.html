@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_missed_opportunities_pre-1830';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_missed_opportunities_pre-1830.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="The Mountain Decameron, and Other Missed Opportunities, 1830-1850" href="_decameron_other_missed_opportunities.html" />
     <link rel="prev" title="Mazer Wood and the Mazard Bowl" href="_mazard_bowl.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pennant-s-tours-in-wales-1783">Pennant’s <em>Tours in Wales</em>, 1783</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#channeling-pennant-roberts-cambrian-popular-antiquities-1815">Channeling Pennant - Roberts’ <em>Cambrian Popular Antiquities</em>, 1815</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800">John Evans’ <em>A tour through part of North Wales in the year 1798</em>, 1800</a></li>
@@ -418,8 +456,8 @@ document.write(`
 </section>
 <section id="channeling-pennant-roberts-cambrian-popular-antiquities-1815">
 <span id="index-1"></span><h2>Channeling Pennant - Roberts’ <em>Cambrian Popular Antiquities</em>, 1815<a class="headerlink" href="#channeling-pennant-roberts-cambrian-popular-antiquities-1815" title="Link to this heading">#</a></h2>
-<p>Potentially a source of confusion in the naming, Peter Roberts’ 1815 work <a class="reference external" href="https://archive.org/details/cambrianpopular00robegoog/page/n196/mode/2up"><em>“The Cambrian Popular Antiquities”</em></a>, or to give it it’s full name, <em>The Cambrian Popular Antiquities, or, an account of some traditions, customs, and superstitions of Wales, with observations as to their origins</em>, includes a section on <em>Burials</em>, p173-8. This makes <em>no mention</em> at all of the sin-eater tradition, which suggests either “censorship”, or that Roberts’ was not failialr with the tradition in the Welsh context at least:</p>
-<p>The relevant chapter opens with some comments on the potential motivations for ceertain funeral customs:</p>
+<p>Potentially a source of confusion in the naming, Peter Roberts’ 1815 work <a class="reference external" href="https://archive.org/details/cambrianpopular00robegoog/page/n196/mode/2up"><em>“The Cambrian Popular Antiquities”</em></a>, or to give it it’s full name, <em>The Cambrian Popular Antiquities, or, an account of some traditions, customs, and superstitions of Wales, with observations as to their origins</em>, includes a section on <em>Burials</em>, p173-8. This makes <em>no mention</em> at all of the sin-eater tradition, which suggests either “censorship”, or that Roberts’ was not familiar with the tradition in the Welsh context at least.</p>
+<p>The relevant chapter opens with some comments on the potential motivations for certain funeral customs:</p>
 <blockquote>
 <div><p>BURIALS.</p>
 <p>When human cares terminate, and human attachments are rent asunder, by the departure of the spirit from its mansion of clay, whatever may have been the previous apprehensions of the event, the affections of the survivors will not, on a sudden, yield to the full conviction of the loss sustained; and the lifeless body retains some share of that affectionate regard which, when animated, it possessed. But its stillness is awful, and whilst the separated spirit may, even by suffering imagination to prevail but feebly, be supposed to hover over its newly relinquished habitation, a sacred respect to what remains will be felt as a duty, and the solemnity of the moment will be increased by the image it presents, of that which the beholder must at one time present to others.</p>
@@ -470,13 +508,13 @@ on a small bracket (which is provided for the purpose) an offering of money, acc
 </section>
 <section id="john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800">
 <span id="index-2"></span><h2>John Evans’ <em>A tour through part of North Wales in the year 1798</em>, 1800<a class="headerlink" href="#john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800" title="Link to this heading">#</a></h2>
-<p>John Evans’ <a class="reference external" href="https://archive.org/details/b22036118/page/n11/mode/2up?q=corpse"><em>A tour through part of North Wales in the year 1798</em></a>, published in 1800, collates a series of letters describing his travels of a couple of years previoulsy. The following is an excerpt from letter XIII, on pp 362-5, in which various funeral customs are described:</p>
+<p>John Evans’ <a class="reference external" href="https://archive.org/details/b22036118/page/n11/mode/2up?q=corpse"><em>A tour through part of North Wales in the year 1798</em></a>, published in 1800, collates a series of letters describing his travels of a couple of years previously. The following is an excerpt from letter XIII, on pp 362-5, in which various funeral customs are described:</p>
 <blockquote>
 <div><p>Previous to a funeral it is usual for the friends of the deceased to meet in the apartment where the corpse is placed; some of them, generally the female part, kneel round it, and weeping bitterly, lament and bewail the loss of their departed friend. When it is brought to the door, one of the relations gives bread and cheese and beer over the coffin to some poor persons of the same sex, and nearly of the same age with the dead, for collecting herbs and flowers to put into the coffin with the body; some-times a loaf, with a piece of money stuck in it, is added. This done, all present kneel down, and the minister, if present, repeats the Lord’s Prayer. At every cross-way they stop, and the same ceremony is repeated, till they arrive at the church. Frequently the intervals are filled up by singing of psalms and hymns, which amidst the stillness of rural life, and the echo from the hills, produces a melancholy effect; and adds to the sombre solemnity of the occasion.</p>
 </div></blockquote>
 <p>The author notes that the tradition resembles that of a Scottish tradition:</p>
 <blockquote>
-<div><p>A similar custom prevails in the Highlands, which they term <em>Coranich</em>. The bier is always carried by the next of kin, and this is considered as the highest mark of piety which can be paid to the departed relative. This, as we learn from Valerius Max. L. 7 , 1 , <code class="docutils literal notranslate"><span class="pre">[Metellus,</span> <span class="pre">the</span> <span class="pre">conqueror</span> <span class="pre">of</span> <span class="pre">Macedon,</span> <span class="pre">was</span> <span class="pre">borne</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">funeral</span> <span class="pre">pile</span> <span class="pre">by</span> <span class="pre">his</span> <span class="pre">four</span> <span class="pre">sons.</span> <span class="pre">As</span> <span class="pre">a</span> <span class="pre">mark</span> <span class="pre">of</span> <span class="pre">respect,</span> <span class="pre">those</span> <span class="pre">who</span> <span class="pre">had</span> <span class="pre">deserved</span> <span class="pre">well</span> <span class="pre">of</span> <span class="pre">ihe</span> <span class="pre">commonwealth</span> <span class="pre">were</span> <span class="pre">carried</span> <span class="pre">by</span> <span class="pre">the</span> <span class="pre">Magistrates</span> <span class="pre">or</span> <span class="pre">Senators;</span> <span class="pre">while</span> <span class="pre">persons</span> <span class="pre">hated</span> <span class="pre">by</span> <span class="pre">the</span> <span class="pre">people</span> <span class="pre">were</span> <span class="pre">carried</span> <span class="pre">by</span> <span class="pre">Vespillones</span> <span class="pre">or</span> <span class="pre">Sandapillones/kirelings</span> <span class="pre">for</span> <span class="pre">the</span> <span class="pre">purpose.</span> <span class="pre">To</span> <span class="pre">this</span> <span class="pre">custom</span> <span class="pre">Horace</span> <span class="pre">alludes</span> <span class="pre">—</span> <span class="pre">&quot;Cadaver:</span> <span class="pre">Unctum</span> <span class="pre">oleo</span> <span class="pre">largo,</span> <span class="pre">midis</span> <span class="pre">humeris</span> <span class="pre">tulit</span> <span class="pre">hares.&quot;</span> <span class="pre">Lib.</span> <span class="pre">2,</span> <span class="pre">S.</span> <span class="pre">5.</span> <span class="pre">&quot;Augustis</span> <span class="pre">ejecta</span> <span class="pre">cadavera</span> <span class="pre">cellis,</span> <span class="pre">Conservus</span> <span class="pre">vili</span> <span class="pre">portando</span> <span class="pre">locubat</span> <span class="pre">in</span> <span class="pre">area.&quot;</span> <span class="pre">Lib.</span> <span class="pre">i,</span> <span class="pre">S.</span> <span class="pre">8.</span> <span class="pre">]</span></code> was a usage among the Romans. If it happen in a morning or evening, the service is read accordingly.</p>
+<div><p>A similar custom prevails in the Highlands, which they term <em>Coranich</em>. The bier is always carried by the next of kin, and this is considered as the highest mark of piety which can be paid to the departed relative. This, as we learn from Valerius Max. L. 7 , 1 , <code class="docutils literal notranslate"><span class="pre">[Metellus,</span> <span class="pre">the</span> <span class="pre">conqueror</span> <span class="pre">of</span> <span class="pre">Macedon,</span> <span class="pre">was</span> <span class="pre">borne</span> <span class="pre">to</span> <span class="pre">the</span> <span class="pre">funeral</span> <span class="pre">pile</span> <span class="pre">by</span> <span class="pre">his</span> <span class="pre">four</span> <span class="pre">sons.</span> <span class="pre">As</span> <span class="pre">a</span> <span class="pre">mark</span> <span class="pre">of</span> <span class="pre">respect,</span> <span class="pre">those</span> <span class="pre">who</span> <span class="pre">had</span> <span class="pre">deserved</span> <span class="pre">well</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">commonwealth</span> <span class="pre">were</span> <span class="pre">carried</span> <span class="pre">by</span> <span class="pre">the</span> <span class="pre">Magistrates</span> <span class="pre">or</span> <span class="pre">Senators;</span> <span class="pre">while</span> <span class="pre">persons</span> <span class="pre">hated</span> <span class="pre">by</span> <span class="pre">the</span> <span class="pre">people</span> <span class="pre">were</span> <span class="pre">carried</span> <span class="pre">by</span> <span class="pre">Vespillones</span> <span class="pre">or</span> <span class="pre">Sandapillones/kirelings</span> <span class="pre">for</span> <span class="pre">the</span> <span class="pre">purpose.</span> <span class="pre">To</span> <span class="pre">this</span> <span class="pre">custom</span> <span class="pre">Horace</span> <span class="pre">alludes</span> <span class="pre">—</span> <span class="pre">&quot;Cadaver:</span> <span class="pre">Unctum</span> <span class="pre">oleo</span> <span class="pre">largo,</span> <span class="pre">midis</span> <span class="pre">humeris</span> <span class="pre">tulit</span> <span class="pre">hares.&quot;</span> <span class="pre">Lib.</span> <span class="pre">2,</span> <span class="pre">S.</span> <span class="pre">5.</span> <span class="pre">&quot;Augustis</span> <span class="pre">ejecta</span> <span class="pre">cadavera</span> <span class="pre">cellis,</span> <span class="pre">Conservus</span> <span class="pre">vili</span> <span class="pre">portando</span> <span class="pre">locubat</span> <span class="pre">in</span> <span class="pre">area.&quot;</span> <span class="pre">Lib.</span> <span class="pre">i,</span> <span class="pre">S.</span> <span class="pre">8.</span> <span class="pre">]</span></code> was a usage among the Romans. If it happen in a morning or evening, the service is read accordingly.</p>
 </div></blockquote>
 <p>A monetary offering made to a presiding minister is also described:</p>
 <blockquote>
@@ -495,7 +533,7 @@ on a small bracket (which is provided for the purpose) an offering of money, acc
 <p>So who was St Elian, and why was his well so potent?</p>
 <p>According to <a class="reference external" href="https://archive.org/details/celticremains00evangoog/page/162/mode/2up?q=elian">Celtic Remains</a> by Morris, Lewis, (<em>“transcribed from the original MSS. by me Richard Morris, son of the author’s Brother, in the year of our Lord 1778”</em>), edited by D Silvan Evans, 1878, (<a class="reference external" href="https://archive.org/details/sim_archaeologia-cambrensis_1872-01_3_9/page/36/mode/2up?q=celtic">history</a>), p161-2:</p>
 <blockquote>
-<div><p>By oral tradition. Elian had a young doe which he brought up tame, and the lord of that country gave his as much land to his church as the doe would encompass in a day. The tradition doth not say how the doe was drove to compass the ground; but it happened in her marking out her lord’s ground that the greyhound of some rich man of the neighbourhood disturbed or killed the doe, upon which St. Elian in great wrath pronounced it a judgement on the inhabitants of the parich, that none of them should keep a greyhound to the end of the world; and his sentence is come to pass, for none of the parishioners are able to keep a greyhound — they areso very poor, the ground is so very rocky.</p>
+<div><p>By oral tradition. Elian had a young doe which he brought up tame, and the lord of that country gave his as much land to his church as the doe would encompass in a day. The tradition doth not say how the doe was drove to compass the ground; but it happened in her marking out her lord’s ground that the greyhound of some rich man of the neighbourhood disturbed or killed the doe, upon which St. Elian in great wrath pronounced it a judgement on the inhabitants of the parish, that none of them should keep a greyhound to the end of the world; and his sentence is come to pass, for none of the parishioners are able to keep a greyhound — they are so very poor, the ground is so very rocky.</p>
 </div></blockquote>
 <p>See also:</p>
 <ul class="simple">
@@ -551,7 +589,7 @@ at the entrance there is a suburb, the church of which appears to me to have for
 </div></blockquote>
 <p>The account then describes the funeral procession and interment:</p>
 <blockquote>
-<div><p>This being finished, six men took up the corps and carried it on their shoulders to the church; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough; the other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where having placed the body on tressels and taken off the cloth from the coffin, which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chafed in the manner of a buffet. The minister then ascended his pulpit, and every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of the Holy Scripture concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaus in the earth with which the corps was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester, and having passed over a large desart plain, I reached Addar, Morton, and a Castle. The country here is barren; passed a river near a windmill; from thence to Pries and Vitechurch on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns all alone; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.</p>
+<div><p>This being finished, six men took up the corps and carried it on their shoulders to the church; it was covered with a large cloth, which the four nearest relations held each by a corner with one hand, and in the other carried a bough; the other relations and friends had in one hand a flambeau, and in the other a bough, marching thus through the street, without singing, or saying any prayer, till they came to the church, where having placed the body on tressels and taken off the cloth from the coffin, which is ordinarily made of fine walnut-tree, handsomely worked and ornamented with iron bandages, chafed in the manner of a buffet. The minister then ascended his pulpit, and every one being seated round about the coffin, which is placed in a kind of parade in the middle of the church, he read a portion of the Holy Scripture concerning the resurrection of the dead, and afterwards sang some psalms, to which all the company answered. After this he descended, having his bough in his hand like the rest of the congregation; this he threw on the dead body when it was put into the grave, as did all the relations, extinguishing their flambeaus in the earth with which the corps was to be covered. This finished, every one retired to his home without farther ceremony, and I departed from Schrosbury for Chester, and having passed over a large desert plain, I reached Addar, Morton, and a Castle. The country here is barren; passed a river near a windmill; from thence to Pries and Vitechurch on a river. Here is a manufactory of woollen cloth. The road lies afterwards over some mountains, where are several good inns all alone; Empost is one. Came to Anlai, and some small woods, having the river on the right, which runs to Chester.</p>
 </div></blockquote>
 </section>
 <section id="fosbroke-s-ariconensia-archaeological-sketches-of-ross-and-archenfield-1821">
@@ -609,7 +647,7 @@ LORD have mercy on my soul!”</p>
 How that arcite is brent to ashen cold,
 Ne how that there the Liche-wake was y-hold
 All that night long.”</p>
-<p>Pennant, in describing Highland ceremonies. says, “The Late Wake is a ceremony used at funerals. The evening after the death of any one, the relation or friends of the deceased meet at the house, attended by a bagpipe or fiddle, the nearest of kin, be it wife, son, or daughter, opens a melancholy ball, dancing and greeting— that is, crying violently at the same time; and this continues till daylght, but with such gambols and frolics among the younger part of the company, that the loss which occasions their meeting, is often more than supplied by the consequences of that night. If the corpse remain unburied for two nights, the same rites are renewed. Thus, Scythiau-like, they rejoice at the deliverance of their friends out of this life of misery.” The custom in North Wales, we are informed by the same writer, is, “the night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, bringing with them some small present, of bread, meat, and drink (if the family be something poor), but more especially candles, whatever the family be, and this night is called <em>wyl nos</em>, whereby the country people seem to mean a watching night. Their going to such a house, they say, is <em>i wilior corph</em>, to watch the corpse; but <em>wylo</em> signifies to weep and, lament, and so <em>wyl nos</em> may be a night of lamentation. While they stay together on that night, they are either singing psalms, or reading some part of the Holy Scriptures. Whenever any body comes into a room where a dead body lies, especially on the <em>wyl nos</em>, and the day of its interment, the first thing he does, he falls on his. knees by the corpse and says the Lord’s Prayer.”</p>
+<p>Pennant, in describing Highland ceremonies. says, “The Late Wake is a ceremony used at funerals. The evening after the death of any one, the relation or friends of the deceased meet at the house, attended by a bagpipe or fiddle, the nearest of kin, be it wife, son, or daughter, opens a melancholy ball, dancing and greeting— that is, crying violently at the same time; and this continues till daylight, but with such gambols and frolics among the younger part of the company, that the loss which occasions their meeting, is often more than supplied by the consequences of that night. If the corpse remain unburied for two nights, the same rites are renewed. Thus, Scythiau-like, they rejoice at the deliverance of their friends out of this life of misery.” The custom in North Wales, we are informed by the same writer, is, “the night before a dead body is to be interred, the friends and neighbours of the deceased resort to the house the corpse is in, bringing with them some small present, of bread, meat, and drink (if the family be something poor), but more especially candles, whatever the family be, and this night is called <em>wyl nos</em>, whereby the country people seem to mean a watching night. Their going to such a house, they say, is <em>i wilior corph</em>, to watch the corpse; but <em>wylo</em> signifies to weep and, lament, and so <em>wyl nos</em> may be a night of lamentation. While they stay together on that night, they are either singing psalms, or reading some part of the Holy Scriptures. Whenever any body comes into a room where a dead body lies, especially on the <em>wyl nos</em>, and the day of its interment, the first thing he does, he falls on his. knees by the corpse and says the Lord’s Prayer.”</p>
 <p>The “Irish Hudibras” (1689) humorously describes an Irish wake—</p>
 <p>“To their own sports (the Masses ended)
 The mourners now are recommended.
@@ -633,7 +671,7 @@ Yesterday buried kill’d to-morrow.”</p>
 <blockquote>
 <div><p>Aubrey, in some miscellanies of his, among the Lansdown MSS., at the British Museum, mentions a very curious custom at deaths, observed in a degree until his time (reign of Charles II), which he describes - under the name of <em>Sin-Eaters</em>. “In the County of Hereford,” says he, “was an old custome at Funeralls, to hire poor people, who were to take upon-them the sinnes of the party deceased. One of theme (he was a long lean ugly lumentable raskal), I remember, lived in a cottage on Rosse highway. The manner was, that when the corpse was brought out of the house, and layed on the biere, a loafe of bread was brought out and delivered to the sinne eater over the corpse, as also a mazar bowl, of maple, full of beere (which lie was to drink up), and sixpence in money: in consideration he took upon him, <em>ipso facto</em>, all the sinnes of defunct, and freed him or her from walking after they were dead.” This custom, he supposes, had some allusion to the scape-goat under the Mosaical law.</p>
 </div></blockquote>
-<p id="eulogy-creswell"><span id="index-5"></span>Finally, we have a rather humourous story of the elegy given to an apparently renouned procuress, <em>Mother Creswell</em> in the mid-seventeenth century:</p>
+<p id="eulogy-creswell"><span id="index-5"></span>Finally, we have a rather humorous story of the elegy given to an apparently renowned procuress, <em>Mother Creswell</em> in the mid-seventeenth century:</p>
 <blockquote>
 <div><p>FUNERAL SERMONS.— Speaking of the frequency of these formerly, and their present disuse :— “Even such a character as the infamous Mother <em>Creswell</em>, the procuress in the reign of Charles II,” our author observes, “must have her Funeral Sermon.” She, according to Granger, desired by will to have a sermon preached at her funeral, for which the preacher was to have 10l., but upon the express condition that he only spoke well of her. A preacher was with some difficulty found, who undertook the task. He, after a sermon preached on the general subject of morality, and the good uses to be made of it, concluded by saying— ‘By the will of the deceased, it is expected I should mention her, and say nothing but what is <em>well</em> of her. All I shall say of her, therefore, is this :— she was born well, she lived well, and she died well, for she was born with the name of Creswell, she lived in Clerkenwell, and she died in Bridewell.”</p>
 </div></blockquote>
@@ -760,15 +798,17 @@ To buy him a Hunting Nag—</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pennant-s-tours-in-wales-1783">Pennant’s <em>Tours in Wales</em>, 1783</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#channeling-pennant-roberts-cambrian-popular-antiquities-1815">Channeling Pennant - Roberts’ <em>Cambrian Popular Antiquities</em>, 1815</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#john-evans-a-tour-through-part-of-north-wales-in-the-year-1798-1800">John Evans’ <em>A tour through part of North Wales in the year 1798</em>, 1800</a></li>
@@ -824,8 +864,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

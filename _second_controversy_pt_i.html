@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_second_controversy_pt_i';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_second_controversy_pt_i.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Interlude – “The Sin-Eater”, Fiona Macleod" href="_sin_eater_story_macleod.html" />
     <link rel="prev" title="Triggering the Second Controversy, 1895" href="_triggering_second_controversy.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-letter-to-the-editor-of-the-times">A Letter to the Editor of “The Times”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#false-news">“False News”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-holding-position">Hartland’s Holding Position</a></li>
@@ -409,7 +447,7 @@ document.write(`
 <div class="admonition-mr-e-s-hartland-responding-to-captain-hinde admonition">
 <p class="admonition-title">Mr E. S.Hartland responding to Captain Hinde</p>
 <blockquote>
-<div><p>Mr. E. S. HARTLAND said that in all probability the earliest form of cannibalism was that of the eating of deceased relatives. This practice extended over bhe greater part of the world, and many people would be surprised to learn that traces of it were to be found, not merely in Europe, but in our own islands. Not very long ago in Upper Bavaria, when a man died and had been laid out, a cake was made of ordinary flour. The corpse was placed before the fire, and this cake, called the corpse cake, was put upon its breast to rise. The dough, in rising, was believed to absorb all the virtues of the deceased, and the cake was afterwards eaten by his nearest relatives. In the Balkan Peniusula an edible image of the dead was carried in the funeral procession. When the body was buried the mourners ate this image above the grave, saying as they did so, “God rest him.” In Wales the practice of employing a “sin-eater” had only ceased within the memory of men still living. It was the custom for the nearest relative, usually a woman, to hand across the bier, or place upon the breast of the corpse, bread, cheese, and beer, which were eaten by the sin-eater, who pronounced everlasting rest to the departed. It was believed that the sin-eater by this means appropriated to himself all the sins which the deceased had committed during his lifetime.</p>
+<div><p>Mr. E. S. HARTLAND said that in all probability the earliest form of cannibalism was that of the eating of deceased relatives. This practice extended over bhe greater part of the world, and many people would be surprised to learn that traces of it were to be found, not merely in Europe, but in our own islands. Not very long ago in Upper Bavaria, when a man died and had been laid out, a cake was made of ordinary flour. The corpse was placed before the fire, and this cake, called the corpse cake, was put upon its breast to rise. The dough, in rising, was believed to absorb all the virtues of the deceased, and the cake was afterwards eaten by his nearest relatives. In the Balkan Peninsula an edible image of the dead was carried in the funeral procession. When the body was buried the mourners ate this image above the grave, saying as they did so, “God rest him.” In Wales the practice of employing a “sin-eater” had only ceased within the memory of men still living. It was the custom for the nearest relative, usually a woman, to hand across the bier, or place upon the breast of the corpse, bread, cheese, and beer, which were eaten by the sin-eater, who pronounced everlasting rest to the departed. It was believed that the sin-eater by this means appropriated to himself all the sins which the deceased had committed during his lifetime.</p>
 </div></blockquote>
 </div>
 <section id="a-letter-to-the-editor-of-the-times">
@@ -430,7 +468,7 @@ document.write(`
 </div></blockquote>
 <p>Since he appears to be familiar with Hartland’s peice in <em>Folklore</em>, he assumes that material provides the evidence for Harltand’s claims made at the British Association meeting:</p>
 <blockquote>
-<div><p>If, as I imagine, Mr. Hartland’s evidence for this survival is presented to us in his article on the subject in Folklore for June, 1892, I venture to think it is wholly insufficiant. Mr. Hartland’s words are (p. 148), “Mr. Moggridge specified the neighbourhood of Llandebie… as a place where the custom had survived to within a recent period.” These words are a paraphrase from the report of the Archaeologia Cambrensis, Vol. III., N.S., p. 330. The exact words used by Mr. Moggridge are as follows :-’ There (near Llandebie) the above practice (of the sin-eater) was said to have prevailed to a recent period. “</p>
+<div><p>If, as I imagine, Mr. Hartland’s evidence for this survival is presented to us in his article on the subject in Folklore for June, 1892, I venture to think it is wholly insufficient. Mr. Hartland’s words are (p. 148), “Mr. Moggridge specified the neighbourhood of Llandebie… as a place where the custom had survived to within a recent period.” These words are a paraphrase from the report of the Archaeologia Cambrensis, Vol. III., N.S., p. 330. The exact words used by Mr. Moggridge are as follows:- ‘There (near Llandebie) the above practice (of the sin-eater) was said to have prevailed to a recent period.”</p>
 </div></blockquote>
 <p>And with this evidence, he takes issue:</p>
 <blockquote>
@@ -438,7 +476,7 @@ document.write(`
 </div></blockquote>
 <p>To aid the reader, Thomas points to the evidence previously amassed against the claimed tradition in the course of the first controversy:</p>
 <blockquote>
-<div><p>But to any one who has considered the discussion in the Academy in the winter of 1870-76 it seems quite incredible that Mr. Moggridge’s evidence should be quoted at all. Canon Silvan Evans collected the evidence on the question. Among others, the vicar of the parish and the schoolmaster testified to the non-existence of the superstition. The vicar quoted an intelligent old man, an octogenarian, whose ancestors had lived from time immemorial in the parish. He said that such a custorm, in his opinion, could not have appeared for the last 200 years, or he would have heard of it from his father or grandfather, who lived to a great age. The vicar concluded that the statements which were made by Mr. Moggridge could not be substantiated by any reliable evidence.</p>
+<div><p>But to any one who has considered the discussion in the Academy in the winter of 1870-76 it seems quite incredible that Mr. Moggridge’s evidence should be quoted at all. Canon Silvan Evans collected the evidence on the question. Among others, the vicar of the parish and the schoolmaster testified to the non-existence of the superstition. The vicar quoted an intelligent old man, an octogenarian, whose ancestors had lived from time immemorial in the parish. He said that such a custom, in his opinion, could not have appeared for the last 200 years, or he would have heard of it from his father or grandfather, who lived to a great age. The vicar concluded that the statements which were made by Mr. Moggridge could not be substantiated by any reliable evidence.</p>
 <p>The schoolmaster, Mr. John Rowland, who lived in Llandebie in 1852, when Mr. Moggridge spoke, was equally emphatic. He said he knew all the parishioners and the history of the parish, its customs, legends, and traditions, and during the time he was there he attended many funerals, but never heard of a sin-eater; in fact, people never gave cakes at funerals in Llandebie.</p>
 </div></blockquote>
 <p>Thomas then wonders if Hartland may be unaware of that earlier controversy, but I wonder, is his tone curious, or incredulous?</p>
@@ -449,7 +487,7 @@ document.write(`
 <blockquote>
 <div><p>In addition to this, in February, 1882, the Rev. T. Eynon Davies published a letter in the Christian World a propos of Paxton Hood’s “Christmas Evans.” Mr. Davies was Congregational minister in Cwmannan, near Llandebie, and said, “Some octogenarians whom I have questioned have never seen a sin-eater, neither have they heard their parents nor their grandparents refer to this custom.” There is, in fact, no evidence that he ever existed in Wales at all. All the stories go back to Aubrey’s “lean, long, ugly, lamentable,poor Raskel “; and he was at Ross, in Herefordshire, if we believe Aubrey, none too strong a witness.</p>
 </div></blockquote>
-<p>We then have a phrase very evocative of our own times — “false news” — lamenting that it may be understandable in the press, but not in the pages of an amateru (which is to say, professional) society.</p>
+<p>We then have a phrase very evocative of our own times — “false news” — lamenting that it may be understandable in the press, but not in the pages of an amateur (which is to say, professional) society.</p>
 <blockquote id="index-3">
 <div><p>If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the “sin-eater” in modern times, stamped originally with the imprimatur of the Cambrian Archaeological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.,I am, &amp;c.,</p>
 <p>N. W. THOMAS., Oswestry.</p>
@@ -468,7 +506,7 @@ document.write(`
 <p>On <a class="reference external" href="https://newspapers.library.wales/view/3735405/3735409/35/">Thursday, September 19th, 1895</a>, p4, in the <em>South Wales Daily News</em>, the indignant closing refrain of from the <em>Times</em> letter was remarked upon:</p>
 <blockquote>
 <div><p>Welsh Gossip</p>
-<p>A correspondent of the Times waxes wroth over the sin-eater fiction propagated before the British Association. Says he: “If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the sin-eater in modern times, stamped orininally with the imprimatur of the Cambrian Archaeological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.”</p>
+<p>A correspondent of the Times waxes wroth over the sin-eater fiction propagated before the British Association. Says he: “If dissemination of false news is a crime in a newspaper, it is far worse in a member of the Folklore Society. The fiction of the sin-eater in modern times, stamped originally with the imprimatur of the Cambrian Archaeological Society, sealed 30 years later by the Folklore Society, has now received the august sanction of the British Association. Even the Celtic fringe does not deserve this treatment.”</p>
 </div></blockquote>
 <p>The following day, in the <em>Times</em> of Friday, September 20th, 1895, p7, one reader doubts the claims surrounding the sin-eating practice, but swiftly goes on to provide an example of another peculiar funeral custom:</p>
 <blockquote id="index-4">
@@ -482,7 +520,7 @@ document.write(`
 </div></blockquote>
 <div class="seealso admonition">
 <p class="admonition-title">The Ede Letter, Answered in Notes &amp; Queries, November 9th, 1895</p>
-<p>In <em>Notes and Queries</em> dated <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1895-11-09_8_202/page/366/mode/2up?q=smoking">November 9th, 1895</a>, p366, the letter also appear in a note with some additionaly commentary:</p>
+<p>In <em>Notes and Queries</em> dated <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1895-11-09_8_202/page/366/mode/2up?q=smoking">November 9th, 1895</a>, p366, the letter also appear in a note with some additional commentary:</p>
 <blockquote>
 <div><p>Smoking in Church .—The following is a cutting from a recent number of the Times :—</p>
 <p>“Mr. Elton B. Ede writes to us from Edenhurst, Heene, Worthing :— ‘Though the sin-eater in Wales may not have existed, the mention of him recalls an oldpractice—viz., smoking in church, which I remember my mother telling me she saw in Wales about 1850. The Communion-table stood in the aisle, and the farmers were in the habit of putting their hate upon it, and when the sermon began they lit their pipes and smoked, but without any idea of irreverence, have not seen this practice mentioned in any book, and though it is not desirable that it should be revived, it seems a pity that it should be forgotten.’”</p>
@@ -540,7 +578,7 @@ Highgarth, Gloucester, Sept. 20.</p>
 </section>
 <section id="hartland-incubates-his-first-fill-response">
 <span id="index-6"></span><h2>Hartland Incubates His First Fill Response<a class="headerlink" href="#hartland-incubates-his-first-fill-response" title="Link to this heading">#</a></h2>
-<p>In the <em>Western Mail</em> of <a class="reference external" href="https://newspapers.library.wales/view/4333214/4333221">Wednesday, September 25th, 1895</a>, p7, E. Sidney Hartland also replied to the correpsondence received from Gwynfardd Dyfed that included the extended Moggridge references and quote from the <em>Mopuntain Decameron</em>:</p>
+<p>In the <em>Western Mail</em> of <a class="reference external" href="https://newspapers.library.wales/view/4333214/4333221">Wednesday, September 25th, 1895</a>, p7, E. Sidney Hartland also replied to the correspondence received from Gwynfardd Dyfed that included the extended Moggridge references and quote from the <em>Mopuntain Decameron</em>:</p>
 <aside class="margin sidebar">
 <p class="sidebar-title"></p>
 <p>Letter to the Editor, <em>The Western Mail</em>, E. S. Hartland of Gloucester, Wednesday, September 25th, 1895</p>
@@ -550,7 +588,7 @@ Highgarth, Gloucester, Sept. 20.</p>
 <p>THE “SIN-EATER.”</p>
 <p>TO THE EDITOR OF THE “WESTERN MAIL.”</p>
 <p>Sir,-</p>
-<p>I am greatly interested to see that your contributor, “Gwynfardd Dyfed,” has quoted an account of the custom  of the “sin-eater” as witnessed not so very long ago in Cardiganshire. As my statement at the British Association, and, indeed, the possession by Wales of this curious and important relic of the past at any recent period (or at all, if I understand him: rightly), has been challenged by a gentleman who writes in the “Times,” “Gwynfardd Dyfed” will confer an obligation on me and on all students of Welsh antiquities if he will kindly give in your paper a reference to the work from which he quotes (including exact title, page, date, and place of publication), and also state his authority for the survival of the custom in Cwmamman to 1881, for it seems to me that this was denied in 1882 by the Rev. T. Eynon Davies in the “Christian World.”</p>
+<p>I am greatly interested to see that your contributor, “Gwynfardd Dyfed,” has quoted an account of the custom of the “sin-eater” as witnessed not so very long ago in Cardiganshire. As my statement at the British Association, and, indeed, the possession by Wales of this curious and important relic of the past at any recent period (or at all, if I understand him: rightly), has been challenged by a gentleman who writes in the “Times,” “Gwynfardd Dyfed” will confer an obligation on me and on all students of Welsh antiquities if he will kindly give in your paper a reference to the work from which he quotes (including exact title, page, date, and place of publication), and also state his authority for the survival of the custom in Cwmamman to 1881, for it seems to me that this was denied in 1882 by the Rev. T. Eynon Davies in the “Christian World.”</p>
 <p>I am &amp;c..
 E. SIDNEY HARTLAND
 Highgarth, Gloucester.</p>
@@ -583,7 +621,7 @@ Highgarth, Gloucester.</p>
 <section id="hartland-s-first-defence-the-times-october-14th-1895">
 <span id="index-7"></span><h2>Hartland’s First Defence, The Times, October 14th, 1895<a class="headerlink" href="#hartland-s-first-defence-the-times-october-14th-1895" title="Link to this heading">#</a></h2>
 <p>Another week later, on Monday, October 14th, 1895, p4, E. Sidney Hartland was to respond in the pages of the <em>Times</em> to Mr. Thomas’ original criticisms of September 18th, 1895.</p>
-<p><em>Harland also penned a letter on Octor 14th, 1895, to The Academy, but it was not to appear in print there until November 11th, 1895. We will hold off discussing that letter until it appears in the publicly available chronology.</em></p>
+<p><em>Hartland also penned a letter on October 14th, 1895, to The Academy, but it was not to appear in print there until November 11th, 1895. We will hold off discussing that letter until it appears in the publicly available chronology.</em></p>
 <p>Since his earlier letter, he seems to have obtained copies of the arguments raised in the earlier controversy :</p>
 <aside class="margin sidebar">
 <p class="sidebar-title"></p>
@@ -884,7 +922,7 @@ Mr. Pickwick’s eyes sparkled with delight, as he sat and gloated over the trea
 <p class="sd-card-text">Gwelir mai hen ddefod gymysgryw o Baganiaeth a Phabyddiaeth ydoedd, gyda hwyrach ychydig o olion bwch diangol yr Hen Oruchwyliaeth. Hona Mr Sidney Hartland, awdwr sydd wedi efrydu Ofergoeledd amrywiol genedloedd yn ei wahanol agweddau, fod y Bwytawr Pechod i’w weled yn y cynhebrwng Cymreig hyd o fewn cof rhai sydd yn awr yn fyw. Gan na wyr Mr Hartland ond ychydig, o angenrheidrwydd, am Gymru a’i defion, dibyna ar dystiolaethau eraill, ac un o’r rhai ddyfyna ydyw Mr Matthew Moggridge, yr hwn, yn nghyfarfod blynyddol y <em>Cambrian Archaeological</em>, 1852, a ddywedai fod y ddefod wedi parhau hyd yn ddiweddar yn Llandebie, sir Gaerfyrddin. Dyma’r hanes a rydd of o’r oruchwyliaeth:– “Pan fyddo person farw, y perthynasau a ddanfonent am Fwytawr Pechod yr ardal, yr hwn, ar ei ddyfodiad, a roddai blatiad o halen ar fynwes y trancedig, ac ar yr halen damaid o fara. Yna uda’n ddolefus uwchben y bara, gan ei fwyta, a thrwy hyny fwyta holl bechodau y marw. Wed’yn efe a dderbyn ei dâl o 2s 6ch, a diflana gynted ag y medro o olwg y cyhoedd; canys y mae pawb yn ei gashau, gan gredu ei fod yn bwyta pechodau y sawl yr eio efe trwy y seremoni hon uwchben ei weddillion - yr oedd yn ysgymunbeth a halogedig yn eu golwg — ac yn dragwyddol golledig.”</p>
 <p class="sd-card-text">Dyna fel y desgrifir yr hen ddefod; ac os bu hi erioed yn gyffredinol yn Nghymru mae’n rhyfedd na fuasai rhyw ychydig o’i hanes ar gael neu gyfeiriad ati yn ngwaith rhai o’r hen feirdd. Ond nid oes, hyd y gwyddom, yr un gair Rhydd Mr John Aubrey, yr hynafiaethydd, yr hwn oedd yn byw tua dau can mlynedd yn ol, hanes am y ddefod yn sir Hereford; ac er nad yw yn amrywio fawr oddiwrth ddesgrifiad Moggridge, ymddengys yn fwy dilys a hygoel, gan fod yr awdwr yn son am yr hyn a welodd. Oddiwrth hyn tybia rhai fod y Bwytawr Pechod yn ddiau i’w gael yn Lloegr ar gyffiniau Cymru, ac efallai mewn rhai parthau o Gymra ar gyffiniau Lloegr; ond mai olion y ddefod (os olion hefyd), ac nid y ddefod ei hun, ddaeth yn lled gyffredinol yn Nghymru.</p>
 <p class="sd-card-text">A pha beth a ddywedir gan haneswyr Cymreig diweddar nid am y ddefod ei hun ond am ei holion? Pennant a ddywed :— “Yr oedd hi’n ddefod, pan ddygid y corph o’r ty a’i osod ar yr elor, i’r cyfnesaf- boed weddw, mam, chwaer, neu ferch (rhaid iddi fod yn fenvw) — i roddi, ar draws yr arch, nifer o fara gwyn o ddysgl fawr, ac weithiau gaws, yn nghyda darn o arian ynddo i dylodion. Ar ol hyny, yn yr un dull, rhoddid cwpanaid o ddiod, gan ofyn i bob person gymeryd llymaid ohoni yn ddioedi.”</p>
-<p class="sd-card-text">Nid oes ychwaith yn y cynulliad o Ofergoelion Cymru a elwir <em>Hynafion Cymreig</em> yr un gair am y “Bwytawr Pechod,” er y cyfeirir yn tudal. 139 at rai pehau ellir ystyried fel olion iddo. Ddydd y cynhebrwng, fe ddywedir, “y mae rhywun wedi ei osod i gyflwyno y deisen a’r gwin wrth i’r bobl fyned i’r ystafell lie byddo’r marw.” Os oedd y ddefod mewn bri yn Llandebie mor ddiweddar ag yr hona Moggridge, fel y dywedasom uchod, mae’n syndod na fuasai rhyw son am dani yn yr <em>Hynafion</em>, yr hwn a argraphwyd yn Nghaerfyrddin yn 1823, o fewn deg neu ddeuddeng milldir i’r fan; a chredwn fod hyn yn rheswm terfynol tros gredu mai cyfeiliorni y mae Mr Hartland, wedi ei gamarwain gan Aubrey a Moggridge. Ond tra yn dweyd hyn, ni fynem wadu parhad yr hyn ellir alw yn olion y ddefod hyd o fewn deugain mlynedd yn ol, os ydynt yn wir wedi llwyr ddiflanu eto. Hyd ddiwedd haner cyntaf y ganrif hon, yr oedd hi’n arferiad yn Nyffryn Clwyd, a manau eraill yn ddiau, ranu bara gwyn, neu deisenau, a chwrw brwd, yn mhob cynhebrwng a elwid yn “gyldigaeth gwadd,” neu wahoddedig, i’r dynion; ac er dangos nad oedd hyn ond porthiant i’r byw,  darperid te a bara gwyn i’r merched mewn ystafell arall. Yn angladdau “pobl fawr,” rhoddid tafellau o fara brith a gwin, ond yn mysg y dosbarth canol, cymerid lle’r gwin gan y cwrw brwd — neu gwrw poeth wedi ei felysu a’i bereiddio. Dygid y cwrw brwd gylch yr ystafell lle yr eisteddai’r gwahoddedigion — pawb yncymerydllymaid o’r un cwpan - gan gymydog penodedig i’r gorchwyl, a chymydog arall yn ei ddilyn i ail ddiwallu’r cwpan pan fyddai angen. Gan y dilynid y seremoni hon gyda chasgliad, hyd yn nod lle na fyddai ei angen, nid oedd y cyfan ond dull ein hynafiaid o ddangos eu cydymdeimlad â’u gilydd ddydd yr angladd, fel yr oedd y pwyddion hefyd yn arwyddo eu cydlawen - ydd ar ddydd priodas. Hyny yn benaf, os nid yn unig, ydyw’r defodau sydd genym neu oedd genym hyd yn ddiweddar yn ein hangladdau. Ac nid yw Mr Hartland, wrth ddylorni ar y pwnc hwn ar hyd y blynyddoedd, gyda phob parch iddo, ond “dweyd mwy na mae o’n wybod,” a benthyca hen air Cymraeg. Yr ydym yn methu’n lân a gweled tebygrwydd perthyn - asol rhwng rhanu teisenau neu fara gwyn tros yr arch i swyddogaeth y Bwytawr Pechod, fel ei desgrifir uchod; a rhaid fod y cwrw brwd a’r offrwm o darddiadau gwahanol. Fel y dywedasom, nid oes gynifer ag un awdwr Cymraeg, caeth na rhydd, yn son am yr ofergoeledd - y <em>Popular Antiquities</em>, <em>Hynafion Cymreig</em>, <em>Cymru Fu</em> — dim gair yn yr un ohonynt.</p>
+<p class="sd-card-text">Nid oes ychwaith yn y cynulliad o Ofergoelion Cymru a elwir <em>Hynafion Cymreig</em> yr un gair am y “Bwytawr Pechod,” er y cyfeirir yn tudal. 139 at rai pehau ellir ystyried fel olion iddo. Ddydd y cynhebrwng, fe ddywedir, “y mae rhywun wedi ei osod i gyflwyno y deisen a’r gwin wrth i’r bobl fyned i’r ystafell lie byddo’r marw.” Os oedd y ddefod mewn bri yn Llandebie mor ddiweddar ag yr hona Moggridge, fel y dywedasom uchod, mae’n syndod na fuasai rhyw son am dani yn yr <em>Hynafion</em>, yr hwn a argraphwyd yn Nghaerfyrddin yn 1823, o fewn deg neu ddeuddeng milldir i’r fan; a chredwn fod hyn yn rheswm terfynol tros gredu mai cyfeiliorni y mae Mr Hartland, wedi ei gamarwain gan Aubrey a Moggridge. Ond tra yn dweyd hyn, ni fynem wadu parhad yr hyn ellir alw yn olion y ddefod hyd o fewn deugain mlynedd yn ol, os ydynt yn wir wedi llwyr ddiflanu eto. Hyd ddiwedd haner cyntaf y ganrif hon, yr oedd hi’n arferiad yn Nyffryn Clwyd, a manau eraill yn ddiau, ranu bara gwyn, neu deisenau, a chwrw brwd, yn mhob cynhebrwng a elwid yn “gyldigaeth gwadd,” neu wahoddedig, i’r dynion; ac er dangos nad oedd hyn ond porthiant i’r byw, darperid te a bara gwyn i’r merched mewn ystafell arall. Yn angladdau “pobl fawr,” rhoddid tafellau o fara brith a gwin, ond yn mysg y dosbarth canol, cymerid lle’r gwin gan y cwrw brwd — neu gwrw poeth wedi ei felysu a’i bereiddio. Dygid y cwrw brwd gylch yr ystafell lle yr eisteddai’r gwahoddedigion — pawb yncymerydllymaid o’r un cwpan - gan gymydog penodedig i’r gorchwyl, a chymydog arall yn ei ddilyn i ail ddiwallu’r cwpan pan fyddai angen. Gan y dilynid y seremoni hon gyda chasgliad, hyd yn nod lle na fyddai ei angen, nid oedd y cyfan ond dull ein hynafiaid o ddangos eu cydymdeimlad â’u gilydd ddydd yr angladd, fel yr oedd y pwyddion hefyd yn arwyddo eu cydlawen - ydd ar ddydd priodas. Hyny yn benaf, os nid yn unig, ydyw’r defodau sydd genym neu oedd genym hyd yn ddiweddar yn ein hangladdau. Ac nid yw Mr Hartland, wrth ddylorni ar y pwnc hwn ar hyd y blynyddoedd, gyda phob parch iddo, ond “dweyd mwy na mae o’n wybod,” a benthyca hen air Cymraeg. Yr ydym yn methu’n lân a gweled tebygrwydd perthyn - asol rhwng rhanu teisenau neu fara gwyn tros yr arch i swyddogaeth y Bwytawr Pechod, fel ei desgrifir uchod; a rhaid fod y cwrw brwd a’r offrwm o darddiadau gwahanol. Fel y dywedasom, nid oes gynifer ag un awdwr Cymraeg, caeth na rhydd, yn son am yr ofergoeledd - y <em>Popular Antiquities</em>, <em>Hynafion Cymreig</em>, <em>Cymru Fu</em> — dim gair yn yr un ohonynt.</p>
 </div>
 </div>
 </div>
@@ -893,9 +931,9 @@ Mr. Pickwick’s eyes sparkled with delight, as he sat and gloated over the trea
 <div class="sd-card-body docutils">
 <p class="sd-card-text">“Has the strange old custom of eating the deceased’s sin at his funeral ever been in general practice in Wales? And if so, how recently did it last? And are there still some remnants of it remaining?” These are questions that currently cause a great deal of talk and writing in England. He came to the surface recently when a papyrus was read out at a meeting of the <em>British Association</em>, which led to correspondence in the <em>Times</em>, and which permeated it in the usual way to other papers.</p>
 <p class="sd-card-text">This is Dr Brewer’s inscription, in his <em>Dictionary of Phrase and Fable</em>, of the function of the Sin Eater (as far as we know, none of the books we have on superstition in Welsh contain a word for ritual - so we had to go to English books for information on it): - “An employed person at funerals in ancient times to take on him the sins of the tanned, that the soul may be redeemed.” And in <em>Lelana’s Collectanea</em>, there is a more detailed description: - “An old man would be warned in front of the door of the house, when some of the family would come out, extending to him a low ladder, on which he would sit face to face the door; then he would be given a groat, a bread of bread, which he had eaten, and a bowling of beer, which he consumed on one travail. he was ready to pledge his own soul.”</p>
-<p class="sd-card-text">It can be seen that it was an ancient hybrid of Paganism and Paganism, with perhaps a few remains of the ancient invading buck. Mr Sidney Hartland, an author who has eroded the Supremacy of various nations in his various aspects, claims that the Sin-Eaters are to be seen in Welsh preaching still in the memory of those who are now alive. As Mr. Hartland knows very little about Wales and its destiny, he relies on other testimonies, and one of those he quotes is Mr Matthew Moggridge, who, at the annual meeting of the <em>Cambrian Archaeological</em>, 1852, and he said that the ritual had continued until recently in Llandebie, Carmarthenshire. Here is the history he gives of the supervision: - “When a person died, the relatives sent for the sin-eater of the district, who, on his arrival, put a salt-plaque on the thorny bosom, and on the salt Then he cursed mercifully over the bread, eating it, and thus eating all the sins of the dead, and receiving his pay of 2s 6d, and destroying it as soon as I could from the sight of the public; whom he hates, believing that he consumed the sins of him whom he went through this ceremony above his remains - which he was exalted and contaminated in their sight - and eternal lost. “</p>
+<p class="sd-card-text">It can be seen that it was an ancient hybrid of Paganism and Paganism, with perhaps a few remains of the ancient invading buck. Mr Sidney Hartland, an author who has eroded the Supremacy of various nations in his various aspects, claims that the Sin-Eaters are to be seen in Welsh preaching still in the memory of those who are now alive. As Mr. Hartland knows very little about Wales and its destiny, he relies on other testimonies, and one of those he quotes is Mr Matthew Moggridge, who, at the annual meeting of the <em>Cambrian Archaeological</em>, 1852, and he said that the ritual had continued until recently in Llandebie, Carmarthenshire. Here is the history he gives of the supervision: - “When a person died, the relatives sent for the sin-eater of the district, who, on his arrival, put a salt-plaque on the thorny bosom, and on the salt Then he cursed mercifully over the bread, eating it, and thus eating all the sins of the dead, and receiving his pay of 2s 6d, and destroying it as soon as I could from the sight of the public; whom he hates, believing that he consumed the sins of him whom he went through this ceremony above his remains - which he was exalted and contaminated in their sight - and eternal lost.”</p>
 <p class="sd-card-text">That is how the old ritual is described; and if it has ever been universal in Wales it is strange that some of its history would be absent or referenced in the work of some of the old poets. But there is, as far as we know, no word Mr John Aubrey, the antiquarian, who lived about two hundred years ago, gives a history of the ritual in Herefordshire; and though it differs little from Moggridge’s inscription, it seems more authentic and plausible, since the author speaks of what he saw. From these some assume that the Sin Eater is undoubtedly found in England around Wales, and perhaps in some parts of Wales on the English border; but that the remains of the ritual (if any) also, and not the ritual itself, became widespread in Wales.</p>
-<p class="sd-card-text">And what do recent Welsh historians say not about the ritual itself but its traces? Pennant says: - “It was a ritual, when the body was taken out of the house and laid on the bier, to a widow, mother, sister, or daughter (she must be female) - to give across the coffin a number of white bread from a large dish, and sometimes cheese, with a piece of silver in it for towels. let’s do it wickedly. “</p>
+<p class="sd-card-text">And what do recent Welsh historians say not about the ritual itself but its traces? Pennant says: - “It was a ritual, when the body was taken out of the house and laid on the bier, to a widow, mother, sister, or daughter (she must be female) - to give across the coffin a number of white bread from a large dish, and sometimes cheese, with a piece of silver in it for towels. let’s do it wickedly.”</p>
 <p class="sd-card-text">Nor does the assembly of Welsh Superstitions known as <em>Hynafion Cymreig</em> have the same word for the “Sin-Eaters,” though it is referred to in silence. 139 to some remains may be regarded as his remains. On the day of the consecration, it is said, “someone is set to deliver the cake and wine as the people enter the room where the dead are.” If the rite of passage in Llandebie was as recent as Moggridge claims, as we have said above, it is surprising that there was no mention of it in the <em>Hynafion</em>, which was printed in Carmarthen in 1823, within ten or twelve miles to the spot; and we believe this to be a final reason to believe that Mr Hartland is mistaken, misled by Aubrey and Moggridge. But while saying this, we would not deny the continuation of what may be called the relics of the ritual until forty years ago, if they have indeed disappeared again. Until the end of the first half of this century, it was the custom in the Vale of Clwyd, and no doubt elsewhere, to distribute white bread, or cakes, and keen beer, in every ceremony known as “invited,” or invited, to the men; and to show that this was only fodder for the living, the girls were provided with tea and white bread in another room. At “big people” funerals, slices of bara brith and wine were given, but among the middle class, wine was replaced by the keen - or sweetened - hot beer. The enthusiastic beer was brought around the room where the guests sat - all in the same cup of tea - by an assigned neighbor for the task, followed by another neighbor to re-serve the cup when necessary. As this ceremony would be followed with a conclusion, until a goal where it was not needed, it was all but our ancestors’ method of expressing their sympathy with each other on the day of the funeral, as did the successors also signifying their joys on a wedding day. Most, if not only, are the rituals we have or have had until recently in our funerals. And Mr. Hartland, while debating this subject over the years, does not respect him, but “say more than he knows,” and borrow an old Welsh word. We fail to see the similarities between the sharing of cakes or white bread over the coffin for the function of the Sin Eater, as described above; and the beers and offerings must be of different origins. As we have said, there is not so much one Welsh writer, strict or free, who speaks of the superstitious - the <em>Popular Antiquities</em>, <em>Hynafion Cymreig</em>, <em>Cymru Fu</em> - none of them.</p>
 </div>
 </div>
@@ -929,7 +967,7 @@ Mr. Pickwick’s eyes sparkled with delight, as he sat and gloated over the trea
 </div>
 </div>
 </div>
-<p>The commentary in the Welsh language <em>Y Cymro</em> is picked up a few days later in the <em>Merthyr Times and Dowlais Times and Aberdare Echo</em> of <a class="reference external" href="https://newspapers.library.wales/view/3098997/3099002/28/">November 11th, 1895, p5</a>. The note begins with a brief summary of the tradition, as given by Moggrdge:</p>
+<p>The commentary in the Welsh language <em>Y Cymro</em> is picked up a few days later in the <em>Merthyr Times and Dowlais Times and Aberdare Echo</em> of <a class="reference external" href="https://newspapers.library.wales/view/3098997/3099002/28/">November 11th, 1895, p5</a>. The note begins with a brief summary of the tradition, as given by Moggridge:</p>
 <blockquote>
 <div><p>Notes and Comments</p>
 <p>WAS the ancient custom of Sin-eating ever prevalent in Wales? The Sin-eater was one who “ate” the sins of a dead man, and so delivered his soul from purgatory. The practice seems to have varied in its details. Mr. Matthew Moggridge, in 1852, described to the Cambrian Archaeological Society what he alleged to be done within the memory of people then living in the neighbourhood of Llandebie, in Carmarthenshire. The Sin-eater, he says, placed a quantity of salt on the bosom of the dead man, and a small piece of bread on the salt. Then, with loud lamentations, he ate the piece of bread, and so took into himself, as it were, all the sins of the deceased. The sum of half-a-crown was given him by the mourning relatives, and he ran away as soon as he could out of sight, for he was hated by all, and looked upon as a lost man.</p>
@@ -951,7 +989,7 @@ Mr. Pickwick’s eyes sparkled with delight, as he sat and gloated over the trea
 <div><p>The Sin-Eater in Wales controversy is summarised by a Birmingham paper, which remarks :— As a preliminary we may explain that sin-eaters, according to certain antiquarians, were a class of men who attended funerals in ancient times, and partook of bread and ale placed on the bier, and so symbolically took on themselves the sins of the deceased. It was believed that whenever this ceremony was performed that the spirit of the dead sinner would be saved from walking the earth in troubled state.</p>
 <p>The denial of sin-eating in Wales by Mr. Thomas, of Oswestry, has called forth a mass of evidence in proof of the contrary from Mr. Sidney Hartland, one of the most learned of Midland antiquarians, which is printed in the current number of the “Academy.” Mr. Hartland relies mainly on old-time writers for his information. Aubrey mentions the custom, as performed by a “long, leane, ugly, lamentable, poor raskal” in Herefordshire. When the body was placed on the bier, “a Loafe of Bread was brought out, and delivered to the sinne-eater over the corps, as also a mazar-bowle of maple full of beer, which he was to drink up, and sixpence in money, in consideration whereof he tooke upon him (ipso facto) all the sinnes of the Defunct, and freed him (or her) from walking after death.”</p>
 </div></blockquote>
-<p>Meanwhile, a letter in <em>Y Cymro</em> of <a class="reference external" href="https://newspapers.library.wales/view/3451886/3451891/29/">November 14th, 1895, p5</a> introduces  the Welsh terms “diodles” and “diodlas”, which perhaps remind us of the <em>Diodlys</em> tradition described in Bingley’s review of <em>North Wales</em> from 1804. The correspondent provides a description of the <em>diodles</em>/<em>diodlas</em> tradition taken from a Welsh work published in 1820, <em>Drych yr Amseroedd</em> [“Mirror of the Times”].</p>
+<p>Meanwhile, a letter in <em>Y Cymro</em> of <a class="reference external" href="https://newspapers.library.wales/view/3451886/3451891/29/">November 14th, 1895, p5</a> introduces the Welsh terms “diodles” and “diodlas”, which perhaps remind us of the <em>Diodlys</em> tradition described in Bingley’s review of <em>North Wales</em> from 1804. The correspondent provides a description of the <em>diodles</em>/<em>diodlas</em> tradition taken from a Welsh work published in 1820, <em>Drych yr Amseroedd</em> [“Mirror of the Times”].</p>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils" id="drych-y-cymro-diodles">
 <div class="sd-row docutils">
 <div class="sd-col sd-d-flex-row docutils">
@@ -974,7 +1012,7 @@ Mr. Pickwick’s eyes sparkled with delight, as he sat and gloated over the trea
 <div class="sd-card-body docutils">
 <p class="sd-card-text">Sir, - I read your guidance notes on the above topic in <em>Y Cymro</em> for October 31st, with great humility. I knew that I had heard talk of the ritual during a country’s oral gathering, or that I had read about it in Welsh literature. Having searched and broken down old country oral records, I found a note referring to it exactly as we think it is, and I am sure that you and others who researched the old Welsh customs will find it strange to find the records this by a bright-eyed Welsh author. It was called “Diodlas” or Diodies in Wales. There is a story about her in <em>Drych yr Amseroedd</em> [“Mirror of the Times”], (Trefriw print, 1820, in my possession). In pg. 42 states-</p>
 <p class="sd-card-text"><em>Inquirer</em> .— It is lamentable to think how mindless our country was in those dark days; especially in the face of such a sobering circumstance that one could see before their eyes having passed through a portal of death to judgment and eternity, and they themselves were falling over the hollow.- I remember hearing my grandfather talk about something and it was called Dïodlas or Dïodles. Can I hear what that is?</p>
-<p class="sd-card-text"><em>Observer</em> .- When it happens that some person dies in a family, a poor person of their choice would receive the favor of that happy guard, the Godhead. The method of giving to the poor was thus; the family would send a cup to the coffin maker, to color it the same color as the coffin; two colors used on coffins at that time, black on the coffins of some who were married, and white on the coffins of single ones, and when the day of the burial came, the body was laid on baptism, the head of the house presented the religious charity to the poor, a large loaf of good bread, and a large piece of cheese, and a silver gun embedded in the cheese, and the full color of a cup of beer, if it were, or of milk, stretching it over the body to ‘ the poor; he who blessed, and prayed intensely and severely with the soul of the dead. All the family, the first Sunday after burial, used to kneel on the grave, all to wave their flag. And they remembered no one of their family, or of their relations, dead, without saying very devoutly, “Heaven be unto him.</p>
+<p class="sd-card-text"><em>Observer</em> .- When it happens that some person dies in a family, a poor person of their choice would receive the favor of that happy guard, the Godhead. The method of giving to the poor was thus; the family would send a cup to the coffin maker, to color it the same color as the coffin; two colors used on coffins at that time, black on the coffins of some who were married, and white on the coffins of single ones, and when the day of the burial came, the body was laid on baptism, the head of the house presented the religious charity to the poor, a large loaf of good bread, and a large piece of cheese, and a silver gun embedded in the cheese, and the full color of a cup of beer, if it were, or of milk, stretching it over the body to ‘the poor; he who blessed, and prayed intensely and severely with the soul of the dead. All the family, the first Sunday after burial, used to kneel on the grave, all to wave their flag. And they remembered no one of their family, or of their relations, dead, without saying very devoutly, “Heaven be unto him.</p>
 <p class="sd-card-text">These ancient rituals cast a great deal of light on the state of the countryside, and Mr Hartland and others do a great service through their efforts to get to their roots. As you know, there is considerable variation in the manner in which the ritual was conducted, and Robert Jones’ records vary considerably on Mr Matthew Moggridge’s report, and Leland’s. The <em>Drych</em> author’s report to me seems more enlightening than the one you are quoted. In <em>Hone’s Year Book</em>, Aubrey states:</p>
 <p class="sd-card-text">The manner was, that when the corpse was brought out of the house and laid on a bier, a loaf of bread was brought out and delivered to the Sin Eater, over the corpse, as also a mazard-bowl, of maple, full of beer, which he was to drink up, and sixpence in money in consideration whereof he took upon himself, <em>ipse facto</em>, all the sins of the defunct, and freed him or her from walking after they were dead. (July 19).</p>
 <p class="sd-card-text">Laurence Howell states in his <em>History of the Pontificate</em> that the custom began with a misinterpretation of Hosea iv. 8. “They eat the sin of my people; and to their iniquity do they exalt their heart.”</p>
@@ -1071,15 +1109,17 @@ Mr. Pickwick’s eyes sparkled with delight, as he sat and gloated over the trea
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#a-letter-to-the-editor-of-the-times">A Letter to the Editor of “The Times”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#false-news">“False News”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-holding-position">Hartland’s Holding Position</a></li>
@@ -1137,8 +1177,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

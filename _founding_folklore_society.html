@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_founding_folklore_society';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_founding_folklore_society.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="The Scientific Folklore View, 1890-92" href="_scientific_folklore.html" />
     <link rel="prev" title="The Sin-Eater of Ross" href="_ross.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#progress-at-last">Progress At Last</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-prospectus-of-the-folk-lore-society">The Prospectus of the Folk-Lore Society</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-society-is-formed">The Society is Formed</a></li>
@@ -405,12 +443,12 @@ Publication date 1876-02-05
 p169-170</p>
 <p>THE DECAY OF RURAL TRADITION.</p>
 <p>The editor of a Worcestershire newspaper has invited co-operation throughout that county in an experiment which is so excellent in its aim that it ought to be a success, and at the same time so late in its beginning that it must prove, it is to be feared, more or less of a failure. It is proposed to collect, under the title of “Old Worcestershire,” the floating and unwritten, or at least unpublished, treasures of local traditions, customs, legends, proverbs, rhymes, and miscellaneous fireside memories belonging to the county; and, with a wise forethought, all such matter not belonging to the county is distinctly excluded from the plan. Such a work would stand in the same relation to the ordinary county histories as Mr. Green’s <em>History of the English People</em> does to the ordinary Histories of England; and, if efficiently executed, it would go far to clothe the dry bones of the antiquary’s labours with living flesh and blood. To the average antiquary of a century it does not appear to have been matter of much concern whether, if a man had not a coat of arms, he had any sort of coat at all. The only characteristic worthy of notice was a crest; and he who did not exhibit a motto might just as well not belong to the race of articulately speaking men. Exceptions were indeed made in favour of such departed worth as might have attained the parochial beatification of a monument; but then it must be in the church itself, and not in company with “the rude forefathers of the hamlet” in the churchyard.</p>
-<p>It is, however, only just to Worcestershire men to say that Dr. Nash, the historian of that county, was an autiquary and an observer of a much higher type. His “collections” are full of interesting detail upon matters quite outside the range of the Heralds’ College; and the curious old ballad in praise of Malvern and its waters, with its pious refrain, “O praise the Lord,” in every verse, is known best, if not exclusively, through his volumes. His search of ancient records kept in view the man as well as his “coat,” as in the case of the first known rector of the important parish of Martley:—” Robertus de Lech, persona de Mertle, per fas et nefas ab adolescentié sua nummorum numerum augmentavit, et ille avarus 4 Id. Aprilis (1299) predonibus peremptus pecuniam perdidit atque vitam. functi funus non patria, vir dolet unus.” The reference for this pleasant obituary notice is to “Ann. Wig.” (i.e. <em>Annales Wigornienses</em>). But even the county historian of wider aims, such as Dr. Nash, would not have considered it worth his while, or of interest to his readers, to collect the old stories and superstitions of the country side. They probably showed, in the later years of the eighteenth century, no sign of dying out, and no Commission or Department had as yet been invented for the express purpose of making war against them. Learned men might correspond with each other on the subject of amazing derivations for local names; but they did not trouble themselves to know why or whether an anxious mother would come to the parson to beg a “Sacrament shilling” to hang round the baby’s neck as “good for fits,” or the old grandmother, when a thunderstorm was approaching, go to her chest for the “Letter of Our Saviour to King Abgarus,” that she might fasten it up on the wall. If the language of old goodwives and nurses now and then reached the ears of wigged authority, it was probably disposed of after the fashion of Dr. Johnson :—” It is observable that the nurses call sleep by, by; lullaby is therefore Judi to sleep.” Why “the nurses call sleep by, by” did not concern our great-grandfathers very much.</p>
+<p>It is, however, only just to Worcestershire men to say that Dr. Nash, the historian of that county, was an antiquary and an observer of a much higher type. His “collections” are full of interesting detail upon matters quite outside the range of the Heralds’ College; and the curious old ballad in praise of Malvern and its waters, with its pious refrain, “O praise the Lord,” in every verse, is known best, if not exclusively, through his volumes. His search of ancient records kept in view the man as well as his “coat,” as in the case of the first known rector of the important parish of Martley:—” Robertus de Lech, persona de Mertle, per fas et nefas ab adolescentié sua nummorum numerum augmentavit, et ille avarus 4 Id. Aprilis (1299) predonibus peremptus pecuniam perdidit atque vitam. functi funus non patria, vir dolet unus.” The reference for this pleasant obituary notice is to “Ann. Wig.” (i.e. <em>Annales Wigornienses</em>). But even the county historian of wider aims, such as Dr. Nash, would not have considered it worth his while, or of interest to his readers, to collect the old stories and superstitions of the country side. They probably showed, in the later years of the eighteenth century, no sign of dying out, and no Commission or Department had as yet been invented for the express purpose of making war against them. Learned men might correspond with each other on the subject of amazing derivations for local names; but they did not trouble themselves to know why or whether an anxious mother would come to the parson to beg a “Sacrament shilling” to hang round the baby’s neck as “good for fits,” or the old grandmother, when a thunderstorm was approaching, go to her chest for the “Letter of Our Saviour to King Abgarus,” that she might fasten it up on the wall. If the language of old goodwives and nurses now and then reached the ears of wigged authority, it was probably disposed of after the fashion of Dr. Johnson :—” It is observable that the nurses call sleep by, by; lullaby is therefore Judi to sleep.” Why “the nurses call sleep by, by” did not concern our great-grandfathers very much.</p>
 <p>Such an inquiry as that which has been lately set on foot in <em>Berrow’s Worcester Journal</em>, and which has been taken up with some interest in a part of the county, might help to solve several age of general historical interest. Among others, it would probably throw some curious light upon that chronological puzzle which everybody finds it so easy to answer wrong— the date of the Reformation. Rural England might be found not altogether to have borne out the favourite theory of the short and easy manuals, that the religious life of the people was at a certain fixed time, by order from London, turned upside down and emptied out like a drawer in a house-cleaning, and then, after being carefully scrubbed and aired, filled up again with duly authorized contents. There would seem to have remained a good many odds and ends in the corners, suggesting that the contents of the drawer had been subjected to a very different process of change. And not a few shreds and bits of broken material would extend the suggestion to an earlier date, in the change from Pagan to Christian worship, and indicate in various charms and superstitions that the old gods, like the Canaanites, held their ground in many a hill fastness for a long time after the general conquest of their land. But during the last half-century, and especially during the present reign, the process of house-cleaning has been going on throughout the country in a very businesslike and unsentimental fashion; and a millenium of English rural life would seem to be approaching, or at least yearned after, in which the old home, swept and purified from the accumulated “rubbish” of ages, with its dear familiar fragrance of rose-leaves and lavender, but qualified, it must be allowed, with some flavour of mildew and old leather, shall shine forth in perfect uniformity of design from Berwick to St. Michael’s Mount, radiant in whitewash and odorous with yellow soap.</p>
 <p>It is certain that, with our great and advancing social changes, the old memories and traditions have been disappearing fast. Our Sibyl, with her volumes of local history, is repeating the experience of her prophetic predecessor. The reason is not far to seek. Let any one plunge into the depth of even a moderately remote country district, such, for instance, as that which lies beneath him from Malvern to the West and North-west, and, eschewing every highway with a trace of Macadam about it, search out the ancient ways to which old maps or his own eyes may guide him—the main lines of packhorse communication or the cross-roads which led to market. He will probably soon discover, when his path touches some modern road, a wooden receptacle resembling half a Noah’s Ark, nailed on a gate-post or hung in a tree; and he will rightly divine that this is meant for a rustic post-office. Let him, after the first inevitable smile at the ways of a primitive people, carry back his thought to their life in the days before this “scent” of the world’s “paper-chase” was laid there, and when their only roads were the old tracks which he has been following. The people certainly could not write. For the most part, they could not read either; if they could, the Bible and Prayer-Book, and the broadsheets of carols or of songs from the pack of the infrequent pedlar, made up the bulk of their available literature; while wonderful prescriptions for the cure of rheumatism or of the stone might be found preserved in quaint MS. on a fly-leaf in the singing-gallery. After the day’s labour, by the farm kitchen fire, in the summer twilight or the long winter evening, almost their only mental and intellectual resource would lie in telling over the old stories and sayings, and in singing the old ballads and rhymes. Such education as there was current would run in the same grooves. The baby must be sung to sleep; the restless or fractious child must be soothed by a story; the dame would teach the carol which she knew, and the prayer which she herself had once learnt. Thus the traditions remained, and, which is of still more importance, traditionary legends received uncriticizing belief. The parish clerk, a corporation sole, was their ordinary trustee; and the self-elective hierarchy of village singers in the larger parishes kept up the succession of ballads and graver tunes.</p>
 <p>Another element in rural life and society had an important influence on the preservation of this unwritten literature. Mr. Hughes was, we think, the first to point out, in <em>Tom Brown</em>, that the <em>vates sacer</em> of the hall and the rectory had ceased, or is ceasing, to perform his once established function of learning in his boyhood and preserving in his later years the traditions of his home neighbourhood. He had not in the old days become the cosmopolitan that he is now; his early interests were very much confined to the narrow circle of his home; and the stories which he picked up in the nursery and the village were retained in a mind more intelligent than those of nurses and labourers, if not equally credulous. The existing condition of our social system through all its grades is fatal to the maintenance of such a state of things. Oral traditions are dying out, and those which have not already been preserved, or which cannot now be collected, in books must gradually cease to be. It is not within our present purpose to comment on the social or moral aspects of this change, with the causes and progress of which alone we are concerned. It is needless also to do more than refer to the altered conditions and opportunities of popular knowledge, and to the increased mental supplies for even the most uneducated modern labourer, which will have been sufficiently indicated by contrast with the condition already described. As a consequence of these, however, it is plain that the old local legends and traditions are no longer believed. Older people who may have heard them in their childhood are either ashamed of them or do not care to repeat them; and, though they may occasionally be extracted by careful cross-examination, the very process implies that their heads must already have been set down in the questioner’s brief.</p>
-<p>The school and the clergyman together have done a great deal, partly of deliberate purpose and partly by indirect action, to banish the old carols and the miscellaneous local rhymes or doggrel from the storehouse of childish memory. In a neighbourhood where, not forty years ago, every village child, when asked as to his or her prayers, would reply, “I says ‘Our Father,’ and ‘I believe,’ and ‘ Matthew, Mark, Luke, and John,’” not a single child, in a school specially questioned for the purpose, was found to be acquainted even with the name of the old Angelo-Evangelistic invocation. The combined efforts of two or three educated memories may perhaps recover the whole of the curious “Catharine and Clement” rhymes associated in West Worcestershire with the children’s custém of begging for apples in the last week of November; but the legendary fame of St. Catharine has almost entirely died out of remembrance in the Teme-valley district, where fifty years since it continued in undiminished freshness. The tracks of the Saint’s “Mare and Colt,” and of the iron patten-rings of the “maid” who stole them, may be found still by the curious upon blocks of the Old Red Sandstone lying in the devious course of the brooks (and of their tributary rills as well), down which the animals were led to avoid detection; but probably there is not an inhabitant of the district now living who would not laugh at the belief which was firmly held there in the early part of the present century. Drainage has disposed of the Will-o-the-Wisp who was known as a contemporary in the same region; and the rural policeman (<em>vice</em> the parson, withdrawn) has effectually laid the ghosts. It is therefore without much anticipation of any large measure of success that we offer a hearty welcome to the proposal lately issued by our Worcester contemporary, and express our hope that all who are able to sist in carrying it out will co-operate in furnishing the materials, Every year will make the work less susceptible of efficient performance. It should be remembered, however, that a record of ancient local customs and traditions is not the same thing as a miscellany of recent “facetiae” and personal gossip; while, for want of the better material, a tendency to supply the inferior may very naturally be looked for. The promoters of the “Old Worcestershire” collection have evidently been aware of this probability; and the column now published weekly is a mere gathering of rough material, to be sorted and silted at a future time, for the purposes of the ultimate publication.</p>
-<p>Posterity will no doubt acknowledge the large debt of gratitude which it owes to the Education Department, the Training Colleges, and perhaps even to Spelling Bees and the <em>Daily Telegraph</em>, for the spread of that higher enlightenment which, from its centres in the towns, has illumined the depths of remote valleys in the rural districts. At the same time posterity will not forget that the certificated schoolmaster, “abroad” in the company of the penny journalist, has done a great deal with his high-polite English to destroy the old grammatical and philological landmerks of his countrymen. It would be too much to ask of her Majesty’s Inspectors that they should require school managers, Boards, and teachers to preserve for future reference a collection of all the local phrases, “vulgarisms,” and disallowed pronunciations which they have banished from their “Standards” throughout the land; but the volunteer chiffonniers who would endeavour thus to collect the sweepings cast outside the school premises might comfort themselves with the hope that their labours will not be unrecognized a hundred years hence. The collector even of “old wives’ fables,” of local superstitions, and other waiis and strays of an imperfectly educated past, may encourage himself in the same hope. The legends and traditions of the English people are at least of no smaller interest than those old memorials of the Hellenic race which give so vivid and abiding an interest to the first volume of Grote’s <em>History of Greece</em>.</p>
+<p>The school and the clergyman together have done a great deal, partly of deliberate purpose and partly by indirect action, to banish the old carols and the miscellaneous local rhymes or doggrel from the storehouse of childish memory. In a neighbourhood where, not forty years ago, every village child, when asked as to his or her prayers, would reply, “I says ‘Our Father,’ and ‘I believe,’ and ‘Matthew, Mark, Luke, and John,’” not a single child, in a school specially questioned for the purpose, was found to be acquainted even with the name of the old Angelo-Evangelistic invocation. The combined efforts of two or three educated memories may perhaps recover the whole of the curious “Catharine and Clement” rhymes associated in West Worcestershire with the children’s custom of begging for apples in the last week of November; but the legendary fame of St. Catharine has almost entirely died out of remembrance in the Teme-valley district, where fifty years since it continued in undiminished freshness. The tracks of the Saint’s “Mare and Colt,” and of the iron patten-rings of the “maid” who stole them, may be found still by the curious upon blocks of the Old Red Sandstone lying in the devious course of the brooks (and of their tributary rills as well), down which the animals were led to avoid detection; but probably there is not an inhabitant of the district now living who would not laugh at the belief which was firmly held there in the early part of the present century. Drainage has disposed of the Will-o-the-Wisp who was known as a contemporary in the same region; and the rural policeman (<em>vice</em> the parson, withdrawn) has effectually laid the ghosts. It is therefore without much anticipation of any large measure of success that we offer a hearty welcome to the proposal lately issued by our Worcester contemporary, and express our hope that all who are able to assist in carrying it out will co-operate in furnishing the materials, Every year will make the work less susceptible of efficient performance. It should be remembered, however, that a record of ancient local customs and traditions is not the same thing as a miscellany of recent “facetiae” and personal gossip; while, for want of the better material, a tendency to supply the inferior may very naturally be looked for. The promoters of the “Old Worcestershire” collection have evidently been aware of this probability; and the column now published weekly is a mere gathering of rough material, to be sorted and silted at a future time, for the purposes of the ultimate publication.</p>
+<p>Posterity will no doubt acknowledge the large debt of gratitude which it owes to the Education Department, the Training Colleges, and perhaps even to Spelling Bees and the <em>Daily Telegraph</em>, for the spread of that higher enlightenment which, from its centres in the towns, has illumined the depths of remote valleys in the rural districts. At the same time posterity will not forget that the certificated schoolmaster, “abroad” in the company of the penny journalist, has done a great deal with his high-polite English to destroy the old grammatical and philological landmarks of his countrymen. It would be too much to ask of her Majesty’s Inspectors that they should require school managers, Boards, and teachers to preserve for future reference a collection of all the local phrases, “vulgarisms,” and disallowed pronunciations which they have banished from their “Standards” throughout the land; but the volunteer chiffonniers who would endeavour thus to collect the sweepings cast outside the school premises might comfort themselves with the hope that their labours will not be unrecognized a hundred years hence. The collector even of “old wives’ fables,” of local superstitions, and other waiis and strays of an imperfectly educated past, may encourage himself in the same hope. The legends and traditions of the English people are at least of no smaller interest than those old memorials of the Hellenic race which give so vivid and abiding an interest to the first volume of Grote’s <em>History of Greece</em>.</p>
 </div>
 <div class="admonition seealso">
 <p class="admonition-title">See also</p>
@@ -499,7 +537,7 @@ British Museum.</p>
 </div></blockquote>
 <p>It is perhaps worth noting that Britten, whilst working at Kew, had previously written a note soliciting help in compiling botanical folklore, in the edition of <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1870-09-17_6_142/page/230/mode/2up">September 17th, 1870, Vol 6 Iss 142 / 4th S. VI</a>, p230:</p>
 <blockquote>
-<div><p>Plant Folk Lore.— In conjunction with my friend Robert Holland I am collecting materials for a small volume on folk lore connected with plants. Any assistance will be gladly reczived by either of us. Mr. Holland’s address is Mobberley, Knutsford, Cheshire. James Britten, <a class="reference external" href="http://F.LS">F.LS</a>.
+<div><p>Plant Folk Lore.— In conjunction with my friend Robert Holland I am collecting materials for a small volume on folk lore connected with plants. Any assistance will be gladly received by either of us. Mr. Holland’s address is Mobberley, Knutsford, Cheshire. James Britten, <a class="reference external" href="http://F.LS">F.LS</a>.
 Royal Herbarium, Kew, W.</p>
 </div></blockquote>
 <p>Even though the society was still little more than an idea, it didn’t stop contributors to <em>Notes and Queries</em> from wanting to settle the <em>detail</em> of its operations, such as this observation regarding the setting up of an <em>index</em>, in the August 12th, 1876, issue, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1876-08-12_6_137/page/136/mode/2up">Vol 6 Iss 137; 5th. S. vi. p137-8</a>:</p>
@@ -555,7 +593,7 @@ H. Fishwick, F.S.A.</p>
 <p>“The folk-lore of Australia is being investigated by the Adelaide Government, and circulars containing a hundred questions on the subject, framed by the Rev. G. Taplin, have been sent round throughout the colonies. Replies have been received from twenty-six persons, and the result of the inquiries is shortly to be published. The late Dr. Bleek, who had devoted so much of his time to the legends of South Africa, was he first to suggest this investigation to the Government.” <em>Graphic</em>, Dec. 30, 1876.
 St. Swithin</p>
 </div></blockquote>
-<p>Well over a year on from the original note rgarding the foundation of a folk-lore society, and several months since St Swithin’s “see what the AUstralian’s are doing” prompt, a reply appeared in the issue of May 12th, 1877, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1877-05-12_7_176/page/374/mode/2up">Vol 7 Iss 176 p375</a>, wondering if the issue was still an open one:</p>
+<p>Well over a year on from the original note regarding the foundation of a folk-lore society, and several months since St Swithin’s “see what the AUstralian’s are doing” prompt, a reply appeared in the issue of May 12th, 1877, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1877-05-12_7_176/page/374/mode/2up">Vol 7 Iss 176 p375</a>, wondering if the issue was still an open one:</p>
 <blockquote>
 <div><p>A Folk-Lore Society (5th S. v. 124, 294, 457; vi. 12, 37, 90, 137, 198; vii. 77.)— May I ask if any action is being taken in this matter? There can be little doubt, I fancy, but that, were it generally known such a society was in process of formation, many would be anxious to join it. There is such obvious need for it, that there can be surely only one opinion as to its success. I sincerely trust the hope of founding the Folk-Lore Society has not been abandoned.
 William George Black</p>
@@ -580,7 +618,7 @@ Glasgow.</p>
 </div></blockquote>
 <section id="progress-at-last">
 <h2>Progress At Last<a class="headerlink" href="#progress-at-last" title="Link to this heading">#</a></h2>
-<p>The silence was finally broken in the December 1st, 1877, issue, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1877-12-01_8_205">Vol 8 Iss 205 p421</a> with a response from William Thoms, originator of the phrase “folk-lore” and founding, and longtime editor, of <em>Notes and Queries</em>, revealing himself as the person behind the pseudonum <em>An Old Folk-Lorist</em>.</p>
+<p>The silence was finally broken in the December 1st, 1877, issue, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1877-12-01_8_205">Vol 8 Iss 205 p421</a> with a response from William Thoms, originator of the phrase “folk-lore” and founding, and longtime editor, of <em>Notes and Queries</em>, revealing himself as the person behind the pseudonym <em>An Old Folk-Lorist</em>.</p>
 <blockquote>
 <div><p>A FOLK-LORE SOCIETY.</p>
 <p>Those only who know the fascination which the subject of popular antiquities, superstitions, and traditions has had for me from the time I read Sir Francis Palgrave’s learned and amusing articles upon it in the Quarterly Review, and Sir Walter Scott’s charming essay on fairy mythology, in his <em>Minstrelsy of the Scottish Border</em>, more than fifty years ago, can understand the pleasure with which I read, in “N. &amp; Q.” of Feb. 12, 1876, St. Swithin’s happy suggestion of a folk-lore society. From causes with which it would be an impertinence to trouble your readers, I was unable to do more than wish the proposal God-speed, which I did in “N. &amp; Q.” of July 1 following, in a short paper signed An Old Folk-Lorist, which contained sufficient indications as to who the writer was; at all events I believe, from the manner in which St. Swithin (vi. 91) paid me the compliment of suggesting I should play grandfather to the bantling of my own offspring, “N. &amp; Q.,” that there was at least one who recognized me.</p>
@@ -601,7 +639,7 @@ July, 1876, and the other by H. Fishwick in September 1876, still seem to be pro
 </div></blockquote>
 <p>He explains his concerns as follows. First, with reference to the headquartering of the society in London:</p>
 <blockquote>
-<div><p>I insist on the first point because the Folk-Lore Society must not only have a local habitation and a name, but that habitation must be central and permanent. For, unlike the printing societies, the books of which are circuleted and dispersed, the few remainders being stored at the printers’, the Folk-Lore Society will be a society to collect and store a vast amount of curious, out-of-the-way, old-wives’ lore. One of its most important duties will be to gather in the various local journals which indulge in folk-lore columns, and to mount and preserve those columns for future use. I will not now stop to suggest the very simple mode in which I think this may be accomplished.</p>
+<div><p>I insist on the first point because the Folk-Lore Society must not only have a local habitation and a name, but that habitation must be central and permanent. For, unlike the printing societies, the books of which are circulated and dispersed, the few remainders being stored at the printers’, the Folk-Lore Society will be a society to collect and store a vast amount of curious, out-of-the-way, old-wives’ lore. One of its most important duties will be to gather in the various local journals which indulge in folk-lore columns, and to mount and preserve those columns for future use. I will not now stop to suggest the very simple mode in which I think this may be accomplished.</p>
 <p>Do not let it be supposed, from my insisting on London as a centre, that I undervalue the importance of local co-operation. How much the success of the Camden Society was owing to the introduction of local secretaries (which, if I remember rightly, arose from a suggestion of Dr. Bliss, who became local secretary for Oxford) a glance at the first annual list of members would show; while the Society of Antiquaries, which some years afterwards followed the example of the Camden Society, has now upwards of seventy gentlemen, many of the highest rank, who act as local secretaries to that learned body.</p>
 </div></blockquote>
 <p>Secondly, as far as the subscription fee goes:</p>
@@ -637,14 +675,14 @@ July, 1876, and the other by H. Fishwick in September 1876, still seem to be pro
 <p>Thoms’ call for responses of interest in joining seems to have met with success, with the announcement that a prospectus will be issued formally proposing the society in the January 12th, 1878 issue, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1878-01-12_9_211/page/n17/mode/2up">Vol 9 Iss 211 p39</a>:</p>
 <blockquote>
 <div><p>The Folk-Lore Society.</p>
-<p>The published prospectus of the Folk-Lore Society will show that the suggestion first made in “N. &amp; Q.” has at length been carried out by the formation of a society having for its object the collecting and printing the fast fading relics of our popular fictions and traditions, legedary ballads, local proverbial sayings, old customs and superstitions. It is intended to include in the field of the society’s labours the folk-lore of aboriginal people. But the extent of the society’s operations must of course be in proportion to the amount of support which it receives. In oder, however, to carry out one important portion of its work, it is necessary to ask the many country readers of “N. &amp; Q.” to forward me the names of any local journals in their neighbourhood which have a folk-lore column. It is essential that as complete a list as possible should be obtained. G. Laurence Gomme, Hon. Sec.
+<p>The published prospectus of the Folk-Lore Society will show that the suggestion first made in “N. &amp; Q.” has at length been carried out by the formation of a society having for its object the collecting and printing the fast fading relics of our popular fictions and traditions, legendary ballads, local proverbial sayings, old customs and superstitions. It is intended to include in the field of the society’s labours the folk-lore of aboriginal people. But the extent of the society’s operations must of course be in proportion to the amount of support which it receives. In oder, however, to carry out one important portion of its work, it is necessary to ask the many country readers of “N. &amp; Q.” to forward me the names of any local journals in their neighbourhood which have a folk-lore column. It is essential that as complete a list as possible should be obtained. G. Laurence Gomme, Hon. Sec.
 Castelnau, Barnes.</p>
 </div></blockquote>
 <p>The news that the Folk-Lore Society prospectus was to be released was noteworthy enough for the fact to be mentioned in several other publications.</p>
 <p>For example, in the <em>Graphic</em> dated <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000057/18771208/008/0007">Saturday, December 8th, 1877, p7</a>, the following article appeared:</p>
 <blockquote>
 <div><p>Scraps</p>
-<p>A FOLK-LORE SOCIETY, the formation of which has been under discussion for some time past in Notes and Queries, is now definitely proposed by Mr. William J. Thoms, who suggests the following points as a basis. – That the headquarters of the Society must be in London, and that there should be a yearly subscription of 1l. 1s. Regarding the first suggestion, Mr. Thoms writes: “I insist on this because the Folk Lore Society must not only have a local habitation and a name, but that habitation must be central and permanent,” and as to the second he very naturally says that from the very motives of the Society the incidental expenses will be large, apart from the paper and printing; and paper and print are luxuries which must be paid for. Mr. Thoms proposes that one of the duties of the Society will be to gather in the various local journals which indulge in folk-lore columns, and to mount and preserve these columns for future use, and, next to gathering together the relics of our folk-lore, the collecting of analogous folk-lore of other countries. The more important items of their researches would be published in an annual volume. Mr. G. Laurence Gomme, whose name is familiar to readers of Notes and Queuries, has consented to act as Honorary Searetary, and any lady or gentleman (for, remarks Mr. Thom, the Folk-Lore Society is one which may be greatly promoted by ladies) who may be disposed, is requested to communicate his other intentions to that gentleman, at 26, Merthyr Terrace, Castelnau, Barnes, S. W.</p>
+<p>A FOLK-LORE SOCIETY, the formation of which has been under discussion for some time past in Notes and Queries, is now definitely proposed by Mr. William J. Thoms, who suggests the following points as a basis. – That the headquarters of the Society must be in London, and that there should be a yearly subscription of 1l. 1s. Regarding the first suggestion, Mr. Thoms writes: “I insist on this because the Folk Lore Society must not only have a local habitation and a name, but that habitation must be central and permanent,” and as to the second he very naturally says that from the very motives of the Society the incidental expenses will be large, apart from the paper and printing; and paper and print are luxuries which must be paid for. Mr. Thoms proposes that one of the duties of the Society will be to gather in the various local journals which indulge in folk-lore columns, and to mount and preserve these columns for future use, and, next to gathering together the relics of our folk-lore, the collecting of analogous folk-lore of other countries. The more important items of their researches would be published in an annual volume. Mr. G. Laurence Gomme, whose name is familiar to readers of Notes and Queries, has consented to act as Honorary Secretary, and any lady or gentleman (for, remarks Mr. Thom, the Folk-Lore Society is one which may be greatly promoted by ladies) who may be disposed, is requested to communicate his other intentions to that gentleman, at 26, Merthyr Terrace, Castelnau, Barnes, S. W.</p>
 </div></blockquote>
 <p>On the same date, the <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18771208/081/0018"><em>Illustrated London News</em></a> was also supportive, on p18:</p>
 <blockquote>
@@ -871,15 +909,17 @@ BANKERS.— UNION BANK OF LONDON, CHARING CROSS BRANCH.</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#progress-at-last">Progress At Last</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-prospectus-of-the-folk-lore-society">The Prospectus of the Folk-Lore Society</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-society-is-formed">The Society is Formed</a></li>
@@ -932,8 +972,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

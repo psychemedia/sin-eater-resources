@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_second_controversy_pt_ii';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_second_controversy_pt_ii.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Second Controversy, Feb-April, 1896, Part III" href="_second_controversy_pt_iii.html" />
     <link rel="prev" title="Interlude – “The Sin-Eater”, Fiona Macleod" href="_sin_eater_story_macleod.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-first-letter-to-the-academy-october-november-1895-the-positive-evidence">Hartland’s First Letter to The Academy, October-November, 1895: The Positive Evidence</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-second-letter-to-the-academy-october-november-1895-the-negative-evidence">Hartland’s Second Letter to The Academy, October-November, 1895: The Negative Evidence</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-third-letter-to-the-academy-november-1895-the-lack-of-mentions-in-welsh-literature">Hartland’s Third Letter to The Academy, November, 1895: The Lack of Mentions in Welsh Literature</a></li>
@@ -401,7 +439,7 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="second-controversy-1895-6-part-ii">
 <h1>Second Controversy, 1895-6, Part II<a class="headerlink" href="#second-controversy-1895-6-part-ii" title="Link to this heading">#</a></h1>
-<p>With the editor of <em>The Times</em> apparently tiring of the sin-eater correspondence  by the end of October, it was perhaps “fortunate” that Mr Hartland had written to <em>The Academy</em> on October 14th, 1895, since it meant that when the letter appeared in edition dated <a class="reference external" href="https://archive.org/details/sim_academy-and-literature_1895-11-09_48_1227/page/386/mode/2up?q=sin">November 11th, 1895</a>, p387-8, it would keep the debate alive.</p>
+<p>With the editor of <em>The Times</em> apparently tiring of the sin-eater correspondence by the end of October, it was perhaps “fortunate” that Mr Hartland had written to <em>The Academy</em> on October 14th, 1895, since it meant that when the letter appeared in edition dated <a class="reference external" href="https://archive.org/details/sim_academy-and-literature_1895-11-09_48_1227/page/386/mode/2up?q=sin">November 11th, 1895</a>, p387-8, it would keep the debate alive.</p>
 <p>As we are essentially looking back at Hartland’s understanding of the matter from mid-October, there is an element of going back over ground already covered in the <em>Times</em> correspondence.</p>
 <div class="highlight-{index}! notranslate"><div class="highlight"><pre><span></span>
 </pre></div>
@@ -440,7 +478,7 @@ document.write(`
 <blockquote>
 <div><p>A little lower down he adds:</p>
 <p>“This Custome (though rarely used in our dayes) yet by some people was observed even in the strictest time of ye Presbyterian goverment: as at Dynder, volens nolens the Parson of ye Parish, the relations of a woman deceased there had this Ceremonie punctually performed according to her will: and also the like was donne at ye City of Hereford in these times, when a woman kept many yeares before her death a Mazard-bowle for the sinne-eater; and the like in other places in this Countis: as also in Brecon, e.g. at Lllangors, where Mr. Gwin the minister could no hinder ye performing of this ancient custome.”</p>
-<p>Aubrey does not, indeed, profess to have himself witnessed these  instances of the ceremony. If we depended entirely for evidence of events and customs on the affidavits of eye-witnesses, we should introduce a canon of evidence unknown to historical investigation, and should reject much that no reasonable man can doubt.</p>
+<p>Aubrey does not, indeed, profess to have himself witnessed these instances of the ceremony. If we depended entirely for evidence of events and customs on the affidavits of eye-witnesses, we should introduce a canon of evidence unknown to historical investigation, and should reject much that no reasonable man can doubt.</p>
 </div></blockquote>
 <p>Hartland then argues, as he has before, that the tradition is well established, and traces of it are spread widely:</p>
 <blockquote>
@@ -623,9 +661,9 @@ document.write(`
 <p>At this point, it’s not hard to imagine Hartland pacing around his office, gesticulating enthusiastically, and pronouncing to an imaginary jury…</p>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">E. Sidney Hartland, Thwarted Barrister?</p>
-<p>In passing, I note a notice in <em>The Times</em> of Monday,  August 12th, 1878, p14, that suggests that Mr Hartland was at one time a lawyer in the province:</p>
+<p>In passing, I note a notice in <em>The Times</em> of Monday, August 12th, 1878, p14, that suggests that Mr Hartland was at one time a lawyer in the province:</p>
 <blockquote>
-<div><p>PURSUANT to an Order of the High Court of Justice, Chancery Division, made in an Action in the Matter of the Estate of William Harris Roberts deceased Williams and others against Davies and another 1878, R. 83 The CREDITORS of WILLIAM HARRIS ROBERTS late of 21 Singleton Terrace, Swansea in the county of Glamorgan. Gentleman, who died in or about the month of July 1875 are on or before the first day of October 1878 to send by post Prepaid to Mr. Edwin Sidney Hartland of Swansea, aforesaid a member of the firm of Hartland Davies and Isaac the Solicitors of the Defendants Thomas Davies and David Shepherd the executors of the said Willam Harris Roberts deceased their Christian and Surnames, addresses and descriptions; the full particulars of their Claims; a statement of their Accounts and the nature of the Securities, (if any) held by them; Or in default thereof they will be peremptorily excluded from the benefit of the said order. Every Creditor holding any security is to produce the same before the Master of  the Rolls at his Chambers situated in the Rolls Yard, Chancery Lane, Middlesex, on Monday the 28th day of October 1878, at 11 o’clock in the forenoon being the time appointed for adjudicating on the claims. — Dated this 24th day of July, 1878.</p>
+<div><p>PURSUANT to an Order of the High Court of Justice, Chancery Division, made in an Action in the Matter of the Estate of William Harris Roberts deceased Williams and others against Davies and another 1878, R. 83 The CREDITORS of WILLIAM HARRIS ROBERTS late of 21 Singleton Terrace, Swansea in the county of Glamorgan. Gentleman, who died in or about the month of July 1875 are on or before the first day of October 1878 to send by post Prepaid to Mr. Edwin Sidney Hartland of Swansea, aforesaid a member of the firm of Hartland Davies and Isaac the Solicitors of the Defendants Thomas Davies and David Shepherd the executors of the said Willam Harris Roberts deceased their Christian and Surnames, addresses and descriptions; the full particulars of their Claims; a statement of their Accounts and the nature of the Securities, (if any) held by them; Or in default thereof they will be peremptorily excluded from the benefit of the said order. Every Creditor holding any security is to produce the same before the Master of the Rolls at his Chambers situated in the Rolls Yard, Chancery Lane, Middlesex, on Monday the 28th day of October 1878, at 11 o’clock in the forenoon being the time appointed for adjudicating on the claims. — Dated this 24th day of July, 1878.</p>
 <p>DAWSON BRYAN &amp; DAWSON 10 Hart Street Bloomsbury Square W. C. Middlesex</p>
 </div></blockquote>
 </div>
@@ -808,7 +846,9 @@ She steals them all for fire-brands!”</p>
 <blockquote>
 <div><p>The simplest explanation of burning the straw-bed seems to be fear of infection. The home of the famous medical family, <em>Meddygon Myddfai</em>, was not far from that part of Breconshire, and some of their lore was widely spread by tradition. Another quotation from Theophilus Jones may afford Mr. Hartland more satisfaction :</p>
 <p>“It is said that formerly the articles of consumption esteemed as the greatest luxuries in the Principality were—</p>
-<p>‘A toasted Welsh rabbit  And a Sais off the gibbet.  (<em>Ibid</em>, p. 281.)”</p>
+<p>‘A toasted Welsh rabbit
+And a Sais off the gibbet.
+(<em>Ibid</em>, p. 281.)”</p>
 <p>In a footnote he adds: “Here is an opportunity for a triumph against the Celt, as Mr. Pinkerton may argue that the Welsh were not only savages but cannibals.”</p>
 </div></blockquote>
 <p>Owen picks up on the lack of descriptions of Welsh funeral customs providing a couple of references, one of which is not available to him (Mary Curtis’ <em>Antiquities of Laugharne, Pendine</em> from 1880), but one which is, and which is also a new addition to our trail:</p>
@@ -846,11 +886,15 @@ She steals them all for fire-brands!”</p>
 <p>Nothing has struck me so much in Mr. Hartland’s treatment of this question as his absolute ignoring of Christian rites. He quotes [presumably in Perseus?] an account of a funeral custom in Eastern Europe, but he appears to have no notion that every part of the ceremony described can be accounted for by the practice of the Orthodox Church. An account is given of another burial custom in Bavaria, but there are no traces of an inquiry into the history of Catholic rites in that part of the world. Like Wamba’s <em>pax vobiscum</em>, “Celtic” blood is the key to it all. It is the same in England. Is there a peculiar funeral custom in Derbyshire? Oh, “the population is probably still to a great extent of Celtic ancestry.” When we come to Herefordshire and Shropshire, why, we are there right in the Welsh March, which must be saturated with Celticism.</p>
 </div></blockquote>
 <div class="dropdown admonition">
-<p class="admonition-title">Owen’s on the early Church an accommodation of pagan practices  in England and Wales</p>
+<p class="admonition-title">Owen’s on the early Church an accommodation of pagan practices in England and Wales</p>
 <blockquote>
 <div><p>I need not point out that the Early England of that border was, like the rest of England, a pagan country, from which the native Christian population had been scattered in flight to the hills beyond Severn and Wye. Ecclesiastical authorities, both Roman and Anglican, freely acknowledged that heathen customs have always been admitted, within certain limits, into the Christian Church. But so far as I can make out, Mr. Hartland has not set himself the task of tracing the Christian doctrines of atonement, transubstantiation, purgatory, and so on, back to savage origins. It is not the elements of heathenism in Christianity, but the survivals of heathen beliefs and rites in Christian lands outside the church, that he has been looking for. Now the Welsh border is, I admit, a very promising field for such an investigation. Just at that point the “wedge of heathendom,” as Green calls it, which had been thrust into the heart of Western Christianity, and had divided it into two unequal parts, was not converted quite so easily as it was further east. Even after the conversion of the pagan English, the innate conservatism of the race would of itself, without other evidence, lead one to expect that many heathen customs would long hold their own in England, in spite of bell, book, and candle. But there is no need to depend on <em>a priori</em> reasoning. Direct evidence exists in abundance. In the volume of <em>Anecdotes and Traditions</em> edited for the Camden Society by W. J. Thoms there are numerous extracts from Aubrey’s <em>Remaines</em>, including the well-known ballad formerly used at Yorkshire funerals.</p>
 <p>On the stanza —</p>
-<p>“From Brig of Dread that thou mayest pass  <em>Na brader than a thread</em>,  Every night and awle,  To Purgatory fire thou com’st at last,  And Christ receive thy sawle—”</p>
+<p>“From Brig of Dread that thou mayest pass
+<em>Na brader than a thread</em>,
+Every night and awle,
+To Purgatory fire thou com’st at last,
+And Christ receive thy sawle—”</p>
 <p>Thoms has a very interesting note, and a reference to Grimm’s <em>Deutsche Mythologie</em>, xxi. In fact, he was content to look, in the first place, to Teutonic sources for the ancestry of English beliefs and customs. That was, of course, long before the promulgation of Matthew Arnold’s somewhat extravagant theory of the Celtic spirit in English literature. After the spirit, we naturally come to the body; and now we find that at every funeral ceremony, from the Black Sea to the Black Mountain of Wales,</p>
 <p>“The trail of the Celt is over them all.”</p>
 <p>But further, there is the unimpeachable evidence of the laws and canons of the Anglo-Saxon Church. From the days of Wihired of Kent to those of the Norman Conquest we find, for example, references to “diviners and sooth-sayers,” “offering to devils,” “lyblac,” [<em>Lyb-maleficium, la e-donum</em>] “lustrations of pagan rites, worshipping idols or heathen gods, the sun, the moon, the fire, [Of. what Mr. Elton (<em>Origins of English History</em>) says of the ceremony of passing the “funeral-ale” cup through the fire], rivers, fountains, the elder tree,” “the practice of witchcraft,” and “exorcism.”</p>
@@ -873,7 +917,7 @@ She steals them all for fire-brands!”</p>
 <div><p>“A probable good often becomes an experienced evil, and then an alteration is allowable. It is a devout custom of the faithful to observe night-watches in behalf of the dead before their burial, and to do it sometimes in private houses, to the intent that the faithful there meeting together and watching might devoutly intercede for them with God; but by the arts of Satan this wholesome practice of the ancients is turned into buffoonry and filthy revels; prayers are neglected, and these watchings are become rendezvous for adulteries, fornications, thefts, and other misdoings; as a remedy for so rife a disease, we ordain that when ecclesiastical men have performed the memories (<em>exsequiae</em>) of the dead, none for the future be admitted to the accustomed night-watches at private houses, where dead corpses often remain till their burial, the relations and such as say psalters for the dead only excepted, under pain of the greater ex-communication….”</p>
 <p>Of the eleven “comprovincial bishops” present at the publication of this Constitution in St. Paul’s, only one was from Wales — namely, David, Bishop of Bangor. “There is superstition,” says Bacon, “in avoiding superstition, when men thinke to doe best, if they goe furthest from the superstition formerly received.” Our own Reformation affords some notable examples of this.</p>
 <p>“In the time of popery,” says Latimer (<em>Works</em>, i. 547, Parker Society), “before the Gospel came amongst us, we went to burials with weeping and wailing as though there were no God: but since the Gospel came unto us, I have heard say that in some places they go with the corses grinning and flearing, as though they went to a bear-baiting, which thing no doubt is nought.”</p>
-<p>From Mr. Edward Peacock’’s notes to his edition of John Myre’s “Instructions to the Clergy* (E.E.T.S.) I take the following :</p>
+<p>From Mr. Edward Peacock’s notes to his edition of John Myre’s “Instructions to the Clergy* (E.E.T.S.) I take the following :</p>
 <p>“Chrismatories and fonts were ordered to be kept securely locked, for fear that weak or evil-disposed persons should steal the holy oils or consecrated wafer for magical purposes.” “It was customary in early times for the receivers to carry home the <em>panis benedictus</em>. It was said that in the fifteenth century some people used to employ it as a charm, and on that account carry it about their persons.” “The holy bread, the holy loaf, or <em>eulogia</em>, was ordinary leavened bread cut into small pieces, blessed, and given to the people after mass was over.”</p>
 </div></blockquote>
 <p>From a storytelling point of view, we get some interesting colour regarding what various sorts of drinking bowl, as used in the Church, looked like, but it is not hard to imagine Mr Hartland reading the letter and wondering “just what is your point?!”</p>
@@ -1118,15 +1162,17 @@ And it is nothing more! “</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-first-letter-to-the-academy-october-november-1895-the-positive-evidence">Hartland’s First Letter to The Academy, October-November, 1895: The Positive Evidence</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-second-letter-to-the-academy-october-november-1895-the-negative-evidence">Hartland’s Second Letter to The Academy, October-November, 1895: The Negative Evidence</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#hartland-s-third-letter-to-the-academy-november-1895-the-lack-of-mentions-in-welsh-literature">Hartland’s Third Letter to The Academy, November, 1895: The Lack of Mentions in Welsh Literature</a></li>
@@ -1184,8 +1230,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

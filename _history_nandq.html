@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_history_nandq';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_history_nandq.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Souling and Soul-Cake" href="_souling_and_soul_cake.html" />
     <link rel="prev" title="William Thoms and The Origins of “Folk-Lore”" href="_origin-phrase-folk-lore.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notes-and-queries-is-announced">Notes and Queries is Announced</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-early-issues">The Early Issues</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-second-volume">The Second Volume</a></li>
@@ -527,10 +565,10 @@ document.write(`
 <blockquote>
 <div><p>All these, and many other expressions of sympathy and promises of support, poured in upon us within a few hours after our birth. No one of them shall be forgotten; and if for a time our pages seem to indicate that we have made a Query as to the adoption of any suggestion, let our kind contributors be assured that there is no hint which reaches us, whether at present practicable or not, that we do not seriously and thankfully “make a Note of.”</p>
 </div></blockquote>
-<p>In the third issue, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1849-11-17_1_3/page/46/mode/2up">Vol 1 Iss 3</a>, the <em>Notices to Correspondents</em> column,  p46, continued to provide a channel for discussing possible improvements:</p>
+<p>In the third issue, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1849-11-17_1_3/page/46/mode/2up">Vol 1 Iss 3</a>, the <em>Notices to Correspondents</em> column, p46, continued to provide a channel for discussing possible improvements:</p>
 <blockquote>
 <div><p>Contents and Index
-Our correspondents will see that their wish for a Table of Contents to each number has been complied with. We are fully aware how much the value of a work like  “Notes and Queries” is enhanced by a good Index. It is intended to give a very copious one at the end of each volume, so as to make the work one not merely of temporary interest, but of permanent utility.</p>
+Our correspondents will see that their wish for a Table of Contents to each number has been complied with. We are fully aware how much the value of a work like “Notes and Queries” is enhanced by a good Index. It is intended to give a very copious one at the end of each volume, so as to make the work one not merely of temporary interest, but of permanent utility.</p>
 </div></blockquote>
 <p>Some difficulties in the availaibilty of <em>Notes and Queries</em> were also acknowledged:</p>
 <p>We have received many complaints of a difficulty in procuring our paper. Every Bookseller and Newsvender will supply it if ordered, and gentlemen residing in the country may be supplied regularly with the Stamped Edition by giving their orders direct to the publisher, Mr. Grorce Bett, 136. Fleet Street, accompanied by a Post Office order for a quarter (4s, 4d.). All communications should be addressed to the Editor of “Notes and Queries,” 186. Fleet Street.</p>
@@ -637,14 +675,14 @@ So hallow’d and so gracious is the time,”</p>
 <p>The editor took the opportunity of such a milestone to reflect on the journey so far:</p>
 <blockquote>
 <div><p>OUR SECOND VOLUME.</p>
-<p>We cannot resist the opportunity which the commencement of our Second Volume affords us, of addressing a few words of acknowledgement to our friends, both contributors and readers. In the short space of seven months, we have been enabled by their support to win for “Notes and Queries” no unimportant position among the literary journals of this country. We came forward for the purpose of affording the literary brotherhood of this great nation an organ through  which they might announce their difficulties and requirements, through which such difficulties might find solution, and such requirements be supplied. The little band of kind friends who first rallied round us has been reinforced by a host of earnest men, who, at once recognising the utility of our purpose, and seeing in our growing prosperity how much love of letters existed among us, have joined us heart and hand in the great object we proposed to ourselves in our Prospectus; namely, that of making “NOTES AND QUERIES” by mutual intercommunication, “a most useful supplement to works already in existence—a treasury for enriching future editions of them — and an important contribution towards a more perfect history than we yet possess of our language, our literature, and those to whom we owe them.”</p>
+<p>We cannot resist the opportunity which the commencement of our Second Volume affords us, of addressing a few words of acknowledgement to our friends, both contributors and readers. In the short space of seven months, we have been enabled by their support to win for “Notes and Queries” no unimportant position among the literary journals of this country. We came forward for the purpose of affording the literary brotherhood of this great nation an organ through which they might announce their difficulties and requirements, through which such difficulties might find solution, and such requirements be supplied. The little band of kind friends who first rallied round us has been reinforced by a host of earnest men, who, at once recognising the utility of our purpose, and seeing in our growing prosperity how much love of letters existed among us, have joined us heart and hand in the great object we proposed to ourselves in our Prospectus; namely, that of making “NOTES AND QUERIES” by mutual intercommunication, “a most useful supplement to works already in existence—a treasury for enriching future editions of them — and an important contribution towards a more perfect history than we yet possess of our language, our literature, and those to whom we owe them.”</p>
 <p>Thanks, again and again, to the friends and correspondents, who, by their labours, are enabling us to accomplish this great end. To them be the honour of the work. We are content to say with the Arabian poet:</p>
 <p>“With conscious pride we view the band<br />
 Of faithful friends that round us stand;<br />
 With pride exult, that we alone<br />
 Can join these scattered gems in one;<br />
 Rejoiced to be the silken line<br />
-On which these pearls united shine. “</p>
+On which these pearls united shine.”</p>
 </div></blockquote>
 </section>
 <section id="precursors-to-notes-and-queries">
@@ -683,7 +721,7 @@ Corkscrew.</p>
 <p>A few months later, and the first anniversary issue, on October 26th, 1850, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1850-10-26_2_52/mode/2up">Vol 2 Iss 52, p353-4</a> provided another opportunity for reflection:</p>
 <blockquote>
 <div><p>ADDRESS TO OUR FRIENDS.</p>
-<p>WE this day publish our fifty-second Number. Every Saturday, for twelve months, have we presented to our subscribers our weekly budget of “Notes,” “Queries,” and “Replies;” in so doing, we trust, we have accomplished some important ends. We have both amused and instructed the general reader;  we have stored up much curious knowledge for the use of future writers; we have procured for scholars now engaged in works of learning and research many valuable pieces of information which had evaded their own immediate pursuit; and, lastly, in doing all this, we have powerfully helped forward the great cause of literary truth.</p>
+<p>WE this day publish our fifty-second Number. Every Saturday, for twelve months, have we presented to our subscribers our weekly budget of “Notes,” “Queries,” and “Replies;” in so doing, we trust, we have accomplished some important ends. We have both amused and instructed the general reader; we have stored up much curious knowledge for the use of future writers; we have procured for scholars now engaged in works of learning and research many valuable pieces of information which had evaded their own immediate pursuit; and, lastly, in doing all this, we have powerfully helped forward the great cause of literary truth.</p>
 </div></blockquote>
 <p>Thoms recalls that the intention was to let <em>Notes and Queries</em> speak for itself in terms of what it was, rather than try to define it:</p>
 <blockquote>
@@ -695,7 +733,7 @@ Corkscrew.</p>
 </div></blockquote>
 <p>The remarks end with a vote of thanks:</p>
 <blockquote>
-<div><p>At the end of our first twelvemonth we thank our subscribers for the patronage we have received. We trust we shall go on week by week improving in our work of usefulness, so that at the end of the next twelvemonth me may meet them with the same pleasure as on the present occasion. We will continue to do whatsoever is in our power, and we rely upon our  friends to help us.</p>
+<div><p>At the end of our first twelvemonth we thank our subscribers for the patronage we have received. We trust we shall go on week by week improving in our work of usefulness, so that at the end of the next twelvemonth me may meet them with the same pleasure as on the present occasion. We will continue to do whatsoever is in our power, and we rely upon our friends to help us.</p>
 </div></blockquote>
 </section>
 <section id="a-dutch-version-of-notes-and-queries">
@@ -783,7 +821,7 @@ The Directors or “De Navorscher.” Amsterdam, the 16th of December, 1850.</p>
 <p>Towards the end of 1856, in <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1856-11-15_2_46/page/382/mode/2up">Series 2, Vol 2 Iss 46</a>, at the close of their note on “CHURCHING PLACE”, p382, one correspondent saw fit to call for the full naming of correspondents who submitted notes,:</p>
 <blockquote>
 <div><p>…
-I would suggest that “N. &amp; Q.” would have great additional value, if the contributors of Notes (Queries do not signify) would give their names. In a late Number (p. 333.) some most curious books are referred to, as “in my possession,” and the writer signs by initials. How much better if he gave his name. And information, with the name of a good antiquary attached to it, can be quoted in other works, as “it is stated by Mr. Greaves,” or “Mr. Bernhard Smith,” and the like.  F. A. Carrington</p>
+I would suggest that “N. &amp; Q.” would have great additional value, if the contributors of Notes (Queries do not signify) would give their names. In a late Number (p. 333.) some most curious books are referred to, as “in my possession,” and the writer signs by initials. How much better if he gave his name. And information, with the name of a good antiquary attached to it, can be quoted in other works, as “it is stated by Mr. Greaves,” or “Mr. Bernhard Smith,” and the like. F. A. Carrington</p>
 </div></blockquote>
 <p>This prompted a reply in the issue of three weeks later, <a class="reference external" href="https://archive.org/details/sim_notes-and-queries_1856-12-06_2_49/page/456/mode/2up">Series 2, Vol 2 Iss 49</a>, p457:</p>
 <blockquote>
@@ -841,7 +879,7 @@ Recoveringy and mis-stated setting right.</p>
 </div></blockquote>
 <p><em>It is perhaps worth noting that this “reciprocating’ support might also work to support research in local museums and archives, as well as other forms of “local fieldwork”.</em></p>
 <p>Unfortunately, a related call-to-action does not appear to be forthcoming in that same issue, nor the following one.</p>
-<p>Elsewhere, contributors to <em>Notes and Queries</em> were trying to encourage other publications to offer <em>Notes and Queries</em> style  services, as for example described in this note of November 3rd, 1860, [S. 2, Vol 10 Iss 253, p345]:</p>
+<p>Elsewhere, contributors to <em>Notes and Queries</em> were trying to encourage other publications to offer <em>Notes and Queries</em> style services, as for example described in this note of November 3rd, 1860, [S. 2, Vol 10 Iss 253, p345]:</p>
 <blockquote>
 <div><p>Levant Notes anp Queries.— With a view to promote the investigation of the various branche of archeology, ethnology, folk lore, &amp;c. in the Levant, I have prevailed on the editor of the Levant <em>Quarterly Review</em> to imitate “N. &amp; Q.” by instituting L. Q. R. N.&amp; Q. I trust this step may be useful,: such of your readers as are interested in Levant inquiries. Hyde Clarke. Constantinople, Oct.</p>
 </div></blockquote>
@@ -1004,7 +1042,7 @@ Making our commerce and revenue glorious.”</p>
 <p>The STORY OF “NOTES AND QUERIES”
 (Cont S. vi. 222)</p>
 <p>Every week added new and distinguished names to the list of avowed contributors, while others no less able preferred to identify their communications by pseudonyms or initials only. Thus, in the fourth number, appeared articles from the pens of Mr. Edward Hawkins, Mr. Singer, and the Rev. Mackenzie Walcott.</p>
-<p>It was my privilege to be acquainted so many years with the learned, frank, outspoken, and straightforward Keeper of the Antiquities in the British Museum, who possessed a great variety of information on matters totally distinct from the department over which he presided with som much advantage. For instance, no man in England had so thorough an acquaintance with the history of caricature in this country; and his collection of the works of our caricaturists was the most complete that had ever been formed. Many a pleasant morning have I passed in examining that collection; and it was my good fortune on one occasion to discover the point of a small satirical print in his possession, which had baffled the inquiries not only of Mr. Hawkins himself,  but of the late Mr. John Wilson Croker and Lord Holland. The print I allude to is that described in the Third Series of “N. &amp; Q.”, vol. ii. p. 401, and vol, x. p. 323. My success in this respect led him to challenge me to make further inquiries of a similar character, when baffled in his endeavours to discover and make a note of the point of any caricature; for his collection was not only systematically catalogued, but carefully annotated, as all who had occasion to avail themselves of the liberality with which he placed his portfolios at the service of his literary friends will testify. Mr. Wright, in his <em>England Under the House of Hanover</em>, has paid a grateful tribute to Mr. Hawkins for the kindness with which he placed his large collections as his service.</p>
+<p>It was my privilege to be acquainted so many years with the learned, frank, outspoken, and straightforward Keeper of the Antiquities in the British Museum, who possessed a great variety of information on matters totally distinct from the department over which he presided with som much advantage. For instance, no man in England had so thorough an acquaintance with the history of caricature in this country; and his collection of the works of our caricaturists was the most complete that had ever been formed. Many a pleasant morning have I passed in examining that collection; and it was my good fortune on one occasion to discover the point of a small satirical print in his possession, which had baffled the inquiries not only of Mr. Hawkins himself, but of the late Mr. John Wilson Croker and Lord Holland. The print I allude to is that described in the Third Series of “N. &amp; Q.”, vol. ii. p. 401, and vol, x. p. 323. My success in this respect led him to challenge me to make further inquiries of a similar character, when baffled in his endeavours to discover and make a note of the point of any caricature; for his collection was not only systematically catalogued, but carefully annotated, as all who had occasion to avail themselves of the liberality with which he placed his portfolios at the service of his literary friends will testify. Mr. Wright, in his <em>England Under the House of Hanover</em>, has paid a grateful tribute to Mr. Hawkins for the kindness with which he placed his large collections as his service.</p>
 <p>Upon the death of Mr. Hawkins the Trustees of the British Museum became the purchasers of his caricatures, and I may here record an act of great liberality on the part of Mr. Hawkins’ representatives which deserves to be made known. ALl those who have paid any attention to this class of satirical works must have experienced the difficulty of arranging them in chronological order from the grossness and indecency by which many of them are disfigured, and are compelled, if they desire to make their collections complete, to keep separately the most objectionable ones. Mr Hawkins adopted this very proper course; a separate portfolio contained those caricatures which were most offensive, but many of which were among the most valuable (historically) in his collection. Some two or three years after it had been deposited in the Museum, I fancied I had found a clue to one of these objectionable caricatures relating to a distinguished personage and on my next visit to the British Museum visited Print Room for the purpose of ascertaining whether or not I was right. To my surprise the print was not to be found. Mr. Reid had never seen it, and it was not until he had referred to Mr. Hawkins’s MS. catalogue, and found it duly recorded there, that he was satisfied that I had seen it in Mr. Hawkins’s possession. Two or three other references to the catalogue for prints of a similar character soon established the fact that the portion of Mr. Hawkins’s collection to which they belonged had never reached the Museum. The fact was the portfolio containing them, having been kept separately from the rest, had been overlooked by the family, who, on being applied to, most handsomely handed it over to the Museum, although it had never been seen by the gentleman who valued the collection, and who must have added a considerable sum to the estimated value if it had been submitted to his inspection.</p>
 <p>The name of Samuel Weller Singer had for some years ceased to figure in literary journals, until Mr. Singer was induced to emerge from his pleasant library at Mickleham, and give the world, in “N. &amp; Q.,” some of the fruits of his long literary leisure; for, as he told me some weeks afterwards, when I met him at the publisher’s, “N. &amp; Q.” had served to call him into a new literary existence. Mr. Singer’s <em>History of Playing Cards</em>, and many carefully superintended and annotated editions of our older poets, had long before established his reputation as a scholar and an antiquary. But a glance at the titles of some thirty or forty various articles contributed by Mr. Singer to the first and second volumes — including, as they do, papers on curious points of Anglo-Saxon and early Teutonic literature, on Spanish literature, on Ulrich von Hutten and the <em>Epistolae Obscurorum Virorum</em>, on Early English writers, popular antiquities, and passages in Shakspeare that the writer’s learning was as accurate as it was varied, and proves how important an addition he was to the list of contributors. I had met him originally at Mr. Douce’s, but since the death of my old friend, whose fortune Mr. Singer inherited, I had never seen him, and it was a very agreeable surprise to me when I found I had been the means of securing to the public some of the results of his long and well-directed studies. I am inclined to believe that had it not been for the “N. &amp; Q.” the lovers of Shakspeare would never have seen Mr. Singer’s most valuable edition of their favourite poet.</p>
 <p>William J. Thoms.</p>
@@ -1021,8 +1059,8 @@ Making our commerce and revenue glorious.”</p>
 <p>Mentioning dear old George Cochrane reminds me that I owe to him my introduction to another valued friend to whom the readers of “N. &amp; Q.” have been greatly indebted: not only for many valuable articles, but for a suggestion which has given great and general satisfaction, namely, that of publishing at stated intervals those General Indexes which, in words once used to me by Lord Brougham, “double the value and utility of ‘N. &amp; Q.’” I allude to Mr. William Bernard MacCabe, the learned author of that very original and curiously interesting book <em>The Catholic History of England</em>, and who may justly be described, in a line which I have seen applied to one of his most eminent co-religionists, as</p>
 <p>“True to his faith, but not a slave of Rome.”</p>
 <p>I am sorry I do not see his name in “N. &amp; Q.” so frequently as I used to do.</p>
-<p>But I must get on, or my readers will anticipate that my story, like Carové’s more celebrated one, translated by Mrs. Austin, will prove to be <em>A Story without an End.</em> However I must run that risk, and here treating of thre contributors whose names first appeared in No. 5, bring, in another part, my old man’s gossip to an end with a few  similar notes on No. 6.</p>
-<p>The first of the new names which appeared in this number is that of Mr. Planché, whose well earned reputation as one of the most graceful and  sparkling of dramatic writers is only rivalled by that which he has won for himself as a learned antiquary and an accomplished herald; and who is now, as he has long been, the delight of society, which declares of him with great truth that age has not withered nor custom staled his infinite variety. Mr. Planche’s contribution was a very curious paper on “Ancient Tapestry.”</p>
+<p>But I must get on, or my readers will anticipate that my story, like Carové’s more celebrated one, translated by Mrs. Austin, will prove to be <em>A Story without an End.</em> However I must run that risk, and here treating of thre contributors whose names first appeared in No. 5, bring, in another part, my old man’s gossip to an end with a few similar notes on No. 6.</p>
+<p>The first of the new names which appeared in this number is that of Mr. Planché, whose well earned reputation as one of the most graceful and sparkling of dramatic writers is only rivalled by that which he has won for himself as a learned antiquary and an accomplished herald; and who is now, as he has long been, the delight of society, which declares of him with great truth that age has not withered nor custom staled his infinite variety. Mr. Planche’s contribution was a very curious paper on “Ancient Tapestry.”</p>
 <p>The name of the venerable John Britton, who did so much good work in his day for English archaeology and architecture, also graced my fifth number, to which he contributed a note showing that the date of birth of John Aubrey was the 12th of March, 1625-6, and not the 3rd of November, as had been stated by a former correspondent, who had noted that the birthday of “N, &amp; Q.” was appropriately that of the Wiltshire antiquary.</p>
 <p>It is my happy lot to be blessed with a contented disposition; and I can sit down to a dinner of herbs without losing my equanimity, though I can relish and enjoy—no one more so a well-served, round-table dinner of half-a-dozen intelligent men, of each of whom, as of Chaucer’s Oxford Scholar, it can be said “Full gladly would he learn and gladly teach.” I look upon such a meeting as one of the highest intellectual enjoyments. It was at such a feast of reason, at which I was present, about thirty years since, and which I shall never forget, that I made the acquaintance of him of whom I am about to speak. My host was that model of official accuracy and great master of his own peculiar branch of knowledge- my late excellent friend, Sir Charles Young, Garter. It took place in his official residence in the Heralds’ College, and the party consisted of Garter himself, Sir Thomas Duffus Hardy, the learned Deputy Keeper of the Public Records, my friend Bruce, a young friend of our host’s, and agentleman whom I then met for the first time. He was a Kentish clergyman, a ripe scholar, a profound antiquary, and a polished man of the world. On that night commenced an acquaintance between myself and the Rey. Lambert B. Larking (for he was the stranger in question), which soon grew into intimacy, and ripened into the warmest attachment, which ceased only with the death of one who seemed to win the affection of all with whom he came in contact. The affectionate regard in which he was held by his old friends and neighbours the late Earl of Abergavenny and his family, by Lord and Lady Falmouth, and by his friend the Marquess of Camden, who predeceased him only a few months, was shared by all the best people of his native county, to the history of which county he devoted every hour he could spare from his duties as a parish priest.</p>
 <p>What his labours had accomplished and with what skill they had been carried out may be seen in the brief but touching memoir of my old friend which Sir Thomas D. Hardy contributed to the <em>Archeologia Cantiana</em>, which is only rivalled by the eloquent testimony borne to his high personal character and rare attainments by Mr. Bruce in the preface to Manningham’s <em>Diary</em>, printed for the Camden Society. Not until after his death did his admirable edition of <em>The Domesday of Kent</em> make its appearance, and show those who did not know Lambert B. Larking what a loss Kent had sustained in the founder of the Kent Archaeological Society. His contribution to my fifth number was connected with the MSS. of Sir Roger Twysden, and although he was not a very frequent correspondent, “N. &amp; Q.” benefited greatly by the instructive private letters which I continually received from him.</p>
@@ -1092,7 +1130,7 @@ Recovering, and mis-stated setting right.</p>
 <p>“to reach the learning which lies scattered not only throughout every part of our own country, but all over the literary world, and to bring it all to bear upon the pursuits of the scholar; to enable, in short, men of letters all over the world to give a helping hand to one another.”</p>
 <p>And this end had, to a certain extent, been accomplished, “Our last number,” continues Mr. Thoms,</p>
 <p>“contains communications not only from all parts of the metropolis, and from almost every county in England, but also from Scotland, Ireland, Holland, and even from Demerara.”</p>
-<p>A further note of congratulation is added in “Our Hundredth Number,” when Mr. Thoms claims “the privilege of age to be garrulous.” He states that “during the hundred weeks our paper has existed we have received from Sweden, Denmark, Germany, Holland, Belgium, and France — from the United States — from India—from Australia —from the West Indies— from almost every one of our Colonies letters expressive of the pleasure which the writers many of them obviously scholars ‘ripe and good,’ though far removed from the busy world of letters), derive from the perusal of ‘ Notes and Queries.’ “</p>
+<p>A further note of congratulation is added in “Our Hundredth Number,” when Mr. Thoms claims “the privilege of age to be garrulous.” He states that “during the hundred weeks our paper has existed we have received from Sweden, Denmark, Germany, Holland, Belgium, and France — from the United States — from India—from Australia —from the West Indies— from almost every one of our Colonies letters expressive of the pleasure which the writers many of them obviously scholars ‘ripe and good,’ though far removed from the busy world of letters), derive from the perusal of ‘Notes and Queries.’”</p>
 <p>Mr. Thoms adds: “How many a pertinent Note, suggestive Query, and apt Reply have reached us from the same remote quarters!” Reference is also made to the good service rendered to men of letters here at home, as well as to a goodly list of works of learning and research, such as Cunningham’s ‘Hand book of London Past and Present,’ “published when we had been but a few months in existence, down to Wycliffe’s ‘Three Treatises on the Church,’ recently edited by the Rev. Dr. Todd.”</p>
 <p>Many suggestions have been made by contributors from time to time with a view to increasing the usefulness of Votes and (Queries. Among these was one made by Mr. F. A. Carrington on the 15th of November, 1856, that “‘N. &amp; Q.’ would have great additional value if the contributors of Notes (Queries do not signify) would give their names.” This elicited from “C.” on the 6th of December a reply against the proposal :</p>
 <p>“Those who please may, and many do sign, and others who give no name are as well known as if they did; but, as a general rule the absence of the name is, I am satisfied, best. It tends to brevity it obviates personalities—it allows a freer intercommunication of opinion and criticism.”</p>
@@ -1106,8 +1144,8 @@ In the indexes to the eighth and ninth volumes the plan was adopted of denoting 
 <p>“for the simple reason that he brought to the work persistent industry, earnestness, and an honest spirit of truthfulness; and he delivered no judgment till he was thoroughly satisfied that it was correct on every point, and in no part assailable. But the readers and comtalbehuneel ‘N. &amp; Q.’ do not require to be told of the rare qualities which distinguished Mr. Dilke as a critic. They will be glad to possess the papers which his grandson has collected, and which prove that he stood unrivalled as a master of the art of criticism. honour of possessing his friendship have a loving and undying memory of what Mr. Dilke was as a man. heartily recommend a perusal of the memoir, in which his grandson tells the story of a thoroughly honest man’s honest and useful life.”</p>
 <p>Mr. Thoms then letter from Mr. Dilke to his son, of which he says :—</p>
 <p>“The columns of ‘N. &amp; Q.’ have contained many beautiful letters written by men who now, as the phrase is, ‘belong to history’; but we question if there is one among them all which is so tender and wise.”</p>
-<p>Mr. Dilke’s contributions to <em>Notes and Queries</em> were very large, but as in its pages had, as he said, “as many aliases as an Old Bailey prisoner,” it is difficult to trace some of them. In ‘ Papers of a Critic’ we are helped to a solution. “He nearly always used the initials of the first three words of the heading of his contributions. Suppose, for instance, it was ‘The Carvlls of Ladyholt,’ it would be signed T.C.O.  …</p>
-<p>In the memoir which appears of Mr. Dilke in the ‘ Dictionary of National Biography’ it is stated that “the best comments on his character and his literary work were those of his old friend Thoms in <em>Notes and Queries</em>; and both having been intimately associated with the founding of <em>Notes and QUeries</em>, I have felt what a pleasure it would be to its readers to have the portraits of the two friends omer side by side in this our Jubilee number, and I am certain that such would have been the desire of its founder. I much wished to have given a portrait of Mr. Dilke taken only four years before his death, but, unfortunately, I have to lament, like Mr. Thoms, the faded photographs of old friends.</p>
+<p>Mr. Dilke’s contributions to <em>Notes and Queries</em> were very large, but as in its pages had, as he said, “as many aliases as an Old Bailey prisoner,” it is difficult to trace some of them. In ‘Papers of a Critic’ we are helped to a solution. “He nearly always used the initials of the first three words of the heading of his contributions. Suppose, for instance, it was ‘The Carvlls of Ladyholt,’ it would be signed T.C.O. …</p>
+<p>In the memoir which appears of Mr. Dilke in the ‘Dictionary of National Biography’ it is stated that “the best comments on his character and his literary work were those of his old friend Thoms in <em>Notes and Queries</em>; and both having been intimately associated with the founding of <em>Notes and QUeries</em>, I have felt what a pleasure it would be to its readers to have the portraits of the two friends omer side by side in this our Jubilee number, and I am certain that such would have been the desire of its founder. I much wished to have given a portrait of Mr. Dilke taken only four years before his death, but, unfortunately, I have to lament, like Mr. Thoms, the faded photographs of old friends.</p>
 <p>I will only add just this testimony from myself. No words can express the affection land regard that my father and all of us in our home in Wellington Street had for him.</p>
 <p>The number for the 28th of September, 1872, opens with ‘A Parting Note’ from Mr. Thoms :</p>
 <p>“There is something very solemn in performing any action under the consciousness that it is for the last time.</p>
@@ -1130,17 +1168,17 @@ On which these pearls united shine.’</p>
 <p>Mr. Thoms again appears before the readers of <em>Notes and Queries</em> in the preface to the index to the Fifth Series, as well as in the first number of the Sixth, in which, with an old man’s privilege, he makes sorrowful reference to those contributors who had passed away since he had called the journal into existence some thirty years before :</p>
 <p>“Many of these were dear personal friends, ‘not of the roll of common men.’ Peace to their to honoured memories !</p>
 <p>“Happily for the cause of good earnest inquiry after literary and historical truth, their places have been supplied by worthy successors, as a glance at the contents of this the opening number of our Sixth Series will abundantly testify. It is a number to which the editor may point in every way with justifiable pride, as an evidence of the high esteem in which ‘N &amp; Q.’ is held by men of eminence in literature and position.</p>
-<p>“Long may my offspring occupy the position which it so worthily fills; and long may the contributors to dear old ‘ N. &amp; Q.’ greet each new series as I do this, <em>Floreat! Floreat! Floreat !</em>”</p>
+<p>“Long may my offspring occupy the position which it so worthily fills; and long may the contributors to dear old ‘N. &amp; Q.’ greet each new series as I do this, <em>Floreat! Floreat! Floreat !</em>”</p>
 <p>…</p>
 <p>Saturday the 15th of August, 1885, was a day of deep mourning for <em>Notes and Queries</em>. The kind-hearted, genial scholar, its founder and first editor, was dead. The obituary notice, written by Mr. Knight, which appeared the following week, renders full tribute to his sound learning, his genial fancy and humour, as well as to his social gifts, which caused him to be a favourite in all companies, while his good nature and tact saved him from being mixed up in archeological feuds, and preserved to him throughout his life a record of intimacies and friendships unbroken by a single quarrel.</p>
-<p>Although the daily papers at the time, as well as <em>The Atheneum</em>, gave obituary notices and the ‘Dictionary of National Biography ‘ contains particulars of his life written by Mr. E. Irving Carlyle (how proud he would have been at the constant reference made to ‘N. &amp; Q.’ in its pages!), I have felt that we should have some record to refer to in his own journal.</p>
+<p>Although the daily papers at the time, as well as <em>The Atheneum</em>, gave obituary notices and the ‘Dictionary of National Biography’ contains particulars of his life written by Mr. E. Irving Carlyle (how proud he would have been at the constant reference made to ‘N. &amp; Q.’ in its pages!), I have felt that we should have some record to refer to in his own journal.</p>
 <p>Mr. William John Thoms was born on the 16th of November, 1803, so that he was the junior of his friend Mr. Dilke by fourteen years. He was the son of Nathaniel Thoms, who had been for many years a clerk in the Treasury. Mr. T. C. Noble, in ‘N. &amp; Q’ of the 17th of October, 1885, records that a curious error was made in the register of his baptism in St. Margaret’s Church, Westminster, December 15th, 1803, in which his name is given as simply “John Thoms, son of Nathaniel by Ruth Ann, [born] November 16.” This was corrected in 1857 by a sworn atftidavit before Mr. Arnold, the magistrate, and at the foot of the page was then written, “This should be William John Thoms, according to the declaration of Mary Ann Thoms annexed hereto Mercer Davies, curate, June 5, 1857.” Mr. Thoms was for twenty years in the Secretary’s Office at Chelsea Hospital, and in 1845, on account of the great railway pressure, additional clerks being required for the service of the House of Lords, Mr. Thoms was appointed to a clerkship, and was for many years head of the Printed Paper Office, where, The Athenaeum says, his literary knowledge and research soon became known, and it was not long before he</p>
 <p>“had drawn to his room for unofficial purposes the great lawyers and politicians of the recent past, Lord Brougham, Lord Lyndhurst, and Lord Campbell; the eminent historians Lord Macaulay and Earl Stanhope; and to these may be added the names of the Earl of Ellenborough, Lord Broughton but a complete list would include most of the distinguished names among the members of the Upper House.”</p>
 <p>As early as 1838 he was elected a fellow of the Society of Antiquaries, in the work of which he took an active part, and did his best to prevent the election for membership of those who, with only a superficial knowledge, sought to add the distinction of F.S.A. to their names.</p>
 <p>In the same year he was appointed secretary of the Camden Society, which position he held for thirty-five years. In 1863 Mr. Thoms was appointed Deputy Librarian of the House of Lords; this post, in consequence of old age, he resigned in 1882.</p>
-<p>Mr. Thoms’s first work, ‘Early Prose Romances,’ was published in 1827-28, followed in 1834 by ‘Lays and Legends of Various Nations’, issued in monthly parts at half-a-crown, Mr. Thoms choosing for his motto the words of Sir John Malcolm, “He who desires to be well acquainted with a people will not reject their popular stories or local superstitions.” In 1838 he wrote ‘The Book of the Court, giving the Origin, Duties, and Privileges  of the Nobility and of the Officers of State.’ And in 1845, to show that he was not always engaged on historic doubts, under the title of ‘Gammer Gurton’s Pleasant Stories’ he published a delightful little Christmas book for children, beautifully illustrated, and printed by the Chiswick Press. The book is inscribed by Ambrose Merton, Gent., F.S.A., who, “in all hearty good will and affection, dedicates these world-renowned Stories to the Parents and Children of Merrie England.” He also completed an edition of Stow’s ‘Survey of London’ and various other works, among these two volumes of ‘Choice Notes from <em>Notes and Queries</em>: History and Folk-Lore,’ 1858 and 1859, long since out of print. Thoms also published three notelets on Shakespeare, articles from <em>Notes and Queries</em>, and a book on ‘ The Longevity of Man, its Facts and its Fictions’. In my much valued copy the author has written “With the writer’s best regards.” The publisher of this was his friend and an old contributor, Mr. F. Norgate. In <em>Notes and Queries</em>, February 20th, 1875, appears a note by my father of ‘ A Centenarian’ known to him, Mrs. Coxeter, of Newbury, born at Witney February 1st, 1775, had just celebrated her hundredth Her death recorded in ‘N. &amp; Q.’ of December 2nd in the following year, and Mr. Thoms acknowledges the claim to be “well authenticated.” The two friends would now and then have some fun over this when Mr. Thoms would put on his inimitable smile and say, “Ah! Mr. Francis, your friend must have been born in a Witney blanket.” <code class="docutils literal notranslate"><span class="pre">[Mrs.</span> <span class="pre">Coxeter's</span> <span class="pre">husband</span> <span class="pre">was</span> <span class="pre">the</span> <span class="pre">proprietor</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Greenham</span> <span class="pre">Mills,</span> <span class="pre">and</span> <span class="pre">it</span> <span class="pre">was</span> <span class="pre">at</span> <span class="pre">these</span> <span class="pre">mills</span> <span class="pre">that</span> <span class="pre">the</span> <span class="pre">celebrated</span> <span class="pre">Throckmorton</span> <span class="pre">coat</span> <span class="pre">was</span> <span class="pre">made</span> <span class="pre">in</span> <span class="pre">one</span> <span class="pre">day,</span> <span class="pre">the</span> <span class="pre">sheep</span> <span class="pre">being</span> <span class="pre">shorn</span> <span class="pre">at</span> <span class="pre">five</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">morning,</span> <span class="pre">the</span> <span class="pre">wool</span> <span class="pre">made</span> <span class="pre">into</span> <span class="pre">cloth,</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">coat</span> <span class="pre">completed</span> <span class="pre">so</span> <span class="pre">as</span> <span class="pre">to</span> <span class="pre">be</span> <span class="pre">worn</span> <span class="pre">by</span> <span class="pre">Sir</span> <span class="pre">John</span> <span class="pre">Throckmorton</span> <span class="pre">the</span> <span class="pre">same</span> <span class="pre">evening.</span> <span class="pre">The</span> <span class="pre">coat,</span> <span class="pre">with</span> <span class="pre">a</span> <span class="pre">print</span> <span class="pre">illustrating</span> <span class="pre">the</span> <span class="pre">event,</span> <span class="pre">was</span> <span class="pre">shown</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">Exhibition</span> <span class="pre">of</span> <span class="pre">1851,</span> <span class="pre">Mr.</span> <span class="pre">Coxeter's</span> <span class="pre">son,</span> <span class="pre">whose</span> <span class="pre">friendship</span> <span class="pre">I</span> <span class="pre">still</span> <span class="pre">enjoy.</span> <span class="pre">presented</span> <span class="pre">a</span> <span class="pre">copy</span> <span class="pre">of</span> <span class="pre">this</span> <span class="pre">print</span> <span class="pre">to</span> <span class="pre">Mr.</span> <span class="pre">Gladstone,</span> <span class="pre">who</span> <span class="pre">was</span> <span class="pre">greatly</span> <span class="pre">interested</span> <span class="pre">in</span> <span class="pre">it.]</span></code></p>
+<p>Mr. Thoms’s first work, ‘Early Prose Romances,’ was published in 1827-28, followed in 1834 by ‘Lays and Legends of Various Nations’, issued in monthly parts at half-a-crown, Mr. Thoms choosing for his motto the words of Sir John Malcolm, “He who desires to be well acquainted with a people will not reject their popular stories or local superstitions.” In 1838 he wrote ‘The Book of the Court, giving the Origin, Duties, and Privileges of the Nobility and of the Officers of State.’ And in 1845, to show that he was not always engaged on historic doubts, under the title of ‘Gammer Gurton’s Pleasant Stories’ he published a delightful little Christmas book for children, beautifully illustrated, and printed by the Chiswick Press. The book is inscribed by Ambrose Merton, Gent., F.S.A., who, “in all hearty good will and affection, dedicates these world-renowned Stories to the Parents and Children of Merrie England.” He also completed an edition of Stow’s ‘Survey of London’ and various other works, among these two volumes of ‘Choice Notes from <em>Notes and Queries</em>: History and Folk-Lore,’ 1858 and 1859, long since out of print. Thoms also published three notelets on Shakespeare, articles from <em>Notes and Queries</em>, and a book on ‘The Longevity of Man, its Facts and its Fictions’. In my much valued copy the author has written “With the writer’s best regards.” The publisher of this was his friend and an old contributor, Mr. F. Norgate. In <em>Notes and Queries</em>, February 20th, 1875, appears a note by my father of ‘A Centenarian’ known to him, Mrs. Coxeter, of Newbury, born at Witney February 1st, 1775, had just celebrated her hundredth Her death recorded in ‘N. &amp; Q.’ of December 2nd in the following year, and Mr. Thoms acknowledges the claim to be “well authenticated.” The two friends would now and then have some fun over this when Mr. Thoms would put on his inimitable smile and say, “Ah! Mr. Francis, your friend must have been born in a Witney blanket.” <code class="docutils literal notranslate"><span class="pre">[Mrs.</span> <span class="pre">Coxeter's</span> <span class="pre">husband</span> <span class="pre">was</span> <span class="pre">the</span> <span class="pre">proprietor</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Greenham</span> <span class="pre">Mills,</span> <span class="pre">and</span> <span class="pre">it</span> <span class="pre">was</span> <span class="pre">at</span> <span class="pre">these</span> <span class="pre">mills</span> <span class="pre">that</span> <span class="pre">the</span> <span class="pre">celebrated</span> <span class="pre">Throckmorton</span> <span class="pre">coat</span> <span class="pre">was</span> <span class="pre">made</span> <span class="pre">in</span> <span class="pre">one</span> <span class="pre">day,</span> <span class="pre">the</span> <span class="pre">sheep</span> <span class="pre">being</span> <span class="pre">shorn</span> <span class="pre">at</span> <span class="pre">five</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">morning,</span> <span class="pre">the</span> <span class="pre">wool</span> <span class="pre">made</span> <span class="pre">into</span> <span class="pre">cloth,</span> <span class="pre">and</span> <span class="pre">the</span> <span class="pre">coat</span> <span class="pre">completed</span> <span class="pre">so</span> <span class="pre">as</span> <span class="pre">to</span> <span class="pre">be</span> <span class="pre">worn</span> <span class="pre">by</span> <span class="pre">Sir</span> <span class="pre">John</span> <span class="pre">Throckmorton</span> <span class="pre">the</span> <span class="pre">same</span> <span class="pre">evening.</span> <span class="pre">The</span> <span class="pre">coat,</span> <span class="pre">with</span> <span class="pre">a</span> <span class="pre">print</span> <span class="pre">illustrating</span> <span class="pre">the</span> <span class="pre">event,</span> <span class="pre">was</span> <span class="pre">shown</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">Exhibition</span> <span class="pre">of</span> <span class="pre">1851,</span> <span class="pre">Mr.</span> <span class="pre">Coxeter's</span> <span class="pre">son,</span> <span class="pre">whose</span> <span class="pre">friendship</span> <span class="pre">I</span> <span class="pre">still</span> <span class="pre">enjoy.</span> <span class="pre">presented</span> <span class="pre">a</span> <span class="pre">copy</span> <span class="pre">of</span> <span class="pre">this</span> <span class="pre">print</span> <span class="pre">to</span> <span class="pre">Mr.</span> <span class="pre">Gladstone,</span> <span class="pre">who</span> <span class="pre">was</span> <span class="pre">greatly</span> <span class="pre">interested</span> <span class="pre">in</span> <span class="pre">it.]</span></code></p>
 <p>Mr. Thoms in a letter addressed to Prof. Owen, entitled ‘Exceptional Longevity,’ published in 1879, tells the origin of his investigations. For the first twelve months after he had started <em>Notes and Queries</em> he used to insert, without the slightest doubt as to their accuracy, all the various cases of exceptional longevity which were sent to him. Mr. Dilke would good naturedly quiz him on his fondness “for the big gooseberry style of communications,” so that when Sir George C. Lewis sent to him a paper on ‘Centenarians’ (3rd S. i. 281) his mind was prepared to go into the question. Mr. Thoms was a great rambler among the —— bookstalls, and in this “bookstalling” he and his friend Mr. Dilke were friendly rivals. Mr. Dilke on one occasion wrote to him, “Chancery Lane is my own manor, regularly haunted every Friday, and it is not to be endured that a mere poacher shall shake my own property in my own face.” The letter is signed “Yours as you behave yourself.”</p>
-<p>Mr. Thoms in his ‘ Gossip of an Old Book Worm’, which appeared in the <em>Nineteenth Century</em> in 1881, gives some interesting particulars as to his search for pamphlets and books among the bookstalls, when he would often meet Lord Macaulay on the same errand.</p>
+<p>Mr. Thoms in his ‘Gossip of an Old Book Worm’, which appeared in the <em>Nineteenth Century</em> in 1881, gives some interesting particulars as to his search for pamphlets and books among the bookstalls, when he would often meet Lord Macaulay on the same errand.</p>
 <p>Mr. Thoms tells us that he had a love for books from his earliest years, the taste for them being encouraged by his father, who was a diligent reader of the <em>Edinburgh and Quarterly Reviews</em>, his library containing a complete set of each. Being very short sighted, he was not able to join in sports like other boys. “There was only one branch of them in which I was an adept, and in these refined days I almost blush to refer to it. I was said to handle the gloves very nicely.”</p>
 <p>The year 1872 was full of activity for Mr. Thoms. We find him busy investigating ‘Another Historic Doubt’—the death-warrant of Charles I. The numbers for July contain his notes on the subject; these were afterwards reprinted, and rapidly passed through two editions. They were dedicated to one dear to him as a brother—” To the memory of that model of a Christian gentleman and accomplished scholar, my forty years’ friend, John Bruce.” Then came his farewell to ‘N. &amp; Q.’, and only four weeks after his ‘Parting Note’ a banquet was given in his honour. On the 1st of November such an assemblage as is rarely witnessed met at Willis’s Rooms.The chairman was Karl Stanhope, Lord Lyttelton occupied the vice chair, and the company included, among other equally well-known names, the Earl of Verulam, Sir Frederick Pollock, Sir Charles W. Dilke, Sir Edward Smirke, Prof. Owen, Mr. Joseph Durham, R.A., Mr. Shirley Brooks, and Mr John Murray.</p>
 <p>A report of the proceedings is printed on the 9th of November. Earl Stanhope in the course of his speech said that</p>
@@ -1212,15 +1250,17 @@ On which these pearls united shine.’</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notes-and-queries-is-announced">Notes and Queries is Announced</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-early-issues">The Early Issues</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-second-volume">The Second Volume</a></li>
@@ -1286,8 +1326,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

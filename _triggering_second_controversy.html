@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_triggering_second_controversy';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_triggering_second_controversy.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Second Controversy, 1895, Part I" href="_second_controversy_pt_i.html" />
     <link rel="prev" title="The “Folklore” Correspondence, 1892-3" href="_folklore_1892.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-founding-of-the-british-association-for-the-advancement-of-science-1831-2">The Founding of the British Association for the Advancement of Science, 1831-2</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-sixty-fifth-meeting-of-the-british-association-ipswich-september-1895">The Sixty-fifth Meeting of The British Association, Ipswich, September, 1895</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#captain-hinde-s-presentation-on-cannibalism">Captain Hinde’s Presentation “On Cannibalism”</a></li>
@@ -443,7 +481,7 @@ document.write(`
 </div></blockquote>
 <p>The power of such a syndicated approach is then remarked upon:</p>
 <blockquote>
-<div><p>“None of our societies has ever pretended to collect observations of this kind on a regular system, nor to form a national catalogue of the scattered particulars of any one science, accurately detailed; and yet the great value which would attach to such collections of facts, when reduced and analyzed. must often have occurred to the enlightened con- ductors of such institutions; but that which has prevented any single body from venturing on the undertaking, has been the impracticability of carrying it on over so extensive a territory as an entire king- dom. There <em>is</em> a method, however, by which these important objects might be achieved. Were there in every county one or more provincial societies, having some members competent to superintend, and others ready to execute, the observations within definite limits, and were these societies willing to work together under a common plan, the natural history of the country, and all the geographical data of philosophy included within it, might easily he collected in a manner far more perfect than has ever yet been attempted.</p>
+<div><p>“None of our societies has ever pretended to collect observations of this kind on a regular system, nor to form a national catalogue of the scattered particulars of any one science, accurately detailed; and yet the great value which would attach to such collections of facts, when reduced and analyzed. must often have occurred to the enlightened conductors of such institutions; but that which has prevented any single body from venturing on the undertaking, has been the impracticability of carrying it on over so extensive a territory as an entire king- dom. There <em>is</em> a method, however, by which these important objects might be achieved. Were there in every county one or more provincial societies, having some members competent to superintend, and others ready to execute, the observations within definite limits, and were these societies willing to work together under a common plan, the natural history of the country, and all the geographical data of philosophy included within it, might easily he collected in a manner far more perfect than has ever yet been attempted.</p>
 </div></blockquote>
 <p>And the British Association offers itself as the co-ordinating umbrella organisation:</p>
 <blockquote>
@@ -473,7 +511,7 @@ document.write(`
 <blockquote>
 <div><p>THE arrangements for the meeting of the British Association at Ipswich this autumn are making rapid progress. The General Election somewhat interrupted the preparations of the local secretaries, but the excitement being now over, general attention in the locality is again centred on the coming visit of the Association, and great efforts are being made in the town and neighbourhood to ensure the success of the meeting.</p>
 </div></blockquote>
-<p>The report includes a descriptin of the facilities that will be available to the meeting:</p>
+<p>The report includes a description of the facilities that will be available to the meeting:</p>
 <blockquote>
 <div><p>The chief public buildings in the town are just emerging from the hands of the painter and decorator. The reception room will be located in the Town Hall, the council chamber being the room actually set apart for the purpose, whilst the library will be the writing room. The President’s address and the evening discourses will be delivered in the public hall, as will also the lecture to working men. In the matter of Section rooms, the Local Committee will be able to offer the Association very good accommodation, as there are fortunately a number of suitable rooms and halls in the town within a very short distance of each other, and all are close to the reception room. The two halls at the Girls’ High School, which were formerly the New Assembly Rooms, and were used for the reception room and for Section E on the occasion of the Ipswich meeting in 1851, will be allotted to Section A (Mathematical and Physical Science) and Section B (Chemistry). About two hundred yards distant is the Co-operative Hall, in which Section G (Mechanical Science) will meet. Section C (Geology) will be accommodated in the Art Gallery adjoining the Museum. Section D (Zoology) and the new Section K (Botany) will have, respectively, the banquet room and the lodge room at the Masonic Hall. The Lecture Hall, adjoining the Ipswich Institute, will be given over to Section E (Geography), whilst across the street, the Working Men’s College (formerly known as the Old Assembly Rooms) will be set apart for Section H (Anthropology).</p>
 </div></blockquote>
@@ -485,10 +523,10 @@ document.write(`
 <blockquote>
 <div><p>On Monday there will be papers on Cannibalism by Captain Hinde …</p>
 </div></blockquote>
-<p>The abstract for the paper can be seen in the Report of The Sixty-fifth Meeting of The British Association for the Advancement of Science; held at Ipswich Ain Spetember, 1895, <a class="reference external" href="https://archive.org/details/reportofbritisha95brit/page/828/mode/2up">p829-830</a>:</p>
+<p>The abstract for the paper can be seen in the Report of The Sixty-fifth Meeting of The British Association for the Advancement of Science; held at Ipswich Ain September, 1895, <a class="reference external" href="https://archive.org/details/reportofbritisha95brit/page/828/mode/2up">p829-830</a>:</p>
 <blockquote>
 <div><p>On Cannibalism By Captain S. L Hinde</p>
-<p>Captain Hinde, who has been travelling and fighting for some years in the Congo basin, and has therefore had many almost unprecedented opportunities of observing the natives, gave  the following information with regard to cannibalism —</p>
+<p>Captain Hinde, who has been travelling and fighting for some years in the Congo basin, and has therefore had many almost unprecedented opportunities of observing the natives, gave the following information with regard to cannibalism —</p>
 <p>Almost all the races in the Congo Basin practice cannibalism, and though in some parts it is prevented by the presence of white civilisation, in others it seems to be on the increase. An extensive traffic in human flesh prevails in many districts, slaves being kept and sold as an article of food.</p>
 <p>The different tribes have various and horrible methods of preparing the flesh for eating; in some instances, before the death of the victim, certain tribes of the Bangala race themselves acknowledge that they break the arms and legs of the victim, and place the body, thus mutilated and still living, in water for two or three days, on the supposition that this pre-mortem treatment renders the flesh more palatable. There are also distinct tribal preferences for various parts of the body, and it is remarkable that, contrary to an ignorant yet very generally accepted theory, the negro man-eater never eats flesh raw, and certainly takes human flesh as food purely and simply, and not from any religious or superstitious reasons.</p>
 </div></blockquote>
@@ -521,7 +559,7 @@ document.write(`
 </div></blockquote>
 <p>And then a report of a comment from a name we might recognise:</p>
 <blockquote>
-<div><p>Mr. E. S. HARTLAND said that in all probability the earliest form of cannibalism was that of the eating of deceased relatives. This practice extended over bhe greater part of the world, and many people would be surprised to learn that traces of it were to be found, not merely in Europe, but in our own islands. Not very long ago in Upper Bavaria, when a man died and had been laid out, a cake was made of ordinary flour. The corpse was placed before the fire, and this cake, called the corpse cake, was put upon its breast to rise. The dough, in rising, was believed to absorb all the virtues of the deceased, and the cake was afterwards eaten by his nearest relatives. In the Balkan Peniusula an edible image of the dead was carried in the funeral procession. When the body was buried the mourners ate this image above the grave, saying as they did so, “God rest him.”In Wales the practice of employing a “sin-eater” had only ceased within the memory of men still living. It was the custom for the nearest relative, usually a woman, to hand across the bier, or place upon the breast of the corpse, bread, cheese, and beer, which were eaten by the sin-eater, who pronounced everlasting rest to the departed. It was believed that the sin-eater by this means appropriated to himself all the sins which the deceased had committed during his lifetime.</p>
+<div><p>Mr. E. S. HARTLAND said that in all probability the earliest form of cannibalism was that of the eating of deceased relatives. This practice extended over bhe greater part of the world, and many people would be surprised to learn that traces of it were to be found, not merely in Europe, but in our own islands. Not very long ago in Upper Bavaria, when a man died and had been laid out, a cake was made of ordinary flour. The corpse was placed before the fire, and this cake, called the corpse cake, was put upon its breast to rise. The dough, in rising, was believed to absorb all the virtues of the deceased, and the cake was afterwards eaten by his nearest relatives. In the Balkan Peninsula an edible image of the dead was carried in the funeral procession. When the body was buried the mourners ate this image above the grave, saying as they did so, “God rest him.”In Wales the practice of employing a “sin-eater” had only ceased within the memory of men still living. It was the custom for the nearest relative, usually a woman, to hand across the bier, or place upon the breast of the corpse, bread, cheese, and beer, which were eaten by the sin-eater, who pronounced everlasting rest to the departed. It was believed that the sin-eater by this means appropriated to himself all the sins which the deceased had committed during his lifetime.</p>
 </div></blockquote>
 <p>Followed by a couple more comments:</p>
 <blockquote>
@@ -543,7 +581,7 @@ document.write(`
 </div></blockquote>
 <p>An editorial comment in the <em>Western Mail</em> on that same date, <a class="reference external" href="https://newspapers.library.wales/view/4333142/4333146">*September 16th, 1895</a> (indeed, on the very same page, p4) similarly reviewed Hartland’s comments:</p>
 <blockquote>
-<div><p>The interesting discussion which followed Captain Hinde’s paper on cannibalism before the anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in the course of his comments to an old custom which obtained in Wales in times gone by, and which was called “sin-eating.” As late as 1851 traces of it still survived in the Swainsea Valley, and it would he worthwhile inquiring whether they have completely disappeared. The “sin-eater” was the individual who literally “took the cake” at the death of a neighbour, and in consuming it was supposed to “eat” the sins of the deceased.</p>
+<div><p>The interesting discussion which followed Captain Hinde’s paper on cannibalism before the anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in the course of his comments to an old custom which obtained in Wales in times gone by, and which was called “sin-eating.” As late as 1851 traces of it still survived in the Swansea Valley, and it would he worthwhile inquiring whether they have completely disappeared. The “sin-eater” was the individual who literally “took the cake” at the death of a neighbour, and in consuming it was supposed to “eat” the sins of the deceased.</p>
 </div></blockquote>
 <p>The report acknowledges that whilst the passing of certain old traditions may be a loss to some, it also represents progress:</p>
 <blockquote>
@@ -592,7 +630,7 @@ document.write(`
 <p>Readers of the <em>Weekly Mail</em> also had to wait until <a class="reference external" href="https://newspapers.library.wales/view/3370454/3370462/60/">September 21st, 1895, p8</a>:</p>
 <blockquote>
 <div><p>The Week</p>
-<p>The interesting discussion which followed Captain Hinde’s paper on cannibalism before the  anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in, the course of his comments to an old custom which obtained in Wales in times gone by, and which was called “sin-eating.” As late as 1851 traces of it still survived in the Swansea Valley, and it would be worth while inquiring whether they have completely disappeared. The “sin-eater” was the individual who literally “took the cake” at the death of a neighbour, and in consuming it was supposed to “eat” the sins of the deceased. The custom was a relic of barbarism, and shows with what tenacity old beliefs and institutions hold on. The student of man and his ways must feel regret that so many ancient customs and usages have been relegated to oblivion, beyond any possibility of recall. But it was hardly expected that they should have survived in a country like Wales, which has given itself over to the Sunday school and the Bible. It is a mistaken policy, however, to drive out ancient customs, for they form links between the present and the past, and relieve modern social life of much of the monotony which enters into its very texture.</p>
+<p>The interesting discussion which followed Captain Hinde’s paper on cannibalism before the anthropological section of the British Association at Ipswich on Saturday brought to light one or two facts connected with Welsh social life which are entitled to a passing notice. Mr. Hartland, of Gloucester, referred in, the course of his comments to an old custom which obtained in Wales in times gone by, and which was called “sin-eating.” As late as 1851 traces of it still survived in the Swansea Valley, and it would be worth while inquiring whether they have completely disappeared. The “sin-eater” was the individual who literally “took the cake” at the death of a neighbour, and in consuming it was supposed to “eat” the sins of the deceased. The custom was a relic of barbarism, and shows with what tenacity old beliefs and institutions hold on. The student of man and his ways must feel regret that so many ancient customs and usages have been relegated to oblivion, beyond any possibility of recall. But it was hardly expected that they should have survived in a country like Wales, which has given itself over to the Sunday school and the Bible. It is a mistaken policy, however, to drive out ancient customs, for they form links between the present and the past, and relieve modern social life of much of the monotony which enters into its very texture.</p>
 </div></blockquote>
 </div>
 <div class="dropdown admonition">
@@ -674,15 +712,17 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-founding-of-the-british-association-for-the-advancement-of-science-1831-2">The Founding of the British Association for the Advancement of Science, 1831-2</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-sixty-fifth-meeting-of-the-british-association-ipswich-september-1895">The Sixty-fifth Meeting of The British Association, Ipswich, September, 1895</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#captain-hinde-s-presentation-on-cannibalism">Captain Hinde’s Presentation “On Cannibalism”</a></li>
@@ -735,8 +775,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

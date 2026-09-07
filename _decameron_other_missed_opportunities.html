@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_decameron_other_missed_opportunities';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_decameron_other_missed_opportunities.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Interim - 1854-1874" href="_interim.html" />
     <link rel="prev" title="Missed Opportunities, Prior to 1830" href="_missed_opportunities_pre-1830.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-british-magazine-1835">The British Magazine, 1835</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#announcing-the-mountain-decameron">Announcing “The Mountain Decameron”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#joseph-downes-the-mountain-decameron-1836">Joseph Downes’ “The Mountain Decameron”, 1836</a></li>
@@ -484,7 +522,7 @@ THE MOUNTAIN DECAMERON</p>
 <p>To Dr. Edward Hogg, London.</p>
 <p>…</p>
 <p>[p24] I have also commenced fulfilling thy request (which I am aware was but a further mental recipe in disguise) to keep a sort of travelling Diary for thy amusement; to transmit any traditions of a curious nature I might pick up from hoary chroniclers— any of those strange dramas of real life, and village life, often romantic beyond romance, which the obscurity of village annals eternally secludes from popular notice. You suggested also, that I should write some- thing in the shape of a Tour, and I told you — (mind, I perfectly remember that <em>Thou</em> art not more than one man, when I use the plural pronoun, and do not be puffed up therefore) — I told thee that I would do no such thing — I hated Tours (of Wales above all) — I hated Tourists; that they come to mountains as <em>gentlemen</em> travellers; “bring with them airs from” the — <em>hell</em> I had almost said — of pestilent London, and they attract fashionable travellers, all on the hunt for those pastoral and peaceful charms of landscape, which eternally keep yielding up the ghost — losing the very essence of their attractions at the mere presence of their pursuers, and their frivolous retinue of menial followers — the corruption of whose society is strangely rapid among the simpler Welsh folk. Wherein one may liken such lovers of primitive life to the anatomists of Pope’s simile, who,</p>
-<p>“Following life in creatures they dissect,
+<p>“Following life in creatures they dissect,<br />
 “Still lose it in the moment they detect.”</p>
 <p>All this and more I remarked then; but I have come to a sort of compromise between your imposition of a task, and my aversion. What if I try to mingle the Novel with the <em>spirit</em> of a Tour, to <em>print</em> the <em>zest</em> of travelling and petty adventures, in the “breach” of mountains almost meeting, the perils of the green bog, &amp;c.? This mere spirit will amalgamate with such narratives as Welsh domestic history is rich in; nor will you fail to receive some portion of that knowledge of the “natives” which books of travels teach, even from such gossiping and little didactic method; knowledge possibly not the less pleasant for being only incidental.</p>
 <p>[p29] Now, as to the travelling part of my Diary, distinct from the story-telling — I can truly assure thee that there is matter in abundance for rational curiosity, left in Wales, and, what is better, strong vestiges of what we may surely characterise as patriarchal life, if life as rudely simple, yet happy, as that recorded of very early times may be so designated. The <em>secluded</em> Welsh breeder of sheep and tender of cattle, leads a life of solitary wildness truly curious to the curious in man’s nature — one of pastoral peace, if not pastoral vagrancy, that leaves little to the imagination to fill up for that of an ancient man of woolly wealth, or a modern one among the Bedouin Arabs.</p>
@@ -527,11 +565,11 @@ THE MOUNTAIN DECAMERON</p>
 <p>MOUNTAIN DECAMERON-3 VoLs.</p>
 <p>Bentley London, 1836.</p>
 <p>The author of these volumes, a gentleman by name Downes, has, in treating of Welch scenery, manners, customs, legends, broken neatly, if not quite, untrodden ground. Hence his “Mountain Decameron” is full of life and novelty; and will come on the experienced novel-reader quite like a surprise. The stirring legends, and stern, domestic tragedies of homely Welch life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author’s mind—so vivid are the colourings in which he has portrayed them, and so impassioned and truth-like their character. Another recommendation of the “Decameron” is its utter absence of anything like literary tact or mechanism. Mr. Downes has nothing of the practised book-maker about him; he does not wire-draw his incidents; or indulge in melodramatic surprises; but trusts to nature for effect, who—as she always does to those who place a lively faith in her impulses—carries him handsomely through. Our impression on reading these volumes, is that the author is a man of a vigorous and imaginative turn of mind, who thinks for himself, and writes from the promptings of his own heart. But though he possesses much of the poetical temperament, yet strange to say, he makes sad work with his poetry, mistaking mysticism for sublimity, quaintness for fancy, and affectation for feeling. Out of some ten or a dozen poems which are scattered throughout the “Decameron,” we have been able only to discover four good lines, which occur in some stanzas on the Ocean. In justice to Mr. Downes we subjoin them :</p>
-<p>“<em>What knells for broken hearts these waves have tolled!</em>
-<em>Eternal partings sob in this low roar !</em>
-Some hope of hearts which but that one consoled,
+<p>“<em>What knells for broken hearts these waves have tolled!</em><br />
+<em>Eternal partings sob in this low roar!</em><br />
+Some hope of hearts which but that one consoled,<br />
 Thy every night-storm blasts on every shore!”</p>
-<p>The lines marked in italics appear to us eminently beautiful. But if our author’s poetry be indifferent, his prose is quite the reverse. It is bold, rough, and racy, and remarkable for the felicity of its epithets and metaphors. Thus, speaking of a wife who was constantly miserable because her bed was barren, Mr. Downes says of her, that she fancied her husband’s eye “turned coldly on her, and her <em>unoccupied</em> bosom.” A young, enthusiastic scholar in love with an artless Welch girl of good family is described as “feeding in solitude on the white beauty of her idea ;” and a seastorm is thus graphically painted :—“The echoes of the tremendous falls of the broad sea’s sweep, lashing the rock beach on the seaward side of the Great Orme, were like thunderclaps run into one another; and the real thunder of the sky, shut up by clouds as by mighty folding doors hung with mourning, already came groaning from the distance.” In sketching scenery, our author evidently takes Crabbe for his model; as the following extract which has all his force and literalness will show: “On each side, a marbled expanse of the finest sand stretches away <em>yellowing</em> in the gold light of a summer morning. No horrid depth of black mud (half smothering you in imagination with its mere look) here scowls on the retrocession of the sea. As we stand on the edge of the sea-river, a crowd of mountain tops is in lofty distance before us, rolled up yet in a night of their own, but <em>grimly</em> yielding to the broad morning laugh of the whole sea firmament, of June blue. Close beside us, all is home-felt beauty. The little ferry-house, the pattering of a sea at play with real green banks; all that a quiet eye can desire, to transmit a sympathetic quietude to the heart, in the way of scenery, is here. Meadows, a little marsh ground, wild wood, and green sward heights, lowing cows, bleating lambs, <em>singing bare-foot girls among them all</em>, and that smiling, heaving, half sea, half river, are all that meet eye or ear.”</p>
+<p>The lines marked in italics appear to us eminently beautiful. But if our author’s poetry be indifferent, his prose is quite the reverse. It is bold, rough, and racy, and remarkable for the felicity of its epithets and metaphors. Thus, speaking of a wife who was constantly miserable because her bed was barren, Mr. Downes says of her, that she fancied her husband’s eye “turned coldly on her, and her <em>unoccupied</em> bosom.” A young, enthusiastic scholar in love with an artless Welch girl of good family is described as “feeding in solitude on the white beauty of her idea;” and a seastorm is thus graphically painted:—“The echoes of the tremendous falls of the broad sea’s sweep, lashing the rock beach on the seaward side of the Great Orme, were like thunderclaps run into one another; and the real thunder of the sky, shut up by clouds as by mighty folding doors hung with mourning, already came groaning from the distance.” In sketching scenery, our author evidently takes Crabbe for his model; as the following extract which has all his force and literalness will show: “On each side, a marbled expanse of the finest sand stretches away <em>yellowing</em> in the gold light of a summer morning. No horrid depth of black mud (half smothering you in imagination with its mere look) here scowls on the retrocession of the sea. As we stand on the edge of the sea-river, a crowd of mountain tops is in lofty distance before us, rolled up yet in a night of their own, but <em>grimly</em> yielding to the broad morning laugh of the whole sea firmament, of June blue. Close beside us, all is home-felt beauty. The little ferry-house, the pattering of a sea at play with real green banks; all that a quiet eye can desire, to transmit a sympathetic quietude to the heart, in the way of scenery, is here. Meadows, a little marsh ground, wild wood, and green sward heights, lowing cows, bleating lambs, <em>singing bare-foot girls among them all</em>, and that smiling, heaving, half sea, half river, are all that meet eye or ear.”</p>
 </div></blockquote>
 <p>The review then continues, at some length…</p>
 <div class="dropdown admonition">
@@ -548,7 +586,7 @@ Thy every night-storm blasts on every shore!”</p>
 <blockquote>
 <div><p>LITERARY NOTICES.</p>
 <p>“THE MOUNTAIN DECAMERON.”</p>
-<p>These volumes contain much that is clever and original. They profess to embody in a series of Tales the popular habits, customs, superstitions, and modes of thinking of the Welsh.  We have no time for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.</p>
+<p>These volumes contain much that is clever and original. They profess to embody in a series of Tales the popular habits, customs, superstitions, and modes of thinking of the Welsh. We have no time for present analysis, and our extracts are taken almost at random, and have reference rather to that which is incidentally spoken, than to the staple commodity of the work.</p>
 <p>The author laments in a note, and with some shew of justice, the indifference of the Welsh Gentry to their National Literature.</p>
 <p>“With a thousand apologies to the <em>higher orders</em> of Welsh, it must be owned that this can the modern gentleman of Wales. The ruins that peep on his path, the dark hints of past tragic events, that, even in the common names of places, his familiar haunts, in the business of hunting and shooting, “implore the passing tribute of it in vain! The lightest, most tasteful antiquarianism, is heavy and vapid midst the excitement of the chase, or other excitements more fatal to health.”</p>
 </div></blockquote>
@@ -568,7 +606,7 @@ Thy every night-storm blasts on every shore!”</p>
 <p>Meanwhile, the Morning Post keeps plugging away, as on <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18360620/040/0007">Monday 20 June 1836</a>:</p>
 <blockquote>
 <div><p>The Mountain Decameron, a Romance of North Wales.—</p>
-<p>The author of these volumes has, in treating of Welsh scenery, manners, customs, legends, &amp;c., broken nearly, if not quite, untrodden ground. Hence his “Mountain Decameron” is full of life and novelty, and will come on the experienced novel reader quite like a surprise.  The stirring native legends and stern domestic tragedies of homely Welsh life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author’s mind, so vivid are the colourings in which he has portrayed them, and so impassioned and truth-like their character. We have observed that Mr. Downes is a superior landscape painter, but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as, in more than one instance, we ourselves can testify.— <em>Sun.</em></p>
+<p>The author of these volumes has, in treating of Welsh scenery, manners, customs, legends, &amp;c., broken nearly, if not quite, untrodden ground. Hence his “Mountain Decameron” is full of life and novelty, and will come on the experienced novel reader quite like a surprise. The stirring native legends and stern domestic tragedies of homely Welsh life, which form the staple of his volumes, would seem to have been penned on the spot, while the feelings which they called forth were yet fresh in the author’s mind, so vivid are the colourings in which he has portrayed them, and so impassioned and truth-like their character. We have observed that Mr. Downes is a superior landscape painter, but his sketches have this additional recommendation, that they are remarkable for their strict accuracy, as, in more than one instance, we ourselves can testify.— <em>Sun.</em></p>
 </div></blockquote>
 <p>The <em>English Chronicle and Whitehall Evening Post</em> also provides a short review on <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0002631/18360623/052/0008">Thursday 23 June 1836</a>:</p>
 <blockquote>
@@ -586,7 +624,7 @@ Thy every night-storm blasts on every shore!”</p>
 <p>If we consider these persons as probably not less believers than those who employed them, it is not easy to imagine a condition of the mind more terrific, desolate, and desperate, than theirs; thus more and more removed from the hope of mercy with every death, and assurance of perdition doubly sure.</p>
 <blockquote>
 <div><p>A gentleman who lived a little before the time of this dark superstition becoming obsolete, gives us this brief account of what is believed to have been the last “Sin-Eater of Wales”.</p>
-<p>“I got lost,” says he, “near nightfall, after being landed by the ferry-boat from the Aber of Dovey, on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was to gain that between Penyboat village and Machynlleth town. I was cautioned to ride far round this pitchy morass, for no horse ever ventured among the peat pits -the whole being a quaking morass. In truth its look was enough, under a black evening, to keep me off, even without peril of being swallowed, man and horse. It forms a great brown-black triangle of land, without a tree, or any vegetation but patches of gorse. Yet the piles of <em>mawn</em>, (all fetched a way by persons on foot) diversified the dismalness with a sort of low walls, and between was gleaming of some water, from the many holes whence it is dug. Till the moon went down, which lit me a space, I could just distinguish these dismal pools and cuts like canals, by its glimmer. I never saw ought so dismal in my own country as this great turbarv of hollow ground looked, a huge green-roofed pit, the pitchy mud thus betraying itself every where, as the large moon, looking red as blood in a foul fog stagnating all over it, took leave of it, and its brown grew browner, and that browner black, till the last to be seen was one horrid blackness, where nothing lived, and nothing was heard but the low roar of the sea washing it on two sides, like the hum of some great city. That deep-voiced murmur of the sea so sounding like a thousand voices, made it more shocking to look upon, the space between, as dumb as a great grave. More than once I thought a light glimmered in the very midst, but I took it for the Jack-a-lantern, if not something worse, for I had heard of Wreckers, and there had been a shipwreck, the weather wild, and even the day had been hardly light.</p>
+<p>“I got lost,” says he, “near nightfall, after being landed by the ferry-boat from the Aber of Dovey, on the Cardiganshire side of that estuary. A black turbary of great extent divided me from the road. I was to gain that between Penyboat village and Machynlleth town. I was cautioned to ride far round this pitchy morass, for no horse ever ventured among the peat pits -the whole being a quaking morass. In truth its look was enough, under a black evening, to keep me off, even without peril of being swallowed, man and horse. It forms a great brown-black triangle of land, without a tree, or any vegetation but patches of gorse. Yet the piles of <em>mawn</em>, (all fetched a way by persons on foot) diversified the dismalness with a sort of low walls, and between was gleaming of some water, from the many holes whence it is dug. Till the moon went down, which lit me a space, I could just distinguish these dismal pools and cuts like canals, by its glimmer. I never saw ought so dismal in my own country as this great turbary of hollow ground looked, a huge green-roofed pit, the pitchy mud thus betraying itself every where, as the large moon, looking red as blood in a foul fog stagnating all over it, took leave of it, and its brown grew browner, and that browner black, till the last to be seen was one horrid blackness, where nothing lived, and nothing was heard but the low roar of the sea washing it on two sides, like the hum of some great city. That deep-voiced murmur of the sea so sounding like a thousand voices, made it more shocking to look upon, the space between, as dumb as a great grave. More than once I thought a light glimmered in the very midst, but I took it for the Jack-a-lantern, if not something worse, for I had heard of Wreckers, and there had been a shipwreck, the weather wild, and even the day had been hardly light.</p>
 <p>“At last, thanks to my stars, the good hard rock of a rough road rung to my horse’s hoof, and I saw a pleasant cottage taper instead of that will-o’-wisp of the black bog, which was as ghastly as the Canwyll Corph, the corpse-candle, carried by a figure of one (as these Welsh say,) whose own burial will soon take place, in the spot it vanishes at. The house was on a high point and turn of road, overlooking all those many acres of hollow ground. Just as I came up, hoping lodging, I heard sounds of wailing within and soon a woman came out into the dead night, late as it was, and cried a name to the top pitch of her wild voice, that seemed one I had heard weeping indoors. When I looked in, there lay a corpse of a man, with a plate of salt holding a bit of bread, placed on its breast. The woman was shouting to the Sin-Eater to come and do his office-that is, to eat the bread, lay his hand on the dead breast, place the dead man’s on his own, after making a sign of the Cross, and then praying for a transfer of whatever pains or penances in fire or “thick-ribbed ice,” or molten lead, or what beside monastic belief attached to the perdition of tormented souls, from that pardoned dead man for ever, to him that more than dead alive, himself in his death of soul, but not of its pains, for ever and for ever.”</p>
 <p>This is the traveller’s account of this incident.</p>
 <p>He had the curiosity to wait, and saw at last the motion of what seemed a foggy meteor moving toward their standing point. After waiting long, he caught a far-out shout in reply to the woman’s long unanswered, till she kindled on the high road’s point the straw of her husband’s late bed—the usual signal of a death in the house.</p>
@@ -734,15 +772,17 @@ In mourning-coaches when the funeral’s done.”</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-british-magazine-1835">The British Magazine, 1835</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#announcing-the-mountain-decameron">Announcing “The Mountain Decameron”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#joseph-downes-the-mountain-decameron-1836">Joseph Downes’ “The Mountain Decameron”, 1836</a></li>
@@ -800,8 +840,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

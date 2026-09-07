@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = '_baring_gould_guavas';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://sineater.montystoryteller.org/_baring_gould_guavas.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="The Century Ends" href="century_ends.html" />
     <link rel="prev" title="Second Controversy, Last Gasp, April-May, 1896" href="_second_controversy_pt_iv.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -239,9 +280,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -324,7 +370,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -338,25 +384,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -378,7 +416,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#guavas-the-tinner-extracts">Guavas the Tinner, Extracts</a></li>
 </ul>
             </nav>
@@ -460,8 +498,8 @@ document.write(`
 <p>“An’ what a gude man he wor — the Cap’n; so gude to the poor,” said another. “I mind when her (he) gi’ed me as much rishes (rushes) cut by hisself as iver I wanted for my datchin, and he wor that charitable when her killed a sheep, her sent me the pluck. May he be received into glory — and bide there.”</p>
 <p>“And,” threw in the first, “well he may be given to glory, when everything as he cu’d wish for in heaven and airth is provided reg’lar. Here be a strange man come in as’ll take all his sins away as might ha’ made a bit o’ a difficulty wi’ the porter to Heaven’s gates. Will ye now just stand there?” she asked, signing to Guavas.</p>
 <p>The miner, unwilling to object to anything that might be asked of him, answered: “I will do what is required, but I demand first that I may be directed on my way to Yealm Steps. I have a long stretch of moor to make this night.”</p>
-<p>“Well,” said the same woman in reply, ‘’ us’ll take care for that. For sure certain the little maid can guide’y to Childe’s Cross, and from there you can get along o’ your self. But first you must eat the soul-cake, and so tak’ the dead man’s sins on ye. ‘Taint a terrible lot — he were a main gude man.”
-The woman took up a broad saffron cake that lay on the dead man’s breast, broke it, and passed it across the coffin to Guavas.</p>
+<p>“Well,” said the same woman in reply, “us’ll take care for that. For sure certain the little maid can guide’y to Childe’s Cross, and from there you can get along o’ your self. But first you must eat the soul-cake, and so tak’ the dead man’s sins on ye. ‘Taint a terrible lot — he were a main gude man.”</p>
+<p>The woman took up a broad saffron cake that lay on the dead man’s breast, broke it, and passed it across the coffin to Guavas.</p>
 <p>He received the portion and ate some mouthfuls, whilst all the company looked on in silence. Then the same woman passed to him a bowl of spirits across the coffin, and Guavas gratefully drank it. When he had done, all present raised a cry, and threw at him sticks, cinders, whatever they could lay hold of, and he was hustled on all sides and thrust out of the door.</p>
 <p>“He has taken on him the sins o’ the dead! Cast’n out!” was the general cry. <code class="docutils literal notranslate"><span class="pre">[The</span> <span class="pre">custom</span> <span class="pre">of</span> <span class="pre">&quot;sin-eating&quot;</span> <span class="pre">was</span> <span class="pre">still</span> <span class="pre">practised</span> <span class="pre">in</span> <span class="pre">Aubrey's</span> <span class="pre">time</span> <span class="pre">in</span> <span class="pre">Herefordshire</span> <span class="pre">and</span> <span class="pre">Shropshire,</span> <span class="pre">and</span> <span class="pre">was</span> <span class="pre">only</span> <span class="pre">then</span> <span class="pre">expiring</span> <span class="pre">in</span> <span class="pre">Wales</span> <span class="pre">where</span> <span class="pre">it</span> <span class="pre">had</span> <span class="pre">been</span> <span class="pre">universal.</span> <span class="pre">The</span> <span class="pre">&quot;Soul-cakes&quot;</span> <span class="pre">remained</span> <span class="pre">in</span> <span class="pre">use</span> <span class="pre">elsewhere,</span> <span class="pre">after</span> <span class="pre">their</span> <span class="pre">significance</span> <span class="pre">had</span> <span class="pre">been</span> <span class="pre">lost</span> <span class="pre">There</span> <span class="pre">is</span> <span class="pre">no</span> <span class="pre">direct</span> <span class="pre">evidence</span> <span class="pre">that</span> <span class="pre">&quot;sin-eating&quot;</span> <span class="pre">was</span> <span class="pre">practised</span> <span class="pre">in</span> <span class="pre">Devon,</span> <span class="pre">but</span> <span class="pre">certain</span> <span class="pre">indications</span> <span class="pre">point</span> <span class="pre">in</span> <span class="pre">that</span> <span class="pre">direction,</span> <span class="pre">and</span> <span class="pre">as</span> <span class="pre">the</span> <span class="pre">race</span> <span class="pre">occupying</span> <span class="pre">Cornwall</span> <span class="pre">and</span> <span class="pre">a</span> <span class="pre">part</span> <span class="pre">of</span> <span class="pre">Devon</span> <span class="pre">was</span> <span class="pre">identical</span> <span class="pre">with</span> <span class="pre">that</span> <span class="pre">in</span> <span class="pre">Wales,</span> <span class="pre">it</span> <span class="pre">is</span> <span class="pre">probable</span> <span class="pre">that</span> <span class="pre">this</span> <span class="pre">singular</span> <span class="pre">custom</span> <span class="pre">was</span> <span class="pre">atone</span> <span class="pre">time</span> <span class="pre">common</span> <span class="pre">there</span> <span class="pre">likewise.</span> <span class="pre">I</span> <span class="pre">have</span> <span class="pre">ventured</span> <span class="pre">to</span> <span class="pre">suppose</span> <span class="pre">that</span> <span class="pre">it</span> <span class="pre">was</span> <span class="pre">lingering</span> <span class="pre">on</span> <span class="pre">at</span> <span class="pre">the</span> <span class="pre">period</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">reign</span> <span class="pre">of</span> <span class="pre">Queen</span> <span class="pre">Elizabeth,</span> <span class="pre">in</span> <span class="pre">such</span> <span class="pre">a</span> <span class="pre">remote</span> <span class="pre">and</span> <span class="pre">isolated</span> <span class="pre">region</span> <span class="pre">as</span> <span class="pre">Dartmoor.</span> <span class="pre">For</span> <span class="pre">an</span> <span class="pre">account</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">custom,</span> <span class="pre">see</span> <span class="pre">Aubrey,</span> <span class="pre">&quot;Remains</span> <span class="pre">of</span> <span class="pre">Gentilisme</span> <span class="pre">and</span> <span class="pre">Judaisme&quot;</span> <span class="pre">(Folk</span> <span class="pre">Lore</span> <span class="pre">Society,</span> <span class="pre">1881);</span> <span class="pre">also</span> <span class="pre">Leland's</span> <span class="pre">&quot;Collectanea,&quot;</span> <span class="pre">quoted</span> <span class="pre">by</span> <span class="pre">Brand,</span> <span class="pre">&quot;Popular</span> <span class="pre">Antiquities,&quot;</span> <span class="pre">ii.</span> <span class="pre">246,</span> <span class="pre">Bohn's</span> <span class="pre">Edition.]</span></code></p>
 </div>
@@ -493,7 +531,7 @@ The woman took up a broad saffron cake that lay on the dead man’s breast, brok
 <p>…</p>
 <p>“I am not ungrateful for what you have done for me,” answered Guavas.” I was a stranger and ye took me in. I was sick and ye ministered to me. I shall never do other than what is for your profit. The tin is yours, and I will account to you for every ounce. I will work as your man, and you shall pay me wage, if you will, till this entire accumulation is smelted up. All I ask is that you will suffer me to do — what I have a right to do — range the country and seek out the place whence your husband got all these pieces. The place at Yealm Steps is lost to me. I have too many enemies there to seek the same grounds again, and moreover it will all have been spoiled. I must find fresh quarters.”</p>
 <p>Joan Ford was uneasy and disconcerted.</p>
-<p>“Let us consider that another time,” she said. ‘’ Now think only of the blowing house.”</p>
+<p>“Let us consider that another time,” she said. “Now think only of the blowing house.”</p>
 <p>“That will not be a hard matter,” said he. “You have one already below you, at the sweep of the river —”</p>
 <p>“What, Lower Swancombe?”</p>
 <p>“I do not know its name, but there are very ancient workings there, and among them the ruins of a blowing house, small, but sufficient; and I shall have to restore the furnace, and roof the building, and with small trouble I can put up a wheel and have a blast.’</p>
@@ -511,7 +549,7 @@ The woman took up a broad saffron cake that lay on the dead man’s breast, brok
 <p>“It is no idle fancy, and thou hast no occasion to mock,” retorted Joan Ford; “of that thou mayst judge for thyself, for on thee has fallen the consequence of his sin.”</p>
 <p>“What consequence?”</p>
 <p>“What has been on thee ever since that night save the enmity of Dickon Rawle? Wherefore has that come?”</p>
-<p>“That is easily answered. I quarrelled with him at Crockern Stannary Hall, and for that reason and through envy at my fancied success, and the gall of malice that lies in the grounds of his mean heart, he stirred up a false charge against me of having defrauded the Queen, and obtained my punishment by the overbearing might of the bailiff, Rodda, and then “</p>
+<p>“That is easily answered. I quarrelled with him at Crockern Stannary Hall, and for that reason and through envy at my fancied success, and the gall of malice that lies in the grounds of his mean heart, he stirred up a false charge against me of having defrauded the Queen, and obtained my punishment by the overbearing might of the bailiff, Rodda, and then…”</p>
 <p>“Aye, and then — thou didst set thy wolf at his throat.”</p>
 <p>“I appealed to the judgment of God against the lawless judgment of men.”</p>
 <p>“Twice has Dickon Rawle sought thy life, and twice hast thou been delivered. But let me tell thee that deep under all fancied wrongs, such as revenge stirred by a brawl and envy of thy success, lies a real wrong. I must e’en speak the truth to thee; as thou hast stepped in ankle deep, thou must go further over knee and know all. Dickon must follow thee, and seek thy life, not for that he covets thy tin but for that his brother Roger was killed and his blood is unavenged.”</p>
@@ -592,15 +630,17 @@ The woman took up a broad saffron cake that lay on the dead man’s breast, brok
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#guavas-the-tinner-extracts">Guavas the Tinner, Extracts</a></li>
 </ul>
   </nav></div>
@@ -650,8 +690,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>
