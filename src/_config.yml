@@ -16,4 +16,8 @@ sphinx:
   config:
     html_copy_source: false
     bibtex_reference_style: author_year
+    html_baseurl: https://sineater.montystoryteller.org/
+    sitemap_url_scheme: "{link}"
+    sitemap_locales: [null]
   extra_extensions:
+    - sphinx_sitemap
