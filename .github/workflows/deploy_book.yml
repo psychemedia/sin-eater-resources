@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install "jupyter-book<2" ou-jupyter-book-tools sphinx-sitemap
+        pip install "jupyter-book<2" ou-jupyter-book-tools sphinx-sitemap sphinx-book-theme==1.2.0
     # Build the book
     - name: Build the book
       run: |
